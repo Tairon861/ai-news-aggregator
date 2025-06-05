@@ -1,0 +1,33 @@
+name: RSS Aggregator
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install feedparser feedgen pytz
+    
+    - name: Run aggregator
+      run: python aggregate.py
+    
+    - name: Commit and push
+      run: |
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
+        git add feed.xml
+        git commit -m "Update aggregated feed" || echo "No changes"
+        git push
