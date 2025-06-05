@@ -1,3 +1,5 @@
+print("Script started!")
+
 import feedparser
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
