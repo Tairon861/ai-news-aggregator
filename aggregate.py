@@ -5,6 +5,34 @@ import pytz
 import time
 
 # Your RSS feeds
+
+def is_content_truncated(content):
+    """Check if content appears to be truncated"""
+    if not content:
+        return True
+    
+    # Common truncation indicators
+    truncation_signs = [
+        '[...]',
+        '...',
+        'Read more',
+        'Continue reading',
+        '…',
+        '[&#8230;]',
+        '... [read more]'
+    ]
+    
+    # Check if content is suspiciously short
+    if len(content) < 500:
+        return True
+    
+    # Check for truncation indicators at the end
+    content_lower = content.lower().strip()
+    for sign in truncation_signs:
+        if content_lower.endswith(sign.lower()):
+            return True
+    
+    return False
 FEEDS = [
     # AI Companies
     'https://openai.com/blog/rss.xml',
