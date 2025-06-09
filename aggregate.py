@@ -4,85 +4,40 @@ from datetime import datetime, timezone
 import pytz
 import time
 
-# Your RSS feeds
+# Your Full-Text RSS feeds via BazQux
 FEEDS = [
-    # AI Companies
-    'https://openai.com/blog/rss.xml',
-    'https://www.anthropic.com/rss.xml',
-    'https://blog.google/technology/ai/rss/',
-    'https://ai.meta.com/blog/rss/',
-    'https://blogs.microsoft.com/ai/feed/',
-    'https://huggingface.co/blog/feed.xml',
+    # Tech News - Full Text
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Ftechcrunch.com%2Fcategory%2Fartificial-intelligence%2Ffeed%2F&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fventurebeat.com%2Fcategory%2Fai%2Ffeed%2F&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Faisafety.substack.com%2Ffeed&max=20&links=preserve&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.technologyreview.com%2Ftopic%2Fartificial-intelligence%2Ffeed%2F&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.wired.com%2Ffeed%2Fcategory%2Fartificial-intelligence%2Frss&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.unite.ai%2Ffeed%2F&max=20&links=remove&exc=',
     
-    # Tech News
-    'https://techcrunch.com/category/artificial-intelligence/feed/',
-    'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml',
-    'https://www.artificialintelligence-news.com/feed/',
+    # AI Company Blogs - Full Text
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=googleaiblog.blogspot.com%2Fatom.xml&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fdeepmind.com%2Fblog%2Ffeed%2Fbasic%2F&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fhuggingface.co%2Fblog%2Ffeed.xml&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Ffeeds.feedburner.com%2Fnvidiablog&max=20&links=remove&exc=',
     
-    # Research
-    'https://arxiv.org/rss/cs.AI',
-    'https://arxiv.org/rss/cs.LG',
-    
-    # European AI
-    'https://digital-strategy.ec.europa.eu/en/library/rss.xml',
-    
-    # Additional Quality Sources
-    'https://www.wired.com/feed/category/ai/latest/rss',
-    'https://venturebeat.com/category/ai/feed/',
-    'https://www.technologyreview.com/feed/',
-    'https://blogs.nvidia.com/ai/feed/',
-    'https://www.kdnuggets.com/feed',
-    'https://bair.berkeley.edu/blog/feed.xml',
+    # Research & Academic - Full Text
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Ffeed%2F&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fnews.mit.edu%2Frss%2Ftopic%2Fartificial-intelligence2&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fbair.berkeley.edu%2Fblog%2Ffeed.xml&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fthegradient.pub%2Frss%2F&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fresearch.google%2Fblog%2Frss&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.technologyreview.com%2Ffeed%2F&max=20&links=remove&exc=',
 ]
-
-def is_content_truncated(content):
-    """Check if content appears to be truncated"""
-    if not content:
-        return True
-    
-    # Common truncation indicators
-    truncation_signs = [
-        '[...]',
-        '...',
-        'Read more',
-        'Continue reading',
-        '…',
-        '[&#8230;]',
-        '... [read more]',
-        'Read More',
-        'Continue Reading',
-        '&hellip;',
-        'Click here to read',
-        'Full article:',
-        'Read the full'
-    ]
-    
-    # Check if content is suspiciously short
-    if len(content) < 500:
-        return True
-    
-    # Check for truncation indicators
-    content_lower = content.lower().strip()
-    for sign in truncation_signs:
-        if sign.lower() in content_lower[-100:]:  # Check last 100 chars
-            return True
-    
-    # Check if content ends mid-sentence (no proper punctuation)
-    last_char = content.strip()[-1] if content.strip() else ''
-    if last_char not in '.!?"\')}]':
-        return True
-    
-    return False
 
 def aggregate_feeds():
     print("Starting feed aggregation...")
-    print(f"Processing {len(FEEDS)} feeds")
+    print(f"Processing {len(FEEDS)} full-text feeds")
     
     fg = FeedGenerator()
     fg.id('https://github.com/Tairon861/ai-news-aggregator')
-    fg.title('AI News Aggregator')
+    fg.title('AI News Aggregator - Full Text')
     fg.link(href='https://Tairon861.github.io/ai-news-aggregator/feed.xml', rel='self')
-    fg.description('Aggregated AI News from Top Sources')
+    fg.description('Aggregated AI News with Full Content')
     fg.language('en')
     
     all_entries = []
@@ -90,15 +45,13 @@ def aggregate_feeds():
     
     for feed_url in FEEDS:
         try:
-            print(f"Fetching: {feed_url}")
+            print(f"Fetching: BazQux full-text feed...")
             feed = feedparser.parse(feed_url)
             
-            # Check if feed was parsed successfully
             if hasattr(feed, 'bozo') and feed.bozo:
-                print(f"Warning: Feed might have errors: {feed_url}")
+                print(f"Warning: Feed might have errors")
             
             entries_added = 0
-            truncated_count = 0
             
             for entry in feed.entries[:10]:  # Max 10 per feed
                 # Skip if we've seen this URL
@@ -108,57 +61,41 @@ def aggregate_feeds():
                     
                 seen_urls.add(link)
                 
-                # Extract full content from various possible fields
-                content = None
+                # Get content - BazQux provides full content
+                content = (
+                    entry.get('content', [{}])[0].get('value', '') or
+                    entry.get('description', '') or
+                    entry.get('summary', 'No content available')
+                )
                 
-                # Try different content fields in order of preference
-                if 'content' in entry and entry.content:
-                    content = entry.content[0].get('value', '')
-                elif 'content_encoded' in entry:
-                    content = entry.content_encoded
-                elif 'description' in entry:
-                    content = entry.description
-                elif 'summary' in entry:
-                    content = entry.summary
-                else:
-                    content = 'No content available'
-                
-                # Clean up content if needed
-                if not content or content.strip() == '':
-                    content = entry.get('summary', entry.get('description', 'No content available'))
-                
-                # Check if content is truncated
-                is_truncated = is_content_truncated(content)
-                if is_truncated:
-                    truncated_count += 1
+                # Extract source from title or feed
+                source = feed.feed.get('title', 'Unknown Source')
+                # Clean BazQux prefix from source if present
+                if source.startswith('FTR: '):
+                    source = source[5:]
                 
                 # Extract and clean data
                 entry_data = {
                     'title': entry.get('title', 'No title'),
                     'link': link,
-                    'content': content,  # Full or partial content
+                    'content': content,  # Full content from BazQux
                     'published': entry.get('published_parsed'),
-                    'source': feed.feed.get('title', 'Unknown Source'),
-                    'is_truncated': is_truncated
+                    'source': source
                 }
                 
                 all_entries.append(entry_data)
                 entries_added += 1
                 
-            print(f"  Added {entries_added} entries from {feed_url} ({truncated_count} truncated)")
+            print(f"  Added {entries_added} entries")
                 
         except Exception as e:
-            print(f"Error with {feed_url}: {str(e)}")
+            print(f"Error with feed: {str(e)}")
             continue
         
         # Small delay to be nice to servers
         time.sleep(0.5)
     
     print(f"Total collected: {len(all_entries)} unique entries")
-    
-    # Count truncated
-    total_truncated = sum(1 for entry in all_entries if entry.get('is_truncated', False))
-    print(f"Truncated articles: {total_truncated} out of {len(all_entries)}")
     
     # Sort by date (newest first)
     all_entries.sort(
@@ -170,24 +107,12 @@ def aggregate_feeds():
     for entry in all_entries[:100]:  # Top 100 items
         fe = fg.add_entry()
         fe.id(entry['link'])
-        
-        # Add [TRUNCATED] marker to title if needed
-        title = f"{entry['title']} ({entry['source']})"
-        if entry.get('is_truncated', False):
-            title += " [SUMMARY ONLY]"
-        
-        fe.title(title)
+        fe.title(f"{entry['title']} ({entry['source']})")
         fe.link(href=entry['link'])
         
-        # Add note about truncation in content if needed
-        content = entry['content']
-        if entry.get('is_truncated', False):
-            content = f"<p><em>Note: This is a summary. Full article available at source.</em></p>\n\n{content}"
-        
-        fe.description(content)
-        
-        # Add content in content tag as well for better compatibility
-        fe.content(content, type='html')
+        # Full content - no truncation needed!
+        fe.description(entry['content'])
+        fe.content(entry['content'], type='html')
         
         if entry['published']:
             try:
@@ -208,10 +133,13 @@ def aggregate_feeds():
     if os.path.exists('feed.xml'):
         file_size = os.path.getsize('feed.xml')
         print(f"Success! Feed file created: {file_size} bytes")
+        with open('feed.xml', 'r', encoding='utf-8') as f:
+            content_preview = f.read(500)
+            print(f"Preview: {content_preview[:200]}...")
     else:
         print("ERROR: feed.xml was not created!")
 
-# THIS IS THE CRUCIAL PART - ACTUALLY RUN THE SCRIPT!
+# Run the script
 if __name__ == '__main__':
     print("=== RSS Aggregator Starting ===")
     try:
