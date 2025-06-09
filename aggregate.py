@@ -1,8 +1,10 @@
 import feedparser
 from feedgen.feed import FeedGenerator
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import pytz
 import time
+import json
+import os
 
 # Your Full-Text RSS feeds via BazQux
 FEEDS = [
@@ -29,19 +31,46 @@ FEEDS = [
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.technologyreview.com%2Ffeed%2F&max=20&links=remove&exc=',
 ]
 
+# Configuration
+HOURS_TO_KEEP = 12  # Keep articles from last 12 hours
+MAX_ARTICLES = 100  # Maximum articles to keep in feed
+
+def load_processed_articles():
+    """Load the list of articles we've already seen"""
+    if os.path.exists('processed_articles.json'):
+        with open('processed_articles.json', 'r') as f:
+            return json.load(f)
+    return {'seen_urls': set(), 'last_update': None}
+
+def save_processed_articles(data):
+    """Save the list of processed articles"""
+    # Convert set to list for JSON serialization
+    data['seen_urls'] = list(data['seen_urls'])
+    with open('processed_articles.json', 'w') as f:
+        json.dump(data, f, indent=2)
+
 def aggregate_feeds():
     print("Starting feed aggregation...")
     print(f"Processing {len(FEEDS)} full-text feeds")
+    
+    # Load processed articles history
+    processed_data = load_processed_articles()
+    seen_urls = set(processed_data.get('seen_urls', []))
+    print(f"Previously seen articles: {len(seen_urls)}")
+    
+    # Calculate cutoff date
+    cutoff_date = datetime.now(timezone.utc) - timedelta(hours=HOURS_TO_KEEP)
+    print(f"Keeping articles newer than: {cutoff_date}")
     
     fg = FeedGenerator()
     fg.id('https://github.com/Tairon861/ai-news-aggregator')
     fg.title('AI News Aggregator - Full Text')
     fg.link(href='https://Tairon861.github.io/ai-news-aggregator/feed.xml', rel='self')
-    fg.description('Aggregated AI News with Full Content')
+    fg.description('Recent AI News with Full Content')
     fg.language('en')
     
     all_entries = []
-    seen_urls = set()
+    current_run_urls = set()
     
     for feed_url in FEEDS:
         try:
@@ -54,12 +83,23 @@ def aggregate_feeds():
             entries_added = 0
             
             for entry in feed.entries[:10]:  # Max 10 per feed
-                # Skip if we've seen this URL
+                # Skip if we've already processed this URL in this run
                 link = entry.get('link', '')
-                if link in seen_urls or not link:
+                if link in current_run_urls or not link:
                     continue
                     
-                seen_urls.add(link)
+                current_run_urls.add(link)
+                
+                # Check if article is recent enough
+                published = entry.get('published_parsed')
+                if published:
+                    pub_date = datetime.fromtimestamp(
+                        time.mktime(published),
+                        tz=timezone.utc
+                    )
+                    if pub_date < cutoff_date:
+                        print(f"  Skipping old article: {entry.get('title', '')[:50]}...")
+                        continue
                 
                 # Get content - BazQux provides full content
                 content = (
@@ -74,13 +114,17 @@ def aggregate_feeds():
                 if source.startswith('FTR: '):
                     source = source[5:]
                 
+                # CHECK IF THIS IS A NEW ARTICLE
+                is_new = link not in seen_urls
+                
                 # Extract and clean data
                 entry_data = {
                     'title': entry.get('title', 'No title'),
                     'link': link,
                     'content': content,  # Full content from BazQux
-                    'published': entry.get('published_parsed'),
-                    'source': source
+                    'published': published,
+                    'source': source,
+                    'is_new': is_new  # Mark if this is completely new
                 }
                 
                 all_entries.append(entry_data)
@@ -95,7 +139,7 @@ def aggregate_feeds():
         # Small delay to be nice to servers
         time.sleep(0.5)
     
-    print(f"Total collected: {len(all_entries)} unique entries")
+    print(f"Total collected: {len(all_entries)} articles")
     
     # Sort by date (newest first)
     all_entries.sort(
@@ -103,14 +147,30 @@ def aggregate_feeds():
         reverse=True
     )
     
+    # Keep only the most recent articles
+    all_entries = all_entries[:MAX_ARTICLES]
+    
+    # Count new articles
+    new_articles = sum(1 for entry in all_entries if entry.get('is_new', False))
+    print(f"Brand new articles: {new_articles}")
+    
     # Add entries to feed
-    for entry in all_entries[:100]:  # Top 100 items
+    for entry in all_entries:
         fe = fg.add_entry()
         fe.id(entry['link'])
-        fe.title(f"{entry['title']} ({entry['source']})")
+        
+        # Mark NEW articles clearly in title
+        title = entry['title']
+        if entry.get('is_new', False):
+            title = "[NEW] " + title
+        
+        # Add source
+        title = f"{title} ({entry['source']})"
+        
+        fe.title(title)
         fe.link(href=entry['link'])
         
-        # Full content - no truncation needed!
+        # Full content
         fe.description(entry['content'])
         fe.content(entry['content'], type='html')
         
@@ -124,18 +184,29 @@ def aggregate_feeds():
             except:
                 pass
     
+    # Update seen URLs - add all current URLs to the set
+    for entry in all_entries:
+        seen_urls.add(entry['link'])
+    
+    # Save updated tracking data
+    processed_data = {
+        'seen_urls': seen_urls,
+        'last_update': datetime.now(timezone.utc).isoformat(),
+        'total_seen': len(seen_urls),
+        'new_this_run': new_articles
+    }
+    save_processed_articles(processed_data)
+    
     # Save feed
     fg.rss_file('feed.xml')
     print("Feed saved to feed.xml")
     
     # Verify file was created
-    import os
     if os.path.exists('feed.xml'):
         file_size = os.path.getsize('feed.xml')
         print(f"Success! Feed file created: {file_size} bytes")
-        with open('feed.xml', 'r', encoding='utf-8') as f:
-            content_preview = f.read(500)
-            print(f"Preview: {content_preview[:200]}...")
+        print(f"Feed contains {len(all_entries)} articles (max {MAX_ARTICLES})")
+        print(f"Articles marked as [NEW]: {new_articles}")
     else:
         print("ERROR: feed.xml was not created!")
 
