@@ -1,8 +1,8 @@
 name: RSS Aggregator
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
   aggregate:
@@ -10,7 +10,8 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
     
@@ -21,15 +22,26 @@ jobs:
     
     - name: Install dependencies
       run: |
+        python -m pip install --upgrade pip
         pip install feedparser feedgen pytz
     
     - name: Run aggregator
-      run: python aggregate.py
+      run: |
+        echo "Starting RSS aggregation..."
+        python aggregate.py
     
-    - name: Commit and push
+    - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add feed.xml
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update aggregated feed $(date +'%Y-%m-%d %H:%M')"
-        git push
+        
+        # Add both files
+        git add feed.xml processed_articles.json
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update RSS feed - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        fi
