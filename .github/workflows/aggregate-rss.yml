@@ -20,28 +20,55 @@ jobs:
       with:
         python-version: '3.10'
     
-    - name: Install dependencies
+    - name: Cache pip packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Install RSS dependencies
       run: |
         python -m pip install --upgrade pip
         pip install feedparser feedgen pytz
     
-    - name: Run aggregator
+    - name: Run RSS aggregator
       run: |
         echo "Starting RSS aggregation..."
         python aggregate.py
+    
+    - name: Install Vector DB dependencies
+      run: |
+        echo "Installing vector database dependencies..."
+        pip install sentence-transformers pinecone-client feedparser
+    
+    - name: Update Vector Database
+      env:
+        PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
+        PINECONE_ENV: us-east-1
+      run: |
+        echo "Updating vector database..."
+        python vector_db.py
     
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Add both files
-        git add feed.xml processed_articles.json
+        # Add all tracking files
+        git add feed.xml processed_articles.json processed_vectors.json
         
         # Check if there are changes to commit
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Update RSS feed - $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "Update RSS feed and vector DB - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
         fi
+    
+    - name: Show summary
+      run: |
+        echo "Workflow completed!"
+        echo "Files updated:"
+        ls -la feed.xml processed_articles.json processed_vectors.json 2>/dev/null || true
