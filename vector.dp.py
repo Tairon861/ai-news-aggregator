@@ -40,9 +40,9 @@ class FreeVectorDB:
         """Process new articles from RSS feed"""
         print(f"Processing articles from {articles_file}")
 
-         # TEMPORARY: Reset for testing - REMOVE THIS AFTER TESTING!
-    self.processed_ids = set()
-    print("TESTING MODE: Reset processed IDs - all articles will be processed")
+        # TEMPORARY: Reset for testing - REMOVE THIS AFTER TESTING!
+        self.processed_ids = set()
+        print("TESTING MODE: Reset processed IDs - all articles will be processed")
         
         # Parse RSS feed
         feed = feedparser.parse(articles_file)
