@@ -141,16 +141,11 @@ def aggregate_feeds():
     
     print(f"Total collected: {len(all_entries)} articles")
     
-# Sort by date (newest first)
-def get_sort_key(entry):
-    if entry.get('published'):
-        try:
-            return time.mktime(entry['published'])
-        except:
-            return 0
-    return 0
-
-all_entries.sort(key=get_sort_key, reverse=True)
+    # Sort by date (newest first)
+    all_entries.sort(
+        key=lambda x: time.mktime(x['published']) if x['published'] else 0, 
+        reverse=True
+    )
     
     # Keep only the most recent articles
     all_entries = all_entries[:MAX_ARTICLES]
