@@ -49,7 +49,7 @@ jobs:
         PINECONE_ENV: us-east-1
       run: |
         echo "Updating vector database..."
-        python vector_db.py
+        python vector.dp.py
     
     - name: Commit and push changes
       run: |
@@ -63,7 +63,7 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Update RSS feed and vector DB - $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "Update RSS feed - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
         fi
     
