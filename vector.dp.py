@@ -1,6 +1,6 @@
 import os
 import json
-import pinecone
+from pinecone import Pinecone
 from datetime import datetime
 from sentence_transformers import SentenceTransformer
 import hashlib
@@ -9,12 +9,9 @@ import time
 
 class FreeVectorDB:
     def __init__(self):
-        # Initialize Pinecone
-        pinecone.init(
-            api_key=os.environ.get("PINECONE_API_KEY"),
-            environment=os.environ.get("PINECONE_ENV", "gcp-starter")
-        )
-        self.index = pinecone.Index("ai-news-rag")
+        # Initialize Pinecone with new API
+        pc = Pinecone(api_key=os.environ.get("PINECONE_API_KEY"))
+        self.index = pc.Index("ai-news-rag")
         
         # Free embedding model (384 dimensions)
         print("Loading embedding model...")
