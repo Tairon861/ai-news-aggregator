@@ -6,29 +6,25 @@ import time
 import json
 import os
 
-# Your Full-Text RSS feeds via BazQux
+# Your Full-Text RSS feeds via BazQux - Updated List
 FEEDS = [
-    # Tech News - Full Text
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.artificialintelligence-news.com%2Ffeed%2Frss%2F&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Ftechcrunch.com%2Fcategory%2Fartificial-intelligence%2Ffeed%2F&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fventurebeat.com%2Fcategory%2Fai%2Ffeed%2F&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Faisafety.substack.com%2Ffeed&max=20&links=preserve&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Farstechnica.com%2Fai%2Ffeed%2F&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.technologyreview.com%2Ftopic%2Fartificial-intelligence%2Ffeed%2F&max=20&links=remove&exc=',
-    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.wired.com%2Ffeed%2Fcategory%2Fartificial-intelligence%2Frss&max=20&links=remove&exc=',
-    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.unite.ai%2Ffeed%2F&max=20&links=remove&exc=',
-    
-    # AI Company Blogs - Full Text
     'https://ftr.bazqux.com/makefulltextfeed.php?url=googleaiblog.blogspot.com%2Fatom.xml&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fdeepmind.com%2Fblog%2Ffeed%2Fbasic%2F&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fhuggingface.co%2Fblog%2Ffeed.xml&max=20&links=remove&exc=',
-    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Ffeeds.feedburner.com%2Fnvidiablog&max=20&links=remove&exc=',
-    
-    # Research & Academic - Full Text
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Ffeed%2F&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fnews.mit.edu%2Frss%2Ftopic%2Fartificial-intelligence2&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.technologyreview.com%2Ffeed%2F&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Ffeeds.feedburner.com%2Fnvidiablog&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fbair.berkeley.edu%2Fblog%2Ffeed.xml&max=20&links=remove&exc=',
+    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.wired.com%2Ffeed%2Fcategory%2Fartificial-intelligence%2Frss&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fthegradient.pub%2Frss%2F&max=20&links=remove&exc=',
     'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fresearch.google%2Fblog%2Frss&max=20&links=remove&exc=',
-    'https://ftr.bazqux.com/makefulltextfeed.php?url=https%3A%2F%2Fwww.technologyreview.com%2Ffeed%2F&max=20&links=remove&exc=',
 ]
 
 # Configuration
@@ -51,7 +47,7 @@ def save_processed_articles(data):
 
 def aggregate_feeds():
     print("Starting feed aggregation...")
-    print(f"Processing {len(FEEDS)} full-text feeds")
+    print(f"Processing {len(FEEDS)} full-text feeds (17 sources)")
     
     # Load processed articles history
     processed_data = load_processed_articles()
