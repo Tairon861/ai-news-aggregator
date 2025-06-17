@@ -41,7 +41,7 @@ jobs:
     - name: Install Vector DB dependencies
       run: |
         echo "Installing vector database dependencies..."
-        pip install sentence-transformers pinecone-client feedparser
+        pip install sentence-transformers pinecone feedparser
     
     - name: Update Vector Database
       env:
