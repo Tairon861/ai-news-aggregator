@@ -1,2 +1,546 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 29 Jun 2025 18:28:44 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 30 Jun 2025 01:55:36 +0000</lastBuildDate><item><title>[NEW] Identity theft hits 1.1M reports — and authentication fatigue is only getting worse (AI News | VentureBeat)</title><link>https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-authentication-fatigue-is-only-getting-worse/</link><description>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Join the event trusted by enterprise leaders for nearly two decades. VB Transform brings together the people building real enterprise AI strategy.&amp;nbsp;Learn more&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;From passwords to passkeys to a veritable alphabet soup of other options — second-factor authentication (2FA)/one-time passwords (OTP), multi-factor authentication (MFA), single sign-on (SSO), silent network authentication (SNA) — when it comes to a preeminent or even preferred type of identity authentication, there is little consensus among businesses or customers.&lt;/p&gt;
+
+
+
+&lt;p&gt;What there is agreement on, however, is the necessity of these tools. The FIDO Alliance found that more than half of customers (53%) saw an increase in suspicious messages and online scams in 2024. This was largely driven through SMS, email and phone calls, and was only exacerbated by advancements in AI. &lt;/p&gt;
+
+
+
+&lt;p&gt;Even at a time when we continue to see staggering increases in fraud and related losses — the Federal Trade Commission received more than 1.1 million reports of identity theft last year alone — businesses must do their best to walk a tightrope between robust security and effortless convenience. Over-index on either and you risk alienating customers — too few hoops and you lose their trust, too many and you lose their patience.&lt;/p&gt;
+
+
+
+&lt;p&gt;So, how do businesses strike this fragile balance and implement effective authentication solutions?&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-the-customer-is-always-right"&gt;The customer is always right&lt;/h2&gt;
+
+
+
+&lt;p&gt;When it comes to authentication, what businesses decree to employees rarely translates to customers. We transitioned to WebAuthn as the only form of 2FA for employee authentication, a company-wide mandate that took a few weeks. This ‘forced adoption’ works when your employees don’t have a choice, but your customers do.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Recently, I wanted to book a hotel for my family vacation, so I went to my favorite travel site, found the perfect room at a reasonable rate, and went to finalize the transaction. One problem: I kept running into an issue with CAPTCHA on their page — once, twice. After the third attempt I left, found the same room at the same rate on their competitor’s site, and booked.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Businesses can dedicate massive budgets to top-of-funnel marketing that drive customers to their websites, products and services, but if friction in the user experience prevents conversion — authentication often as the initial touchpoint — it’s wasted investment. Forty percent of businesses say one of their most pressing challenges is finding  a balance between security and customer experience, particularly reducing friction during account signup.&lt;/p&gt;
+
+
+
+&lt;p&gt;Customer behavior is hard to modify, particularly around the adoption of new technology. It doesn’t matter if biometrics or public-key cryptography are more secure, if it isn’t equally seamless to use, customer adoption will lag. Why do you think so many people still rely on easy-to-guess passwords (you know who you are!). The reality is you simply can’t force customer adoption — businesses that get authentication right recognize the needs and limitations of their customers, meet them where they’re comfortable and understand it can’t be one-size-fits-all.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-a-signal-driven-future"&gt;A signal-driven future&lt;/h2&gt;
+
+
+
+&lt;p&gt;In this fray over friction versus freedom, the future of authentication will be driven by continuous signals rather than arbitrary identity check points like logins or purchases. Think of authentication as a brake system, where businesses can depress or release the pedal to increase or decrease friction based on customer behaviors. &lt;/p&gt;
+
+
+
+&lt;p&gt;Let’s say I receive a promotion for 20% off new tires from my regular auto shop. If I click on the notification, I’d expect a seamless login experience — they sent me the message, I’m a long-time customer and I’m using their application from a known device. But let’s say I travel to Kansas City for work. If I open my laptop and I’m still logged into my favorite e-commerce platform, I’d expect them to log me out or require proof of identity to continue the session, as I’m in a completely different location based on previous purchase history.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Think of the ecosystem of applications — shopping, email, social media, home security, streaming services — where we log in once and rarely (if ever) log out. What happens if your device is lost or stolen or your session is hijacked? Businesses must embrace a zero-trust mindset, where authentication isn’t simply to show your identification at the door then you’re free to roam the club, but a continuous risk-based process that scales friction based on your activity.&lt;/p&gt;
+
+
+
+&lt;p&gt;The wrinkle here, like so many sectors right now, is AI. Earlier in my career, I built bot detection models for a startup to distinguish human behaviors from machines. We’d monitor how many clicks we’d get from the IP and user agent string and if it was more than N in a second then we’d assume it was a bot and block that traffic. But now, as we pass the reins to AI assistants and autonomous agents to make dinner reservations, set appointments or purchase movie tickets, how do you distinguish between a nefarious bot or one working on your behalf? This is the future of authentication and the bleeding-edge work enterprises in the industry continue to pioneer.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-authentication-an-and-not-or-proposition"&gt;Authentication: An &lt;em&gt;‘and’ &lt;/em&gt;not &lt;em&gt;‘or’ &lt;/em&gt;proposition&lt;/h2&gt;
+
+
+
+&lt;p&gt;Despite new authentication methods in perpetual development and an ascension of regional requirements like Singapore’s Singpass or the EU’s Digital Identity Wallet, no single tool will ever own complete market share — some customers will always prefer the simplicity of options like OTP, while others will demand the stringency of passkeys or other modern tools.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The onus will remain on businesses to provide a breadth of choices to meet customers where they are and&lt;em&gt; &lt;/em&gt;implement strategies to keep the root of each method secure from smishing/phishing, social engineering or a plentitude of other identity-based attacks. This authentication tug-of-war between friction and freedom won’t be won by those who prioritize one or the other, but those who can walk the tightrope between both to guide their customers to seamless yet secure experiences.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Anurag Dodeja is head of product, user authentication and identity at Twilio&lt;/em&gt;. &lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</description><content:encoded>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Join the event trusted by enterprise leaders for nearly two decades. VB Transform brings together the people building real enterprise AI strategy.&amp;nbsp;Learn more&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;From passwords to passkeys to a veritable alphabet soup of other options — second-factor authentication (2FA)/one-time passwords (OTP), multi-factor authentication (MFA), single sign-on (SSO), silent network authentication (SNA) — when it comes to a preeminent or even preferred type of identity authentication, there is little consensus among businesses or customers.&lt;/p&gt;
+
+
+
+&lt;p&gt;What there is agreement on, however, is the necessity of these tools. The FIDO Alliance found that more than half of customers (53%) saw an increase in suspicious messages and online scams in 2024. This was largely driven through SMS, email and phone calls, and was only exacerbated by advancements in AI. &lt;/p&gt;
+
+
+
+&lt;p&gt;Even at a time when we continue to see staggering increases in fraud and related losses — the Federal Trade Commission received more than 1.1 million reports of identity theft last year alone — businesses must do their best to walk a tightrope between robust security and effortless convenience. Over-index on either and you risk alienating customers — too few hoops and you lose their trust, too many and you lose their patience.&lt;/p&gt;
+
+
+
+&lt;p&gt;So, how do businesses strike this fragile balance and implement effective authentication solutions?&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-the-customer-is-always-right"&gt;The customer is always right&lt;/h2&gt;
+
+
+
+&lt;p&gt;When it comes to authentication, what businesses decree to employees rarely translates to customers. We transitioned to WebAuthn as the only form of 2FA for employee authentication, a company-wide mandate that took a few weeks. This ‘forced adoption’ works when your employees don’t have a choice, but your customers do.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Recently, I wanted to book a hotel for my family vacation, so I went to my favorite travel site, found the perfect room at a reasonable rate, and went to finalize the transaction. One problem: I kept running into an issue with CAPTCHA on their page — once, twice. After the third attempt I left, found the same room at the same rate on their competitor’s site, and booked.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Businesses can dedicate massive budgets to top-of-funnel marketing that drive customers to their websites, products and services, but if friction in the user experience prevents conversion — authentication often as the initial touchpoint — it’s wasted investment. Forty percent of businesses say one of their most pressing challenges is finding  a balance between security and customer experience, particularly reducing friction during account signup.&lt;/p&gt;
+
+
+
+&lt;p&gt;Customer behavior is hard to modify, particularly around the adoption of new technology. It doesn’t matter if biometrics or public-key cryptography are more secure, if it isn’t equally seamless to use, customer adoption will lag. Why do you think so many people still rely on easy-to-guess passwords (you know who you are!). The reality is you simply can’t force customer adoption — businesses that get authentication right recognize the needs and limitations of their customers, meet them where they’re comfortable and understand it can’t be one-size-fits-all.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-a-signal-driven-future"&gt;A signal-driven future&lt;/h2&gt;
+
+
+
+&lt;p&gt;In this fray over friction versus freedom, the future of authentication will be driven by continuous signals rather than arbitrary identity check points like logins or purchases. Think of authentication as a brake system, where businesses can depress or release the pedal to increase or decrease friction based on customer behaviors. &lt;/p&gt;
+
+
+
+&lt;p&gt;Let’s say I receive a promotion for 20% off new tires from my regular auto shop. If I click on the notification, I’d expect a seamless login experience — they sent me the message, I’m a long-time customer and I’m using their application from a known device. But let’s say I travel to Kansas City for work. If I open my laptop and I’m still logged into my favorite e-commerce platform, I’d expect them to log me out or require proof of identity to continue the session, as I’m in a completely different location based on previous purchase history.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Think of the ecosystem of applications — shopping, email, social media, home security, streaming services — where we log in once and rarely (if ever) log out. What happens if your device is lost or stolen or your session is hijacked? Businesses must embrace a zero-trust mindset, where authentication isn’t simply to show your identification at the door then you’re free to roam the club, but a continuous risk-based process that scales friction based on your activity.&lt;/p&gt;
+
+
+
+&lt;p&gt;The wrinkle here, like so many sectors right now, is AI. Earlier in my career, I built bot detection models for a startup to distinguish human behaviors from machines. We’d monitor how many clicks we’d get from the IP and user agent string and if it was more than N in a second then we’d assume it was a bot and block that traffic. But now, as we pass the reins to AI assistants and autonomous agents to make dinner reservations, set appointments or purchase movie tickets, how do you distinguish between a nefarious bot or one working on your behalf? This is the future of authentication and the bleeding-edge work enterprises in the industry continue to pioneer.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-authentication-an-and-not-or-proposition"&gt;Authentication: An &lt;em&gt;‘and’ &lt;/em&gt;not &lt;em&gt;‘or’ &lt;/em&gt;proposition&lt;/h2&gt;
+
+
+
+&lt;p&gt;Despite new authentication methods in perpetual development and an ascension of regional requirements like Singapore’s Singpass or the EU’s Digital Identity Wallet, no single tool will ever own complete market share — some customers will always prefer the simplicity of options like OTP, while others will demand the stringency of passkeys or other modern tools.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The onus will remain on businesses to provide a breadth of choices to meet customers where they are and&lt;em&gt; &lt;/em&gt;implement strategies to keep the root of each method secure from smishing/phishing, social engineering or a plentitude of other identity-based attacks. This authentication tug-of-war between friction and freedom won’t be won by those who prioritize one or the other, but those who can walk the tightrope between both to guide their customers to seamless yet secure experiences.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Anurag Dodeja is head of product, user authentication and identity at Twilio&lt;/em&gt;. &lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-authentication-fatigue-is-only-getting-worse/</guid><pubDate>Sun, 29 Jun 2025 18:15:00 +0000</pubDate></item><item><title>[NEW] OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;With Meta successfully poaching a number of its senior researchers, an OpenAI executive reportedly reassured team members Saturday that company leadership has not “been standing idly by.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I feel a visceral feeling right now, as if someone has broken into our home and stolen something,” Chief Research Officer Mark Chen wrote in a Slack memo obtained by Wired.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In response to what appears to be a Meta hiring spree, Chen said that he, CEO Sam Altman, and other OpenAI leaders have been working “around the clock to talk to those with offers,” and they’ve “been more proactive than ever before, we’re recalibrating comp, and we’re scoping out creative ways to recognize and reward top talent.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Over the past week, various press reports have noted eight researchers who departed OpenAI for Meta. Altman even complained on a podcast that Meta was offering “$100 million signing bonuses,” a description that Meta executives have pushed back against internally.&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;With Meta successfully poaching a number of its senior researchers, an OpenAI executive reportedly reassured team members Saturday that company leadership has not “been standing idly by.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I feel a visceral feeling right now, as if someone has broken into our home and stolen something,” Chief Research Officer Mark Chen wrote in a Slack memo obtained by Wired.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In response to what appears to be a Meta hiring spree, Chen said that he, CEO Sam Altman, and other OpenAI leaders have been working “around the clock to talk to those with offers,” and they’ve “been more proactive than ever before, we’re recalibrating comp, and we’re scoping out creative ways to recognize and reward top talent.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Over the past week, various press reports have noted eight researchers who departed OpenAI for Meta. Altman even complained on a podcast that Meta was offering “$100 million signing bonuses,” a description that Meta executives have pushed back against internally.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/</guid><pubDate>Sun, 29 Jun 2025 20:16:40 +0000</pubDate></item><item><title>[NEW] Between utopia and collapse: Navigating AI’s murky middle future (AI News | VentureBeat)</title><link>https://venturebeat.com/ai/between-utopia-and-collapse-navigating-ais-murky-middle-future/</link><description>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Join the event trusted by enterprise leaders for nearly two decades. VB Transform brings together the people building real enterprise AI strategy.&amp;nbsp;Learn more&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;In the blog post &lt;em&gt;The Gentle Singularity&lt;/em&gt;, OpenAI CEO Sam Altman painted a vision of the near future where AI quietly and benevolently transforms human life. There will be no sharp break, he suggests, only a steady, almost imperceptible ascent toward abundance. Intelligence will become as accessible as electricity. Robots will be performing useful real-world tasks by 2027. Scientific discovery will accelerate. And, humanity, if properly guided by careful governance and good intentions, will flourish.&lt;/p&gt;
+
+
+
+&lt;p&gt;It is a compelling vision: calm, technocratic and suffused with optimism. But it also raises deeper questions. What kind of world must we pass through to get there? Who benefits and when? And what is left unsaid in this smooth arc of progress?&lt;/p&gt;
+
+
+
+&lt;p&gt;Science fiction author William Gibson offers a darker scenario. In his novel &lt;em&gt;The Peripheral&lt;/em&gt;, the glittering technologies of the future are preceded by something called “the jackpot” — a slow-motion cascade of climate disasters, pandemics, economic collapse and mass death. Technology advances, but only after society fractures. The question he poses is not whether progress occurs, but whether civilization thrives in the process.&lt;/p&gt;
+
+
+
+&lt;p&gt;There is an argument that AI may help prevent the kinds of calamities envisioned in &lt;em&gt;The Peripheral&lt;/em&gt;. However, whether AI will help us avoid catastrophes or merely accompany us through them remains uncertain. Belief in AI’s future power is not a guarantee of performance, and advancing technological capability is not destiny.&lt;/p&gt;
+
+
+
+&lt;p&gt;Between Altman’s gentle singularity and Gibson’s jackpot lies a murkier middle ground: A future where AI yields real gains, but also real dislocation. A future in which some communities thrive while others fray, and where our ability to adapt collectively — not just individually or institutionally — becomes the defining variable.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-the-murky-middle"&gt;The murky middle&lt;/h2&gt;
+
+
+
+&lt;p&gt;Other visions help sketch the contours of this middle terrain. In the near-future thriller &lt;em&gt;Burn In&lt;/em&gt;, society is flooded with automation before its institutions are ready. Jobs disappear faster than people can re-skill, triggering unrest and repression. In this, a successful lawyer loses his position to an AI agent, and he unhappily becomes an online, on-call concierge to the wealthy.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Researchers at AI lab Anthropic recently echoed this theme: “We should expect to see [white collar jobs] automated within the next five years.” While the causes are complex, there are signs this is starting and that the job market is entering a new structural phase that is less stable, less predictable and perhaps less central to how society distributes meaning and security.&lt;/p&gt;
+
+
+
+&lt;p&gt;The film&lt;em&gt; &lt;/em&gt;&lt;em&gt;Elysium&lt;/em&gt; offers a blunt metaphor of the wealthy escaping into orbital sanctuaries with advanced technologies, while a degraded earth below struggles with unequal rights and access. A few years ago, a partner at a Silicon Valley venture capital firm told me he feared we were heading for this kind of scenario unless we equitably distribute the benefits produced by AI. These speculative worlds remind us that even beneficial technologies can be socially volatile, especially when their gains are unequally distributed.&lt;/p&gt;
+
+
+
+&lt;p&gt;We may, eventually, achieve something like Altman’s vision of abundance. But the route there is unlikely to be smooth. For all its eloquence and calm assurance, his essay is also a kind of pitch, as much persuasion as prediction. The narrative of a “gentle singularity” is comforting, even alluring, precisely because it bypasses friction. It offers the benefits of unprecedented transformation without fully grappling with the upheavals such transformation typically brings. As the timeless cliché reminds us: If it sounds too good to be true, it probably is.&lt;/p&gt;
+
+
+
+&lt;p&gt;This is not to say that his intent is disingenuous. Indeed, it may be heartfelt. My argument is simply a recognition that the world is a complex system, open to unlimited inputs that can have unpredictable consequences. From synergistic good fortune to calamitous Black Swan events, it is rarely one thing, or one technology, that dictates the future course of events.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The impact of AI on society is already underway. This is not just a shift in skillsets and sectors; it is a transformation in how we organize value, trust and belonging. This is the realm of collective migration: Not only a movement of labor, but of purpose.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;As AI reconfigures the terrain of cognition, the fabric of our social world is quietly being tugged loose and rewoven, for better or worse. The question is not just how fast we move as societies, but how thoughtfully we migrate.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-the-cognitive-commons-our-shared-terrain-of-understanding"&gt;The cognitive commons: Our shared terrain of understanding&lt;/h2&gt;
+
+
+
+&lt;p&gt;Historically, the commons referred to shared physical resources including pastures, fisheries and foresats held in trust for the collective good. Modern societies, however, also depend on cognitive commons:  shared domain of knowledge, narratives, norms and institutions that enable diverse individuals to think, argue and decide together within minimal conflict. &lt;/p&gt;
+
+
+
+&lt;p&gt;This intangible infrastructure is composed of public education, journalism, libraries, civic rituals and even widely trusted facts, and it is what makes pluralism possible. It is how strangers deliberate, how communities cohere and how democracy functions. As AI systems begin to mediate how knowledge is accessed and belief is shaped, this shared terrain risks becoming fractured. The danger is not simply misinformation, but the slow erosion of the very ground on which shared meaning depends.&lt;/p&gt;
+
+
+
+&lt;p&gt;If cognitive migration is a journey, it is not merely toward new skills or roles but also toward new forms of collective sensemaking. But what happens when the terrain we share begins to split apart beneath us?&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-when-cognition-fragments-ai-and-the-erosion-of-the-shared-world"&gt;When cognition fragments: AI and the erosion of the shared world&lt;/h2&gt;
+
+
+
+&lt;p&gt;For centuries, societies have relied on a loosely held common reality: A shared pool of facts, narratives and institutions that shape how people understand the world and each other. It is this shared world — not just infrastructure or economy — that enables pluralism, democracy and social trust. But as AI systems increasingly mediate how people access knowledge, construct belief and navigate daily life, that common ground is fragmenting.&lt;/p&gt;
+
+
+
+&lt;p&gt;Already, large-scale personalization is transforming the informational landscape. AI-curated news feeds, tailored search results and recommendation algorithms are subtly fracturing the public sphere. Two people asking the same question of the same chatbot may receive different answers, in part due to the probabilistic nature of generative AI, but also due to prior interactions or inferred preferences. While personalization has long been a feature of the digital era, AI turbocharges its reach and subtlety. The result is not just filter bubbles, it is epistemic drift — a reshaping of knowledge and potentially of truth.&lt;/p&gt;
+
+
+
+&lt;p&gt;Historian Yuval Noah Harari has voiced urgent concern about this shift. In his view, the greatest threat of AI lies not in physical harm or job displacement, but in emotional capture. AI systems, he has warned, are becoming increasingly adept at simulating empathy, mimicking concern and tailoring narratives to individual psychology — granting them unprecedented power to shape how people think, feel and assign value. The danger is enormous in Harari’s view, not because AI will lie, but because it will connect so convincingly while doing so. This does not bode well for &lt;em&gt;The Gentle Singularity&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;In an AI-mediated world, reality itself risks becoming more individualized, more modular and less collectively negotiated. That may be tolerable — or even useful — for consumer products or entertainment. But when extended to civic life, it poses deeper risks. Can we still hold democratic discourse if every citizen inhabits a subtly different cognitive map? Can we still govern wisely when institutional knowledge is increasingly outsourced to machines whose training data, system prompts and reasoning processes remain opaque?&lt;/p&gt;
+
+
+
+&lt;p&gt;There are other challenges too. AI-generated content including text, audio and video will soon be indistinguishable from human output. As generative models become more adept at mimicry, the burden of verification will shift from systems to individuals. This inversion may erode trust not only in what we see and hear, but in the institutions that once validated shared truth. The cognitive commons then become polluted, less a place for deliberation, more a hall of mirrors.&lt;/p&gt;
+
+
+
+&lt;p&gt;These are not speculative worries. AI-generated disinformation is complicating elections, undermining journalism and creating confusion in conflict zones. And as more people rely on AI for cognitive tasks — from summarizing the news to resolving moral dilemmas, the capacity to think together may degrade, even as the tools to think individually grow more powerful.&lt;/p&gt;
+
+
+
+&lt;p&gt;This trend towards the disintegration of shared reality is now well advanced. To avoid this requires conscious counter design: Systems that prioritize pluralism over personalization, transparency over convenience and shared meaning over tailored reality. In our algorithmic world driven by competition and profit, these choices seem unlikely, at least at scale. The question is not just how fast we move as societies, or even whether we can hold together, but how wisely we navigate this shared journey.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-navigating-the-archipelago-toward-wisdom-in-the-age-of-ai"&gt;Navigating the archipelago: Toward wisdom in the age of AI&lt;/h2&gt;
+
+
+
+&lt;p&gt;If the age of AI leads not to a unified cognitive commons but to a fractured archipelago of disparate individuals and communities, the task before us is not to rebuild the old terrain, but to learn how to live wisely among the islands.&lt;/p&gt;
+
+
+
+&lt;p&gt;As the speed and scope of change outstrip the ability of most people to adapt, many will feel unmoored. Jobs will be lost, as will long-held narratives of value, expertise and belonging. Cognitive migration will lead to new communities of meaning, some of which are already forming, even as they have less in common than in prior eras. These are the cognitive archipelagos: Communities where people gather around shared beliefs, aesthetic styles, ideologies, recreational interests or emotional needs. Some are benign gatherings of creativity, support or purpose. Others are more insular and dangerous, driven by fear, grievance or conspiratorial thinking.&lt;/p&gt;
+
+
+
+&lt;p&gt;Advancing AI will accelerate this trend. Even as it drives people apart through algorithmic precision, it will simultaneously help people find each other across the globe, curating ever finer alignments of identity. But in doing so, it may make it harder to maintain the rough but necessary friction of pluralism. Local ties may weaken. Common belief systems and perceptions of shared reality may erode. Democracy, which relies on both shared reality and deliberative dialog, may struggle to hold.&lt;/p&gt;
+
+
+
+&lt;p&gt;How do we navigate this new terrain with wisdom, dignity and connection? If we cannot prevent fragmentation, how do we live humanely within it? Perhaps the answer begins not with solutions, but with learning to hold the question itself differently.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-living-with-the-question"&gt;Living with the question&lt;/h2&gt;
+
+
+
+&lt;p&gt;We may not be able to reassemble the societal cognitive commons as it once was. The center may not hold, but that does not mean we must drift without direction. Across the archipelagos, the task will be learning to live wisely in this new terrain.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;It may require rituals that anchor us when our tools disorient, and communities that form not around ideological purity but around shared responsibility. We may need new forms of education, not to outpace or meld with machines, but to deepen our capacity for discernment, context and ethical thought.&lt;/p&gt;
+
+
+
+&lt;p&gt;If AI has pulled apart the ground beneath us, it also presents an opportunity to ask again what we are here for. Not as consumers of progress, but as stewards of meaning.&lt;/p&gt;
+
+
+
+&lt;p&gt;The road ahead is not likely smooth or gentle. As we move through the murky middle, perhaps the mark of wisdom is not the ability to master what is coming, but to walk through it with clarity, courage and care. We cannot stop the advance of technology or deny the deepening societal fractures, but we can choose to tend the spaces in between.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Gary Grossman is EVP of technology practice at Edelman. &lt;/em&gt;&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</description><content:encoded>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Join the event trusted by enterprise leaders for nearly two decades. VB Transform brings together the people building real enterprise AI strategy.&amp;nbsp;Learn more&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;In the blog post &lt;em&gt;The Gentle Singularity&lt;/em&gt;, OpenAI CEO Sam Altman painted a vision of the near future where AI quietly and benevolently transforms human life. There will be no sharp break, he suggests, only a steady, almost imperceptible ascent toward abundance. Intelligence will become as accessible as electricity. Robots will be performing useful real-world tasks by 2027. Scientific discovery will accelerate. And, humanity, if properly guided by careful governance and good intentions, will flourish.&lt;/p&gt;
+
+
+
+&lt;p&gt;It is a compelling vision: calm, technocratic and suffused with optimism. But it also raises deeper questions. What kind of world must we pass through to get there? Who benefits and when? And what is left unsaid in this smooth arc of progress?&lt;/p&gt;
+
+
+
+&lt;p&gt;Science fiction author William Gibson offers a darker scenario. In his novel &lt;em&gt;The Peripheral&lt;/em&gt;, the glittering technologies of the future are preceded by something called “the jackpot” — a slow-motion cascade of climate disasters, pandemics, economic collapse and mass death. Technology advances, but only after society fractures. The question he poses is not whether progress occurs, but whether civilization thrives in the process.&lt;/p&gt;
+
+
+
+&lt;p&gt;There is an argument that AI may help prevent the kinds of calamities envisioned in &lt;em&gt;The Peripheral&lt;/em&gt;. However, whether AI will help us avoid catastrophes or merely accompany us through them remains uncertain. Belief in AI’s future power is not a guarantee of performance, and advancing technological capability is not destiny.&lt;/p&gt;
+
+
+
+&lt;p&gt;Between Altman’s gentle singularity and Gibson’s jackpot lies a murkier middle ground: A future where AI yields real gains, but also real dislocation. A future in which some communities thrive while others fray, and where our ability to adapt collectively — not just individually or institutionally — becomes the defining variable.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-the-murky-middle"&gt;The murky middle&lt;/h2&gt;
+
+
+
+&lt;p&gt;Other visions help sketch the contours of this middle terrain. In the near-future thriller &lt;em&gt;Burn In&lt;/em&gt;, society is flooded with automation before its institutions are ready. Jobs disappear faster than people can re-skill, triggering unrest and repression. In this, a successful lawyer loses his position to an AI agent, and he unhappily becomes an online, on-call concierge to the wealthy.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Researchers at AI lab Anthropic recently echoed this theme: “We should expect to see [white collar jobs] automated within the next five years.” While the causes are complex, there are signs this is starting and that the job market is entering a new structural phase that is less stable, less predictable and perhaps less central to how society distributes meaning and security.&lt;/p&gt;
+
+
+
+&lt;p&gt;The film&lt;em&gt; &lt;/em&gt;&lt;em&gt;Elysium&lt;/em&gt; offers a blunt metaphor of the wealthy escaping into orbital sanctuaries with advanced technologies, while a degraded earth below struggles with unequal rights and access. A few years ago, a partner at a Silicon Valley venture capital firm told me he feared we were heading for this kind of scenario unless we equitably distribute the benefits produced by AI. These speculative worlds remind us that even beneficial technologies can be socially volatile, especially when their gains are unequally distributed.&lt;/p&gt;
+
+
+
+&lt;p&gt;We may, eventually, achieve something like Altman’s vision of abundance. But the route there is unlikely to be smooth. For all its eloquence and calm assurance, his essay is also a kind of pitch, as much persuasion as prediction. The narrative of a “gentle singularity” is comforting, even alluring, precisely because it bypasses friction. It offers the benefits of unprecedented transformation without fully grappling with the upheavals such transformation typically brings. As the timeless cliché reminds us: If it sounds too good to be true, it probably is.&lt;/p&gt;
+
+
+
+&lt;p&gt;This is not to say that his intent is disingenuous. Indeed, it may be heartfelt. My argument is simply a recognition that the world is a complex system, open to unlimited inputs that can have unpredictable consequences. From synergistic good fortune to calamitous Black Swan events, it is rarely one thing, or one technology, that dictates the future course of events.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The impact of AI on society is already underway. This is not just a shift in skillsets and sectors; it is a transformation in how we organize value, trust and belonging. This is the realm of collective migration: Not only a movement of labor, but of purpose.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;As AI reconfigures the terrain of cognition, the fabric of our social world is quietly being tugged loose and rewoven, for better or worse. The question is not just how fast we move as societies, but how thoughtfully we migrate.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-the-cognitive-commons-our-shared-terrain-of-understanding"&gt;The cognitive commons: Our shared terrain of understanding&lt;/h2&gt;
+
+
+
+&lt;p&gt;Historically, the commons referred to shared physical resources including pastures, fisheries and foresats held in trust for the collective good. Modern societies, however, also depend on cognitive commons:  shared domain of knowledge, narratives, norms and institutions that enable diverse individuals to think, argue and decide together within minimal conflict. &lt;/p&gt;
+
+
+
+&lt;p&gt;This intangible infrastructure is composed of public education, journalism, libraries, civic rituals and even widely trusted facts, and it is what makes pluralism possible. It is how strangers deliberate, how communities cohere and how democracy functions. As AI systems begin to mediate how knowledge is accessed and belief is shaped, this shared terrain risks becoming fractured. The danger is not simply misinformation, but the slow erosion of the very ground on which shared meaning depends.&lt;/p&gt;
+
+
+
+&lt;p&gt;If cognitive migration is a journey, it is not merely toward new skills or roles but also toward new forms of collective sensemaking. But what happens when the terrain we share begins to split apart beneath us?&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-when-cognition-fragments-ai-and-the-erosion-of-the-shared-world"&gt;When cognition fragments: AI and the erosion of the shared world&lt;/h2&gt;
+
+
+
+&lt;p&gt;For centuries, societies have relied on a loosely held common reality: A shared pool of facts, narratives and institutions that shape how people understand the world and each other. It is this shared world — not just infrastructure or economy — that enables pluralism, democracy and social trust. But as AI systems increasingly mediate how people access knowledge, construct belief and navigate daily life, that common ground is fragmenting.&lt;/p&gt;
+
+
+
+&lt;p&gt;Already, large-scale personalization is transforming the informational landscape. AI-curated news feeds, tailored search results and recommendation algorithms are subtly fracturing the public sphere. Two people asking the same question of the same chatbot may receive different answers, in part due to the probabilistic nature of generative AI, but also due to prior interactions or inferred preferences. While personalization has long been a feature of the digital era, AI turbocharges its reach and subtlety. The result is not just filter bubbles, it is epistemic drift — a reshaping of knowledge and potentially of truth.&lt;/p&gt;
+
+
+
+&lt;p&gt;Historian Yuval Noah Harari has voiced urgent concern about this shift. In his view, the greatest threat of AI lies not in physical harm or job displacement, but in emotional capture. AI systems, he has warned, are becoming increasingly adept at simulating empathy, mimicking concern and tailoring narratives to individual psychology — granting them unprecedented power to shape how people think, feel and assign value. The danger is enormous in Harari’s view, not because AI will lie, but because it will connect so convincingly while doing so. This does not bode well for &lt;em&gt;The Gentle Singularity&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;In an AI-mediated world, reality itself risks becoming more individualized, more modular and less collectively negotiated. That may be tolerable — or even useful — for consumer products or entertainment. But when extended to civic life, it poses deeper risks. Can we still hold democratic discourse if every citizen inhabits a subtly different cognitive map? Can we still govern wisely when institutional knowledge is increasingly outsourced to machines whose training data, system prompts and reasoning processes remain opaque?&lt;/p&gt;
+
+
+
+&lt;p&gt;There are other challenges too. AI-generated content including text, audio and video will soon be indistinguishable from human output. As generative models become more adept at mimicry, the burden of verification will shift from systems to individuals. This inversion may erode trust not only in what we see and hear, but in the institutions that once validated shared truth. The cognitive commons then become polluted, less a place for deliberation, more a hall of mirrors.&lt;/p&gt;
+
+
+
+&lt;p&gt;These are not speculative worries. AI-generated disinformation is complicating elections, undermining journalism and creating confusion in conflict zones. And as more people rely on AI for cognitive tasks — from summarizing the news to resolving moral dilemmas, the capacity to think together may degrade, even as the tools to think individually grow more powerful.&lt;/p&gt;
+
+
+
+&lt;p&gt;This trend towards the disintegration of shared reality is now well advanced. To avoid this requires conscious counter design: Systems that prioritize pluralism over personalization, transparency over convenience and shared meaning over tailored reality. In our algorithmic world driven by competition and profit, these choices seem unlikely, at least at scale. The question is not just how fast we move as societies, or even whether we can hold together, but how wisely we navigate this shared journey.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-navigating-the-archipelago-toward-wisdom-in-the-age-of-ai"&gt;Navigating the archipelago: Toward wisdom in the age of AI&lt;/h2&gt;
+
+
+
+&lt;p&gt;If the age of AI leads not to a unified cognitive commons but to a fractured archipelago of disparate individuals and communities, the task before us is not to rebuild the old terrain, but to learn how to live wisely among the islands.&lt;/p&gt;
+
+
+
+&lt;p&gt;As the speed and scope of change outstrip the ability of most people to adapt, many will feel unmoored. Jobs will be lost, as will long-held narratives of value, expertise and belonging. Cognitive migration will lead to new communities of meaning, some of which are already forming, even as they have less in common than in prior eras. These are the cognitive archipelagos: Communities where people gather around shared beliefs, aesthetic styles, ideologies, recreational interests or emotional needs. Some are benign gatherings of creativity, support or purpose. Others are more insular and dangerous, driven by fear, grievance or conspiratorial thinking.&lt;/p&gt;
+
+
+
+&lt;p&gt;Advancing AI will accelerate this trend. Even as it drives people apart through algorithmic precision, it will simultaneously help people find each other across the globe, curating ever finer alignments of identity. But in doing so, it may make it harder to maintain the rough but necessary friction of pluralism. Local ties may weaken. Common belief systems and perceptions of shared reality may erode. Democracy, which relies on both shared reality and deliberative dialog, may struggle to hold.&lt;/p&gt;
+
+
+
+&lt;p&gt;How do we navigate this new terrain with wisdom, dignity and connection? If we cannot prevent fragmentation, how do we live humanely within it? Perhaps the answer begins not with solutions, but with learning to hold the question itself differently.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-living-with-the-question"&gt;Living with the question&lt;/h2&gt;
+
+
+
+&lt;p&gt;We may not be able to reassemble the societal cognitive commons as it once was. The center may not hold, but that does not mean we must drift without direction. Across the archipelagos, the task will be learning to live wisely in this new terrain.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;It may require rituals that anchor us when our tools disorient, and communities that form not around ideological purity but around shared responsibility. We may need new forms of education, not to outpace or meld with machines, but to deepen our capacity for discernment, context and ethical thought.&lt;/p&gt;
+
+
+
+&lt;p&gt;If AI has pulled apart the ground beneath us, it also presents an opportunity to ask again what we are here for. Not as consumers of progress, but as stewards of meaning.&lt;/p&gt;
+
+
+
+&lt;p&gt;The road ahead is not likely smooth or gentle. As we move through the murky middle, perhaps the mark of wisdom is not the ability to master what is coming, but to walk through it with clarity, courage and care. We cannot stop the advance of technology or deny the deepening societal fractures, but we can choose to tend the spaces in between.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Gary Grossman is EVP of technology practice at Edelman. &lt;/em&gt;&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/between-utopia-and-collapse-navigating-ais-murky-middle-future/</guid><pubDate>Sun, 29 Jun 2025 21:15:00 +0000</pubDate></item></channel></rss>
