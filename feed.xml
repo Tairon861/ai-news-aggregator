@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 02 Jul 2025 12:45:21 +0000</lastBuildDate><item><title>[NEW] How generative AI could help make construction sites safer (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/07/02/1119607/how-generative-ai-could-help-make-construction-sites-safer/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Last winter, during the construction of an affordable housing project on Martha’s Vineyard, Massachusetts, a 32-year-old worker named Jose Luis Collaguazo Crespo slipped off a ladder on the second floor and plunged to his death in the basement. He was one of more than&amp;nbsp;1,000&amp;nbsp;construction&amp;nbsp;workers who die on the job each year in the US, making it the most dangerous industry for fatal slips, trips, and falls.&lt;/p&gt;  &lt;p&gt;“Everyone talks about [how] ‘safety is the number-one priority,’” entrepreneur and executive Philip Lorenzo said during a presentation at Construction Innovation Day 2025, a conference at the University of California, Berkeley, in April.&amp;nbsp;“But then maybe internally, it’s not that high priority. People take shortcuts on job sites. And so there’s this whole tug-of-war between … safety and productivity.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;To combat the shortcuts and risk-taking, Lorenzo is working on a tool for the San Francisco–based company DroneDeploy&lt;strong&gt;, &lt;/strong&gt;which sells software that creates daily digital models of&amp;nbsp;work progress from videos and images, known in the trade as “reality capture.”&amp;nbsp; The tool, called Safety AI, analyzes each day’s reality capture imagery and flags conditions that violate Occupational Safety and Health Administration (OSHA) rules, with what he claims is 95% accuracy. &lt;/p&gt;  &lt;p&gt;That means that for any safety risk the software flags, there is 95% certainty that the flag is accurate and relates to a specific OSHA regulation. Launched in October 2024, it’s now being deployed on hundreds of construction sites in the US, Lorenzo says, and versions specific to the building regulations in countries including Canada, the UK, South Korea, and Australia have also been deployed.&lt;/p&gt; 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 02 Jul 2025 18:31:33 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>How generative AI could help make construction sites safer (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/07/02/1119607/how-generative-ai-could-help-make-construction-sites-safer/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Last winter, during the construction of an affordable housing project on Martha’s Vineyard, Massachusetts, a 32-year-old worker named Jose Luis Collaguazo Crespo slipped off a ladder on the second floor and plunged to his death in the basement. He was one of more than&amp;nbsp;1,000&amp;nbsp;construction&amp;nbsp;workers who die on the job each year in the US, making it the most dangerous industry for fatal slips, trips, and falls.&lt;/p&gt;  &lt;p&gt;“Everyone talks about [how] ‘safety is the number-one priority,’” entrepreneur and executive Philip Lorenzo said during a presentation at Construction Innovation Day 2025, a conference at the University of California, Berkeley, in April.&amp;nbsp;“But then maybe internally, it’s not that high priority. People take shortcuts on job sites. And so there’s this whole tug-of-war between … safety and productivity.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;To combat the shortcuts and risk-taking, Lorenzo is working on a tool for the San Francisco–based company DroneDeploy&lt;strong&gt;, &lt;/strong&gt;which sells software that creates daily digital models of&amp;nbsp;work progress from videos and images, known in the trade as “reality capture.”&amp;nbsp; The tool, called Safety AI, analyzes each day’s reality capture imagery and flags conditions that violate Occupational Safety and Health Administration (OSHA) rules, with what he claims is 95% accuracy. &lt;/p&gt;  &lt;p&gt;That means that for any safety risk the software flags, there is 95% certainty that the flag is accurate and relates to a specific OSHA regulation. Launched in October 2024, it’s now being deployed on hundreds of construction sites in the US, Lorenzo says, and versions specific to the building regulations in countries including Canada, the UK, South Korea, and Australia have also been deployed.&lt;/p&gt; 
  &lt;p&gt;Safety AI is one of multiple AI&amp;nbsp;construction&amp;nbsp;safety tools that have emerged in recent years, from&amp;nbsp;Silicon Valley&amp;nbsp;to&amp;nbsp;Hong Kong to&amp;nbsp;Jerusalem. Many of these rely on teams of human “clickers,” often in low-wage countries, to manually draw bounding boxes around images of key objects like ladders, in order to label large volumes of data to train an algorithm. &lt;/p&gt;  &lt;p&gt;Lorenzo says Safety AI is the first one to use generative AI to flag safety violations, which means an algorithm that can do more than recognize objects such as ladders or hard hats. The software can “reason” about what is going on in an image of a site and draw a conclusion about whether there is an OSHA violation. This is a more advanced form of analysis than the object detection that is the current industry standard, Lorenzo claims. But as the 95% success rate suggests, Safety AI is not a flawless and all-knowing intelligence. It requires an experienced safety inspector as an overseer.&amp;nbsp;&amp;nbsp;&lt;/p&gt; 
  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;A visual language model in the real world&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Robots and AI tend to thrive in controlled, largely static environments, like factory floors or shipping terminals.&amp;nbsp;But construction&amp;nbsp;sites are, by definition, changing a little bit every day.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Lorenzo thinks he’s built a better way to monitor sites, using a type of generative AI called a visual language model, or VLM. A VLM is an LLM with a vision encoder, allowing it to “see” images of the world and analyze what is going on in the scene.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Using years of reality capture imagery gathered from customers, with their explicit permission, Lorenzo’s team has assembled what he calls a “golden data set” encompassing tens of thousands of images of OSHA violations. Having carefully stockpiled this specific data for years, he is not worried that even a billion-dollar tech giant will be able to “copy and crush” him.&lt;/p&gt;  &lt;p&gt;To help train the model, Lorenzo has a smaller team of construction safety pros ask strategic questions of the AI. The trainers input test scenes from the golden data set to the VLM and ask questions that guide the model through the process of breaking down the scene and analyzing it step by step the way an experienced human would. If the VLM doesn’t generate the correct response—for example, it misses a violation or registers a false positive—the human trainers go back and tweak the prompts or inputs. Lorenzo says that rather than simply learning to recognize objects, the VLM is taught “how to think in a certain way,” which means it can draw subtle conclusions about what is happening in an image.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt;&lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Examples from nine categories of safety risks at construction sites that DroneDeploy can detect." class="wp-image-1119362" src="https://wp.technologyreview.com/wp-content/uploads/2025/06/250625_safetyAI_embed.jpg?w=1500" /&gt;&lt;figcaption class="wp-element-caption"&gt;Examples of safety risk categories that Safety AI can detect.&lt;/figcaption&gt;&lt;div class="image-credit"&gt;COURTESY DRONEDEPLOY&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;As an example, Lorenzo says VLMs are much better than older methods at analyzing ladder usage, which is responsible for 24% of the fall deaths in the construction industry.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“With traditional machine learning, it’s very difficult to answer the question of ‘Is a person using a ladder unsafely?’” says Lorenzo. “You can find the ladders. You can find the people. But to logically reason and say ‘Well, that person is fine’ or ‘Oh no, that person’s standing on the top step’—only the VLM can logically reason and then be like, ‘All right, it’s unsafe. And here’s the OSHA reference that says you can’t be on the top rung.’”&lt;/p&gt;  &lt;p&gt;Answers to multiple questions (Does the person on the ladder have three points of contact? Are they using the ladder as stilts to move around?) are combined to determine whether the ladder in the picture is being used safely. “Our system has over a dozen layers of questioning just to get to that answer,” Lorenzo says. DroneDeploy has not publicly released its data for review, but he says he hopes to have his methodology independently audited by safety experts&lt;strong&gt;.&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The missing 5%&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Using vision language models for construction AI shows promise, but there are “some pretty fundamental issues” to resolve, including hallucinations and the problem of edge cases, those anomalous hazards for which the VLM hasn’t trained, says Chen Feng. He leads New York University’s AI4CE lab, which develops technologies for 3D mapping and scene understanding in construction robotics and other areas. “Ninety-five percent is encouraging—but how do we fix that remaining 5%?” he asks of Safety AI’s success rate. &lt;/p&gt; 
 
@@ -9,7 +9,29 @@
  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;A visual language model in the real world&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Robots and AI tend to thrive in controlled, largely static environments, like factory floors or shipping terminals.&amp;nbsp;But construction&amp;nbsp;sites are, by definition, changing a little bit every day.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Lorenzo thinks he’s built a better way to monitor sites, using a type of generative AI called a visual language model, or VLM. A VLM is an LLM with a vision encoder, allowing it to “see” images of the world and analyze what is going on in the scene.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Using years of reality capture imagery gathered from customers, with their explicit permission, Lorenzo’s team has assembled what he calls a “golden data set” encompassing tens of thousands of images of OSHA violations. Having carefully stockpiled this specific data for years, he is not worried that even a billion-dollar tech giant will be able to “copy and crush” him.&lt;/p&gt;  &lt;p&gt;To help train the model, Lorenzo has a smaller team of construction safety pros ask strategic questions of the AI. The trainers input test scenes from the golden data set to the VLM and ask questions that guide the model through the process of breaking down the scene and analyzing it step by step the way an experienced human would. If the VLM doesn’t generate the correct response—for example, it misses a violation or registers a false positive—the human trainers go back and tweak the prompts or inputs. Lorenzo says that rather than simply learning to recognize objects, the VLM is taught “how to think in a certain way,” which means it can draw subtle conclusions about what is happening in an image.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt;&lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Examples from nine categories of safety risks at construction sites that DroneDeploy can detect." class="wp-image-1119362" src="https://wp.technologyreview.com/wp-content/uploads/2025/06/250625_safetyAI_embed.jpg?w=1500" /&gt;&lt;figcaption class="wp-element-caption"&gt;Examples of safety risk categories that Safety AI can detect.&lt;/figcaption&gt;&lt;div class="image-credit"&gt;COURTESY DRONEDEPLOY&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;As an example, Lorenzo says VLMs are much better than older methods at analyzing ladder usage, which is responsible for 24% of the fall deaths in the construction industry.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“With traditional machine learning, it’s very difficult to answer the question of ‘Is a person using a ladder unsafely?’” says Lorenzo. “You can find the ladders. You can find the people. But to logically reason and say ‘Well, that person is fine’ or ‘Oh no, that person’s standing on the top step’—only the VLM can logically reason and then be like, ‘All right, it’s unsafe. And here’s the OSHA reference that says you can’t be on the top rung.’”&lt;/p&gt;  &lt;p&gt;Answers to multiple questions (Does the person on the ladder have three points of contact? Are they using the ladder as stilts to move around?) are combined to determine whether the ladder in the picture is being used safely. “Our system has over a dozen layers of questioning just to get to that answer,” Lorenzo says. DroneDeploy has not publicly released its data for review, but he says he hopes to have his methodology independently audited by safety experts&lt;strong&gt;.&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The missing 5%&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Using vision language models for construction AI shows promise, but there are “some pretty fundamental issues” to resolve, including hallucinations and the problem of edge cases, those anomalous hazards for which the VLM hasn’t trained, says Chen Feng. He leads New York University’s AI4CE lab, which develops technologies for 3D mapping and scene understanding in construction robotics and other areas. “Ninety-five percent is encouraging—but how do we fix that remaining 5%?” he asks of Safety AI’s success rate. &lt;/p&gt; 
 
  &lt;p&gt;Feng points to a 2024 paper called “Eyes Wide Shut?”—written by Shengbang Tong, a PhD student at NYU, and coauthored by AI luminary Yann LeCun—that noted “systematic shortcomings” in VLMs.&amp;nbsp; “For object detection, they can reach human-level performance pretty well,” Feng says. “However, for more complicated things—these capabilities are still to be improved.” He notes that VLMs have struggled to interpret 3D scene structure from 2D images, don’t have good situational awareness in reasoning about spatial relationships, and often lack “common sense” about visual scenes.&lt;/p&gt;  &lt;p&gt;Lorenzo concedes that there are “some major flaws” with LLMs and that they struggle with spatial reasoning. So Safety AI also employs some older machine-learning methods to help create spatial models of construction sites. These methods include the segmentation of images into crucial components and photogrammetry, an established technique for creating a 3D digital model from a 2D image. Safety AI has also trained heavily in 10 different problem areas, including ladder usage, to anticipate the most common violations.&lt;/p&gt;  &lt;p&gt;Even so, Lorenzo admits there are edge cases that the LLM will fail to recognize. But he notes that for overworked safety managers, who are often responsible for as many as 15 sites at once, having an extra set of digital “eyes” is still an improvement.&lt;/p&gt;  &lt;p&gt;Aaron Tan, a concrete project manager based in the San Francisco Bay Area, says that a tool like Safety AI could be helpful for these overextended safety managers, who will save a lot of time if they can get an emailed alert rather than having to make a two-hour drive to visit a site in person. And if the software can demonstrate that it is helping keep people safe, he thinks workers will eventually embrace it.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;However, Tan notes that workers also fear that these types of tools will be “bossware” used to get them in trouble. “At my last company, we implemented cameras [as] a security system. And the guys didn’t like that,” he says. “They were like, ‘Oh, Big Brother. You guys are always watching me—I have no privacy.’”&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Older doesn’t mean obsolete&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Izhak Paz, CEO of a Jerusalem-based company called Safeguard AI, has considered incorporating VLMs, but he has stuck with the older machine-learning paradigm because he considers it more reliable. The “old computer vision” based on machine learning “is still better, because it’s hybrid between the machine itself and human intervention on dealing with deviation,” he says. To train the algorithm on a new category of danger, his team aggregates a large volume of labeled footage related to the specific hazard and then optimizes the algorithm by trimming false positives and false negatives. The process can take anywhere from weeks to over six months, Paz says. &lt;/p&gt;  &lt;p&gt;With training completed, Safeguard AI performs a risk assessment to identify potential hazards on the site. It can “see” the site in real time by accessing footage from any nearby internet-connected camera. Then it uses an AI agent to push instructions on what to do next to the site managers’ mobile devices. Paz declines to give a precise price tag, but he says his product is affordable only for builders at the “mid-market” level and above, specifically those managing multiple sites. The tool is in use at roughly 3,500 sites in Israel, the United States, and Brazil.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;&lt;p&gt;Buildots, a company based in Tel Aviv that &lt;em&gt;MIT Technology Review&lt;/em&gt; profiled back in 2020, doesn’t do safety analysis but instead creates once- or twice-weekly visual progress reports of sites. Buildots also uses the older method of machine learning with labeled training data. “Our system needs to be 99%—we cannot have any hallucinations,” says CEO Roy Danon.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;He says that gaining labeled training data is actually much easier than it was when he and his cofounders began the project in 2018, since gathering video footage of sites means that each object, such as a socket, might be captured and then labeled in many different frames. But the tool is high-end—about 50 builders, most with revenue over $250 million, are using Buildots in Europe, the Middle East, Africa, Canada, and the US. It’s been used on over 300 projects so far.&lt;/p&gt;  &lt;p&gt;Ryan Calo, a specialist in robotics and AI law at the University of Washington, likes the idea of AI for construction safety. Since experienced safety managers are already spread thin in construction, however, Calo worries that builders will be tempted to automate humans out of the safety process entirely. “I think AI and drones for spotting safety problems that would otherwise kill workers is super smart,” he says. “So long as it’s verified by a person.”&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Andrew Rosenblum&lt;/em&gt;&lt;em&gt; is a freelance tech journalist based in Oakland, CA.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/07/02/1119607/how-generative-ai-could-help-make-construction-sites-safer/</guid><pubDate>Wed, 02 Jul 2025 09:00:00 +0000</pubDate></item><item><title>[NEW] How businesses can use local AI models to improve data privacy (AI News)</title><link>https://www.artificialintelligence-news.com/news/how-businesses-can-use-local-ai-models-to-improve-data-privacy/</link><description>&lt;p&gt;Businesses intending to use AI do not have to rely on cloud-based tools like Chat-GPT, which tend to require uploading or sharing sensitive data. Instead, it is now possible to install and run private AI models locally, ensuring all data remains private and secure.&lt;/p&gt;&lt;p&gt;There are several open-source tools available for those looking to experiment with locally-running AI models, all of which prioritise data privacy, cost-effectiveness, and ease of deployment, therefore ensuring they are suitable for varying levels of technical expertise.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="org4d59a34"&gt;Private AIs for business experimentation&lt;/h3&gt;&lt;h4 class="wp-block-heading" id="org24664d0"&gt;LocalAI&lt;/h4&gt;&lt;p&gt;LocalAI is an open-source platform developed as a drop-in alternative for OpenAI’s API, allows businesses to operate LLMs locally. The tool supports a range of model architectures, including Transformers, GGUF, and Diffusers.&lt;/p&gt;&lt;p&gt;The technical requirements of LocalAI are minimal, operating on consumer-grade hardware. Its modest specifications let businesses use existing hardware. Comprehensive guides and tutorials are available, helping businesses set the tool up. From here, it is possible to generate images, run LLMs, and produce audio on-premise with consumer-grade hardware.&lt;/p&gt;&lt;p&gt;LocalAI provides an extensive library of use cases, showcasing audio synthesis, image creation, text generation, and voice cloning, helping businesses explore practical applications of AI while keepind data secure.&lt;/p&gt;&lt;h4 class="wp-block-heading" id="org5b2847e"&gt;Ollama&lt;/h4&gt;&lt;p&gt;Ollama manages model downloads, dependencies, and configurations, helping simplify the running of LLMs locally. The lightweight, open-source framework offers command-line and graphics interfaces, supporting macOS, Linux, and Windows, and models like Mistral and Llama 3.2 can be easily downloaded. Each model can run its own environment, streamlining the process of switching between different AI tools for various tasks.&lt;/p&gt;&lt;p&gt;Ollama powers research projects, chatbots, and AI applications that handle sensitive information and data, and by removing cloud dependencies, teams can work off the public internet, meeting privacy requirements like GDPR without having to compromise AI functionality.&lt;/p&gt;&lt;p&gt;Ollama boasts a user-friendly setup and is suitable for inexperienced or non-developers. Detailed guides and community support are available, giving businesses full control over all elements.&lt;/p&gt;&lt;h4 class="wp-block-heading" id="org534e088"&gt;DocMind AI&lt;/h4&gt;&lt;p&gt;DocMind AI is a Streamlit application using LangChain and local LLMs through Ollama to achieve detailed, advanced document analysis. Using DocMind AI lets businesses analyse, summarise, and mine data from many file formats, privately and securely.&lt;/p&gt;&lt;p&gt;DocMind AI requires moderate technical know-how. Familiarity with Python and Streamlit are considered beneficial, but not essential. GitHub provides comprehensive setup instructions and documented examples highlight data analysis, information extraction, and document summarisation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="org1acefb2"&gt;Deployment Considerations&lt;/h3&gt;&lt;p&gt;Although LocalAI, Ollama, and DocMind AI have been built to be accessible for all, there is no doubt that some technical knowledge is beneficial. Moreover, an understanding of Python, Docker, or command-line interfaces can help smooth deployment.&lt;/p&gt;&lt;p&gt;Most tools have the capability to run on standard consumer-grade hardware, but performance is likely to improve the higher the specification. It is also essential that all security measures for the hosting environment are implemented, despite locally-run AI models enhancing data privacy by definition. But comprehensive security helps ensure protection against unauthorised access, potential data breaches, and system vulnerability.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Fence” by foilman is licensed under CC BY-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;See also: Salesforce Agentforce 3 brings agent visibility&lt;/p&gt;&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Businesses intending to use AI do not have to rely on cloud-based tools like Chat-GPT, which tend to require uploading or sharing sensitive data. Instead, it is now possible to install and run private AI models locally, ensuring all data remains private and secure.&lt;/p&gt;&lt;p&gt;There are several open-source tools available for those looking to experiment with locally-running AI models, all of which prioritise data privacy, cost-effectiveness, and ease of deployment, therefore ensuring they are suitable for varying levels of technical expertise.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="org4d59a34"&gt;Private AIs for business experimentation&lt;/h3&gt;&lt;h4 class="wp-block-heading" id="org24664d0"&gt;LocalAI&lt;/h4&gt;&lt;p&gt;LocalAI is an open-source platform developed as a drop-in alternative for OpenAI’s API, allows businesses to operate LLMs locally. The tool supports a range of model architectures, including Transformers, GGUF, and Diffusers.&lt;/p&gt;&lt;p&gt;The technical requirements of LocalAI are minimal, operating on consumer-grade hardware. Its modest specifications let businesses use existing hardware. Comprehensive guides and tutorials are available, helping businesses set the tool up. From here, it is possible to generate images, run LLMs, and produce audio on-premise with consumer-grade hardware.&lt;/p&gt;&lt;p&gt;LocalAI provides an extensive library of use cases, showcasing audio synthesis, image creation, text generation, and voice cloning, helping businesses explore practical applications of AI while keepind data secure.&lt;/p&gt;&lt;h4 class="wp-block-heading" id="org5b2847e"&gt;Ollama&lt;/h4&gt;&lt;p&gt;Ollama manages model downloads, dependencies, and configurations, helping simplify the running of LLMs locally. The lightweight, open-source framework offers command-line and graphics interfaces, supporting macOS, Linux, and Windows, and models like Mistral and Llama 3.2 can be easily downloaded. Each model can run its own environment, streamlining the process of switching between different AI tools for various tasks.&lt;/p&gt;&lt;p&gt;Ollama powers research projects, chatbots, and AI applications that handle sensitive information and data, and by removing cloud dependencies, teams can work off the public internet, meeting privacy requirements like GDPR without having to compromise AI functionality.&lt;/p&gt;&lt;p&gt;Ollama boasts a user-friendly setup and is suitable for inexperienced or non-developers. Detailed guides and community support are available, giving businesses full control over all elements.&lt;/p&gt;&lt;h4 class="wp-block-heading" id="org534e088"&gt;DocMind AI&lt;/h4&gt;&lt;p&gt;DocMind AI is a Streamlit application using LangChain and local LLMs through Ollama to achieve detailed, advanced document analysis. Using DocMind AI lets businesses analyse, summarise, and mine data from many file formats, privately and securely.&lt;/p&gt;&lt;p&gt;DocMind AI requires moderate technical know-how. Familiarity with Python and Streamlit are considered beneficial, but not essential. GitHub provides comprehensive setup instructions and documented examples highlight data analysis, information extraction, and document summarisation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="org1acefb2"&gt;Deployment Considerations&lt;/h3&gt;&lt;p&gt;Although LocalAI, Ollama, and DocMind AI have been built to be accessible for all, there is no doubt that some technical knowledge is beneficial. Moreover, an understanding of Python, Docker, or command-line interfaces can help smooth deployment.&lt;/p&gt;&lt;p&gt;Most tools have the capability to run on standard consumer-grade hardware, but performance is likely to improve the higher the specification. It is also essential that all security measures for the hosting environment are implemented, despite locally-run AI models enhancing data privacy by definition. But comprehensive security helps ensure protection against unauthorised access, potential data breaches, and system vulnerability.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Fence” by foilman is licensed under CC BY-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;See also: Salesforce Agentforce 3 brings agent visibility&lt;/p&gt;&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/how-businesses-can-use-local-ai-models-to-improve-data-privacy/</guid><pubDate>Wed, 02 Jul 2025 10:55:35 +0000</pubDate></item><item><title>[NEW] The Download: how AI could improve construction site safety, and our Roundtables conversation with Karen Hao (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/07/02/1119616/the-download-how-ai-could-improve-construction-site-safety-and-our-roundtables-conversation-with-karen-hao/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;How generative AI could help make construction sites safer&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;More than 1,000 construction workers die on the job each year in the US, making it the most dangerous industry for fatal slips, trips, and falls.&lt;/p&gt;&lt;p&gt;A new AI tool called Safety AI could help to change that. It analyzes the progress made on a construction site each day, and flags conditions that violate Occupational Safety and Health Administration rules, with what its creator Philip Lorenzo claims is 95% accuracy.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;Lorenzo says Safety AI is the first one of multiple emerging AI construction safety tools to use generative AI to flag safety violations. But as the 95% success rate suggests, Safety AI is not a flawless and all-knowing intelligence. Read the full story.&lt;/p&gt; 
+ &lt;p&gt;He says that gaining labeled training data is actually much easier than it was when he and his cofounders began the project in 2018, since gathering video footage of sites means that each object, such as a socket, might be captured and then labeled in many different frames. But the tool is high-end—about 50 builders, most with revenue over $250 million, are using Buildots in Europe, the Middle East, Africa, Canada, and the US. It’s been used on over 300 projects so far.&lt;/p&gt;  &lt;p&gt;Ryan Calo, a specialist in robotics and AI law at the University of Washington, likes the idea of AI for construction safety. Since experienced safety managers are already spread thin in construction, however, Calo worries that builders will be tempted to automate humans out of the safety process entirely. “I think AI and drones for spotting safety problems that would otherwise kill workers is super smart,” he says. “So long as it’s verified by a person.”&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Andrew Rosenblum&lt;/em&gt;&lt;em&gt; is a freelance tech journalist based in Oakland, CA.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/07/02/1119607/how-generative-ai-could-help-make-construction-sites-safer/</guid><pubDate>Wed, 02 Jul 2025 09:00:00 +0000</pubDate></item><item><title>How businesses can use local AI models to improve data privacy (AI News)</title><link>https://www.artificialintelligence-news.com/news/how-businesses-can-use-local-ai-models-to-improve-data-privacy/</link><description>&lt;p&gt;Businesses intending to use AI do not have to rely on cloud-based tools like Chat-GPT, which tend to require uploading or sharing sensitive data. Instead, it is now possible to install and run private AI models locally, ensuring all data remains private and secure.&lt;/p&gt;&lt;p&gt;There are several open-source tools available for those looking to experiment with locally-running AI models, all of which prioritise data privacy, cost-effectiveness, and ease of deployment, therefore ensuring they are suitable for varying levels of technical expertise.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="org4d59a34"&gt;Private AIs for business experimentation&lt;/h3&gt;&lt;h4 class="wp-block-heading" id="org24664d0"&gt;LocalAI&lt;/h4&gt;&lt;p&gt;LocalAI is an open-source platform developed as a drop-in alternative for OpenAI’s API, allows businesses to operate LLMs locally. The tool supports a range of model architectures, including Transformers, GGUF, and Diffusers.&lt;/p&gt;&lt;p&gt;The technical requirements of LocalAI are minimal, operating on consumer-grade hardware. Its modest specifications let businesses use existing hardware. Comprehensive guides and tutorials are available, helping businesses set the tool up. From here, it is possible to generate images, run LLMs, and produce audio on-premise with consumer-grade hardware.&lt;/p&gt;&lt;p&gt;LocalAI provides an extensive library of use cases, showcasing audio synthesis, image creation, text generation, and voice cloning, helping businesses explore practical applications of AI while keepind data secure.&lt;/p&gt;&lt;h4 class="wp-block-heading" id="org5b2847e"&gt;Ollama&lt;/h4&gt;&lt;p&gt;Ollama manages model downloads, dependencies, and configurations, helping simplify the running of LLMs locally. The lightweight, open-source framework offers command-line and graphics interfaces, supporting macOS, Linux, and Windows, and models like Mistral and Llama 3.2 can be easily downloaded. Each model can run its own environment, streamlining the process of switching between different AI tools for various tasks.&lt;/p&gt;&lt;p&gt;Ollama powers research projects, chatbots, and AI applications that handle sensitive information and data, and by removing cloud dependencies, teams can work off the public internet, meeting privacy requirements like GDPR without having to compromise AI functionality.&lt;/p&gt;&lt;p&gt;Ollama boasts a user-friendly setup and is suitable for inexperienced or non-developers. Detailed guides and community support are available, giving businesses full control over all elements.&lt;/p&gt;&lt;h4 class="wp-block-heading" id="org534e088"&gt;DocMind AI&lt;/h4&gt;&lt;p&gt;DocMind AI is a Streamlit application using LangChain and local LLMs through Ollama to achieve detailed, advanced document analysis. Using DocMind AI lets businesses analyse, summarise, and mine data from many file formats, privately and securely.&lt;/p&gt;&lt;p&gt;DocMind AI requires moderate technical know-how. Familiarity with Python and Streamlit are considered beneficial, but not essential. GitHub provides comprehensive setup instructions and documented examples highlight data analysis, information extraction, and document summarisation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="org1acefb2"&gt;Deployment Considerations&lt;/h3&gt;&lt;p&gt;Although LocalAI, Ollama, and DocMind AI have been built to be accessible for all, there is no doubt that some technical knowledge is beneficial. Moreover, an understanding of Python, Docker, or command-line interfaces can help smooth deployment.&lt;/p&gt;&lt;p&gt;Most tools have the capability to run on standard consumer-grade hardware, but performance is likely to improve the higher the specification. It is also essential that all security measures for the hosting environment are implemented, despite locally-run AI models enhancing data privacy by definition. But comprehensive security helps ensure protection against unauthorised access, potential data breaches, and system vulnerability.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Fence” by foilman is licensed under CC BY-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;See also: Salesforce Agentforce 3 brings agent visibility&lt;/p&gt;&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Businesses intending to use AI do not have to rely on cloud-based tools like Chat-GPT, which tend to require uploading or sharing sensitive data. Instead, it is now possible to install and run private AI models locally, ensuring all data remains private and secure.&lt;/p&gt;&lt;p&gt;There are several open-source tools available for those looking to experiment with locally-running AI models, all of which prioritise data privacy, cost-effectiveness, and ease of deployment, therefore ensuring they are suitable for varying levels of technical expertise.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="org4d59a34"&gt;Private AIs for business experimentation&lt;/h3&gt;&lt;h4 class="wp-block-heading" id="org24664d0"&gt;LocalAI&lt;/h4&gt;&lt;p&gt;LocalAI is an open-source platform developed as a drop-in alternative for OpenAI’s API, allows businesses to operate LLMs locally. The tool supports a range of model architectures, including Transformers, GGUF, and Diffusers.&lt;/p&gt;&lt;p&gt;The technical requirements of LocalAI are minimal, operating on consumer-grade hardware. Its modest specifications let businesses use existing hardware. Comprehensive guides and tutorials are available, helping businesses set the tool up. From here, it is possible to generate images, run LLMs, and produce audio on-premise with consumer-grade hardware.&lt;/p&gt;&lt;p&gt;LocalAI provides an extensive library of use cases, showcasing audio synthesis, image creation, text generation, and voice cloning, helping businesses explore practical applications of AI while keepind data secure.&lt;/p&gt;&lt;h4 class="wp-block-heading" id="org5b2847e"&gt;Ollama&lt;/h4&gt;&lt;p&gt;Ollama manages model downloads, dependencies, and configurations, helping simplify the running of LLMs locally. The lightweight, open-source framework offers command-line and graphics interfaces, supporting macOS, Linux, and Windows, and models like Mistral and Llama 3.2 can be easily downloaded. Each model can run its own environment, streamlining the process of switching between different AI tools for various tasks.&lt;/p&gt;&lt;p&gt;Ollama powers research projects, chatbots, and AI applications that handle sensitive information and data, and by removing cloud dependencies, teams can work off the public internet, meeting privacy requirements like GDPR without having to compromise AI functionality.&lt;/p&gt;&lt;p&gt;Ollama boasts a user-friendly setup and is suitable for inexperienced or non-developers. Detailed guides and community support are available, giving businesses full control over all elements.&lt;/p&gt;&lt;h4 class="wp-block-heading" id="org534e088"&gt;DocMind AI&lt;/h4&gt;&lt;p&gt;DocMind AI is a Streamlit application using LangChain and local LLMs through Ollama to achieve detailed, advanced document analysis. Using DocMind AI lets businesses analyse, summarise, and mine data from many file formats, privately and securely.&lt;/p&gt;&lt;p&gt;DocMind AI requires moderate technical know-how. Familiarity with Python and Streamlit are considered beneficial, but not essential. GitHub provides comprehensive setup instructions and documented examples highlight data analysis, information extraction, and document summarisation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="org1acefb2"&gt;Deployment Considerations&lt;/h3&gt;&lt;p&gt;Although LocalAI, Ollama, and DocMind AI have been built to be accessible for all, there is no doubt that some technical knowledge is beneficial. Moreover, an understanding of Python, Docker, or command-line interfaces can help smooth deployment.&lt;/p&gt;&lt;p&gt;Most tools have the capability to run on standard consumer-grade hardware, but performance is likely to improve the higher the specification. It is also essential that all security measures for the hosting environment are implemented, despite locally-run AI models enhancing data privacy by definition. But comprehensive security helps ensure protection against unauthorised access, potential data breaches, and system vulnerability.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Fence” by foilman is licensed under CC BY-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;See also: Salesforce Agentforce 3 brings agent visibility&lt;/p&gt;&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/how-businesses-can-use-local-ai-models-to-improve-data-privacy/</guid><pubDate>Wed, 02 Jul 2025 10:55:35 +0000</pubDate></item><item><title>[NEW] Making group conversations more accessible with sound localization (The latest research from Google)</title><link>https://research.google/blog/making-group-conversations-more-accessible-with-sound-localization/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
+        
+            
+                &lt;h2 class="class"&gt;Acknowledgments&lt;/h2&gt;
+            
+        
+        
+    &lt;/p&gt;
+
+
+
+    &lt;p&gt;&lt;i&gt;We thank Artem Dementyev, Alex Olwal, Mathieu Parvaix, Chiong Lai and Dimitri Kanevsky for their work on the SpeechCompass publication and research. Dmitrii Votintcev for ideas on prototypes and interaction designs. We are grateful to Pascal Getreuer, Richard Lyon, Alex Huang, Shao-Fu Shih, and Chet Gnegy for their help with algorithms. We also thank Shaun Kane, James Landay, Malcolm Slaney, and Meredith Morris for their feedback on this paper. We appreciate the contributions of Carson Lau for the phone case mechanical design and Ngan Nguyen for electronics assembly. Finally, we thank Mei Lu, Don Barnett, Ryan Geraghty, and Sanjay Batra for UX research and design.&lt;/i&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
+        
+            
+                &lt;h2 class="class"&gt;Acknowledgments&lt;/h2&gt;
+            
+        
+        
+    &lt;/p&gt;
+
+
+
+    &lt;p&gt;&lt;i&gt;We thank Artem Dementyev, Alex Olwal, Mathieu Parvaix, Chiong Lai and Dimitri Kanevsky for their work on the SpeechCompass publication and research. Dmitrii Votintcev for ideas on prototypes and interaction designs. We are grateful to Pascal Getreuer, Richard Lyon, Alex Huang, Shao-Fu Shih, and Chet Gnegy for their help with algorithms. We also thank Shaun Kane, James Landay, Malcolm Slaney, and Meredith Morris for their feedback on this paper. We appreciate the contributions of Carson Lau for the phone case mechanical design and Ngan Nguyen for electronics assembly. Finally, we thank Mei Lu, Don Barnett, Ryan Geraghty, and Sanjay Batra for UX research and design.&lt;/i&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/making-group-conversations-more-accessible-with-sound-localization/</guid><pubDate>Wed, 02 Jul 2025 11:00:00 +0000</pubDate></item><item><title>The Download: how AI could improve construction site safety, and our Roundtables conversation with Karen Hao (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/07/02/1119616/the-download-how-ai-could-improve-construction-site-safety-and-our-roundtables-conversation-with-karen-hao/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;How generative AI could help make construction sites safer&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;More than 1,000 construction workers die on the job each year in the US, making it the most dangerous industry for fatal slips, trips, and falls.&lt;/p&gt;&lt;p&gt;A new AI tool called Safety AI could help to change that. It analyzes the progress made on a construction site each day, and flags conditions that violate Occupational Safety and Health Administration rules, with what its creator Philip Lorenzo claims is 95% accuracy.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;Lorenzo says Safety AI is the first one of multiple emerging AI construction safety tools to use generative AI to flag safety violations. But as the 95% success rate suggests, Safety AI is not a flawless and all-knowing intelligence. Read the full story.&lt;/p&gt; 
  &lt;p&gt;&lt;em&gt;—Andrew Rosenblum&lt;/em&gt;&lt;/p&gt;   
  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Roundtables: Inside OpenAI’s Empire with Karen Hao&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Earlier this week, we held a subscriber-only Roundtable discussion with author and former MIT Technology Review senior editor Karen Hao about her new book &lt;em&gt;Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;You can watch her conversation with our executive editor Niall Firth here—and if you aren’t already, you can subscribe to us here.&amp;nbsp;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;MIT Technology Review Narrated: The tech industry can’t agree on what open-source AI means. That’s a problem.&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;What counts as 'open-source AI'? The answer could determine who gets to shape the future of the technology.&lt;/p&gt;  &lt;p&gt;This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we’re publishing each week on &lt;strong&gt;Spotify&lt;/strong&gt; and &lt;strong&gt;Apple Podcasts&lt;/strong&gt;. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; 
 
@@ -25,4 +47,728 @@
  &lt;p&gt;&lt;strong&gt;8 Chipmaking companies are attractive prospects for investors&lt;/strong&gt;&lt;br /&gt;And they’re likely to be better bets. (WSJ $)&lt;br /&gt;+ &lt;em&gt;OpenAI has denied that it plans to use Google’s in-house chip. &lt;/em&gt;(Reuters)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 How cancer studies in dogs could help develop treatments for humans&lt;br /&gt;&lt;/strong&gt;The disease presents very similarly across both species. (Knowable Magazine)&lt;br /&gt;+ &lt;em&gt;Cancer vaccines are having a renaissance. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
  &lt;p&gt;&lt;strong&gt;10 X is planning to task AI agents with writing Community Notes&lt;/strong&gt;&lt;br /&gt;Thankfully, humans will still review them. (Bloomberg $)&lt;br /&gt;+ &lt;em&gt;Why does AI hallucinate? &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“Missionaries will beat mercenaries.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—OpenAI CEO Sam Altman takes aim at Meta’s recent spree of attempting to hire his staff, Wired reports.&lt;/p&gt;   
  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image"&gt;&lt;img alt="alt" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXduB80gTDJ7JHFbs98qkJdaOnlYBXCA749rb0HY6fm4rE-N-QAe6cC5yHFubH2nu486Dnox7YUV-m3bvXBTG4wqtpMBEPxJ56jwmZIzw83DBYCw0CSjQtbFhyIh88qJEtS7BeboKQ?key=CtSe_KkxB9JkAsRijviuSw" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;The world’s next big environmental problem could come from space&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In September, a unique chase took place in the skies above Easter Island. From a rented jet, a team of researchers captured a satellite’s last moments as it fell out of space and blazed into ash across the sky, using cameras and scientific equipment. Their hope was to gather priceless insights into the physical and chemical processes that occur when satellites burn up as they fall to Earth at the end of their missions.&lt;/p&gt;  &lt;p&gt;This kind of study is growing more urgent. The number of satellites in the sky is rapidly rising—with a tenfold increase forecast by the end of the decade. Letting these satellites burn up in the atmosphere at the end of their lives helps keep the quantity of space junk to a minimum. But doing so deposits satellite ash in the Earth’s atmosphere. This metallic ash could potentially alter the climate, and we don’t yet know how serious the problem is likely to be. Read the full story.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Tereza Pultarova&lt;/em&gt;&lt;/p&gt; 
-&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/07/02/1119616/the-download-how-ai-could-improve-construction-site-safety-and-our-roundtables-conversation-with-karen-hao/</guid><pubDate>Wed, 02 Jul 2025 12:10:00 +0000</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/07/02/1119616/the-download-how-ai-could-improve-construction-site-safety-and-our-roundtables-conversation-with-karen-hao/</guid><pubDate>Wed, 02 Jul 2025 12:10:00 +0000</pubDate></item><item><title>[NEW] NVIDIA RTX AI Accelerates FLUX.1 Kontext — Now Available for Download (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/rtx-ai-garage-flux-kontext-nim-tensorrt/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Black Forest Labs, one of the world’s leading AI research labs, just changed the game for image generation.&lt;/p&gt;
+&lt;p&gt;The lab’s FLUX.1 image models have earned global attention for delivering high-quality visuals with exceptional prompt adherence. Now, with its new FLUX.1 Kontext model, the lab is fundamentally changing how users can guide and refine the image generation process.&lt;/p&gt;
+&lt;p&gt;To get their desired results, AI artists today often use a combination of models and ControlNets — AI models that help guide the outputs of an image generator. This commonly involves combining multiple ControlNets or using advanced techniques like the one used in the NVIDIA AI Blueprint for 3D-guided image generation, where a draft 3D scene is used to determine the composition of an image.&lt;/p&gt;
+&lt;p&gt;The new FLUX.1 Kontext model simplifies this by providing a single model that can perform both image generation and editing, using natural language.&lt;/p&gt;
+&lt;p&gt;NVIDIA has collaborated with Black Forest Labs to optimize FLUX.1 Kontext [dev] for NVIDIA RTX GPUs using the NVIDIA TensorRT software development kit and quantization to deliver faster inference with lower VRAM requirements.&lt;/p&gt;
+&lt;p&gt;For creators and developers alike, TensorRT optimizations mean faster edits, smoother iteration and more control — right from their RTX-powered machines.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;The FLUX.1 Kontext [dev] Flex: In-Context Image Generation&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Black Forest Labs in May introduced the FLUX.1 Kontext family of image models which accept both text and image prompts.&lt;/p&gt;
+&lt;p&gt;These models allow users to start from a reference image and guide edits with simple language, without the need for fine-tuning or complex workflows with multiple ControlNets.&lt;/p&gt;
+&lt;p&gt;FLUX.1 Kontext is an open-weight generative model built for image editing using a guided, step-by-step generation process that makes it easier to control how an image evolves, whether refining small details or transforming an entire scene. Because the model accepts both text and image inputs, users can easily reference a visual concept and guide how it evolves in a natural and intuitive way. This enables coherent, high-quality image edits that stay true to the original concept.&lt;/p&gt;
+&lt;p&gt;FLUX.1 Kontext’s key capabilities include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Character Consistency: &lt;/b&gt;Preserve unique traits across multiple scenes and angles.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Localized Editing: &lt;/b&gt;Modify specific elements without altering the rest of the image.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Style Transfer:&lt;/b&gt; Apply the look and feel of a reference image to new scenes.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Real-Time Performance: &lt;/b&gt;Low-latency generation supports fast iteration and feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Black Forest Labs last week released FLUX.1 Kontext weights for download in Hugging Face, as well as the corresponding TensorRT-accelerated variants.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_82934"&gt;&lt;img alt="alt" class="size-full wp-image-82934" height="800" src="https://blogs.nvidia.com/wp-content/uploads/2025/07/FLUX.1-Kontext.png" width="1300" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-82934"&gt;Three side-by-side images of the same graphic of coffee and snacks on a table with flowers, showing an example of multi-turn editing possible with the FLUX.1 Kontext [dev] model. The original image (left); the first edit transforms it into a Bauhaus style image (middle) and the second edit changes the color style of the image with a pastel palette (right).&lt;/figcaption&gt;&lt;/figure&gt;Traditionally, advanced image editing required complex instructions and hard-to-create masks, depth maps or edge maps. FLUX.1 Kontext [dev] introduces a much more intuitive and flexible interface, blending step-by-step edits with cutting-edge optimization for diffusion model inference.
+&lt;p&gt;The [dev] model emphasizes flexibility and control. It supports capabilities like character consistency, style preservation and localized image adjustments, with integrated ControlNet functionality for structured visual prompting.&lt;/p&gt;
+&lt;p&gt;FLUX.1 Kontext [dev] is already available in ComfyUI and the Black Forest Labs Playground, with an NVIDIA NIM microservice version expected to release in August.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Optimized for RTX With TensorRT Acceleration&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;FLUX.1 Kontext [dev] accelerates creativity by simplifying complex workflows. To further streamline the work and broaden accessibility, NVIDIA and Black Forest Labs collaborated to quantize the model — reducing the VRAM requirements so more people can run it locally — and optimized it with TensorRT to double its performance.&lt;/p&gt;
+&lt;p&gt;The quantization step enables the model size to be reduced from 24GB to 12GB for FP8 (Ada) and 7GB for FP4 (Blackwell). The FP8 checkpoint is optimized for GeForce RTX 40 Series GPUs, which have FP8 accelerators in their Tensor Cores. The FP4 checkpoint is optimized for GeForce RTX 50 Series GPUs for the same reason and uses a new method called SVDQuant, which preserves high image quality while reducing model size.&lt;/p&gt;
+&lt;p&gt;TensorRT — a framework to access the Tensor Cores in NVIDIA RTX GPUs for maximum performance — provides over 2x acceleration compared with running the original BF16 model with PyTorch.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_82938"&gt;&lt;img alt="alt" class="size-full wp-image-82938" height="424" src="https://blogs.nvidia.com/wp-content/uploads/2025/07/FLUX.1.png" width="1200" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-82938"&gt;Speedup compared with BF16 GPU (left, higher is better) and memory usage required to run FLUX.1 Kontext [dev] in different precisions (right, lower is better).&lt;/figcaption&gt;&lt;/figure&gt;Learn more about NVIDIA optimizations and how to get started with FLUX.1 Kontext [dev] on the NVIDIA Technical Blog.
+&lt;h2&gt;&lt;b&gt;Get Started With FLUX.1 Kontext&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;FLUX.1 Kontext [dev] is available on Hugging Face (Torch and TensorRT).&lt;/p&gt;
+&lt;p&gt;AI enthusiasts interested in testing these models can download the Torch variants and use them in ComfyUI. Black Forest Labs has also made available an online playground for testing the model.&lt;/p&gt;
+&lt;p&gt;For advanced users and developers, NVIDIA is working on sample code for easy integration of TensorRT pipelines into workflows. Check out the DemoDiffusion repository to come later this month.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;But Wait, There’s More&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Google last week announced the release of Gemma 3n, a new multimodal small language model ideal for running on NVIDIA GeForce RTX GPUs and the NVIDIA Jetson platform for edge AI and robotics.&lt;/p&gt;
+&lt;p&gt;AI enthusiasts can use Gemma 3n models with RTX accelerations in Ollama and Llama.cpp with their favorite apps, such as AnythingLLM and LM Studio.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_82941"&gt;&lt;img alt="alt" class="size-full wp-image-82941" height="889" src="https://blogs.nvidia.com/wp-content/uploads/2025/07/Gemma.png" width="861" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-82941"&gt;Performance tested in June 2025 with Gemma 3n in Ollama, with 4 billion active parameters, 100 ISL, 200 OSL.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Plus, developers can easily deploy Gemma 3n models using Ollama and benefit from RTX accelerations. Learn more about how to run Gemma 3n on Jetson and RTX.&lt;/p&gt;
+&lt;p&gt;In addition, NVIDIA’s Plug and Play: Project G-Assist Plug-In Hackathon — running virtually through Wednesday, July 16 — invites developers to explore AI and build custom G-Assist plug-ins for a chance to win prizes. Save the date for the G-Assist Plug-In webinar on Wednesday, July 9, from 10-11 a.m. PT, to learn more about Project G-Assist capabilities and fundamentals, and to participate in a live Q&amp;amp;A session.&lt;/p&gt;
+&lt;p&gt;Join NVIDIA’s Discord server to connect with community developers and AI enthusiasts for discussions on what’s possible with RTX AI.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Each week, the &lt;/i&gt;&lt;i&gt;RTX AI Garage&lt;/i&gt; &lt;i&gt;blog series features community-driven AI innovations and content for those looking to learn more about NVIDIA NIM microservices and AI Blueprints, as well as building &lt;/i&gt;&lt;i&gt;AI agents&lt;/i&gt;&lt;i&gt;, creative workflows, digital humans, productivity apps and more on AI PCs and workstations.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Plug in to NVIDIA AI PC on &lt;/i&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;TikTok&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;X&lt;/i&gt;&lt;i&gt; — and stay informed by subscribing to the &lt;/i&gt;&lt;i&gt;RTX AI PC newsletter&lt;/i&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Follow NVIDIA Workstation on &lt;/i&gt;&lt;i&gt;LinkedIn&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;X&lt;/i&gt;&lt;i&gt;.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;See &lt;/i&gt;&lt;i&gt;notice&lt;/i&gt;&lt;i&gt; regarding software product information.&lt;/i&gt;&lt;/p&gt;
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</description><content:encoded>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Black Forest Labs, one of the world’s leading AI research labs, just changed the game for image generation.&lt;/p&gt;
+&lt;p&gt;The lab’s FLUX.1 image models have earned global attention for delivering high-quality visuals with exceptional prompt adherence. Now, with its new FLUX.1 Kontext model, the lab is fundamentally changing how users can guide and refine the image generation process.&lt;/p&gt;
+&lt;p&gt;To get their desired results, AI artists today often use a combination of models and ControlNets — AI models that help guide the outputs of an image generator. This commonly involves combining multiple ControlNets or using advanced techniques like the one used in the NVIDIA AI Blueprint for 3D-guided image generation, where a draft 3D scene is used to determine the composition of an image.&lt;/p&gt;
+&lt;p&gt;The new FLUX.1 Kontext model simplifies this by providing a single model that can perform both image generation and editing, using natural language.&lt;/p&gt;
+&lt;p&gt;NVIDIA has collaborated with Black Forest Labs to optimize FLUX.1 Kontext [dev] for NVIDIA RTX GPUs using the NVIDIA TensorRT software development kit and quantization to deliver faster inference with lower VRAM requirements.&lt;/p&gt;
+&lt;p&gt;For creators and developers alike, TensorRT optimizations mean faster edits, smoother iteration and more control — right from their RTX-powered machines.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;The FLUX.1 Kontext [dev] Flex: In-Context Image Generation&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Black Forest Labs in May introduced the FLUX.1 Kontext family of image models which accept both text and image prompts.&lt;/p&gt;
+&lt;p&gt;These models allow users to start from a reference image and guide edits with simple language, without the need for fine-tuning or complex workflows with multiple ControlNets.&lt;/p&gt;
+&lt;p&gt;FLUX.1 Kontext is an open-weight generative model built for image editing using a guided, step-by-step generation process that makes it easier to control how an image evolves, whether refining small details or transforming an entire scene. Because the model accepts both text and image inputs, users can easily reference a visual concept and guide how it evolves in a natural and intuitive way. This enables coherent, high-quality image edits that stay true to the original concept.&lt;/p&gt;
+&lt;p&gt;FLUX.1 Kontext’s key capabilities include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Character Consistency: &lt;/b&gt;Preserve unique traits across multiple scenes and angles.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Localized Editing: &lt;/b&gt;Modify specific elements without altering the rest of the image.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Style Transfer:&lt;/b&gt; Apply the look and feel of a reference image to new scenes.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Real-Time Performance: &lt;/b&gt;Low-latency generation supports fast iteration and feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Black Forest Labs last week released FLUX.1 Kontext weights for download in Hugging Face, as well as the corresponding TensorRT-accelerated variants.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_82934"&gt;&lt;img alt="alt" class="size-full wp-image-82934" height="800" src="https://blogs.nvidia.com/wp-content/uploads/2025/07/FLUX.1-Kontext.png" width="1300" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-82934"&gt;Three side-by-side images of the same graphic of coffee and snacks on a table with flowers, showing an example of multi-turn editing possible with the FLUX.1 Kontext [dev] model. The original image (left); the first edit transforms it into a Bauhaus style image (middle) and the second edit changes the color style of the image with a pastel palette (right).&lt;/figcaption&gt;&lt;/figure&gt;Traditionally, advanced image editing required complex instructions and hard-to-create masks, depth maps or edge maps. FLUX.1 Kontext [dev] introduces a much more intuitive and flexible interface, blending step-by-step edits with cutting-edge optimization for diffusion model inference.
+&lt;p&gt;The [dev] model emphasizes flexibility and control. It supports capabilities like character consistency, style preservation and localized image adjustments, with integrated ControlNet functionality for structured visual prompting.&lt;/p&gt;
+&lt;p&gt;FLUX.1 Kontext [dev] is already available in ComfyUI and the Black Forest Labs Playground, with an NVIDIA NIM microservice version expected to release in August.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Optimized for RTX With TensorRT Acceleration&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;FLUX.1 Kontext [dev] accelerates creativity by simplifying complex workflows. To further streamline the work and broaden accessibility, NVIDIA and Black Forest Labs collaborated to quantize the model — reducing the VRAM requirements so more people can run it locally — and optimized it with TensorRT to double its performance.&lt;/p&gt;
+&lt;p&gt;The quantization step enables the model size to be reduced from 24GB to 12GB for FP8 (Ada) and 7GB for FP4 (Blackwell). The FP8 checkpoint is optimized for GeForce RTX 40 Series GPUs, which have FP8 accelerators in their Tensor Cores. The FP4 checkpoint is optimized for GeForce RTX 50 Series GPUs for the same reason and uses a new method called SVDQuant, which preserves high image quality while reducing model size.&lt;/p&gt;
+&lt;p&gt;TensorRT — a framework to access the Tensor Cores in NVIDIA RTX GPUs for maximum performance — provides over 2x acceleration compared with running the original BF16 model with PyTorch.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_82938"&gt;&lt;img alt="alt" class="size-full wp-image-82938" height="424" src="https://blogs.nvidia.com/wp-content/uploads/2025/07/FLUX.1.png" width="1200" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-82938"&gt;Speedup compared with BF16 GPU (left, higher is better) and memory usage required to run FLUX.1 Kontext [dev] in different precisions (right, lower is better).&lt;/figcaption&gt;&lt;/figure&gt;Learn more about NVIDIA optimizations and how to get started with FLUX.1 Kontext [dev] on the NVIDIA Technical Blog.
+&lt;h2&gt;&lt;b&gt;Get Started With FLUX.1 Kontext&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;FLUX.1 Kontext [dev] is available on Hugging Face (Torch and TensorRT).&lt;/p&gt;
+&lt;p&gt;AI enthusiasts interested in testing these models can download the Torch variants and use them in ComfyUI. Black Forest Labs has also made available an online playground for testing the model.&lt;/p&gt;
+&lt;p&gt;For advanced users and developers, NVIDIA is working on sample code for easy integration of TensorRT pipelines into workflows. Check out the DemoDiffusion repository to come later this month.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;But Wait, There’s More&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Google last week announced the release of Gemma 3n, a new multimodal small language model ideal for running on NVIDIA GeForce RTX GPUs and the NVIDIA Jetson platform for edge AI and robotics.&lt;/p&gt;
+&lt;p&gt;AI enthusiasts can use Gemma 3n models with RTX accelerations in Ollama and Llama.cpp with their favorite apps, such as AnythingLLM and LM Studio.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_82941"&gt;&lt;img alt="alt" class="size-full wp-image-82941" height="889" src="https://blogs.nvidia.com/wp-content/uploads/2025/07/Gemma.png" width="861" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-82941"&gt;Performance tested in June 2025 with Gemma 3n in Ollama, with 4 billion active parameters, 100 ISL, 200 OSL.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Plus, developers can easily deploy Gemma 3n models using Ollama and benefit from RTX accelerations. Learn more about how to run Gemma 3n on Jetson and RTX.&lt;/p&gt;
+&lt;p&gt;In addition, NVIDIA’s Plug and Play: Project G-Assist Plug-In Hackathon — running virtually through Wednesday, July 16 — invites developers to explore AI and build custom G-Assist plug-ins for a chance to win prizes. Save the date for the G-Assist Plug-In webinar on Wednesday, July 9, from 10-11 a.m. PT, to learn more about Project G-Assist capabilities and fundamentals, and to participate in a live Q&amp;amp;A session.&lt;/p&gt;
+&lt;p&gt;Join NVIDIA’s Discord server to connect with community developers and AI enthusiasts for discussions on what’s possible with RTX AI.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Each week, the &lt;/i&gt;&lt;i&gt;RTX AI Garage&lt;/i&gt; &lt;i&gt;blog series features community-driven AI innovations and content for those looking to learn more about NVIDIA NIM microservices and AI Blueprints, as well as building &lt;/i&gt;&lt;i&gt;AI agents&lt;/i&gt;&lt;i&gt;, creative workflows, digital humans, productivity apps and more on AI PCs and workstations.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Plug in to NVIDIA AI PC on &lt;/i&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;TikTok&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;X&lt;/i&gt;&lt;i&gt; — and stay informed by subscribing to the &lt;/i&gt;&lt;i&gt;RTX AI PC newsletter&lt;/i&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Follow NVIDIA Workstation on &lt;/i&gt;&lt;i&gt;LinkedIn&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;X&lt;/i&gt;&lt;i&gt;.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;See &lt;/i&gt;&lt;i&gt;notice&lt;/i&gt;&lt;i&gt; regarding software product information.&lt;/i&gt;&lt;/p&gt;
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/rtx-ai-garage-flux-kontext-nim-tensorrt/</guid><pubDate>Wed, 02 Jul 2025 13:00:40 +0000</pubDate></item><item><title>[NEW] US chipmakers could see bigger tax credits if Trump’s spending bill passes (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/02/us-chipmakers-could-see-bigger-tax-credits-if-trumps-spending-bill-passes/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1246479507.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The semiconductor industry could see a big tax benefit if the Trump administration is able to pass the current version of its spending bill.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The latest draft of the Trump administration’s “Big, Beautiful Bill,” which already passed in the Senate, will raise the tax credit for chipmakers building manufacturing plants in the U.S. from 25% to 35%, as originally reported by CNBC.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Companies including Intel, TSMC, and Micron Technology could reap these benefits if they continue to expand their U.S. manufacturing efforts.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This proposed tax credit could give the semiconductor industry a needed boost after recent chip export licensing requirements, regarding selling advanced AI chips to China, have resulted in material revenue hits to multiple domestic chipmakers.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1246479507.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The semiconductor industry could see a big tax benefit if the Trump administration is able to pass the current version of its spending bill.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The latest draft of the Trump administration’s “Big, Beautiful Bill,” which already passed in the Senate, will raise the tax credit for chipmakers building manufacturing plants in the U.S. from 25% to 35%, as originally reported by CNBC.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Companies including Intel, TSMC, and Micron Technology could reap these benefits if they continue to expand their U.S. manufacturing efforts.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This proposed tax credit could give the semiconductor industry a needed boost after recent chip export licensing requirements, regarding selling advanced AI chips to China, have resulted in material revenue hits to multiple domestic chipmakers.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/02/us-chipmakers-could-see-bigger-tax-credits-if-trumps-spending-bill-passes/</guid><pubDate>Wed, 02 Jul 2025 15:57:47 +0000</pubDate></item><item><title>[NEW] Study finds AI can slash global carbon emissions (AI News)</title><link>https://www.artificialintelligence-news.com/news/study-finds-ai-slash-global-carbon-emissions/</link><description>&lt;p&gt;A study from the London School of Economics and Systemiq suggests it’s possible to cut global carbon emissions without giving up modern comforts—with AI as our ally in the climate fight.&lt;/p&gt;&lt;p&gt;According to the duo’s research, smart AI applications in just three industries could slash greenhouse gas emissions by 3.2-5.4 billion tonnes each year by 2035.&lt;/p&gt;&lt;p&gt;In contrast to much of what we’ve heard, these reductions would far outweigh the carbon that AI itself produces.&lt;/p&gt;&lt;p&gt;The study, ‘Green and intelligent: the role of AI in the climate transition,’ doesn’t just see AI as a tool for small improvements. Instead, it could help transform our entire economy into something sustainable and inclusive.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-net-zero-as-an-opportunity-not-a-burden"&gt;Net-zero as an opportunity, not a burden&lt;/h3&gt;&lt;p&gt;The researchers suggest we should see the shift to a net-zero economy not as a burden but as “a great opportunity for innovation and sustainable, resilient, and inclusive economic growth.”&lt;/p&gt;&lt;p&gt;They focused on three of the major carbon culprits – power generation, meat and dairy production, and passenger vehicles – which together cause almost half of global emissions. The potential AI savings from just these sectors would more than cancel out the estimated 0.4 to 1.6 billion tonnes of annual emissions from running all those AI data centers.&lt;/p&gt;&lt;p&gt;As the authors put it, “the case for using AI for the climate transition is not only strong but imperative.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-five-big-ways-ai-can-help-save-our-planet-and-us"&gt;Five big ways AI can help save our planet (and us)&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Making complex systems smarter&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Think about how our modern lives depend on intricate networks for energy, transport, and city living. AI can redesign these systems to work much more efficiently.&lt;/p&gt;&lt;p&gt;Remember those frustrating power outages when the wind stops blowing or clouds cover the sun? AI can help predict these fluctuations in renewable energy and balance them with real-time demand. DeepMind has already shown its AI can boost wind energy’s economic value by 20% by reducing the need for backup power sources.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2. Speeding up discovery and reducing waste&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Almost half the emissions cuts needed to reach net-zero by 2050 will rely on technologies that are barely out of the lab today and AI is turbocharging these breakthroughs.&lt;/p&gt;&lt;p&gt;Take Google DeepMind’s GNOME tool, which has already identified over two million new crystal structures that could revolutionise renewable energy and battery storage. Or consider how Amazon’s AI packaging algorithms have saved over three million metric tons of material since 2015.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;3. Helping us make better choices&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Our daily decisions – from what we eat, to how we travel – could drive up to 70% of emissions reductions by 2050. But making the right choice isn’t always easy.&lt;/p&gt;&lt;p&gt;AI can be our personal environmental coach, breaking down information barriers and offering tailored recommendations. Already using Google Maps’ fuel-efficient routes? That’s AI helping you cut emissions while saving gas money. And those smart home systems like Nest use AI to optimise your heating and cooling, which could save millions of tonnes of CO2 if we all adopted them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;4. Predicting climate changes and policy effects&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How do we plan for a changing climate? AI can process enormous datasets to forecast climate patterns with unprecedented accuracy.&lt;/p&gt;&lt;p&gt;Tools like IceNet (developed by the British Antarctic Survey and the Alan Turing Institute) are using AI to predict sea ice levels better than ever before, helping communities and businesses prepare. This capability also extends to helping governments design climate policies that actually work, by learning from countless case studies around the world.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;5. Keeping us safe in extreme weather&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As climate disasters intensify, early warning can save lives. AI-powered systems for floods and wildfires are becoming essential safety nets.&lt;/p&gt;&lt;p&gt;Google’s Flood Hub uses machine learning to provide flood forecasts up to five days in advance across more than 80 countries. That’s precious time for people to protect their homes and evacuate if necessary.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-numbers-support-ai-cutting-global-carbon-emissions"&gt;The numbers support AI cutting global carbon emissions&lt;/h3&gt;&lt;p&gt;When researchers crunched the numbers, they found AI could:&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;Cut power sector emissions by 1.8 billion tonnes yearly by 2035 just by optimising renewable energy&lt;/li&gt;&lt;li&gt;Save between 0.9 and 3.0 billion tonnes annually by improving plant-based proteins to taste and feel more like meat&lt;/li&gt;&lt;li&gt;Reduce vehicle emissions by up to 0.6 billion tonnes each year through shared mobility and better battery technology&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Here’s the catch: we can’t just sit back and let market forces determine how AI develops. The researchers call for an “active state” to ensure that AI benefits everyone and the planet.&lt;/p&gt;&lt;p&gt;“Governments have a critical role in ensuring that AI is deployed effectively to accelerate the transition equitably and sustainably,” they conclude.&lt;/p&gt;&lt;p&gt;What this means in practice is creating incentives for green AI research, regulating to minimise environmental impact, and investing in infrastructure so communities worldwide can share in the benefits.&lt;/p&gt;&lt;p&gt;By guiding innovation and working together internationally, we can unlock AI’s full potential to reduce global carbon emissions and tackle the climate crisis—and build a future where both people and the planet can thrive.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Abhishek Mishra)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Power play: Can the grid cope with AI’s growing appetite?&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;A study from the London School of Economics and Systemiq suggests it’s possible to cut global carbon emissions without giving up modern comforts—with AI as our ally in the climate fight.&lt;/p&gt;&lt;p&gt;According to the duo’s research, smart AI applications in just three industries could slash greenhouse gas emissions by 3.2-5.4 billion tonnes each year by 2035.&lt;/p&gt;&lt;p&gt;In contrast to much of what we’ve heard, these reductions would far outweigh the carbon that AI itself produces.&lt;/p&gt;&lt;p&gt;The study, ‘Green and intelligent: the role of AI in the climate transition,’ doesn’t just see AI as a tool for small improvements. Instead, it could help transform our entire economy into something sustainable and inclusive.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-net-zero-as-an-opportunity-not-a-burden"&gt;Net-zero as an opportunity, not a burden&lt;/h3&gt;&lt;p&gt;The researchers suggest we should see the shift to a net-zero economy not as a burden but as “a great opportunity for innovation and sustainable, resilient, and inclusive economic growth.”&lt;/p&gt;&lt;p&gt;They focused on three of the major carbon culprits – power generation, meat and dairy production, and passenger vehicles – which together cause almost half of global emissions. The potential AI savings from just these sectors would more than cancel out the estimated 0.4 to 1.6 billion tonnes of annual emissions from running all those AI data centers.&lt;/p&gt;&lt;p&gt;As the authors put it, “the case for using AI for the climate transition is not only strong but imperative.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-five-big-ways-ai-can-help-save-our-planet-and-us"&gt;Five big ways AI can help save our planet (and us)&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Making complex systems smarter&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Think about how our modern lives depend on intricate networks for energy, transport, and city living. AI can redesign these systems to work much more efficiently.&lt;/p&gt;&lt;p&gt;Remember those frustrating power outages when the wind stops blowing or clouds cover the sun? AI can help predict these fluctuations in renewable energy and balance them with real-time demand. DeepMind has already shown its AI can boost wind energy’s economic value by 20% by reducing the need for backup power sources.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2. Speeding up discovery and reducing waste&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Almost half the emissions cuts needed to reach net-zero by 2050 will rely on technologies that are barely out of the lab today and AI is turbocharging these breakthroughs.&lt;/p&gt;&lt;p&gt;Take Google DeepMind’s GNOME tool, which has already identified over two million new crystal structures that could revolutionise renewable energy and battery storage. Or consider how Amazon’s AI packaging algorithms have saved over three million metric tons of material since 2015.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;3. Helping us make better choices&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Our daily decisions – from what we eat, to how we travel – could drive up to 70% of emissions reductions by 2050. But making the right choice isn’t always easy.&lt;/p&gt;&lt;p&gt;AI can be our personal environmental coach, breaking down information barriers and offering tailored recommendations. Already using Google Maps’ fuel-efficient routes? That’s AI helping you cut emissions while saving gas money. And those smart home systems like Nest use AI to optimise your heating and cooling, which could save millions of tonnes of CO2 if we all adopted them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;4. Predicting climate changes and policy effects&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How do we plan for a changing climate? AI can process enormous datasets to forecast climate patterns with unprecedented accuracy.&lt;/p&gt;&lt;p&gt;Tools like IceNet (developed by the British Antarctic Survey and the Alan Turing Institute) are using AI to predict sea ice levels better than ever before, helping communities and businesses prepare. This capability also extends to helping governments design climate policies that actually work, by learning from countless case studies around the world.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;5. Keeping us safe in extreme weather&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As climate disasters intensify, early warning can save lives. AI-powered systems for floods and wildfires are becoming essential safety nets.&lt;/p&gt;&lt;p&gt;Google’s Flood Hub uses machine learning to provide flood forecasts up to five days in advance across more than 80 countries. That’s precious time for people to protect their homes and evacuate if necessary.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-numbers-support-ai-cutting-global-carbon-emissions"&gt;The numbers support AI cutting global carbon emissions&lt;/h3&gt;&lt;p&gt;When researchers crunched the numbers, they found AI could:&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;Cut power sector emissions by 1.8 billion tonnes yearly by 2035 just by optimising renewable energy&lt;/li&gt;&lt;li&gt;Save between 0.9 and 3.0 billion tonnes annually by improving plant-based proteins to taste and feel more like meat&lt;/li&gt;&lt;li&gt;Reduce vehicle emissions by up to 0.6 billion tonnes each year through shared mobility and better battery technology&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Here’s the catch: we can’t just sit back and let market forces determine how AI develops. The researchers call for an “active state” to ensure that AI benefits everyone and the planet.&lt;/p&gt;&lt;p&gt;“Governments have a critical role in ensuring that AI is deployed effectively to accelerate the transition equitably and sustainably,” they conclude.&lt;/p&gt;&lt;p&gt;What this means in practice is creating incentives for green AI research, regulating to minimise environmental impact, and investing in infrastructure so communities worldwide can share in the benefits.&lt;/p&gt;&lt;p&gt;By guiding innovation and working together internationally, we can unlock AI’s full potential to reduce global carbon emissions and tackle the climate crisis—and build a future where both people and the planet can thrive.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Abhishek Mishra)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Power play: Can the grid cope with AI’s growing appetite?&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/study-finds-ai-slash-global-carbon-emissions/</guid><pubDate>Wed, 02 Jul 2025 16:01:40 +0000</pubDate></item><item><title>[NEW] NYT to start searching deleted ChatGPT logs after beating OpenAI in court (AI – Ars Technica)</title><link>https://arstechnica.com/tech-policy/2025/07/nyt-to-start-searching-deleted-chatgpt-logs-after-beating-openai-in-court/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        What are the odds NYT will access your ChatGPT logs in OpenAI court battle?
+      &lt;/p&gt;
+
+      
+    &lt;/div&gt;
+
+    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2200528080-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2200528080-1152x648-1751471454.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Pakorn Supajitsoontorn | iStock / Getty Images Plus
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;Last week, OpenAI raised objections in court, hoping to overturn a court order requiring the AI company to retain all ChatGPT logs "indefinitely," including deleted and temporary chats.&lt;/p&gt;
+&lt;p&gt;But Sidney Stein, the US district judge reviewing OpenAI's request, immediately denied OpenAI's objections. He was seemingly unmoved by the company's claims that the order forced OpenAI to abandon "long-standing privacy norms" and weaken privacy protections that users expect based on ChatGPT's terms of service. Rather, Stein suggested that OpenAI's user agreement specified that their data could be retained as part of a legal process, which Stein said is exactly what is happening now.&lt;/p&gt;
+&lt;p&gt;The order was issued by magistrate judge Ona Wang just days after news organizations, led by The New York Times, requested it. The news plaintiffs claimed the order was urgently needed to preserve potential evidence in their copyright case, alleging that ChatGPT users are likely to delete chats where they attempted to use the chatbot to skirt paywalls to access news content.&lt;/p&gt;
+&lt;p&gt;A spokesperson told Ars that OpenAI plans to "keep fighting" the order, but the ChatGPT maker seems to have few options left. They could possibly petition the Second Circuit Court of Appeals for a rarely granted emergency order that could intervene to block Wang's order, but the appeals court would have to consider Wang's order an extraordinary abuse of discretion for OpenAI to win that fight.&lt;/p&gt;
+&lt;p&gt;OpenAI's spokesperson declined to confirm if the company plans to pursue this extreme remedy.&lt;/p&gt;
+&lt;p&gt;In the meantime, OpenAI is negotiating a process that will allow news plaintiffs to search through the retained data. Perhaps the sooner that process begins, the sooner the data will be deleted. And that possibility puts OpenAI in the difficult position of having to choose between either caving to some data collection to stop retaining data as soon as possible or prolonging the fight over the order and potentially putting more users' private conversations at risk of exposure through litigation or, worse, a data breach.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;h2&gt;News orgs will soon start searching ChatGPT logs&lt;/h2&gt;
+&lt;p&gt;The clock is ticking, and so far, OpenAI has not provided any official updates since a June 5 blog post detailing which ChatGPT users will be affected.&lt;/p&gt;
+&lt;p&gt;While it's clear that OpenAI has been and will continue to retain mounds of data, it would be impossible for The New York Times or any news plaintiff to search through all that data.&lt;/p&gt;
+&lt;p&gt;Instead, only a small sample of the data will likely be accessed, based on keywords that OpenAI and news plaintiffs agree on. That data will remain on OpenAI's servers, where it will be anonymized, and it will likely never be directly produced to plaintiffs.&lt;/p&gt;
+&lt;p&gt;Both sides are negotiating the exact process for searching through the chat logs, with both parties seemingly hoping to minimize the amount of time the chat logs will be preserved.&lt;/p&gt;
+&lt;p&gt;For OpenAI, sharing the logs risks revealing instances of infringing outputs that could further spike damages in the case. The logs could also expose how often outputs attribute misinformation to news plaintiffs.&lt;/p&gt;
+&lt;p&gt;But for news plaintiffs, accessing the logs is not considered key to their case—perhaps providing additional examples of copying—but could help news organizations argue that ChatGPT dilutes the market for their content. That could weigh against the fair use argument, as a judge opined in a recent ruling that evidence of market dilution could tip an AI copyright case in favor of plaintiffs.&lt;/p&gt;
+&lt;p&gt;Jay Edelson, a leading consumer privacy lawyer, told Ars that he's concerned that judges don't seem to be considering that any evidence in the ChatGPT logs wouldn't "advance" news plaintiffs' case "at all," while really changing "a product that people are using on a daily basis."&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;Edelson warned that OpenAI itself probably has better security than most firms to protect against a potential data breach that could expose these private chat logs. But "lawyers have notoriously been pretty bad about securing data," Edelson suggested, so "the idea that you've got a bunch of lawyers who are going to be doing whatever they are" with "some of the most sensitive data on the planet" and "they're the ones protecting it against hackers should make everyone uneasy."&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;So even though odds are pretty good that the majority of users' chats won't end up in the sample, Edelson said the mere threat of being included might push some users to rethink how they use AI. He further warned that ChatGPT users turning to OpenAI rival services like Anthropic's Claude or Google's Gemini could suggest that Wang's order is improperly influencing market forces, which also seems "crazy."&lt;/p&gt;
+&lt;p&gt;To Edelson, the most "cynical" take could be that news plaintiffs are possibly hoping the order will threaten OpenAI's business to the point where the AI company agrees to a settlement.&lt;/p&gt;
+&lt;p&gt;Regardless of the news plaintiffs' motives, the order sets an alarming precedent, Edelson said. He joined critics suggesting that more AI data may be frozen in the future, potentially affecting even more users as a result of the sweeping order surviving scrutiny in this case. Imagine if litigation one day targets Google's AI search summaries, Edelson suggested.&lt;/p&gt;
+&lt;h2&gt;Lawyer slams judges for giving ChatGPT users no voice&lt;/h2&gt;
+&lt;p&gt;Edelson told Ars that the order is so potentially threatening to OpenAI's business that the company may not have a choice but to explore every path available to continue fighting it.&lt;/p&gt;
+&lt;p&gt;"They will absolutely do something to try to stop this," Edelson predicted, calling the order "bonkers" for overlooking millions of users' privacy concerns while "strangely" excluding enterprise customers.&lt;/p&gt;
+&lt;p&gt;From court filings, it seems possible that enterprise users were excluded to protect OpenAI's competitiveness, but Edelson suggested there's "no logic" to their exclusion "at all." By excluding these ChatGPT users, the judge's order may have removed the users best resourced to fight the order, Edelson suggested.&lt;/p&gt;
+&lt;p&gt;"What that means is the big businesses, the ones who have the power, all of their stuff remains private, and no one can touch that," Edelson said.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Instead, the order is "only going to intrude on the privacy of the common people out there," which Edelson said "is really offensive," given that Wang denied two ChatGPT users' panicked request to intervene.&lt;/p&gt;
+&lt;p&gt;"We are talking about billions of chats that are now going to be preserved when they weren't going to be preserved before," Edelson said, noting that he's input information about his personal medical history into ChatGPT. "People ask for advice about their marriages, express concerns about losing jobs. They say really personal things. And one of the bargains in dealing with OpenAI is that you're allowed to delete your chats and you're allowed to temporary chats."&lt;/p&gt;
+&lt;p&gt;The greatest risk to users would be a data breach, Edelson said, but that's not the only potential privacy concern. Corynne McSherry, legal director for the digital rights group the Electronic Frontier Foundation, previously told Ars that as long as users' data is retained, it could also be exposed through future law enforcement and private litigation requests.&lt;/p&gt;
+&lt;p&gt;Edelson pointed out that most privacy attorneys don't consider OpenAI CEO Sam Altman to be a "privacy guy," despite Altman recently slamming the NYT, alleging it sued OpenAI because it doesn't "like user privacy."&lt;/p&gt;
+&lt;p&gt;"He's trying to protect OpenAI, and he does not give a hoot about the privacy rights of consumers," Edelson said, echoing one ChatGPT user's dismissed concern that OpenAI may not prioritize users' privacy concerns in the case if it's financially motivated to resolve the case.&lt;/p&gt;
+&lt;p&gt;"The idea that he and his lawyers are really going to be the safeguards here isn't very compelling," Edelson said. He criticized the judges for dismissing users' concerns and rejecting OpenAI's request that users get a chance to testify.&lt;/p&gt;
+&lt;p&gt;"What's really most appalling to me is the people who are being affected have had no voice in it," Edelson said.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        What are the odds NYT will access your ChatGPT logs in OpenAI court battle?
+      &lt;/p&gt;
+
+      
+    &lt;/div&gt;
+
+    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2200528080-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2200528080-1152x648-1751471454.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Pakorn Supajitsoontorn | iStock / Getty Images Plus
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;Last week, OpenAI raised objections in court, hoping to overturn a court order requiring the AI company to retain all ChatGPT logs "indefinitely," including deleted and temporary chats.&lt;/p&gt;
+&lt;p&gt;But Sidney Stein, the US district judge reviewing OpenAI's request, immediately denied OpenAI's objections. He was seemingly unmoved by the company's claims that the order forced OpenAI to abandon "long-standing privacy norms" and weaken privacy protections that users expect based on ChatGPT's terms of service. Rather, Stein suggested that OpenAI's user agreement specified that their data could be retained as part of a legal process, which Stein said is exactly what is happening now.&lt;/p&gt;
+&lt;p&gt;The order was issued by magistrate judge Ona Wang just days after news organizations, led by The New York Times, requested it. The news plaintiffs claimed the order was urgently needed to preserve potential evidence in their copyright case, alleging that ChatGPT users are likely to delete chats where they attempted to use the chatbot to skirt paywalls to access news content.&lt;/p&gt;
+&lt;p&gt;A spokesperson told Ars that OpenAI plans to "keep fighting" the order, but the ChatGPT maker seems to have few options left. They could possibly petition the Second Circuit Court of Appeals for a rarely granted emergency order that could intervene to block Wang's order, but the appeals court would have to consider Wang's order an extraordinary abuse of discretion for OpenAI to win that fight.&lt;/p&gt;
+&lt;p&gt;OpenAI's spokesperson declined to confirm if the company plans to pursue this extreme remedy.&lt;/p&gt;
+&lt;p&gt;In the meantime, OpenAI is negotiating a process that will allow news plaintiffs to search through the retained data. Perhaps the sooner that process begins, the sooner the data will be deleted. And that possibility puts OpenAI in the difficult position of having to choose between either caving to some data collection to stop retaining data as soon as possible or prolonging the fight over the order and potentially putting more users' private conversations at risk of exposure through litigation or, worse, a data breach.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;h2&gt;News orgs will soon start searching ChatGPT logs&lt;/h2&gt;
+&lt;p&gt;The clock is ticking, and so far, OpenAI has not provided any official updates since a June 5 blog post detailing which ChatGPT users will be affected.&lt;/p&gt;
+&lt;p&gt;While it's clear that OpenAI has been and will continue to retain mounds of data, it would be impossible for The New York Times or any news plaintiff to search through all that data.&lt;/p&gt;
+&lt;p&gt;Instead, only a small sample of the data will likely be accessed, based on keywords that OpenAI and news plaintiffs agree on. That data will remain on OpenAI's servers, where it will be anonymized, and it will likely never be directly produced to plaintiffs.&lt;/p&gt;
+&lt;p&gt;Both sides are negotiating the exact process for searching through the chat logs, with both parties seemingly hoping to minimize the amount of time the chat logs will be preserved.&lt;/p&gt;
+&lt;p&gt;For OpenAI, sharing the logs risks revealing instances of infringing outputs that could further spike damages in the case. The logs could also expose how often outputs attribute misinformation to news plaintiffs.&lt;/p&gt;
+&lt;p&gt;But for news plaintiffs, accessing the logs is not considered key to their case—perhaps providing additional examples of copying—but could help news organizations argue that ChatGPT dilutes the market for their content. That could weigh against the fair use argument, as a judge opined in a recent ruling that evidence of market dilution could tip an AI copyright case in favor of plaintiffs.&lt;/p&gt;
+&lt;p&gt;Jay Edelson, a leading consumer privacy lawyer, told Ars that he's concerned that judges don't seem to be considering that any evidence in the ChatGPT logs wouldn't "advance" news plaintiffs' case "at all," while really changing "a product that people are using on a daily basis."&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;Edelson warned that OpenAI itself probably has better security than most firms to protect against a potential data breach that could expose these private chat logs. But "lawyers have notoriously been pretty bad about securing data," Edelson suggested, so "the idea that you've got a bunch of lawyers who are going to be doing whatever they are" with "some of the most sensitive data on the planet" and "they're the ones protecting it against hackers should make everyone uneasy."&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;So even though odds are pretty good that the majority of users' chats won't end up in the sample, Edelson said the mere threat of being included might push some users to rethink how they use AI. He further warned that ChatGPT users turning to OpenAI rival services like Anthropic's Claude or Google's Gemini could suggest that Wang's order is improperly influencing market forces, which also seems "crazy."&lt;/p&gt;
+&lt;p&gt;To Edelson, the most "cynical" take could be that news plaintiffs are possibly hoping the order will threaten OpenAI's business to the point where the AI company agrees to a settlement.&lt;/p&gt;
+&lt;p&gt;Regardless of the news plaintiffs' motives, the order sets an alarming precedent, Edelson said. He joined critics suggesting that more AI data may be frozen in the future, potentially affecting even more users as a result of the sweeping order surviving scrutiny in this case. Imagine if litigation one day targets Google's AI search summaries, Edelson suggested.&lt;/p&gt;
+&lt;h2&gt;Lawyer slams judges for giving ChatGPT users no voice&lt;/h2&gt;
+&lt;p&gt;Edelson told Ars that the order is so potentially threatening to OpenAI's business that the company may not have a choice but to explore every path available to continue fighting it.&lt;/p&gt;
+&lt;p&gt;"They will absolutely do something to try to stop this," Edelson predicted, calling the order "bonkers" for overlooking millions of users' privacy concerns while "strangely" excluding enterprise customers.&lt;/p&gt;
+&lt;p&gt;From court filings, it seems possible that enterprise users were excluded to protect OpenAI's competitiveness, but Edelson suggested there's "no logic" to their exclusion "at all." By excluding these ChatGPT users, the judge's order may have removed the users best resourced to fight the order, Edelson suggested.&lt;/p&gt;
+&lt;p&gt;"What that means is the big businesses, the ones who have the power, all of their stuff remains private, and no one can touch that," Edelson said.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Instead, the order is "only going to intrude on the privacy of the common people out there," which Edelson said "is really offensive," given that Wang denied two ChatGPT users' panicked request to intervene.&lt;/p&gt;
+&lt;p&gt;"We are talking about billions of chats that are now going to be preserved when they weren't going to be preserved before," Edelson said, noting that he's input information about his personal medical history into ChatGPT. "People ask for advice about their marriages, express concerns about losing jobs. They say really personal things. And one of the bargains in dealing with OpenAI is that you're allowed to delete your chats and you're allowed to temporary chats."&lt;/p&gt;
+&lt;p&gt;The greatest risk to users would be a data breach, Edelson said, but that's not the only potential privacy concern. Corynne McSherry, legal director for the digital rights group the Electronic Frontier Foundation, previously told Ars that as long as users' data is retained, it could also be exposed through future law enforcement and private litigation requests.&lt;/p&gt;
+&lt;p&gt;Edelson pointed out that most privacy attorneys don't consider OpenAI CEO Sam Altman to be a "privacy guy," despite Altman recently slamming the NYT, alleging it sued OpenAI because it doesn't "like user privacy."&lt;/p&gt;
+&lt;p&gt;"He's trying to protect OpenAI, and he does not give a hoot about the privacy rights of consumers," Edelson said, echoing one ChatGPT user's dismissed concern that OpenAI may not prioritize users' privacy concerns in the case if it's financially motivated to resolve the case.&lt;/p&gt;
+&lt;p&gt;"The idea that he and his lawyers are really going to be the safeguards here isn't very compelling," Edelson said. He criticized the judges for dismissing users' concerns and rejecting OpenAI's request that users get a chance to testify.&lt;/p&gt;
+&lt;p&gt;"What's really most appalling to me is the people who are being affected have had no voice in it," Edelson said.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/07/nyt-to-start-searching-deleted-chatgpt-logs-after-beating-openai-in-court/</guid><pubDate>Wed, 02 Jul 2025 16:34:06 +0000</pubDate></item><item><title>[NEW] ChatGPT referrals to news sites are growing, but not enough to offset search declines (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/02/chatgpt-referrals-to-news-sites-are-growing-but-not-enough-to-offset-search-declines/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Referrals from ChatGPT to news publishers are growing, but not enough to counter the decline in clicks resulting from users increasingly getting their news directly from AI or AI-powered search results, according to a report from digital market intelligence company Similarweb.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Since the launch of Google’s AI Overviews in May 2024, the firm found that the number of news searches on the web that result in no click-throughs to news websites has grown from 56% to nearly 69% as of May 2025.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Not surprisingly, organic traffic has also declined, dropping from over 2.3 billion visits at its peak in mid-2024 to now under 1.7 billion. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, news-related prompts in ChatGPT grew by 212% from January 2024 through May 2025.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024257" height="575" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-1.01.35PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For news publishers, the rapid adoption of AI is changing the game. Visibility in Google Search results and good SEO practices may no longer deliver the value they did in the past, as search rank isn’t translating into as much website traffic as before, the firm pointed out. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;At the same time, ChatGPT referrals to news publishers are growing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;From January through May 2024, ChatGPT referrals to news sites were just under 1 million, Similarweb says, but have grown to more than 25 million in 2025 — a 25x increase.&lt;/p&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Of course, when the industry is facing even massive declines in organic search traffic, this increase is hardly enough to make up for publishers’ losses.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024253" height="618" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-12.59.19PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The report also noted that some websites are faring better than others when it comes to AI referrals.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sites seeing the most increases in ChatGPT referral traffic include Reuters (up 8.9% year-over-year), NY Post (up 7.1%), and Business Insider (up 6.5%). Meanwhile, The New York Times, which is suing OpenAI over allegedly scraping its works without permission, is seeing far fewer ChatGPT referrals. Though still in the top 10 sites receiving ChatGPT referral traffic, it’s only seen a 3.1% increase. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Topics like stocks, finance, and sports are currently accounting for the majority of these ChatGPT news-related prompts, but Similarweb’s report notes other topics are seeing growth, too, like politics, the economy, weather, and others. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This, the firm theorizes, may signal a move away from more “reactive information” and toward deeper “issue-driven engagement” via AI. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024255" height="563" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-12.58.50PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024254" height="596" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-12.59.05PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Alongside the AI referrals growth, ChatGPT’s website and app users have also seen greater adoption. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Over the last six months, app users have more than doubled, while website visitors were up 52%, Similarweb said. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The firm is now offering a service for brands and businesses that allows them to track how and where their brand shows up in GenAI tools like ChatGPT, and how that compares to their competition.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024256" height="507" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-12.58.36PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Solutions to the news publishers’ crisis are few and far between. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Under pressure from news publishers as AI kills their traffic, Google recently launched a service called Offerwall that allows publishers using Google Ad Manager to experiment with other means of monetization beyond more traffic-dependent options, like ads. With Offerwall, publishers can instead try things like micropayments or asking users to sign up for newsletters to access their site’s content, for example. They can also customize the Offerwall screens with options of their own, Google said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Other sites are experimenting with paywalls or other means of monetization. Many have since conducted mass layoffs or even shut down their operations.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In a recent interview with The NYT’s Hard Fork podcast, OpenAI CEO Sam Altman responded to a question about AI’s impact on the job market by saying, “I do think there will be areas where some jobs go away, or maybe there will be some whole categories of jobs that go away. And any job that goes away, even if it’s good for society and the economy as a whole, is very painful — extremely painful — in that moment … there is going to be real pain here in many cases.”&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Referrals from ChatGPT to news publishers are growing, but not enough to counter the decline in clicks resulting from users increasingly getting their news directly from AI or AI-powered search results, according to a report from digital market intelligence company Similarweb.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Since the launch of Google’s AI Overviews in May 2024, the firm found that the number of news searches on the web that result in no click-throughs to news websites has grown from 56% to nearly 69% as of May 2025.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Not surprisingly, organic traffic has also declined, dropping from over 2.3 billion visits at its peak in mid-2024 to now under 1.7 billion. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, news-related prompts in ChatGPT grew by 212% from January 2024 through May 2025.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024257" height="575" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-1.01.35PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For news publishers, the rapid adoption of AI is changing the game. Visibility in Google Search results and good SEO practices may no longer deliver the value they did in the past, as search rank isn’t translating into as much website traffic as before, the firm pointed out. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;At the same time, ChatGPT referrals to news publishers are growing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;From January through May 2024, ChatGPT referrals to news sites were just under 1 million, Similarweb says, but have grown to more than 25 million in 2025 — a 25x increase.&lt;/p&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Of course, when the industry is facing even massive declines in organic search traffic, this increase is hardly enough to make up for publishers’ losses.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024253" height="618" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-12.59.19PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The report also noted that some websites are faring better than others when it comes to AI referrals.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sites seeing the most increases in ChatGPT referral traffic include Reuters (up 8.9% year-over-year), NY Post (up 7.1%), and Business Insider (up 6.5%). Meanwhile, The New York Times, which is suing OpenAI over allegedly scraping its works without permission, is seeing far fewer ChatGPT referrals. Though still in the top 10 sites receiving ChatGPT referral traffic, it’s only seen a 3.1% increase. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Topics like stocks, finance, and sports are currently accounting for the majority of these ChatGPT news-related prompts, but Similarweb’s report notes other topics are seeing growth, too, like politics, the economy, weather, and others. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This, the firm theorizes, may signal a move away from more “reactive information” and toward deeper “issue-driven engagement” via AI. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024255" height="563" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-12.58.50PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024254" height="596" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-12.59.05PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Alongside the AI referrals growth, ChatGPT’s website and app users have also seen greater adoption. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Over the last six months, app users have more than doubled, while website visitors were up 52%, Similarweb said. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The firm is now offering a service for brands and businesses that allows them to track how and where their brand shows up in GenAI tools like ChatGPT, and how that compares to their competition.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3024256" height="507" src="https://techcrunch.com/wp-content/uploads/2025/07/Similarweb-AI-news-report-2025-07-02-at-12.58.36PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Similarweb&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Solutions to the news publishers’ crisis are few and far between. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Under pressure from news publishers as AI kills their traffic, Google recently launched a service called Offerwall that allows publishers using Google Ad Manager to experiment with other means of monetization beyond more traffic-dependent options, like ads. With Offerwall, publishers can instead try things like micropayments or asking users to sign up for newsletters to access their site’s content, for example. They can also customize the Offerwall screens with options of their own, Google said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Other sites are experimenting with paywalls or other means of monetization. Many have since conducted mass layoffs or even shut down their operations.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In a recent interview with The NYT’s Hard Fork podcast, OpenAI CEO Sam Altman responded to a question about AI’s impact on the job market by saying, “I do think there will be areas where some jobs go away, or maybe there will be some whole categories of jobs that go away. And any job that goes away, even if it’s good for society and the economy as a whole, is very painful — extremely painful — in that moment … there is going to be real pain here in many cases.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/02/chatgpt-referrals-to-news-sites-are-growing-but-not-enough-to-offset-search-declines/</guid><pubDate>Wed, 02 Jul 2025 17:48:40 +0000</pubDate></item><item><title>[NEW] Perplexity launches a $200 monthly subscription plan (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/02/perplexity-launches-a-200-monthly-subscription-plan/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Perplexity is launching a $200-per-month subscription plan for its power users, the company announced in a blog post Tuesday.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The plan, Perplexity Max, offers unlimited access to the startup’s spreadsheet and report generation tool, Labs, as well as early access to new features, including Perplexity’s forthcoming AI-powered browser, Comet. Max subscribers will also get priority access to any Perplexity services using the latest frontier models, such as OpenAI o3-pro and Claude Opus 4.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;With the launch of Max, Perplexity became the latest AI provider to offer a hyper-premium subscription tier to capitalize on its power users. OpenAI was the first to do so with its $200-a-month ChatGPT Pro subscription, but Google, Anthropic, and Cursor have followed suit in recent months.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Perplexity now offers a variety of subscription plans. Alongside the $200-a-month Max plan, Perplexity offers a consumer Pro plan for $20-a-month, as well as an Enterprise Pro plan that costs $40-a-month per person. The startup says it will eventually offer a hyper-premium Max plan for Enterprise customers as well.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In 2024, Perplexity generated roughly $34 million in revenue largely driven by subscriptions to its $20-a-month Pro plan, but still burned about $65 million in cash, according to financials seen by The Information. Most of Perplexity’s cash burn reportedly comes down to heavy spending on cloud servers and buying access to AI models from OpenAI and Anthropic.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Perplexity’s business seems to have grown since last year — it reportedly had an ARR of $80 million in January. However, the startup needs to generate significantly more revenue to justify its valuation. In May, Perplexity held late stage talks to raise $500 million at a $14 billion valuation. It’s unclear if that round officially closed.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But Perplexity’s competition in the AI search market is intensifying. In recent months, Google has heavily pushed AI mode, its own AI-powered search product which bears a striking resemblance to Perplexity’s app, in front of its users. OpenAI has also integrated search more deeply into ChatGPT in recent months, and has reportedly considered launching a browser of its own.&lt;/p&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;One key to Perplexity’s success may be its ability to work with AI providers, which it relies on for AI models, while simultaneously beating them in the AI search market. The added revenue from Perplexity Max subscribers could bolster the startup’s ability to compete in the space.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Perplexity is launching a $200-per-month subscription plan for its power users, the company announced in a blog post Tuesday.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The plan, Perplexity Max, offers unlimited access to the startup’s spreadsheet and report generation tool, Labs, as well as early access to new features, including Perplexity’s forthcoming AI-powered browser, Comet. Max subscribers will also get priority access to any Perplexity services using the latest frontier models, such as OpenAI o3-pro and Claude Opus 4.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;With the launch of Max, Perplexity became the latest AI provider to offer a hyper-premium subscription tier to capitalize on its power users. OpenAI was the first to do so with its $200-a-month ChatGPT Pro subscription, but Google, Anthropic, and Cursor have followed suit in recent months.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Perplexity now offers a variety of subscription plans. Alongside the $200-a-month Max plan, Perplexity offers a consumer Pro plan for $20-a-month, as well as an Enterprise Pro plan that costs $40-a-month per person. The startup says it will eventually offer a hyper-premium Max plan for Enterprise customers as well.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In 2024, Perplexity generated roughly $34 million in revenue largely driven by subscriptions to its $20-a-month Pro plan, but still burned about $65 million in cash, according to financials seen by The Information. Most of Perplexity’s cash burn reportedly comes down to heavy spending on cloud servers and buying access to AI models from OpenAI and Anthropic.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Perplexity’s business seems to have grown since last year — it reportedly had an ARR of $80 million in January. However, the startup needs to generate significantly more revenue to justify its valuation. In May, Perplexity held late stage talks to raise $500 million at a $14 billion valuation. It’s unclear if that round officially closed.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But Perplexity’s competition in the AI search market is intensifying. In recent months, Google has heavily pushed AI mode, its own AI-powered search product which bears a striking resemblance to Perplexity’s app, in front of its users. OpenAI has also integrated search more deeply into ChatGPT in recent months, and has reportedly considered launching a browser of its own.&lt;/p&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;One key to Perplexity’s success may be its ability to work with AI providers, which it relies on for AI models, while simultaneously beating them in the AI search market. The added revenue from Perplexity Max subscribers could bolster the startup’s ability to compete in the space.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/02/perplexity-launches-a-200-monthly-subscription-plan/</guid><pubDate>Wed, 02 Jul 2025 18:06:17 +0000</pubDate></item></channel></rss>
