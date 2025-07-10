@@ -1,571 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 10 Jul 2025 01:52:43 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>Tencent improves testing creative AI models with new benchmark (AI News)</title><link>https://www.artificialintelligence-news.com/news/tencent-improves-testing-creative-ai-models-new-benchmark/</link><description>&lt;p&gt;Tencent has introduced a new benchmark, ArtifactsBench, that aims to fix current problems with testing creative AI models.&lt;/p&gt;&lt;p&gt;Ever asked an AI to build something like a simple webpage or a chart and received something that works but has a poor user experience? The buttons might be in the wrong place, the colours might clash, or the animations feel clunky. It’s a common problem, and it highlights a huge challenge in the world of AI development: how do you teach a machine to have good taste?&lt;/p&gt;&lt;p&gt;For a long time, we’ve been testing AI models on their ability to write code that is functionally correct. These tests could confirm the code would run, but they were completely “blind to the visual fidelity and interactive integrity that define modern user experiences.”&lt;/p&gt;&lt;p&gt;This is the exact problem ArtifactsBench has been designed to solve. It’s less of a test and more of an automated art critic for AI-generated code&lt;/p&gt;&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;&lt;blockquote class="cmplz-placeholder-element twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;🚀Thrilled to introduce #ArtifactsBench! We're bridging the visual-interactive gap in code generation evaluation.&lt;/p&gt;&lt;p&gt;Our benchmark uses a novel automated, multimodal pipeline to assess LLMs on 1,825 diverse tasks. An MLLM-as-Judge evaluates visual artifacts, achieving 94.4% ranking… pic.twitter.com/84xClcnNyS&lt;/p&gt;— Hunyuan (@TencentHunyuan) July 9, 2025&lt;/blockquote&gt;&lt;/div&gt;&lt;/figure&gt;&lt;h3 class="wp-block-heading" id="h-getting-it-right-like-a-human-would-should"&gt;Getting it right, like a human &lt;s&gt;would&lt;/s&gt; should&lt;/h3&gt;&lt;p&gt;So, how does Tencent’s AI benchmark work? First, an AI is given a creative task from a catalogue of over 1,800 challenges, from building data visualisations and web apps to making interactive mini-games.&lt;/p&gt;&lt;p&gt;Once the AI generates the code, ArtifactsBench gets to work. It automatically builds and runs the code in a safe and sandboxed environment.&lt;/p&gt;&lt;p&gt;To see how the application behaves, it captures a series of screenshots over time. This allows it to check for things like animations, state changes after a button click, and other dynamic user feedback.&lt;/p&gt;&lt;p&gt;Finally, it hands over all this evidence – the original request, the AI’s code, and the screenshots – to a Multimodal LLM (MLLM), to act as a judge.&lt;/p&gt;&lt;p&gt;This MLLM judge isn’t just giving a vague opinion and instead uses a detailed, per-task checklist to score the result across ten different metrics. Scoring includes functionality, user experience, and even aesthetic quality. This ensures the scoring is fair, consistent, and thorough.&lt;/p&gt;&lt;p&gt;The big question is, does this automated judge actually have good taste? The results suggest it does.&lt;/p&gt;&lt;p&gt;When the rankings from ArtifactsBench were compared to WebDev Arena, the gold-standard platform where real humans vote on the best AI creations, they matched up with a 94.4% consistency. This is a massive leap from older automated benchmarks, which only managed around 69.4% consistency.&lt;/p&gt;&lt;p&gt;On top of this, the framework’s judgments showed over 90% agreement with professional human developers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-tencent-evaluates-the-creativity-of-top-ai-models-with-its-new-benchmark"&gt;Tencent evaluates the creativity of top AI models with its new benchmark&lt;/h3&gt;&lt;p&gt;When Tencent put more than 30 of the world’s top AI models through their paces, the leaderboard was revealing. While top commercial models from Google (Gemini-2.5-Pro) and Anthropic (Claude 4.0-Sonnet) took the lead, the tests unearthed a fascinating insight.&lt;/p&gt;&lt;p&gt;You might think that an AI specialised in writing code would be the best at these tasks. But the opposite was true. The research found that “the holistic capabilities of generalist models often surpass those of specialized ones.”&lt;/p&gt;&lt;p&gt;A general-purpose model, Qwen-2.5-Instruct, actually beat its more specialised siblings, Qwen-2.5-coder (a code-specific model) and Qwen2.5-VL (a vision-specialised model).&lt;/p&gt;&lt;p&gt;The researchers believe this is because creating a great visual application isn’t just about coding or visual understanding in isolation and requires a blend of skills.&lt;/p&gt;&lt;p&gt;“Robust reasoning, nuanced instruction following, and an implicit sense of design aesthetics,” the researchers highlight as example vital skills. These are the kinds of well-rounded, almost human-like abilities that the best generalist models are beginning to develop.&lt;/p&gt;&lt;p&gt;Tencent hopes its ArtifactsBench benchmark can reliably evaluate these qualities and thus measure future progress in the ability for AI to create things that are not just functional but what users actually want to use.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Tencent Hunyuan3D-PolyGen: A model for ‘art-grade’ 3D assets&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Tencent has introduced a new benchmark, ArtifactsBench, that aims to fix current problems with testing creative AI models.&lt;/p&gt;&lt;p&gt;Ever asked an AI to build something like a simple webpage or a chart and received something that works but has a poor user experience? The buttons might be in the wrong place, the colours might clash, or the animations feel clunky. It’s a common problem, and it highlights a huge challenge in the world of AI development: how do you teach a machine to have good taste?&lt;/p&gt;&lt;p&gt;For a long time, we’ve been testing AI models on their ability to write code that is functionally correct. These tests could confirm the code would run, but they were completely “blind to the visual fidelity and interactive integrity that define modern user experiences.”&lt;/p&gt;&lt;p&gt;This is the exact problem ArtifactsBench has been designed to solve. It’s less of a test and more of an automated art critic for AI-generated code&lt;/p&gt;&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;&lt;blockquote class="cmplz-placeholder-element twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;🚀Thrilled to introduce #ArtifactsBench! We're bridging the visual-interactive gap in code generation evaluation.&lt;/p&gt;&lt;p&gt;Our benchmark uses a novel automated, multimodal pipeline to assess LLMs on 1,825 diverse tasks. An MLLM-as-Judge evaluates visual artifacts, achieving 94.4% ranking… pic.twitter.com/84xClcnNyS&lt;/p&gt;— Hunyuan (@TencentHunyuan) July 9, 2025&lt;/blockquote&gt;&lt;/div&gt;&lt;/figure&gt;&lt;h3 class="wp-block-heading" id="h-getting-it-right-like-a-human-would-should"&gt;Getting it right, like a human &lt;s&gt;would&lt;/s&gt; should&lt;/h3&gt;&lt;p&gt;So, how does Tencent’s AI benchmark work? First, an AI is given a creative task from a catalogue of over 1,800 challenges, from building data visualisations and web apps to making interactive mini-games.&lt;/p&gt;&lt;p&gt;Once the AI generates the code, ArtifactsBench gets to work. It automatically builds and runs the code in a safe and sandboxed environment.&lt;/p&gt;&lt;p&gt;To see how the application behaves, it captures a series of screenshots over time. This allows it to check for things like animations, state changes after a button click, and other dynamic user feedback.&lt;/p&gt;&lt;p&gt;Finally, it hands over all this evidence – the original request, the AI’s code, and the screenshots – to a Multimodal LLM (MLLM), to act as a judge.&lt;/p&gt;&lt;p&gt;This MLLM judge isn’t just giving a vague opinion and instead uses a detailed, per-task checklist to score the result across ten different metrics. Scoring includes functionality, user experience, and even aesthetic quality. This ensures the scoring is fair, consistent, and thorough.&lt;/p&gt;&lt;p&gt;The big question is, does this automated judge actually have good taste? The results suggest it does.&lt;/p&gt;&lt;p&gt;When the rankings from ArtifactsBench were compared to WebDev Arena, the gold-standard platform where real humans vote on the best AI creations, they matched up with a 94.4% consistency. This is a massive leap from older automated benchmarks, which only managed around 69.4% consistency.&lt;/p&gt;&lt;p&gt;On top of this, the framework’s judgments showed over 90% agreement with professional human developers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-tencent-evaluates-the-creativity-of-top-ai-models-with-its-new-benchmark"&gt;Tencent evaluates the creativity of top AI models with its new benchmark&lt;/h3&gt;&lt;p&gt;When Tencent put more than 30 of the world’s top AI models through their paces, the leaderboard was revealing. While top commercial models from Google (Gemini-2.5-Pro) and Anthropic (Claude 4.0-Sonnet) took the lead, the tests unearthed a fascinating insight.&lt;/p&gt;&lt;p&gt;You might think that an AI specialised in writing code would be the best at these tasks. But the opposite was true. The research found that “the holistic capabilities of generalist models often surpass those of specialized ones.”&lt;/p&gt;&lt;p&gt;A general-purpose model, Qwen-2.5-Instruct, actually beat its more specialised siblings, Qwen-2.5-coder (a code-specific model) and Qwen2.5-VL (a vision-specialised model).&lt;/p&gt;&lt;p&gt;The researchers believe this is because creating a great visual application isn’t just about coding or visual understanding in isolation and requires a blend of skills.&lt;/p&gt;&lt;p&gt;“Robust reasoning, nuanced instruction following, and an implicit sense of design aesthetics,” the researchers highlight as example vital skills. These are the kinds of well-rounded, almost human-like abilities that the best generalist models are beginning to develop.&lt;/p&gt;&lt;p&gt;Tencent hopes its ArtifactsBench benchmark can reliably evaluate these qualities and thus measure future progress in the ability for AI to create things that are not just functional but what users actually want to use.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Tencent Hunyuan3D-PolyGen: A model for ‘art-grade’ 3D assets&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/tencent-improves-testing-creative-ai-models-new-benchmark/</guid><pubDate>Wed, 09 Jul 2025 14:10:13 +0000</pubDate></item><item><title>iMerit believes better-quality data, not more data, is the future of AI (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/imerit-believes-better-quality-data-not-more-data-is-the-future-of-ai/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI data platform iMerit believes the next step toward integrating AI tools at the enterprise level is not more data, but better data. And better data doesn’t come from hordes of gig workers, but from experts across mathematics, medicine, healthcare, finance, autonomy, and other cognitive fields, the company says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What’s become exceedingly important is the ability to attract and retain the best cognitive experts, because we have to take these large models and make them very customized towards solving enterprise AI problems,” Radha Basu, CEO and founder of iMerit, told TechCrunch.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The California- and India-based startup has for the past nine years quietly built itself into a trusted data annotation partner for companies working in computer vision, medical imaging, autonomous mobility, and other AI applications that require high-accuracy, human-in-the-loop labeling.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, iMerit is bringing its Scholars program out of beta, the company exclusively told TechCrunch. The goal of the program is to build a growing workforce of experts to fine-tune generative AI models for enterprise applications and, increasingly, foundational models.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;iMerit already calls some of the top AI firms customers, including three of the big seven generative AI companies, eight of the top autonomous vehicle companies, three large U.S. government agencies, and two of the top three cloud providers, according to the company.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3026066" height="417" src="https://techcrunch.com/wp-content/uploads/2025/07/Math-CoT.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;iMerit Scholars workflow example focused on mathematics&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;iMerit&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The news comes as Scale AI, arguably the biggest name in AI data annotation, has lost its founder and CEO Alexandr Wang to Meta, which also acquired a 49% in the company. In the wake of Meta’s investment, many of Scale’s major clients pulled back, including Google, OpenAI, Microsoft, and xAI, out of concerns that Meta could gain access to their product roadmaps.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;iMerit doesn’t claim to replace Scale AI’s core offering of high-throughput, developer-focused “blitz data.” Instead, it’s betting that now is the right moment to double down on expert-led, high-quality data, the kind that requires deep human judgment and domain-specific oversight.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We’re the adults in the room,” Rob Laing, iMerit’s VP of global specialist workforce, told TechCrunch. “A lot of money is being spent on AI right now. There are some very intelligent people building large platforms of human workforces. The output that they’re getting from that mass approach and that very quick speed to market approach is not at the level of quality that enterprises need.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Basu brought up the example of healthcare scribes that have come to market off the back of foundational large language models.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If you don’t have the expertise of the cardiologist or the physician, what you’re doing is basically creating something that’s maybe 50% or 60% accurate,” Basu said. “You want that to be 99%. You want to question the model. You want to break it. You want to fix it. That is what expert-led AI is making possible for enterprise.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;iMerit’s experts are tasked with finetuning, or “tormenting,” enterprise and foundational AI models using the startup’s proprietary platform Ango Hub. Ango allows iMerit’s “Scholars” to interact with the customer’s model to generate and evaluate problems for the model to solve.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For iMerritt, attracting and retaining cognitive experts is key to success because the experts aren’t just doing a few tasks and disappearing; they’re working on projects for multiple years. iMerit boasts a 91% retention rate, with 50% of its experts being women.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Laing, whose experience founding the human translation platform myGengo helped him understand how to crowdsource, said it’s relatively easy to get warm bodies to perform menial tasks. Creating community requires a more human-centered approach.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Instead of someone being a name on a database, when someone joins the Scholars program, they actually meet folks on the team,” Laing said. “They have collaborative discussions. They’re very much pushed to work at the highest possible level. And we are very, very, very selective about how we bring people in.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I think what we’re going to see over the next couple of years is that companies like iMerit that are really focusing on that engagement, that retention, and that quality, are going to be the go-to companies for people to train the AI,” Laing added.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Today, iMerit works with over 4,000 Scholars and hopes to bring on more as it scales. Basu told TechCrunch that even though the company hasn’t raised since 2020 — when it brought on investors like Khosla Ventures, Omidyar Network, Dell.org, and British International Investment — iMerit is sustainable and profitable. With its own cash reserves, iMerit can afford to scale to 10,000 experts, Basu said. To scale further would require more outside investment, which iMerit is open to, but not desperate for.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;iMerit has been working on Scholars for the past year, mainly with a focus on healthcare. The goal is to grow across other enterprise applications, including finance and medicine. Laing noted that generative AI is its fastest-growing area as top AI firms work with iMerit to improve their foundation models.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The free data out there on the internet is gone, and the lower level of human input data has also become commoditized,” Laing said. “Where these folks are going is really trying to tune these things to achieve AGI or superintelligence.”&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI data platform iMerit believes the next step toward integrating AI tools at the enterprise level is not more data, but better data. And better data doesn’t come from hordes of gig workers, but from experts across mathematics, medicine, healthcare, finance, autonomy, and other cognitive fields, the company says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What’s become exceedingly important is the ability to attract and retain the best cognitive experts, because we have to take these large models and make them very customized towards solving enterprise AI problems,” Radha Basu, CEO and founder of iMerit, told TechCrunch.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The California- and India-based startup has for the past nine years quietly built itself into a trusted data annotation partner for companies working in computer vision, medical imaging, autonomous mobility, and other AI applications that require high-accuracy, human-in-the-loop labeling.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, iMerit is bringing its Scholars program out of beta, the company exclusively told TechCrunch. The goal of the program is to build a growing workforce of experts to fine-tune generative AI models for enterprise applications and, increasingly, foundational models.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;iMerit already calls some of the top AI firms customers, including three of the big seven generative AI companies, eight of the top autonomous vehicle companies, three large U.S. government agencies, and two of the top three cloud providers, according to the company.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3026066" height="417" src="https://techcrunch.com/wp-content/uploads/2025/07/Math-CoT.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;iMerit Scholars workflow example focused on mathematics&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;iMerit&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The news comes as Scale AI, arguably the biggest name in AI data annotation, has lost its founder and CEO Alexandr Wang to Meta, which also acquired a 49% in the company. In the wake of Meta’s investment, many of Scale’s major clients pulled back, including Google, OpenAI, Microsoft, and xAI, out of concerns that Meta could gain access to their product roadmaps.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;iMerit doesn’t claim to replace Scale AI’s core offering of high-throughput, developer-focused “blitz data.” Instead, it’s betting that now is the right moment to double down on expert-led, high-quality data, the kind that requires deep human judgment and domain-specific oversight.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We’re the adults in the room,” Rob Laing, iMerit’s VP of global specialist workforce, told TechCrunch. “A lot of money is being spent on AI right now. There are some very intelligent people building large platforms of human workforces. The output that they’re getting from that mass approach and that very quick speed to market approach is not at the level of quality that enterprises need.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Basu brought up the example of healthcare scribes that have come to market off the back of foundational large language models.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If you don’t have the expertise of the cardiologist or the physician, what you’re doing is basically creating something that’s maybe 50% or 60% accurate,” Basu said. “You want that to be 99%. You want to question the model. You want to break it. You want to fix it. That is what expert-led AI is making possible for enterprise.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;iMerit’s experts are tasked with finetuning, or “tormenting,” enterprise and foundational AI models using the startup’s proprietary platform Ango Hub. Ango allows iMerit’s “Scholars” to interact with the customer’s model to generate and evaluate problems for the model to solve.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For iMerritt, attracting and retaining cognitive experts is key to success because the experts aren’t just doing a few tasks and disappearing; they’re working on projects for multiple years. iMerit boasts a 91% retention rate, with 50% of its experts being women.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Laing, whose experience founding the human translation platform myGengo helped him understand how to crowdsource, said it’s relatively easy to get warm bodies to perform menial tasks. Creating community requires a more human-centered approach.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Instead of someone being a name on a database, when someone joins the Scholars program, they actually meet folks on the team,” Laing said. “They have collaborative discussions. They’re very much pushed to work at the highest possible level. And we are very, very, very selective about how we bring people in.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I think what we’re going to see over the next couple of years is that companies like iMerit that are really focusing on that engagement, that retention, and that quality, are going to be the go-to companies for people to train the AI,” Laing added.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Today, iMerit works with over 4,000 Scholars and hopes to bring on more as it scales. Basu told TechCrunch that even though the company hasn’t raised since 2020 — when it brought on investors like Khosla Ventures, Omidyar Network, Dell.org, and British International Investment — iMerit is sustainable and profitable. With its own cash reserves, iMerit can afford to scale to 10,000 experts, Basu said. To scale further would require more outside investment, which iMerit is open to, but not desperate for.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;iMerit has been working on Scholars for the past year, mainly with a focus on healthcare. The goal is to grow across other enterprise applications, including finance and medicine. Laing noted that generative AI is its fastest-growing area as top AI firms work with iMerit to improve their foundation models.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The free data out there on the internet is gone, and the lower level of human input data has also become commoditized,” Laing said. “Where these folks are going is really trying to tune these things to achieve AGI or superintelligence.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/imerit-believes-better-quality-data-not-more-data-is-the-future-of-ai/</guid><pubDate>Wed, 09 Jul 2025 15:20:14 +0000</pubDate></item><item><title>Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;At &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, the AI conversation goes deeper than just the latest models. On one of the AI Stages, Edo Liberty, founder and CEO of Pinecone, will deliver a session that challenges one of the most persistent assumptions in the field — that raw intelligence alone is enough. With 10,000+ startup and VC leaders expected in San Francisco from October 27–29, &lt;strong&gt;this fireside chat&lt;/strong&gt; and presentation is one of the must-attend moments for anyone building AI systems that actually work in the real world.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Edo Liberty" class="wp-image-3025928" height="383" src="https://techcrunch.com/wp-content/uploads/2025/07/TC25_-Edo-Liberty-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-intelligence-is-only-half-the-equation"&gt;Intelligence is only half the equation&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For AI to be truly useful to businesses, it needs more than language fluency or prediction accuracy. It needs knowledge. Proprietary data, domain-specific insights, real-time information retrieval — these are the ingredients that power task completion, accurate answers, and enterprise value. Liberty will break down the critical difference between intelligence and knowledge, and will explain why delivering both is the key to unlocking AI’s true impact.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;As the founder of Pinecone, Liberty is leading one of the most important infrastructure companies in the AI ecosystem. Pinecone’s vector database helps organizations build high-performance AI applications at scale, with reliable retrieval and memory systems that enable real-time use of massive knowledge bases.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-from-amazon-ai-to-academia-to-building-infrastructure-for-the-next-era"&gt;From Amazon AI to academia to building infrastructure for the next era&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Before launching Pinecone, Liberty served as director of research at AWS and led Amazon AI Labs, where he worked on key services like SageMaker and OpenSearch. He also ran Yahoo’s research lab in New York, taught at Princeton and Tel Aviv University, and authored more than 75 papers and patents on machine learning, data mining, and streaming algorithms.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At Disrupt 2025, Liberty brings all of that experience to bear in a session that will speak to technical leaders, AI founders, enterprise builders, and anyone trying to bridge the gap between promise and performance in artificial intelligence.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Catch this conversation on one of the two AI Stages at TechCrunch Disrupt 2025, happening October 27–29 at Moscone West in San Francisco. The exact session timing to be announced on the &lt;strong&gt;Disrupt agenda page&lt;/strong&gt;, so check back in often for frequent updates. Register now to join more than 10,000 startup and VC leaders and &lt;strong&gt;save up to $675&lt;/strong&gt; before prices increase.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;At &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, the AI conversation goes deeper than just the latest models. On one of the AI Stages, Edo Liberty, founder and CEO of Pinecone, will deliver a session that challenges one of the most persistent assumptions in the field — that raw intelligence alone is enough. With 10,000+ startup and VC leaders expected in San Francisco from October 27–29, &lt;strong&gt;this fireside chat&lt;/strong&gt; and presentation is one of the must-attend moments for anyone building AI systems that actually work in the real world.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Edo Liberty" class="wp-image-3025928" height="383" src="https://techcrunch.com/wp-content/uploads/2025/07/TC25_-Edo-Liberty-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-intelligence-is-only-half-the-equation"&gt;Intelligence is only half the equation&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For AI to be truly useful to businesses, it needs more than language fluency or prediction accuracy. It needs knowledge. Proprietary data, domain-specific insights, real-time information retrieval — these are the ingredients that power task completion, accurate answers, and enterprise value. Liberty will break down the critical difference between intelligence and knowledge, and will explain why delivering both is the key to unlocking AI’s true impact.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;As the founder of Pinecone, Liberty is leading one of the most important infrastructure companies in the AI ecosystem. Pinecone’s vector database helps organizations build high-performance AI applications at scale, with reliable retrieval and memory systems that enable real-time use of massive knowledge bases.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-from-amazon-ai-to-academia-to-building-infrastructure-for-the-next-era"&gt;From Amazon AI to academia to building infrastructure for the next era&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Before launching Pinecone, Liberty served as director of research at AWS and led Amazon AI Labs, where he worked on key services like SageMaker and OpenSearch. He also ran Yahoo’s research lab in New York, taught at Princeton and Tel Aviv University, and authored more than 75 papers and patents on machine learning, data mining, and streaming algorithms.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At Disrupt 2025, Liberty brings all of that experience to bear in a session that will speak to technical leaders, AI founders, enterprise builders, and anyone trying to bridge the gap between promise and performance in artificial intelligence.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Catch this conversation on one of the two AI Stages at TechCrunch Disrupt 2025, happening October 27–29 at Moscone West in San Francisco. The exact session timing to be announced on the &lt;strong&gt;Disrupt agenda page&lt;/strong&gt;, so check back in often for frequent updates. Register now to join more than 10,000 startup and VC leaders and &lt;strong&gt;save up to $675&lt;/strong&gt; before prices increase.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/</guid><pubDate>Wed, 09 Jul 2025 15:30:00 +0000</pubDate></item><item><title>Blok is using AI personas to simulate real-world app usage (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/blok-is-using-ai-persons-to-simulate-real-world-app-usage/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI-powered coding tools like Cursor, Replit, Claude Code, and Lovable are helping developers write many lines of code every day to ship products faster. However, app makers still have to rely on either shipping full beta versions of their apps or using simulation software to gauge how upcoming features will work.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Blok, a company that is coming out of stealth, allows developers to use AI to simulate different user personas to test an app’s features and learn how to make their apps better.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company was founded by Tom Charman and Olivia Higgs in 2024. Both have been serial entrepreneurs and worked on startups together in areas including travel and learning.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3025994" height="453" src="https://techcrunch.com/wp-content/uploads/2025/07/Founder-Headshots-3.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Founders Tom Charman and Olivia Higgs &lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To date, the startup has raised $7.5 million across two rounds. Its seed round of $5 million was led by MaC Venture Capital, with participation from people working at Discord, Google, Meta, Apple, Snapchat, and Pinterest. Blok’s pre-seed round was with Protagonist with participation from Rackhouse, Ryan Hoover’s Weekend Fund, and Blank Ventures.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Marlon Nichols, managing GP at MaC Venture Capital, said that Blok is often compared to Optimizely and Amplitude, but those tools are more reactive. He said that Blok is edging them out by providing a predictive layer of testing for apps.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We backed Blok because we believe product development is at an inflection point. Teams are shipping faster than ever, but they’re still making critical decisions based on A/B tests and gut instinct. Blok’s simulation engine flips that model —&amp;nbsp;giving teams the ability to predict user behavior before a single line of code is written,” he told TechCrunch over email.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Higgs said that the need for testing is increasing as the complexity of interfaces has increased over time. She mentioned that they interviewed more than 100 product engineers to understand problems faced by product teams. &lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There is a real need for increased testing because the bar for visual interfaces is getting a lot higher. We’re seeing people interact with technology through chat, through voice. So if you’re introducing visual UI [elements] into the mix, you have to make sure that you are not introducing unnecessary friction into a user’s workflow,” she said.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3025996" height="396" src="https://techcrunch.com/wp-content/uploads/2025/07/Blok-experiment.jpeg?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Charman said that both big and small companies face different problems. While small companies don’t have cohorts to test out their products and get live feedback, big companies want to avoid stuffing features into their apps and making them clunky. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We are trying to reach a place where companies don’t need to release their features on an experimental basis and wait for a few weeks or months for results to show up,” he said.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;When a customer starts working with Blok, they upload their event log data from Amplitude, Mixpanel, or Segment. Blok then performs behavioral modeling and creates different user personas for app makers to test. These personas would roughly cover most of an app’s user base. &lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3025998" height="396" src="https://techcrunch.com/wp-content/uploads/2025/07/Blok-personas.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Blok&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Then the development team submits a Figma design and experiment details — including the hypothesis they want to test and the user goal they want to achieve — to Blok, and the user persona agents then try to run the simulation many times. At the end, Blok will show insights about how users would use a particular feature and give recommendations. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;These insights include an overall report of the experiment and details about what went well and what could be improved. Teams can also look at a persona-wise report and suggestions. Plus, because it is 2025, there is a chatbot that you can ask queries about your experiment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Blok has put its product behind a waitlist and is working with an initial set of customers, largely developing solutions in finance and healthcare. The startup said these areas are ideal to target as they can’t put out bad experiments in public and play around with the product a lot.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The startup charges companies through a SaaS model, but it is also figuring out how to balance out compute costs. The company is aiming to hit mid-single-digit millions in revenue this year and open up to more customers. &lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI-powered coding tools like Cursor, Replit, Claude Code, and Lovable are helping developers write many lines of code every day to ship products faster. However, app makers still have to rely on either shipping full beta versions of their apps or using simulation software to gauge how upcoming features will work.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Blok, a company that is coming out of stealth, allows developers to use AI to simulate different user personas to test an app’s features and learn how to make their apps better.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company was founded by Tom Charman and Olivia Higgs in 2024. Both have been serial entrepreneurs and worked on startups together in areas including travel and learning.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3025994" height="453" src="https://techcrunch.com/wp-content/uploads/2025/07/Founder-Headshots-3.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Founders Tom Charman and Olivia Higgs &lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To date, the startup has raised $7.5 million across two rounds. Its seed round of $5 million was led by MaC Venture Capital, with participation from people working at Discord, Google, Meta, Apple, Snapchat, and Pinterest. Blok’s pre-seed round was with Protagonist with participation from Rackhouse, Ryan Hoover’s Weekend Fund, and Blank Ventures.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Marlon Nichols, managing GP at MaC Venture Capital, said that Blok is often compared to Optimizely and Amplitude, but those tools are more reactive. He said that Blok is edging them out by providing a predictive layer of testing for apps.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We backed Blok because we believe product development is at an inflection point. Teams are shipping faster than ever, but they’re still making critical decisions based on A/B tests and gut instinct. Blok’s simulation engine flips that model —&amp;nbsp;giving teams the ability to predict user behavior before a single line of code is written,” he told TechCrunch over email.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Higgs said that the need for testing is increasing as the complexity of interfaces has increased over time. She mentioned that they interviewed more than 100 product engineers to understand problems faced by product teams. &lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There is a real need for increased testing because the bar for visual interfaces is getting a lot higher. We’re seeing people interact with technology through chat, through voice. So if you’re introducing visual UI [elements] into the mix, you have to make sure that you are not introducing unnecessary friction into a user’s workflow,” she said.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3025996" height="396" src="https://techcrunch.com/wp-content/uploads/2025/07/Blok-experiment.jpeg?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Charman said that both big and small companies face different problems. While small companies don’t have cohorts to test out their products and get live feedback, big companies want to avoid stuffing features into their apps and making them clunky. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We are trying to reach a place where companies don’t need to release their features on an experimental basis and wait for a few weeks or months for results to show up,” he said.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;When a customer starts working with Blok, they upload their event log data from Amplitude, Mixpanel, or Segment. Blok then performs behavioral modeling and creates different user personas for app makers to test. These personas would roughly cover most of an app’s user base. &lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3025998" height="396" src="https://techcrunch.com/wp-content/uploads/2025/07/Blok-personas.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Blok&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Then the development team submits a Figma design and experiment details — including the hypothesis they want to test and the user goal they want to achieve — to Blok, and the user persona agents then try to run the simulation many times. At the end, Blok will show insights about how users would use a particular feature and give recommendations. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;These insights include an overall report of the experiment and details about what went well and what could be improved. Teams can also look at a persona-wise report and suggestions. Plus, because it is 2025, there is a chatbot that you can ask queries about your experiment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Blok has put its product behind a waitlist and is working with an initial set of customers, largely developing solutions in finance and healthcare. The startup said these areas are ideal to target as they can’t put out bad experiments in public and play around with the product a lot.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The startup charges companies through a SaaS model, but it is also figuring out how to balance out compute costs. The company is aiming to hit mid-single-digit millions in revenue this year and open up to more customers. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/blok-is-using-ai-persons-to-simulate-real-world-app-usage/</guid><pubDate>Wed, 09 Jul 2025 16:00:00 +0000</pubDate></item><item><title>MedGemma: Our most capable open models for health AI development (The latest research from Google)</title><link>https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;Healthcare is increasingly embracing AI to improve workflow management, patient communication, and diagnostic and treatment support. It’s critical that these AI-based systems are not only high-performing, but also efficient and privacy-preserving. It’s with these considerations in mind that we built and recently released Health AI Developer Foundations (HAI-DEF). HAI-DEF is a collection of lightweight open models designed to offer developers robust starting points for their own health research and application development. Because HAI-DEF models are open, developers retain full control over privacy, infrastructure and modifications to the models. In May of this year, we expanded the HAI-DEF collection with MedGemma, a collection of generative models based on Gemma 3 that are designed to accelerate healthcare and lifesciences AI development.&lt;/p&gt;&lt;p&gt;Today, we’re proud to announce two new models in this collection. The first is MedGemma 27B Multimodal, which complements the previously-released 4B Multimodal and 27B text-only models by adding support for complex multimodal and longitudinal electronic health record interpretation. The second new model is MedSigLIP, a lightweight image and text encoder for classification, search, and related tasks. MedSigLIP is based on the same image encoder that powers the 4B and 27B MedGemma models.&lt;/p&gt;&lt;p&gt;MedGemma and MedSigLIP are strong starting points for medical research and product development. MedGemma is useful for medical text or imaging tasks that require generating free text, like report generation or visual question answering. MedSigLIP is recommended for imaging tasks that involve structured outputs like classification or retrieval. All of the above models can be run on a single GPU, and MedGemma 4B and MedSigLIP can even be adapted to run on mobile hardware.&lt;/p&gt;&lt;p&gt;Full details of MedGemma and MedSigLIP development and evaluation can be found in the MedGemma technical report.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;Healthcare is increasingly embracing AI to improve workflow management, patient communication, and diagnostic and treatment support. It’s critical that these AI-based systems are not only high-performing, but also efficient and privacy-preserving. It’s with these considerations in mind that we built and recently released Health AI Developer Foundations (HAI-DEF). HAI-DEF is a collection of lightweight open models designed to offer developers robust starting points for their own health research and application development. Because HAI-DEF models are open, developers retain full control over privacy, infrastructure and modifications to the models. In May of this year, we expanded the HAI-DEF collection with MedGemma, a collection of generative models based on Gemma 3 that are designed to accelerate healthcare and lifesciences AI development.&lt;/p&gt;&lt;p&gt;Today, we’re proud to announce two new models in this collection. The first is MedGemma 27B Multimodal, which complements the previously-released 4B Multimodal and 27B text-only models by adding support for complex multimodal and longitudinal electronic health record interpretation. The second new model is MedSigLIP, a lightweight image and text encoder for classification, search, and related tasks. MedSigLIP is based on the same image encoder that powers the 4B and 27B MedGemma models.&lt;/p&gt;&lt;p&gt;MedGemma and MedSigLIP are strong starting points for medical research and product development. MedGemma is useful for medical text or imaging tasks that require generating free text, like report generation or visual question answering. MedSigLIP is recommended for imaging tasks that involve structured outputs like classification or retrieval. All of the above models can be run on a single GPU, and MedGemma 4B and MedSigLIP can even be adapted to run on mobile hardware.&lt;/p&gt;&lt;p&gt;Full details of MedGemma and MedSigLIP development and evaluation can be found in the MedGemma technical report.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/</guid><pubDate>Wed, 09 Jul 2025 17:00:00 +0000</pubDate></item><item><title>ChatGPT hallucinated about music app Soundslice so often, the founder made the lie come true (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/chatgpt-hallucinated-about-music-app-soundslice-so-often-the-founder-made-the-lie-come-true/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Earlier this month, Adrian Holovaty, founder of music-teaching platform Soundslice, solved a mystery that had been plaguing him for weeks. Weird images of what were clearly ChatGPT sessions kept being uploaded to the site.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Once he solved it, he realized that ChatGPT had become one of his company’s greatest hype men — but it was also lying to people about what his app could do.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Holovaty is best known as one of the creators of the open source Django project, a popular Python web development framework (though he retired from managing the project in 2014). In 2012, he launched Soundslice, which remains “proudly bootstrapped,” he tells TechCrunch. Currently, he’s focused on his music career both as an artist and as a founder.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Soundslice is an app for teaching music, used by students and teachers. It’s known for its video player synchronized to the music notations that guide users on how the notes should be played.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It also offers a feature called “sheet music scanner” that allows users to upload an image of paper sheet music and, using AI, will automatically turn that into an interactive sheet, complete with notations. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Holovaty carefully watches this feature’s error logs to see what problems occur, where to add improvements, he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s where he started seeing the uploaded ChatGPT sessions. &lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;They were creating a bunch of error logs. Instead of images of sheet music, these were images of words and a box of symbols known as ASCII tablature. That’s a basic text-based system used for guitar notations that uses a regular keyboard. (There’s no treble key, for instance, on your standard QWERTY keyboard.)&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Soundslice uploaded images" class="wp-image-3026106" height="386" src="https://techcrunch.com/wp-content/uploads/2025/07/Soundslice-upload-images.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Adrian Holovaty&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The volume of these ChatGPT session images was not so onerous that it was costing his company money to store them and crushing his app’s bandwidth, Holovaty said. He was baffled, he wrote in a blog post about the situation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Our scanning system wasn’t intended to support this style of notation. Why, then, were we being bombarded with so many ASCII tab ChatGPT screenshots? I was mystified for weeks — until I messed around with ChatGPT myself.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;That’s how he saw ChatGPT telling people they could hear this music by opening a Soundslice account and uploading the image of the chat session. Only, they couldn’t. Uploading those images wouldn’t translate the ASCII tab into audio notes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He was struck with a new problem. “The main cost was reputational: New Soundslice users were going in with a false expectation. They’d been confidently told we would do something that we don’t actually do,” he described to TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He and his team discussed their options: Slap disclaimers all over the site about it — “No, we can’t turn a ChatGPT session into hearable music” — or build that feature into the scanner, even though he had never before considered supporting that offbeat musical notation system.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He opted to build the feature.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“My feelings on this are conflicted. I’m happy to add a tool that helps people. But I feel like our hand was forced in a weird way. Should we really be developing features in response to misinformation?” he wrote.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He also wondered if this was the first documented case of a company having to develop a feature because ChatGPT kept repeating, to many people, its hallucination about it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The fellow programmers on Hacker News had an interesting take about it: Several of them said that it’s no different than an overeager human salesperson promising the world to prospects and then forcing developers to deliver new features.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I think that’s a very apt and amusing comparison!” Holovaty agreed.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Earlier this month, Adrian Holovaty, founder of music-teaching platform Soundslice, solved a mystery that had been plaguing him for weeks. Weird images of what were clearly ChatGPT sessions kept being uploaded to the site.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Once he solved it, he realized that ChatGPT had become one of his company’s greatest hype men — but it was also lying to people about what his app could do.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Holovaty is best known as one of the creators of the open source Django project, a popular Python web development framework (though he retired from managing the project in 2014). In 2012, he launched Soundslice, which remains “proudly bootstrapped,” he tells TechCrunch. Currently, he’s focused on his music career both as an artist and as a founder.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Soundslice is an app for teaching music, used by students and teachers. It’s known for its video player synchronized to the music notations that guide users on how the notes should be played.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It also offers a feature called “sheet music scanner” that allows users to upload an image of paper sheet music and, using AI, will automatically turn that into an interactive sheet, complete with notations. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Holovaty carefully watches this feature’s error logs to see what problems occur, where to add improvements, he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s where he started seeing the uploaded ChatGPT sessions. &lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;They were creating a bunch of error logs. Instead of images of sheet music, these were images of words and a box of symbols known as ASCII tablature. That’s a basic text-based system used for guitar notations that uses a regular keyboard. (There’s no treble key, for instance, on your standard QWERTY keyboard.)&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Soundslice uploaded images" class="wp-image-3026106" height="386" src="https://techcrunch.com/wp-content/uploads/2025/07/Soundslice-upload-images.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Adrian Holovaty&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The volume of these ChatGPT session images was not so onerous that it was costing his company money to store them and crushing his app’s bandwidth, Holovaty said. He was baffled, he wrote in a blog post about the situation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Our scanning system wasn’t intended to support this style of notation. Why, then, were we being bombarded with so many ASCII tab ChatGPT screenshots? I was mystified for weeks — until I messed around with ChatGPT myself.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;That’s how he saw ChatGPT telling people they could hear this music by opening a Soundslice account and uploading the image of the chat session. Only, they couldn’t. Uploading those images wouldn’t translate the ASCII tab into audio notes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He was struck with a new problem. “The main cost was reputational: New Soundslice users were going in with a false expectation. They’d been confidently told we would do something that we don’t actually do,” he described to TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He and his team discussed their options: Slap disclaimers all over the site about it — “No, we can’t turn a ChatGPT session into hearable music” — or build that feature into the scanner, even though he had never before considered supporting that offbeat musical notation system.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He opted to build the feature.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“My feelings on this are conflicted. I’m happy to add a tool that helps people. But I feel like our hand was forced in a weird way. Should we really be developing features in response to misinformation?” he wrote.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He also wondered if this was the first documented case of a company having to develop a feature because ChatGPT kept repeating, to many people, its hallucination about it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The fellow programmers on Hacker News had an interesting take about it: Several of them said that it’s no different than an overeager human salesperson promising the world to prospects and then forcing developers to deliver new features.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I think that’s a very apt and amusing comparison!” Holovaty agreed.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/chatgpt-hallucinated-about-music-app-soundslice-so-often-the-founder-made-the-lie-come-true/</guid><pubDate>Wed, 09 Jul 2025 17:20:14 +0000</pubDate></item><item><title>SaaS is in the past. The future belongs to agents, says Narada AI’s CEO. (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/saas-is-in-the-past-the-future-belongs-to-agents-says-narada-ais-ceo/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/54569914657_d267199249_o.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;“SaaS is going away,” said Dave Park, co-founder and CEO of Narada AI. The company is betting big on a different future for enterprise software, one powered by agentic AI.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Change is coming “in the not-too-distant future,” Park said on Equity, TechCrunch’s flagship podcast. “The typical knowledge worker today deals with anywhere from 17 to 25 different SaaS tools and portals every day, wasting two and a half hours just manually looking up or updating these systems. We believe in a future where it’ll just be the data, the databases, and AI agents or agentic models that take your request and operate across those silos to get the job done.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Narada AI, which made its debut at TechCrunch Disrupt 2024 and is based on UC Berkeley research, has developed large action models: a spin on LLMs that can reason through and complete multi-step tasks across different work tools even when APIs are missing.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Park joined Rebecca Bellan on Equity to talk about the rise of agentic AI, what it actually is, how it differs from traditional automation, and what real-world changes enterprises need to make to deploy it at scale. The timing for the conversation is ripe: YC’s most recent batch included 70+ agentic startups, and major players like Grammarly are building full AI work stacks through partnerships and acquisitions.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear more about:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;What most people misunderstand about automation and who’s getting caught in the agentic hype.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;How tools like Narada could eventually help solopreneurs and smaller teams, not just the enterprise giants.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Why the future of software might not be “using” apps at all.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Equity will be back on Friday with our weekly news rundown, so don’t miss it!&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Equity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="has-text-align-left wp-block-paragraph"&gt;&lt;em&gt;Subscribe to us on&lt;/em&gt;&lt;em&gt; Apple Podcasts&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Overcast&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Spotify&lt;/em&gt;&lt;em&gt; and all the casts. You also can follow Equity on&lt;/em&gt;&lt;em&gt; &lt;/em&gt;&lt;em&gt;X and&lt;/em&gt;&lt;em&gt; Threads&lt;/em&gt;&lt;em&gt;, at @EquityPod.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/54569914657_d267199249_o.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;“SaaS is going away,” said Dave Park, co-founder and CEO of Narada AI. The company is betting big on a different future for enterprise software, one powered by agentic AI.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Change is coming “in the not-too-distant future,” Park said on Equity, TechCrunch’s flagship podcast. “The typical knowledge worker today deals with anywhere from 17 to 25 different SaaS tools and portals every day, wasting two and a half hours just manually looking up or updating these systems. We believe in a future where it’ll just be the data, the databases, and AI agents or agentic models that take your request and operate across those silos to get the job done.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Narada AI, which made its debut at TechCrunch Disrupt 2024 and is based on UC Berkeley research, has developed large action models: a spin on LLMs that can reason through and complete multi-step tasks across different work tools even when APIs are missing.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Park joined Rebecca Bellan on Equity to talk about the rise of agentic AI, what it actually is, how it differs from traditional automation, and what real-world changes enterprises need to make to deploy it at scale. The timing for the conversation is ripe: YC’s most recent batch included 70+ agentic startups, and major players like Grammarly are building full AI work stacks through partnerships and acquisitions.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear more about:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;What most people misunderstand about automation and who’s getting caught in the agentic hype.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;How tools like Narada could eventually help solopreneurs and smaller teams, not just the enterprise giants.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Why the future of software might not be “using” apps at all.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Equity will be back on Friday with our weekly news rundown, so don’t miss it!&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Equity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="has-text-align-left wp-block-paragraph"&gt;&lt;em&gt;Subscribe to us on&lt;/em&gt;&lt;em&gt; Apple Podcasts&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Overcast&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Spotify&lt;/em&gt;&lt;em&gt; and all the casts. You also can follow Equity on&lt;/em&gt;&lt;em&gt; &lt;/em&gt;&lt;em&gt;X and&lt;/em&gt;&lt;em&gt; Threads&lt;/em&gt;&lt;em&gt;, at @EquityPod.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/saas-is-in-the-past-the-future-belongs-to-agents-says-narada-ais-ceo/</guid><pubDate>Wed, 09 Jul 2025 17:21:25 +0000</pubDate></item><item><title>YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1184040131.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;YouTube is preparing to update its policies to crack down on creators’ ability to generate revenue from “inauthentic” content, including mass-produced videos and other types of repetitive content — things that have become easier to generate with the help of AI technology.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On July 15, the company will update its YouTube Partner Program (YPP) Monetization policies with more detailed guidelines around what type of content can earn creators money and what cannot. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The exact policy language itself has not yet been released, but a page on YouTube’s Help documentation explains that creators have always been required to upload “original” and “authentic” content. The update says that the new language will help creators to better understand what “inauthentic” content looks like today.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Some YouTube creators were concerned that the update would limit their ability to monetize certain types of videos, like reaction videos or those featuring clips, but a post from YouTube Head of Editorial &amp;amp; Creator Liaison Rene Ritchie says that’s not the case.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In a video update published on Tuesday, Ritchie says that the change is just a “minor update” to YouTube’s longstanding YPP policies and is designed to better identify when content is mass-produced or repetitive.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plus, Ritchie adds, this type of content has been ineligible for monetization for years, as it’s content that viewers often consider spam.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
-[embedded content]
-&lt;/p&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What Ritchie is not saying, however, is how much easier it is to create such videos these days.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;With the rise of AI technology, YouTube has become flooded with AI slop, a term referencing low-quality media or content made using generative AI technology. For instance, it’s common to find an AI voice overlaid on photos, video clips, or other repurposed content, thanks to text-to-video AI tools. Some channels filled with AI music have millions of subscribers. Fake, AI-generated videos about news events, like the Diddy trial, have racked up millions of views.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In another example, a true crime murder series on YouTube that went viral was found to be entirely AI-generated, 404 Media reported earlier this year. Even YouTube CEO Neal Mohan’s likeness was used in an AI-generated phishing scam on the site, despite having tools in place that allow users to report deepfake videos.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While YouTube may downplay the coming changes as a “minor” update or clarification, the reality is that allowing this type of content to grow and its creators to profit could ultimately damage YouTube’s reputation and value. It’s no surprise, then, that the company wants clear policies in place that allow it to enact mass bans of AI slop creators from YPP.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1184040131.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;YouTube is preparing to update its policies to crack down on creators’ ability to generate revenue from “inauthentic” content, including mass-produced videos and other types of repetitive content — things that have become easier to generate with the help of AI technology.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On July 15, the company will update its YouTube Partner Program (YPP) Monetization policies with more detailed guidelines around what type of content can earn creators money and what cannot. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The exact policy language itself has not yet been released, but a page on YouTube’s Help documentation explains that creators have always been required to upload “original” and “authentic” content. The update says that the new language will help creators to better understand what “inauthentic” content looks like today.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Some YouTube creators were concerned that the update would limit their ability to monetize certain types of videos, like reaction videos or those featuring clips, but a post from YouTube Head of Editorial &amp;amp; Creator Liaison Rene Ritchie says that’s not the case.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In a video update published on Tuesday, Ritchie says that the change is just a “minor update” to YouTube’s longstanding YPP policies and is designed to better identify when content is mass-produced or repetitive.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plus, Ritchie adds, this type of content has been ineligible for monetization for years, as it’s content that viewers often consider spam.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
-[embedded content]
-&lt;/p&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What Ritchie is not saying, however, is how much easier it is to create such videos these days.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;With the rise of AI technology, YouTube has become flooded with AI slop, a term referencing low-quality media or content made using generative AI technology. For instance, it’s common to find an AI voice overlaid on photos, video clips, or other repurposed content, thanks to text-to-video AI tools. Some channels filled with AI music have millions of subscribers. Fake, AI-generated videos about news events, like the Diddy trial, have racked up millions of views.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In another example, a true crime murder series on YouTube that went viral was found to be entirely AI-generated, 404 Media reported earlier this year. Even YouTube CEO Neal Mohan’s likeness was used in an AI-generated phishing scam on the site, despite having tools in place that allow users to report deepfake videos.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While YouTube may downplay the coming changes as a “minor” update or clarification, the reality is that allowing this type of content to grow and its creators to profit could ultimately damage YouTube’s reputation and value. It’s no surprise, then, that the company wants clear policies in place that allow it to enact mass bans of AI slop creators from YPP.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/</guid><pubDate>Wed, 09 Jul 2025 17:23:13 +0000</pubDate></item><item><title>[NEW] AI mania pushes Nvidia to record $4 trillion valuation (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/07/ai-mania-pushes-nvidia-to-record-4-trillion-valuation/</link><description>&lt;header&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 10 Jul 2025 06:34:23 +0000</lastBuildDate><item><title>AI mania pushes Nvidia to record $4 trillion valuation (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/07/ai-mania-pushes-nvidia-to-record-4-trillion-valuation/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -877,7 +311,7 @@
         &lt;/div&gt;
     &lt;/div&gt;
               &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/07/ai-mania-pushes-nvidia-to-record-4-trillion-valuation/</guid><pubDate>Wed, 09 Jul 2025 18:35:15 +0000</pubDate></item><item><title>[NEW] OpenAI is reportedly releasing an AI browser in the coming weeks (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Hot on the heels of Perplexity’s Comet launch, OpenAI is planning to release an AI-powered web browser of its own to challenge Google Chrome, according to a report from Reuters on Wednesday.&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/07/ai-mania-pushes-nvidia-to-record-4-trillion-valuation/</guid><pubDate>Wed, 09 Jul 2025 18:35:15 +0000</pubDate></item><item><title>OpenAI is reportedly releasing an AI browser in the coming weeks (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Hot on the heels of Perplexity’s Comet launch, OpenAI is planning to release an AI-powered web browser of its own to challenge Google Chrome, according to a report from Reuters on Wednesday.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The ChatGPT maker reportedly aims to release its browser in the coming weeks. Much like Perplexity’s Comet and The Browser Company’s Dia, OpenAI’s browser is said to use AI to rethink how users browse the web. Supposedly, the browser keeps some user interactions inside ChatGPT instead of linking out to websites. Reuters reports that OpenAI’s browser may integrate Operator, the company’s web-browsing AI agent, as a key feature.&lt;/p&gt;
 
@@ -897,7 +331,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;OpenAI had considered building a browser to compete with Google Chrome in 2024, according to The Information. Much like Perplexity, OpenAI likely wants to get direct access to user data and have the freedom to create novel user experiences that aren’t intermediated by Google.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/</guid><pubDate>Wed, 09 Jul 2025 18:48:06 +0000</pubDate></item><item><title>[NEW] AI shapes autonomous underwater “gliders” (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202506/mit-auv-Gliders.png" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
+&lt;p class="wp-block-paragraph"&gt;OpenAI had considered building a browser to compete with Google Chrome in 2024, according to The Information. Much like Perplexity, OpenAI likely wants to get direct access to user data and have the freedom to create novel user experiences that aren’t intermediated by Google.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/</guid><pubDate>Wed, 09 Jul 2025 18:48:06 +0000</pubDate></item><item><title>AI shapes autonomous underwater “gliders” (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202506/mit-auv-Gliders.png" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
             &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
           
 
@@ -911,7 +345,7 @@
             &lt;p dir="ltr" id="docs-internal-guid-cf34fa1c-7fff-d3f4-d4e3-35ce42aa6255"&gt;Marine scientists have long marveled at how animals like fish and seals swim so efficiently despite having different shapes. Their bodies are optimized for efficient, hydrodynamic aquatic navigation so they can exert minimal energy when traveling long distances.&lt;/p&gt;&lt;p&gt;Autonomous vehicles can drift through the ocean in a similar way, collecting data about vast underwater environments. However, the shapes of these gliding machines are less diverse than what we find in marine life — go-to designs often resemble tubes or torpedoes, since they’re fairly hydrodynamic as well. Plus, testing new builds requires lots of real-world trial-and-error.&lt;/p&gt;&lt;p&gt;Researchers from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the University of Wisconsin at Madison propose that AI could help us explore uncharted glider designs more conveniently. Their method uses machine learning to test different 3D designs in a physics simulator, then molds them into more hydrodynamic shapes. The resulting model can be fabricated via a 3D printer using significantly less energy than hand-made ones.&lt;/p&gt;&lt;p&gt;The MIT scientists say that this design pipeline could create new, more efficient machines that help oceanographers measure water temperature and salt levels, gather more detailed insights about currents, and monitor the impacts of climate change. The team demonstrated this potential by producing two gliders roughly the size of a boogie board: a two-winged machine resembling an airplane, and a unique, four-winged object resembling a flat fish with four fins.&lt;/p&gt;&lt;p dir="ltr"&gt;Peter Yichen Chen, MIT CSAIL postdoc and co-lead researcher on the project, notes that these designs are just a few of the novel shapes his team’s approach can generate. “We’ve developed a semi-automated process that can help us test unconventional designs that would be very taxing for humans to design,” he says. “This level of shape diversity hasn’t been explored previously, so most of these designs haven’t been tested in the real world.”&lt;/p&gt;&lt;p dir="ltr"&gt;But how did AI come up with these ideas in the first place? First, the researchers found 3D models of over 20 conventional sea exploration shapes, such as submarines, whales, manta rays, and sharks. Then, they enclosed these models in “deformation cages” that map out different articulation points that the researchers pulled around to create new shapes.&lt;/p&gt;&lt;p dir="ltr"&gt;The CSAIL-led team built a dataset of conventional and deformed shapes before simulating how they would perform at different “angles-of-attack” — the direction a vessel will tilt as it glides through the water. For example, a swimmer may want to dive at a -30 degree angle to retrieve an item from a pool.&lt;/p&gt;&lt;p dir="ltr"&gt;These diverse shapes and angles of attack were then used as inputs for a neural network that essentially anticipates how efficiently a glider shape will perform at particular angles and optimizes it as needed.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Giving gliding robots a lift&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;The team’s neural network simulates how a particular glider would react to underwater physics, aiming to capture how it moves forward and the force that drags against it. The goal: find the best lift-to-drag ratio, representing how much the glider is being held up compared to how much it’s being held back. The higher the ratio, the more efficiently the vehicle travels; the lower it is, the more the glider will slow down during its voyage.&lt;/p&gt;&lt;p dir="ltr"&gt;Lift-to-drag ratios are key for flying planes: At takeoff, you want to maximize lift to ensure it can glide well against wind currents, and when landing, you need sufficient force to drag it to a full stop.&lt;/p&gt;&lt;p dir="ltr"&gt;Niklas Hagemann, an MIT graduate student in architecture and CSAIL affiliate, notes that this ratio is just as useful if you want a similar gliding motion in the ocean.&lt;/p&gt;&lt;p&gt;“Our pipeline modifies glider shapes to find the best lift-to-drag ratio, optimizing its performance underwater,” says Hagemann, who is also a co-lead author on a&amp;nbsp;paper that was presented at the International Conference on Robotics and Automation in June. “You can then export the top-performing designs so they can be 3D-printed.”&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Going for a quick glide&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;While their AI pipeline seemed realistic, the researchers needed to ensure its predictions about glider performance were accurate by experimenting in more lifelike environments.&lt;/p&gt;&lt;p dir="ltr"&gt;They first fabricated their two-wing design as a scaled-down vehicle resembling a paper airplane. This glider was taken to MIT’s Wright Brothers Wind Tunnel, an indoor space with fans that simulate wind flow. Placed at different angles, the glider’s predicted lift-to-drag ratio was only about 5 percent higher on average than the ones recorded in the wind experiments — a small difference between simulation and reality.&lt;/p&gt;&lt;p&gt;A digital evaluation involving a visual, more complex physics simulator also supported the notion that the AI pipeline made fairly accurate predictions about how the gliders would move. It visualized how these machines would descend in 3D.&lt;/p&gt;&lt;p&gt;To truly evaluate these gliders in the real world, though, the team needed to see how their devices would fare underwater. They printed two designs that performed the best at specific points-of-attack for this test: a jet-like device at 9 degrees and the four-wing vehicle at 30 degrees.&lt;/p&gt;&lt;p dir="ltr"&gt;Both shapes were fabricated in a 3D printer as hollow shells with small holes that flood when fully submerged. This lightweight design makes the vehicle easier to handle outside of the water and requires less material to be fabricated. The researchers placed a tube-like device inside these shell coverings, which housed a range of hardware, including a pump to change the glider’s buoyancy, a mass shifter (a device that controls the machine’s angle-of-attack), and electronic components.&lt;/p&gt;&lt;p&gt;Each design outperformed a handmade torpedo-shaped glider by moving more efficiently across a pool. With higher lift-to-drag ratios than their counterpart, both AI-driven machines exerted less energy, similar to the effortless ways marine animals navigate the oceans.&lt;/p&gt;&lt;p&gt;As much as the project is an encouraging step forward for glider design, the researchers are looking to narrow the gap between simulation and real-world performance. They are also hoping to develop machines that can react to sudden changes in currents, making the gliders more adaptable to seas and oceans.&lt;/p&gt;&lt;p&gt;Chen adds that the team is looking to explore new types of shapes, particularly thinner glider designs. They intend to make their framework faster, perhaps bolstering it with new features that enable more customization, maneuverability, or even the creation of miniature vehicles.&lt;/p&gt;&lt;p&gt;Chen and Hagemann co-led research on this project with OpenAI researcher Pingchuan Ma SM ’23, PhD ’25. They authored the paper with Wei Wang, a University of Wisconsin at Madison assistant professor and recent CSAIL postdoc; John Romanishin ’12, SM ’18, PhD ’23; and two MIT professors and CSAIL members: lab director Daniela Rus and senior author Wojciech Matusik. Their work was supported, in part, by a Defense Advanced Research Projects Agency (DARPA) grant and the MIT-GIST Program.&lt;/p&gt;        
 
       &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709</guid><pubDate>Wed, 09 Jul 2025 20:35:00 +0000</pubDate></item><item><title>[NEW] Changing the conversation in health care (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/changing-conversation-health-care-0709</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202506/mit-language-ai-incubator.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
+        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709</guid><pubDate>Wed, 09 Jul 2025 20:35:00 +0000</pubDate></item><item><title>Changing the conversation in health care (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/changing-conversation-health-care-0709</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202506/mit-language-ai-incubator.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
             &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
           
 
@@ -925,7 +359,7 @@
             &lt;p dir="ltr"&gt;Generative artificial intelligence is transforming the ways humans write, read, speak, think, empathize, and act within and across languages and cultures. In health care, gaps in communication between patients and practitioners can worsen patient outcomes and prevent improvements in practice and care. The Language/AI Incubator, made possible through funding from the&amp;nbsp;MIT Human Insight Collaborative (MITHIC), offers a potential response to these challenges.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The project envisions a research community rooted in the humanities that will foster interdisciplinary collaboration across MIT to deepen understanding of generative AI’s impact on cross-linguistic and cross-cultural communication. The project’s focus on health care and communication seeks to build bridges across socioeconomic, cultural, and linguistic strata.&lt;/p&gt;&lt;p dir="ltr"&gt;The incubator is co-led by&amp;nbsp;Leo Celi, a physician and the research director and senior research scientist with the&amp;nbsp;Institute for Medical Engineering and Science (IMES), and&amp;nbsp;Per Urlaub, professor of the practice in German and second language studies and director of MIT’s&amp;nbsp;Global Languages program.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“The basis of health care delivery is the knowledge of health and disease,” Celi says. “We’re seeing poor outcomes despite massive investments because our knowledge system is broken.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A chance collaboration&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Urlaub and Celi met during a MITHIC launch event. Conversations during the event reception revealed a shared interest in exploring improvements in medical communication and practice with AI.&lt;/p&gt;&lt;p dir="ltr"&gt;“We’re trying to incorporate data science into health-care delivery,” Celi says. “We’ve been recruiting social scientists [at IMES] to help advance our work, because the science we create isn’t neutral.”&lt;/p&gt;&lt;p dir="ltr"&gt;Language is a non-neutral mediator in health care delivery, the team believes, and can be a boon or barrier to effective treatment. “Later, after we met, I joined one of his working groups whose focus was metaphors for pain: the language we use to describe it and its measurement,” Urlaub continues. “One of the questions we considered was how effective communication can occur between doctors and patients.”&lt;/p&gt;&lt;p dir="ltr"&gt;Technology, they argue, impacts casual communication, and its impact depends on both users and creators. As AI and large language models (LLMs) gain power and prominence, their use is broadening to include fields like health care and wellness.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Rodrigo Gameiro, a physician and researcher with MIT’s Laboratory for Computational Physiology, is another program participant. He notes that work at the laboratory centers responsible AI development and implementation. Designing systems that leverage AI effectively, particularly when considering challenges related to communicating across linguistic and cultural divides that can occur in health care, demands a nuanced approach.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“When we build AI systems that interact with human language, we’re not just teaching machines how to process words; we’re teaching them to navigate the complex web of meaning embedded in language,” Gameiro says.&lt;/p&gt;&lt;p dir="ltr"&gt;Language’s complexities can impact treatment and patient care. “Pain can only be communicated through metaphor,” Urlaub continues, “but metaphors don’t always match, linguistically and culturally.” Smiley faces and one-to-10 scales — pain measurement tools English-speaking medical professionals may use to assess their patients — may not travel well across racial, ethnic, cultural, and language boundaries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;“Science has to have a heart”&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;LLMs can potentially help scientists improve health care, although there are some systemic and pedagogical challenges to consider. Science can focus on outcomes to the exclusion of the people it’s meant to help, Celi argues. “Science has to have a heart,” he says. “Measuring students’ effectiveness by counting the number of papers they publish or patents they produce misses the point.”&lt;/p&gt;&lt;p dir="ltr"&gt;The point, Urlaub says, is to investigate carefully while simultaneously acknowledging what we don’t know, citing what philosophers call Epistemic Humility. Knowledge, the investigators argue, is provisional, and always incomplete. Deeply held beliefs may require revision in light of new evidence.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“No one’s mental view of the world is complete,” Celi says. “You need to create an environment in which people are comfortable acknowledging their biases.”&lt;/p&gt;&lt;p dir="ltr"&gt;“How do we share concerns between language educators and others interested in AI?” Urlaub asks. “How do we identify and investigate the relationship between medical professionals and language educators interested in AI’s potential to aid in the elimination of gaps in communication between doctors and patients?”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Language, in Gameiro’s estimation, is more than just a tool for communication. “It reflects culture, identity, and power dynamics,” he says. In situations where a patient might not be comfortable describing pain or discomfort because of the physician’s position as an authority, or because their culture demands yielding to those perceived as authority figures, misunderstandings can be dangerous.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Changing the conversation&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;AI’s facility with language can help medical professionals navigate these areas more carefully, providing digital frameworks offering valuable cultural and linguistic contexts in which patient and practitioner can rely on data-driven, research-supported tools to improve dialogue. Institutions need to reconsider how they educate medical professionals and invite the communities they serve into the conversation, the team says.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;‘We need to ask ourselves what we truly want,” Celi says. “Why are we measuring what we’re measuring?” The biases we bring with us to these interactions — doctors, patients, their families, and their communities — remain barriers to improved care, Urlaub and Gameiro say.&lt;/p&gt;&lt;p dir="ltr"&gt;“We want to connect people who think differently, and make AI work for everyone,” Gameiro continues. “Technology without purpose is just exclusion at scale.”&lt;/p&gt;&lt;p dir="ltr"&gt;“Collaborations like these can allow for deep processing and better ideas,” Urlaub says.&lt;/p&gt;&lt;p dir="ltr"&gt;Creating spaces where ideas about AI and health care can potentially become actions is a key element of the project. The Language/AI Incubator hosted its first colloquium at MIT in May, which was led by Mena Ramos, a physician and the co-founder and CEO of the&amp;nbsp;Global Ultrasound Institute.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The colloquium also featured presentations from Celi, as well as Alfred Spector, a visiting scholar in MIT’s&amp;nbsp;Department of Electrical Engineering and Computer Science, and Douglas Jones, a senior staff member in the MIT Lincoln Laboratory’s Human Language Technology Group. A second Language/AI Incubator colloquium is planned for August.&lt;/p&gt;&lt;p dir="ltr"&gt;Greater integration between the social and hard sciences can potentially increase the likelihood of developing viable solutions and reducing biases. Allowing for shifts in the ways patients and doctors view the relationship, while offering each shared ownership of the interaction, can help improve outcomes. Facilitating these conversations with AI may speed the integration of these perspectives.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“Community advocates have a voice and should be included in these conversations,” Celi says. “AI and statistical modeling can’t collect all the data needed to treat all the people who need it.”&lt;/p&gt;&lt;p dir="ltr"&gt;Community needs and improved educational opportunities and practices should be coupled with cross-disciplinary approaches to knowledge acquisition and transfer. The ways people see things are limited by their perceptions and other factors. “Whose language are we modeling?” Gameiro asks about building LLMs. “Which varieties of speech are being included or excluded?” Since meaning and intent can shift across those contexts, it’s important to remember these when designing AI tools.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;“AI is our chance to rewrite the rules”&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;While there’s lots of potential in the collaboration, there are serious challenges to overcome, including establishing and scaling the technological means to improve patient-provider communication with AI, extending opportunities for collaboration to marginalized and underserved communities, and reconsidering and revamping patient care.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;But the team isn’t daunted.&lt;/p&gt;&lt;p dir="ltr"&gt;Celi believes there are opportunities to address the widening gap between people and practitioners while addressing gaps in health care. “Our intent is to reattach the string that’s been cut between society and science,” he says. “We can empower scientists and the public to investigate the world together while also acknowledging the limitations engendered in overcoming their biases.”&lt;/p&gt;&lt;p dir="ltr"&gt;Gameiro is a passionate advocate for AI’s ability to change everything we know about medicine. “I’m a medical doctor, and I don’t think I’m being hyperbolic when I say I believe AI is our chance to rewrite the rules of what medicine can do and who we can reach,” he says.&lt;/p&gt;&lt;p dir="ltr"&gt;“Education changes humans from objects to subjects,” Urlaub argues, describing the difference between disinterested observers and active and engaged participants in the new care model he hopes to build. “We need to better understand technology’s impact on the lines between these states of being.”&lt;/p&gt;&lt;p dir="ltr"&gt;Celi, Gameiro, and Urlaub each advocate for MITHIC-like spaces across health care, places where innovation and collaboration are allowed to occur without the kinds of arbitrary benchmarks institutions have previously used to mark success.&lt;/p&gt;&lt;p dir="ltr"&gt;“AI will transform all these sectors,” Urlaub believes. “MITHIC is a generous framework that allows us to embrace uncertainty with flexibility.”&lt;/p&gt;&lt;p dir="ltr"&gt;“We want to employ our power to build community among disparate audiences while admitting we don’t have all the answers,” Celi says. “If we fail, it’s because we failed to dream big enough about how a reimagined world could look.”&lt;/p&gt;        
 
       &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/changing-conversation-health-care-0709</guid><pubDate>Wed, 09 Jul 2025 20:50:00 +0000</pubDate></item><item><title>[NEW] California lawmaker behind SB 1047 reignites push for mandated AI safety reports (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-950173010.jpg?resize=1200,861" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;California State Senator Scott Wiener on Wednesday introduced new amendments to his latest bill, SB 53, that would require the world’s largest AI companies to publish safety and security protocols and issue reports when safety incidents occur.&lt;/p&gt;
+        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/changing-conversation-health-care-0709</guid><pubDate>Wed, 09 Jul 2025 20:50:00 +0000</pubDate></item><item><title>California lawmaker behind SB 1047 reignites push for mandated AI safety reports (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-950173010.jpg?resize=1200,861" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;California State Senator Scott Wiener on Wednesday introduced new amendments to his latest bill, SB 53, that would require the world’s largest AI companies to publish safety and security protocols and issue reports when safety incidents occur.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;If signed into law, California would be the first state to impose meaningful transparency requirements onto leading AI developers, likely including OpenAI, Google, Anthropic, and xAI.&lt;/p&gt;
 
@@ -1043,7 +477,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;Leading AI model developers typically publish safety reports for their AI models, but they’ve been less consistent in recent months. Google, for example, decided not to publish a safety report for its most advanced AI model ever released, Gemini 2.5 Pro, until months after it was made available. OpenAI also decided not to publish a safety report for its GPT-4.1 model. Later, a third-party study came out that suggested it may be less aligned than previous AI models.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;SB 53 represents a toned-down version of previous AI safety bills, but it still could force AI companies to publish more information than they do today. For now, they’ll be watching closely as Senator Wiener once again tests those boundaries.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/</guid><pubDate>Wed, 09 Jul 2025 20:54:30 +0000</pubDate></item><item><title>[NEW] Cloudflare wants Google to change its AI search crawling. Google likely won’t. (AI – Ars Technica)</title><link>https://arstechnica.com/tech-policy/2025/07/cloudflare-wants-google-to-change-its-ai-search-crawling-google-likely-wont/</link><description>&lt;header&gt;
+&lt;p class="wp-block-paragraph"&gt;SB 53 represents a toned-down version of previous AI safety bills, but it still could force AI companies to publish more information than they do today. For now, they’ll be watching closely as Senator Wiener once again tests those boundaries.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/</guid><pubDate>Wed, 09 Jul 2025 20:54:30 +0000</pubDate></item><item><title>Cloudflare wants Google to change its AI search crawling. Google likely won’t. (AI – Ars Technica)</title><link>https://arstechnica.com/tech-policy/2025/07/cloudflare-wants-google-to-change-its-ai-search-crawling-google-likely-wont/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -1317,7 +751,7 @@
         &lt;/div&gt;
     &lt;/div&gt;
               &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/07/cloudflare-wants-google-to-change-its-ai-search-crawling-google-likely-wont/</guid><pubDate>Wed, 09 Jul 2025 21:00:00 +0000</pubDate></item><item><title>[NEW] ChatGPT made up a product feature out of thin air, so this company created it (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/</link><description>&lt;header&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/07/cloudflare-wants-google-to-change-its-ai-search-crawling-google-likely-wont/</guid><pubDate>Wed, 09 Jul 2025 21:00:00 +0000</pubDate></item><item><title>ChatGPT made up a product feature out of thin air, so this company created it (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -1637,7 +1071,7 @@
         &lt;/div&gt;
     &lt;/div&gt;
               &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/</guid><pubDate>Wed, 09 Jul 2025 21:59:25 +0000</pubDate></item><item><title>[NEW] Microsoft shares $500M in AI savings internally days after cutting 9,000 jobs (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/microsoft-shares-500m-in-ai-savings-internally-days-after-cutting-9000-jobs/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/Copilot-Hero-Image.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Microsoft’s chief commercial officer Judson Althoff said during a presentation this week that AI tools are boosting productivity across sales, customer service, and software engineering, Bloomberg reports. Althoff noted AI has been so useful that Microsoft was able to save more than $500 million last year in its call center alone.&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/</guid><pubDate>Wed, 09 Jul 2025 21:59:25 +0000</pubDate></item><item><title>Microsoft shares $500M in AI savings internally days after cutting 9,000 jobs (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/microsoft-shares-500m-in-ai-savings-internally-days-after-cutting-9000-jobs/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/Copilot-Hero-Image.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Microsoft’s chief commercial officer Judson Althoff said during a presentation this week that AI tools are boosting productivity across sales, customer service, and software engineering, Bloomberg reports. Althoff noted AI has been so useful that Microsoft was able to save more than $500 million last year in its call center alone.&amp;nbsp;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The internal remarks come a week after Microsoft laid off more than 9,000 workers, the company’s third round of layoffs this year that put the total number of affected employees somewhere around 15,000.&amp;nbsp;&lt;/p&gt;
 
@@ -1703,7 +1137,283 @@
 			
 		&lt;/div&gt;
 	&lt;/div&gt;
-&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/microsoft-shares-500m-in-ai-savings-internally-days-after-cutting-9000-jobs/</guid><pubDate>Wed, 09 Jul 2025 23:06:01 +0000</pubDate></item><item><title>[NEW] Why Cluely’s Roy Lee isn’t sweating cheating detectors (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/IMG-0036-from-100CANON.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Cluely, an AI startup that uses a hidden in-browser window to analyze online conversations, has shot to fame with the controversial claim that its ‘undetectability’ feature lets users “cheat on everything.”&lt;/p&gt;
+&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/microsoft-shares-500m-in-ai-savings-internally-days-after-cutting-9000-jobs/</guid><pubDate>Wed, 09 Jul 2025 23:06:01 +0000</pubDate></item><item><title>[NEW] Announcing the winners of VentureBeat’s 7th Annual Women in AI awards (AI News | VentureBeat)</title><link>https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-7th-annual-women-in-ai-awards/</link><description>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;VentureBeat announced the winners of the seventh annual Women in AI Awards at VB Transform in San Francisco on June 25.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The awards recognize and honor the women leaders and changemakers in the field of AI. The nominees were submitted by the public and chosen by a VentureBeat committee based on their commitment to the industry, their work to increase inclusivity in the field and their positive influence in the community.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Winners were presented with awards by VentureBeat’s senior AI writer Emilia David and myself (associate managing editor).&lt;/p&gt;
+
+
+
+&lt;p&gt;“We’re thrilled to be here to present the seventh annual Women in AI awards,” David said in her opening remarks. “We want to offer praise for all the people who are behind the scenes and helping transform the industry.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;This award honors a woman who launched companies now showing great promise in AI. Judges considered factors such as business traction, technology and impact in the AI space.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Natalya Lopareva, CEO and founder at Algorized. Her technology, originally developed from research at the University of Zurich, helps locate people after earthquakes and can now help save lives in various applications.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“At Algorized we utilize AI for people sensing, so we enable physical AI, we are at the intersection of human and machine,” Lopareva said in her acceptance speech. The award went to her entire team and all the amazing women working at the company.&lt;/p&gt;
+
+
+&lt;strong&gt;&amp;gt;&amp;gt;See all our Transform 2025 coverage here&amp;lt;&amp;lt;&lt;/strong&gt;
+
+
+
+
+
+
+&lt;p&gt;This award honors a woman who has made a significant impact in AI research, helping accelerate progress either within her organization, as part of academic research or impacting AI generally.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Lindsay Richman, CEO at Vibrissa AI (formerly Innerverse AI). Richman and her team are focused on sensor and biometric data and their applications. They are developing research around longevity, cellular orchestration, mitochondrial health and biophotonics.&lt;/p&gt;
+
+
+
+&lt;p&gt;“A vibrissa is actually a whisker, a hair, that actually detects vibration,” Richman said in her acceptance speech. “And my company had done a lot of work in sensor research and finding ways to use vibrations to record events to hopefully do a lot of sensor-based recording without a lot of hardware that currently slows processes down.” &lt;/p&gt;
+
+
+
+&lt;p&gt;She said she was thrilled to be back at Transform and “support so many great people, including great women, at this conference.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;This award honors a female leader who has helped mentor other women in the field of AI, providing guidance and support and/or encouraging more women to enter the field.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Suruchi Shah, engineering manager for the model serving team at LinkedIn. She spearheads the development of cutting-edge infrastructure for large language model (LLM) serving, helping revolutionize the way AI models are deployed across LinkedIn’s ecosystem.&lt;/p&gt;
+
+
+
+&lt;p&gt;Shah was not able to accept the award in person, however, she said in a statement after: “I’m deeply honored by this recognition — it belongs as much to the brilliant women I’ve been privileged to mentor as it does to me. Together we’re proving that an inclusive, supportive community is the fastest path to breakthrough AI innovation.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;This award honors a woman who demonstrates exemplary leadership and progress in the emerging field of responsible AI.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Stephanie Cohen, chief strategy officer at Cloudflare. She is leading efforts to redefine the economic model of the internet, and creating a sustainable future for content creators, publishers, AI companies and the internet at large.&lt;/p&gt;
+
+
+
+&lt;p&gt;Cohen could not accept her award in person, but she sent in a video acceptance, saying she was honored to be recognized. “Here at Cloudflare, we are on a mission to help build a better internet, and a better internet is one where we are using AI responsibly, and that is a world where content creators of all shapes and sizes are flourishing in this amazing world that’s in front of us with AI.”&lt;/p&gt;
+
+
+
+&lt;p&gt;She added after the event: “I joined Cloudflare just over a year ago to help build a better Internet. Our global network now has GPUs in over 190 cities, making AI fast and accessible to everyone around the world, and we’re building tools to help foster a future where AI innovation thrives while respecting content ownership. And as our co-founders like to say, ‘we’re just getting started’.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;This award honors a woman in the early stage of her AI career who has demonstrated exemplary leadership traits.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Arina Vlasova, CEO at DataGPT. The company offers a conversational AI data analyst that allows users to interact with their data using natural language and receive immediate, analyst-level insights.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“This award truly means a lot to me,” Vlasova said during her acceptance speech. “DataGPT was started as a bold idea to build the world’s first AI data analyst. A lot of people questioned us. Some thought that it might be too ambitious, even beyond my and my team’s potential. But we pushed harder and today we are leading the way. What is truly meaningful in life is always hard, and what matters is to have vision, grit and to keep going. To all the women out there, go over it, lead it, build it. You’ve got it.”&lt;/p&gt;
+
+
+
+&lt;p&gt;We’d like to congratulate all of the women who were nominated to receive a Women in AI Award and to our winners. Thanks to everyone for their nominations and for contributing to the growing awareness of women who are making a significant difference in AI.&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</description><content:encoded>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;VentureBeat announced the winners of the seventh annual Women in AI Awards at VB Transform in San Francisco on June 25.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The awards recognize and honor the women leaders and changemakers in the field of AI. The nominees were submitted by the public and chosen by a VentureBeat committee based on their commitment to the industry, their work to increase inclusivity in the field and their positive influence in the community.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Winners were presented with awards by VentureBeat’s senior AI writer Emilia David and myself (associate managing editor).&lt;/p&gt;
+
+
+
+&lt;p&gt;“We’re thrilled to be here to present the seventh annual Women in AI awards,” David said in her opening remarks. “We want to offer praise for all the people who are behind the scenes and helping transform the industry.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;This award honors a woman who launched companies now showing great promise in AI. Judges considered factors such as business traction, technology and impact in the AI space.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Natalya Lopareva, CEO and founder at Algorized. Her technology, originally developed from research at the University of Zurich, helps locate people after earthquakes and can now help save lives in various applications.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“At Algorized we utilize AI for people sensing, so we enable physical AI, we are at the intersection of human and machine,” Lopareva said in her acceptance speech. The award went to her entire team and all the amazing women working at the company.&lt;/p&gt;
+
+
+&lt;strong&gt;&amp;gt;&amp;gt;See all our Transform 2025 coverage here&amp;lt;&amp;lt;&lt;/strong&gt;
+
+
+
+
+
+
+&lt;p&gt;This award honors a woman who has made a significant impact in AI research, helping accelerate progress either within her organization, as part of academic research or impacting AI generally.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Lindsay Richman, CEO at Vibrissa AI (formerly Innerverse AI). Richman and her team are focused on sensor and biometric data and their applications. They are developing research around longevity, cellular orchestration, mitochondrial health and biophotonics.&lt;/p&gt;
+
+
+
+&lt;p&gt;“A vibrissa is actually a whisker, a hair, that actually detects vibration,” Richman said in her acceptance speech. “And my company had done a lot of work in sensor research and finding ways to use vibrations to record events to hopefully do a lot of sensor-based recording without a lot of hardware that currently slows processes down.” &lt;/p&gt;
+
+
+
+&lt;p&gt;She said she was thrilled to be back at Transform and “support so many great people, including great women, at this conference.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;This award honors a female leader who has helped mentor other women in the field of AI, providing guidance and support and/or encouraging more women to enter the field.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Suruchi Shah, engineering manager for the model serving team at LinkedIn. She spearheads the development of cutting-edge infrastructure for large language model (LLM) serving, helping revolutionize the way AI models are deployed across LinkedIn’s ecosystem.&lt;/p&gt;
+
+
+
+&lt;p&gt;Shah was not able to accept the award in person, however, she said in a statement after: “I’m deeply honored by this recognition — it belongs as much to the brilliant women I’ve been privileged to mentor as it does to me. Together we’re proving that an inclusive, supportive community is the fastest path to breakthrough AI innovation.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;This award honors a woman who demonstrates exemplary leadership and progress in the emerging field of responsible AI.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Stephanie Cohen, chief strategy officer at Cloudflare. She is leading efforts to redefine the economic model of the internet, and creating a sustainable future for content creators, publishers, AI companies and the internet at large.&lt;/p&gt;
+
+
+
+&lt;p&gt;Cohen could not accept her award in person, but she sent in a video acceptance, saying she was honored to be recognized. “Here at Cloudflare, we are on a mission to help build a better internet, and a better internet is one where we are using AI responsibly, and that is a world where content creators of all shapes and sizes are flourishing in this amazing world that’s in front of us with AI.”&lt;/p&gt;
+
+
+
+&lt;p&gt;She added after the event: “I joined Cloudflare just over a year ago to help build a better Internet. Our global network now has GPUs in over 190 cities, making AI fast and accessible to everyone around the world, and we’re building tools to help foster a future where AI innovation thrives while respecting content ownership. And as our co-founders like to say, ‘we’re just getting started’.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;This award honors a woman in the early stage of her AI career who has demonstrated exemplary leadership traits.&lt;/p&gt;
+
+
+
+&lt;p&gt;This year’s winner is Arina Vlasova, CEO at DataGPT. The company offers a conversational AI data analyst that allows users to interact with their data using natural language and receive immediate, analyst-level insights.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“This award truly means a lot to me,” Vlasova said during her acceptance speech. “DataGPT was started as a bold idea to build the world’s first AI data analyst. A lot of people questioned us. Some thought that it might be too ambitious, even beyond my and my team’s potential. But we pushed harder and today we are leading the way. What is truly meaningful in life is always hard, and what matters is to have vision, grit and to keep going. To all the women out there, go over it, lead it, build it. You’ve got it.”&lt;/p&gt;
+
+
+
+&lt;p&gt;We’d like to congratulate all of the women who were nominated to receive a Women in AI Award and to our winners. Thanks to everyone for their nominations and for contributing to the growing awareness of women who are making a significant difference in AI.&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-7th-annual-women-in-ai-awards/</guid><pubDate>Wed, 09 Jul 2025 23:59:14 +0000</pubDate></item><item><title>Why Cluely’s Roy Lee isn’t sweating cheating detectors (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/IMG-0036-from-100CANON.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Cluely, an AI startup that uses a hidden in-browser window to analyze online conversations, has shot to fame with the controversial claim that its ‘undetectability’ feature lets users “cheat on everything.”&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The company’s co-founder, Roy Lee, was suspended from Columbia University for boasting that he used Cluely, originally called Interview Coder, to “cheat” on a coding test when he was applying for a developer job at Amazon.&lt;/p&gt;
 
@@ -1781,4 +1491,632 @@
 
 &lt;p class="wp-block-paragraph"&gt;However, Lee has much bigger ambitions for Cluely: to take the place of ChatGPT.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Every time you would reach for chatgpt.com, our goal is to create a world where you instead reach for Cluely,” Lee said. “Cluely does functionally the same thing as ChatGPT. The only difference is that it also knows what’s on your screen and hears what’s going on in your audio.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/</guid><pubDate>Thu, 10 Jul 2025 00:36:02 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;“Every time you would reach for chatgpt.com, our goal is to create a world where you instead reach for Cluely,” Lee said. “Cluely does functionally the same thing as ChatGPT. The only difference is that it also knows what’s on your screen and hears what’s going on in your audio.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/</guid><pubDate>Thu, 10 Jul 2025 00:36:02 +0000</pubDate></item><item><title>[NEW] Skip the AI ‘bake-off’ and build autonomous agents: Lessons from Intuit and Amex (AI News | VentureBeat)</title><link>https://venturebeat.com/ai/dont-wait-for-a-bake-off-how-intuit-and-amex-beat-competitors-to-production-ai-agents/</link><description>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;As generative AI matures, enterprises are shifting from experimentation to implementation—moving beyond chatbots and copilots into the realm of intelligent, autonomous agents. In a conversation with &lt;em&gt;VentureBeat’s &lt;/em&gt;Matt Marshall, Ashok Srivastava, SVP and Chief Data Officer at Intuit, and Hillary Packer, EVP and CTO at American Express at VB Transform, detailed how their companies are embracing agentic AI to transform customer experiences, internal workflows and core business operations.&lt;/p&gt;
+
+
+&lt;strong&gt;&amp;gt;&amp;gt;See all our Transform 2025 coverage here&amp;lt;&amp;lt;&lt;/strong&gt;
+
+
+&lt;h2 class="wp-block-heading" id="h-from-models-to-missions-the-rise-of-intelligent-agents"&gt;From models to missions: the rise of intelligent agents&lt;/h2&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;At Intuit, agents aren’t just about answering questions—they’re about executing tasks. In TurboTax, for instance, agents help customers complete their taxes 12% faster, with nearly half finishing in under an hour. These intelligent systems draw data from multiple streams—including real-time and batch data—via Intuit’s internal bus and persistent services. Once processed, the agent analyzes the information to make a decision and take action.&lt;/p&gt;
+
+
+
+&lt;p&gt;“This is the way we’re thinking about agents in the financial domain,”&amp;nbsp; said Srivastava. “We’re trying to make sure that as we build, they’re robust, scalable and actually anchored in reality. The agentic experiences we’re building are designed to get work done &lt;em&gt;for&lt;/em&gt; the customer, &lt;em&gt;with&lt;/em&gt; their permission. That’s key to building trust.”&lt;/p&gt;
+
+
+
+&lt;p&gt;These capabilities are made possible by GenOS, Intuit’s custom generative AI operating system. At its heart is GenRuntime, which Srivastava likens to a CPU: it receives the data, reasons over it, and determines an action that’s then executed for the end user. The OS was designed to abstract away technical complexity, so developers don’t need to reinvent risk safeguards or security layers every time they build an agent.&lt;/p&gt;
+
+
+
+&lt;p&gt;Across Intuit’s brands—from TurboTax and QuickBooks to Mailchimp and Credit Karma—GenOS helps create consistent, trusted experiences and ensure robustness, scalability and extensibility across use cases.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-building-the-agentic-stack-at-amex-trust-control-and-experimentation"&gt;Building the agentic stack at Amex: trust, control,and experimentation&lt;/h2&gt;
+
+
+
+&lt;p&gt;For Packer and her team at Amex, the move into agentic AI builds on more than 15 years of experience with traditional AI and a mature, battle-tested big data infrastructure. As GenAI capabilities accelerate, Amex is reshaping its strategy to focus on how intelligent agents can drive internal workflows and power the next generation of customer experiences. For example, the company is focused on developing internal agents that boost employee productivity, like the APR agent that reviews software pull requests and advises engineers on whether code is ready to merge. This project reflects Amex’s broader approach: start with internal use cases, move quickly, and use early wins to refine the underlying infrastructure, tools, and governance standards.&lt;/p&gt;
+
+
+
+&lt;p&gt;To support fast experimentation, strong security, and policy enforcement, Amex developed an “enablement layer”&amp;nbsp;that allows for rapid development without sacrificing oversight. “And so now as we think about agentic, we’ve got a nice control plane to plug in these additional, additional guardrails that we really do need to have in place,” said Packer.&lt;/p&gt;
+
+
+
+&lt;p&gt;Within this system is Amex’s concept of modular “brains”—a framework in which agents are required to consult with specific “brains” before taking action. These brains serve as modular governance layers—covering brand values, privacy, security, and legal compliance—that every agent must engage with during decision-making. Each brain represents a domain-specific set of policies, such as brand voice, privacy rules, or legal constraints and functions as a consultable authority. By routing decisions through this system of constraints, agents remain accountable, aligned with enterprise standards and worthy of user trust.&lt;/p&gt;
+
+
+
+&lt;p&gt;For instance, a dining reservation agent operating through Rezi, Amex’s restaurant booking platform, must validate that it’s selecting the right restaurant at the right time, matching the user’s intent while adhering to brand and policy guidelines.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-architecture-that-enables-speed-and-safety"&gt;Architecture that enables speed and safety&lt;/h2&gt;
+
+
+
+&lt;p&gt;Both AI leaders agreed that enabling rapid development at scale demands thoughtful architectural design. At Intuit, the creation of GenOS empowers hundreds of developers to build safely and consistently. The platform ensures each team can access shared infrastructure, common safeguards, and model flexibility without duplicating work.&lt;/p&gt;
+
+
+
+&lt;p&gt;Amex took a similar approach with its enablement layer. Designed around a unified control plane, the layer lets teams rapidly develop AI-driven agents while enforcing centralized policies and guardrails. It ensures consistent implementation of risk and governance frameworks while encouraging speed. Developers can deploy experiments quickly, then evaluate and scale based on feedback and performance, all without compromising brand trust.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-lessons-in-agentic-ai-adoption"&gt;Lessons in agentic AI adoption&lt;/h2&gt;
+
+
+
+&lt;p&gt;Both AI leaders stressed the need to move quickly, but with intent. “Don’t wait for a bake-off,” Packer advised. “It’s better to pick a direction, get something into production, and iterate quickly, rather than delaying for the perfect solution that may be outdated by launch time.” They also emphasized that measurement must be embedded from the very beginning. According to Srivastava, instrumentation isn’t something to bolt on later—it has to be an integral part of the stack. Tracking cost, latency, accuracy and user impact is essential for assessing value and maintaining accountability at scale.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“You have to be able to measure it. That’s where GenOS comes in—there’s a built-in capability that lets us instrument AI applications and track both the cost going in and the return coming out,” said Srivastava. “I review this every quarter with our CFO. We go line by line through every AI use case across the company, assessing exactly how much we’re spending and what value we’re getting in return.”&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-intelligent-agents-are-the-next-enterprise-platform-shift"&gt;Intelligent agents are the next enterprise platform shift&lt;/h2&gt;
+
+
+
+&lt;p&gt;Intuit and American Express are among the leading enterprises adopting agentic AI not just as a technology layer, but as a new operating model. Their approach focuses on building the agentic platform, establishing governance, measuring impact, and moving quickly. As enterprise expectations evolve from simple chatbot functionality to autonomous execution, organizations that treat agentic AI as a first-class discipline—with control planes, observability, and modular governance—will be best positioned to lead the agentic race.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Editor’s note: As a thank-you to our readers, we’ve opened up early bird registration for VB Transform 2026 — just $200. This is where AI ambition meets operational reality, and you’re going to want to be in the room. Reserve your spot now.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</description><content:encoded>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;As generative AI matures, enterprises are shifting from experimentation to implementation—moving beyond chatbots and copilots into the realm of intelligent, autonomous agents. In a conversation with &lt;em&gt;VentureBeat’s &lt;/em&gt;Matt Marshall, Ashok Srivastava, SVP and Chief Data Officer at Intuit, and Hillary Packer, EVP and CTO at American Express at VB Transform, detailed how their companies are embracing agentic AI to transform customer experiences, internal workflows and core business operations.&lt;/p&gt;
+
+
+&lt;strong&gt;&amp;gt;&amp;gt;See all our Transform 2025 coverage here&amp;lt;&amp;lt;&lt;/strong&gt;
+
+
+&lt;h2 class="wp-block-heading" id="h-from-models-to-missions-the-rise-of-intelligent-agents"&gt;From models to missions: the rise of intelligent agents&lt;/h2&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;At Intuit, agents aren’t just about answering questions—they’re about executing tasks. In TurboTax, for instance, agents help customers complete their taxes 12% faster, with nearly half finishing in under an hour. These intelligent systems draw data from multiple streams—including real-time and batch data—via Intuit’s internal bus and persistent services. Once processed, the agent analyzes the information to make a decision and take action.&lt;/p&gt;
+
+
+
+&lt;p&gt;“This is the way we’re thinking about agents in the financial domain,”&amp;nbsp; said Srivastava. “We’re trying to make sure that as we build, they’re robust, scalable and actually anchored in reality. The agentic experiences we’re building are designed to get work done &lt;em&gt;for&lt;/em&gt; the customer, &lt;em&gt;with&lt;/em&gt; their permission. That’s key to building trust.”&lt;/p&gt;
+
+
+
+&lt;p&gt;These capabilities are made possible by GenOS, Intuit’s custom generative AI operating system. At its heart is GenRuntime, which Srivastava likens to a CPU: it receives the data, reasons over it, and determines an action that’s then executed for the end user. The OS was designed to abstract away technical complexity, so developers don’t need to reinvent risk safeguards or security layers every time they build an agent.&lt;/p&gt;
+
+
+
+&lt;p&gt;Across Intuit’s brands—from TurboTax and QuickBooks to Mailchimp and Credit Karma—GenOS helps create consistent, trusted experiences and ensure robustness, scalability and extensibility across use cases.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-building-the-agentic-stack-at-amex-trust-control-and-experimentation"&gt;Building the agentic stack at Amex: trust, control,and experimentation&lt;/h2&gt;
+
+
+
+&lt;p&gt;For Packer and her team at Amex, the move into agentic AI builds on more than 15 years of experience with traditional AI and a mature, battle-tested big data infrastructure. As GenAI capabilities accelerate, Amex is reshaping its strategy to focus on how intelligent agents can drive internal workflows and power the next generation of customer experiences. For example, the company is focused on developing internal agents that boost employee productivity, like the APR agent that reviews software pull requests and advises engineers on whether code is ready to merge. This project reflects Amex’s broader approach: start with internal use cases, move quickly, and use early wins to refine the underlying infrastructure, tools, and governance standards.&lt;/p&gt;
+
+
+
+&lt;p&gt;To support fast experimentation, strong security, and policy enforcement, Amex developed an “enablement layer”&amp;nbsp;that allows for rapid development without sacrificing oversight. “And so now as we think about agentic, we’ve got a nice control plane to plug in these additional, additional guardrails that we really do need to have in place,” said Packer.&lt;/p&gt;
+
+
+
+&lt;p&gt;Within this system is Amex’s concept of modular “brains”—a framework in which agents are required to consult with specific “brains” before taking action. These brains serve as modular governance layers—covering brand values, privacy, security, and legal compliance—that every agent must engage with during decision-making. Each brain represents a domain-specific set of policies, such as brand voice, privacy rules, or legal constraints and functions as a consultable authority. By routing decisions through this system of constraints, agents remain accountable, aligned with enterprise standards and worthy of user trust.&lt;/p&gt;
+
+
+
+&lt;p&gt;For instance, a dining reservation agent operating through Rezi, Amex’s restaurant booking platform, must validate that it’s selecting the right restaurant at the right time, matching the user’s intent while adhering to brand and policy guidelines.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-architecture-that-enables-speed-and-safety"&gt;Architecture that enables speed and safety&lt;/h2&gt;
+
+
+
+&lt;p&gt;Both AI leaders agreed that enabling rapid development at scale demands thoughtful architectural design. At Intuit, the creation of GenOS empowers hundreds of developers to build safely and consistently. The platform ensures each team can access shared infrastructure, common safeguards, and model flexibility without duplicating work.&lt;/p&gt;
+
+
+
+&lt;p&gt;Amex took a similar approach with its enablement layer. Designed around a unified control plane, the layer lets teams rapidly develop AI-driven agents while enforcing centralized policies and guardrails. It ensures consistent implementation of risk and governance frameworks while encouraging speed. Developers can deploy experiments quickly, then evaluate and scale based on feedback and performance, all without compromising brand trust.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-lessons-in-agentic-ai-adoption"&gt;Lessons in agentic AI adoption&lt;/h2&gt;
+
+
+
+&lt;p&gt;Both AI leaders stressed the need to move quickly, but with intent. “Don’t wait for a bake-off,” Packer advised. “It’s better to pick a direction, get something into production, and iterate quickly, rather than delaying for the perfect solution that may be outdated by launch time.” They also emphasized that measurement must be embedded from the very beginning. According to Srivastava, instrumentation isn’t something to bolt on later—it has to be an integral part of the stack. Tracking cost, latency, accuracy and user impact is essential for assessing value and maintaining accountability at scale.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“You have to be able to measure it. That’s where GenOS comes in—there’s a built-in capability that lets us instrument AI applications and track both the cost going in and the return coming out,” said Srivastava. “I review this every quarter with our CFO. We go line by line through every AI use case across the company, assessing exactly how much we’re spending and what value we’re getting in return.”&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-intelligent-agents-are-the-next-enterprise-platform-shift"&gt;Intelligent agents are the next enterprise platform shift&lt;/h2&gt;
+
+
+
+&lt;p&gt;Intuit and American Express are among the leading enterprises adopting agentic AI not just as a technology layer, but as a new operating model. Their approach focuses on building the agentic platform, establishing governance, measuring impact, and moving quickly. As enterprise expectations evolve from simple chatbot functionality to autonomous execution, organizations that treat agentic AI as a first-class discipline—with control planes, observability, and modular governance—will be best positioned to lead the agentic race.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Editor’s note: As a thank-you to our readers, we’ve opened up early bird registration for VB Transform 2026 — just $200. This is where AI ambition meets operational reality, and you’re going to want to be in the room. Reserve your spot now.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/dont-wait-for-a-bake-off-how-intuit-and-amex-beat-competitors-to-production-ai-agents/</guid><pubDate>Thu, 10 Jul 2025 01:12:41 +0000</pubDate></item><item><title>[NEW] Open vs. closed models: AI leaders from GM, Zoom and IBM weigh trade-offs for enterprise use (AI News | VentureBeat)</title><link>https://venturebeat.com/ai/open-vs-closed-models-ai-leaders-from-gm-zoom-and-ibm-weigh-trade-offs-for-enterprise-use/</link><description>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;Deciding on AI models is as much of a technical decision and it is a strategic one. But choosing open, closed or hybrid models all have trade-offs.&lt;/p&gt;
+
+
+
+&lt;p&gt;While speaking at this year’s VB Transform, model architecture experts from General Motors, Zoom and IBM discussed how their companies and customers consider AI model selection.&lt;/p&gt;
+
+
+
+&lt;p&gt;Barak Turovsky, who in March became GM’s first chief AI officer, said there’s a lot of noise with every new model release and every time the leaderboard changes. Long before leaderboards were a mainstream debate, Turovsky helped launch the first large language model (LLM) and recalled the ways open-sourcing AI model weights and training data led to major breakthroughs.&lt;/p&gt;
+
+
+
+&lt;p&gt;“That was frankly probably one of the biggest breakthroughs that helped OpenAI and others to start launching,” Turovsky said. “So it’s actually a funny anecdote: Open-source actually helped create something that went closed and now maybe is back to being open.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Factors for decisions vary and include cost, performance, trust and safety. Turovsky said enterprises sometimes prefer a mixed strategy — using an open model for internal use and a closed model for production and customer facing or vice versa.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+
+
+&lt;strong&gt;&amp;gt;&amp;gt;See all our Transform 2025 coverage here&amp;lt;&amp;lt;&lt;/strong&gt;
+
+
+&lt;h2 class="wp-block-heading" id="h-ibm-s-ai-strategy"&gt;IBM’s AI strategy&lt;/h2&gt;
+
+
+
+&lt;p&gt;Armand Ruiz, IBM’s VP of AI platform, said IBM initially started its platform with its own LLMs, but then realized that wouldn’t be enough — especially as more powerful models arrived on the market. The company then expanded to offer integrations with platforms like Hugging Face so customers could pick any open-source model. (The company recently debuted a new model gateway that gives enterprises an API for switching between LLMs.)&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;More enterprises are choosing to buy more models from multiple vendors. When Andreessen Horowitz surveyed 100 CIOs, 37% of respondents said they were using 5 or more models. Last year, only 29% were using the same amount.&lt;/p&gt;
+
+
+
+&lt;p&gt;Choice is key, but sometimes too much choice creates confusion, said Ruiz. To help customers with their approach, IBM doesn’t worry too much about which LLM they’re using during the proof of concept or pilot phase; the main goal is feasibility. Only later they begin to look at whether to distill a model or customize one based on a customer’s needs.&lt;/p&gt;
+
+
+
+&lt;p&gt;“First we try to simplify all that analysis paralysis with all those options and focus on the use case,” Ruiz said. “Then we figure out what is the best path for production.”&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-how-zoom-approaches-ai"&gt;How Zoom approaches AI&lt;/h2&gt;
+
+
+
+&lt;p&gt;Zoom’s customers can choose between two configurations for its AI Companion, said Zoom CTO Xuedong Huang. One involves federating the company’s own LLM with other larger foundation models. Another configuration allows customers concerned about using too many models to use just Zoom’s model. (The company also recently partnered with Google Cloud to adopt an agent-to-agent protocol for AI Companion for enterprise workflows.)&lt;/p&gt;
+
+
+
+&lt;p&gt;The company made its own small language model (SLM) without using customer data, Huang said. At 2 billion parameters, the LLM is actually very small, but it can still outperform other industry-specific models. The SLM works best on complex tasks when working alongside a larger model.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“This is really the power of a hybrid approach,” Huang said. “Our philosophy is very straightforward. Our company is leading the way very much like Mickey Mouse and the elephant dancing together. The small model will perform a very specific task. We are not saying a small model will be good enough…The Mickey Mouse and elephant will be working together as one team.”&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</description><content:encoded>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;Deciding on AI models is as much of a technical decision and it is a strategic one. But choosing open, closed or hybrid models all have trade-offs.&lt;/p&gt;
+
+
+
+&lt;p&gt;While speaking at this year’s VB Transform, model architecture experts from General Motors, Zoom and IBM discussed how their companies and customers consider AI model selection.&lt;/p&gt;
+
+
+
+&lt;p&gt;Barak Turovsky, who in March became GM’s first chief AI officer, said there’s a lot of noise with every new model release and every time the leaderboard changes. Long before leaderboards were a mainstream debate, Turovsky helped launch the first large language model (LLM) and recalled the ways open-sourcing AI model weights and training data led to major breakthroughs.&lt;/p&gt;
+
+
+
+&lt;p&gt;“That was frankly probably one of the biggest breakthroughs that helped OpenAI and others to start launching,” Turovsky said. “So it’s actually a funny anecdote: Open-source actually helped create something that went closed and now maybe is back to being open.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Factors for decisions vary and include cost, performance, trust and safety. Turovsky said enterprises sometimes prefer a mixed strategy — using an open model for internal use and a closed model for production and customer facing or vice versa.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+
+
+&lt;strong&gt;&amp;gt;&amp;gt;See all our Transform 2025 coverage here&amp;lt;&amp;lt;&lt;/strong&gt;
+
+
+&lt;h2 class="wp-block-heading" id="h-ibm-s-ai-strategy"&gt;IBM’s AI strategy&lt;/h2&gt;
+
+
+
+&lt;p&gt;Armand Ruiz, IBM’s VP of AI platform, said IBM initially started its platform with its own LLMs, but then realized that wouldn’t be enough — especially as more powerful models arrived on the market. The company then expanded to offer integrations with platforms like Hugging Face so customers could pick any open-source model. (The company recently debuted a new model gateway that gives enterprises an API for switching between LLMs.)&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;More enterprises are choosing to buy more models from multiple vendors. When Andreessen Horowitz surveyed 100 CIOs, 37% of respondents said they were using 5 or more models. Last year, only 29% were using the same amount.&lt;/p&gt;
+
+
+
+&lt;p&gt;Choice is key, but sometimes too much choice creates confusion, said Ruiz. To help customers with their approach, IBM doesn’t worry too much about which LLM they’re using during the proof of concept or pilot phase; the main goal is feasibility. Only later they begin to look at whether to distill a model or customize one based on a customer’s needs.&lt;/p&gt;
+
+
+
+&lt;p&gt;“First we try to simplify all that analysis paralysis with all those options and focus on the use case,” Ruiz said. “Then we figure out what is the best path for production.”&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-how-zoom-approaches-ai"&gt;How Zoom approaches AI&lt;/h2&gt;
+
+
+
+&lt;p&gt;Zoom’s customers can choose between two configurations for its AI Companion, said Zoom CTO Xuedong Huang. One involves federating the company’s own LLM with other larger foundation models. Another configuration allows customers concerned about using too many models to use just Zoom’s model. (The company also recently partnered with Google Cloud to adopt an agent-to-agent protocol for AI Companion for enterprise workflows.)&lt;/p&gt;
+
+
+
+&lt;p&gt;The company made its own small language model (SLM) without using customer data, Huang said. At 2 billion parameters, the LLM is actually very small, but it can still outperform other industry-specific models. The SLM works best on complex tasks when working alongside a larger model.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“This is really the power of a hybrid approach,” Huang said. “Our philosophy is very straightforward. Our company is leading the way very much like Mickey Mouse and the elephant dancing together. The small model will perform a very specific task. We are not saying a small model will be good enough…The Mickey Mouse and elephant will be working together as one team.”&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/open-vs-closed-models-ai-leaders-from-gm-zoom-and-ibm-weigh-trade-offs-for-enterprise-use/</guid><pubDate>Thu, 10 Jul 2025 01:19:35 +0000</pubDate></item><item><title>[NEW] Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk’s AI company, xAI, late on Wednesday released its latest flagship AI model, Grok 4, and unveiled a new $300-per-month AI subscription plan, SuperGrok Heavy.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Grok is xAI’s answer to models like OpenAI’s&amp;nbsp;ChatGPT&amp;nbsp;and Google’s&amp;nbsp;Gemini, and can analyze images and respond to questions. In recent months, Grok has become more deeply integrated into Musk’s social network, X, which was recently acquired by xAI. However, that has also put Grok’s misbehavior front and center for millions of users.&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The expectations are high for Grok 4. The latest AI model from xAI will be stacked up against OpenAI’s forthcoming AI model, GPT-5, which is expected to launch later this summer.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“With respect to academic questions, Grok 4 is better than PhD level in every subject, no exceptions,” said Elon Musk during a livestream Wednesday night. “At times, it may lack common sense, and it has not yet invented new technologies or discovered new physics, but that is just a matter of time.”&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3026415" height="348" src="https://techcrunch.com/wp-content/uploads/2025/07/Screenshot-2025-07-09-at-9.09.23PM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Musk wore a leather jacket and sat besides xAI leaders to launch Grok 4 (Credit: xAI)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The launch of Grok 4 comes amid a tumultuous week for Elon Musk’s companies. Earlier on Wednesday, Linda Yaccarino stepped down from her role as the CEO of X after roughly two years with the company. X has yet to announce her successor.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Yaccarino’s departure comes just days after Grok’s official, automated X account responded to users with antisemitic comments criticizing Hollywood’s “Jewish executives” and praising Hitler. xAI had to briefly limit Grok’s account and delete the offensive posts. In response to the incident, xAI appeared to have removed a recently added section from Grok’s public system prompt, a list of instructions for the AI chatbot to follow, that told it not to shy away from making “politically incorrect” claims.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Musk and xAI’s leaders largely avoided discussing the incident, instead focusing on Grok 4’s performance and capabilities.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;xAI launched two models on Wednesday: Grok 4 and Grok 4 Heavy — the latter being the company’s “multi-agent version” that offers increased performance. Musk claimed that Grok 4 Heavy spawns multiple agents to work on a problem simultaneously, and then they all compare their work “like a study group” to find the best answer.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;xAI claims that Grok 4 shows frontier level performance on several benchmarks, including Humanity’s Last Exam— a challenging test measuring AI’s ability to answer thousands of crowdsourced questions on subjects like math, humanities, and natural science. According to xAI, Grok 4 scored 25.4% on Humanity’s Last Exam without “tools,” outperforming Google’s Gemini 2.5 Pro, which scored 21.6%, and OpenAI’s o3 (high), which scored 21%.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;xAI claims that Grok 4 Heavy, with “tools,” was able to achieve a score of 44.4%, outperforming Gemini 2.5 Pro with tools, which scored 26.9%.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The nonprofit Arc Prize says that Grok achieves a new state-of-the-art score on its ARC-AGI-2 test — another difficult benchmark that consists of puzzle-like problems where an AI has to identify visual patterns — scoring 16.2%. That’s nearly twice the score of the next best commercial AI model, Claude Opus 4.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3026417" height="367" src="https://techcrunch.com/wp-content/uploads/2025/07/Screenshot-2025-07-09-at-9.34.45PM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Grok 4’s performance on several academic benchmarks (Credit: xAI)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Alongside Grok 4 and Grok 4 Heavy, xAI launched its most expensive AI subscription plan yet, a $300-per-month subscription called SuperGrok Heavy. Subscribers to the plan will get an early preview to Grok 4 Heavy, as well as early access to new features. The plan is similar to ultra-premium tiers offered by OpenAI, Google, and Anthropic, but xAI now offers the most expensive subscription among major AI providers.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SuperGrok Heavy subscribers may get early access to some new products xAI plans to launch in the coming months. The company said Wednesday that an AI coding model is coming in August, a multi-modal agent in September, and a video generation model in October.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;xAI is releasing Grok 4 through its API in an effort to get developers to build applications with the model. The company notes that xAI’s enterprise sector is only two months old, however, it plans to work with hyperscalers to make Grok available through their cloud platforms.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Despite Grok’s frontier-level performance on benchmarks, it may prove difficult for xAI to move past its recent mishaps as it tries to pitch Grok to businesses as a real contender to ChatGPT, Claude, and Gemini. Whether businesses are ready to adopt Grok, flaws and all, remains to be seen.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk’s AI company, xAI, late on Wednesday released its latest flagship AI model, Grok 4, and unveiled a new $300-per-month AI subscription plan, SuperGrok Heavy.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Grok is xAI’s answer to models like OpenAI’s&amp;nbsp;ChatGPT&amp;nbsp;and Google’s&amp;nbsp;Gemini, and can analyze images and respond to questions. In recent months, Grok has become more deeply integrated into Musk’s social network, X, which was recently acquired by xAI. However, that has also put Grok’s misbehavior front and center for millions of users.&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The expectations are high for Grok 4. The latest AI model from xAI will be stacked up against OpenAI’s forthcoming AI model, GPT-5, which is expected to launch later this summer.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“With respect to academic questions, Grok 4 is better than PhD level in every subject, no exceptions,” said Elon Musk during a livestream Wednesday night. “At times, it may lack common sense, and it has not yet invented new technologies or discovered new physics, but that is just a matter of time.”&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3026415" height="348" src="https://techcrunch.com/wp-content/uploads/2025/07/Screenshot-2025-07-09-at-9.09.23PM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Musk wore a leather jacket and sat besides xAI leaders to launch Grok 4 (Credit: xAI)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The launch of Grok 4 comes amid a tumultuous week for Elon Musk’s companies. Earlier on Wednesday, Linda Yaccarino stepped down from her role as the CEO of X after roughly two years with the company. X has yet to announce her successor.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Yaccarino’s departure comes just days after Grok’s official, automated X account responded to users with antisemitic comments criticizing Hollywood’s “Jewish executives” and praising Hitler. xAI had to briefly limit Grok’s account and delete the offensive posts. In response to the incident, xAI appeared to have removed a recently added section from Grok’s public system prompt, a list of instructions for the AI chatbot to follow, that told it not to shy away from making “politically incorrect” claims.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Musk and xAI’s leaders largely avoided discussing the incident, instead focusing on Grok 4’s performance and capabilities.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;xAI launched two models on Wednesday: Grok 4 and Grok 4 Heavy — the latter being the company’s “multi-agent version” that offers increased performance. Musk claimed that Grok 4 Heavy spawns multiple agents to work on a problem simultaneously, and then they all compare their work “like a study group” to find the best answer.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;xAI claims that Grok 4 shows frontier level performance on several benchmarks, including Humanity’s Last Exam— a challenging test measuring AI’s ability to answer thousands of crowdsourced questions on subjects like math, humanities, and natural science. According to xAI, Grok 4 scored 25.4% on Humanity’s Last Exam without “tools,” outperforming Google’s Gemini 2.5 Pro, which scored 21.6%, and OpenAI’s o3 (high), which scored 21%.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;xAI claims that Grok 4 Heavy, with “tools,” was able to achieve a score of 44.4%, outperforming Gemini 2.5 Pro with tools, which scored 26.9%.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The nonprofit Arc Prize says that Grok achieves a new state-of-the-art score on its ARC-AGI-2 test — another difficult benchmark that consists of puzzle-like problems where an AI has to identify visual patterns — scoring 16.2%. That’s nearly twice the score of the next best commercial AI model, Claude Opus 4.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3026417" height="367" src="https://techcrunch.com/wp-content/uploads/2025/07/Screenshot-2025-07-09-at-9.34.45PM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Grok 4’s performance on several academic benchmarks (Credit: xAI)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Alongside Grok 4 and Grok 4 Heavy, xAI launched its most expensive AI subscription plan yet, a $300-per-month subscription called SuperGrok Heavy. Subscribers to the plan will get an early preview to Grok 4 Heavy, as well as early access to new features. The plan is similar to ultra-premium tiers offered by OpenAI, Google, and Anthropic, but xAI now offers the most expensive subscription among major AI providers.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SuperGrok Heavy subscribers may get early access to some new products xAI plans to launch in the coming months. The company said Wednesday that an AI coding model is coming in August, a multi-modal agent in September, and a video generation model in October.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;xAI is releasing Grok 4 through its API in an effort to get developers to build applications with the model. The company notes that xAI’s enterprise sector is only two months old, however, it plans to work with hyperscalers to make Grok available through their cloud platforms.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Despite Grok’s frontier-level performance on benchmarks, it may prove difficult for xAI to move past its recent mishaps as it tries to pitch Grok to businesses as a real contender to ChatGPT, Claude, and Gemini. Whether businesses are ready to adopt Grok, flaws and all, remains to be seen.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/</guid><pubDate>Thu, 10 Jul 2025 05:28:59 +0000</pubDate></item><item><title>[NEW] Google brings its AI-powered marketing tools to India after ‘Google tax’ repeal (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/07/09/google-brings-its-ai-powered-marketing-tools-to-india-after-google-tax-repeal/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google has launched a suite of its AI-powered advertising tools in India, which debuted in the U.S. in May, as the repeal of the so-called “Google tax” has made the South Asian market more attractive to global tech firms selling online ads.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In March, the Indian government scrapped its 6% levy on digital advertisements, effective in April, as a move to address some of the trade concerns raised by the Trump administration. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The United States Trade Representative had criticized the levy by calling it “discriminatory and unreasonable,” as domestic companies were exempt. Its repeal would ease costs for tech giants, including Google, Meta, and Amazon.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On Thursday, Google hosted the local version of its Marketing Live event to debut its AI-powered tools for Indian marketers. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;One of the tools is “Generated for You”, available within Product Studio, that identifies relevant content opportunities across shopping catalogs and pre-generates images and videos via AI that merchants can save or publish across Google platforms. Another tool is an opt-in feature called Smart Bidding Exploration in search campaigns, which is built on existing Smart Bidding and uses AI to find newer, qualified leads that merchants wouldn’t have captured or bid on typically. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Plus,  Google introduced new agentic capabilities in Google Ads and Analytics.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="alt" class="wp-image-3026299" height="1280" src="https://techcrunch.com/wp-content/uploads/2025/07/agentic-google-analytics.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Agentic capabilities in Google Analytics&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“These agentic tools can learn from advertising inputs, including datasets, landing pages, assets, and real-time campaign performance, to take the guesswork out of achieving business goals,” Dan Taylor, Vice President for Global Ads at Google, said at a virtual media roundtable.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Google brought AI Max for Search Campaigns, which aims to enhance search ad campaign performance by identifying more relevant and high-performing search queries by learning from brands’ landing pages, their existing ads, and existing keyword lists.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Indian online marketplace for used electronics goods, Cashify, saw its conversions up by 15% and customer acquisition costs reduced by 12% after deploying AI Max during its early testing, Google said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Google also announced that ads will start appearing on AI Overviews in India later this year. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Additionally, the company has introduced its shoppable connected TV ads on YouTube in India. YouTube’s masthead on mobile will now also start serving ads in the country.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="alt" class="wp-image-3026301" height="488" src="https://techcrunch.com/wp-content/uploads/2025/07/youtube-shoppable-masthead.jpg" width="1058" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;YouTube Shoppable Masthead now in India&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;YouTube on connected TVs has been the most-watched streaming service on television in India over the past year, said Roma Datta Chobey, managing director of Digital Native Industries at Google India.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Similarly, the country has been a significant market for YouTube Shorts, with short videos on the platform viewed trillions of times since launch. As many as 87% of Indian consumers watch YouTube or Shorts as part of their shopping journey, Chobey said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;India’s digital advertising presence is growing, as the world’s second-largest internet market continues to see more users come online. The country’s digital ad market is projected to grow over 20% year-over-year, reaching nearly $7 billion by the end of 2025, per a recent Dentsu Digital Advertising report.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“India is such a thriving digital ecosystem. We have the largest number of users who are actively trying and testing our products. So, that’s really the reason behind us getting these innovations to India faster,” Chobey said, in response to TechCrunch’s question about the timing of the new AI ad tools.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;India has long been a key market for Google, not just because it hosts the company’s largest user base but also due to consistent growth in ad revenues. In fiscal year 2024, Google’s gross ad revenue in India increased 11% year-over-year to ₹312.21 billion ($3.6 billion), while its net advertising revenue rose 18% to ₹27.43 billion ($320 million).&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google has launched a suite of its AI-powered advertising tools in India, which debuted in the U.S. in May, as the repeal of the so-called “Google tax” has made the South Asian market more attractive to global tech firms selling online ads.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In March, the Indian government scrapped its 6% levy on digital advertisements, effective in April, as a move to address some of the trade concerns raised by the Trump administration. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The United States Trade Representative had criticized the levy by calling it “discriminatory and unreasonable,” as domestic companies were exempt. Its repeal would ease costs for tech giants, including Google, Meta, and Amazon.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On Thursday, Google hosted the local version of its Marketing Live event to debut its AI-powered tools for Indian marketers. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;One of the tools is “Generated for You”, available within Product Studio, that identifies relevant content opportunities across shopping catalogs and pre-generates images and videos via AI that merchants can save or publish across Google platforms. Another tool is an opt-in feature called Smart Bidding Exploration in search campaigns, which is built on existing Smart Bidding and uses AI to find newer, qualified leads that merchants wouldn’t have captured or bid on typically. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Plus,  Google introduced new agentic capabilities in Google Ads and Analytics.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="alt" class="wp-image-3026299" height="1280" src="https://techcrunch.com/wp-content/uploads/2025/07/agentic-google-analytics.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Agentic capabilities in Google Analytics&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“These agentic tools can learn from advertising inputs, including datasets, landing pages, assets, and real-time campaign performance, to take the guesswork out of achieving business goals,” Dan Taylor, Vice President for Global Ads at Google, said at a virtual media roundtable.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;July 15&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Google brought AI Max for Search Campaigns, which aims to enhance search ad campaign performance by identifying more relevant and high-performing search queries by learning from brands’ landing pages, their existing ads, and existing keyword lists.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Indian online marketplace for used electronics goods, Cashify, saw its conversions up by 15% and customer acquisition costs reduced by 12% after deploying AI Max during its early testing, Google said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Google also announced that ads will start appearing on AI Overviews in India later this year. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Additionally, the company has introduced its shoppable connected TV ads on YouTube in India. YouTube’s masthead on mobile will now also start serving ads in the country.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="alt" class="wp-image-3026301" height="488" src="https://techcrunch.com/wp-content/uploads/2025/07/youtube-shoppable-masthead.jpg" width="1058" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;YouTube Shoppable Masthead now in India&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;YouTube on connected TVs has been the most-watched streaming service on television in India over the past year, said Roma Datta Chobey, managing director of Digital Native Industries at Google India.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Similarly, the country has been a significant market for YouTube Shorts, with short videos on the platform viewed trillions of times since launch. As many as 87% of Indian consumers watch YouTube or Shorts as part of their shopping journey, Chobey said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;India’s digital advertising presence is growing, as the world’s second-largest internet market continues to see more users come online. The country’s digital ad market is projected to grow over 20% year-over-year, reaching nearly $7 billion by the end of 2025, per a recent Dentsu Digital Advertising report.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“India is such a thriving digital ecosystem. We have the largest number of users who are actively trying and testing our products. So, that’s really the reason behind us getting these innovations to India faster,” Chobey said, in response to TechCrunch’s question about the timing of the new AI ad tools.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;India has long been a key market for Google, not just because it hosts the company’s largest user base but also due to consistent growth in ad revenues. In fiscal year 2024, Google’s gross ad revenue in India increased 11% year-over-year to ₹312.21 billion ($3.6 billion), while its net advertising revenue rose 18% to ₹27.43 billion ($320 million).&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/07/09/google-brings-its-ai-powered-marketing-tools-to-india-after-google-tax-repeal/</guid><pubDate>Thu, 10 Jul 2025 06:30:00 +0000</pubDate></item></channel></rss>
