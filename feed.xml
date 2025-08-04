@@ -1,723 +1,535 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 03 Aug 2025 18:32:29 +0000</lastBuildDate><item><title>[NEW] The uproar over Vogue’s AI-generated ad isn’t just about fashion (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sarah Murray recalls the first time she saw an artificial model in fashion: It was 2023, and a beautiful young woman of color donned a Levi’s denim overall dress. Murray, a commercial model herself, said it made her feel sad and exhausted.&amp;nbsp;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 04 Aug 2025 02:08:12 +0000</lastBuildDate><item><title>Why the AI era is forcing a redesign of the entire compute backbone (AI News | VentureBeat)</title><link>https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-entire-compute-backbone/</link><description>&lt;p&gt;The past few decades have seen almost unimaginable advances in compute performance and efficiency, enabled by Moore’s Law and underpinned by scale-out commodity hardware and loosely coupled software. This architecture has delivered online services to billions globally and put virtually all of human knowledge at our fingertips.&lt;/p&gt;&lt;p&gt;But the next computing revolution will demand much more. Fulfilling the promise of AI requires a step-change in capabilities far exceeding the advancements of the internet era. To achieve this, we as an industry must revisit some of the foundations that drove the previous transformation and innovate collectively to rethink the entire technology stack. Let’s explore the forces driving this upheaval and lay out what this architecture must look like.&lt;/p&gt;&lt;p&gt;For decades, the dominant trend in computing has been the democratization of compute through scale-out architectures built on nearly identical, commodity servers. This uniformity allowed for flexible workload placement and efficient resource utilization. The demands of gen AI, heavily reliant on predictable mathematical operations on massive datasets, are reversing this trend.&amp;nbsp;&lt;/p&gt;&lt;p&gt;We are now witnessing a decisive shift towards specialized hardware — including ASICs, GPUs, and tensor processing units (TPUs) — that deliver orders of magnitude improvements in performance per dollar and per watt compared to general-purpose CPUs. This proliferation of domain-specific compute units, optimized for narrower tasks, will be critical to driving the continued rapid advances in AI.&lt;/p&gt;&lt;div id="id"&gt;&lt;div class="post-boilerplate boilerplate-speedbump" id="boilerplate_2803147"&gt;&lt;!-- wp:separator --&gt;
+&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
+&lt;!-- /wp:separator --&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The iconic denim company had teamed up with the AI studio Lalaland.ai to create “diverse” digital fashion models for more inclusive ads. For an industry that has failed for years to employ diverse human models, the backlash was swift, with New York Magazine calling the decision “artificial diversity.”&amp;nbsp;&lt;/p&gt;
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;strong&gt;The AI Impact Series Returns to San Francisco - August 5&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
 
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;The next phase of AI is here - are you ready? Join leaders from Block, GSK, and SAP for an exclusive look at how autonomous agents are reshaping enterprise workflows - from real-time decision-making to end-to-end automation.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
 
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Secure your spot now - space is limited: https://bit.ly/3GuuPLF&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
 
+&lt;!-- wp:separator --&gt;
+&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;h2 class="wp-block-heading" id="h-beyond-ethernet-the-rise-of-specialized-interconnects"&gt;Beyond ethernet: The rise of specialized interconnects&lt;/h2&gt;
 
 
 
+&lt;p&gt;These specialized systems will often require “all-to-all” communication, with terabit-per-second bandwidth and nanosecond latencies that approach local memory speeds. Today’s networks, largely based on commodity Ethernet switches and TCP/IP protocols, are ill-equipped to handle these extreme demands.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Modeling as a profession is already challenging enough without having to compete with now new digital standards of perfection that can be achieved with AI,” Murray told TechCrunch.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Two years later, her worries have compounded. Brands continue to experiment with AI-generated models, to the consternation of many fashion lovers. The latest uproar came after Vogue’s July print edition featured a Guess ad with a typical model for the brand: thin yet voluptuous, glossy blond tresses, pouty rose lips. She exemplified North American beauty standards, but there was one problem — she was AI generated.&amp;nbsp;&lt;/p&gt;
 
+&lt;p&gt;As a result, to scale gen AI workloads across vast clusters of specialized accelerators, we are seeing the rise of specialized interconnects, such as ICI for TPUs and NVLink for GPUs. These purpose-built networks prioritize direct memory-to-memory transfers and use dedicated hardware to speed information sharing among processors, effectively bypassing the overhead of traditional, layered networking stacks.&amp;nbsp;&lt;/p&gt;
 
 
 
+&lt;p&gt;This move towards tightly integrated, compute-centric networking will be essential to overcoming communication bottlenecks and scaling the next generation of AI efficiently.&lt;/p&gt;
 
 
 
-&lt;p class="wp-block-paragraph"&gt;The internet buzzed for days, in large part because the AI-generated beauty showed up in Vogue, the fashion bible that dictates what is and is not acceptable in the industry. The AI-generated model was featured in an advertisement, &lt;em&gt;not&lt;/em&gt; a Vogue editorial spread. And Vogue told TechCrunch the ad met its advertising standards.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;h2 class="wp-block-heading" id="h-breaking-the-memory-wall"&gt;Breaking the memory wall&lt;/h2&gt;
 
-&lt;p class="wp-block-paragraph"&gt;To many, an ad versus an editorial is a distinction without a difference.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;TechCrunch spoke to fashion models, experts, and technologists to get a sense of where the industry is headed now that Vogue seems to have put a stamp of approval on technology that’s poised to dramatically change the fashion industry.&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;They said the Guess ad drama highlights questions arising within creative industries being touched by AI’s silicon fingers: When high-quality creative work can be done by AI in a fraction of the time and cost, what’s the point of humans? And in the world of fashion, what happens to the humans — the models, photographers, stylists, and set designers — performing those jobs?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For decades, the performance gains in computation have outpaced the growth in memory bandwidth. While techniques like caching and stacked SRAM have partially mitigated this, the data-intensive nature of AI is only exacerbating the problem.&amp;nbsp;&lt;/p&gt;
 
-&lt;h2 class="wp-block-heading" id="h-it-s-just-so-much-cheaper"&gt;“It’s just so much cheaper”&lt;/h2&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Sinead Bovell, a model and founder of the WAYE organization who wrote about CGI models for Vogue five years ago, told TechCrunch that “e-commerce models” are most under threat of automation.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;E-commerce models are the ones who pose for advertisements or display clothes and accessories for online shoppers. Compared to high-fashion models, whose striking, often unattainable looks are featured in editorial spreads and on runways, they’re more realistic and relatable.&lt;/p&gt;
+&lt;p&gt;The insatiable need to feed increasingly powerful compute units has led to high bandwidth memory (HBM), which stacks DRAM directly on the processor package to boost bandwidth and reduce latency. However, even HBM faces fundamental limitations: The physical chip perimeter restricts total dataflow, and moving massive datasets at terabit speeds creates significant energy constraints.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
 
 
+&lt;p&gt;These limitations highlight the critical need for higher-bandwidth connectivity and underscore the urgency for breakthroughs in processing and memory architecture. Without these innovations, our powerful compute resources will sit idle waiting for data, dramatically limiting efficiency and scale.&lt;/p&gt;
 
 
 
+&lt;h2 class="wp-block-heading" id="h-from-server-farms-to-high-density-systems"&gt;From server farms to high-density systems&lt;/h2&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“E-commerce is where most models make their bread and butter,” Bovell said. “It’s not necessarily the path to model fame or model prestige, but it is the path for financial security.”&lt;/p&gt;
 
-&lt;figure class="wp-block-image alignleft size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3033586" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/PHOTO-2025-08-01-15-05-08.jpeg?w=584" width="584" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;sinead bovell, founder &amp;amp; model &lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sinead Bovell&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;That fact is running in direct contrast to the pressure many brands feel to automate such shoots. Paul Mouginot, an art technologist who has worked with luxury brands, said it’s simply expensive to work with live models, especially when it comes to photographing them in countless garments, shoes, and accessories.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Today’s advanced machine learning (ML) models often rely on carefully orchestrated calculations across tens to hundreds of thousands of identical compute elements, consuming immense power. This tight coupling and fine-grained synchronization at the microsecond level imposes new demands. Unlike systems that embrace heterogeneity, ML computations require homogeneous elements; mixing generations would bottleneck faster units. Communication pathways must also be pre-planned and highly efficient, since delays in a single element can stall an entire process.&lt;/p&gt;
 
 
 
+&lt;p&gt;These extreme demands for coordination and power are driving the need for unprecedented compute density. Minimizing the physical distance between processors becomes essential to reduce latency and power consumption, paving the way for a new class of ultra-dense AI systems.&lt;/p&gt;
 
 
 
+&lt;p&gt;This drive for extreme density and tightly coordinated computation fundamentally alters the optimal design for infrastructure, demanding a radical rethinking of physical layouts and dynamic power management to prevent performance bottlenecks and maximize efficiency.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“AI now lets you start with a flat-lay product shoot, place it on a photorealistic virtual model, and even position that model in a coherent setting, producing images that look like genuine fashion editorials,” he told TechCrunch.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Brands, in some ways, have been doing this for a while, he said. Mouginot, who is French, cited the French retailer Veepee as an example of a company that has used virtual mannequins to sell clothes since at least 2013. Other notable brands like H&amp;amp;M, Mango, and Calvin Klein have also resorted to AI models.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Amy Odell, a fashion writer and author of a recently published biography on Gwyneth Paltrow, put it more simply: “It’s just so much cheaper for [brands] to use AI models now. Brands need a lot of content, and it just adds up. So if they can save money on their print ad or their TikTok feed, they will.”&amp;nbsp;&lt;/p&gt;
+&lt;h2 class="wp-block-heading" id="h-a-new-approach-to-fault-tolerance"&gt;A new approach to fault tolerance&lt;/h2&gt;
 
-&lt;p class="wp-block-paragraph"&gt;PJ Pereira, co-founder of AI ad firm Silverside AI, said it really comes down to scale. Every conversation he’s had with fashion brands circles around the fact that the entire marketing system was built for a world where brands produced just four big pieces of content per year. Social media and e-commerce has changed that, and now they need anywhere from 400 to 400,000 pieces; it’s too expensive for brands, especially small ones, to keep up.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“There’s no way to scale from four to 400 or 400,000 with just process tweaks,” he added. “You need a new system. People get angry. They assume this is about taking money away from artists and models. But that’s not what I’ve seen.”&lt;/p&gt;
 
-&lt;h2 class="wp-block-heading" id="h-from-diverse-models-to-ai-avatars"&gt;From “diverse” models to AI avatars&lt;/h2&gt;
+&lt;p&gt;Traditional fault tolerance relies on redundancy among loosely connected systems to achieve high uptime. ML computing demands a different approach.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Murray, a commercial model, understands the cost benefits of using AI models, but only to an extent.&amp;nbsp;&lt;/p&gt;
 
-&lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3033573" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/IMG_2343-rotated.jpeg?w=510" width="510" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;sarah murray&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Courtesy of Sarah Murray&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;She lamented that brands like Levi’s claim AI is only meant to supplement human talent, not take away.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;First, the sheer scale of computation makes over-provisioning too costly. Second, model training is a tightly synchronized process, where a single failure can cascade to thousands of processors. Finally, advanced ML hardware often pushes to the boundary of current technology, potentially leading to higher failure rates.&lt;/p&gt;
 
 
 
+&lt;p&gt;Instead, the emerging strategy involves frequent checkpointing — saving computation state — coupled with real-time monitoring, rapid allocation of spare resources and quick restarts. The underlying hardware and network design must enable swift failure detection and seamless component replacement to maintain performance.&lt;/p&gt;
 
 
 
+&lt;h2 class="wp-block-heading" id="h-a-more-sustainable-approach-to-power"&gt;A more sustainable approach to power&lt;/h2&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“If those [brands] ever had the opportunity to stand in line at an open casting call, they would know about the endless amounts of models, including myself, that would dream of opportunities to work with their brands,” she said. “They would never need to supplement with anything fake.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
 
+&lt;p&gt;Today and looking forward, access to power is a key bottleneck for scaling AI compute. While traditional system design focuses on maximum performance per chip, we must shift to an end-to-end design focused on delivered, at-scale performance per watt. This approach is vital because it considers all system components — compute, network, memory, power delivery, cooling and fault tolerance — working together seamlessly to sustain performance. Optimizing components in isolation severely limits overall system efficiency.&lt;/p&gt;
 
 
 
+&lt;p&gt;As we push for greater performance, individual chips require more power, often exceeding the cooling capacity of traditional air-cooled data centers. This necessitates a shift towards more energy-intensive, but ultimately more efficient, liquid cooling solutions, and a fundamental redesign of data center cooling infrastructure.&amp;nbsp;&lt;/p&gt;
 
 
-&lt;p class="wp-block-paragraph"&gt;She thinks such a shift will impact “non-traditional” — think, diverse — commercial models, such as herself. That was the main problem with the Levi’s ad. Rather than hiring diverse talent, it artificially generated it.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Bovell calls this “robot cultural appropriation,” or the idea that brands can just generate certain, especially diverse, identities to tell a brand story, even if the person who created the technology isn’t of that same identity.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Beyond cooling, conventional redundant power sources, like dual utility feeds and diesel generators, create substantial financial costs and slow capacity delivery. Instead, we must combine diverse power sources and storage at multi-gigawatt scale, managed by real-time microgrid controllers. By leveraging AI workload flexibility and geographic distribution, we can deliver more capability without expensive backup systems needed only a few hours per year.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;And though Pereira argues that it’s unrealistic to shoot every garment on every type of model, that hasn’t calmed the fears many diverse models have about what’s to come.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“We already see an unprecedented use of certain terms in our contracts that we worry indicate that we are possibly signing away our rights for a brand to use our face and anything recognizable as ourselves to train their future AI systems,” Murray said.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Some see generating likenesses of models as a way forward in the AI era. Sara Ziff, a former model and founder of the Model Alliance, is working to pass the Fashion Workers Act, which would require brands to get a model’s clear consent and provide compensation for using their digital replicas. Mouginot said this lets models appear at several shoots on the same day and possibly generate additional income.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This evolving power model enables real-time response to power availability — from shutting down computations during shortages to advanced techniques like frequency scaling for workloads that can tolerate reduced performance. All of this requires real-time telemetry and actuation at levels not currently available.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;That’s “precious when a sought-after model is already traveling constantly,” he continued. But at the same time, whenever an avatar is hired, human labor is replaced. “What few players gain can mean fewer opportunities for many others.”&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;If anything, Bovell said the bar is now higher for models looking to compete with the distinctive and the digitized. She suggested that models use their platforms to build their personal brands, differentiate themselves, and work on new revenue streams like podcasting or brand endorsements.&amp;nbsp;&lt;/p&gt;
 
+&lt;h2 class="wp-block-heading" id="h-security-and-privacy-baked-in-not-bolted-on"&gt;Security and privacy: Baked in, not bolted on&lt;/h2&gt;
 
 
 
+&lt;p&gt;A critical lesson from the internet era is that security and privacy cannot be effectively bolted onto an existing architecture. Threats from bad actors will only grow more sophisticated, requiring protections for user data and proprietary intellectual property to be built into the fabric of the ML infrastructure. One important observation is that AI will, in the end, enhance attacker capabilities. This, in turn, means that we must ensure that AI simultaneously supercharges our defenses.&lt;/p&gt;
 
 
 
-&lt;p class="wp-block-paragraph"&gt;“Start to take those opportunities to tell your unique human story,” she said. “AI will never have a unique human story.”&lt;/p&gt;
+&lt;p&gt;This includes end-to-end data encryption, robust data lineage tracking with verifiable access logs, hardware-enforced security boundaries to protect sensitive computations and sophisticated key management systems. Integrating these safeguards from the ground up will be essential for protecting users and maintaining their trust. Real-time monitoring of what will likely be petabits/sec of telemetry and logging will be key to identifying and neutralizing needle-in-the-haystack attack vectors, including those coming from insider threats.&lt;/p&gt;
 
 
 
+&lt;h2 class="wp-block-heading" id="h-speed-as-a-strategic-imperative"&gt;Speed as a strategic imperative&lt;/h2&gt;
 
 
 
+&lt;p&gt;The rhythm of hardware upgrades has shifted dramatically. Unlike the incremental rack-by-rack evolution of traditional infrastructure, deploying ML supercomputers requires a fundamentally different approach. This is because ML compute does not easily run on heterogeneous deployments; the compute code, algorithms and compiler must be specifically tuned to each new hardware generation to fully leverage its capabilities. The rate of innovation is also unprecedented, often delivering a factor of two or more in performance year over year from new hardware.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;That sort of entrepreneurial mindset is becoming table stakes across industries — from journalism to coding — as AI creates the conditions for the most self-directed learners to rise.&amp;nbsp;&lt;/p&gt;
 
-&lt;h2 class="wp-block-heading" id="h-room-for-another-view-nbsp"&gt;Room for another view&amp;nbsp;&lt;/h2&gt;
 
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3033535" height="659" src="https://techcrunch.com/wp-content/uploads/2025/08/ARTCARE-AI-mannequins-7.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Artcare AI-generated model.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Artcare&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Therefore, instead of incremental upgrades, a massive and simultaneous rollout of homogeneous hardware, often across entire data centers, is now required. With annual hardware refreshes delivering integer-factor performance improvements, the ability to rapidly stand up these colossal AI engines is paramount.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Mouginot sees a world where some platforms stop working with human models altogether, though he also believes humans share a desire for the “sensual reality of objects, for a touch of imperfection and for human connection.”&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Many breakthrough models succeed precisely because of a distinctive trait, teeth, gaze, attitude, that is slightly imperfect by strict standards yet utterly charming,” he said. “Such nuances are hard to erode in zeros and ones.”&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This is where startup and creative studio Artcare thrives, according to Sandrine Decorde, the firm’s CEO and co-founder. She refers to her team as “AI artisans,” creative people who use tools like Flux from Black Forest Labs to fine-tune AI-generated models that have that touch of unique humanity.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The goal must be to compress timelines from design to fully operational 100,000-plus chip deployments, enabling efficiency improvements while supporting algorithmic breakthroughs. This necessitates radical acceleration and automation of every stage, demanding a manufacturing-like model for these infrastructures. From architecture to monitoring and repair, every step must be streamlined and automated to leverage each hardware generation at unprecedented scale.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Much of the work Decorde’s firm does today involves producing AI-generated babies and children for brands. Employing minors in the fashion industry has historically been a gray area rife with exploitation and abuse. Ethically, Decorde argues, bringing generative AI to children’s fashion makes sense, particularly when the market demand is so high.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“It’s like sewing; it’s very delicate,” she told TechCrunch, referring to creating AI-generated models. “The more time we spend on our datasets and image refinements, the better and more consistent our models are.”&amp;nbsp;&lt;/p&gt;
 
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3033501" height="602" src="https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-01-at-2.56.07PM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Screenshot from Seraphinne Vallora’s Instagram page.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Seraphinne Vallora&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 class="wp-block-heading" id="h-meeting-the-moment-a-collective-effort-for-next-gen-ai-infrastructure"&gt;Meeting the moment: A collective effort for next-gen AI infrastructure&lt;/h2&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Part of the work is building out a library of distinctive artifacts. Decorde noted that many AI-generated models — like the ones created by Seraphinne Vallora, the agency behind Vogue’s Guess ad — are too homogenous. Their lips are too perfect and symmetrical. Their jawlines are all the same.&amp;nbsp;&lt;/p&gt;
 
 
+&lt;p&gt;The rise of gen AI marks not just an evolution, but a revolution that requires a radical reimagining of our computing infrastructure. The challenges ahead — in specialized hardware, interconnected networks and sustainable operations — are significant, but so too is the transformative potential of the AI it will enable.&amp;nbsp;&lt;/p&gt;
 
 
 
+&lt;p&gt;It is easy to see that our resulting compute infrastructure will be unrecognizable in the few years ahead, meaning that we cannot simply improve on the blueprints we have already designed. Instead, we must collectively, from research to industry, embark on an effort to re-examine the requirements of AI compute from first principles, building a new blueprint for the underlying global infrastructure. This in turn will result in fundamentally new capabilities, from medicine to education to business, at unprecedented scale and efficiency.&lt;/p&gt;
 
 
-&lt;p class="wp-block-paragraph"&gt;“Imagery needs to make an impact,” Decorde said, noting that many fashion brands like to work exclusively with certain models, a desire that has spilled over into AI-generated models. “A model embodies a fashion brand.”&lt;/p&gt;
 
+&lt;p&gt;&lt;em&gt;Amin Vahdat is VP and GM for machine learning, systems and cloud AI at Google Cloud. &lt;/em&gt;&lt;/p&gt;
 
 
 
 
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
 
-
-&lt;p class="wp-block-paragraph"&gt;Pereira added that his firm combats homogeneity in AI “with intention” and warned that as more content gets made by more people who aren’t intentional, all of the output feeds back into computer models, amplifying bias.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Just like you would cast for a wide range of models, you have to prompt for that,” he said. “You need to train [models] with a wide range of appearances. Because if you don’t, the AI will reflect whatever biases it was trained on.”&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-an-ai-future-is-promised-but-uncertain-nbsp"&gt;An AI future is promised, but uncertain&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The usage of AI modeling technology in fashion is mostly still in its experimental phase, Claudia Wagner, founder of modeling booking platform Ubooker, told TechCrunch. She and her team saw the Guess ad and said it was interesting technically, but it wasn’t impactful or new.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image alignleft size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3033583" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/hm-ai-model.webp?w=544" width="544" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;H&amp;amp;M Digital model&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;H&amp;amp;M&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It feels like another example of a brand using AI to be part of the current narrative,” she told TechCrunch. “We’re all in a phase of testing and exploring what AI can add — but the real value will come when it’s used with purpose, not just for visibility.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Brands are getting visibility from using AI  — and the Guess ad is the latest example. Pereira said his firm recently tested a fully AI-generated product video on TikTok that got more than a million views with mostly negative comments.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“But if you look past the comments, you see that there’s a silent majority — almost 20x engagement — that vastly outnumber the criticism,” he continued. “The click-through rate was 30x the number of complaints, and the product saw a steep hike in sales.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He, like Wagner, doesn’t think AI models are going away anytime soon. If anything, the process of using AI will be integrated into the creative workflow. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Some brands feel good about using fully artificial models,” Pereira said. “Others prefer starting with real people and licensing their likeness to build synthetic shoots. And some brands simply don’t want to do it — they worry their audiences won’t accept it.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Wagner said what is becoming evident is that human talent remains central, especially when authenticity and identity are part of a brand’s story. That’s especially true for luxury heritage brands, which are usually slow to adopt new technologies.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Though Decorde noted many high-fashion brands are quietly experimenting with AI, Mouginot said many are still trying to define their AI policies and are avoiding fully AI-generated people at the moment. It’s one reason why Vogue’s inclusion of an AI model was such a shock. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bovell pondered if the ad was Vogue’s way of testing how the world would react to merging high fashion with AI.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So far the reaction hasn’t been great. It’s unclear if the magazine thinks it ride out the backlash.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What Vogue does matters,” Odell said. “If Vogue ends up doing editorials with AI models, I think that’s going to make it okay. In the same way the industry was really resistant to Kim Kardashian and then Vogue featured her. Then it was okay.”&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sarah Murray recalls the first time she saw an artificial model in fashion: It was 2023, and a beautiful young woman of color donned a Levi’s denim overall dress. Murray, a commercial model herself, said it made her feel sad and exhausted.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The iconic denim company had teamed up with the AI studio Lalaland.ai to create “diverse” digital fashion models for more inclusive ads. For an industry that has failed for years to employ diverse human models, the backlash was swift, with New York Magazine calling the decision “artificial diversity.”&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Modeling as a profession is already challenging enough without having to compete with now new digital standards of perfection that can be achieved with AI,” Murray told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Two years later, her worries have compounded. Brands continue to experiment with AI-generated models, to the consternation of many fashion lovers. The latest uproar came after Vogue’s July print edition featured a Guess ad with a typical model for the brand: thin yet voluptuous, glossy blond tresses, pouty rose lips. She exemplified North American beauty standards, but there was one problem — she was AI generated.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The internet buzzed for days, in large part because the AI-generated beauty showed up in Vogue, the fashion bible that dictates what is and is not acceptable in the industry. The AI-generated model was featured in an advertisement, &lt;em&gt;not&lt;/em&gt; a Vogue editorial spread. And Vogue told TechCrunch the ad met its advertising standards.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To many, an ad versus an editorial is a distinction without a difference.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch spoke to fashion models, experts, and technologists to get a sense of where the industry is headed now that Vogue seems to have put a stamp of approval on technology that’s poised to dramatically change the fashion industry.&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
 			
 		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;They said the Guess ad drama highlights questions arising within creative industries being touched by AI’s silicon fingers: When high-quality creative work can be done by AI in a fraction of the time and cost, what’s the point of humans? And in the world of fashion, what happens to the humans — the models, photographers, stylists, and set designers — performing those jobs?&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-it-s-just-so-much-cheaper"&gt;“It’s just so much cheaper”&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Sinead Bovell, a model and founder of the WAYE organization who wrote about CGI models for Vogue five years ago, told TechCrunch that “e-commerce models” are most under threat of automation.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;E-commerce models are the ones who pose for advertisements or display clothes and accessories for online shoppers. Compared to high-fashion models, whose striking, often unattainable looks are featured in editorial spreads and on runways, they’re more realistic and relatable.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“E-commerce is where most models make their bread and butter,” Bovell said. “It’s not necessarily the path to model fame or model prestige, but it is the path for financial security.”&lt;/p&gt;
-
-&lt;figure class="wp-block-image alignleft size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3033586" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/PHOTO-2025-08-01-15-05-08.jpeg?w=584" width="584" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;sinead bovell, founder &amp;amp; model &lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sinead Bovell&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That fact is running in direct contrast to the pressure many brands feel to automate such shoots. Paul Mouginot, an art technologist who has worked with luxury brands, said it’s simply expensive to work with live models, especially when it comes to photographing them in countless garments, shoes, and accessories.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“AI now lets you start with a flat-lay product shoot, place it on a photorealistic virtual model, and even position that model in a coherent setting, producing images that look like genuine fashion editorials,” he told TechCrunch.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Brands, in some ways, have been doing this for a while, he said. Mouginot, who is French, cited the French retailer Veepee as an example of a company that has used virtual mannequins to sell clothes since at least 2013. Other notable brands like H&amp;amp;M, Mango, and Calvin Klein have also resorted to AI models.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Amy Odell, a fashion writer and author of a recently published biography on Gwyneth Paltrow, put it more simply: “It’s just so much cheaper for [brands] to use AI models now. Brands need a lot of content, and it just adds up. So if they can save money on their print ad or their TikTok feed, they will.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;PJ Pereira, co-founder of AI ad firm Silverside AI, said it really comes down to scale. Every conversation he’s had with fashion brands circles around the fact that the entire marketing system was built for a world where brands produced just four big pieces of content per year. Social media and e-commerce has changed that, and now they need anywhere from 400 to 400,000 pieces; it’s too expensive for brands, especially small ones, to keep up.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There’s no way to scale from four to 400 or 400,000 with just process tweaks,” he added. “You need a new system. People get angry. They assume this is about taking money away from artists and models. But that’s not what I’ve seen.”&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-from-diverse-models-to-ai-avatars"&gt;From “diverse” models to AI avatars&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Murray, a commercial model, understands the cost benefits of using AI models, but only to an extent.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3033573" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/IMG_2343-rotated.jpeg?w=510" width="510" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;sarah murray&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Courtesy of Sarah Murray&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;She lamented that brands like Levi’s claim AI is only meant to supplement human talent, not take away.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“If those [brands] ever had the opportunity to stand in line at an open casting call, they would know about the endless amounts of models, including myself, that would dream of opportunities to work with their brands,” she said. “They would never need to supplement with anything fake.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;She thinks such a shift will impact “non-traditional” — think, diverse — commercial models, such as herself. That was the main problem with the Levi’s ad. Rather than hiring diverse talent, it artificially generated it.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bovell calls this “robot cultural appropriation,” or the idea that brands can just generate certain, especially diverse, identities to tell a brand story, even if the person who created the technology isn’t of that same identity.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And though Pereira argues that it’s unrealistic to shoot every garment on every type of model, that hasn’t calmed the fears many diverse models have about what’s to come.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We already see an unprecedented use of certain terms in our contracts that we worry indicate that we are possibly signing away our rights for a brand to use our face and anything recognizable as ourselves to train their future AI systems,” Murray said.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Some see generating likenesses of models as a way forward in the AI era. Sara Ziff, a former model and founder of the Model Alliance, is working to pass the Fashion Workers Act, which would require brands to get a model’s clear consent and provide compensation for using their digital replicas. Mouginot said this lets models appear at several shoots on the same day and possibly generate additional income.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s “precious when a sought-after model is already traveling constantly,” he continued. But at the same time, whenever an avatar is hired, human labor is replaced. “What few players gain can mean fewer opportunities for many others.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If anything, Bovell said the bar is now higher for models looking to compete with the distinctive and the digitized. She suggested that models use their platforms to build their personal brands, differentiate themselves, and work on new revenue streams like podcasting or brand endorsements.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Start to take those opportunities to tell your unique human story,” she said. “AI will never have a unique human story.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;That sort of entrepreneurial mindset is becoming table stakes across industries — from journalism to coding — as AI creates the conditions for the most self-directed learners to rise.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-room-for-another-view-nbsp"&gt;Room for another view&amp;nbsp;&lt;/h2&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3033535" height="659" src="https://techcrunch.com/wp-content/uploads/2025/08/ARTCARE-AI-mannequins-7.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Artcare AI-generated model.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Artcare&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Mouginot sees a world where some platforms stop working with human models altogether, though he also believes humans share a desire for the “sensual reality of objects, for a touch of imperfection and for human connection.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Many breakthrough models succeed precisely because of a distinctive trait, teeth, gaze, attitude, that is slightly imperfect by strict standards yet utterly charming,” he said. “Such nuances are hard to erode in zeros and ones.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This is where startup and creative studio Artcare thrives, according to Sandrine Decorde, the firm’s CEO and co-founder. She refers to her team as “AI artisans,” creative people who use tools like Flux from Black Forest Labs to fine-tune AI-generated models that have that touch of unique humanity.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Much of the work Decorde’s firm does today involves producing AI-generated babies and children for brands. Employing minors in the fashion industry has historically been a gray area rife with exploitation and abuse. Ethically, Decorde argues, bringing generative AI to children’s fashion makes sense, particularly when the market demand is so high.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It’s like sewing; it’s very delicate,” she told TechCrunch, referring to creating AI-generated models. “The more time we spend on our datasets and image refinements, the better and more consistent our models are.”&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3033501" height="602" src="https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-01-at-2.56.07PM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Screenshot from Seraphinne Vallora’s Instagram page.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Seraphinne Vallora&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Part of the work is building out a library of distinctive artifacts. Decorde noted that many AI-generated models — like the ones created by Seraphinne Vallora, the agency behind Vogue’s Guess ad — are too homogenous. Their lips are too perfect and symmetrical. Their jawlines are all the same.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Imagery needs to make an impact,” Decorde said, noting that many fashion brands like to work exclusively with certain models, a desire that has spilled over into AI-generated models. “A model embodies a fashion brand.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Pereira added that his firm combats homogeneity in AI “with intention” and warned that as more content gets made by more people who aren’t intentional, all of the output feeds back into computer models, amplifying bias.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Just like you would cast for a wide range of models, you have to prompt for that,” he said. “You need to train [models] with a wide range of appearances. Because if you don’t, the AI will reflect whatever biases it was trained on.”&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-an-ai-future-is-promised-but-uncertain-nbsp"&gt;An AI future is promised, but uncertain&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The usage of AI modeling technology in fashion is mostly still in its experimental phase, Claudia Wagner, founder of modeling booking platform Ubooker, told TechCrunch. She and her team saw the Guess ad and said it was interesting technically, but it wasn’t impactful or new.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image alignleft size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3033583" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/hm-ai-model.webp?w=544" width="544" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;H&amp;amp;M Digital model&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;H&amp;amp;M&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It feels like another example of a brand using AI to be part of the current narrative,” she told TechCrunch. “We’re all in a phase of testing and exploring what AI can add — but the real value will come when it’s used with purpose, not just for visibility.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Brands are getting visibility from using AI  — and the Guess ad is the latest example. Pereira said his firm recently tested a fully AI-generated product video on TikTok that got more than a million views with mostly negative comments.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“But if you look past the comments, you see that there’s a silent majority — almost 20x engagement — that vastly outnumber the criticism,” he continued. “The click-through rate was 30x the number of complaints, and the product saw a steep hike in sales.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He, like Wagner, doesn’t think AI models are going away anytime soon. If anything, the process of using AI will be integrated into the creative workflow. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Some brands feel good about using fully artificial models,” Pereira said. “Others prefer starting with real people and licensing their likeness to build synthetic shoots. And some brands simply don’t want to do it — they worry their audiences won’t accept it.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Wagner said what is becoming evident is that human talent remains central, especially when authenticity and identity are part of a brand’s story. That’s especially true for luxury heritage brands, which are usually slow to adopt new technologies.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Though Decorde noted many high-fashion brands are quietly experimenting with AI, Mouginot said many are still trying to define their AI policies and are avoiding fully AI-generated people at the moment. It’s one reason why Vogue’s inclusion of an AI model was such a shock. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bovell pondered if the ad was Vogue’s way of testing how the world would react to merging high fashion with AI.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So far the reaction hasn’t been great. It’s unclear if the magazine thinks it ride out the backlash.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What Vogue does matters,” Odell said. “If Vogue ends up doing editorials with AI models, I think that’s going to make it okay. In the same way the industry was really resistant to Kim Kardashian and then Vogue featured her. Then it was okay.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/</guid><pubDate>Sun, 03 Aug 2025 13:00:00 +0000</pubDate></item><item><title>[NEW] Inside OpenAI’s quest to make AI do anything for you (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-for-you/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Shortly after Hunter Lightman joined OpenAI as a researcher in 2022, he watched his colleagues launch ChatGPT, one of the fastest-growing products ever. Meanwhile, Lightman quietly worked on a team teaching OpenAI’s models to solve high school math competitions.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Today that team, known as MathGen, is considered instrumental to OpenAI’s industry-leading effort to create AI reasoning models: the core technology behind AI agents that can do tasks on a computer like a human would.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“We were trying to make the models better at mathematical reasoning, which at the time they weren’t very good at,” Lightman told TechCrunch, describing MathGen’s early work.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s models are far from perfect today — the company’s latest AI systems still hallucinate and its agents struggle with complex tasks.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But its state-of-the-art models have improved significantly on mathematical reasoning. One of OpenAI’s models recently won a gold medal at the International Math Olympiad, a math competition for the world’s brightest high school students. OpenAI believes these reasoning capabilities will translate to other subjects, and ultimately power general-purpose agents that the company has always dreamed of building.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;ChatGPT was a happy accident — a lowkey research preview turned viral consumer business — but OpenAI’s agents are the product of a years-long, deliberate effort within the company.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Eventually, you’ll just ask the computer for what you need and it’ll do all of these tasks for you,” said OpenAI CEO Sam Altman at the company’s first developer conference in 2023. “These capabilities are often talked about in the AI field as agents. The upsides of this are going to be tremendous.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
 		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;			&lt;/div&gt;</description><content:encoded>&lt;p&gt;The past few decades have seen almost unimaginable advances in compute performance and efficiency, enabled by Moore’s Law and underpinned by scale-out commodity hardware and loosely coupled software. This architecture has delivered online services to billions globally and put virtually all of human knowledge at our fingertips.&lt;/p&gt;&lt;p&gt;But the next computing revolution will demand much more. Fulfilling the promise of AI requires a step-change in capabilities far exceeding the advancements of the internet era. To achieve this, we as an industry must revisit some of the foundations that drove the previous transformation and innovate collectively to rethink the entire technology stack. Let’s explore the forces driving this upheaval and lay out what this architecture must look like.&lt;/p&gt;&lt;p&gt;For decades, the dominant trend in computing has been the democratization of compute through scale-out architectures built on nearly identical, commodity servers. This uniformity allowed for flexible workload placement and efficient resource utilization. The demands of gen AI, heavily reliant on predictable mathematical operations on massive datasets, are reversing this trend.&amp;nbsp;&lt;/p&gt;&lt;p&gt;We are now witnessing a decisive shift towards specialized hardware — including ASICs, GPUs, and tensor processing units (TPUs) — that deliver orders of magnitude improvements in performance per dollar and per watt compared to general-purpose CPUs. This proliferation of domain-specific compute units, optimized for narrower tasks, will be critical to driving the continued rapid advances in AI.&lt;/p&gt;&lt;div id="id"&gt;&lt;div class="post-boilerplate boilerplate-speedbump" id="boilerplate_2803147"&gt;&lt;!-- wp:separator --&gt;
+&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;strong&gt;The AI Impact Series Returns to San Francisco - August 5&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;The next phase of AI is here - are you ready? Join leaders from Block, GSK, and SAP for an exclusive look at how autonomous agents are reshaping enterprise workflows - from real-time decision-making to end-to-end automation.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Secure your spot now - space is limited: https://bit.ly/3GuuPLF&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;h2 class="wp-block-heading" id="h-beyond-ethernet-the-rise-of-specialized-interconnects"&gt;Beyond ethernet: The rise of specialized interconnects&lt;/h2&gt;
+
+
+
+&lt;p&gt;These specialized systems will often require “all-to-all” communication, with terabit-per-second bandwidth and nanosecond latencies that approach local memory speeds. Today’s networks, largely based on commodity Ethernet switches and TCP/IP protocols, are ill-equipped to handle these extreme demands.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;As a result, to scale gen AI workloads across vast clusters of specialized accelerators, we are seeing the rise of specialized interconnects, such as ICI for TPUs and NVLink for GPUs. These purpose-built networks prioritize direct memory-to-memory transfers and use dedicated hardware to speed information sharing among processors, effectively bypassing the overhead of traditional, layered networking stacks.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;This move towards tightly integrated, compute-centric networking will be essential to overcoming communication bottlenecks and scaling the next generation of AI efficiently.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-breaking-the-memory-wall"&gt;Breaking the memory wall&lt;/h2&gt;
+
+
+
+&lt;p&gt;For decades, the performance gains in computation have outpaced the growth in memory bandwidth. While techniques like caching and stacked SRAM have partially mitigated this, the data-intensive nature of AI is only exacerbating the problem.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The insatiable need to feed increasingly powerful compute units has led to high bandwidth memory (HBM), which stacks DRAM directly on the processor package to boost bandwidth and reduce latency. However, even HBM faces fundamental limitations: The physical chip perimeter restricts total dataflow, and moving massive datasets at terabit speeds creates significant energy constraints.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;These limitations highlight the critical need for higher-bandwidth connectivity and underscore the urgency for breakthroughs in processing and memory architecture. Without these innovations, our powerful compute resources will sit idle waiting for data, dramatically limiting efficiency and scale.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-from-server-farms-to-high-density-systems"&gt;From server farms to high-density systems&lt;/h2&gt;
+
+
+
+&lt;p&gt;Today’s advanced machine learning (ML) models often rely on carefully orchestrated calculations across tens to hundreds of thousands of identical compute elements, consuming immense power. This tight coupling and fine-grained synchronization at the microsecond level imposes new demands. Unlike systems that embrace heterogeneity, ML computations require homogeneous elements; mixing generations would bottleneck faster units. Communication pathways must also be pre-planned and highly efficient, since delays in a single element can stall an entire process.&lt;/p&gt;
+
+
+
+&lt;p&gt;These extreme demands for coordination and power are driving the need for unprecedented compute density. Minimizing the physical distance between processors becomes essential to reduce latency and power consumption, paving the way for a new class of ultra-dense AI systems.&lt;/p&gt;
+
+
+
+&lt;p&gt;This drive for extreme density and tightly coordinated computation fundamentally alters the optimal design for infrastructure, demanding a radical rethinking of physical layouts and dynamic power management to prevent performance bottlenecks and maximize efficiency.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-a-new-approach-to-fault-tolerance"&gt;A new approach to fault tolerance&lt;/h2&gt;
+
+
+
+&lt;p&gt;Traditional fault tolerance relies on redundancy among loosely connected systems to achieve high uptime. ML computing demands a different approach.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;First, the sheer scale of computation makes over-provisioning too costly. Second, model training is a tightly synchronized process, where a single failure can cascade to thousands of processors. Finally, advanced ML hardware often pushes to the boundary of current technology, potentially leading to higher failure rates.&lt;/p&gt;
+
+
+
+&lt;p&gt;Instead, the emerging strategy involves frequent checkpointing — saving computation state — coupled with real-time monitoring, rapid allocation of spare resources and quick restarts. The underlying hardware and network design must enable swift failure detection and seamless component replacement to maintain performance.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-a-more-sustainable-approach-to-power"&gt;A more sustainable approach to power&lt;/h2&gt;
+
+
+
+&lt;p&gt;Today and looking forward, access to power is a key bottleneck for scaling AI compute. While traditional system design focuses on maximum performance per chip, we must shift to an end-to-end design focused on delivered, at-scale performance per watt. This approach is vital because it considers all system components — compute, network, memory, power delivery, cooling and fault tolerance — working together seamlessly to sustain performance. Optimizing components in isolation severely limits overall system efficiency.&lt;/p&gt;
+
+
+
+&lt;p&gt;As we push for greater performance, individual chips require more power, often exceeding the cooling capacity of traditional air-cooled data centers. This necessitates a shift towards more energy-intensive, but ultimately more efficient, liquid cooling solutions, and a fundamental redesign of data center cooling infrastructure.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Beyond cooling, conventional redundant power sources, like dual utility feeds and diesel generators, create substantial financial costs and slow capacity delivery. Instead, we must combine diverse power sources and storage at multi-gigawatt scale, managed by real-time microgrid controllers. By leveraging AI workload flexibility and geographic distribution, we can deliver more capability without expensive backup systems needed only a few hours per year.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;This evolving power model enables real-time response to power availability — from shutting down computations during shortages to advanced techniques like frequency scaling for workloads that can tolerate reduced performance. All of this requires real-time telemetry and actuation at levels not currently available.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-security-and-privacy-baked-in-not-bolted-on"&gt;Security and privacy: Baked in, not bolted on&lt;/h2&gt;
+
+
+
+&lt;p&gt;A critical lesson from the internet era is that security and privacy cannot be effectively bolted onto an existing architecture. Threats from bad actors will only grow more sophisticated, requiring protections for user data and proprietary intellectual property to be built into the fabric of the ML infrastructure. One important observation is that AI will, in the end, enhance attacker capabilities. This, in turn, means that we must ensure that AI simultaneously supercharges our defenses.&lt;/p&gt;
+
+
+
+&lt;p&gt;This includes end-to-end data encryption, robust data lineage tracking with verifiable access logs, hardware-enforced security boundaries to protect sensitive computations and sophisticated key management systems. Integrating these safeguards from the ground up will be essential for protecting users and maintaining their trust. Real-time monitoring of what will likely be petabits/sec of telemetry and logging will be key to identifying and neutralizing needle-in-the-haystack attack vectors, including those coming from insider threats.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-speed-as-a-strategic-imperative"&gt;Speed as a strategic imperative&lt;/h2&gt;
+
+
+
+&lt;p&gt;The rhythm of hardware upgrades has shifted dramatically. Unlike the incremental rack-by-rack evolution of traditional infrastructure, deploying ML supercomputers requires a fundamentally different approach. This is because ML compute does not easily run on heterogeneous deployments; the compute code, algorithms and compiler must be specifically tuned to each new hardware generation to fully leverage its capabilities. The rate of innovation is also unprecedented, often delivering a factor of two or more in performance year over year from new hardware.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Therefore, instead of incremental upgrades, a massive and simultaneous rollout of homogeneous hardware, often across entire data centers, is now required. With annual hardware refreshes delivering integer-factor performance improvements, the ability to rapidly stand up these colossal AI engines is paramount.&lt;/p&gt;
+
+
+
+&lt;p&gt;The goal must be to compress timelines from design to fully operational 100,000-plus chip deployments, enabling efficiency improvements while supporting algorithmic breakthroughs. This necessitates radical acceleration and automation of every stage, demanding a manufacturing-like model for these infrastructures. From architecture to monitoring and repair, every step must be streamlined and automated to leverage each hardware generation at unprecedented scale.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-meeting-the-moment-a-collective-effort-for-next-gen-ai-infrastructure"&gt;Meeting the moment: A collective effort for next-gen AI infrastructure&lt;/h2&gt;
+
+
+
+&lt;p&gt;The rise of gen AI marks not just an evolution, but a revolution that requires a radical reimagining of our computing infrastructure. The challenges ahead — in specialized hardware, interconnected networks and sustainable operations — are significant, but so too is the transformative potential of the AI it will enable.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;It is easy to see that our resulting compute infrastructure will be unrecognizable in the few years ahead, meaning that we cannot simply improve on the blueprints we have already designed. Instead, we must collectively, from research to industry, embark on an effort to re-examine the requirements of AI compute from first principles, building a new blueprint for the underlying global infrastructure. This in turn will result in fundamentally new capabilities, from medicine to education to business, at unprecedented scale and efficiency.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Amin Vahdat is VP and GM for machine learning, systems and cloud AI at Google Cloud. &lt;/em&gt;&lt;/p&gt;
+
+
+
+
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
 			
 		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="OpenAI CEO Sam Altman speaks during the OpenAI DevDay event on November 06, 2023 in San Francisco, California." class="wp-image-2625318" height="382" src="https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778704897.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;OpenAI CEO Sam Altman speaks during the OpenAI DevDay event on November 06, 2023 in San Francisco, California.(Photo by Justin Sullivan/Getty Images)&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Justin Sullivan / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Whether agents will meet Altman’s vision remains to be seen, but OpenAI shocked the world with the release of its first AI reasoning model, o1, in the fall of 2024. Less than a year later, the 21 foundational researchers behind that breakthrough are the most highly sought-after talent in Silicon Valley.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Mark Zuckerberg recruited five of the o1 researchers to work on Meta’s new superintelligence-focused unit, offering some compensation packages north of $100 million. One of them, Shengjia Zhao, was recently named chief scientist of Meta Superintelligence Labs.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-the-reinforcement-learning-renaissance"&gt;The reinforcement learning renaissance&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The rise of OpenAI’s reasoning models and agents are tied to a machine learning training technique known as reinforcement learning (RL). RL provides feedback to an AI model on whether its choices were correct or not in simulated environments.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;RL has been used for decades. For instance, in 2016, about a year after OpenAI was founded in 2015, an AI system created by Google DeepMind using RL, AlphaGo, gained global attention after beating a world champion in the board game, Go.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3033346" height="436" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-515358462.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;South Korean professional Go player Lee Se-Dol (R) prepares for his fourth match against Google’s artificial intelligence program, AlphaGo, during the Google DeepMind Challenge Match on March 13, 2016 in Seoul, South Korea. Lee Se-dol played a five-game match against a computer program developed by a Google, AlphaGo.  (Photo by Google via Getty Images)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Around that time, one of OpenAI’s first employees, Andrej Karpathy, began pondering how to leverage RL to create an AI agent that could use a computer. But it would take years for OpenAI to develop the necessary models and training techniques.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;By 2018, OpenAI pioneered its first large language model in the GPT series, pretrained on massive amounts of internet data and a large clusters of GPUs. GPT models excelled at text processing, eventually leading to ChatGPT, but struggled with basic math.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It took until 2023 for OpenAI to achieve a breakthrough, initially dubbed “Q*” and then “Strawberry,” by combining LLMs, RL, and a technique called test-time computation. The latter gave the models extra time and computing power to plan and work through problems, verifying its steps, before providing an answer. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This allowed OpenAI to introduce a new approach called “chain-of-thought” (CoT), which improved AI’s performance on math questions the models hadn’t seen before.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I could see the model starting to reason,” said El Kishky. “It would notice mistakes and backtrack, it would get frustrated. It really felt like reading the thoughts of a person.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Though individually these techniques weren’t novel, OpenAI uniquely combined them to create Strawberry, which directly led to the development of o1. OpenAI quickly identified that the planning and fact checking abilities of AI reasoning models could be useful to power AI agents.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We had solved a problem that I had been banging my head against for a couple of years,” said Lightman. “It was one of the most exciting moments of my research career.”&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-scaling-reasoning"&gt;Scaling reasoning&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;With AI reasoning models, OpenAI determined it had two new axes that would allow it to improve AI models: using more computational power during the post-training of AI models, and giving AI models more time and processing power while answering a question.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“OpenAI, as a company, thinks a lot about not just the way things are, but the way things are going to scale,” said Lightman.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Shortly after the 2023 Strawberry breakthrough, OpenAI spun up an “Agents” team led by OpenAI researcher Daniel Selsam to make further progress on this new paradigm, two sources told TechCrunch. Although the team was called “Agents,”&amp;nbsp; OpenAI didn’t initially differentiate between reasoning models and agents as we think of them today. The company just wanted to make AI systems capable of completing complex tasks.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Eventually, the work of Selsam’s Agents team became part of a larger project to develop the o1 reasoning model, with leaders including OpenAI co-founder Ilya Sutskever, chief research officer Mark Chen, and chief scientist Jakub Pachocki.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Ilya Sutskever, Russian Israeli-Canadian computer scientist and co-founder and Chief Scientist of OpenAI." class="wp-image-2797714" height="453" src="https://techcrunch.com/wp-content/uploads/2024/06/019A7E29-3482-4F68-9A29-624BA22F0334.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Ilya Sutskever, Russian Israeli-Canadian computer scientist and co-founder and Chief Scientist of OpenAI, speaks at Tel Aviv University in Tel Aviv on June 5, 2023. (Photo by JACK GUEZ / AFP)&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI would have to divert precious resources — mainly talent and GPUs — to create o1. Throughout OpenAI’s history, researchers have had to negotiate with company leaders to obtain resources; demonstrating breakthroughs was a surefire way to secure them.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“One of the core components of OpenAI is that everything in research is bottom up,” said Lightman. “When we showed the evidence [for o1], the company was like, ‘This makes sense, let’s push on it.’”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Some former employees say that the startup’s mission to develop AGI was the key factor in achieving breakthroughs around AI reasoning models. By focusing on developing the smartest-possible AI models, rather than products, OpenAI was able to prioritize o1 above other efforts.&amp;nbsp;That type of large investment in ideas wasn’t always possible at competing AI labs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The decision to try new training methods proved prescient. By late 2024, several leading AI labs started seeing diminishing returns on models created through traditional pretraining scaling. Today, much of the AI field’s momentum comes from advances in reasoning models.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-what-does-it-mean-for-an-ai-to-reason"&gt;&lt;strong&gt;What does it mean for an AI to “reason?”&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In many ways, the goal of AI research is to recreate human intelligence with computers. Since the launch of o1, ChatGPT’s UX has been filled with more human-sounding features such as “thinking” and “reasoning.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;When asked whether OpenAI’s models were truly reasoning, El Kishky hedged, saying he thinks about the concept in terms of computer science. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“We’re teaching the model how to efficiently expend compute to get an answer. So if you define it that way, yes, it is reasoning,” said El Kishky.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Lightman takes the approach of focusing on the model’s results and not as much on the means or their relation to human brains.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="The OpenAI logo on screen at their developer day stage." class="wp-image-2625161" height="454" src="https://techcrunch.com/wp-content/uploads/2023/11/img_5619.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;The OpenAI logo on screen at their developer day stage. (Credit: Devin Coldeway)&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Devin Coldewey&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If the model is doing hard things, then it is doing whatever necessary approximation of reasoning it needs in order to do that,” said Lightman. “We can call it reasoning, because it looks like these reasoning traces, but it’s all just a proxy for trying to make AI tools that are really powerful and useful to a lot of people.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s researchers note people may disagree with their nomenclature or definitions of reasoning — and surely, critics have emerged — but they argue it’s less important than the capabilities of their models. Other AI researchers tend to agree.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Nathan Lambert, an AI researcher with the non-profit AI2, compares AI reasoning modes to airplanes in a blog post. Both, he says, are manmade systems inspired by nature — human reasoning and bird flight, respectively — but they operate through entirely different mechanisms. That doesn’t make them any less useful, or any less capable of achieving similar outcomes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A group of AI researchers from OpenAI, Anthropic, and Google DeepMind agreed in a recent position paper that AI reasoning models are not well understood today, and more research is needed. It may be too early to confidently claim what exactly is going on inside them.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-the-next-frontier-ai-agents-for-subjective-tasks"&gt;&lt;strong&gt;The next frontier: AI agents for subjective tasks&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The AI agents on the market today work best for well-defined, verifiable domains such as coding. OpenAI’s Codex agent aims to help software engineers offload simple coding tasks. Meanwhile, Anthropic’s models have become particularly popular in AI coding tools like Cursor and Claude Code — these are some of the first AI agents that people are willing to pay up for.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;However, general purpose AI agents like OpenAI’s ChatGPT Agent and Perplexity’s Comet struggle with many of the complex, subjective tasks people want to automate. When trying to use these tools for online shopping or finding a long-term parking spot, I’ve found the agents take longer than I’d like and make silly mistakes.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Agents are, of course, early systems that will undoubtedly improve. But researchers must first figure out how to better train the underlying models to complete tasks that are more subjective.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3033358" height="453" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2197821080.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AI applications (Photo by Jonathan Raa/NurPhoto via Getty Images)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Like many problems in machine learning, it’s a data problem,” said Lightman, when asked about the limitations of agents on subjective tasks. “Some of the research I’m really excited about right now is figuring out how to train on less verifiable tasks. We have some leads on how to do these things.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Noam Brown, an OpenAI researcher who helped create the IMO model and o1, told TechCrunch that OpenAI has new general-purpose RL techniques which allow them to teach AI models skills that aren’t easily verified. This was how the company built the model which achieved a gold medal at IMO, he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s IMO model was a newer AI system that spawns multiple agents, which then simultaneously explore several ideas, and then choose the best possible answer. These types of AI models are becoming more popular; Google and xAI have recently released state-of-the-art models using this technique.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I think these models will become more capable at math, and I think they’ll get more capable in other reasoning areas as well,” said Brown. “The progress has been incredibly fast. I don’t see any reason to think it will slow down.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;These techniques may help OpenAI’s models become more performant, gains that could show up in the company’s upcoming GPT-5 model. OpenAI hopes to assert its dominance over competitors with the launch of GPT-5, ideally offering the best AI model to power agents for developers and consumers. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But the company also wants to make its products simpler to use. El Kishky says OpenAI wants to develop AI agents that intuitively understand what users want, without requiring them to select specific settings. He says OpenAI aims to build AI systems that understand when to call up certain tools, and how long to reason for.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;These ideas paint a picture of an ultimate version of ChatGPT: an agent that can do anything on the internet for you, and understand how you want it to be done. That’s a much different product than what ChatGPT is today, but the company’s research is squarely headed in this direction.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;While OpenAI undoubtedly led the AI industry a few years ago, the company now faces a tranche of worthy opponents. The question is no longer just whether OpenAI can deliver its agentic future, but can the company do so before Google, Anthropic, xAI, or Meta beat them to it?&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Shortly after Hunter Lightman joined OpenAI as a researcher in 2022, he watched his colleagues launch ChatGPT, one of the fastest-growing products ever. Meanwhile, Lightman quietly worked on a team teaching OpenAI’s models to solve high school math competitions.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Today that team, known as MathGen, is considered instrumental to OpenAI’s industry-leading effort to create AI reasoning models: the core technology behind AI agents that can do tasks on a computer like a human would.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“We were trying to make the models better at mathematical reasoning, which at the time they weren’t very good at,” Lightman told TechCrunch, describing MathGen’s early work.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s models are far from perfect today — the company’s latest AI systems still hallucinate and its agents struggle with complex tasks.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But its state-of-the-art models have improved significantly on mathematical reasoning. One of OpenAI’s models recently won a gold medal at the International Math Olympiad, a math competition for the world’s brightest high school students. OpenAI believes these reasoning capabilities will translate to other subjects, and ultimately power general-purpose agents that the company has always dreamed of building.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;ChatGPT was a happy accident — a lowkey research preview turned viral consumer business — but OpenAI’s agents are the product of a years-long, deliberate effort within the company.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Eventually, you’ll just ask the computer for what you need and it’ll do all of these tasks for you,” said OpenAI CEO Sam Altman at the company’s first developer conference in 2023. “These capabilities are often talked about in the AI field as agents. The upsides of this are going to be tremendous.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
 		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;			&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-entire-compute-backbone/</guid><pubDate>Sun, 03 Aug 2025 18:05:00 +0000</pubDate></item><item><title>[NEW] Why tomorrow’s best devs won’t just code — they’ll curate, coordinate and command AI (AI News | VentureBeat)</title><link>https://venturebeat.com/programming-development/why-tomorrows-best-devs-wont-just-code-theyll-curate-coordinate-and-command-ai/</link><description>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;As AI continues to take on more and more new competencies, junior coding, as we knew it, is rapidly becoming a thing of the past. Tasks that used to be the bread and butter for junior developers — such as repetitive scripting, HTML layout or simple DevOps setups — are now being reliably handled by AI assistants like ChatGPT, GitHub Copilot and Amazon CodeWhisperer.&lt;/p&gt;
+
+
+
+&lt;p&gt;This is not just an upgrade to speed and efficiency — we are looking at a serious structural change here. So where does that leave entry-level developers? And, speaking more broadly, where does it leave the software industry as a whole?&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-the-vanishing-beginner-level"&gt;The vanishing beginner level&lt;/h2&gt;
+
+
+
+&lt;p&gt;For decades, software engineering as a field had a fairly predictable pathway: Begin with the basics, build some landing pages, write test cases, troubleshoot minor bugs. As your skills grow, you can move toward architectural thinking and product ownership.&lt;/p&gt;
+
+
+
+&lt;p&gt;But now AI is vastly changing how the bottom end of that ladder operates, since it can do most junior-level tasks on its own.&lt;/p&gt;
+
+
+
+&lt;p&gt;As a result, beginners entering the industry are increasingly being asked to contribute at a level that used to require years of experience. It is not just about writing code anymore — it is about understanding systems, structuring problems and working alongside AI like a team member. That is a tall order. That said, I do believe that there is a way forward. It starts by changing the way we learn.&lt;/p&gt;
+
+
+
+&lt;p&gt;If you are just starting out, avoid relying on AI to get things done. It is tempting, sure, but in the long run, it is also harmful. If you skip the manual practice, you are missing out on building a deeper understanding of how software really works. That understanding is critical if you want to grow into the kind of developer who can lead, architect and guide AI instead of being replaced by it.&lt;/p&gt;
+
+
+
+&lt;p&gt;The way I see it, in the near future, the most valuable people in tech won’t be the ones who write perfect code. They will be those who know what should be built, why it matters and how to get an AI system to do most of the work cleanly and efficiently. In other words, the coder of tomorrow looks more like a product manager with solid technical expertise.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-teams-are-changing-too"&gt;Teams are changing, too&lt;/h2&gt;
+
+
+
+&lt;p&gt;Based on everything we covered above, I also feel the need to point out that it is not just individuals who need to rethink their roles. Entire teams are shifting. Where we once had clearly defined roles — front-end developer, back-end specialist, DevOps engineer, QA tester — we will soon see one developer managing a whole pipeline with the help of AI.&lt;/p&gt;
+
+
+
+&lt;p&gt;AI-augmented developers will replace large teams that used to be necessary to move a project forward. In terms of efficiency, there is a lot to celebrate about this change — reduced communication time, faster results and higher bars for what one person can realistically accomplish.&lt;/p&gt;
+
+
+
+&lt;p&gt;But, of course, this does not mean teams will disappear altogether. It is just that the structure will change. Collaboration will focus more on strategic decisions, product alignment and making sure AI tools are being used responsibly and effectively. The human input will be less about implementation and more about direction.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-ai-is-creating-a-new-career-path"&gt;AI is creating a new career path&lt;/h2&gt;
+
+
+
+&lt;p&gt;If we look five to seven years ahead, I suspect that the idea of a “developer” as we know it today will have changed into something else entirely. We will likely see more hybrid roles — part developer, part designer, part product thinker. As already mentioned, the core part of the job won’t be to write code, but to shape ideas into working software using AI as your main creation tool. Or perhaps, even as a co-creator.&lt;/p&gt;
+
+
+
+&lt;p&gt;Being technically fluent will still remain a crucial requirement — but it won’t be enough to simply know how to code. You will need to understand product thinking, user needs and how to manage AI’s output. It will be more about system design and strategic vision.&lt;/p&gt;
+
+
+
+&lt;p&gt;For some, this may sound intimidating, but for others, it will also open many doors. People with creativity and a knack for problem-solving will have huge opportunities ahead of them.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The landscape is shifting, yes — there is no escaping that fact. But for those willing to adapt, one could argue it is shifting in their favor. The end of junior coding is not the end of learning. It is a sign that we need to reconsider what kind of talents we grow, how we structure teams and what makes someone a great developer.&lt;/p&gt;
+
+
+
+&lt;p&gt;To my mind, instead of mourning the loss of basic tasks, the industry as a whole should focus on building the skills that cannot be automated. At least, not yet. That means implementing a hybrid approach and learning how to work with AI as a partner rather than a competitor.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Roman Eloshvili is founder of ComplyControl.&lt;/em&gt;&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
 			
 		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</description><content:encoded>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
 
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="OpenAI CEO Sam Altman speaks during the OpenAI DevDay event on November 06, 2023 in San Francisco, California." class="wp-image-2625318" height="382" src="https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778704897.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;OpenAI CEO Sam Altman speaks during the OpenAI DevDay event on November 06, 2023 in San Francisco, California.(Photo by Justin Sullivan/Getty Images)&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Justin Sullivan / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;As AI continues to take on more and more new competencies, junior coding, as we knew it, is rapidly becoming a thing of the past. Tasks that used to be the bread and butter for junior developers — such as repetitive scripting, HTML layout or simple DevOps setups — are now being reliably handled by AI assistants like ChatGPT, GitHub Copilot and Amazon CodeWhisperer.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Whether agents will meet Altman’s vision remains to be seen, but OpenAI shocked the world with the release of its first AI reasoning model, o1, in the fall of 2024. Less than a year later, the 21 foundational researchers behind that breakthrough are the most highly sought-after talent in Silicon Valley.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Mark Zuckerberg recruited five of the o1 researchers to work on Meta’s new superintelligence-focused unit, offering some compensation packages north of $100 million. One of them, Shengjia Zhao, was recently named chief scientist of Meta Superintelligence Labs.&lt;/p&gt;
 
-&lt;h2 class="wp-block-heading" id="h-the-reinforcement-learning-renaissance"&gt;The reinforcement learning renaissance&lt;/h2&gt;
+&lt;p&gt;This is not just an upgrade to speed and efficiency — we are looking at a serious structural change here. So where does that leave entry-level developers? And, speaking more broadly, where does it leave the software industry as a whole?&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The rise of OpenAI’s reasoning models and agents are tied to a machine learning training technique known as reinforcement learning (RL). RL provides feedback to an AI model on whether its choices were correct or not in simulated environments.&lt;/p&gt;
 
 
+&lt;h2 class="wp-block-heading" id="h-the-vanishing-beginner-level"&gt;The vanishing beginner level&lt;/h2&gt;
 
 
 
+&lt;p&gt;For decades, software engineering as a field had a fairly predictable pathway: Begin with the basics, build some landing pages, write test cases, troubleshoot minor bugs. As your skills grow, you can move toward architectural thinking and product ownership.&lt;/p&gt;
 
 
-&lt;p class="wp-block-paragraph"&gt;RL has been used for decades. For instance, in 2016, about a year after OpenAI was founded in 2015, an AI system created by Google DeepMind using RL, AlphaGo, gained global attention after beating a world champion in the board game, Go.&lt;/p&gt;
 
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3033346" height="436" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-515358462.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;South Korean professional Go player Lee Se-Dol (R) prepares for his fourth match against Google’s artificial intelligence program, AlphaGo, during the Google DeepMind Challenge Match on March 13, 2016 in Seoul, South Korea. Lee Se-dol played a five-game match against a computer program developed by a Google, AlphaGo.  (Photo by Google via Getty Images)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;But now AI is vastly changing how the bottom end of that ladder operates, since it can do most junior-level tasks on its own.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Around that time, one of OpenAI’s first employees, Andrej Karpathy, began pondering how to leverage RL to create an AI agent that could use a computer. But it would take years for OpenAI to develop the necessary models and training techniques.&lt;/p&gt;
 
 
+&lt;p&gt;As a result, beginners entering the industry are increasingly being asked to contribute at a level that used to require years of experience. It is not just about writing code anymore — it is about understanding systems, structuring problems and working alongside AI like a team member. That is a tall order. That said, I do believe that there is a way forward. It starts by changing the way we learn.&lt;/p&gt;
 
 
 
+&lt;p&gt;If you are just starting out, avoid relying on AI to get things done. It is tempting, sure, but in the long run, it is also harmful. If you skip the manual practice, you are missing out on building a deeper understanding of how software really works. That understanding is critical if you want to grow into the kind of developer who can lead, architect and guide AI instead of being replaced by it.&lt;/p&gt;
 
 
-&lt;p class="wp-block-paragraph"&gt;By 2018, OpenAI pioneered its first large language model in the GPT series, pretrained on massive amounts of internet data and a large clusters of GPUs. GPT models excelled at text processing, eventually leading to ChatGPT, but struggled with basic math.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;It took until 2023 for OpenAI to achieve a breakthrough, initially dubbed “Q*” and then “Strawberry,” by combining LLMs, RL, and a technique called test-time computation. The latter gave the models extra time and computing power to plan and work through problems, verifying its steps, before providing an answer. &lt;/p&gt;
+&lt;p&gt;The way I see it, in the near future, the most valuable people in tech won’t be the ones who write perfect code. They will be those who know what should be built, why it matters and how to get an AI system to do most of the work cleanly and efficiently. In other words, the coder of tomorrow looks more like a product manager with solid technical expertise.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This allowed OpenAI to introduce a new approach called “chain-of-thought” (CoT), which improved AI’s performance on math questions the models hadn’t seen before.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“I could see the model starting to reason,” said El Kishky. “It would notice mistakes and backtrack, it would get frustrated. It really felt like reading the thoughts of a person.”&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Though individually these techniques weren’t novel, OpenAI uniquely combined them to create Strawberry, which directly led to the development of o1. OpenAI quickly identified that the planning and fact checking abilities of AI reasoning models could be useful to power AI agents.&lt;/p&gt;
+&lt;h2 class="wp-block-heading" id="h-teams-are-changing-too"&gt;Teams are changing, too&lt;/h2&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“We had solved a problem that I had been banging my head against for a couple of years,” said Lightman. “It was one of the most exciting moments of my research career.”&lt;/p&gt;
 
-&lt;h2 class="wp-block-heading" id="h-scaling-reasoning"&gt;Scaling reasoning&lt;/h2&gt;
 
-&lt;p class="wp-block-paragraph"&gt;With AI reasoning models, OpenAI determined it had two new axes that would allow it to improve AI models: using more computational power during the post-training of AI models, and giving AI models more time and processing power while answering a question.&lt;/p&gt;
+&lt;p&gt;Based on everything we covered above, I also feel the need to point out that it is not just individuals who need to rethink their roles. Entire teams are shifting. Where we once had clearly defined roles — front-end developer, back-end specialist, DevOps engineer, QA tester — we will soon see one developer managing a whole pipeline with the help of AI.&lt;/p&gt;
 
 
 
+&lt;p&gt;AI-augmented developers will replace large teams that used to be necessary to move a project forward. In terms of efficiency, there is a lot to celebrate about this change — reduced communication time, faster results and higher bars for what one person can realistically accomplish.&lt;/p&gt;
 
 
 
+&lt;p&gt;But, of course, this does not mean teams will disappear altogether. It is just that the structure will change. Collaboration will focus more on strategic decisions, product alignment and making sure AI tools are being used responsibly and effectively. The human input will be less about implementation and more about direction.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“OpenAI, as a company, thinks a lot about not just the way things are, but the way things are going to scale,” said Lightman.&lt;/p&gt;
 
 
+&lt;h2 class="wp-block-heading" id="h-ai-is-creating-a-new-career-path"&gt;AI is creating a new career path&lt;/h2&gt;
 
 
 
+&lt;p&gt;If we look five to seven years ahead, I suspect that the idea of a “developer” as we know it today will have changed into something else entirely. We will likely see more hybrid roles — part developer, part designer, part product thinker. As already mentioned, the core part of the job won’t be to write code, but to shape ideas into working software using AI as your main creation tool. Or perhaps, even as a co-creator.&lt;/p&gt;
 
 
-&lt;p class="wp-block-paragraph"&gt;Shortly after the 2023 Strawberry breakthrough, OpenAI spun up an “Agents” team led by OpenAI researcher Daniel Selsam to make further progress on this new paradigm, two sources told TechCrunch. Although the team was called “Agents,”&amp;nbsp; OpenAI didn’t initially differentiate between reasoning models and agents as we think of them today. The company just wanted to make AI systems capable of completing complex tasks.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Eventually, the work of Selsam’s Agents team became part of a larger project to develop the o1 reasoning model, with leaders including OpenAI co-founder Ilya Sutskever, chief research officer Mark Chen, and chief scientist Jakub Pachocki.&lt;/p&gt;
+&lt;p&gt;Being technically fluent will still remain a crucial requirement — but it won’t be enough to simply know how to code. You will need to understand product thinking, user needs and how to manage AI’s output. It will be more about system design and strategic vision.&lt;/p&gt;
 
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Ilya Sutskever, Russian Israeli-Canadian computer scientist and co-founder and Chief Scientist of OpenAI." class="wp-image-2797714" height="453" src="https://techcrunch.com/wp-content/uploads/2024/06/019A7E29-3482-4F68-9A29-624BA22F0334.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Ilya Sutskever, Russian Israeli-Canadian computer scientist and co-founder and Chief Scientist of OpenAI, speaks at Tel Aviv University in Tel Aviv on June 5, 2023. (Photo by JACK GUEZ / AFP)&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;OpenAI would have to divert precious resources — mainly talent and GPUs — to create o1. Throughout OpenAI’s history, researchers have had to negotiate with company leaders to obtain resources; demonstrating breakthroughs was a surefire way to secure them.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“One of the core components of OpenAI is that everything in research is bottom up,” said Lightman. “When we showed the evidence [for o1], the company was like, ‘This makes sense, let’s push on it.’”&lt;/p&gt;
+&lt;p&gt;For some, this may sound intimidating, but for others, it will also open many doors. People with creativity and a knack for problem-solving will have huge opportunities ahead of them.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Some former employees say that the startup’s mission to develop AGI was the key factor in achieving breakthroughs around AI reasoning models. By focusing on developing the smartest-possible AI models, rather than products, OpenAI was able to prioritize o1 above other efforts.&amp;nbsp;That type of large investment in ideas wasn’t always possible at competing AI labs.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The decision to try new training methods proved prescient. By late 2024, several leading AI labs started seeing diminishing returns on models created through traditional pretraining scaling. Today, much of the AI field’s momentum comes from advances in reasoning models.&lt;/p&gt;
 
-&lt;h2 class="wp-block-heading" id="h-what-does-it-mean-for-an-ai-to-reason"&gt;&lt;strong&gt;What does it mean for an AI to “reason?”&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The landscape is shifting, yes — there is no escaping that fact. But for those willing to adapt, one could argue it is shifting in their favor. The end of junior coding is not the end of learning. It is a sign that we need to reconsider what kind of talents we grow, how we structure teams and what makes someone a great developer.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;In many ways, the goal of AI research is to recreate human intelligence with computers. Since the launch of o1, ChatGPT’s UX has been filled with more human-sounding features such as “thinking” and “reasoning.”&lt;/p&gt;
 
 
+&lt;p&gt;To my mind, instead of mourning the loss of basic tasks, the industry as a whole should focus on building the skills that cannot be automated. At least, not yet. That means implementing a hybrid approach and learning how to work with AI as a partner rather than a competitor.&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;em&gt;Roman Eloshvili is founder of ComplyControl.&lt;/em&gt;&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
 
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/programming-development/why-tomorrows-best-devs-wont-just-code-theyll-curate-coordinate-and-command-ai/</guid><pubDate>Sun, 03 Aug 2025 20:05:00 +0000</pubDate></item><item><title>[NEW] Apple might be building its own AI ‘answer engine’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Apple has formed a new team to build a ChatGPT-like app, according to according to Bloomberg’s Mark Gurman.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;When asked whether OpenAI’s models were truly reasoning, El Kishky hedged, saying he thinks about the concept in terms of computer science. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;This team — reportedly called Answers, Knowledge, and Information — is working to build an “answer engine” that can respond to questions using information from across the web. This could be a standalone app or provide search capabilities in Siri, Safari, and other Apple products.&lt;/p&gt;
 
 
 
@@ -725,68 +537,18 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;“We’re teaching the model how to efficiently expend compute to get an answer. So if you define it that way, yes, it is reasoning,” said El Kishky.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Gurman also notes that Apple is advertising for jobs with this team, specifically looking for applicants who have experience with search algorithms and engine development.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Lightman takes the approach of focusing on the model’s results and not as much on the means or their relation to human brains.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;While Apple has already integrated ChatGPT into Siri, a more personalized, AI-powered update to the voice assistant has been repeatedly delayed. Apple might also have to alter its search deal with Google as a result of the latter company’s antitrust defeat.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Apple has formed a new team to build a ChatGPT-like app, according to according to Bloomberg’s Mark Gurman.&lt;/p&gt;
 
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="The OpenAI logo on screen at their developer day stage." class="wp-image-2625161" height="454" src="https://techcrunch.com/wp-content/uploads/2023/11/img_5619.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;The OpenAI logo on screen at their developer day stage. (Credit: Devin Coldeway)&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Devin Coldewey&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;This team — reportedly called Answers, Knowledge, and Information — is working to build an “answer engine” that can respond to questions using information from across the web. This could be a standalone app or provide search capabilities in Siri, Safari, and other Apple products.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“If the model is doing hard things, then it is doing whatever necessary approximation of reasoning it needs in order to do that,” said Lightman. “We can call it reasoning, because it looks like these reasoning traces, but it’s all just a proxy for trying to make AI tools that are really powerful and useful to a lot of people.”&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s researchers note people may disagree with their nomenclature or definitions of reasoning — and surely, critics have emerged — but they argue it’s less important than the capabilities of their models. Other AI researchers tend to agree.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Nathan Lambert, an AI researcher with the non-profit AI2, compares AI reasoning modes to airplanes in a blog post. Both, he says, are manmade systems inspired by nature — human reasoning and bird flight, respectively — but they operate through entirely different mechanisms. That doesn’t make them any less useful, or any less capable of achieving similar outcomes.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;A group of AI researchers from OpenAI, Anthropic, and Google DeepMind agreed in a recent position paper that AI reasoning models are not well understood today, and more research is needed. It may be too early to confidently claim what exactly is going on inside them.&lt;/p&gt;
 
-&lt;h2 class="wp-block-heading" id="h-the-next-frontier-ai-agents-for-subjective-tasks"&gt;&lt;strong&gt;The next frontier: AI agents for subjective tasks&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The AI agents on the market today work best for well-defined, verifiable domains such as coding. OpenAI’s Codex agent aims to help software engineers offload simple coding tasks. Meanwhile, Anthropic’s models have become particularly popular in AI coding tools like Cursor and Claude Code — these are some of the first AI agents that people are willing to pay up for.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Gurman also notes that Apple is advertising for jobs with this team, specifically looking for applicants who have experience with search algorithms and engine development.&lt;/p&gt;
 
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;However, general purpose AI agents like OpenAI’s ChatGPT Agent and Perplexity’s Comet struggle with many of the complex, subjective tasks people want to automate. When trying to use these tools for online shopping or finding a long-term parking spot, I’ve found the agents take longer than I’d like and make silly mistakes.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Agents are, of course, early systems that will undoubtedly improve. But researchers must first figure out how to better train the underlying models to complete tasks that are more subjective.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3033358" height="453" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2197821080.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AI applications (Photo by Jonathan Raa/NurPhoto via Getty Images)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Like many problems in machine learning, it’s a data problem,” said Lightman, when asked about the limitations of agents on subjective tasks. “Some of the research I’m really excited about right now is figuring out how to train on less verifiable tasks. We have some leads on how to do these things.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Noam Brown, an OpenAI researcher who helped create the IMO model and o1, told TechCrunch that OpenAI has new general-purpose RL techniques which allow them to teach AI models skills that aren’t easily verified. This was how the company built the model which achieved a gold medal at IMO, he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s IMO model was a newer AI system that spawns multiple agents, which then simultaneously explore several ideas, and then choose the best possible answer. These types of AI models are becoming more popular; Google and xAI have recently released state-of-the-art models using this technique.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I think these models will become more capable at math, and I think they’ll get more capable in other reasoning areas as well,” said Brown. “The progress has been incredibly fast. I don’t see any reason to think it will slow down.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;These techniques may help OpenAI’s models become more performant, gains that could show up in the company’s upcoming GPT-5 model. OpenAI hopes to assert its dominance over competitors with the launch of GPT-5, ideally offering the best AI model to power agents for developers and consumers. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But the company also wants to make its products simpler to use. El Kishky says OpenAI wants to develop AI agents that intuitively understand what users want, without requiring them to select specific settings. He says OpenAI aims to build AI systems that understand when to call up certain tools, and how long to reason for.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;These ideas paint a picture of an ultimate version of ChatGPT: an agent that can do anything on the internet for you, and understand how you want it to be done. That’s a much different product than what ChatGPT is today, but the company’s research is squarely headed in this direction.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;While OpenAI undoubtedly led the AI industry a few years ago, the company now faces a tranche of worthy opponents. The question is no longer just whether OpenAI can deliver its agentic future, but can the company do so before Google, Anthropic, xAI, or Meta beat them to it?&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-for-you/</guid><pubDate>Sun, 03 Aug 2025 14:00:00 +0000</pubDate></item><item><title>[NEW] Why the AI era is forcing a redesign of the entire compute backbone (AI News | VentureBeat)</title><link>https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-entire-compute-backbone/</link><description>[unable to retrieve full-text content]&lt;p&gt;&lt;span class="ARTICLELISTING__LABEL"&gt;&lt;span class="ARTICLE-TYPE"&gt;GUEST:&lt;/span&gt;&lt;/span&gt; The past few decades have seen almost unimaginable advances in compute performance and efficiency, enabled by Moore’s Law and underpinned by scale-out commodity hardware and loosely coupled software. This architecture has delivered online services to billions globally and put virtually all of human knowledge at our fingertips. But the next computing revolution will demand much&amp;#160;[&amp;#8230;]
-&lt;/p&gt;</description><content:encoded>[unable to retrieve full-text content]&lt;p&gt;&lt;span class="ARTICLELISTING__LABEL"&gt;&lt;span class="ARTICLE-TYPE"&gt;GUEST:&lt;/span&gt;&lt;/span&gt; The past few decades have seen almost unimaginable advances in compute performance and efficiency, enabled by Moore’s Law and underpinned by scale-out commodity hardware and loosely coupled software. This architecture has delivered online services to billions globally and put virtually all of human knowledge at our fingertips. But the next computing revolution will demand much&amp;#160;[&amp;#8230;]
-&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-entire-compute-backbone/</guid><pubDate>Sun, 03 Aug 2025 18:05:00 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;While Apple has already integrated ChatGPT into Siri, a more personalized, AI-powered update to the voice assistant has been repeatedly delayed. Apple might also have to alter its search deal with Google as a result of the latter company’s antitrust defeat.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/</guid><pubDate>Sun, 03 Aug 2025 21:49:00 +0000</pubDate></item></channel></rss>
