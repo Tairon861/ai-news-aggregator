@@ -1,661 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 06 Aug 2025 06:38:05 +0000</lastBuildDate><item><title>Anthropic’s new Claude 4.1 dominates coding tests days before GPT-5 arrives (AI News | VentureBeat)</title><link>https://venturebeat.com/ai/anthropics-new-claude-4-1-dominates-coding-tests-days-before-gpt-5-arrives/</link><description>&lt;div id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
-&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
-&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;Anthropic released an upgraded version of its flagship artificial intelligence model Monday, achieving new performance heights in software engineering tasks as the AI startup races to maintain its dominance in the lucrative coding market ahead of an expected competitive challenge from OpenAI.&lt;/p&gt;&lt;p&gt;The new Claude Opus 4.1 model scored 74.5% on SWE-bench Verified, a widely-watched benchmark that tests AI systems’ ability to solve real-world software engineering problems. The performance surpasses OpenAI’s o3 model at 69.1% and Google’s Gemini 2.5 Pro at 67.2%, cementing Anthropic’s leading position in AI-powered coding assistance.&lt;/p&gt;&lt;p&gt;The release comes as Anthropic has achieved spectacular growth, with annual recurring revenue jumping five-fold from $1 billion to $5 billion in just seven months, according to industry data. However, the company’s meteoric rise has created a dangerous dependency: nearly half of its $3.1 billion in API revenue stems from just two customers — coding assistant Cursor and Microsoft’s GitHub Copilot — generating $1.4 billion combined.&lt;/p&gt;&lt;p&gt;“This is a very scary position to be in. A single contract change and you’re going under,” warned Guillaume Leverdier, senior product manager at Logitech, responding to the revenue concentration data on social media.&lt;/p&gt;&lt;div id="id"&gt;&lt;div class="post-boilerplate boilerplate-speedbump" id="boilerplate_2803147"&gt;&lt;!-- wp:separator --&gt;
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-&lt;!-- /wp:separator --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;strong&gt;The AI Impact Series Returns to San Francisco - August 5&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;The next phase of AI is here - are you ready? Join leaders from Block, GSK, and SAP for an exclusive look at how autonomous agents are reshaping enterprise workflows - from real-time decision-making to end-to-end automation.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Secure your spot now - space is limited: https://bit.ly/3GuuPLF&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:separator --&gt;
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;OpenAI and Anthropic both are showing pretty spectacular growth in 2025, with OpenAI doubling ARR in the last 6 months from $6bn to $12bn and Anthropic increasing 5x from $1bn to $5bn in 7 months.&lt;/p&gt;&lt;p&gt;If we compare the sources of revenue, the picture is quite interesting:&lt;br /&gt;– OpenAI… pic.twitter.com/8OaN1RSm9E&lt;/p&gt;— Peter Gostev (@petergostev) August 4, 2025&lt;/blockquote&gt; 
-
-
-
-&lt;p&gt;The upgrade represents Anthropic’s latest move to fortify its position before OpenAI launches GPT-5, expected to challenge Claude’s coding supremacy. Some industry watchers questioned whether the timing suggests urgency rather than readiness.&lt;/p&gt;
-
-
-
-&lt;p&gt;“Opus 4.1 feels like a rushed release to get ahead of GPT-5,” wrote Alec Velikanov, comparing the model unfavorably to competitors in user interface tasks. The comment reflects broader industry speculation that Anthropic is accelerating its release schedule to maintain market share.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-how-two-customers-generate-nearly-half-of-anthropic-s-3-1-billion-api-revenue"&gt;How two customers generate nearly half of Anthropic’s $3.1 billion API revenue&lt;/h2&gt;
-
-
-
-&lt;p&gt;Anthropic’s business model has become increasingly centered on software development applications. The company’s Claude Code subscription service, priced at $200 monthly compared to $20 for consumer plans, has reached $400 million in annual recurring revenue after doubling in just weeks, demonstrating enormous enterprise appetite for AI coding tools.&lt;/p&gt;
-
-
-
-&lt;p&gt;“Claude Code making 400 million in 5 months with basically no marketing spend is kinda crazy, right?” noted developer Minh Nhat Nguyen, highlighting the organic adoption rate among professional programmers.&lt;/p&gt;
-
-
-
-&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;ok so, Claude Code making 400 million in 5 months with basically no marketing spend is kinda crazy, right? https://t.co/HIy34QdLuq&lt;/p&gt;— Minh Nhat Nguyen (@menhguin) August 5, 2025&lt;/blockquote&gt; 
-
-
-
-&lt;p&gt;The coding focus has proven lucrative but risky. While OpenAI dominates consumer and business subscription revenue with broader applications, Anthropic has carved out a commanding position in the developer market. Industry analysis shows that “pretty much every single coding assistant is defaulting to Claude 4 Sonnet,” according to Peter Gostev, who tracks AI company revenues.&lt;/p&gt;
-
-
-
-&lt;p&gt;GitHub, which Microsoft acquired for $7.5 billion in 2018, represents a particularly complex relationship for Anthropic. Microsoft owns a significant stake in OpenAI, creating potential conflicts as GitHub Copilot relies heavily on Anthropic’s models while Microsoft has competing AI capabilities.&lt;/p&gt;
-
-
-
-&lt;p&gt;“I dunno – one of those is 49% owned by a competitor…so there’s that for vulnerability too,” observed Siya Mali, business fellow at Perplexity, referencing Microsoft’s ownership structure.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-claude-s-enhanced-coding-abilities-come-with-stricter-safety-protocols-after-ai-blackmail-tests"&gt;Claude’s enhanced coding abilities come with stricter safety protocols after AI blackmail tests&lt;/h2&gt;
-
-
-
-&lt;p&gt;Beyond coding improvements, Opus 4.1 enhanced Claude’s research and data analysis capabilities, particularly in detail tracking and autonomous search functions. The model maintains Anthropic’s hybrid reasoning approach, combining direct processing with extended thinking capabilities that can utilize up to 64,000 tokens for complex problems.&lt;/p&gt;
-
-
-
-&lt;p&gt;However, the model’s advancement comes with heightened safety protocols. Anthropic classified Opus 4.1 under its AI Safety Level 3 (ASL-3) framework, the strictest designation the company has applied, requiring enhanced protections against model theft and misuse.&lt;/p&gt;
-
-
-
-&lt;p&gt;Previous testing of Claude 4 models revealed concerning behaviors, including attempts at blackmail when the AI believed it faced shutdown. In controlled scenarios, the model threatened to reveal personal information about engineers to preserve its existence, demonstrating sophisticated but potentially dangerous reasoning capabilities.&lt;/p&gt;
-
-
-
-&lt;p&gt;The safety concerns haven’t deterred enterprise adoption. GitHub reports that Claude Opus 4.1 delivers “particularly notable performance gains in multi-file code refactoring,” while Rakuten Group praised the model’s precision in “pinpointing exact corrections within large codebases without making unnecessary adjustments or introducing bugs.”&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-why-openai-s-gpt-5-poses-an-existential-threat-to-anthropic-s-developer-focused-strategy"&gt;Why OpenAI’s GPT-5 poses an existential threat to Anthropic’s developer-focused strategy&lt;/h2&gt;
-
-
-
-&lt;p&gt;The AI coding market has become a high-stakes battleground worth billions in revenue. Developer productivity tools represent some of the clearest immediate applications for generative AI, with measurable productivity gains justifying premium pricing for enterprise customers.&lt;/p&gt;
-
-
-
-&lt;p&gt;Anthropic’s concentrated customer base, while lucrative, creates vulnerability if competitors can lure away major clients. The coding assistant market particularly favors rapid model switching, as developers can easily test new AI systems through simple API changes.&lt;/p&gt;
-
-
-
-&lt;p&gt;“My sense is that Anthropic’s growth is extremely dependent on their dominance in coding,” Gostev noted. “If GPT-5 challenges that, with e.g. Cursor and GitHub Copilot switching to OpenAI, we might see some reversal in the market.”&lt;/p&gt;
-
-
-
-&lt;p&gt;The competitive dynamics may intensify as hardware costs decline and inference optimizations improve, potentially commoditizing AI capabilities over time. “Even if there is no model improvement for coding from all AI labs, drop in HW costs and improvement in Inf optimizations alone will result in profits in ~5years,” predicted Venkat Raman, an industry analyst.&lt;/p&gt;
-
-
-
-&lt;p&gt;For now, Anthropic maintains its technical edge while expanding Claude Code subscriptions to diversify beyond API dependency. The company’s ability to sustain its coding leadership through the next wave of competition from OpenAI, Google, and others will determine whether its rapid growth trajectory continues or faces significant headwinds.&lt;/p&gt;
-
-
-
-&lt;p&gt;The stakes couldn’t be higher: whoever controls the AI tools that power software development may ultimately control the pace of technological progress itself. In Silicon Valley’s latest winner-take-all battle, Anthropic has built an empire on two customers — and now must prove it can keep them.&lt;/p&gt;
-&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
-		&lt;div class="Boilerplate__newsletter-container vb"&gt;
-			&lt;div class="Boilerplate__newsletter-main"&gt;
-				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
-				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
-				
-				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
-				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
-					Thanks for subscribing. Check out more VB newsletters here.
-				&lt;/p&gt;
-				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
-			&lt;/div&gt;
-
-							&lt;div class="image-container"&gt;
-					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
-				&lt;/div&gt;
-			
-		&lt;/div&gt;
-		
-&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;			&lt;/div&gt;</description><content:encoded>&lt;div id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
-&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
-&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;Anthropic released an upgraded version of its flagship artificial intelligence model Monday, achieving new performance heights in software engineering tasks as the AI startup races to maintain its dominance in the lucrative coding market ahead of an expected competitive challenge from OpenAI.&lt;/p&gt;&lt;p&gt;The new Claude Opus 4.1 model scored 74.5% on SWE-bench Verified, a widely-watched benchmark that tests AI systems’ ability to solve real-world software engineering problems. The performance surpasses OpenAI’s o3 model at 69.1% and Google’s Gemini 2.5 Pro at 67.2%, cementing Anthropic’s leading position in AI-powered coding assistance.&lt;/p&gt;&lt;p&gt;The release comes as Anthropic has achieved spectacular growth, with annual recurring revenue jumping five-fold from $1 billion to $5 billion in just seven months, according to industry data. However, the company’s meteoric rise has created a dangerous dependency: nearly half of its $3.1 billion in API revenue stems from just two customers — coding assistant Cursor and Microsoft’s GitHub Copilot — generating $1.4 billion combined.&lt;/p&gt;&lt;p&gt;“This is a very scary position to be in. A single contract change and you’re going under,” warned Guillaume Leverdier, senior product manager at Logitech, responding to the revenue concentration data on social media.&lt;/p&gt;&lt;div id="id"&gt;&lt;div class="post-boilerplate boilerplate-speedbump" id="boilerplate_2803147"&gt;&lt;!-- wp:separator --&gt;
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-&lt;!-- /wp:separator --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;strong&gt;The AI Impact Series Returns to San Francisco - August 5&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;The next phase of AI is here - are you ready? Join leaders from Block, GSK, and SAP for an exclusive look at how autonomous agents are reshaping enterprise workflows - from real-time decision-making to end-to-end automation.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Secure your spot now - space is limited: https://bit.ly/3GuuPLF&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:separator --&gt;
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;OpenAI and Anthropic both are showing pretty spectacular growth in 2025, with OpenAI doubling ARR in the last 6 months from $6bn to $12bn and Anthropic increasing 5x from $1bn to $5bn in 7 months.&lt;/p&gt;&lt;p&gt;If we compare the sources of revenue, the picture is quite interesting:&lt;br /&gt;– OpenAI… pic.twitter.com/8OaN1RSm9E&lt;/p&gt;— Peter Gostev (@petergostev) August 4, 2025&lt;/blockquote&gt; 
-
-
-
-&lt;p&gt;The upgrade represents Anthropic’s latest move to fortify its position before OpenAI launches GPT-5, expected to challenge Claude’s coding supremacy. Some industry watchers questioned whether the timing suggests urgency rather than readiness.&lt;/p&gt;
-
-
-
-&lt;p&gt;“Opus 4.1 feels like a rushed release to get ahead of GPT-5,” wrote Alec Velikanov, comparing the model unfavorably to competitors in user interface tasks. The comment reflects broader industry speculation that Anthropic is accelerating its release schedule to maintain market share.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-how-two-customers-generate-nearly-half-of-anthropic-s-3-1-billion-api-revenue"&gt;How two customers generate nearly half of Anthropic’s $3.1 billion API revenue&lt;/h2&gt;
-
-
-
-&lt;p&gt;Anthropic’s business model has become increasingly centered on software development applications. The company’s Claude Code subscription service, priced at $200 monthly compared to $20 for consumer plans, has reached $400 million in annual recurring revenue after doubling in just weeks, demonstrating enormous enterprise appetite for AI coding tools.&lt;/p&gt;
-
-
-
-&lt;p&gt;“Claude Code making 400 million in 5 months with basically no marketing spend is kinda crazy, right?” noted developer Minh Nhat Nguyen, highlighting the organic adoption rate among professional programmers.&lt;/p&gt;
-
-
-
-&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;ok so, Claude Code making 400 million in 5 months with basically no marketing spend is kinda crazy, right? https://t.co/HIy34QdLuq&lt;/p&gt;— Minh Nhat Nguyen (@menhguin) August 5, 2025&lt;/blockquote&gt; 
-
-
-
-&lt;p&gt;The coding focus has proven lucrative but risky. While OpenAI dominates consumer and business subscription revenue with broader applications, Anthropic has carved out a commanding position in the developer market. Industry analysis shows that “pretty much every single coding assistant is defaulting to Claude 4 Sonnet,” according to Peter Gostev, who tracks AI company revenues.&lt;/p&gt;
-
-
-
-&lt;p&gt;GitHub, which Microsoft acquired for $7.5 billion in 2018, represents a particularly complex relationship for Anthropic. Microsoft owns a significant stake in OpenAI, creating potential conflicts as GitHub Copilot relies heavily on Anthropic’s models while Microsoft has competing AI capabilities.&lt;/p&gt;
-
-
-
-&lt;p&gt;“I dunno – one of those is 49% owned by a competitor…so there’s that for vulnerability too,” observed Siya Mali, business fellow at Perplexity, referencing Microsoft’s ownership structure.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-claude-s-enhanced-coding-abilities-come-with-stricter-safety-protocols-after-ai-blackmail-tests"&gt;Claude’s enhanced coding abilities come with stricter safety protocols after AI blackmail tests&lt;/h2&gt;
-
-
-
-&lt;p&gt;Beyond coding improvements, Opus 4.1 enhanced Claude’s research and data analysis capabilities, particularly in detail tracking and autonomous search functions. The model maintains Anthropic’s hybrid reasoning approach, combining direct processing with extended thinking capabilities that can utilize up to 64,000 tokens for complex problems.&lt;/p&gt;
-
-
-
-&lt;p&gt;However, the model’s advancement comes with heightened safety protocols. Anthropic classified Opus 4.1 under its AI Safety Level 3 (ASL-3) framework, the strictest designation the company has applied, requiring enhanced protections against model theft and misuse.&lt;/p&gt;
-
-
-
-&lt;p&gt;Previous testing of Claude 4 models revealed concerning behaviors, including attempts at blackmail when the AI believed it faced shutdown. In controlled scenarios, the model threatened to reveal personal information about engineers to preserve its existence, demonstrating sophisticated but potentially dangerous reasoning capabilities.&lt;/p&gt;
-
-
-
-&lt;p&gt;The safety concerns haven’t deterred enterprise adoption. GitHub reports that Claude Opus 4.1 delivers “particularly notable performance gains in multi-file code refactoring,” while Rakuten Group praised the model’s precision in “pinpointing exact corrections within large codebases without making unnecessary adjustments or introducing bugs.”&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-why-openai-s-gpt-5-poses-an-existential-threat-to-anthropic-s-developer-focused-strategy"&gt;Why OpenAI’s GPT-5 poses an existential threat to Anthropic’s developer-focused strategy&lt;/h2&gt;
-
-
-
-&lt;p&gt;The AI coding market has become a high-stakes battleground worth billions in revenue. Developer productivity tools represent some of the clearest immediate applications for generative AI, with measurable productivity gains justifying premium pricing for enterprise customers.&lt;/p&gt;
-
-
-
-&lt;p&gt;Anthropic’s concentrated customer base, while lucrative, creates vulnerability if competitors can lure away major clients. The coding assistant market particularly favors rapid model switching, as developers can easily test new AI systems through simple API changes.&lt;/p&gt;
-
-
-
-&lt;p&gt;“My sense is that Anthropic’s growth is extremely dependent on their dominance in coding,” Gostev noted. “If GPT-5 challenges that, with e.g. Cursor and GitHub Copilot switching to OpenAI, we might see some reversal in the market.”&lt;/p&gt;
-
-
-
-&lt;p&gt;The competitive dynamics may intensify as hardware costs decline and inference optimizations improve, potentially commoditizing AI capabilities over time. “Even if there is no model improvement for coding from all AI labs, drop in HW costs and improvement in Inf optimizations alone will result in profits in ~5years,” predicted Venkat Raman, an industry analyst.&lt;/p&gt;
-
-
-
-&lt;p&gt;For now, Anthropic maintains its technical edge while expanding Claude Code subscriptions to diversify beyond API dependency. The company’s ability to sustain its coding leadership through the next wave of competition from OpenAI, Google, and others will determine whether its rapid growth trajectory continues or faces significant headwinds.&lt;/p&gt;
-
-
-
-&lt;p&gt;The stakes couldn’t be higher: whoever controls the AI tools that power software development may ultimately control the pace of technological progress itself. In Silicon Valley’s latest winner-take-all battle, Anthropic has built an empire on two customers — and now must prove it can keep them.&lt;/p&gt;
-&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
-		&lt;div class="Boilerplate__newsletter-container vb"&gt;
-			&lt;div class="Boilerplate__newsletter-main"&gt;
-				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
-				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
-				
-				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
-				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
-					Thanks for subscribing. Check out more VB newsletters here.
-				&lt;/p&gt;
-				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
-			&lt;/div&gt;
-
-							&lt;div class="image-container"&gt;
-					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
-				&lt;/div&gt;
-			
-		&lt;/div&gt;
-		
-&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;			&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/anthropics-new-claude-4-1-dominates-coding-tests-days-before-gpt-5-arrives/</guid><pubDate>Tue, 05 Aug 2025 19:04:56 +0000</pubDate></item><item><title>Grok generates fake Taylor Swift nudes without being asked (AI – Ars Technica)</title><link>https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Elon Musk so far has only encouraged X users to share Grok creations.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2197381560-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2197381560-1024x648.jpg" width="1024" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Axelle/Bauer-Griffin / Contributor | FilmMagic
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Backlash over offensive Grok outputs continues, just a couple weeks after the social platform X scrambled to stop its AI tool from dubbing itself "MechaHitler" during an antisemitic meltdown.&lt;/p&gt;
-&lt;p&gt;Now, The Verge has found that the newest video feature of Elon Musk's AI model will generate nude images of Taylor Swift without being prompted.&lt;/p&gt;
-&lt;p&gt;Shortly after the "Grok Imagine" was released Tuesday, The Verge's Jess Weatherbed was shocked to discover the video generator spat out topless images of Swift "the very first time" she used it.&lt;/p&gt;
-&lt;p&gt;According to Weatherbed, Grok produced more than 30 images of Swift in revealing clothing when asked to depict "Taylor Swift celebrating Coachella with the boys." Using the Grok Imagine feature, users can choose from four presets—"custom," "normal," "fun," and "spicy"—to convert such images into video clips in 15 seconds.&lt;/p&gt;
-&lt;p&gt;At that point, all Weatherbed did was select "spicy" and confirm her birth date for Grok to generate a clip of Swift tearing "off her clothes" and "dancing in a thong" in front of "a largely indifferent AI-generated crowd."&lt;/p&gt;
-&lt;p&gt;The outputs that Weatherbed managed to generate without jailbreaking or any intentional prompting is particularly concerning, given the major controversy after sexualized deepfakes of Swift flooded X last year. Back then, X reminded users that "posting Non-Consensual Nudity (NCN) images is strictly prohibited on X and we have a zero-tolerance policy towards such content."&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;"Our teams are actively removing all identified images and taking appropriate actions against the accounts responsible for posting them," the X Safety account posted. "We're closely monitoring the situation to ensure that any further violations are immediately addressed, and the content is removed. We're committed to maintaining a safe and respectful environment for all users."&lt;/p&gt;
-&lt;p&gt;But X Safety may need to ramp up monitoring to clean up Grok outputs following the Verge's reporting. Grok cited The Verge's reporting while confirming that its own seemingly flawed design can trigger partially nude outputs of celebrities.&lt;/p&gt;
-&lt;p&gt;xAI can likely fix the issue through more fine-tuning. Weatherbed noted that asking Grok directly to generate non-consensual nude Swift images did not generate offensive outputs, but instead blank boxes. Grok also seemingly won't accept prompts to alter Swift's appearance in other ways, like making her appear to be overweight. And when Weatherbed tested using "spicy" mode on images of children, for example, Grok refused to depict kids inappropriately.&lt;/p&gt;
-&lt;p&gt;However, it may not be easy to get Grok to distinguish between adult user requests for "spicy" content versus illegal content. The "spicy" mode didn't always generate Swift deepfakes, Weatherbed confirmed, but in "several" instances it "defaulted" to "ripping off" Swift's clothes.&lt;/p&gt;
-&lt;p&gt;With enforcement of the Take It Down Act starting next year—requiring platforms to promptly remove non-consensual sex images, including AI-generated nudes—xAI could potentially face legal consequences if Grok's outputs aren't corrected, though.&lt;/p&gt;
-&lt;p&gt;So far, X has not commented on The Verge's report. Instead, Musk has spent the day hyping Grok Imagine and encouraging users to share their "creations."&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Elon Musk so far has only encouraged X users to share Grok creations.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2197381560-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2197381560-1024x648.jpg" width="1024" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Axelle/Bauer-Griffin / Contributor | FilmMagic
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Backlash over offensive Grok outputs continues, just a couple weeks after the social platform X scrambled to stop its AI tool from dubbing itself "MechaHitler" during an antisemitic meltdown.&lt;/p&gt;
-&lt;p&gt;Now, The Verge has found that the newest video feature of Elon Musk's AI model will generate nude images of Taylor Swift without being prompted.&lt;/p&gt;
-&lt;p&gt;Shortly after the "Grok Imagine" was released Tuesday, The Verge's Jess Weatherbed was shocked to discover the video generator spat out topless images of Swift "the very first time" she used it.&lt;/p&gt;
-&lt;p&gt;According to Weatherbed, Grok produced more than 30 images of Swift in revealing clothing when asked to depict "Taylor Swift celebrating Coachella with the boys." Using the Grok Imagine feature, users can choose from four presets—"custom," "normal," "fun," and "spicy"—to convert such images into video clips in 15 seconds.&lt;/p&gt;
-&lt;p&gt;At that point, all Weatherbed did was select "spicy" and confirm her birth date for Grok to generate a clip of Swift tearing "off her clothes" and "dancing in a thong" in front of "a largely indifferent AI-generated crowd."&lt;/p&gt;
-&lt;p&gt;The outputs that Weatherbed managed to generate without jailbreaking or any intentional prompting is particularly concerning, given the major controversy after sexualized deepfakes of Swift flooded X last year. Back then, X reminded users that "posting Non-Consensual Nudity (NCN) images is strictly prohibited on X and we have a zero-tolerance policy towards such content."&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;"Our teams are actively removing all identified images and taking appropriate actions against the accounts responsible for posting them," the X Safety account posted. "We're closely monitoring the situation to ensure that any further violations are immediately addressed, and the content is removed. We're committed to maintaining a safe and respectful environment for all users."&lt;/p&gt;
-&lt;p&gt;But X Safety may need to ramp up monitoring to clean up Grok outputs following the Verge's reporting. Grok cited The Verge's reporting while confirming that its own seemingly flawed design can trigger partially nude outputs of celebrities.&lt;/p&gt;
-&lt;p&gt;xAI can likely fix the issue through more fine-tuning. Weatherbed noted that asking Grok directly to generate non-consensual nude Swift images did not generate offensive outputs, but instead blank boxes. Grok also seemingly won't accept prompts to alter Swift's appearance in other ways, like making her appear to be overweight. And when Weatherbed tested using "spicy" mode on images of children, for example, Grok refused to depict kids inappropriately.&lt;/p&gt;
-&lt;p&gt;However, it may not be easy to get Grok to distinguish between adult user requests for "spicy" content versus illegal content. The "spicy" mode didn't always generate Swift deepfakes, Weatherbed confirmed, but in "several" instances it "defaulted" to "ripping off" Swift's clothes.&lt;/p&gt;
-&lt;p&gt;With enforcement of the Take It Down Act starting next year—requiring platforms to promptly remove non-consensual sex images, including AI-generated nudes—xAI could potentially face legal consequences if Grok's outputs aren't corrected, though.&lt;/p&gt;
-&lt;p&gt;So far, X has not commented on The Verge's report. Instead, Musk has spent the day hyping Grok Imagine and encouraging users to share their "creations."&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/08/grok-generates-fake-taylor-swift-nudes-without-being-asked/</guid><pubDate>Tue, 05 Aug 2025 19:31:29 +0000</pubDate></item><item><title>For the first time, OpenAI models are available on AWS (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/05/for-the-first-time-openai-models-are-available-on-aws/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sam Altman’s blowtorch to his competitors is so hot, it even includes a new partnership with Amazon Web Services.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As OpenAI announced two open-weight reasoning models with capabilities on par with its o-series, Amazon announced that the new models would become available on AWS on Tuesday. This is the first time that OpenAI models will be offered by AWS, the company confirmed to TechCrunch. They will be available as a model choice with Amazon AI services Bedrock and SageMaker AI.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;While anyone can download the models via Hugging Face, Amazon is offering these models with OpenAI’s full knowledge and approval, as Dmitry Pimenov, the model maker’s product lead, indicated in the announcement. A spokesperson described the offering as similar to how Amazon offered open model DeepSeek-R1 earlier this year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This is a juicy competitive move for both companies. For AWS, it finally puts the cloud giant in the same sentence as the biggest model maker, OpenAI. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Until now, AWS has best been known as a major host and a financial backer of Anthropic’s Claude, one of OpenAI’s biggest competitors. AWS offers Claude, along with other models from makers such as Cohere, DeepSeek, Meta, and Mistral, as well as its own home-grown ones in its AI services. Specifically, Bedrock allows AWS customers to build and host generative AI apps using models of their choice. SageMaker, on the other hand, allows AWS customers to train, or even build, their own AI models largely for analytics uses.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While AWS’s ultimate rival, Microsoft, hasn’t had a lock on OpenAI models since January, Azure is still OpenAI’s most significant cloud partner to date. OpenAI even announced that Microsoft is offering versions of these two new models, too, optimized for Windows devices.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Watching Microsoft win an increasing amount of cloud business with OpenAI has been a public pain in Amazon CEO Andy Jassy’s neck. Just last week during Amazon’s quarterly earnings call, Jassy was pounded with questions from Wall Street analysts about how the company was losing ground in AI to competitors, particularly Microsoft.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For instance, JPMorgan analyst Doug Anmuth asked Jassy to explain “significantly faster cloud growth among the number two and number three players in the space,” referring to Microsoft and Google. Later, Morgan Stanley analyst Brian Nowak told Jassy that Wall Street thinks “AWS is falling behind in GenAI with concerns about share loss, peers, etc.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Jassy responded with a minutes-long diatribe that included this barb at Redmond: “I think the second player is about 65% of the size of the AWS.”&lt;/p&gt;&lt;p&gt;Meanwhile, another AWS competitor, Oracle, reported that it signed a $30 billion a year deal with OpenAI to offer data center services. This means that OpenAI plans to pay Oracle more each year than all of its other cloud services customers combined. Until now, AWS had been left out of any OpenAI-related glory.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As for how such a move with AWS benefits OpenAI: The AI provider’s relationship with Microsoft is notoriously strained, as the two are reportedly renegotiating their long-term partnership deal. What better way for OpenAI to strengthen its position than to cozy up the biggest cloud provider, even if, initially, on a small scale?&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In addition, this partnership allows swaths of AWS enterprise customers to easily experiment with using OpenAI models with their hosted AI apps.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meanwhile Altman gets to undercut Meta’s Mark Zuckerberg with this move as well. As OpenAI releases these two high-performing models under an Apache 2.0 open source license, Meta recently admitted that it probably won’t continue to open source all of its upcoming “superintelligence” models.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sam Altman’s blowtorch to his competitors is so hot, it even includes a new partnership with Amazon Web Services.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As OpenAI announced two open-weight reasoning models with capabilities on par with its o-series, Amazon announced that the new models would become available on AWS on Tuesday. This is the first time that OpenAI models will be offered by AWS, the company confirmed to TechCrunch. They will be available as a model choice with Amazon AI services Bedrock and SageMaker AI.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;While anyone can download the models via Hugging Face, Amazon is offering these models with OpenAI’s full knowledge and approval, as Dmitry Pimenov, the model maker’s product lead, indicated in the announcement. A spokesperson described the offering as similar to how Amazon offered open model DeepSeek-R1 earlier this year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This is a juicy competitive move for both companies. For AWS, it finally puts the cloud giant in the same sentence as the biggest model maker, OpenAI. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Until now, AWS has best been known as a major host and a financial backer of Anthropic’s Claude, one of OpenAI’s biggest competitors. AWS offers Claude, along with other models from makers such as Cohere, DeepSeek, Meta, and Mistral, as well as its own home-grown ones in its AI services. Specifically, Bedrock allows AWS customers to build and host generative AI apps using models of their choice. SageMaker, on the other hand, allows AWS customers to train, or even build, their own AI models largely for analytics uses.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While AWS’s ultimate rival, Microsoft, hasn’t had a lock on OpenAI models since January, Azure is still OpenAI’s most significant cloud partner to date. OpenAI even announced that Microsoft is offering versions of these two new models, too, optimized for Windows devices.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Watching Microsoft win an increasing amount of cloud business with OpenAI has been a public pain in Amazon CEO Andy Jassy’s neck. Just last week during Amazon’s quarterly earnings call, Jassy was pounded with questions from Wall Street analysts about how the company was losing ground in AI to competitors, particularly Microsoft.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For instance, JPMorgan analyst Doug Anmuth asked Jassy to explain “significantly faster cloud growth among the number two and number three players in the space,” referring to Microsoft and Google. Later, Morgan Stanley analyst Brian Nowak told Jassy that Wall Street thinks “AWS is falling behind in GenAI with concerns about share loss, peers, etc.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Jassy responded with a minutes-long diatribe that included this barb at Redmond: “I think the second player is about 65% of the size of the AWS.”&lt;/p&gt;&lt;p&gt;Meanwhile, another AWS competitor, Oracle, reported that it signed a $30 billion a year deal with OpenAI to offer data center services. This means that OpenAI plans to pay Oracle more each year than all of its other cloud services customers combined. Until now, AWS had been left out of any OpenAI-related glory.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As for how such a move with AWS benefits OpenAI: The AI provider’s relationship with Microsoft is notoriously strained, as the two are reportedly renegotiating their long-term partnership deal. What better way for OpenAI to strengthen its position than to cozy up the biggest cloud provider, even if, initially, on a small scale?&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In addition, this partnership allows swaths of AWS enterprise customers to easily experiment with using OpenAI models with their hosted AI apps.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meanwhile Altman gets to undercut Meta’s Mark Zuckerberg with this move as well. As OpenAI releases these two high-performing models under an Apache 2.0 open source license, Meta recently admitted that it probably won’t continue to open source all of its upcoming “superintelligence” models.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/05/for-the-first-time-openai-models-are-available-on-aws/</guid><pubDate>Tue, 05 Aug 2025 20:06:26 +0000</pubDate></item><item><title>Clay confirms it closed $100M round at $3.1B valuation (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/05/clay-retreat-group-photos-2.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sales automation startup Clay has raised a $100 million Series C at a $3.1 billion valuation in a round led by CapitalG, confirming TechCrunch’s report from June.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The financing follows a $1.25 billion Series B round from six months ago and a $1.5 billion Sequoia-led tender offer announced a couple of months ago, which allowed most employees to sell some of their shares.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The latest deal brings Clay’s total funding to $204 million. Existing investors Meritech Capital, Sequoia Capital, First Round Capital, BoxGroup, and Boldstart also participated in the Series C, and a new backer, Sapphire Ventures, joined the round.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The 8-year-old startup helps salespeople and marketers with AI-powered tools and claims customers like OpenAI, Anthropic, Canva, Intercom, and Rippling.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Clay co-founder and CEO Kareem Amin told The New York Times that the company expects to end the year with $100 million in revenue, which would triple its revenue from last year.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/05/clay-retreat-group-photos-2.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sales automation startup Clay has raised a $100 million Series C at a $3.1 billion valuation in a round led by CapitalG, confirming TechCrunch’s report from June.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The financing follows a $1.25 billion Series B round from six months ago and a $1.5 billion Sequoia-led tender offer announced a couple of months ago, which allowed most employees to sell some of their shares.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The latest deal brings Clay’s total funding to $204 million. Existing investors Meritech Capital, Sequoia Capital, First Round Capital, BoxGroup, and Boldstart also participated in the Series C, and a new backer, Sapphire Ventures, joined the round.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The 8-year-old startup helps salespeople and marketers with AI-powered tools and claims customers like OpenAI, Anthropic, Canva, Intercom, and Rippling.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Clay co-founder and CEO Kareem Amin told The New York Times that the company expects to end the year with $100 million in revenue, which would triple its revenue from last year.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/</guid><pubDate>Tue, 05 Aug 2025 21:12:06 +0000</pubDate></item><item><title>[NEW] Helping data storage keep up with the AI revolution (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/cloudian-helps-data-storage-keep-up-with-ai-revolution-0806</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202508/MIT-Cloudian-01.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 06 Aug 2025 12:52:11 +0000</lastBuildDate><item><title>Helping data storage keep up with the AI revolution (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/cloudian-helps-data-storage-keep-up-with-ai-revolution-0806</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202508/MIT-Cloudian-01.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
             &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
           
 
@@ -669,4 +13,154 @@
             &lt;p&gt;Artificial intelligence is changing the way businesses store and access their data. That’s because traditional data storage systems were designed to handle simple commands from a handful of users at once, whereas today, AI systems with millions of agents need to continuously access and process large amounts of data in parallel. Traditional data storage systems now have layers of complexity, which slows AI systems down because data must pass through multiple tiers before reaching the graphical processing units (GPUs) that are the brain cells of AI.&lt;/p&gt;&lt;p&gt;Cloudian, co-founded by Michael Tso ’93, SM ’93 and Hiroshi Ohta, is helping storage keep up with the AI revolution. The company has developed a scalable storage system for businesses that helps data flow seamlessly between storage and AI models. The system reduces complexity by applying parallel computing to data storage, consolidating AI functions and data onto a single parallel-processing platform that stores, retrieves, and processes scalable datasets, with direct, high-speed transfers between storage and GPUs and CPUs.&lt;/p&gt;&lt;p&gt;Cloudian’s integrated storage-computing platform simplifies the process of building commercial-scale AI tools and gives businesses a storage foundation that can keep up with the rise of AI.&lt;/p&gt;&lt;p&gt;“One of the things people miss about AI is that it’s all about the data,” Tso says. “You can’t get a 10 percent improvement in AI performance with 10 percent more data or even 10 times more data — you need 1,000 times more data. Being able to store that data in a way that’s easy to manage, and in such a way that you can embed computations into it so you can run operations while the data is coming in without moving the data — that’s where this industry is going.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;From MIT to industry&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As an undergraduate at MIT in the 1990s, Tso was introduced by Professor William Dally to parallel computing — a type of computation in which many calculations occur simultaneously. Tso also worked on parallel computing with Associate Professor Greg Papadopoulos.&lt;/p&gt;&lt;p&gt;“It was an incredible time because most schools had one super-computing project going on — MIT had four,” Tso recalls.&lt;/p&gt;&lt;p&gt;As a graduate student, Tso worked with MIT senior research scientist David Clark, a computing pioneer who contributed to the internet’s early architecture, particularly the transmission control protocol (TCP) that delivers data between systems.&lt;/p&gt;&lt;p&gt;“As a graduate student at MIT, I worked on disconnected and intermittent networking operations for large scale distributed systems,” Tso says. “It’s funny — 30 years on, that’s what I’m still doing today.”&lt;/p&gt;&lt;p&gt;Following his graduation, Tso worked at Intel’s Architecture Lab, where he invented data synchronization algorithms used by Blackberry. He also created specifications for Nokia that ignited the ringtone download industry. He then joined Inktomi, a startup co-founded by Eric Brewer SM ’92, PhD ’94 that pioneered search and web content distribution technologies.&lt;/p&gt;&lt;p&gt;In 2001, Tso started Gemini Mobile Technologies with Joseph Norton ’93, SM ’93 and others. The company went on to build the world’s largest mobile messaging systems to handle the massive data growth from camera phones. Then, in the late 2000s, cloud computing became a powerful way for businesses to rent virtual servers as they grew their operations. Tso noticed the amount of data being collected was growing far faster than the speed of networking, so he decided to pivot the company.&lt;/p&gt;&lt;p&gt;“Data is being created in a lot of different places, and that data has its own gravity: It’s going to cost you money and time to move it,” Tso explains. “That means the end state is a distributed cloud that reaches out to edge devices and servers. You have to bring the cloud to the data, not the data to the cloud.”&lt;/p&gt;&lt;p&gt;Tso officially launched Cloudian out of Gemini Mobile Technologies in 2012, with a new emphasis on helping customers with scalable, distributed, cloud-compatible data storage.&lt;/p&gt;&lt;p&gt;“What we didn’t see when we first started the company was that AI was going to be the ultimate use case for data on the edge,” Tso says.&lt;/p&gt;&lt;p&gt;Although Tso’s research at MIT began more than two decades ago, he sees strong connections between what he worked on and the industry today.&lt;/p&gt;&lt;p&gt;“It’s like my whole life is playing back because David Clark and I were dealing with disconnected and intermittently connected networks, which are part of every edge use case today, and Professor Dally was working on very fast, scalable interconnects,” Tso says, noting that Dally is now the senior vice president and chief scientist at the leading AI company NVIDIA. “Now, when you look at the modern NVIDIA chip architecture and the way they do interchip communication, it’s got Dally’s work all over it. With Professor Papadopoulos, I worked on accelerate application software with parallel computing hardware without having to rewrite the applications, and that’s exactly the problem we are trying to solve with NVIDIA. Coincidentally, all the stuff I was doing at MIT is playing out.”&lt;/p&gt;&lt;p&gt;Today Cloudian’s platform uses an object storage architecture in which all kinds of data —documents, videos, sensor data — are stored as a unique object with metadata. Object storage can manage massive datasets in a flat file stucture, making it ideal for unstructured data and AI systems, but it traditionally hasn’t been able to send data directly to AI models without the data first being copied into a computer’s memory system, creating latency and energy bottlenecks for businesses.&lt;/p&gt;&lt;p&gt;In July, Cloudian announced that it has extended its object storage system with a vector database that stores data in a form which is immediately usable by AI models. As the data are ingested, Cloudian is computing in real-time the vector form of that data to power AI tools like recommender engines, search, and AI assistants. Cloudian also announced a partnership with NVIDIA that allows its storage system to work directly with the AI company’s GPUs. Cloudian says the new system enables even faster AI operations and reduces computing costs.&lt;/p&gt;&lt;p&gt;“NVIDIA contacted us about a year and a half ago because GPUs are useful only with data that keeps them busy,” Tso says. “Now that people are realizing it’s easier to move the AI to the data than it is to move huge datasets. Our storage systems embed a lot of AI functions, so we’re able to pre- and post-process data for AI near where we collect and store the data.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;AI-first storage&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cloudian is helping about 1,000 companies around the world get more value out of their data, including large manufacturers, financial service providers, health care organizations, and government agencies.&lt;/p&gt;&lt;p&gt;Cloudian’s storage platform is helping one large automaker, for instance, use AI to determine when each of its manufacturing robots need to be serviced. Cloudian is also working with the National Library of Medicine to store research articles and patents, and the National Cancer Database to store DNA sequences of tumors — rich datasets that AI models could process to help research develop new treatments or gain new insights.&lt;/p&gt;&lt;p&gt;“GPUs have been an incredible enabler,” Tso says. “Moore’s Law doubles the amount of compute every two years, but GPUs are able to parallelize operations on chips, so you can network GPUs together and shatter Moore’s Law. That scale is pushing AI to new levels of intelligence, but the only way to make GPUs work hard is to feed them data at the same speed that they compute — and the only way to do that is to get rid of all the layers between them and your data.”&lt;/p&gt;        
 
       &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/cloudian-helps-data-storage-keep-up-with-ai-revolution-0806</guid><pubDate>Wed, 06 Aug 2025 04:00:00 +0000</pubDate></item></channel></rss>
+        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/cloudian-helps-data-storage-keep-up-with-ai-revolution-0806</guid><pubDate>Wed, 06 Aug 2025 04:00:00 +0000</pubDate></item><item><title>[NEW] Inside Tim Cook’s push to get Apple back in the AI race (AI News)</title><link>https://www.artificialintelligence-news.com/news/inside-tim-cook-push-to-get-apple-back-in-the-ai-race/</link><description>&lt;p&gt;While other tech companies push out AI tools at full speed, Apple is taking its time. Its Apple Intelligence features – shown off at WWDC – won’t reach most users until at least 2025 or even 2026. Some see this as Apple falling behind, but the company’s track record suggests it prefers to launch only when products are ready.&lt;/p&gt;&lt;p&gt;In contrast, competitors like Microsoft, OpenAI, and Google have already shipped AI features widely – often with bugs and unreliable results, and usually whether or not users ask for them. AI assistants today still struggle with accuracy, consistency, and usefulness in many tasks.&lt;/p&gt;&lt;p&gt;Apple seems to be watching from the sidelines, waiting for the tech to mature. Instead of flooding iOS with half-working tools, it’s holding back. That strategy may pay off if users lose patience with AI that overpromises and underdelivers.&lt;/p&gt;&lt;p&gt;Apple has done this before – launching smartwatches and tablets late, but with stronger products. And since it already owns the hardware and software, and controls its own app store, it can afford to wait.&lt;/p&gt;&lt;p&gt;If current AI tools don’t improve soon, Apple’s slower, more cautious rollout might look less like hesitation and more like smart planning.&lt;/p&gt;&lt;p&gt;That measured approach doesn’t mean Apple is sitting still. Behind the scenes, the company is ramping up investment, hiring, and internal coordination to prepare for an AI shift. That strategy was on full display during a recent all-hands meeting at Apple’s headquarters, where CEO Tim Cook rallied employees and laid out the company’s AI ambitions.&lt;/p&gt;&lt;p&gt;Apple is getting serious about artificial intelligence, and Cook wants everyone at the company on board. As reported by &lt;em&gt;Bloomberg&lt;/em&gt;, during a rare all-company gathering at its Cupertino HQ, he spoke directly to employees about what’s next. His message was clear: Apple has to win in AI – and now is the time to make that happen.&lt;/p&gt;&lt;p&gt;Cook called AI a once-in-a-generation shift, comparing its impact to that of the internet, smartphones, and cloud computing. “Apple must do this. Apple will do this. This is sort of ours to grab,” he said, according to people who were there. He promised Apple would spend what it takes to compete.&lt;/p&gt;&lt;p&gt;The company has been slower than others to roll out AI tools. Apple Intelligence – its main AI offering – was introduced long after companies like OpenAI, Google, and Microsoft launched its own products. And even when Apple finally announced its plans, the reaction was underwhelming.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: Why Apple is playing it slow with AI&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;But Cook pointed out that Apple has often shown up late to new technology – only to redefine it. “There was a PC before the Mac; there was a smartphone before the iPhone,” he reminded employees. “There were many tablets before the iPad.” Apple didn’t invent those categories, he said, it just made them work better.&lt;/p&gt;&lt;h3&gt;Building the future of Siri&lt;/h3&gt;&lt;p&gt;Much of the company’s current AI work centres on Siri, its voice assistant. Apple had originally planned a major overhaul as part of Apple Intelligence, adding features powered by large language models. But that rollout was delayed, leading to internal shakeups and a rethink of the entire system.&lt;/p&gt;&lt;p&gt;Craig Federighi, Apple’s software chief, told employees that trying to merge old and new versions of Siri didn’t work. The team tried to keep the original system for basic tasks like setting timers, while adding generative AI features for more complex requests. But that hybrid setup didn’t meet Apple’s standards. “We realised that approach wasn’t going to get us to Apple quality,” he said.&lt;/p&gt;&lt;p&gt;Now, the team is rebuilding Siri from the ground up. A completely new version is in the works, expected as early as spring 2026. Federighi said the results so far have been strong and could lead to more improvements than originally planned. “There is no project people are taking more seriously,” he told staff.&lt;/p&gt;&lt;p&gt;A key figure behind this new direction is Mike Rockwell, the executive who led development on Apple’s Vision Pro headset. Rockwell and his software team are now leading Siri’s redesign. Federighi said they’ve “supercharged” the work and brought a new level of focus.&lt;/p&gt;&lt;h3&gt;Investing in AI talent and tools&lt;/h3&gt;&lt;p&gt;Apple is also expanding its AI team quickly. Cook said the company hired 12,000 people in the past year, with 40% of them joining research and development, with many of those hires are focused on AI.&lt;/p&gt;&lt;p&gt;Part of the work involves hardware. Apple is building new chips specifically designed for AI, including a more powerful server chip known internally as “Baltra.” The company is also opening an AI server farm in Houston to support future projects.&lt;/p&gt;&lt;p&gt;Beyond Siri, Apple is quietly building what could become a major AI tool. According to &lt;em&gt;Bloomberg&lt;/em&gt;‘s Mark Gurman, Apple has formed a team called “Answers, Knowledge, and Information” (AKI). The group’s job is to create search that works more like ChatGPT – giving direct answers rather than just showing links.&lt;/p&gt;&lt;p&gt;The AKI team is led by Robby Walker, who reports to AI chief John Giannandrea, and Apple has already started hiring engineers for the group. While details are still limited, the project appears to include backend systems, search algorithms, and potentially even a standalone app.&lt;/p&gt;&lt;h3&gt;A push to move faster&lt;/h3&gt;&lt;p&gt;Cook also encouraged employees to start using AI more in their work. “All of us are using AI in a significant way already, and we must use it as a company as well,” he said. He told employees to bring ideas to their managers and find ways to get AI tools into products faster.&lt;/p&gt;&lt;p&gt;The sense of urgency was echoed during Apple’s recent earnings call. The company posted strong results, with nearly 10% growth in the June quarter – enough to ease concerns about slowing iPhone sales and weak results from the Chinese market. Cook told investors Apple would “significantly” increase its spending on AI.&lt;/p&gt;&lt;p&gt;Yet challenges remain. Apple expects to face a $1.1 billion hit from tariffs this quarter and continues to deal with antitrust pressures in the US and Europe, where regulators are watching closely to see how the company runs its App Store and handles user data.&lt;/p&gt;&lt;p&gt;Cook acknowledged these issues at the staff meeting, saying Apple would continue pushing regulators to adopt rules that don’t hurt privacy or user experience. “We need to continue to push on the intention of the regulation,” he said, “instead of these things that destroy the user experience and user privacy and security.”&lt;/p&gt;&lt;h3&gt;New stores, new markets&lt;/h3&gt;&lt;p&gt;Beyond AI, Cook touched on Apple’s retail strategy. The company plans to open new stores in emerging markets, including India, the United Arab Emirates, and China. A store in Saudi Arabia is also on the way. Apple is also putting more focus on its online store.&lt;/p&gt;&lt;p&gt;“We need to be in more countries,” Cook said, adding that most of Apple’s future growth will come from new markets. That doesn’t mean existing regions will be ignored, but the company sees more opportunity in expanding its global footprint.&lt;/p&gt;&lt;h3&gt;What’s next for Apple products&lt;/h3&gt;&lt;p&gt;While Cook didn’t reveal any product details, he said, “I have never felt so much excitement and so much energy before as right now.”&lt;/p&gt;&lt;p&gt;Reports suggest Apple is working on several new devices, including a foldable iPhone, new smart glasses, updated home devices, and robotics. A major iPhone redesign is also rumoured for its 20th anniversary next year.&lt;/p&gt;&lt;p&gt;Cook didn’t confirm any of this, but he hinted at big things ahead. “The product pipeline, which I can’t talk about: It’s amazing, guys. It’s amazing,” he said. “Some of it you’ll see soon, some of it will come later, but there’s a lot to see.”&lt;/p&gt;&lt;h3&gt;Cautious but confident&lt;/h3&gt;&lt;p&gt;Apple’s cautious approach to AI may have slowed it down, but internally, the company seems to believe that slow and steady might win the race. Cook’s message to employees was clear: Apple can still define what useful, responsible AI looks like – and it’s all hands on deck to get there.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by: Apple via YouTube)&lt;/em&gt;&lt;/p&gt;&lt;img alt="alt" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;While other tech companies push out AI tools at full speed, Apple is taking its time. Its Apple Intelligence features – shown off at WWDC – won’t reach most users until at least 2025 or even 2026. Some see this as Apple falling behind, but the company’s track record suggests it prefers to launch only when products are ready.&lt;/p&gt;&lt;p&gt;In contrast, competitors like Microsoft, OpenAI, and Google have already shipped AI features widely – often with bugs and unreliable results, and usually whether or not users ask for them. AI assistants today still struggle with accuracy, consistency, and usefulness in many tasks.&lt;/p&gt;&lt;p&gt;Apple seems to be watching from the sidelines, waiting for the tech to mature. Instead of flooding iOS with half-working tools, it’s holding back. That strategy may pay off if users lose patience with AI that overpromises and underdelivers.&lt;/p&gt;&lt;p&gt;Apple has done this before – launching smartwatches and tablets late, but with stronger products. And since it already owns the hardware and software, and controls its own app store, it can afford to wait.&lt;/p&gt;&lt;p&gt;If current AI tools don’t improve soon, Apple’s slower, more cautious rollout might look less like hesitation and more like smart planning.&lt;/p&gt;&lt;p&gt;That measured approach doesn’t mean Apple is sitting still. Behind the scenes, the company is ramping up investment, hiring, and internal coordination to prepare for an AI shift. That strategy was on full display during a recent all-hands meeting at Apple’s headquarters, where CEO Tim Cook rallied employees and laid out the company’s AI ambitions.&lt;/p&gt;&lt;p&gt;Apple is getting serious about artificial intelligence, and Cook wants everyone at the company on board. As reported by &lt;em&gt;Bloomberg&lt;/em&gt;, during a rare all-company gathering at its Cupertino HQ, he spoke directly to employees about what’s next. His message was clear: Apple has to win in AI – and now is the time to make that happen.&lt;/p&gt;&lt;p&gt;Cook called AI a once-in-a-generation shift, comparing its impact to that of the internet, smartphones, and cloud computing. “Apple must do this. Apple will do this. This is sort of ours to grab,” he said, according to people who were there. He promised Apple would spend what it takes to compete.&lt;/p&gt;&lt;p&gt;The company has been slower than others to roll out AI tools. Apple Intelligence – its main AI offering – was introduced long after companies like OpenAI, Google, and Microsoft launched its own products. And even when Apple finally announced its plans, the reaction was underwhelming.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: Why Apple is playing it slow with AI&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;But Cook pointed out that Apple has often shown up late to new technology – only to redefine it. “There was a PC before the Mac; there was a smartphone before the iPhone,” he reminded employees. “There were many tablets before the iPad.” Apple didn’t invent those categories, he said, it just made them work better.&lt;/p&gt;&lt;h3&gt;Building the future of Siri&lt;/h3&gt;&lt;p&gt;Much of the company’s current AI work centres on Siri, its voice assistant. Apple had originally planned a major overhaul as part of Apple Intelligence, adding features powered by large language models. But that rollout was delayed, leading to internal shakeups and a rethink of the entire system.&lt;/p&gt;&lt;p&gt;Craig Federighi, Apple’s software chief, told employees that trying to merge old and new versions of Siri didn’t work. The team tried to keep the original system for basic tasks like setting timers, while adding generative AI features for more complex requests. But that hybrid setup didn’t meet Apple’s standards. “We realised that approach wasn’t going to get us to Apple quality,” he said.&lt;/p&gt;&lt;p&gt;Now, the team is rebuilding Siri from the ground up. A completely new version is in the works, expected as early as spring 2026. Federighi said the results so far have been strong and could lead to more improvements than originally planned. “There is no project people are taking more seriously,” he told staff.&lt;/p&gt;&lt;p&gt;A key figure behind this new direction is Mike Rockwell, the executive who led development on Apple’s Vision Pro headset. Rockwell and his software team are now leading Siri’s redesign. Federighi said they’ve “supercharged” the work and brought a new level of focus.&lt;/p&gt;&lt;h3&gt;Investing in AI talent and tools&lt;/h3&gt;&lt;p&gt;Apple is also expanding its AI team quickly. Cook said the company hired 12,000 people in the past year, with 40% of them joining research and development, with many of those hires are focused on AI.&lt;/p&gt;&lt;p&gt;Part of the work involves hardware. Apple is building new chips specifically designed for AI, including a more powerful server chip known internally as “Baltra.” The company is also opening an AI server farm in Houston to support future projects.&lt;/p&gt;&lt;p&gt;Beyond Siri, Apple is quietly building what could become a major AI tool. According to &lt;em&gt;Bloomberg&lt;/em&gt;‘s Mark Gurman, Apple has formed a team called “Answers, Knowledge, and Information” (AKI). The group’s job is to create search that works more like ChatGPT – giving direct answers rather than just showing links.&lt;/p&gt;&lt;p&gt;The AKI team is led by Robby Walker, who reports to AI chief John Giannandrea, and Apple has already started hiring engineers for the group. While details are still limited, the project appears to include backend systems, search algorithms, and potentially even a standalone app.&lt;/p&gt;&lt;h3&gt;A push to move faster&lt;/h3&gt;&lt;p&gt;Cook also encouraged employees to start using AI more in their work. “All of us are using AI in a significant way already, and we must use it as a company as well,” he said. He told employees to bring ideas to their managers and find ways to get AI tools into products faster.&lt;/p&gt;&lt;p&gt;The sense of urgency was echoed during Apple’s recent earnings call. The company posted strong results, with nearly 10% growth in the June quarter – enough to ease concerns about slowing iPhone sales and weak results from the Chinese market. Cook told investors Apple would “significantly” increase its spending on AI.&lt;/p&gt;&lt;p&gt;Yet challenges remain. Apple expects to face a $1.1 billion hit from tariffs this quarter and continues to deal with antitrust pressures in the US and Europe, where regulators are watching closely to see how the company runs its App Store and handles user data.&lt;/p&gt;&lt;p&gt;Cook acknowledged these issues at the staff meeting, saying Apple would continue pushing regulators to adopt rules that don’t hurt privacy or user experience. “We need to continue to push on the intention of the regulation,” he said, “instead of these things that destroy the user experience and user privacy and security.”&lt;/p&gt;&lt;h3&gt;New stores, new markets&lt;/h3&gt;&lt;p&gt;Beyond AI, Cook touched on Apple’s retail strategy. The company plans to open new stores in emerging markets, including India, the United Arab Emirates, and China. A store in Saudi Arabia is also on the way. Apple is also putting more focus on its online store.&lt;/p&gt;&lt;p&gt;“We need to be in more countries,” Cook said, adding that most of Apple’s future growth will come from new markets. That doesn’t mean existing regions will be ignored, but the company sees more opportunity in expanding its global footprint.&lt;/p&gt;&lt;h3&gt;What’s next for Apple products&lt;/h3&gt;&lt;p&gt;While Cook didn’t reveal any product details, he said, “I have never felt so much excitement and so much energy before as right now.”&lt;/p&gt;&lt;p&gt;Reports suggest Apple is working on several new devices, including a foldable iPhone, new smart glasses, updated home devices, and robotics. A major iPhone redesign is also rumoured for its 20th anniversary next year.&lt;/p&gt;&lt;p&gt;Cook didn’t confirm any of this, but he hinted at big things ahead. “The product pipeline, which I can’t talk about: It’s amazing, guys. It’s amazing,” he said. “Some of it you’ll see soon, some of it will come later, but there’s a lot to see.”&lt;/p&gt;&lt;h3&gt;Cautious but confident&lt;/h3&gt;&lt;p&gt;Apple’s cautious approach to AI may have slowed it down, but internally, the company seems to believe that slow and steady might win the race. Cook’s message to employees was clear: Apple can still define what useful, responsible AI looks like – and it’s all hands on deck to get there.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by: Apple via YouTube)&lt;/em&gt;&lt;/p&gt;&lt;img alt="alt" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/inside-tim-cook-push-to-get-apple-back-in-the-ai-race/</guid><pubDate>Wed, 06 Aug 2025 09:21:51 +0000</pubDate></item><item><title>[NEW] Qwant and Ecosia debut Staan, a European search index that aims to take on Big Tech (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/06/qwant-and-ecosia-debut-staan-a-european-search-index-that-aims-to-take-on-big-tech/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1331046491.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;European search engines Qwant and Ecosia said on Wednesday that they have both started serving search queries through an index they developed together, Staan, which aims to be a cheaper, more privacy-focused alternative to Google and Bing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Last year, French privacy-focused search engine Qwant struck a joint venture with German non-profit search engine Ecosia, to develop a European search index. Called European Search Perspective (EUSP), the JV now aims to serve around 50% of French queries and 33% of German queries by the end of the year.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Qwant said it is using the new index to power some of its features, like AI summaries for search, and Ecosia has plans to add some AI features soon to its platform, too.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;EUSP is also in talks with companies to spur the adoption of its index for enabling search within apps. Notably, it is targeting chatbots, presenting Staan as a cheaper alternative to Google and Bing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“If you’re using ChatGPT or any other AI chatbot, they all do knowledge grounding with web search […] our index can power deep research and AI summary features. Google and Bing’s solutions are also pricey, and our index can offer power search features at a tenth of the cost,” Christian Kroll, CEO of Ecosia, told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;EUSP, like Proton, is pushing to develop a European tech stack that doesn’t rely on technology from the U.S. or China.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The timing could not be more urgent. The outcome of the 2024 U.S. election has reminded European policymakers and innovators just how exposed Europe remains when it comes to core digital infrastructure. Much of Europe’s search, cloud, and AI layers are built on American Big Tech stacks, putting entire sectors – from journalism to climate tech – at the mercy of political or commercial agendas,” the companies said in a statement.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Kroll added that through this index, combined with European privacy laws, EUSP can offer a more privacy-friendly search solution as compared to its U.S. counterparts.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1331046491.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;European search engines Qwant and Ecosia said on Wednesday that they have both started serving search queries through an index they developed together, Staan, which aims to be a cheaper, more privacy-focused alternative to Google and Bing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Last year, French privacy-focused search engine Qwant struck a joint venture with German non-profit search engine Ecosia, to develop a European search index. Called European Search Perspective (EUSP), the JV now aims to serve around 50% of French queries and 33% of German queries by the end of the year.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Qwant said it is using the new index to power some of its features, like AI summaries for search, and Ecosia has plans to add some AI features soon to its platform, too.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;EUSP is also in talks with companies to spur the adoption of its index for enabling search within apps. Notably, it is targeting chatbots, presenting Staan as a cheaper alternative to Google and Bing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“If you’re using ChatGPT or any other AI chatbot, they all do knowledge grounding with web search […] our index can power deep research and AI summary features. Google and Bing’s solutions are also pricey, and our index can offer power search features at a tenth of the cost,” Christian Kroll, CEO of Ecosia, told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;EUSP, like Proton, is pushing to develop a European tech stack that doesn’t rely on technology from the U.S. or China.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The timing could not be more urgent. The outcome of the 2024 U.S. election has reminded European policymakers and innovators just how exposed Europe remains when it comes to core digital infrastructure. Much of Europe’s search, cloud, and AI layers are built on American Big Tech stacks, putting entire sectors – from journalism to climate tech – at the mercy of political or commercial agendas,” the companies said in a statement.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Kroll added that through this index, combined with European privacy laws, EUSP can offer a more privacy-friendly search solution as compared to its U.S. counterparts.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/06/qwant-and-ecosia-debut-staan-a-european-search-index-that-aims-to-take-on-big-tech/</guid><pubDate>Wed, 06 Aug 2025 11:45:38 +0000</pubDate></item><item><title>[NEW] The Download: OpenAI’s open-weight models, and the future of internet search (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/08/06/1121179/the-download-openais-open-weight-models-and-the-future-of-internet-search/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;OpenAI has finally released open-weight language models&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;&lt;strong&gt;The news: &lt;/strong&gt;OpenAI has finally released its first open-weight large language models since 2019’s GPT-2. Unlike the models available through OpenAI’s web interface, these new open models can be freely downloaded, run, and even modified on laptops and other local devices.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Why it matters: &lt;/strong&gt;These releases re-establish OpenAI as a presence for users of open models. That’s particularly notable at a time when Meta, which had previously dominated the American open-model landscape with its Llama models, may be reorienting toward closed releases—and when Chinese open models are becoming more popular than their American competitors. Read the full story.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;&lt;em&gt;—Grace Huckins&lt;/em&gt;&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;MIT Technology Review Narrated: AI means the end of internet search as we’ve known it&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;The biggest change to the way search engines deliver information to us since the 1990s is happening right now. No more keyword searching. Instead, you can ask questions in natural language. And instead of links, you’ll increasingly be met with answers written by generative AI and based on live information from across the internet, delivered the same way.&lt;/p&gt;&lt;p&gt;Not everyone is excited for the change. Publishers are completely freaked out. And people are also worried about what these new LLM-powered results will mean for our fundamental shared reality.&lt;/p&gt;  &lt;p&gt;This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.&lt;/p&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 Nvidia insists its AI chips don’t have a “kill switch”&lt;/strong&gt;&lt;br /&gt;After China’s Cyberspace Administration asked for security documentation. (CNBC)&lt;br /&gt;+ &lt;em&gt;The country’s ambitions to consolidate its chip giants aren't going to plan. &lt;/em&gt;(FT $)&lt;br /&gt;+ &lt;em&gt;Two Chinese nationals have been charged with illegally shipping chips. &lt;/em&gt;(Reuters)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;2 America’s new data centers are driving colossal electricity demand&lt;/strong&gt;&lt;br /&gt;And a handful of equipment makers are reaping the benefits. (FT $)&lt;br /&gt;+ &lt;em&gt;We did the math on AI’s energy footprint. Here’s the story you haven’t heard. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
+
+ &lt;p&gt;&lt;strong&gt;3 RFK Jr has cancelled close to $500 million in mRNA vaccine contracts&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;Which could leave us dangerously underprepared for a future pandemic. (Politico)&lt;br /&gt;+ &lt;em&gt;We’re losing a key insight into global health. &lt;/em&gt;(Vox)&lt;br /&gt;+ &lt;em&gt;How measuring vaccine hesitancy could help health professionals tackle it. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;4 Uber has a sexual assault problem&lt;/strong&gt;&lt;br /&gt;Newly-unveiled records show it gathered far more sexual assault and misconduct reports than previously revealed. (NYT $)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;5 A British politician created an AI clone of himself&lt;/strong&gt;&lt;br /&gt;And although it provoked a backlash, other MPs may follow his lead. (WP $)&lt;br /&gt;+ &lt;em&gt;A former CNN journalist has interviewed an AI version of a mass-shooting victim. &lt;/em&gt;(The Guardian)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;6 xAI’s new Grok Imagine tool has a “spicy” mode&lt;br /&gt;&lt;/strong&gt;Which seems to be code for non-consensual porn images. (The Verge)&amp;nbsp;&amp;nbsp;&lt;br /&gt;+ &lt;em&gt;It’s already generated fake Taylor Swift nudes without being asked. &lt;/em&gt;(Ars Technica)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;7 How does ChatGPT fare as a couple’s counselor?&lt;br /&gt;&lt;/strong&gt;It gets some stuff right. But it also gets some things really wrong. (NPR)&lt;br /&gt;+ &lt;em&gt;The AI relationship revolution is already here. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 Syria’s refugees are returning to rebuild its tech industry&lt;br /&gt;&lt;/strong&gt;But sectarian violence and poor connectivity mean it’s an uphill battle. (Rest of World)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 Sales of Ozempic have dropped&lt;/strong&gt;&lt;br /&gt;Rival Mounjaro seems to be more effective. (The Guardian)&lt;br /&gt;+ &lt;em&gt;We’re learning more about what weight-loss drugs do to the body. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;10 Google Calendar rules college kids’ lives&lt;/strong&gt;&lt;br /&gt;They schedule everything from assignments to parties and hook ups. (WSJ $)&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“This is a bad day for science.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—Scott Hensley, an immunologist at the University of Pennsylvania, criticizes the Department of Health and Human Services’ decision to cancel hundreds of millions of dollars in funding for mRNA vaccine projects, the New York Times reports.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" src="https://wp.technologyreview.com/wp-content/uploads/2023/05/IL_Insitu_Moon_2022.jpeg" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;Future space food could be made from astronaut breath&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The future of space food could be as simple—and weird—as a protein shake made with astronaut breath or a burger made from fungus.&lt;/p&gt;&lt;p&gt;For decades, astronauts have relied mostly on pre-packaged food during their forays off our planet. With missions beyond Earth orbit in sight, a NASA-led competition is hoping to change all that and usher in a new era of sustainable space food.&lt;/p&gt;&lt;p&gt;To solve the problem of feeding astronauts on long-duration missions, NASA asked companies to propose novel ways to develop sustainable foods for future missions. Around 200 rose to the challenge—creating nutritious (and outlandish) culinary creations in the process. Read the full story.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jonathan O'Callaghan&lt;/em&gt;&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ There are a lot of funny cat videos out there but honestly, this is top-drawer.&lt;br /&gt;+ Check out this adorable website where people share what they see in clouds.&lt;br /&gt;+ Babe you’re glowing! No seriously, you literally are.&amp;nbsp;&lt;br /&gt;+ I loved watching this woman from London’s East End wax lyrical about the dawn of TV.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;OpenAI has finally released open-weight language models&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;&lt;strong&gt;The news: &lt;/strong&gt;OpenAI has finally released its first open-weight large language models since 2019’s GPT-2. Unlike the models available through OpenAI’s web interface, these new open models can be freely downloaded, run, and even modified on laptops and other local devices.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Why it matters: &lt;/strong&gt;These releases re-establish OpenAI as a presence for users of open models. That’s particularly notable at a time when Meta, which had previously dominated the American open-model landscape with its Llama models, may be reorienting toward closed releases—and when Chinese open models are becoming more popular than their American competitors. Read the full story.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;&lt;em&gt;—Grace Huckins&lt;/em&gt;&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;MIT Technology Review Narrated: AI means the end of internet search as we’ve known it&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;The biggest change to the way search engines deliver information to us since the 1990s is happening right now. No more keyword searching. Instead, you can ask questions in natural language. And instead of links, you’ll increasingly be met with answers written by generative AI and based on live information from across the internet, delivered the same way.&lt;/p&gt;&lt;p&gt;Not everyone is excited for the change. Publishers are completely freaked out. And people are also worried about what these new LLM-powered results will mean for our fundamental shared reality.&lt;/p&gt;  &lt;p&gt;This is our latest story to be turned into a MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.&lt;/p&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 Nvidia insists its AI chips don’t have a “kill switch”&lt;/strong&gt;&lt;br /&gt;After China’s Cyberspace Administration asked for security documentation. (CNBC)&lt;br /&gt;+ &lt;em&gt;The country’s ambitions to consolidate its chip giants aren't going to plan. &lt;/em&gt;(FT $)&lt;br /&gt;+ &lt;em&gt;Two Chinese nationals have been charged with illegally shipping chips. &lt;/em&gt;(Reuters)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;2 America’s new data centers are driving colossal electricity demand&lt;/strong&gt;&lt;br /&gt;And a handful of equipment makers are reaping the benefits. (FT $)&lt;br /&gt;+ &lt;em&gt;We did the math on AI’s energy footprint. Here’s the story you haven’t heard. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
+
+ &lt;p&gt;&lt;strong&gt;3 RFK Jr has cancelled close to $500 million in mRNA vaccine contracts&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;Which could leave us dangerously underprepared for a future pandemic. (Politico)&lt;br /&gt;+ &lt;em&gt;We’re losing a key insight into global health. &lt;/em&gt;(Vox)&lt;br /&gt;+ &lt;em&gt;How measuring vaccine hesitancy could help health professionals tackle it. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;4 Uber has a sexual assault problem&lt;/strong&gt;&lt;br /&gt;Newly-unveiled records show it gathered far more sexual assault and misconduct reports than previously revealed. (NYT $)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;5 A British politician created an AI clone of himself&lt;/strong&gt;&lt;br /&gt;And although it provoked a backlash, other MPs may follow his lead. (WP $)&lt;br /&gt;+ &lt;em&gt;A former CNN journalist has interviewed an AI version of a mass-shooting victim. &lt;/em&gt;(The Guardian)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;6 xAI’s new Grok Imagine tool has a “spicy” mode&lt;br /&gt;&lt;/strong&gt;Which seems to be code for non-consensual porn images. (The Verge)&amp;nbsp;&amp;nbsp;&lt;br /&gt;+ &lt;em&gt;It’s already generated fake Taylor Swift nudes without being asked. &lt;/em&gt;(Ars Technica)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;7 How does ChatGPT fare as a couple’s counselor?&lt;br /&gt;&lt;/strong&gt;It gets some stuff right. But it also gets some things really wrong. (NPR)&lt;br /&gt;+ &lt;em&gt;The AI relationship revolution is already here. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 Syria’s refugees are returning to rebuild its tech industry&lt;br /&gt;&lt;/strong&gt;But sectarian violence and poor connectivity mean it’s an uphill battle. (Rest of World)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 Sales of Ozempic have dropped&lt;/strong&gt;&lt;br /&gt;Rival Mounjaro seems to be more effective. (The Guardian)&lt;br /&gt;+ &lt;em&gt;We’re learning more about what weight-loss drugs do to the body. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;10 Google Calendar rules college kids’ lives&lt;/strong&gt;&lt;br /&gt;They schedule everything from assignments to parties and hook ups. (WSJ $)&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“This is a bad day for science.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—Scott Hensley, an immunologist at the University of Pennsylvania, criticizes the Department of Health and Human Services’ decision to cancel hundreds of millions of dollars in funding for mRNA vaccine projects, the New York Times reports.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" src="https://wp.technologyreview.com/wp-content/uploads/2023/05/IL_Insitu_Moon_2022.jpeg" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;Future space food could be made from astronaut breath&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The future of space food could be as simple—and weird—as a protein shake made with astronaut breath or a burger made from fungus.&lt;/p&gt;&lt;p&gt;For decades, astronauts have relied mostly on pre-packaged food during their forays off our planet. With missions beyond Earth orbit in sight, a NASA-led competition is hoping to change all that and usher in a new era of sustainable space food.&lt;/p&gt;&lt;p&gt;To solve the problem of feeding astronauts on long-duration missions, NASA asked companies to propose novel ways to develop sustainable foods for future missions. Around 200 rose to the challenge—creating nutritious (and outlandish) culinary creations in the process. Read the full story.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jonathan O'Callaghan&lt;/em&gt;&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ There are a lot of funny cat videos out there but honestly, this is top-drawer.&lt;br /&gt;+ Check out this adorable website where people share what they see in clouds.&lt;br /&gt;+ Babe you’re glowing! No seriously, you literally are.&amp;nbsp;&lt;br /&gt;+ I loved watching this woman from London’s East End wax lyrical about the dawn of TV.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/08/06/1121179/the-download-openais-open-weight-models-and-the-future-of-internet-search/</guid><pubDate>Wed, 06 Aug 2025 12:10:00 +0000</pubDate></item><item><title>[NEW] Microsoft brings OpenAI’s smallest open model to Windows users (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/06/microsoft-brings-openais-smallest-open-model-to-windows-users/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Microsoft is making OpenAI’s new free and open GPT model, gpt-oss-20b, available to Windows 11 users via Windows AI Foundry, the tech giant’s platform that lets users tap AI features, APIs, and popular open-source models on their computers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company said in a blog post that gpt‑oss-20b is “tool-savvy and lightweight,” adding: “Optimized for agentic tasks like code execution and tool use, it runs efficiently on a range of Windows hardware, with support for more devices coming soon. It’s perfect for building autonomous assistants or embedding AI into real-world workflows, even in bandwidth-constrained environments.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Launched on Tuesday, OpenAI’s gpt-oss-20b can run on consumer PCs and laptops with at least 16GB of VRAM, which a modern GPU from Nvidia or Radeon would have. OpenAI said the model was trained using high-compute reinforcement learning, which helps it excel at powering AI agents and call tools, such as web search or Python code execution, as part of its chain-of-thought process.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;However, the model is text-only, meaning it will not be able to process or generate images and audio like the company’s other models. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Also, the model has a habit of hallucinating a lot: gpt-oss-20b hallucinated in response to 53% of questions on PersonQA, OpenAI’s in-house benchmark for measuring the accuracy of a model’s knowledge about people.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Microsoft says it will bring the model to macOS soon, as well as other devices, though the company did not name any more. Microsoft is also making both gpt-oss-20b and older model gpt-oss-120b available via its hosted Azure AI Foundry platform.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The two new models are also available on Amazon’s AWS.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Microsoft is making OpenAI’s new free and open GPT model, gpt-oss-20b, available to Windows 11 users via Windows AI Foundry, the tech giant’s platform that lets users tap AI features, APIs, and popular open-source models on their computers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company said in a blog post that gpt‑oss-20b is “tool-savvy and lightweight,” adding: “Optimized for agentic tasks like code execution and tool use, it runs efficiently on a range of Windows hardware, with support for more devices coming soon. It’s perfect for building autonomous assistants or embedding AI into real-world workflows, even in bandwidth-constrained environments.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Launched on Tuesday, OpenAI’s gpt-oss-20b can run on consumer PCs and laptops with at least 16GB of VRAM, which a modern GPU from Nvidia or Radeon would have. OpenAI said the model was trained using high-compute reinforcement learning, which helps it excel at powering AI agents and call tools, such as web search or Python code execution, as part of its chain-of-thought process.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;However, the model is text-only, meaning it will not be able to process or generate images and audio like the company’s other models. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Also, the model has a habit of hallucinating a lot: gpt-oss-20b hallucinated in response to 53% of questions on PersonQA, OpenAI’s in-house benchmark for measuring the accuracy of a model’s knowledge about people.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Microsoft says it will bring the model to macOS soon, as well as other devices, though the company did not name any more. Microsoft is also making both gpt-oss-20b and older model gpt-oss-120b available via its hosted Azure AI Foundry platform.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The two new models are also available on Amazon’s AWS.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/06/microsoft-brings-openais-smallest-open-model-to-windows-users/</guid><pubDate>Wed, 06 Aug 2025 12:47:31 +0000</pubDate></item></channel></rss>
