@@ -1,2 +1,76 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 16 Aug 2025 12:41:41 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 16 Aug 2025 18:29:00 +0000</lastBuildDate><item><title>[NEW] Anthropic says some Claude models can now end ‘harmful or abusive’ conversations (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic has announced new capabilities that will allow some of its newest, largest models to end conversations in what the company describes as “rare, extreme cases of persistently harmful or abusive user interactions.” Strikingly, Anthropic says it’s doing this not to protect the human user, but rather the AI model itself.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To be clear, the company isn’t claiming that its Claude AI models are sentient or can be harmed by their conversations with users. In its own words, Anthropic remains “highly uncertain about the potential moral status of Claude and other LLMs, now or in the future.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;However, its announcement points to a recent program created to study what it calls “model welfare” and says Anthropic is essentially taking a just-in-case approach, “working to identify and implement low-cost interventions to mitigate risks to model welfare, in case such welfare is possible.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This latest change is currently limited to Claude Opus 4 and 4.1. And again, it’s only supposed to happen in “extreme edge cases,” such as “requests from users for sexual content involving minors and attempts to solicit information that would enable large-scale violence or acts of terror.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While those types of requests could potentially create legal or publicity problems for Anthropic itself (witness recent reporting around how ChatGPT can potentially reinforce or contribute to its users’ delusional thinking), the company says that in pre-deployment testing, Claude Opus 4 showed a “strong preference against” responding to these requests and a “pattern of apparent distress” when it did so.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As for these new conversation-ending capabilities, the company says, “In all cases, Claude is only to use its conversation-ending ability as a last resort when multiple attempts at redirection have failed and hope of a productive interaction has been exhausted, or when a user explicitly asks Claude to end a chat.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Anthropic also says Claude has been “directed not to use this ability in cases where users might be at imminent risk of harming themselves or others.”&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;When Claude does end a conversation, Anthropic says users will still be able to start new conversations from the same account, and to create new branches of the troublesome conversation by editing their responses.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We’re treating this feature as an ongoing experiment and will continue refining our approach,” the company says.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic has announced new capabilities that will allow some of its newest, largest models to end conversations in what the company describes as “rare, extreme cases of persistently harmful or abusive user interactions.” Strikingly, Anthropic says it’s doing this not to protect the human user, but rather the AI model itself.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To be clear, the company isn’t claiming that its Claude AI models are sentient or can be harmed by their conversations with users. In its own words, Anthropic remains “highly uncertain about the potential moral status of Claude and other LLMs, now or in the future.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;However, its announcement points to a recent program created to study what it calls “model welfare” and says Anthropic is essentially taking a just-in-case approach, “working to identify and implement low-cost interventions to mitigate risks to model welfare, in case such welfare is possible.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This latest change is currently limited to Claude Opus 4 and 4.1. And again, it’s only supposed to happen in “extreme edge cases,” such as “requests from users for sexual content involving minors and attempts to solicit information that would enable large-scale violence or acts of terror.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While those types of requests could potentially create legal or publicity problems for Anthropic itself (witness recent reporting around how ChatGPT can potentially reinforce or contribute to its users’ delusional thinking), the company says that in pre-deployment testing, Claude Opus 4 showed a “strong preference against” responding to these requests and a “pattern of apparent distress” when it did so.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As for these new conversation-ending capabilities, the company says, “In all cases, Claude is only to use its conversation-ending ability as a last resort when multiple attempts at redirection have failed and hope of a productive interaction has been exhausted, or when a user explicitly asks Claude to end a chat.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Anthropic also says Claude has been “directed not to use this ability in cases where users might be at imminent risk of harming themselves or others.”&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;When Claude does end a conversation, Anthropic says users will still be able to start new conversations from the same account, and to create new branches of the troublesome conversation by editing their responses.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We’re treating this feature as an ongoing experiment and will continue refining our approach,” the company says.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/</guid><pubDate>Sat, 16 Aug 2025 15:50:05 +0000</pubDate></item></channel></rss>
