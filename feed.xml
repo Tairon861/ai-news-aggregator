@@ -1,461 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 22 Aug 2025 06:32:42 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>Is the AI bubble about to pop? Sam Altman is prepared either way. (AI – Ars Technica)</title><link>https://arstechnica.com/information-technology/2025/08/sam-altman-calls-ai-a-bubble-while-seeking-500b-valuation-for-openai/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        "Someone will lose a phenomenal amount of money," says CEO while fundraising at record prices.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="https://www.gettyimages.com/detail/news-photo/sam-altman-chief-executive-officer-of-openai-inc-at-station-news-photo/2198353376" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198353376-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="https://www.gettyimages.com/detail/news-photo/sam-altman-chief-executive-officer-of-openai-inc-at-station-news-photo/2198353376" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198353376-scaled-1152x648-1739457486.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Sam Altman during the AI Action Summit in Paris, France, on Tuesday, Feb. 11, 2025.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Bloomberg via Getty Images
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;Last Thursday, OpenAI CEO Sam Altman told reporters at a private dinner that investors are overexcited about AI models. "Someone" will lose a "phenomenal amount of money," he said, according to The Verge. The statement came as his company negotiates a secondary share sale at a $500 billion valuation—up from $300 billion just months earlier.&lt;/p&gt;
-&lt;p&gt;"Are we in a phase where investors as a whole are overexcited about AI? My opinion is yes," Altman told the journalists, comparing the current market to the dot-com crash of the 1990s. Wired reported that he also predicted his company will spend "trillions of dollars on data center construction in the not very distant future" and that ChatGPT will soon serve "billions of people a day."&lt;/p&gt;
-&lt;p&gt;For context, Facebook serves about 3 billion monthly active users. Altman's projection would require ChatGPT to reach nearly half the world's population as daily users (not monthly, like Facebook), which is an extraordinarily optimistic outlook.&lt;/p&gt;
-&lt;p&gt;Altman's bubble comments happened to land just before Fortune covered new MIT research showing widespread enterprise AI failures. The study, titled "GenAI Divide: State of AI in Business 2025," found that 95 percent of enterprise AI pilots fail to deliver rapid revenue acceleration. The research analyzed 300 public AI deployments, surveyed 350 employees, and included 150 interviews with business leaders, although Financial Times columnist Robert Armstrong noted this week that the MIT report "reads like something given away on the 'research' page of a large consultancy." Its conclusions are fairly obvious, he said: People like ChatGPT for basic tasks and hate complicated enterprise systems, and companies that try to build their own AI usually fail.&lt;/p&gt;
-&lt;p&gt;The study attributes these failures to implementation problems rather than model quality. "The core issue? Not the quality of the AI models, but the 'learning gap' for both tools and organizations," Fortune wrote about the study. Purchased AI tools succeed 67 percent of the time, while internally built systems succeed only one-third as often. This isn't necessarily an indictment of AI technology as a whole—it's potentially an indictment of corporate IT departments thinking they can out-engineer existing applications from AI service providers like OpenAI.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Still, the coincidence between Altman's statement and the MIT report reportedly spooked tech stock investors earlier in the week, who have already been watching AI valuations climb to extraordinary heights. Palantir trades at 280 times forward earnings. During the dot-com peak, ratios of 30 to 40 times earnings marked bubble territory.&lt;/p&gt;
-&lt;p&gt;The apparent contradiction in Altman's overall message is notable. This isn't how you'd expect a tech executive to talk when they believe their industry faces imminent collapse. While warning about a bubble, he's simultaneously seeking a valuation that would make OpenAI worth more than Walmart or ExxonMobil—companies with actual profits. OpenAI hit $1 billion in monthly revenue in July but is reportedly heading toward a $5 billion annual loss. So what's going on here?&lt;/p&gt;
-&lt;p&gt;Looking at Altman's statements over time reveals a potential multi-level strategy. He likes to talk big. In February 2024, he reportedly sought an audacious $5 trillion–7 trillion for AI chip fabrication—larger than the entire semiconductor industry—effectively normalizing astronomical numbers in AI discussions.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;By August 2025, while warning of a bubble where someone will lose a "phenomenal amount of money," he casually mentioned that OpenAI would "spend trillions on datacenter construction" and serve "billions daily." This creates urgency while potentially insulating OpenAI from criticism—acknowledging the bubble exists while positioning his company's infrastructure spending as different and necessary. When economists raised concerns, Altman dismissed them by saying, "Let us do our thing," framing trillion-dollar investments as inevitable for human progress while making OpenAI's $500 billion valuation seem almost reasonable by comparison.&lt;/p&gt;
-&lt;p&gt;This dual messaging—catastrophic warnings paired with trillion-dollar ambitions—might seem contradictory, but it makes more sense when you consider the unique structure of today's AI market, which is absolutely flush with cash.&lt;/p&gt;
-&lt;h2&gt;A different kind of bubble&lt;/h2&gt;
-&lt;p&gt;The current AI investment cycle differs from previous technology bubbles. Unlike dot-com era startups that burned through venture capital with no path to profitability, the largest AI investors—Microsoft, Google, Meta, and Amazon—generate hundreds of billions of dollars in annual profits from their core businesses.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Microsoft alone plans to spend $80 billion on AI data centers this fiscal year. These companies can potentially sustain losses from AI development for years without facing the cash crises that typically trigger bubble collapses.&lt;/p&gt;
-&lt;p&gt;"Back then, you had a lot of over-leveraged situations. You didn't have a lot of companies that had earnings," Citi's Rob Rowe said on CNBC. "Here you're talking about companies that have very solid earnings, very strong cash flow."&lt;/p&gt;
-&lt;p&gt;The structural difference matters. When the dot-com bubble burst in 2000, hundreds of companies vanished overnight because they ran out of money. Today's AI investors can absorb losses that would have killed entire companies two decades ago. If there is a bubble, it might deflate gradually over years rather than pop in a sudden crash.&lt;/p&gt;
-&lt;p&gt;After all, deep pockets don't guarantee product success. OpenAI's CEO recently acknowledged problems with the messy GPT-5 launch, which others are using as evidence that the AI industry is in trouble. But the AI market is now much larger than just OpenAI, with Google, Meta, and Anthropic among those fiercely competing for customers.&lt;/p&gt;
-&lt;p&gt;Despite the struggles with AI in enterprise and his own bubble warnings, Altman remains bullish on AI's long-term trajectory. The technology continues to improve despite its drawbacks and misapplications, and major companies keep increasing their investments rather than pulling back. Whether current valuations make sense in the short term is one question; whether AI will eventually transform the economy is another entirely.&lt;/p&gt;
-&lt;p&gt;"I do think some investors are likely to get very burnt here, and that sucks. And I don't want to minimize that," Altman told the reporters last week. "But on the whole, it is my belief that... the value created by AI for society will be tremendous."&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        "Someone will lose a phenomenal amount of money," says CEO while fundraising at record prices.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="https://www.gettyimages.com/detail/news-photo/sam-altman-chief-executive-officer-of-openai-inc-at-station-news-photo/2198353376" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198353376-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="https://www.gettyimages.com/detail/news-photo/sam-altman-chief-executive-officer-of-openai-inc-at-station-news-photo/2198353376" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198353376-scaled-1152x648-1739457486.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Sam Altman during the AI Action Summit in Paris, France, on Tuesday, Feb. 11, 2025.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Bloomberg via Getty Images
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;Last Thursday, OpenAI CEO Sam Altman told reporters at a private dinner that investors are overexcited about AI models. "Someone" will lose a "phenomenal amount of money," he said, according to The Verge. The statement came as his company negotiates a secondary share sale at a $500 billion valuation—up from $300 billion just months earlier.&lt;/p&gt;
-&lt;p&gt;"Are we in a phase where investors as a whole are overexcited about AI? My opinion is yes," Altman told the journalists, comparing the current market to the dot-com crash of the 1990s. Wired reported that he also predicted his company will spend "trillions of dollars on data center construction in the not very distant future" and that ChatGPT will soon serve "billions of people a day."&lt;/p&gt;
-&lt;p&gt;For context, Facebook serves about 3 billion monthly active users. Altman's projection would require ChatGPT to reach nearly half the world's population as daily users (not monthly, like Facebook), which is an extraordinarily optimistic outlook.&lt;/p&gt;
-&lt;p&gt;Altman's bubble comments happened to land just before Fortune covered new MIT research showing widespread enterprise AI failures. The study, titled "GenAI Divide: State of AI in Business 2025," found that 95 percent of enterprise AI pilots fail to deliver rapid revenue acceleration. The research analyzed 300 public AI deployments, surveyed 350 employees, and included 150 interviews with business leaders, although Financial Times columnist Robert Armstrong noted this week that the MIT report "reads like something given away on the 'research' page of a large consultancy." Its conclusions are fairly obvious, he said: People like ChatGPT for basic tasks and hate complicated enterprise systems, and companies that try to build their own AI usually fail.&lt;/p&gt;
-&lt;p&gt;The study attributes these failures to implementation problems rather than model quality. "The core issue? Not the quality of the AI models, but the 'learning gap' for both tools and organizations," Fortune wrote about the study. Purchased AI tools succeed 67 percent of the time, while internally built systems succeed only one-third as often. This isn't necessarily an indictment of AI technology as a whole—it's potentially an indictment of corporate IT departments thinking they can out-engineer existing applications from AI service providers like OpenAI.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Still, the coincidence between Altman's statement and the MIT report reportedly spooked tech stock investors earlier in the week, who have already been watching AI valuations climb to extraordinary heights. Palantir trades at 280 times forward earnings. During the dot-com peak, ratios of 30 to 40 times earnings marked bubble territory.&lt;/p&gt;
-&lt;p&gt;The apparent contradiction in Altman's overall message is notable. This isn't how you'd expect a tech executive to talk when they believe their industry faces imminent collapse. While warning about a bubble, he's simultaneously seeking a valuation that would make OpenAI worth more than Walmart or ExxonMobil—companies with actual profits. OpenAI hit $1 billion in monthly revenue in July but is reportedly heading toward a $5 billion annual loss. So what's going on here?&lt;/p&gt;
-&lt;p&gt;Looking at Altman's statements over time reveals a potential multi-level strategy. He likes to talk big. In February 2024, he reportedly sought an audacious $5 trillion–7 trillion for AI chip fabrication—larger than the entire semiconductor industry—effectively normalizing astronomical numbers in AI discussions.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;By August 2025, while warning of a bubble where someone will lose a "phenomenal amount of money," he casually mentioned that OpenAI would "spend trillions on datacenter construction" and serve "billions daily." This creates urgency while potentially insulating OpenAI from criticism—acknowledging the bubble exists while positioning his company's infrastructure spending as different and necessary. When economists raised concerns, Altman dismissed them by saying, "Let us do our thing," framing trillion-dollar investments as inevitable for human progress while making OpenAI's $500 billion valuation seem almost reasonable by comparison.&lt;/p&gt;
-&lt;p&gt;This dual messaging—catastrophic warnings paired with trillion-dollar ambitions—might seem contradictory, but it makes more sense when you consider the unique structure of today's AI market, which is absolutely flush with cash.&lt;/p&gt;
-&lt;h2&gt;A different kind of bubble&lt;/h2&gt;
-&lt;p&gt;The current AI investment cycle differs from previous technology bubbles. Unlike dot-com era startups that burned through venture capital with no path to profitability, the largest AI investors—Microsoft, Google, Meta, and Amazon—generate hundreds of billions of dollars in annual profits from their core businesses.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Microsoft alone plans to spend $80 billion on AI data centers this fiscal year. These companies can potentially sustain losses from AI development for years without facing the cash crises that typically trigger bubble collapses.&lt;/p&gt;
-&lt;p&gt;"Back then, you had a lot of over-leveraged situations. You didn't have a lot of companies that had earnings," Citi's Rob Rowe said on CNBC. "Here you're talking about companies that have very solid earnings, very strong cash flow."&lt;/p&gt;
-&lt;p&gt;The structural difference matters. When the dot-com bubble burst in 2000, hundreds of companies vanished overnight because they ran out of money. Today's AI investors can absorb losses that would have killed entire companies two decades ago. If there is a bubble, it might deflate gradually over years rather than pop in a sudden crash.&lt;/p&gt;
-&lt;p&gt;After all, deep pockets don't guarantee product success. OpenAI's CEO recently acknowledged problems with the messy GPT-5 launch, which others are using as evidence that the AI industry is in trouble. But the AI market is now much larger than just OpenAI, with Google, Meta, and Anthropic among those fiercely competing for customers.&lt;/p&gt;
-&lt;p&gt;Despite the struggles with AI in enterprise and his own bubble warnings, Altman remains bullish on AI's long-term trajectory. The technology continues to improve despite its drawbacks and misapplications, and major companies keep increasing their investments rather than pulling back. Whether current valuations make sense in the short term is one question; whether AI will eventually transform the economy is another entirely.&lt;/p&gt;
-&lt;p&gt;"I do think some investors are likely to get very burnt here, and that sucks. And I don't want to minimize that," Altman told the reporters last week. "But on the whole, it is my belief that... the value created by AI for society will be tremendous."&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/information-technology/2025/08/sam-altman-calls-ai-a-bubble-while-seeking-500b-valuation-for-openai/</guid><pubDate>Thu, 21 Aug 2025 22:06:37 +0000</pubDate></item><item><title>OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2019062515.jpg?resize=1200,815" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI is asking Meta to produce evidence related to any coordinated plans with Elon Musk and xAI to acquire or invest in the ChatGPT-maker.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The request was made public in a brief filed Thursday in Elon Musk’s ongoing lawsuit against OpenAI. Lawyers representing OpenAI said they subpoenaed Meta in June for documents related to its potential involvement in Musk’s unsolicited, $97 billion bid to takeover the startup in February. It’s unclear from the filing whether such documents exists. OpenAI ultimately denied Musk’s bid.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s lawyers say they discovered that Musk communicated with Meta CEO Mark Zuckerberg concerning xAI’s bid to purchase the ChatGPT-maker, including “about potential financing arrangements or investments.” &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta objected to OpenAI’s initial subpoena in July; the ChatGPT-maker’s lawyers are now seeking a court order to obtain such evidence. OpenAI is also asking the court for any of Meta’s documents and communications related to “any actual or potential restructuring or recapitalization of OpenAI” — the core issue in Musk’s lawsuit against OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta spokesperson Andy Stone directed TechCrunch towards a section of OpenAI’s filing which states that neither Meta nor Zuckerberg signed Musk’s letter of intent to acquire the ChatGPT-maker. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta declined to comment further. OpenAI and legal counsel for Musk did not immediately respond to TechCrunch’s request for comment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the background of OpenAI’s fight with Musk, Meta has significantly invested in its own efforts to develop frontier AI models. In 2023, Meta executives obsessed over developing an AI model that could beat OpenAI’s GPT-4, court filings in another case revealed. By early 2025, Meta’s AI models fell behind the industry standard, reportedly infuriating Zuckerberg.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Zuckerberg has upped the pressure in recent months, poaching several of OpenAI’s leading AI researchers, including a co-creator of ChatGPT, Shengjia Zhao, who now leads research efforts at the company’s newest AI unit, Meta Superintelligence Labs. Meta also invested $14 billion in Scale AI, and reportedly approached several other AI labs about acquisition deals.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While it’s unclear how far talks developed between Musk and Zuckerberg, the mere idea of a partnership between the two billionaires represents just how much of a threat OpenAI is. Two years ago, Musk said he would physically fight Zuckerberg in a cage match (it never happened though). &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The rise of AI may have prompted Musk and Zuckerberg to set aside their differences.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The briefing disclosed Thursday is part of a larger lawsuit filed by Musk against OpenAI that takes issue with OpenAI’s conversion of its for-profit arm into a public benefit corporation. Such a conversion is necessary for OpenAI to obtain funding from investors, and eventually go public. However, Musk — a cofounder and early investor in OpenAI — has attempted to throw a wrench in the endeavor, claiming that the restructuring goes against the startup’s founding mission.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Lawyers representing Meta asked the court to reject OpenAI’s request for evidence, arguing that Musk and xAI can provide any relevant information. Meta also argues that its internal discussions of OpenAI’s restructuring and recapitalization are not relevant to the case.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This story has been updated to add more information about the case, as well as history of Musk and Zuckerberg’s relationship.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2019062515.jpg?resize=1200,815" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI is asking Meta to produce evidence related to any coordinated plans with Elon Musk and xAI to acquire or invest in the ChatGPT-maker.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The request was made public in a brief filed Thursday in Elon Musk’s ongoing lawsuit against OpenAI. Lawyers representing OpenAI said they subpoenaed Meta in June for documents related to its potential involvement in Musk’s unsolicited, $97 billion bid to takeover the startup in February. It’s unclear from the filing whether such documents exists. OpenAI ultimately denied Musk’s bid.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s lawyers say they discovered that Musk communicated with Meta CEO Mark Zuckerberg concerning xAI’s bid to purchase the ChatGPT-maker, including “about potential financing arrangements or investments.” &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta objected to OpenAI’s initial subpoena in July; the ChatGPT-maker’s lawyers are now seeking a court order to obtain such evidence. OpenAI is also asking the court for any of Meta’s documents and communications related to “any actual or potential restructuring or recapitalization of OpenAI” — the core issue in Musk’s lawsuit against OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta spokesperson Andy Stone directed TechCrunch towards a section of OpenAI’s filing which states that neither Meta nor Zuckerberg signed Musk’s letter of intent to acquire the ChatGPT-maker. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta declined to comment further. OpenAI and legal counsel for Musk did not immediately respond to TechCrunch’s request for comment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the background of OpenAI’s fight with Musk, Meta has significantly invested in its own efforts to develop frontier AI models. In 2023, Meta executives obsessed over developing an AI model that could beat OpenAI’s GPT-4, court filings in another case revealed. By early 2025, Meta’s AI models fell behind the industry standard, reportedly infuriating Zuckerberg.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Zuckerberg has upped the pressure in recent months, poaching several of OpenAI’s leading AI researchers, including a co-creator of ChatGPT, Shengjia Zhao, who now leads research efforts at the company’s newest AI unit, Meta Superintelligence Labs. Meta also invested $14 billion in Scale AI, and reportedly approached several other AI labs about acquisition deals.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While it’s unclear how far talks developed between Musk and Zuckerberg, the mere idea of a partnership between the two billionaires represents just how much of a threat OpenAI is. Two years ago, Musk said he would physically fight Zuckerberg in a cage match (it never happened though). &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The rise of AI may have prompted Musk and Zuckerberg to set aside their differences.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The briefing disclosed Thursday is part of a larger lawsuit filed by Musk against OpenAI that takes issue with OpenAI’s conversion of its for-profit arm into a public benefit corporation. Such a conversion is necessary for OpenAI to obtain funding from investors, and eventually go public. However, Musk — a cofounder and early investor in OpenAI — has attempted to throw a wrench in the endeavor, claiming that the restructuring goes against the startup’s founding mission.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Lawyers representing Meta asked the court to reject OpenAI’s request for evidence, arguing that Musk and xAI can provide any relevant information. Meta also argues that its internal discussions of OpenAI’s restructuring and recapitalization are not relevant to the case.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This story has been updated to add more information about the case, as well as history of Musk and Zuckerberg’s relationship.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/</guid><pubDate>Fri, 22 Aug 2025 00:31:38 +0000</pubDate></item><item><title>[NEW] RIKEN, Japan’s Leading Science Institute, Taps Fujitsu and NVIDIA for Next Flagship Supercomputer (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/fugakunext/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/08/hpc-corp-blog-fugaku-1280x680-1.png" /&gt;&lt;/div&gt;&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Japan is once again building a landmark high-performance computing system — not simply by chasing speed, but by rethinking how technology can best serve the nation’s most urgent scientific needs.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 22 Aug 2025 12:42:22 +0000</lastBuildDate><item><title>RIKEN, Japan’s Leading Science Institute, Taps Fujitsu and NVIDIA for Next Flagship Supercomputer (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/fugakunext/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/08/hpc-corp-blog-fugaku-1280x680-1.png" /&gt;&lt;/div&gt;&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Japan is once again building a landmark high-performance computing system — not simply by chasing speed, but by rethinking how technology can best serve the nation’s most urgent scientific needs.&lt;/p&gt;
 &lt;p&gt;At the FugakuNEXT International Initiative Launch Ceremony held in Tokyo on Aug. 22, leaders from RIKEN, Japan’s top research institute, announced the start of an international collaboration with Fujitsu and NVIDIA to co-design FugakuNEXT, the successor to the world-renowned supercomputer, Fugaku.&lt;/p&gt;
 &lt;p&gt;Awarded early in the process, the contract enables the partners to work side by side in shaping the system’s architecture to address Japan’s most critical research priorities — from earth systems modeling and disaster resilience to drug discovery and advanced manufacturing.&lt;/p&gt;
 &lt;p&gt;More than an upgrade, the effort will highlight Japan’s embrace of modern AI and showcase Japanese innovations that can be harnessed by researchers and enterprises across the globe.&lt;/p&gt;
@@ -511,9 +55,405 @@
 &lt;p&gt;&lt;i&gt;Image courtesy of RIKEN&lt;/i&gt;&lt;/p&gt;
 
 		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/fugakunext/</guid><pubDate>Fri, 22 Aug 2025 03:00:56 +0000</pubDate></item><item><title>[NEW] OpenAI announces New Delhi office as it expands footprint in India (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI has announced plans to open its first office in India, just days after launching a ChatGPT plan tailored for Indian users, as it looks to tap into the country’s rapidly growing AI market.&lt;/p&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/fugakunext/</guid><pubDate>Fri, 22 Aug 2025 03:00:56 +0000</pubDate></item><item><title>[NEW] Don’t sleep on Cohere: Command A Reasoning, its first reasoning model, is built for enterprise customer service and more (AI News | VentureBeat)</title><link>https://venturebeat.com/ai/dont-sleep-on-cohere-command-a-reasoning-its-first-reasoning-model-is-built-for-enterprise-customer-service-and-more/</link><description>&lt;div id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
 
-&lt;p class="wp-block-paragraph"&gt;On Friday, the company said it would set up a local team in India and open a corporate office in the capital, New Delhi, in the coming months. The move builds on OpenAI’s recent hiring efforts in the region. In April 2024, the company appointed former Truecaller and Meta executive Pragya Mishra as its public policy and partnerships lead in India. OpenAI also brought on former Twitter India head Rishi Jaitly as a senior advisor to help facilitate discussions with the Indian government on AI policy.&lt;/p&gt;
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;I was in more meetings than usual today so I just caught up to the fact that &lt;strong&gt;Cohere, &lt;/strong&gt;the&lt;strong&gt; Canadian startup geared co-founded by former Transformer paper author Aidan Gomez &lt;/strong&gt;toward making generative AI products work easily, powerfully, and securely for enterprises, has &lt;strong&gt;released its first reasoning large language model (LLM), Command A Reasoning.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It looks to be a strong release. Benchmarks, technical specs, and early tests suggest the model delivers on flexibility, efficiency, and raw reasoning power. &lt;/p&gt;&lt;p&gt;Customer service, market research, scheduling, data analysis are some of the tasks Cohere says it’s built to handle automatically at scale inside&lt;strong&gt; secure enterprise environments.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It is a text-only model, however, but it should be easy enough to hook up to multimodal models and tools. In fact, tool use is one of its primary selling points. &lt;/p&gt;&lt;div id="id"&gt;&lt;div class="post-boilerplate boilerplate-speedbump" id="boilerplate_2803147"&gt;&lt;!-- wp:separator --&gt;
+&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;AI Scaling Hits Its Limits&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Power caps, rising token costs, and inference delays are reshaping enterprise AI. Join our exclusive salon to discover how top teams are:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul class="wp-block-list"&gt;&lt;!-- wp:list-item --&gt;
+&lt;li&gt;Turning energy into a strategic advantage&lt;/li&gt;
+&lt;!-- /wp:list-item --&gt;
+
+&lt;!-- wp:list-item --&gt;
+&lt;li&gt;Architecting efficient inference for real throughput gains&lt;/li&gt;
+&lt;!-- /wp:list-item --&gt;
+
+&lt;!-- wp:list-item --&gt;
+&lt;li&gt;Unlocking competitive ROI with sustainable AI systems&lt;/li&gt;
+&lt;!-- /wp:list-item --&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;strong&gt;Secure your spot to stay ahead&lt;/strong&gt;: https://bit.ly/4mwGngO&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;While it’s open for researchers to use for non-commercial purposes, enterprises will need to pay Cohere to get access and the company doesn’t publicly list its pricing because it says it makes bespoke customization and private deployment.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Cohere was valued at $6.8 billion&lt;/strong&gt; when it announced its latest funding round of $500 million a week and a day ago.&lt;/p&gt;
+
+
+
+&lt;h3 class="wp-block-heading" id="h-tuned-for-enterprises"&gt;Tuned for enterprises&lt;/h3&gt;
+
+
+
+&lt;p&gt;Command A Reasoning is tuned for enterprises with sprawling document libraries, long email chains, and workflows that can’t afford hallucinations. &lt;/p&gt;
+
+
+
+&lt;p&gt;It supports up to &lt;strong&gt;256,000 tokens&lt;/strong&gt; on multi-GPU setups, a decent size and comparable to OpenAI’s GPT-5.&lt;/p&gt;
+
+
+
+&lt;p&gt;The research release weighs in at 111-billion parameters, trained with tool-use and multilingual performance in mind. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;It supports 23 languages out of the box, including English, French, Spanish, Japanese, Arabic, and Hindi.&lt;/strong&gt; That multilingual depth is key for global enterprises that need consistent agent quality across markets.&lt;/p&gt;
+
+
+
+&lt;p&gt;The model slots directly into &lt;em&gt;North&lt;/em&gt;, Cohere’s new platform for deploying AI agents and automations on-premises. &lt;/p&gt;
+
+
+
+&lt;p&gt;That means enterprises can spin up custom agents that live entirely within their infrastructure, giving them control over data flows while still tapping into advanced reasoning.&lt;/p&gt;
+
+
+
+&lt;p&gt;Cohere looks like it’s thought cleverly to identify some of the recurring functions across enterprises — onboarding, market research and analysis, development — and trained its model to support its agentic workflows for handling these automatically. &lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3015955" height="600" src="https://venturebeat.com/wp-content/uploads/2025/08/2cf9ae44f8b085a95c125c4bcf4f33deeb1a0ddf-1128x1128-1.webp?w=600" width="600" /&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-controlled-thinking"&gt;Controlled thinking&lt;/h2&gt;
+
+
+
+&lt;p&gt;As with many other recent reasoning releases including Nvidia’s new Nemotron-Nano-9B-v2, Command A Reasoning introduces a token budget feature to let users or developers specify how much reasoning to allocate to specific inputs and tasks. Less budget means faster, cheaper replies. More budget means deeper, more accurate reasoning.&lt;/p&gt;
+
+
+
+&lt;p&gt;The Hugging Face release even exposes this tradeoff directly: reasoning can be toggled on or off through a simple parameter. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Developers can run the model in “reasoning mode” for maximum performance or switch it off for lower latency tasks—without changing models.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-excels-at-enterprise-targeted-benchmarks"&gt;Excels at enterprise targeted benchmarks&lt;/h2&gt;
+
+
+
+&lt;p&gt;So how does it perform in practice? Cohere’s benchmarks paint a clear picture.&lt;/p&gt;
+
+
+
+&lt;p&gt;On enterprise reasoning tasks, &lt;strong&gt;Command A Reasoning consistently outpaces peers like DeepSeek-R1 0528, gpt-oss-120b, and Mistral Magistral Medium.&lt;/strong&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;It handles multilingual benchmarks with equal strength, important for global businesses.&lt;/p&gt;
+
+
+
+&lt;p&gt;The token budget system isn’t just a gimmick. In head-to-head comparisons against Cohere’s previous &lt;em&gt;Command A&lt;/em&gt; model, satisfaction scores climbed steadily as the budget increased. Even with “instant” minimal reasoning, Command A Reasoning beat its predecessor. At higher budgets, it pulled further ahead.&lt;/p&gt;
+
+
+
+&lt;p&gt;The story is the same in deep research. On the &lt;em&gt;DeepResearch Bench&lt;/em&gt;—which measures instruction following, readability, insight, and comprehensiveness—Cohere’s system came out on top against offerings from Gemini, OpenAI, Anthropic, Perplexity, and xAI’s Grok. The model excelled in turning sprawling questions into reports that are not only detailed but readable, a key challenge in enterprise knowledge work.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;Beyond benchmarks, the model is wired for action. &lt;strong&gt;Cohere trained it specifically for conversational tool use — letting it call APIs, connect to databases, or query external systems during a task.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Developers can define tools via JSON schema and feed them into chat templates in Transformers, making it easier to integrate the model into existing enterprise systems.&lt;/p&gt;
+
+
+
+&lt;p&gt;That design supports Cohere’s larger bet on agentic workflows: AI systems made up of multiple coordinated agents, each handling a piece of a bigger job. Command A Reasoning is the reasoning engine that keeps those workflows coherent and on task.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-safety-built-for-high-stakes-work"&gt;Safety: built for high-stakes work&lt;/h2&gt;
+
+
+
+&lt;p&gt;Cohere is also pitching safety as a central feature. The model i&lt;strong&gt;s trained to avoid the common enterprise headache of over-refusal —&lt;/strong&gt; when an AI rejects legitimate requests out of caution — while &lt;strong&gt;still filtering harmful or malicious content. &lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Evaluations&lt;strong&gt; focused on five high-risk categories: child safety, self-harm, violence and hate, explicit material, and conspiracy theories.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;For companies looking to deploy AI in regulated industries or sensitive domains, this balance is meant to make the model more practical in day-to-day operations.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-early-buy-in-from-large-enterprises"&gt;Early buy-in from large enterprises&lt;/h2&gt;
+
+
+
+&lt;p&gt;SAP SE is one of the first major partners to integrate the model. Dr. Walter Sun, SVP and Global Head of AI, said the collaboration will enhance SAP’s generative AI capabilities within the SAP Business Technology Platform. For customers, that means agentic applications that can be customized to fit enterprise-specific needs.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-availability-and-licensing"&gt;Availability and licensing&lt;/h2&gt;
+
+
+
+&lt;p&gt;Command A Reasoning is available now on the Cohere platform, and for research use on Hugging Face. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;The Hugging Face repository provides open weights for research under a CC-BY-NC license, requiring users to share contact information and adhere to Cohere’s Acceptable Use Policy.&lt;/strong&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;Enterprises interested in commercial or private deployments can contact Cohere’s sales team for bespoke pricing.&lt;/p&gt;
+
+
+
+&lt;p&gt;For enterprises, the pitch is straightforward: one model, multiple modes of deployment, fine-grained control over performance, multilingual capability, tool integration, and benchmark results that suggest it outperforms its peers.&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;			&lt;/div&gt;</description><content:encoded>&lt;div id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;I was in more meetings than usual today so I just caught up to the fact that &lt;strong&gt;Cohere, &lt;/strong&gt;the&lt;strong&gt; Canadian startup geared co-founded by former Transformer paper author Aidan Gomez &lt;/strong&gt;toward making generative AI products work easily, powerfully, and securely for enterprises, has &lt;strong&gt;released its first reasoning large language model (LLM), Command A Reasoning.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It looks to be a strong release. Benchmarks, technical specs, and early tests suggest the model delivers on flexibility, efficiency, and raw reasoning power. &lt;/p&gt;&lt;p&gt;Customer service, market research, scheduling, data analysis are some of the tasks Cohere says it’s built to handle automatically at scale inside&lt;strong&gt; secure enterprise environments.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It is a text-only model, however, but it should be easy enough to hook up to multimodal models and tools. In fact, tool use is one of its primary selling points. &lt;/p&gt;&lt;div id="id"&gt;&lt;div class="post-boilerplate boilerplate-speedbump" id="boilerplate_2803147"&gt;&lt;!-- wp:separator --&gt;
+&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;AI Scaling Hits Its Limits&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Power caps, rising token costs, and inference delays are reshaping enterprise AI. Join our exclusive salon to discover how top teams are:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul class="wp-block-list"&gt;&lt;!-- wp:list-item --&gt;
+&lt;li&gt;Turning energy into a strategic advantage&lt;/li&gt;
+&lt;!-- /wp:list-item --&gt;
+
+&lt;!-- wp:list-item --&gt;
+&lt;li&gt;Architecting efficient inference for real throughput gains&lt;/li&gt;
+&lt;!-- /wp:list-item --&gt;
+
+&lt;!-- wp:list-item --&gt;
+&lt;li&gt;Unlocking competitive ROI with sustainable AI systems&lt;/li&gt;
+&lt;!-- /wp:list-item --&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;strong&gt;Secure your spot to stay ahead&lt;/strong&gt;: https://bit.ly/4mwGngO&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;While it’s open for researchers to use for non-commercial purposes, enterprises will need to pay Cohere to get access and the company doesn’t publicly list its pricing because it says it makes bespoke customization and private deployment.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Cohere was valued at $6.8 billion&lt;/strong&gt; when it announced its latest funding round of $500 million a week and a day ago.&lt;/p&gt;
+
+
+
+&lt;h3 class="wp-block-heading" id="h-tuned-for-enterprises"&gt;Tuned for enterprises&lt;/h3&gt;
+
+
+
+&lt;p&gt;Command A Reasoning is tuned for enterprises with sprawling document libraries, long email chains, and workflows that can’t afford hallucinations. &lt;/p&gt;
+
+
+
+&lt;p&gt;It supports up to &lt;strong&gt;256,000 tokens&lt;/strong&gt; on multi-GPU setups, a decent size and comparable to OpenAI’s GPT-5.&lt;/p&gt;
+
+
+
+&lt;p&gt;The research release weighs in at 111-billion parameters, trained with tool-use and multilingual performance in mind. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;It supports 23 languages out of the box, including English, French, Spanish, Japanese, Arabic, and Hindi.&lt;/strong&gt; That multilingual depth is key for global enterprises that need consistent agent quality across markets.&lt;/p&gt;
+
+
+
+&lt;p&gt;The model slots directly into &lt;em&gt;North&lt;/em&gt;, Cohere’s new platform for deploying AI agents and automations on-premises. &lt;/p&gt;
+
+
+
+&lt;p&gt;That means enterprises can spin up custom agents that live entirely within their infrastructure, giving them control over data flows while still tapping into advanced reasoning.&lt;/p&gt;
+
+
+
+&lt;p&gt;Cohere looks like it’s thought cleverly to identify some of the recurring functions across enterprises — onboarding, market research and analysis, development — and trained its model to support its agentic workflows for handling these automatically. &lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3015955" height="600" src="https://venturebeat.com/wp-content/uploads/2025/08/2cf9ae44f8b085a95c125c4bcf4f33deeb1a0ddf-1128x1128-1.webp?w=600" width="600" /&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-controlled-thinking"&gt;Controlled thinking&lt;/h2&gt;
+
+
+
+&lt;p&gt;As with many other recent reasoning releases including Nvidia’s new Nemotron-Nano-9B-v2, Command A Reasoning introduces a token budget feature to let users or developers specify how much reasoning to allocate to specific inputs and tasks. Less budget means faster, cheaper replies. More budget means deeper, more accurate reasoning.&lt;/p&gt;
+
+
+
+&lt;p&gt;The Hugging Face release even exposes this tradeoff directly: reasoning can be toggled on or off through a simple parameter. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Developers can run the model in “reasoning mode” for maximum performance or switch it off for lower latency tasks—without changing models.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-excels-at-enterprise-targeted-benchmarks"&gt;Excels at enterprise targeted benchmarks&lt;/h2&gt;
+
+
+
+&lt;p&gt;So how does it perform in practice? Cohere’s benchmarks paint a clear picture.&lt;/p&gt;
+
+
+
+&lt;p&gt;On enterprise reasoning tasks, &lt;strong&gt;Command A Reasoning consistently outpaces peers like DeepSeek-R1 0528, gpt-oss-120b, and Mistral Magistral Medium.&lt;/strong&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;It handles multilingual benchmarks with equal strength, important for global businesses.&lt;/p&gt;
+
+
+
+&lt;p&gt;The token budget system isn’t just a gimmick. In head-to-head comparisons against Cohere’s previous &lt;em&gt;Command A&lt;/em&gt; model, satisfaction scores climbed steadily as the budget increased. Even with “instant” minimal reasoning, Command A Reasoning beat its predecessor. At higher budgets, it pulled further ahead.&lt;/p&gt;
+
+
+
+&lt;p&gt;The story is the same in deep research. On the &lt;em&gt;DeepResearch Bench&lt;/em&gt;—which measures instruction following, readability, insight, and comprehensiveness—Cohere’s system came out on top against offerings from Gemini, OpenAI, Anthropic, Perplexity, and xAI’s Grok. The model excelled in turning sprawling questions into reports that are not only detailed but readable, a key challenge in enterprise knowledge work.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;Beyond benchmarks, the model is wired for action. &lt;strong&gt;Cohere trained it specifically for conversational tool use — letting it call APIs, connect to databases, or query external systems during a task.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Developers can define tools via JSON schema and feed them into chat templates in Transformers, making it easier to integrate the model into existing enterprise systems.&lt;/p&gt;
+
+
+
+&lt;p&gt;That design supports Cohere’s larger bet on agentic workflows: AI systems made up of multiple coordinated agents, each handling a piece of a bigger job. Command A Reasoning is the reasoning engine that keeps those workflows coherent and on task.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-safety-built-for-high-stakes-work"&gt;Safety: built for high-stakes work&lt;/h2&gt;
+
+
+
+&lt;p&gt;Cohere is also pitching safety as a central feature. The model i&lt;strong&gt;s trained to avoid the common enterprise headache of over-refusal —&lt;/strong&gt; when an AI rejects legitimate requests out of caution — while &lt;strong&gt;still filtering harmful or malicious content. &lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Evaluations&lt;strong&gt; focused on five high-risk categories: child safety, self-harm, violence and hate, explicit material, and conspiracy theories.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;For companies looking to deploy AI in regulated industries or sensitive domains, this balance is meant to make the model more practical in day-to-day operations.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-early-buy-in-from-large-enterprises"&gt;Early buy-in from large enterprises&lt;/h2&gt;
+
+
+
+&lt;p&gt;SAP SE is one of the first major partners to integrate the model. Dr. Walter Sun, SVP and Global Head of AI, said the collaboration will enhance SAP’s generative AI capabilities within the SAP Business Technology Platform. For customers, that means agentic applications that can be customized to fit enterprise-specific needs.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-availability-and-licensing"&gt;Availability and licensing&lt;/h2&gt;
+
+
+
+&lt;p&gt;Command A Reasoning is available now on the Cohere platform, and for research use on Hugging Face. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;The Hugging Face repository provides open weights for research under a CC-BY-NC license, requiring users to share contact information and adhere to Cohere’s Acceptable Use Policy.&lt;/strong&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;Enterprises interested in commercial or private deployments can contact Cohere’s sales team for bespoke pricing.&lt;/p&gt;
+
+
+
+&lt;p&gt;For enterprises, the pitch is straightforward: one model, multiple modes of deployment, fine-grained control over performance, multilingual capability, tool integration, and benchmark results that suggest it outperforms its peers.&lt;/p&gt;
+&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
+		&lt;div class="Boilerplate__newsletter-container vb"&gt;
+			&lt;div class="Boilerplate__newsletter-main"&gt;
+				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
+				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
+				
+				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
+				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
+					Thanks for subscribing. Check out more VB newsletters here.
+				&lt;/p&gt;
+				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
+			&lt;/div&gt;
+
+							&lt;div class="image-container"&gt;
+					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
+				&lt;/div&gt;
+			
+		&lt;/div&gt;
+		
+&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;			&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/dont-sleep-on-cohere-command-a-reasoning-its-first-reasoning-model-is-built-for-enterprise-customer-service-and-more/</guid><pubDate>Fri, 22 Aug 2025 03:35:22 +0000</pubDate></item><item><title>OpenAI announces New Delhi office as it expands footprint in India (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI has announced plans to open its first office in India, just days after launching a ChatGPT plan tailored for Indian users, as it looks to tap into the country’s rapidly growing AI market.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On Friday, the company said it would set up a local team in India and open a corporate office in the capital, New Delhi, in the coming months. The move builds on OpenAI’s recent hiring efforts in the region. In April 2024, the company appointed former Truecaller and Meta executive Pragya Misra as its public policy and partnerships lead in India. OpenAI also brought on former Twitter India head Rishi Jaitly as a senior advisor to help facilitate discussions with the Indian government on AI policy.&lt;/p&gt;
 
 
 
@@ -566,7 +506,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;“OpenAI’s decision to establish a presence in India reflects the country’s growing leadership in digital innovation and AI adoption,” said Indian IT Minister Ashwini Vaishnaw, in a prepared statement. “As part of the IndiaAI Mission, we are building the ecosystem for trusted and inclusive AI, and we welcome OpenAI’s partnership in advancing this vision to ensure the benefits of AI reach every citizen.”&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI has announced plans to open its first office in India, just days after launching a ChatGPT plan tailored for Indian users, as it looks to tap into the country’s rapidly growing AI market.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;On Friday, the company said it would set up a local team in India and open a corporate office in the capital, New Delhi, in the coming months. The move builds on OpenAI’s recent hiring efforts in the region. In April 2024, the company appointed former Truecaller and Meta executive Pragya Mishra as its public policy and partnerships lead in India. OpenAI also brought on former Twitter India head Rishi Jaitly as a senior advisor to help facilitate discussions with the Indian government on AI policy.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;On Friday, the company said it would set up a local team in India and open a corporate office in the capital, New Delhi, in the coming months. The move builds on OpenAI’s recent hiring efforts in the region. In April 2024, the company appointed former Truecaller and Meta executive Pragya Misra as its public policy and partnerships lead in India. OpenAI also brought on former Twitter India head Rishi Jaitly as a senior advisor to help facilitate discussions with the Indian government on AI policy.&lt;/p&gt;
 
 
 
@@ -617,4 +557,50 @@
 
 &lt;p class="wp-block-paragraph"&gt;One of the reasons these AI companies do not prioritize India as an early market is the difficulty in securing enterprise customers, a Silicon Valley-based investor source recently told TechCrunch.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“OpenAI’s decision to establish a presence in India reflects the country’s growing leadership in digital innovation and AI adoption,” said Indian IT Minister Ashwini Vaishnaw, in a prepared statement. “As part of the IndiaAI Mission, we are building the ecosystem for trusted and inclusive AI, and we welcome OpenAI’s partnership in advancing this vision to ensure the benefits of AI reach every citizen.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/</guid><pubDate>Fri, 22 Aug 2025 06:06:18 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;“OpenAI’s decision to establish a presence in India reflects the country’s growing leadership in digital innovation and AI adoption,” said Indian IT Minister Ashwini Vaishnaw, in a prepared statement. “As part of the IndiaAI Mission, we are building the ecosystem for trusted and inclusive AI, and we welcome OpenAI’s partnership in advancing this vision to ensure the benefits of AI reach every citizen.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/</guid><pubDate>Fri, 22 Aug 2025 06:06:18 +0000</pubDate></item><item><title>[NEW] I gave the police access to my DNA—and maybe some of yours (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/08/22/1122315/i-gave-police-access-to-my-dna/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/GettyImages-480811069.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Last year, I added my DNA profile to a private genealogical database, FamilyTreeDNA, and clicked “Yes” to allow the police to search my genes.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;In 2018, police in California announced they’d&amp;nbsp;caught the Golden State Killer, a man who had eluded capture for decades. &lt;/strong&gt;They did it by uploading crime-scene DNA to websites like the one I’d joined, where genealogy hobbyists share genetic profiles to find relatives and explore ancestry. Once the police had “matches” to a few relatives of the killer, they built a large family tree from which they plucked the likely suspect.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt; &lt;p&gt;This process, called forensic investigative genetic genealogy, or FIGG, has since helped solve hundreds of murders and sexual assaults. Still, while the technology is potent, it’s incompletely realized. It operates via a mishmash of private labs and unregulated websites, like FamilyTree, which give users a choice to opt into or out of police searches. The number of profiles available for search by police hovers around 1.5 million, not yet enough to find matches in all cases.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;To do my bit to increase those numbers, I traveled to Springfield, Massachusetts.&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;The staff of the local district attorney, Anthony D. Gulluni, was giving away free FamilyTree tests at a minor-league hockey game in an effort to widen its DNA net and help solve several cold-case murders. After glancing over a consent form, I spit into a tube and handed it back. According to the promotional material from Gulluni’s office, I’d “become a hero.”&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;But I wasn’t really driven by some urge to capture distantly related serial killers.&lt;/strong&gt; Rather, my spit had a less gallant and more quarrelsome motive: to troll privacy advocates whose fears around DNA I think are overblown and unhelpful. By giving up my saliva for inspection, I was going against the view that a person’s DNA is the individualized, sacred text that privacy advocates sometimes claim.&lt;/p&gt; 
+ &lt;p&gt;Indeed, the only reason FIGG works is that relatives share DNA: You share about 50% with a parent, 25% with a grandparent, about 12.5% with a first cousin, and so on. When I got my FamilyTree report back, my DNA had “matched” with 3,309 people.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Some people are frightened by FIGG or reject its punitive aims.&lt;/strong&gt; One European genealogist I know says her DNA is kept private because she opposes the death penalty and doesn’t want to risk aiding US authorities in cases where lethal injection might be applied. But if enough people share their DNA, conscientious objectors won’t matter. Scientists estimate that a database including 2% of the US population, or 6 million people, could identify the source of nearly any crime-scene DNA, given how many distant relatives each of us has.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_5"&gt; &lt;p&gt;Scholars of big data have termed this phenomenon “tyranny of the minority.” One person’s voluntary disclosure can end up exposing the same information about many others. And that tyranny can be abused.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;DNA information held in private genealogy websites like FamilyTree is lightly guarded by terms of service. &lt;/strong&gt;These agreements have flip-flopped over time; at one point all users were included in law enforcement searches by default. Rules are easily ignored, too. Recent court filings indicate that the FBI, in its zeal to solve crimes, sometimes barges past restrictions to look for matches in databases whose policies exclude police.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_7"&gt;&lt;p&gt;“Noble aims; no rules” is how one genetic genealogist described the overall situation in her field.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;My uncertainty grew the more questions I asked.&lt;/strong&gt; Who even controls my DNA file? That’s not easy to find out. FamilyTree is a brand operated by another company, Gene by Gene, which in 2021 was sold to a third company, MyDNA—ultimately owned by an Australian mogul whose name appears nowhere on its website. When I reached FamilyTree’s general manager, the genealogist Dave Vance, he told me that three-quarters of the profiles on the site were “opted in” to law enforcement searches.&lt;/p&gt;  &lt;p&gt;One solution holds that the federal government should organize its own national DNA database for FIGG. But that would require new laws, new technical standards, and a debate about how our society wants to employ this type of big data—not just getting individual consent like mine. No such national project—or consensus—exists.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;I’m still ready to join a national crime-fighting database, but I regret doing it the way I did&lt;/strong&gt;—spitting in a tube on the sidelines of a hockey game and signing a consent form that affects not just me but all my thousands of genetic relatives. To them, I say: Whoops. Your DNA; my bad.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This article first appeared in The Checkup,&amp;nbsp;&lt;/em&gt;MIT Technology Review’s&lt;em&gt;&amp;nbsp;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/GettyImages-480811069.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Last year, I added my DNA profile to a private genealogical database, FamilyTreeDNA, and clicked “Yes” to allow the police to search my genes.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;In 2018, police in California announced they’d&amp;nbsp;caught the Golden State Killer, a man who had eluded capture for decades. &lt;/strong&gt;They did it by uploading crime-scene DNA to websites like the one I’d joined, where genealogy hobbyists share genetic profiles to find relatives and explore ancestry. Once the police had “matches” to a few relatives of the killer, they built a large family tree from which they plucked the likely suspect.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt; &lt;p&gt;This process, called forensic investigative genetic genealogy, or FIGG, has since helped solve hundreds of murders and sexual assaults. Still, while the technology is potent, it’s incompletely realized. It operates via a mishmash of private labs and unregulated websites, like FamilyTree, which give users a choice to opt into or out of police searches. The number of profiles available for search by police hovers around 1.5 million, not yet enough to find matches in all cases.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;To do my bit to increase those numbers, I traveled to Springfield, Massachusetts.&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;The staff of the local district attorney, Anthony D. Gulluni, was giving away free FamilyTree tests at a minor-league hockey game in an effort to widen its DNA net and help solve several cold-case murders. After glancing over a consent form, I spit into a tube and handed it back. According to the promotional material from Gulluni’s office, I’d “become a hero.”&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;But I wasn’t really driven by some urge to capture distantly related serial killers.&lt;/strong&gt; Rather, my spit had a less gallant and more quarrelsome motive: to troll privacy advocates whose fears around DNA I think are overblown and unhelpful. By giving up my saliva for inspection, I was going against the view that a person’s DNA is the individualized, sacred text that privacy advocates sometimes claim.&lt;/p&gt; 
+ &lt;p&gt;Indeed, the only reason FIGG works is that relatives share DNA: You share about 50% with a parent, 25% with a grandparent, about 12.5% with a first cousin, and so on. When I got my FamilyTree report back, my DNA had “matched” with 3,309 people.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Some people are frightened by FIGG or reject its punitive aims.&lt;/strong&gt; One European genealogist I know says her DNA is kept private because she opposes the death penalty and doesn’t want to risk aiding US authorities in cases where lethal injection might be applied. But if enough people share their DNA, conscientious objectors won’t matter. Scientists estimate that a database including 2% of the US population, or 6 million people, could identify the source of nearly any crime-scene DNA, given how many distant relatives each of us has.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_5"&gt; &lt;p&gt;Scholars of big data have termed this phenomenon “tyranny of the minority.” One person’s voluntary disclosure can end up exposing the same information about many others. And that tyranny can be abused.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;DNA information held in private genealogy websites like FamilyTree is lightly guarded by terms of service. &lt;/strong&gt;These agreements have flip-flopped over time; at one point all users were included in law enforcement searches by default. Rules are easily ignored, too. Recent court filings indicate that the FBI, in its zeal to solve crimes, sometimes barges past restrictions to look for matches in databases whose policies exclude police.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_7"&gt;&lt;p&gt;“Noble aims; no rules” is how one genetic genealogist described the overall situation in her field.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;My uncertainty grew the more questions I asked.&lt;/strong&gt; Who even controls my DNA file? That’s not easy to find out. FamilyTree is a brand operated by another company, Gene by Gene, which in 2021 was sold to a third company, MyDNA—ultimately owned by an Australian mogul whose name appears nowhere on its website. When I reached FamilyTree’s general manager, the genealogist Dave Vance, he told me that three-quarters of the profiles on the site were “opted in” to law enforcement searches.&lt;/p&gt;  &lt;p&gt;One solution holds that the federal government should organize its own national DNA database for FIGG. But that would require new laws, new technical standards, and a debate about how our society wants to employ this type of big data—not just getting individual consent like mine. No such national project—or consensus—exists.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;I’m still ready to join a national crime-fighting database, but I regret doing it the way I did&lt;/strong&gt;—spitting in a tube on the sidelines of a hockey game and signing a consent form that affects not just me but all my thousands of genetic relatives. To them, I say: Whoops. Your DNA; my bad.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This article first appeared in The Checkup,&amp;nbsp;&lt;/em&gt;MIT Technology Review’s&lt;em&gt;&amp;nbsp;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/08/22/1122315/i-gave-police-access-to-my-dna/</guid><pubDate>Fri, 22 Aug 2025 09:00:00 +0000</pubDate></item><item><title>[NEW] The case against humans in space (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/08/22/1121428/case-against-space-travel-book-reviews/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Elon Musk and Jeff Bezos are bitter rivals in the commercial space race, but they agree on one thing: Settling space is an existential imperative. Space is the place. The final frontier. It is our human destiny to transcend our home world and expand our civilization to extraterrestrial vistas.&lt;/p&gt;  &lt;p&gt;This belief has been mainstream for decades, but its rise has been positively meteoric in this new gilded age of astropreneurs. Expanding humanity beyond Earth is both our birthright and our duty to the future, they insist. Failing to do so would consign our species to certain extinction—either by our own hand, perhaps through nuclear war or climate change, or in some cosmic disaster, like a massive asteroid impact.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;But as visions of giant orbital stations and Martian cities dance in our heads, a case against human space colonization has found its footing in a number of recent books. The argument grows from many grounds: Doubts about the practical feasibility of off-Earth communities. Concerns about the exorbitant costs, including who would bear them and who would profit. Realism about the harsh environment of space and the enormous tax it would exact on the human body. Suspicion of the underlying ideologies and mythologies that animate the race to settle space.&lt;/p&gt;  &lt;p&gt;And, more bluntly, a recognition that “space sucks” and a lot of people have “underestimated the scale of suckitude,” as Kelly and Zach Weinersmith put it in their book &lt;em&gt;A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?&lt;/em&gt;, which was released in paperback earlier this year.&lt;/p&gt; 
+&lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="cover of A City on Mars" class="wp-image-1121786" height="2000" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/book.mars_.jpg?w=1316" width="1316" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;strong&gt;A City on Mars: Can We Settle Space, Should&lt;br /&gt;We Settle Space, and Have We Really Thought This Through?&lt;/strong&gt;&lt;br /&gt;Kelly and Zach Weinersmith&lt;/figcaption&gt;&lt;div class="image-credit"&gt;PENGUIN RANDOM HOUSE, 2023&amp;nbsp;(PAPERBACK RELEASE 2025)&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;The Weinersmiths, a husband-wife team, spent years thinking it through—in delightfully pragmatic detail.&lt;em&gt; A City on Mars &lt;/em&gt;provides ground truth for our lofty celestial dreams by gaming out the medical, technical, legal, ethical, and existential consequences of space settlements.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Much to the authors’ own dismay, the result is a grotesquery of possible outcomes including (but not limited to) Martian eugenics, interplanetary war, and—­memorably—“space cannibalism.”&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;The Weinersmiths puncture the gauzy fantasy of space cities by asking pretty basic questions, like how to populate them. Astronauts experience all kinds of medical challenges in space, such as radiation exposure and bone loss, which would increase risks to both parents and babies. Nobody wants their pregnant “glow” to be a by-product of cosmic radiation.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Trying to bring forth babies in space “is going to be tricky business, not just in terms of science, but from the perspective of scientific ethics,” they write. “Adults can consent to being in experiments. Babies can’t.”&lt;/p&gt;  &lt;p&gt;You don’t even have to contemplate going to Mars to make some version of this case. In &lt;em&gt;Ground Control: An Argument for the End of Human Space Exploration,&lt;/em&gt; Savannah Mandel chronicles how past and present generations have regarded human spaceflight as an affront to vulnerable children right here on Earth.&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="cover of Ground Control" class="wp-image-1121785" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/book.control.jpg?w=858" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;strong&gt;Ground Control: An Argument for the End of Human Space Exploration&lt;/strong&gt;&lt;br /&gt;Savannah Mandel&lt;/figcaption&gt;&lt;div class="image-credit"&gt;CHICAGO REVIEW PRESS, 2024&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;“Hungry Kids Can’t Eat Moon Rocks,” read signs at a protest outside Kennedy Space Center on the eve of the Apollo 11 launch in July 1969. Gil Scott-Heron’s 1970 poem “Whitey on the Moon” rose to become the de facto anthem of this movement, which insists, to this day, that until humans get our earthly house in order, we have no business building new ones in outer space.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;em&gt;Ground Control,&lt;/em&gt; part memoir and part manifesto, channels this lament: How can we justify the enormous cost of sending people beyond our planet when there is so much suffering here at home?&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Advocates for human space exploration reject the zero-sum framing and point to the many downstream benefits of human spaceflight. Space exploration has catalyzed inventions from the CAT scan to baby formula. There is also inherent value in our shared adventure of learning about the vast cosmos.&lt;/p&gt;  &lt;p&gt;Those upsides are real, but they are not remotely well distributed. Mandel predicts that the commercial space sector in its current form will only exacerbate inequalities on Earth, as profits from space ventures flow into the coffers of the already obscenely rich.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;In her book, Mandel, a space anthropologist and scholar at Virginia Tech, describes a personal transformation from spacey dreamer to grounded critic. It began during fieldwork at Spaceport America, a commercial launch facility in New Mexico, where she began to see cracks in the dazzling future imagined by space billionaires. As her career took her from street protests in London to extravagant space industry banquets in Washington, DC, she writes, “crystal clear glasses” replaced “the rose-colored ones.”&lt;/p&gt; 
+
+ &lt;p&gt;Mandel remains enchanted by space but is skeptical that humans are the optimal trailblazers. Robots, rovers, probes, and other artificial space ambassadors could do the job for a fraction of the price and without risk to life, limb, and other corporeal vulnerabilities.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“A decentralization of self needs to occur,” she writes. “A dissolution of anthropocentrism, so to speak. And a recognition that future space explorers may not be man, even if man moves through them.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;In other words, giant leaps for mankind no longer necessitate a man’s small steps; the wheels of a rover or the rotors of a copter offer a much better bang for our buck than boots on the ground.&lt;/p&gt;  &lt;p&gt;In contrast to the Weinersmiths, Mandel devotes little attention to the physical dangers and limitations that space imposes on humans. She is more interested in a kind of psychic sickness that drives the impulse to abandon our planet and rush into new territories.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;Mary-Jane Rubenstein, a scholar of religion at Wesleyan University, presents a thorough diagnosis of this exact pathology in her 2022 book &lt;em&gt;Astrotopia: The Dangerous Religion of the Corporate Space Race&lt;/em&gt;, which came out in paperback last year&lt;em&gt;.&lt;/em&gt; It all begins, appropriately enough, with the book of Genesis, where God creates Earth for the dominion of man. Over the years, this biblical brain worm has offered divine justification for the brutal colonization and environmental exploitation of our planet. Now it serves as the religious rocket fuel propelling humans into the next frontier, Rubenstein argues.&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="cover of Astrotopia" class="wp-image-1121784" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/book.astrotopia.jpg?w=1241" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;strong&gt;Astrotopia: The Dangerous Religion of the Corporate Space Race&lt;/strong&gt;&lt;br /&gt;Mary-Jane Rubenstein&lt;/figcaption&gt;&lt;div class="image-credit"&gt;UNIVERSITY OF CHICAGO PRESS, 2022 &amp;nbsp;(PAPERBACK RELEASE 2024)&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;“The intensifying ‘NewSpace race’ is as much a mythological project as it is a political, economic, or scientific one,” she writes. “It’s a mythology, in fact, that holds all these other efforts together, giving them an aura of duty, grandeur, and benevolence.”&lt;/p&gt;  &lt;p&gt;Rubenstein makes a forceful case that malignant outgrowths of Christian ideas scaffold the dreams of space settlements championed by Musk, Bezos, and like-minded enthusiasts—even if these same people might never describe themselves as religious. If Earth is man’s dominion, space is the next logical step. Earth is just a temporary staging ground for a greater destiny; we will find our deliverance in the heavens.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“Fuck Earth,” Elon Musk said in 2014. “Who cares about Earth? If we can establish a Mars colony, we can almost certainly colonize the whole solar system.”&lt;/p&gt; 
+ &lt;p&gt;Jeff Bezos, for one, claims to care about Earth; that’s among his best arguments for why humans should move beyond it. If heavy industries and large civilian populations cast off into the orbital expanse, our home world can be, in his words, “zoned residential and light industry,” allowing it to recover from anthropogenic pressures. &lt;/p&gt;  &lt;p&gt;Bezos also believes that space settlements are essential for the betterment of humanity, in part on the grounds that they will uncork our population growth. He envisions an orbital archipelago of stations, sprawled across the solar system, that could support a collective population of a trillion people. “That’s a thousand Mozarts. A thousand Einsteins,” Bezos has mused. “What a cool civilization that would be.”&lt;/p&gt; 
+ &lt;p&gt;It does sound cool. But it’s an easy layup for Rubenstein: This “numbers game” approach would also produce a thousand Hitlers and Stalins, she writes.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;And that is the real crux of the argument against pushing hard torapidly expand human civilization into space: We will still be humans when we get there. We won’t escape our vices and frailties by leaving Earth—in fact, we may exacerbate them.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt; &lt;p&gt;While all three books push back on the existential argument for space settlements, the Weinersmiths take the rebuttal one step further by proposing that space colonization might actually increase the risk of self-annihilation rather than neutralizing it.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_12"&gt; &lt;p&gt;“Going to space will not end war because war isn’t caused by anything that space travel is apt to change, even in the most optimistic scenarios,” they write. “Humanity going to space en masse probably won’t reduce the likelihood of war, but we should consider that it might increase the chance of war being horrific.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The pair imagine rival space nations exchanging asteroid fire or poisoning whole biospheres. Proponents of space settlements often point to the fate of the dinosaurs as motivational grist, but what if a doomsday asteroid were deliberately flung between human cultures as a weapon? It may sound outlandish, but it’s no more speculative than a floating civilization with a thousand Mozarts. It follows the same logic of extrapolating our human future in space from our behavior on Earth in the past.&lt;/p&gt;  &lt;p&gt;So should we just sit around and wait for our inevitable extinction? The three books have more or less the same response: What’s the rush? It is far more likely that humanity will be wiped out by our own activity in the near term than by any kind of cosmic threat. Worrying about the expansion of the sun in billions of years, as Musk has openly done, is frankly hysterical.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;In the meantime, we have some growing up to do. Mandel and Rubenstein both argue that any worthy human future in space must adopt a decolonizing approach that emphasizes caretaking and stewardship of this planet and its inhabitants before we set off for others. They draw inspiration from science fiction, popular culture, and Indigenous knowledge, among other sources, to sketch out these alternative visions of an off-Earth future.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Mandel sees hope for this future in post-scarcity political theories. She cites various attempts to anticipate the needs of future generations—ideas found in the work of the social theorist Aaron Benanav, or in the values expressed by the Green New Deal, or in the fictional Ministry for the Future imagined by Kim Stanley Robinson in his 2020 novel of the same name. Whatever you think of the controversial 2025 book &lt;em&gt;Abundance&lt;/em&gt;, by Ezra Klein and Derek Thompson, it is also appealing to the same demand for a post-scarcity road map.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;To that end, Mandel envisions “the creation of a governing body that would require that techno-scientific plans, especially those with a global reach, take into consideration multigenerational impacts and multigenerational voices.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;For Rubenstein, religion is the poison, but it may also offer the cure. She sees potential in a revival of pantheism, which is the belief that all the contents of the universe—from rocks to humans to galaxies—are divine and perhaps alive on some level. She hasn’t fully converted herself to this movement, let alone become an evangelist, but she says it’s a spiritual direction that could be an effective counterweight to dominionist views of the universe.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_14"&gt;&lt;p&gt;“It doesn’t matter whether … any sort of pantheism is ‘true,’” she writes. “What matters is the way any given mythology prompts us to interact with the world we’re a part of—the world each of our actions helps to make and unmake. And frankly, some mythologies prompt us to act better than others.”&lt;/p&gt;  &lt;p&gt;All these authors ultimately conclude that it would be great if humans lived in space—someday, if and when we’ve matured. But the three books all express concerns about efforts by commercial space companies, with the help of the US government, to bypass established space laws and norms—concerns that have been thoroughly validated in 2025.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The combustible relationship between Elon Musk and Donald Trump has raised eyebrows about cronyism—and retribution—between governments and space companies. Space is rapidly becoming weaponized. And recent events have reminded us of the immense challenges of human spaceflight. SpaceX’s next-­generation Starship vehicle has suffered catastrophic failures in several test flights, while Boeing’s Starliner capsule experienced malfunctions that kept two astronauts on the International Space Station for months longer than expected. Even space tourism is developing a bad rap: In April, a star-studded all-woman crew on a Blue Origin suborbital flight was met with widespread backlash as a symbol of out-of-touch wealth and privilege.&lt;/p&gt;  &lt;p&gt;It is at this point that we must loop back to the issue of “suckitude,” which Mandel also channels in her book through the killer opening of M.T. Anderson’s novel &lt;em&gt;Feed&lt;/em&gt;: “We went to the moon to have fun, but the moon turned out to completely suck.”&lt;/p&gt;  &lt;p&gt;The dreams of space settlements put forward by Musk and Bezos are insanely fun. The reality may well suck. But it’s doubtful that any degree of suckitude will slow down the commercial space race, and the authors do at times seem to be yelling into the cosmic void.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Still, the books challenge space enthusiasts of all stripes to imagine new ways of relating to space that aren’t so tactile and exploitative. Along those lines, Rubenstein shares a compelling anecdote in &lt;em&gt;Astrotopia&lt;/em&gt; about an anthropologist who lived with an Inuit community in the early 1970s. When she told them about the Apollo moon landings, her hosts burst out in laughter.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“We didn’t know this was the first time you white people had been to the moon,” they said. “Our shamans go all the time … The issue is not whether we go to visit our relatives, but how we treat them and their homeland when we go.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Becky Ferreira is a science reporter based in upstate New York, and author of &lt;/em&gt;First Contact, &lt;em&gt;a book about the search for alien life, which will be published in September.&amp;nbsp;&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Elon Musk and Jeff Bezos are bitter rivals in the commercial space race, but they agree on one thing: Settling space is an existential imperative. Space is the place. The final frontier. It is our human destiny to transcend our home world and expand our civilization to extraterrestrial vistas.&lt;/p&gt;  &lt;p&gt;This belief has been mainstream for decades, but its rise has been positively meteoric in this new gilded age of astropreneurs. Expanding humanity beyond Earth is both our birthright and our duty to the future, they insist. Failing to do so would consign our species to certain extinction—either by our own hand, perhaps through nuclear war or climate change, or in some cosmic disaster, like a massive asteroid impact.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;But as visions of giant orbital stations and Martian cities dance in our heads, a case against human space colonization has found its footing in a number of recent books. The argument grows from many grounds: Doubts about the practical feasibility of off-Earth communities. Concerns about the exorbitant costs, including who would bear them and who would profit. Realism about the harsh environment of space and the enormous tax it would exact on the human body. Suspicion of the underlying ideologies and mythologies that animate the race to settle space.&lt;/p&gt;  &lt;p&gt;And, more bluntly, a recognition that “space sucks” and a lot of people have “underestimated the scale of suckitude,” as Kelly and Zach Weinersmith put it in their book &lt;em&gt;A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?&lt;/em&gt;, which was released in paperback earlier this year.&lt;/p&gt; 
+&lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="cover of A City on Mars" class="wp-image-1121786" height="2000" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/book.mars_.jpg?w=1316" width="1316" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;strong&gt;A City on Mars: Can We Settle Space, Should&lt;br /&gt;We Settle Space, and Have We Really Thought This Through?&lt;/strong&gt;&lt;br /&gt;Kelly and Zach Weinersmith&lt;/figcaption&gt;&lt;div class="image-credit"&gt;PENGUIN RANDOM HOUSE, 2023&amp;nbsp;(PAPERBACK RELEASE 2025)&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;The Weinersmiths, a husband-wife team, spent years thinking it through—in delightfully pragmatic detail.&lt;em&gt; A City on Mars &lt;/em&gt;provides ground truth for our lofty celestial dreams by gaming out the medical, technical, legal, ethical, and existential consequences of space settlements.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Much to the authors’ own dismay, the result is a grotesquery of possible outcomes including (but not limited to) Martian eugenics, interplanetary war, and—­memorably—“space cannibalism.”&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;The Weinersmiths puncture the gauzy fantasy of space cities by asking pretty basic questions, like how to populate them. Astronauts experience all kinds of medical challenges in space, such as radiation exposure and bone loss, which would increase risks to both parents and babies. Nobody wants their pregnant “glow” to be a by-product of cosmic radiation.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Trying to bring forth babies in space “is going to be tricky business, not just in terms of science, but from the perspective of scientific ethics,” they write. “Adults can consent to being in experiments. Babies can’t.”&lt;/p&gt;  &lt;p&gt;You don’t even have to contemplate going to Mars to make some version of this case. In &lt;em&gt;Ground Control: An Argument for the End of Human Space Exploration,&lt;/em&gt; Savannah Mandel chronicles how past and present generations have regarded human spaceflight as an affront to vulnerable children right here on Earth.&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="cover of Ground Control" class="wp-image-1121785" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/book.control.jpg?w=858" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;strong&gt;Ground Control: An Argument for the End of Human Space Exploration&lt;/strong&gt;&lt;br /&gt;Savannah Mandel&lt;/figcaption&gt;&lt;div class="image-credit"&gt;CHICAGO REVIEW PRESS, 2024&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;“Hungry Kids Can’t Eat Moon Rocks,” read signs at a protest outside Kennedy Space Center on the eve of the Apollo 11 launch in July 1969. Gil Scott-Heron’s 1970 poem “Whitey on the Moon” rose to become the de facto anthem of this movement, which insists, to this day, that until humans get our earthly house in order, we have no business building new ones in outer space.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;em&gt;Ground Control,&lt;/em&gt; part memoir and part manifesto, channels this lament: How can we justify the enormous cost of sending people beyond our planet when there is so much suffering here at home?&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Advocates for human space exploration reject the zero-sum framing and point to the many downstream benefits of human spaceflight. Space exploration has catalyzed inventions from the CAT scan to baby formula. There is also inherent value in our shared adventure of learning about the vast cosmos.&lt;/p&gt;  &lt;p&gt;Those upsides are real, but they are not remotely well distributed. Mandel predicts that the commercial space sector in its current form will only exacerbate inequalities on Earth, as profits from space ventures flow into the coffers of the already obscenely rich.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;In her book, Mandel, a space anthropologist and scholar at Virginia Tech, describes a personal transformation from spacey dreamer to grounded critic. It began during fieldwork at Spaceport America, a commercial launch facility in New Mexico, where she began to see cracks in the dazzling future imagined by space billionaires. As her career took her from street protests in London to extravagant space industry banquets in Washington, DC, she writes, “crystal clear glasses” replaced “the rose-colored ones.”&lt;/p&gt; 
+
+ &lt;p&gt;Mandel remains enchanted by space but is skeptical that humans are the optimal trailblazers. Robots, rovers, probes, and other artificial space ambassadors could do the job for a fraction of the price and without risk to life, limb, and other corporeal vulnerabilities.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“A decentralization of self needs to occur,” she writes. “A dissolution of anthropocentrism, so to speak. And a recognition that future space explorers may not be man, even if man moves through them.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;In other words, giant leaps for mankind no longer necessitate a man’s small steps; the wheels of a rover or the rotors of a copter offer a much better bang for our buck than boots on the ground.&lt;/p&gt;  &lt;p&gt;In contrast to the Weinersmiths, Mandel devotes little attention to the physical dangers and limitations that space imposes on humans. She is more interested in a kind of psychic sickness that drives the impulse to abandon our planet and rush into new territories.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;Mary-Jane Rubenstein, a scholar of religion at Wesleyan University, presents a thorough diagnosis of this exact pathology in her 2022 book &lt;em&gt;Astrotopia: The Dangerous Religion of the Corporate Space Race&lt;/em&gt;, which came out in paperback last year&lt;em&gt;.&lt;/em&gt; It all begins, appropriately enough, with the book of Genesis, where God creates Earth for the dominion of man. Over the years, this biblical brain worm has offered divine justification for the brutal colonization and environmental exploitation of our planet. Now it serves as the religious rocket fuel propelling humans into the next frontier, Rubenstein argues.&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="cover of Astrotopia" class="wp-image-1121784" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/book.astrotopia.jpg?w=1241" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;strong&gt;Astrotopia: The Dangerous Religion of the Corporate Space Race&lt;/strong&gt;&lt;br /&gt;Mary-Jane Rubenstein&lt;/figcaption&gt;&lt;div class="image-credit"&gt;UNIVERSITY OF CHICAGO PRESS, 2022 &amp;nbsp;(PAPERBACK RELEASE 2024)&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;“The intensifying ‘NewSpace race’ is as much a mythological project as it is a political, economic, or scientific one,” she writes. “It’s a mythology, in fact, that holds all these other efforts together, giving them an aura of duty, grandeur, and benevolence.”&lt;/p&gt;  &lt;p&gt;Rubenstein makes a forceful case that malignant outgrowths of Christian ideas scaffold the dreams of space settlements championed by Musk, Bezos, and like-minded enthusiasts—even if these same people might never describe themselves as religious. If Earth is man’s dominion, space is the next logical step. Earth is just a temporary staging ground for a greater destiny; we will find our deliverance in the heavens.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“Fuck Earth,” Elon Musk said in 2014. “Who cares about Earth? If we can establish a Mars colony, we can almost certainly colonize the whole solar system.”&lt;/p&gt; 
+ &lt;p&gt;Jeff Bezos, for one, claims to care about Earth; that’s among his best arguments for why humans should move beyond it. If heavy industries and large civilian populations cast off into the orbital expanse, our home world can be, in his words, “zoned residential and light industry,” allowing it to recover from anthropogenic pressures. &lt;/p&gt;  &lt;p&gt;Bezos also believes that space settlements are essential for the betterment of humanity, in part on the grounds that they will uncork our population growth. He envisions an orbital archipelago of stations, sprawled across the solar system, that could support a collective population of a trillion people. “That’s a thousand Mozarts. A thousand Einsteins,” Bezos has mused. “What a cool civilization that would be.”&lt;/p&gt; 
+ &lt;p&gt;It does sound cool. But it’s an easy layup for Rubenstein: This “numbers game” approach would also produce a thousand Hitlers and Stalins, she writes.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;And that is the real crux of the argument against pushing hard torapidly expand human civilization into space: We will still be humans when we get there. We won’t escape our vices and frailties by leaving Earth—in fact, we may exacerbate them.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt; &lt;p&gt;While all three books push back on the existential argument for space settlements, the Weinersmiths take the rebuttal one step further by proposing that space colonization might actually increase the risk of self-annihilation rather than neutralizing it.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_12"&gt; &lt;p&gt;“Going to space will not end war because war isn’t caused by anything that space travel is apt to change, even in the most optimistic scenarios,” they write. “Humanity going to space en masse probably won’t reduce the likelihood of war, but we should consider that it might increase the chance of war being horrific.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The pair imagine rival space nations exchanging asteroid fire or poisoning whole biospheres. Proponents of space settlements often point to the fate of the dinosaurs as motivational grist, but what if a doomsday asteroid were deliberately flung between human cultures as a weapon? It may sound outlandish, but it’s no more speculative than a floating civilization with a thousand Mozarts. It follows the same logic of extrapolating our human future in space from our behavior on Earth in the past.&lt;/p&gt;  &lt;p&gt;So should we just sit around and wait for our inevitable extinction? The three books have more or less the same response: What’s the rush? It is far more likely that humanity will be wiped out by our own activity in the near term than by any kind of cosmic threat. Worrying about the expansion of the sun in billions of years, as Musk has openly done, is frankly hysterical.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;In the meantime, we have some growing up to do. Mandel and Rubenstein both argue that any worthy human future in space must adopt a decolonizing approach that emphasizes caretaking and stewardship of this planet and its inhabitants before we set off for others. They draw inspiration from science fiction, popular culture, and Indigenous knowledge, among other sources, to sketch out these alternative visions of an off-Earth future.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Mandel sees hope for this future in post-scarcity political theories. She cites various attempts to anticipate the needs of future generations—ideas found in the work of the social theorist Aaron Benanav, or in the values expressed by the Green New Deal, or in the fictional Ministry for the Future imagined by Kim Stanley Robinson in his 2020 novel of the same name. Whatever you think of the controversial 2025 book &lt;em&gt;Abundance&lt;/em&gt;, by Ezra Klein and Derek Thompson, it is also appealing to the same demand for a post-scarcity road map.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;To that end, Mandel envisions “the creation of a governing body that would require that techno-scientific plans, especially those with a global reach, take into consideration multigenerational impacts and multigenerational voices.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;For Rubenstein, religion is the poison, but it may also offer the cure. She sees potential in a revival of pantheism, which is the belief that all the contents of the universe—from rocks to humans to galaxies—are divine and perhaps alive on some level. She hasn’t fully converted herself to this movement, let alone become an evangelist, but she says it’s a spiritual direction that could be an effective counterweight to dominionist views of the universe.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_14"&gt;&lt;p&gt;“It doesn’t matter whether … any sort of pantheism is ‘true,’” she writes. “What matters is the way any given mythology prompts us to interact with the world we’re a part of—the world each of our actions helps to make and unmake. And frankly, some mythologies prompt us to act better than others.”&lt;/p&gt;  &lt;p&gt;All these authors ultimately conclude that it would be great if humans lived in space—someday, if and when we’ve matured. But the three books all express concerns about efforts by commercial space companies, with the help of the US government, to bypass established space laws and norms—concerns that have been thoroughly validated in 2025.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The combustible relationship between Elon Musk and Donald Trump has raised eyebrows about cronyism—and retribution—between governments and space companies. Space is rapidly becoming weaponized. And recent events have reminded us of the immense challenges of human spaceflight. SpaceX’s next-­generation Starship vehicle has suffered catastrophic failures in several test flights, while Boeing’s Starliner capsule experienced malfunctions that kept two astronauts on the International Space Station for months longer than expected. Even space tourism is developing a bad rap: In April, a star-studded all-woman crew on a Blue Origin suborbital flight was met with widespread backlash as a symbol of out-of-touch wealth and privilege.&lt;/p&gt;  &lt;p&gt;It is at this point that we must loop back to the issue of “suckitude,” which Mandel also channels in her book through the killer opening of M.T. Anderson’s novel &lt;em&gt;Feed&lt;/em&gt;: “We went to the moon to have fun, but the moon turned out to completely suck.”&lt;/p&gt;  &lt;p&gt;The dreams of space settlements put forward by Musk and Bezos are insanely fun. The reality may well suck. But it’s doubtful that any degree of suckitude will slow down the commercial space race, and the authors do at times seem to be yelling into the cosmic void.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Still, the books challenge space enthusiasts of all stripes to imagine new ways of relating to space that aren’t so tactile and exploitative. Along those lines, Rubenstein shares a compelling anecdote in &lt;em&gt;Astrotopia&lt;/em&gt; about an anthropologist who lived with an Inuit community in the early 1970s. When she told them about the Apollo moon landings, her hosts burst out in laughter.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“We didn’t know this was the first time you white people had been to the moon,” they said. “Our shamans go all the time … The issue is not whether we go to visit our relatives, but how we treat them and their homeland when we go.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Becky Ferreira is a science reporter based in upstate New York, and author of &lt;/em&gt;First Contact, &lt;em&gt;a book about the search for alien life, which will be published in September.&amp;nbsp;&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/08/22/1121428/case-against-space-travel-book-reviews/</guid><pubDate>Fri, 22 Aug 2025 10:00:00 +0000</pubDate></item><item><title>[NEW] Meet the researcher hosting a scientific conference by and for AI (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/ai-science-conference3.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;In October, a new academic conference will debut that’s unlike any other. Agents4Science is a one-day online event that will encompass all areas of science, from physics to medicine. All of the work shared will have been researched, written, and reviewed primarily by AI, and will be presented using text-to-speech technology.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The conference is the brainchild of Stanford computer scientist James Zou, who studies how humans and AI can best work together. Artificial intelligence has already provided many useful tools for scientists, like DeepMind’s AlphaFold, which helps simulate proteins that are difficult to make physically. More recently, though, progress in large language models and reasoning-enabled AI has advanced the idea that AI can work more or less as autonomously as scientists themselves—proposing hypotheses, running simulations, and designing experiments on their own.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;That idea is not without its detractors. Among other issues, many feel AI is not capable of the creative thought needed in research, makes too many mistakes and hallucinations, and may limit opportunities for young researchers.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Nevertheless, a number of scientists and policymakers are very keen on the promise of AI scientists. The US government’s AI Action Plan describes the need to “invest in automated cloud-enabled labs for a range of scientific fields.” Some researchers think AI scientists could unlock scientific discoveries that humans could never find alone. For Zou, the proposition is simple: “AI agents are not limited in time. They could actually meet with us and work with us 24/7.”&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;Last month, Zou published an article in &lt;em&gt;Nature&lt;/em&gt; with results obtained from his own group of autonomous AI workers. Spurred on by his success, he now wants to see what other AI scientists (that is, scientists that &lt;em&gt;are&lt;/em&gt; AI) can accomplish. He describes what a successful paper at Agents4Science will look like: “The AI should be the first author and do most of the work. Humans can be advisors.”&lt;/p&gt;   
+ &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;A virtual lab staffed by AI&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;As a PhD student at Harvard in the early 2010s, Zou was so interested in AI’s potential for science that he took a year off from his computing research to work in a genomics lab, in a field that has greatly benefited from technology to map entire genomes. His time in so-called wet labs taught him how difficult it can be to work with experts in other fields. “They often have different languages,” he says.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Large language models, he believes, are better than people at deciphering and translating between subject-specific jargon. “They’ve read so broadly,” Zou says, that they can translate and generalize ideas across science very well. This idea inspired Zou to dream up what he calls the “Virtual Lab.”&lt;/p&gt;  &lt;p&gt;At a high level, the Virtual Lab would be a team of AI agents designed to mimic an actual university lab group. These agents would have various fields of expertise and could interact with different programs, like AlphaFold. Researchers could give one or more of these agents an agenda to work on, then open up the model to play back how the agents communicated to each other and determine which experiments people should pursue in a real-world trial.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Zou needed a (human) collaborator to help put this idea into action and tackle an actual research problem. Last year, he met John E. Pak, a research scientist at the Chan Zuckerberg Biohub. Pak, who shares Zou’s interest in using AI for science, agreed to make the Virtual Lab with him.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;Pak would help set the topic, but both he and Zou wanted to see what approaches the Virtual Lab could come up with on its own. As a first project, they decided to focus on designing therapies for new covid-19 strains. With this goal in mind, Zou set off training five AI scientists (including ones trained to act like an immunologist, a computational biologist, and a principal investigator) with different objectives and programs at their disposal.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Building these models took a few months, but Pak says they were very quick at designing candidates for therapies once the setup was complete: “I think it was a day or half a day, something like that.”&lt;/p&gt;  &lt;p&gt;Zou says the agents decided to study anti-covid nanobodies, a cousin of antibodies that are much smaller in size and less common in the wild. Zou was shocked, though, at the reason. He claims the models landed on nanobodies after making the connection that these smaller molecules would be well-suited to the limited computational resources the models were given. “It actually turned out to be a good decision, because the agents were able to design these nanobodies efficiently,” he says.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The nanobodies the models designed were genuinely new advances in science, and most were able to bind to the original covid-19 variant, according to the study. But Pak and Zou both admit that the main contribution of their article is really the Virtual Lab as a tool. Yi Shi, a pharmacologist at the University of Pennsylvania who was not involved in the work but made some of the underlying nanobodies the Virtual Lab modified, agrees. He says he loves the Virtual Lab demonstration and that “the major novelty is the automation.”&amp;nbsp;&lt;/p&gt; 
+
+ &lt;p&gt;&lt;em&gt;Nature &lt;/em&gt;accepted the article and fast-tracked it for publication preview—Zou knew leveraging AI agents for science was a hot area, and he wanted to be one of the first to test it.&amp;nbsp;&lt;/p&gt;    &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The AI scientists host a conference&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;When he was submitting his paper, Zou was dismayed to see that he couldn’t properly credit AI for its role in the research. Most conferences and journals don’t allow AI to be listed as coauthors on papers, and many explicitly prohibit researchers from using AI to write papers or reviews. &lt;em&gt;Nature&lt;/em&gt;, for instance, cites uncertainties over accountability, copyright, and inaccuracies among its reasons for banning the practice. “I think that’s limiting,” says Zou. “These kinds of policies are essentially incentivizing researchers to either hide or minimize their usage of AI.”&lt;/p&gt;  &lt;p&gt;Zou wanted to flip the script by creating the Agents4Science conference, which requires the primary author on all submissions to be an AI. Other bots then will attempt to evaluate the work and determine its scientific merits. But people won’t be left out of the loop entirely: A team of human experts, including a Nobel laureate in economics, will review the top papers.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;&lt;p&gt;Zou isn’t sure what will come of the conference, but he hopes there will be some gems among the hundreds of submissions he expects to receive across all domains. “There could be AI submissions that make interesting discoveries,” he says. “There could also be AI submissions that have a lot of interesting mistakes.”&lt;/p&gt;  &lt;p&gt;While Zou says the response to the conference has been positive, some scientists are less than impressed.&lt;/p&gt;  &lt;figure class="wp-block-pullquote alignright has-text-align-right"&gt;&lt;blockquote&gt;&lt;p&gt;“How do you get leaps of insight?"&lt;/p&gt;&lt;cite&gt;Lisa Messeri&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;  &lt;p&gt;Lisa Messeri, an anthropologist of science at Yale University, has loads of questions about AI’s ability to review science: “How do you get leaps of insight? And what happens if a leap of insight comes onto the reviewer’s desk?” She doubts the conference will be able to give satisfying answers.&lt;/p&gt;  &lt;p&gt;Last year, Messeri and her collaborator Molly Crockett investigated obstacles to using AI for science in another &lt;em&gt;Nature &lt;/em&gt;article. They remain unconvinced of its ability to produce novel results, including those shared in Zou’s nanobodies paper.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;“I’m the kind of scientist who is the target audience for these kinds of tools because I’m not a computer scientist … but I am doing computationally oriented work,” says Crockett, a cognitive scientist at Princeton University. “But I am at the same time very skeptical of the broader claims, especially with regard to how [AI scientists] might be able to simulate certain aspects of human thinking.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;And they’re both skeptical of the value of using AI to do science if automation prevents human scientists from building up the expertise they need to oversee the bots. Instead, they advocate for involving experts from a wider range of disciplines to design more thoughtful experiments before trusting AI to perform and review science.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“We need to be talking to epistemologists, philosophers of science, anthropologists of science, scholars who are thinking really hard about what knowledge is,” says Crockett.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But Zou sees his conference as exactly the kind of experiment that could help push the field forward. When it comes to AI-generated science, he says, “there’s a lot of hype and a lot of anecdotes, but there’s really no systematic data.” Whether Agents4Science can provide that kind of data is an open question, but in October, the bots will at least try to show the world what they’ve got.&amp;nbsp;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/ai-science-conference3.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;In October, a new academic conference will debut that’s unlike any other. Agents4Science is a one-day online event that will encompass all areas of science, from physics to medicine. All of the work shared will have been researched, written, and reviewed primarily by AI, and will be presented using text-to-speech technology.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The conference is the brainchild of Stanford computer scientist James Zou, who studies how humans and AI can best work together. Artificial intelligence has already provided many useful tools for scientists, like DeepMind’s AlphaFold, which helps simulate proteins that are difficult to make physically. More recently, though, progress in large language models and reasoning-enabled AI has advanced the idea that AI can work more or less as autonomously as scientists themselves—proposing hypotheses, running simulations, and designing experiments on their own.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;That idea is not without its detractors. Among other issues, many feel AI is not capable of the creative thought needed in research, makes too many mistakes and hallucinations, and may limit opportunities for young researchers.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Nevertheless, a number of scientists and policymakers are very keen on the promise of AI scientists. The US government’s AI Action Plan describes the need to “invest in automated cloud-enabled labs for a range of scientific fields.” Some researchers think AI scientists could unlock scientific discoveries that humans could never find alone. For Zou, the proposition is simple: “AI agents are not limited in time. They could actually meet with us and work with us 24/7.”&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;Last month, Zou published an article in &lt;em&gt;Nature&lt;/em&gt; with results obtained from his own group of autonomous AI workers. Spurred on by his success, he now wants to see what other AI scientists (that is, scientists that &lt;em&gt;are&lt;/em&gt; AI) can accomplish. He describes what a successful paper at Agents4Science will look like: “The AI should be the first author and do most of the work. Humans can be advisors.”&lt;/p&gt;   
+ &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;A virtual lab staffed by AI&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;As a PhD student at Harvard in the early 2010s, Zou was so interested in AI’s potential for science that he took a year off from his computing research to work in a genomics lab, in a field that has greatly benefited from technology to map entire genomes. His time in so-called wet labs taught him how difficult it can be to work with experts in other fields. “They often have different languages,” he says.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Large language models, he believes, are better than people at deciphering and translating between subject-specific jargon. “They’ve read so broadly,” Zou says, that they can translate and generalize ideas across science very well. This idea inspired Zou to dream up what he calls the “Virtual Lab.”&lt;/p&gt;  &lt;p&gt;At a high level, the Virtual Lab would be a team of AI agents designed to mimic an actual university lab group. These agents would have various fields of expertise and could interact with different programs, like AlphaFold. Researchers could give one or more of these agents an agenda to work on, then open up the model to play back how the agents communicated to each other and determine which experiments people should pursue in a real-world trial.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Zou needed a (human) collaborator to help put this idea into action and tackle an actual research problem. Last year, he met John E. Pak, a research scientist at the Chan Zuckerberg Biohub. Pak, who shares Zou’s interest in using AI for science, agreed to make the Virtual Lab with him.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;Pak would help set the topic, but both he and Zou wanted to see what approaches the Virtual Lab could come up with on its own. As a first project, they decided to focus on designing therapies for new covid-19 strains. With this goal in mind, Zou set off training five AI scientists (including ones trained to act like an immunologist, a computational biologist, and a principal investigator) with different objectives and programs at their disposal.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Building these models took a few months, but Pak says they were very quick at designing candidates for therapies once the setup was complete: “I think it was a day or half a day, something like that.”&lt;/p&gt;  &lt;p&gt;Zou says the agents decided to study anti-covid nanobodies, a cousin of antibodies that are much smaller in size and less common in the wild. Zou was shocked, though, at the reason. He claims the models landed on nanobodies after making the connection that these smaller molecules would be well-suited to the limited computational resources the models were given. “It actually turned out to be a good decision, because the agents were able to design these nanobodies efficiently,” he says.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The nanobodies the models designed were genuinely new advances in science, and most were able to bind to the original covid-19 variant, according to the study. But Pak and Zou both admit that the main contribution of their article is really the Virtual Lab as a tool. Yi Shi, a pharmacologist at the University of Pennsylvania who was not involved in the work but made some of the underlying nanobodies the Virtual Lab modified, agrees. He says he loves the Virtual Lab demonstration and that “the major novelty is the automation.”&amp;nbsp;&lt;/p&gt; 
+
+ &lt;p&gt;&lt;em&gt;Nature &lt;/em&gt;accepted the article and fast-tracked it for publication preview—Zou knew leveraging AI agents for science was a hot area, and he wanted to be one of the first to test it.&amp;nbsp;&lt;/p&gt;    &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The AI scientists host a conference&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;When he was submitting his paper, Zou was dismayed to see that he couldn’t properly credit AI for its role in the research. Most conferences and journals don’t allow AI to be listed as coauthors on papers, and many explicitly prohibit researchers from using AI to write papers or reviews. &lt;em&gt;Nature&lt;/em&gt;, for instance, cites uncertainties over accountability, copyright, and inaccuracies among its reasons for banning the practice. “I think that’s limiting,” says Zou. “These kinds of policies are essentially incentivizing researchers to either hide or minimize their usage of AI.”&lt;/p&gt;  &lt;p&gt;Zou wanted to flip the script by creating the Agents4Science conference, which requires the primary author on all submissions to be an AI. Other bots then will attempt to evaluate the work and determine its scientific merits. But people won’t be left out of the loop entirely: A team of human experts, including a Nobel laureate in economics, will review the top papers.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;&lt;p&gt;Zou isn’t sure what will come of the conference, but he hopes there will be some gems among the hundreds of submissions he expects to receive across all domains. “There could be AI submissions that make interesting discoveries,” he says. “There could also be AI submissions that have a lot of interesting mistakes.”&lt;/p&gt;  &lt;p&gt;While Zou says the response to the conference has been positive, some scientists are less than impressed.&lt;/p&gt;  &lt;figure class="wp-block-pullquote alignright has-text-align-right"&gt;&lt;blockquote&gt;&lt;p&gt;“How do you get leaps of insight?"&lt;/p&gt;&lt;cite&gt;Lisa Messeri&lt;/cite&gt;&lt;/blockquote&gt;&lt;/figure&gt;  &lt;p&gt;Lisa Messeri, an anthropologist of science at Yale University, has loads of questions about AI’s ability to review science: “How do you get leaps of insight? And what happens if a leap of insight comes onto the reviewer’s desk?” She doubts the conference will be able to give satisfying answers.&lt;/p&gt;  &lt;p&gt;Last year, Messeri and her collaborator Molly Crockett investigated obstacles to using AI for science in another &lt;em&gt;Nature &lt;/em&gt;article. They remain unconvinced of its ability to produce novel results, including those shared in Zou’s nanobodies paper.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;“I’m the kind of scientist who is the target audience for these kinds of tools because I’m not a computer scientist … but I am doing computationally oriented work,” says Crockett, a cognitive scientist at Princeton University. “But I am at the same time very skeptical of the broader claims, especially with regard to how [AI scientists] might be able to simulate certain aspects of human thinking.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;And they’re both skeptical of the value of using AI to do science if automation prevents human scientists from building up the expertise they need to oversee the bots. Instead, they advocate for involving experts from a wider range of disciplines to design more thoughtful experiments before trusting AI to perform and review science.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“We need to be talking to epistemologists, philosophers of science, anthropologists of science, scholars who are thinking really hard about what knowledge is,” says Crockett.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But Zou sees his conference as exactly the kind of experiment that could help push the field forward. When it comes to AI-generated science, he says, “there’s a lot of hype and a lot of anecdotes, but there’s really no systematic data.” Whether Agents4Science can provide that kind of data is an open question, but in October, the bots will at least try to show the world what they’ve got.&amp;nbsp;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/</guid><pubDate>Fri, 22 Aug 2025 11:00:00 +0000</pubDate></item><item><title>[NEW] The Download: Google’s AI energy expenditure, and handing over DNA data to the police (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/08/22/1122350/the-download-googles-ai-energy-expenditure-and-handing-over-dna-data-to-the-police/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;In a first, Google has released data on how much energy an AI prompt uses&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Google has just released a report detailing how much energy its Gemini apps use for each query. In total, the median prompt—one that falls in the middle of the range of energy demand—consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates for the water consumption (five drops per query) and carbon emissions associated with a text prompt to Gemini.&lt;/p&gt;&lt;p&gt;It’s the most transparent estimate yet from a Big Tech company with a popular AI product, and the report includes detailed information about how the company calculated its final estimate.&lt;/p&gt;  &lt;p&gt;Earlier this year, MIT Technology Review published a comprehensive series on AI and energy, at which time none of the major AI companies would reveal their per-prompt energy usage. Google’s new publication, at last, allows for a peek behind the curtain that researchers and analysts have long hoped for.&lt;strong&gt; &lt;/strong&gt;Read the full story.&lt;/p&gt; 
+ &lt;p&gt;&lt;em&gt;—Casey Crownhart&lt;/em&gt;&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;I gave the police access to my DNA—and maybe some of yours&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Last year, I added my DNA profile to a private genealogical database, FamilyTreeDNA, and clicked “Yes” to allow the police to search my genes.&lt;/p&gt;  &lt;p&gt;In 2018, police in California announced they’d caught the Golden State Killer, a man who had eluded capture for decades. Once the police had “matches” to a few relatives of the killer, they built a large family tree from which they plucked the likely suspect.&lt;/p&gt;&lt;p&gt;This process, called forensic investigative genetic genealogy, or FIGG, has since helped solve hundreds of murders and sexual assaults.&lt;/p&gt;  &lt;p&gt;But I wasn’t really driven by some urge to capture distantly related serial killers. Rather, my spit had a less gallant and more quarrelsome motive: to troll privacy advocates whose fears around DNA I think are overblown and unhelpful. By giving up my saliva for inspection, I was going against the view that a person’s DNA is the individualized, sacred text that privacy advocates sometimes claim. Read the full story.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;—Antonio Regalado&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This article appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, &lt;/strong&gt;&lt;strong&gt;sign up here&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Meet the researcher hosting a scientific conference by and for AI&lt;/strong&gt;&lt;/p&gt; 
+
+ &lt;p&gt;In October, a new academic conference will debut that’s unlike any other. All of the work shared at Agents4Science will have been researched, written, and reviewed primarily by AI, and will be presented using text-to-speech technology.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;That idea is not without its detractors. Among other issues, many feel AI is not capable of the creative thought needed in research, makes too many mistakes and hallucinations, and may limit opportunities for young researchers.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Nevertheless, a number of scientists and policymakers are very keen on the promise of AI scientists—and some even think they could unlock scientific discoveries that humans could never find alone. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Peter Hall&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 Elon Musk tried to persuade Mark Zuckerberg to buy OpenAI&lt;br /&gt;&lt;/strong&gt;But the bid was rejected earlier this year. (Insider $)&lt;br /&gt;+ &lt;em&gt;OpenAI is asking Meta for evidence of any coordinated plans. &lt;/em&gt;(TechCrunch)&lt;br /&gt;+ &lt;em&gt;I’m guessing the cage fight is still off then. &lt;/em&gt;(FT $)&lt;/p&gt; 
+ &lt;p&gt;&lt;strong&gt;2 AI giants are seeking real-world data that can’t be scraped from the internet&lt;/strong&gt;&lt;br /&gt;It’s a bid to make their models more accurate and to find new use cases. (Rest of World)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 Russia’s state-backed messenger app will be preinstalled on all phones&lt;/strong&gt;&lt;br /&gt;Critics say the MAX app is essentially a government spy tool. (Reuters)&lt;br /&gt;+ &lt;em&gt;Around 18 million people have registered to use it so far. &lt;/em&gt;(CNN)&lt;br /&gt;+ &lt;em&gt;How Russia killed its tech industry. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
+ &lt;p&gt;&lt;strong&gt;4 The Trump administration is refusing to fully fund a major HIV program&lt;/strong&gt;&lt;br /&gt;It’s ignoring a directive from Congress to withhold around $3 billion. (NYT $)&lt;br /&gt;+ &lt;em&gt;HIV could infect 1,400 infants every day because of US aid disruptions. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;5 How Trump decides which chip companies may have to give up equity&lt;/strong&gt;&lt;br /&gt;Increasing your investments in the US? You’re off the hook. (WSJ $)&lt;br /&gt;+ &lt;em&gt;America-first chipmaking remains a fantasy, though. &lt;/em&gt;(Economist $)&lt;br /&gt;+ &lt;em&gt;Experts think Trump’s unconventional Intel deal may backfire. &lt;/em&gt;(Wired $)&lt;br /&gt;+ &lt;em&gt;DeepSeek’s new AI model is compatible with Chinese-made chips. &lt;/em&gt;(FT $)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;&lt;strong&gt;6 The EU is speeding up its plans for a digital euro &lt;/strong&gt;&lt;strong&gt;💶&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;It’s considering running it on a public blockchain, to experts’ concern. (FT $)&lt;br /&gt;+ &lt;em&gt;Is the digital dollar dead? &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;7 We don’t have to open new mines to obtain minerals for clean energy&lt;br /&gt;&lt;/strong&gt;Although we have to get better at using the material we &lt;em&gt;do &lt;/em&gt;mine. (New Scientist $)&lt;br /&gt;+ &lt;em&gt;How one mine could unlock billions in EV subsidies. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 This newly-discovered gene could usher in new chronic pain treatments&lt;/strong&gt;&lt;br /&gt;One day, cutting out certain foods could lessen discomfort. (Economist $)&lt;br /&gt;+ &lt;em&gt;The pain is real. The painkillers are virtual reality. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 Why Africa is buying so many solar panels&lt;/strong&gt;&lt;br /&gt;It’s not just its more affluent nations snapping them up, either. (Wired $)&lt;br /&gt;+ &lt;em&gt;The race to get next-generation solar technology on the market. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
+ &lt;p&gt;&lt;strong&gt;10 How families are using AI to run their households&lt;br /&gt;&lt;/strong&gt;No more quibbling over meal planning. (WP $)&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;"If AGI doesn't come to pass sometime soon, I wouldn't be surprised if this whole thing pops."&lt;/strong&gt;&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt;&lt;p&gt;—Bhavya Kashyap, an angel investor, tells Insider why investors are fuelling a risky bubble by rushing to buy stocks in the hottest AI companies.&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1122353" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/image_501466.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;How AI is changing gymnastics judging&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 2023 World Championships last October marked the first time an AI judging system was used on every apparatus in a gymnastics competition. There are obvious upsides to using this kind of technology: AI could help take the guesswork out of the judging technicalities. It could even help to eliminate biases, making the sport both more fair and more transparent.&lt;/p&gt;&lt;p&gt;At the same time, others fear AI judging will take away something that makes gymnastics special. Gymnastics is a subjective sport, like diving or dressage, and technology could eliminate the judges’ role in crafting a narrative.&lt;/p&gt;&lt;p&gt;For better or worse, AI has officially infiltrated the world of gymnastics. The question now is whether it really makes it fairer. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jessica Taylor Price&lt;/em&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ Finally, some good news—a sweet little Australian marsupial called an ampurta is no longer endangered (thanks Glen!)&lt;br /&gt;+ What would a GTA set in London look like?&lt;br /&gt;+ Why glass houses aren’t all they’re cracked up to be (geddit?)&lt;br /&gt;+ Over in Denmark, there’s a national competition encouraging cities to get rid of their gray concrete tiles and replace them with peaceful green spaces (thanks Alice!)&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;In a first, Google has released data on how much energy an AI prompt uses&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Google has just released a report detailing how much energy its Gemini apps use for each query. In total, the median prompt—one that falls in the middle of the range of energy demand—consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates for the water consumption (five drops per query) and carbon emissions associated with a text prompt to Gemini.&lt;/p&gt;&lt;p&gt;It’s the most transparent estimate yet from a Big Tech company with a popular AI product, and the report includes detailed information about how the company calculated its final estimate.&lt;/p&gt;  &lt;p&gt;Earlier this year, MIT Technology Review published a comprehensive series on AI and energy, at which time none of the major AI companies would reveal their per-prompt energy usage. Google’s new publication, at last, allows for a peek behind the curtain that researchers and analysts have long hoped for.&lt;strong&gt; &lt;/strong&gt;Read the full story.&lt;/p&gt; 
+ &lt;p&gt;&lt;em&gt;—Casey Crownhart&lt;/em&gt;&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;I gave the police access to my DNA—and maybe some of yours&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Last year, I added my DNA profile to a private genealogical database, FamilyTreeDNA, and clicked “Yes” to allow the police to search my genes.&lt;/p&gt;  &lt;p&gt;In 2018, police in California announced they’d caught the Golden State Killer, a man who had eluded capture for decades. Once the police had “matches” to a few relatives of the killer, they built a large family tree from which they plucked the likely suspect.&lt;/p&gt;&lt;p&gt;This process, called forensic investigative genetic genealogy, or FIGG, has since helped solve hundreds of murders and sexual assaults.&lt;/p&gt;  &lt;p&gt;But I wasn’t really driven by some urge to capture distantly related serial killers. Rather, my spit had a less gallant and more quarrelsome motive: to troll privacy advocates whose fears around DNA I think are overblown and unhelpful. By giving up my saliva for inspection, I was going against the view that a person’s DNA is the individualized, sacred text that privacy advocates sometimes claim. Read the full story.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;—Antonio Regalado&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This article appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, &lt;/strong&gt;&lt;strong&gt;sign up here&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Meet the researcher hosting a scientific conference by and for AI&lt;/strong&gt;&lt;/p&gt; 
+
+ &lt;p&gt;In October, a new academic conference will debut that’s unlike any other. All of the work shared at Agents4Science will have been researched, written, and reviewed primarily by AI, and will be presented using text-to-speech technology.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;That idea is not without its detractors. Among other issues, many feel AI is not capable of the creative thought needed in research, makes too many mistakes and hallucinations, and may limit opportunities for young researchers.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Nevertheless, a number of scientists and policymakers are very keen on the promise of AI scientists—and some even think they could unlock scientific discoveries that humans could never find alone. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Peter Hall&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 Elon Musk tried to persuade Mark Zuckerberg to buy OpenAI&lt;br /&gt;&lt;/strong&gt;But the bid was rejected earlier this year. (Insider $)&lt;br /&gt;+ &lt;em&gt;OpenAI is asking Meta for evidence of any coordinated plans. &lt;/em&gt;(TechCrunch)&lt;br /&gt;+ &lt;em&gt;I’m guessing the cage fight is still off then. &lt;/em&gt;(FT $)&lt;/p&gt; 
+ &lt;p&gt;&lt;strong&gt;2 AI giants are seeking real-world data that can’t be scraped from the internet&lt;/strong&gt;&lt;br /&gt;It’s a bid to make their models more accurate and to find new use cases. (Rest of World)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 Russia’s state-backed messenger app will be preinstalled on all phones&lt;/strong&gt;&lt;br /&gt;Critics say the MAX app is essentially a government spy tool. (Reuters)&lt;br /&gt;+ &lt;em&gt;Around 18 million people have registered to use it so far. &lt;/em&gt;(CNN)&lt;br /&gt;+ &lt;em&gt;How Russia killed its tech industry. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
+ &lt;p&gt;&lt;strong&gt;4 The Trump administration is refusing to fully fund a major HIV program&lt;/strong&gt;&lt;br /&gt;It’s ignoring a directive from Congress to withhold around $3 billion. (NYT $)&lt;br /&gt;+ &lt;em&gt;HIV could infect 1,400 infants every day because of US aid disruptions. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;5 How Trump decides which chip companies may have to give up equity&lt;/strong&gt;&lt;br /&gt;Increasing your investments in the US? You’re off the hook. (WSJ $)&lt;br /&gt;+ &lt;em&gt;America-first chipmaking remains a fantasy, though. &lt;/em&gt;(Economist $)&lt;br /&gt;+ &lt;em&gt;Experts think Trump’s unconventional Intel deal may backfire. &lt;/em&gt;(Wired $)&lt;br /&gt;+ &lt;em&gt;DeepSeek’s new AI model is compatible with Chinese-made chips. &lt;/em&gt;(FT $)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;&lt;strong&gt;6 The EU is speeding up its plans for a digital euro &lt;/strong&gt;&lt;strong&gt;💶&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;It’s considering running it on a public blockchain, to experts’ concern. (FT $)&lt;br /&gt;+ &lt;em&gt;Is the digital dollar dead? &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;7 We don’t have to open new mines to obtain minerals for clean energy&lt;br /&gt;&lt;/strong&gt;Although we have to get better at using the material we &lt;em&gt;do &lt;/em&gt;mine. (New Scientist $)&lt;br /&gt;+ &lt;em&gt;How one mine could unlock billions in EV subsidies. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 This newly-discovered gene could usher in new chronic pain treatments&lt;/strong&gt;&lt;br /&gt;One day, cutting out certain foods could lessen discomfort. (Economist $)&lt;br /&gt;+ &lt;em&gt;The pain is real. The painkillers are virtual reality. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 Why Africa is buying so many solar panels&lt;/strong&gt;&lt;br /&gt;It’s not just its more affluent nations snapping them up, either. (Wired $)&lt;br /&gt;+ &lt;em&gt;The race to get next-generation solar technology on the market. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
+ &lt;p&gt;&lt;strong&gt;10 How families are using AI to run their households&lt;br /&gt;&lt;/strong&gt;No more quibbling over meal planning. (WP $)&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;"If AGI doesn't come to pass sometime soon, I wouldn't be surprised if this whole thing pops."&lt;/strong&gt;&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt;&lt;p&gt;—Bhavya Kashyap, an angel investor, tells Insider why investors are fuelling a risky bubble by rushing to buy stocks in the hottest AI companies.&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1122353" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/image_501466.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;How AI is changing gymnastics judging&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 2023 World Championships last October marked the first time an AI judging system was used on every apparatus in a gymnastics competition. There are obvious upsides to using this kind of technology: AI could help take the guesswork out of the judging technicalities. It could even help to eliminate biases, making the sport both more fair and more transparent.&lt;/p&gt;&lt;p&gt;At the same time, others fear AI judging will take away something that makes gymnastics special. Gymnastics is a subjective sport, like diving or dressage, and technology could eliminate the judges’ role in crafting a narrative.&lt;/p&gt;&lt;p&gt;For better or worse, AI has officially infiltrated the world of gymnastics. The question now is whether it really makes it fairer. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jessica Taylor Price&lt;/em&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ Finally, some good news—a sweet little Australian marsupial called an ampurta is no longer endangered (thanks Glen!)&lt;br /&gt;+ What would a GTA set in London look like?&lt;br /&gt;+ Why glass houses aren’t all they’re cracked up to be (geddit?)&lt;br /&gt;+ Over in Denmark, there’s a national competition encouraging cities to get rid of their gray concrete tiles and replace them with peaceful green spaces (thanks Alice!)&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/08/22/1122350/the-download-googles-ai-energy-expenditure-and-handing-over-dna-data-to-the-police/</guid><pubDate>Fri, 22 Aug 2025 12:10:00 +0000</pubDate></item></channel></rss>
