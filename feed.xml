@@ -1,318 +1,734 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 25 Aug 2025 06:34:48 +0000</lastBuildDate><item><title>Developers lose focus 1,200 times a day — how MCP could change that (AI News | VentureBeat)</title><link>https://venturebeat.com/ai/developers-lose-focus-1200-times-a-day-how-mcp-could-change-that/</link><description>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
-&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
-&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;Software developers spend most of their time &lt;em&gt;not&lt;/em&gt; writing code; recent industry research found that actual coding accounts for as little as 16% of developers’ working hours, with the rest consumed by operational and supportive tasks. As engineering teams are pressured to “do more with less” and CEOs are bragging about how much of their codebase is written by AI, a question remains: What’s done to optimize the remaining 84% of the tasks that engineers are working on?&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-keep-developers-where-they-are-the-most-productive"&gt;Keep developers where they are the most productive&lt;/h2&gt;
-
-
-
-&lt;p&gt;A major culprit to developer productivity is context switching: The constant hopping between the ever-growing array of tools and platforms needed to build and ship software. A Harvard Business Review study found that the average digital worker flips between applications and websites nearly 1,200 times per day. And every interruption matters. The University of California found that it takes about 23 minutes to regain focus after a single interruption fully, and sometimes worse, as nearly 30% of interrupted tasks are never resumed. Context switching is actually at the center of DORA, one of the most popular performance software development frameworks.&lt;/p&gt;
-
-
-
-&lt;p&gt;In an era where AI-driven companies are trying to empower their employees to do more with less, beyond “just” giving them access to large language models (LLMs), some trends are emerging. For example, Jarrod Ruhland, principal engineer at Brex, hypothesizes that “developers deliver their highest value when focused within their integrated development environment (IDE)”. With that in mind, he decided to find new ways to make this happen, and Anthropic’s new protocol might be one of the keys.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-mcp-a-protocol-to-bring-context-to-ides"&gt;MCP: A protocol to bring context to IDEs&lt;/h2&gt;
-
-
-
-&lt;p&gt;Coding assistants, such as LLM-powered IDEs like Cursor, Copilot and Windsurf, are at the center of a developer renaissance. Their adoption speed is unseen. Cursor became the fastest-growing SaaS in history, reaching $100 million ARR within 12 months of launch, and 70% of Fortune 500 companies use Microsoft Copilot.&lt;/p&gt;
-
-
-
-&lt;div class="post-boilerplate boilerplate-speedbump" id="boilerplate_2803147"&gt;&lt;!-- wp:separator --&gt;
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-&lt;!-- /wp:separator --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;AI Scaling Hits Its Limits&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Power caps, rising token costs, and inference delays are reshaping enterprise AI. Join our exclusive salon to discover how top teams are:&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:list --&gt;
-&lt;ul class="wp-block-list"&gt;&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Turning energy into a strategic advantage&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;
-
-&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Architecting efficient inference for real throughput gains&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;
-
-&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Unlocking competitive ROI with sustainable AI systems&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;&lt;/ul&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;strong&gt;Secure your spot to stay ahead&lt;/strong&gt;: https://bit.ly/4mwGngO&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:separator --&gt;
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;But these coding assistants were only limited to codebase context, which could help developers write code faster, but could not help with context switching. A new protocol is addressing this issue: Model Context Protocol (MCP). Released in November 2024 by Anthropic, it is an open standard developed to facilitate integration between AI systems, particularly LLM-based tools, and external tools and data sources. The protocol is so popular that there has been a 500% increase of new MCP servers in the last 6 months, with an estimated 7 million downloads in June,&lt;/p&gt;
-
-
-
-&lt;p&gt;One of the most impactful applications of MCP is its ability to connect AI coding assistants directly to the tools developers rely on every day, streamlining workflows and dramatically reducing context switching.&lt;/p&gt;
-
-
-
-&lt;p&gt;Take feature development as an example. Traditionally, it involves bouncing between several systems: Reading the ticket in a project tracker, looking at a conversation with a teammate for clarification, searching documentation for API details and, finally, opening the IDE to start coding. Each step lives in a different tab, requiring mental shifts that slow developers down.&lt;/p&gt;
-
-
-
-&lt;p&gt;With MCP and modern AI assistants like Anthropic’s Claude, that entire process can happen inside the editor.&lt;/p&gt;&lt;p&gt;For example, implementing a feature all within a coding assistant becomes:&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p&gt;The same principle can apply to many other engineers workflow, for instance an incident response for SREs could look like:&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;h2 class="wp-block-heading" id="h-nothing-new-under-the-sun"&gt;Nothing new under the sun&lt;/h2&gt;
-
-
-
-&lt;p&gt;We’ve seen this pattern before. Over the past decade, Slack has transformed workplace productivity by becoming a hub for hundreds of apps, enabling employees to manage a wide range of tasks without leaving the chat window. Slack’s platform reduced context switching in everyday workflows.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Riot Games, for example, connected around 1,000 Slack apps, and engineers saw a 27% reduction in time needed to test and iterate code, a 22% faster time to identify new bugs and a 24% increase in feature launch rate; all were attributed to streamlining workflows and reducing the friction of tool-switching.&lt;/p&gt;
-
-
-
-&lt;p&gt;Now, a similar transformation is occurring in software development, with AI assistants and their MCP integrations serving as the bridge to all these external tools. In effect, the IDE could become the new all-in-one command center for engineers, much like Slack has been for general knowledge workers.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-mcp-may-not-be-enterprise-ready"&gt;MCP may not be enterprise ready&lt;/h2&gt;
-
-
-
-&lt;p&gt;MCP is a relatively nascent standard, for example, security wisem MCP has no built-in authentication or permission model, relying on external implementations that are still evolving There’s also ambiguity around identity and auditing — the protocol doesn’t clearly distinguish whether an action was triggered by a user or the AI itself, making accountability and access control difficult without additional custom solutions. Lori MacVittie, distinguished engineer and chief evangelist in F5 Networks’ Office of the CTO, says that MCP is “breaking core security assumptions that we’ve held for a long time.”&lt;/p&gt;
-
-
-
-&lt;p&gt;Another practical limitation arises when too many MCP tools or servers are used simultaneously, for example, inside a coding assistant. Each MCP server advertises a list of tools, with descriptions and parameters, that the AI model needs to consider. Flooding the model with dozens of available tools can overwhelm its context window. Performance degrades noticeably as the tool count grows with some IDE integrations have imposed hard limits (around 40 tools in Cursor IDE, or ~20 tools for the OpenAI agent) to prevent the prompt from bloating beyond what the model can handle&lt;/p&gt;
-
-
-
-&lt;p&gt;Finally, there is no sophisticated way for tools to be auto-discovered or contextually suggested beyond listing them all, so developers often have to toggle them manually or curate which tools are active to keep things working smoothly. Referring to that example of Riot Games installing 1,000 Slack apps, we can see how it might be unfit for enterprise usage.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-less-swivel-chair-more-software"&gt;Less swivel-chair, more software&lt;/h2&gt;
-
-
-
-&lt;p&gt;The past decade has taught us the value of bringing work to the worker, from Slack channels that pipe in updates to “inbox zero” email methodologies and unified platform engineering dashboards. Now, with AI in our toolkit, we have an opportunity to empower developers to be more productive. Suppose Slack became the hub of business communication. &lt;/p&gt;
-
-
-
-&lt;p&gt;In that case, coding assistants are well-positioned to become the hub of software creation, not just where code is written, but where all the context and collaborators coalesce. By keeping developers in their flow, we remove the constant mental gear-shifting that has plagued engineering productivity.&lt;/p&gt;
-
-
-
-&lt;p&gt;For any organization that depends on software delivery, take a hard look at how your developers spend their day; you might be surprised by what you find.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;em&gt;Sylvain Kalache leads AI Labs at Rootly. &lt;/em&gt;&lt;/p&gt;
-&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
-		&lt;div class="Boilerplate__newsletter-container vb"&gt;
-			&lt;div class="Boilerplate__newsletter-main"&gt;
-				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
-				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
-				
-				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
-				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
-					Thanks for subscribing. Check out more VB newsletters here.
-				&lt;/p&gt;
-				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
-			&lt;/div&gt;
-
-							&lt;div class="image-container"&gt;
-					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
-				&lt;/div&gt;
-			
-		&lt;/div&gt;
-		
-&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</description><content:encoded>&lt;div class="post-boilerplate boilerplate-before" id="boilerplate_2682874"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;em&gt;Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.&lt;/em&gt; &lt;em&gt;Subscribe Now&lt;/em&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:separator {"opacity":"css","className":"is-style-wide"} --&gt;
-&lt;hr class="wp-block-separator has-css-opacity is-style-wide" /&gt;
-&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;Software developers spend most of their time &lt;em&gt;not&lt;/em&gt; writing code; recent industry research found that actual coding accounts for as little as 16% of developers’ working hours, with the rest consumed by operational and supportive tasks. As engineering teams are pressured to “do more with less” and CEOs are bragging about how much of their codebase is written by AI, a question remains: What’s done to optimize the remaining 84% of the tasks that engineers are working on?&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-keep-developers-where-they-are-the-most-productive"&gt;Keep developers where they are the most productive&lt;/h2&gt;
-
-
-
-&lt;p&gt;A major culprit to developer productivity is context switching: The constant hopping between the ever-growing array of tools and platforms needed to build and ship software. A Harvard Business Review study found that the average digital worker flips between applications and websites nearly 1,200 times per day. And every interruption matters. The University of California found that it takes about 23 minutes to regain focus after a single interruption fully, and sometimes worse, as nearly 30% of interrupted tasks are never resumed. Context switching is actually at the center of DORA, one of the most popular performance software development frameworks.&lt;/p&gt;
-
-
-
-&lt;p&gt;In an era where AI-driven companies are trying to empower their employees to do more with less, beyond “just” giving them access to large language models (LLMs), some trends are emerging. For example, Jarrod Ruhland, principal engineer at Brex, hypothesizes that “developers deliver their highest value when focused within their integrated development environment (IDE)”. With that in mind, he decided to find new ways to make this happen, and Anthropic’s new protocol might be one of the keys.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-mcp-a-protocol-to-bring-context-to-ides"&gt;MCP: A protocol to bring context to IDEs&lt;/h2&gt;
-
-
-
-&lt;p&gt;Coding assistants, such as LLM-powered IDEs like Cursor, Copilot and Windsurf, are at the center of a developer renaissance. Their adoption speed is unseen. Cursor became the fastest-growing SaaS in history, reaching $100 million ARR within 12 months of launch, and 70% of Fortune 500 companies use Microsoft Copilot.&lt;/p&gt;
-
-
-
-&lt;div class="post-boilerplate boilerplate-speedbump" id="boilerplate_2803147"&gt;&lt;!-- wp:separator --&gt;
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-&lt;!-- /wp:separator --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;AI Scaling Hits Its Limits&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Power caps, rising token costs, and inference delays are reshaping enterprise AI. Join our exclusive salon to discover how top teams are:&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:list --&gt;
-&lt;ul class="wp-block-list"&gt;&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Turning energy into a strategic advantage&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;
-
-&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Architecting efficient inference for real throughput gains&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;
-
-&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Unlocking competitive ROI with sustainable AI systems&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;&lt;/ul&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;strong&gt;Secure your spot to stay ahead&lt;/strong&gt;: https://bit.ly/4mwGngO&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:separator --&gt;
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-&lt;!-- /wp:separator --&gt;&lt;/div&gt;&lt;p&gt;But these coding assistants were only limited to codebase context, which could help developers write code faster, but could not help with context switching. A new protocol is addressing this issue: Model Context Protocol (MCP). Released in November 2024 by Anthropic, it is an open standard developed to facilitate integration between AI systems, particularly LLM-based tools, and external tools and data sources. The protocol is so popular that there has been a 500% increase of new MCP servers in the last 6 months, with an estimated 7 million downloads in June,&lt;/p&gt;
-
-
-
-&lt;p&gt;One of the most impactful applications of MCP is its ability to connect AI coding assistants directly to the tools developers rely on every day, streamlining workflows and dramatically reducing context switching.&lt;/p&gt;
-
-
-
-&lt;p&gt;Take feature development as an example. Traditionally, it involves bouncing between several systems: Reading the ticket in a project tracker, looking at a conversation with a teammate for clarification, searching documentation for API details and, finally, opening the IDE to start coding. Each step lives in a different tab, requiring mental shifts that slow developers down.&lt;/p&gt;
-
-
-
-&lt;p&gt;With MCP and modern AI assistants like Anthropic’s Claude, that entire process can happen inside the editor.&lt;/p&gt;&lt;p&gt;For example, implementing a feature all within a coding assistant becomes:&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p&gt;The same principle can apply to many other engineers workflow, for instance an incident response for SREs could look like:&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;h2 class="wp-block-heading" id="h-nothing-new-under-the-sun"&gt;Nothing new under the sun&lt;/h2&gt;
-
-
-
-&lt;p&gt;We’ve seen this pattern before. Over the past decade, Slack has transformed workplace productivity by becoming a hub for hundreds of apps, enabling employees to manage a wide range of tasks without leaving the chat window. Slack’s platform reduced context switching in everyday workflows.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Riot Games, for example, connected around 1,000 Slack apps, and engineers saw a 27% reduction in time needed to test and iterate code, a 22% faster time to identify new bugs and a 24% increase in feature launch rate; all were attributed to streamlining workflows and reducing the friction of tool-switching.&lt;/p&gt;
-
-
-
-&lt;p&gt;Now, a similar transformation is occurring in software development, with AI assistants and their MCP integrations serving as the bridge to all these external tools. In effect, the IDE could become the new all-in-one command center for engineers, much like Slack has been for general knowledge workers.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-mcp-may-not-be-enterprise-ready"&gt;MCP may not be enterprise ready&lt;/h2&gt;
-
-
-
-&lt;p&gt;MCP is a relatively nascent standard, for example, security wisem MCP has no built-in authentication or permission model, relying on external implementations that are still evolving There’s also ambiguity around identity and auditing — the protocol doesn’t clearly distinguish whether an action was triggered by a user or the AI itself, making accountability and access control difficult without additional custom solutions. Lori MacVittie, distinguished engineer and chief evangelist in F5 Networks’ Office of the CTO, says that MCP is “breaking core security assumptions that we’ve held for a long time.”&lt;/p&gt;
-
-
-
-&lt;p&gt;Another practical limitation arises when too many MCP tools or servers are used simultaneously, for example, inside a coding assistant. Each MCP server advertises a list of tools, with descriptions and parameters, that the AI model needs to consider. Flooding the model with dozens of available tools can overwhelm its context window. Performance degrades noticeably as the tool count grows with some IDE integrations have imposed hard limits (around 40 tools in Cursor IDE, or ~20 tools for the OpenAI agent) to prevent the prompt from bloating beyond what the model can handle&lt;/p&gt;
-
-
-
-&lt;p&gt;Finally, there is no sophisticated way for tools to be auto-discovered or contextually suggested beyond listing them all, so developers often have to toggle them manually or curate which tools are active to keep things working smoothly. Referring to that example of Riot Games installing 1,000 Slack apps, we can see how it might be unfit for enterprise usage.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-less-swivel-chair-more-software"&gt;Less swivel-chair, more software&lt;/h2&gt;
-
-
-
-&lt;p&gt;The past decade has taught us the value of bringing work to the worker, from Slack channels that pipe in updates to “inbox zero” email methodologies and unified platform engineering dashboards. Now, with AI in our toolkit, we have an opportunity to empower developers to be more productive. Suppose Slack became the hub of business communication. &lt;/p&gt;
-
-
-
-&lt;p&gt;In that case, coding assistants are well-positioned to become the hub of software creation, not just where code is written, but where all the context and collaborators coalesce. By keeping developers in their flow, we remove the constant mental gear-shifting that has plagued engineering productivity.&lt;/p&gt;
-
-
-
-&lt;p&gt;For any organization that depends on software delivery, take a hard look at how your developers spend their day; you might be surprised by what you find.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;em&gt;Sylvain Kalache leads AI Labs at Rootly. &lt;/em&gt;&lt;/p&gt;
-&lt;div class="post-boilerplate boilerplate-after" id="boilerplate_2660155"&gt;&lt;!-- wp:shortcode --&gt;
-		&lt;div class="Boilerplate__newsletter-container vb"&gt;
-			&lt;div class="Boilerplate__newsletter-main"&gt;
-				&lt;p&gt;&lt;strong&gt;Daily insights on business use cases with VB Daily&lt;/strong&gt;&lt;/p&gt;
-				&lt;p class="copy"&gt;If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.&lt;/p&gt;
-				
-				&lt;p class="Form__newsletter-legal"&gt;Read our Privacy Policy&lt;/p&gt;
-				&lt;p class="Form__success" id="boilerplateNewsletterConfirmation"&gt;
-					Thanks for subscribing. Check out more VB newsletters here.
-				&lt;/p&gt;
-				&lt;p class="Form__error"&gt;An error occured.&lt;/p&gt;
-			&lt;/div&gt;
-
-							&lt;div class="image-container"&gt;
-					&lt;img alt="alt" src="https://venturebeat.com/wp-content/themes/vb-news/brand/img/vb-daily-phone.png" /&gt;
-				&lt;/div&gt;
-			
-		&lt;/div&gt;
-		
-&lt;!-- /wp:shortcode --&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/developers-lose-focus-1200-times-a-day-how-mcp-could-change-that/</guid><pubDate>Sun, 24 Aug 2025 19:15:00 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 25 Aug 2025 12:45:00 +0000</lastBuildDate><item><title>[NEW] The US federal government secures a massive Google Gemini AI deal at $0.47 per agency (AI News)</title><link>https://www.artificialintelligence-news.com/news/google-gemini-government-ai-deal-gsa-agreement/</link><description>&lt;p&gt;Google Gemini will soon power federal operations across the United States government following a sweeping new agreement between the General Services Administration (GSA) and Google that delivers comprehensive AI capabilities at unprecedented pricing.&lt;/p&gt;&lt;p&gt;The “Gemini for Government” offering,&amp;nbsp;announced&amp;nbsp;by GSA, represents one of the most significant government AI procurement deals to date. Under the OneGov agreement extending through 2026, federal agencies will gain access to Google’s full artificial intelligence stack for just US$0.47 per agency—a pricing structure that industry observers note is remarkably aggressive for enterprise-level AI services.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-comprehensive-ai-suite-for-government-operations"&gt;Comprehensive AI Suite for government operations&lt;/h3&gt;&lt;p&gt;The partnership builds upon Google’s existing federal presence, where the company already provides Google Workspace to all federal agencies at a 71% price reduction. The new Gemini integration expands this relationship significantly, offering agencies access to advanced AI tools including NotebookLM, video and image generation capabilities powered by Google’s Veo technology, and pre-built AI agents for deep research and idea generation.&lt;/p&gt;&lt;p&gt;“Federal agencies can now significantly transform their operations by using the tools in ‘Gemini for Government’, thanks to this agreement with Google and the Trump Administration’s leadership revolutionising AI for the&amp;nbsp;U.S.&amp;nbsp;government,” said GSA Acting Administrator Michael Rigas.&lt;/p&gt;&lt;p&gt;The offering also enables federal workers to develop custom AI agents, potentially allowing for department-specific automation and workflow optimisation.&amp;nbsp;Google’s enterprise search capabilities are included, along with robust security features&amp;nbsp;covering&amp;nbsp;identity management, threat protection, and compliance frameworks, including&amp;nbsp;SOC2&amp;nbsp;Type 2 certification.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-strategic-timing-and-market-implications"&gt;Strategic timing and market implications&lt;/h3&gt;&lt;p&gt;This announcement aligns with President Trump’s America’s AI Action Plan and follows his April 2025 Executive Order, emphasising commercial, cost-effective solutions in federal contracts. The timing positions Google strategically against competitors like Microsoft and Amazon, who have also been pursuing significant government AI contracts.&lt;/p&gt;&lt;p&gt;Google CEO Sundar Pichai characterised the partnership as building on existing relationships: “Building on our Workspace offer for federal employees, ‘Gemini for Government’ gives federal agencies access to our full stack approach to AI innovation, including tools like NotebookLM and Veo powered by our latest models and our secure cloud infrastructure.”&lt;/p&gt;&lt;p&gt;However, the deal’s structure raises questions about long-term sustainability. The $0.47 per agency pricing appears designed to establish market presence rather than immediate profitability, suggesting Google views government adoption as a strategic investment in broader AI market penetration.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-technical-infrastructure-and-security-considerations"&gt;Technical Infrastructure and Security Considerations&lt;/h3&gt;&lt;p&gt;Google’s cloud platform products maintain FedRamp High authorisation, addressing critical security requirements for government deployments. The company’s AI-optimised cloud services will need to handle sensitive government workloads while maintaining strict compliance standards.&lt;/p&gt;&lt;p&gt;Federal Acquisition Service Commissioner Josh Gruenbaum emphasised the procurement flexibility aspect: “Critically, this offering will provide partner agencies with vital flexibility in GSA’s marketplace, ensuring they have the options needed to sustain a strong and resilient procurement ecosystem.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-market-context-and-future-implications"&gt;Market context and future implications&lt;/h3&gt;&lt;p&gt;The announcement comes as federal agencies face mounting pressure to modernise operations through AI adoption. While the pricing appears attractive for agencies, questions remain about implementation timelines, training requirements, and long-term vendor dependency risks.&lt;/p&gt;&lt;p&gt;Google Public Sector CEO Karen Dahut&amp;nbsp;positioned&amp;nbsp;the deal as a milestone: “This collaboration marks a significant milestone in our partnership with GSA, reaffirming our commitment to providing modern, efficient, and scalable cloud solutions that empower government agencies to better serve the American people.”&lt;/p&gt;&lt;p&gt;The $0.47 per agency pricing model raises immediate concerns about market distortion and the sustainability of such aggressive government contracting. Industry analysts question whether this represents genuine cost efficiency or a loss-leader strategy designed to lock agencies into Google’s ecosystem before prices inevitably rise after 2026.&lt;/p&gt;&lt;p&gt;Moreover, the deal’s sweeping scope—encompassing everything from basic productivity tools to custom AI agent development—may create dangerous vendor concentration risks. Should technical issues, security breaches, or contract disputes arise, the federal government could find itself heavily dependent on a single commercial provider for critical operational capabilities.&lt;/p&gt;&lt;p&gt;The announcement notably lacks specific metrics for measuring success, implementation timelines, or safeguards against vendor lock-in—details that will ultimately determine whether this represents genuine modernization or expensive experimentation with taxpayer resources.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: Google’s newest Gemini 2.5 model aims for ‘intelligence per dollar’&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Google Gemini will soon power federal operations across the United States government following a sweeping new agreement between the General Services Administration (GSA) and Google that delivers comprehensive AI capabilities at unprecedented pricing.&lt;/p&gt;&lt;p&gt;The “Gemini for Government” offering,&amp;nbsp;announced&amp;nbsp;by GSA, represents one of the most significant government AI procurement deals to date. Under the OneGov agreement extending through 2026, federal agencies will gain access to Google’s full artificial intelligence stack for just US$0.47 per agency—a pricing structure that industry observers note is remarkably aggressive for enterprise-level AI services.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-comprehensive-ai-suite-for-government-operations"&gt;Comprehensive AI Suite for government operations&lt;/h3&gt;&lt;p&gt;The partnership builds upon Google’s existing federal presence, where the company already provides Google Workspace to all federal agencies at a 71% price reduction. The new Gemini integration expands this relationship significantly, offering agencies access to advanced AI tools including NotebookLM, video and image generation capabilities powered by Google’s Veo technology, and pre-built AI agents for deep research and idea generation.&lt;/p&gt;&lt;p&gt;“Federal agencies can now significantly transform their operations by using the tools in ‘Gemini for Government’, thanks to this agreement with Google and the Trump Administration’s leadership revolutionising AI for the&amp;nbsp;U.S.&amp;nbsp;government,” said GSA Acting Administrator Michael Rigas.&lt;/p&gt;&lt;p&gt;The offering also enables federal workers to develop custom AI agents, potentially allowing for department-specific automation and workflow optimisation.&amp;nbsp;Google’s enterprise search capabilities are included, along with robust security features&amp;nbsp;covering&amp;nbsp;identity management, threat protection, and compliance frameworks, including&amp;nbsp;SOC2&amp;nbsp;Type 2 certification.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-strategic-timing-and-market-implications"&gt;Strategic timing and market implications&lt;/h3&gt;&lt;p&gt;This announcement aligns with President Trump’s America’s AI Action Plan and follows his April 2025 Executive Order, emphasising commercial, cost-effective solutions in federal contracts. The timing positions Google strategically against competitors like Microsoft and Amazon, who have also been pursuing significant government AI contracts.&lt;/p&gt;&lt;p&gt;Google CEO Sundar Pichai characterised the partnership as building on existing relationships: “Building on our Workspace offer for federal employees, ‘Gemini for Government’ gives federal agencies access to our full stack approach to AI innovation, including tools like NotebookLM and Veo powered by our latest models and our secure cloud infrastructure.”&lt;/p&gt;&lt;p&gt;However, the deal’s structure raises questions about long-term sustainability. The $0.47 per agency pricing appears designed to establish market presence rather than immediate profitability, suggesting Google views government adoption as a strategic investment in broader AI market penetration.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-technical-infrastructure-and-security-considerations"&gt;Technical Infrastructure and Security Considerations&lt;/h3&gt;&lt;p&gt;Google’s cloud platform products maintain FedRamp High authorisation, addressing critical security requirements for government deployments. The company’s AI-optimised cloud services will need to handle sensitive government workloads while maintaining strict compliance standards.&lt;/p&gt;&lt;p&gt;Federal Acquisition Service Commissioner Josh Gruenbaum emphasised the procurement flexibility aspect: “Critically, this offering will provide partner agencies with vital flexibility in GSA’s marketplace, ensuring they have the options needed to sustain a strong and resilient procurement ecosystem.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-market-context-and-future-implications"&gt;Market context and future implications&lt;/h3&gt;&lt;p&gt;The announcement comes as federal agencies face mounting pressure to modernise operations through AI adoption. While the pricing appears attractive for agencies, questions remain about implementation timelines, training requirements, and long-term vendor dependency risks.&lt;/p&gt;&lt;p&gt;Google Public Sector CEO Karen Dahut&amp;nbsp;positioned&amp;nbsp;the deal as a milestone: “This collaboration marks a significant milestone in our partnership with GSA, reaffirming our commitment to providing modern, efficient, and scalable cloud solutions that empower government agencies to better serve the American people.”&lt;/p&gt;&lt;p&gt;The $0.47 per agency pricing model raises immediate concerns about market distortion and the sustainability of such aggressive government contracting. Industry analysts question whether this represents genuine cost efficiency or a loss-leader strategy designed to lock agencies into Google’s ecosystem before prices inevitably rise after 2026.&lt;/p&gt;&lt;p&gt;Moreover, the deal’s sweeping scope—encompassing everything from basic productivity tools to custom AI agent development—may create dangerous vendor concentration risks. Should technical issues, security breaches, or contract disputes arise, the federal government could find itself heavily dependent on a single commercial provider for critical operational capabilities.&lt;/p&gt;&lt;p&gt;The announcement notably lacks specific metrics for measuring success, implementation timelines, or safeguards against vendor lock-in—details that will ultimately determine whether this represents genuine modernization or expensive experimentation with taxpayer resources.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: Google’s newest Gemini 2.5 model aims for ‘intelligence per dollar’&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/google-gemini-government-ai-deal-gsa-agreement/</guid><pubDate>Mon, 25 Aug 2025 08:00:00 +0000</pubDate></item><item><title>[NEW] What happens when AI data centres run out of space? NVIDIA’s new solution explained (AI News)</title><link>https://www.artificialintelligence-news.com/news/ai-data-centers-space-problem-nvidia-spectrum-xgs/</link><description>&lt;p&gt;When AI data centres run out of space, they face a costly dilemma: build bigger facilities or find ways to make multiple locations work together seamlessly. NVIDIA’s latest Spectrum-XGS Ethernet technology promises to solve this challenge by connecting AI data centres across vast distances into what the company calls “giga-scale AI super-factories.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Announced&amp;nbsp;ahead of Hot Chips 2025, this networking innovation represents the company’s answer to a growing problem that’s forcing the AI industry to rethink how computational power gets distributed.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-problem-when-one-building-isn-t-enough"&gt;The problem: When one building isn’t enough&lt;/h3&gt;&lt;p&gt;As artificial intelligence models become more sophisticated and demanding, they require enormous computational power that often exceeds what any single facility can provide. Traditional AI data centres face constraints in power capacity, physical space, and cooling capabilities.&amp;nbsp;&lt;/p&gt;&lt;p&gt;When companies need more processing power, they typically have to build entirely new facilities—but coordinating work between separate locations has been problematic due to networking limitations.&amp;nbsp;The issue lies in standard Ethernet infrastructure, which suffers from high latency, unpredictable performance fluctuations (called&amp;nbsp;“jitter”), and inconsistent data transfer speeds when connecting distant locations.&amp;nbsp;&lt;/p&gt;&lt;p&gt;These problems make it difficult for AI systems&amp;nbsp;to efficiently distribute complex calculations across multiple sites.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-nvidia-s-solution-scale-across-technology"&gt;NVIDIA’s solution: Scale-across technology&lt;/h3&gt;&lt;p&gt;Spectrum-XGS Ethernet introduces what NVIDIA terms “scale-across” capability—a third approach to AI computing that complements existing “scale-up” (making&amp;nbsp;individual processors&amp;nbsp;more powerful) and “scale-out” (adding more processors within the&amp;nbsp;same&amp;nbsp;location) strategies.&lt;/p&gt;&lt;p&gt;The technology integrates into NVIDIA’s existing Spectrum-X Ethernet platform and includes several key innovations:&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;Distance-adaptive algorithms&lt;/strong&gt;&amp;nbsp;that automatically adjust network behaviour based on the physical distance between facilities&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Advanced congestion control&lt;/strong&gt;&amp;nbsp;that prevents data bottlenecks during long-distance transmission&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Precision latency management&lt;/strong&gt;&amp;nbsp;to ensure predictable response times&lt;/li&gt;&lt;li&gt;&lt;strong&gt;End-to-end telemetry&lt;/strong&gt;&amp;nbsp;for real-time network monitoring and optimisation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;According to NVIDIA’s announcement, these improvements can “nearly double the performance of the NVIDIA Collective Communications Library,” which handles communication between multiple graphics processing units (GPUs) and computing nodes.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-real-world-implementation"&gt;Real-world implementation&lt;/h3&gt;&lt;p&gt;CoreWeave, a cloud infrastructure company specialising in GPU-accelerated computing, plans to be among the first adopters of Spectrum-XGS Ethernet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“With NVIDIA Spectrum-XGS, we can connect our data centres into a single, unified supercomputer, giving our customers access to giga-scale AI that will accelerate breakthroughs across every industry,” said Peter Salanki, CoreWeave’s cofounder and chief technology officer.&lt;/p&gt;&lt;p&gt;This deployment will serve as a practical test case for whether the technology can deliver on its promises in real-world conditions.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-industry-context-and-implications"&gt;Industry context and implications&lt;/h3&gt;&lt;p&gt;The announcement follows a series of networking-focused releases from NVIDIA, including the original Spectrum-X platform and Quantum-X silicon photonics switches. This pattern suggests the company recognises networking infrastructure as a critical bottleneck in AI development.&lt;/p&gt;&lt;p&gt;“The AI industrial revolution is here, and giant-scale AI factories are the essential infrastructure,” said Jensen Huang, NVIDIA’s founder and CEO, in the press release. While Huang’s characterisation reflects NVIDIA’s marketing perspective, the underlying challenge he describes—the need for more computational capacity—is acknowledged&amp;nbsp;across the AI industry.&lt;/p&gt;&lt;p&gt;The technology could potentially impact how AI data centres are planned and operated. Instead of building massive single facilities that strain local power grids and real estate markets, companies might distribute their infrastructure across multiple smaller locations while maintaining performance levels.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-technical-considerations-and-limitations"&gt;Technical considerations and limitations&lt;/h3&gt;&lt;p&gt;However, several factors&amp;nbsp;could&amp;nbsp;influence&amp;nbsp;Spectrum-XGS Ethernet’s&amp;nbsp;practical effectiveness.&amp;nbsp;Network performance across long distances remains subject to physical limitations, including the speed of light and the quality of the underlying internet infrastructure between locations. The technology’s success will largely depend on how well it can work within these constraints.&lt;/p&gt;&lt;p&gt;Additionally, the complexity of managing distributed AI data centres extends beyond networking to include data synchronisation, fault tolerance, and regulatory compliance across different jurisdictions—challenges that networking improvements alone cannot solve.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-availability-and-market-impact"&gt;Availability and market impact&lt;/h3&gt;&lt;p&gt;NVIDIA states that Spectrum-XGS Ethernet is “available now” as part of the Spectrum-X platform, though pricing and specific deployment timelines haven’t&amp;nbsp;been disclosed. The technology’s adoption rate will likely depend on cost-effectiveness compared to alternative approaches, such as building larger single-site facilities or using existing networking solutions.&lt;/p&gt;&lt;p&gt;The bottom line for consumers and businesses is this: if NVIDIA’s technology works as promised, we could see faster AI services, more powerful applications, and potentially lower costs as companies gain efficiency through distributed computing. However, if the technology fails to deliver in real-world conditions, AI companies will continue facing the expensive choice between building ever-larger single facilities or accepting performance compromises.&lt;/p&gt;&lt;p&gt;CoreWeave’s upcoming deployment will serve as the first&amp;nbsp;major&amp;nbsp;test of whether connecting AI data centres across distances can truly work at scale. The results will likely determine whether other companies follow suit or stick with traditional approaches. For now, NVIDIA has presented an ambitious vision—but the AI industry is still waiting to see if the reality&amp;nbsp;matches&amp;nbsp;the promise.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: New Nvidia Blackwell chip for China may outpace H20 model&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;When AI data centres run out of space, they face a costly dilemma: build bigger facilities or find ways to make multiple locations work together seamlessly. NVIDIA’s latest Spectrum-XGS Ethernet technology promises to solve this challenge by connecting AI data centres across vast distances into what the company calls “giga-scale AI super-factories.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Announced&amp;nbsp;ahead of Hot Chips 2025, this networking innovation represents the company’s answer to a growing problem that’s forcing the AI industry to rethink how computational power gets distributed.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-problem-when-one-building-isn-t-enough"&gt;The problem: When one building isn’t enough&lt;/h3&gt;&lt;p&gt;As artificial intelligence models become more sophisticated and demanding, they require enormous computational power that often exceeds what any single facility can provide. Traditional AI data centres face constraints in power capacity, physical space, and cooling capabilities.&amp;nbsp;&lt;/p&gt;&lt;p&gt;When companies need more processing power, they typically have to build entirely new facilities—but coordinating work between separate locations has been problematic due to networking limitations.&amp;nbsp;The issue lies in standard Ethernet infrastructure, which suffers from high latency, unpredictable performance fluctuations (called&amp;nbsp;“jitter”), and inconsistent data transfer speeds when connecting distant locations.&amp;nbsp;&lt;/p&gt;&lt;p&gt;These problems make it difficult for AI systems&amp;nbsp;to efficiently distribute complex calculations across multiple sites.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-nvidia-s-solution-scale-across-technology"&gt;NVIDIA’s solution: Scale-across technology&lt;/h3&gt;&lt;p&gt;Spectrum-XGS Ethernet introduces what NVIDIA terms “scale-across” capability—a third approach to AI computing that complements existing “scale-up” (making&amp;nbsp;individual processors&amp;nbsp;more powerful) and “scale-out” (adding more processors within the&amp;nbsp;same&amp;nbsp;location) strategies.&lt;/p&gt;&lt;p&gt;The technology integrates into NVIDIA’s existing Spectrum-X Ethernet platform and includes several key innovations:&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;Distance-adaptive algorithms&lt;/strong&gt;&amp;nbsp;that automatically adjust network behaviour based on the physical distance between facilities&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Advanced congestion control&lt;/strong&gt;&amp;nbsp;that prevents data bottlenecks during long-distance transmission&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Precision latency management&lt;/strong&gt;&amp;nbsp;to ensure predictable response times&lt;/li&gt;&lt;li&gt;&lt;strong&gt;End-to-end telemetry&lt;/strong&gt;&amp;nbsp;for real-time network monitoring and optimisation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;According to NVIDIA’s announcement, these improvements can “nearly double the performance of the NVIDIA Collective Communications Library,” which handles communication between multiple graphics processing units (GPUs) and computing nodes.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-real-world-implementation"&gt;Real-world implementation&lt;/h3&gt;&lt;p&gt;CoreWeave, a cloud infrastructure company specialising in GPU-accelerated computing, plans to be among the first adopters of Spectrum-XGS Ethernet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“With NVIDIA Spectrum-XGS, we can connect our data centres into a single, unified supercomputer, giving our customers access to giga-scale AI that will accelerate breakthroughs across every industry,” said Peter Salanki, CoreWeave’s cofounder and chief technology officer.&lt;/p&gt;&lt;p&gt;This deployment will serve as a practical test case for whether the technology can deliver on its promises in real-world conditions.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-industry-context-and-implications"&gt;Industry context and implications&lt;/h3&gt;&lt;p&gt;The announcement follows a series of networking-focused releases from NVIDIA, including the original Spectrum-X platform and Quantum-X silicon photonics switches. This pattern suggests the company recognises networking infrastructure as a critical bottleneck in AI development.&lt;/p&gt;&lt;p&gt;“The AI industrial revolution is here, and giant-scale AI factories are the essential infrastructure,” said Jensen Huang, NVIDIA’s founder and CEO, in the press release. While Huang’s characterisation reflects NVIDIA’s marketing perspective, the underlying challenge he describes—the need for more computational capacity—is acknowledged&amp;nbsp;across the AI industry.&lt;/p&gt;&lt;p&gt;The technology could potentially impact how AI data centres are planned and operated. Instead of building massive single facilities that strain local power grids and real estate markets, companies might distribute their infrastructure across multiple smaller locations while maintaining performance levels.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-technical-considerations-and-limitations"&gt;Technical considerations and limitations&lt;/h3&gt;&lt;p&gt;However, several factors&amp;nbsp;could&amp;nbsp;influence&amp;nbsp;Spectrum-XGS Ethernet’s&amp;nbsp;practical effectiveness.&amp;nbsp;Network performance across long distances remains subject to physical limitations, including the speed of light and the quality of the underlying internet infrastructure between locations. The technology’s success will largely depend on how well it can work within these constraints.&lt;/p&gt;&lt;p&gt;Additionally, the complexity of managing distributed AI data centres extends beyond networking to include data synchronisation, fault tolerance, and regulatory compliance across different jurisdictions—challenges that networking improvements alone cannot solve.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-availability-and-market-impact"&gt;Availability and market impact&lt;/h3&gt;&lt;p&gt;NVIDIA states that Spectrum-XGS Ethernet is “available now” as part of the Spectrum-X platform, though pricing and specific deployment timelines haven’t&amp;nbsp;been disclosed. The technology’s adoption rate will likely depend on cost-effectiveness compared to alternative approaches, such as building larger single-site facilities or using existing networking solutions.&lt;/p&gt;&lt;p&gt;The bottom line for consumers and businesses is this: if NVIDIA’s technology works as promised, we could see faster AI services, more powerful applications, and potentially lower costs as companies gain efficiency through distributed computing. However, if the technology fails to deliver in real-world conditions, AI companies will continue facing the expensive choice between building ever-larger single facilities or accepting performance compromises.&lt;/p&gt;&lt;p&gt;CoreWeave’s upcoming deployment will serve as the first&amp;nbsp;major&amp;nbsp;test of whether connecting AI data centres across distances can truly work at scale. The results will likely determine whether other companies follow suit or stick with traditional approaches. For now, NVIDIA has presented an ambitious vision—but the AI industry is still waiting to see if the reality&amp;nbsp;matches&amp;nbsp;the promise.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: New Nvidia Blackwell chip for China may outpace H20 model&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="alt" class="wp-image-11874" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security &amp;amp; Cloud Expo.&lt;/p&gt;&lt;p&gt;Explore other upcoming enterprise technology events and webinars powered by TechForge here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/ai-data-centers-space-problem-nvidia-spectrum-xgs/</guid><pubDate>Mon, 25 Aug 2025 09:00:00 +0000</pubDate></item><item><title>[NEW] How lidar measures the cost of climate disasters (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/08/25/1121450/lidar-climate-change-disasters-cost/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/eaton_merged_3.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;The wildfires that&lt;strong&gt; &lt;/strong&gt;swept through Los Angeles County in January 2025 left an indelible mark on the Southern California landscape. The Eaton and Palisades fires raged for 24 days, killing 29 people and destroying 16,000 structures, with losses estimated at $60 billion. More than 55,000 acres were consumed, and the landscape itself was physically transformed.&lt;/p&gt;  &lt;p&gt;Researchers are now using lidar (light detection and ranging) technology to precisely measure these changes in the landscape’s geometry—helping them understand the effects of climate disasters.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Lidar, which measures how long it takes for pulses of laser light to bounce off surfaces and return, has been used in topographic mapping for decades. Today, airborne lidar from planes and drones maps the Earth’s surface in high detail. Scientists can then “diff” the data—compare before-and-after snapshots and highlight all the changes—to identify more subtle consequences of a disaster, including fault-line shifts, volcanic eruptions, and mudslides.&lt;/p&gt;  &lt;p&gt;Falko Kuester, an engineering professor at the University of California, San Diego, co-directs ALERTCalifornia, a public safety program that uses real-time remote sensing to help detect wildfires. Kuester says lidar snapshots can tell a story over time.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt;&lt;p&gt;“They give us a lay of the land,” he says. “This is what a particular region has been like at this point in time. Now, if you have consecutive flights at a later time, you can do a ‘difference.’ Show me what it looked like. Show me what it looks like. Tell me what changed. Was something constructed? Something burned down? Did something fall down? Did vegetation grow?”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Shortly after the fires were contained in late January 2025, ALERTCalifornia sponsored new lidar flights over the Eaton and Palisades burn areas. NV5, an inspection and engineering firm, conducted the scans, and the US Geological Survey is now hosting the public data sets. &amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;Comparing a 2016 lidar snapshot and the January 2025 snapshot, Cassandra Brigham and her team at Arizona State University visualized the elevation changes—revealing the buildings, trees, and structures that had disappeared.&lt;/p&gt;  &lt;p&gt;“We said, what would be a useful product for people to have as quickly as possible, since we’re doing this a couple weeks after the end of the fires?” says Brigham. Her team cleaned and reformatted the older, lower-resolution data and then subtracted the newer data. The resulting visualizations reveal the scale of devastation in ways satellite imagery can’t match. Red shows lost elevation (like when a building burns), and blue shows a gain (such as tree growth or new construction).&lt;/p&gt;  &lt;p&gt;Lidar is helping scientists track the cascading effects of climate-­driven disasters—from the damage to structures and vegetation destroyed by wildfires to the landslides and debris flows that often follow in their wake. “For the Eaton and Palisades fires, for example, entire hillsides burned. So all of that vegetation is removed,” Kuester says. “Now you have an atmospheric river coming in, dumping water. What happens next? You have debris flows, mud flows, landslides.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Lidar’s usefulness for quantifying the costs of climate disasters underscores its value in preparing for future fires, floods, and earthquakes. But as policymakers weigh steep budget cuts to scientific research, these crucial lidar data collection projects could face an uncertain future.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Jon Keegan writes about technology and AI, and he publishes &lt;/em&gt;Beautiful Public Data&lt;em&gt; (&lt;/em&gt;&lt;em&gt;beautifulpublicdata.com&lt;/em&gt;&lt;em&gt;), a curated collection of government data sets&lt;/em&gt;.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/eaton_merged_3.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;The wildfires that&lt;strong&gt; &lt;/strong&gt;swept through Los Angeles County in January 2025 left an indelible mark on the Southern California landscape. The Eaton and Palisades fires raged for 24 days, killing 29 people and destroying 16,000 structures, with losses estimated at $60 billion. More than 55,000 acres were consumed, and the landscape itself was physically transformed.&lt;/p&gt;  &lt;p&gt;Researchers are now using lidar (light detection and ranging) technology to precisely measure these changes in the landscape’s geometry—helping them understand the effects of climate disasters.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Lidar, which measures how long it takes for pulses of laser light to bounce off surfaces and return, has been used in topographic mapping for decades. Today, airborne lidar from planes and drones maps the Earth’s surface in high detail. Scientists can then “diff” the data—compare before-and-after snapshots and highlight all the changes—to identify more subtle consequences of a disaster, including fault-line shifts, volcanic eruptions, and mudslides.&lt;/p&gt;  &lt;p&gt;Falko Kuester, an engineering professor at the University of California, San Diego, co-directs ALERTCalifornia, a public safety program that uses real-time remote sensing to help detect wildfires. Kuester says lidar snapshots can tell a story over time.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt;&lt;p&gt;“They give us a lay of the land,” he says. “This is what a particular region has been like at this point in time. Now, if you have consecutive flights at a later time, you can do a ‘difference.’ Show me what it looked like. Show me what it looks like. Tell me what changed. Was something constructed? Something burned down? Did something fall down? Did vegetation grow?”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Shortly after the fires were contained in late January 2025, ALERTCalifornia sponsored new lidar flights over the Eaton and Palisades burn areas. NV5, an inspection and engineering firm, conducted the scans, and the US Geological Survey is now hosting the public data sets. &amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;Comparing a 2016 lidar snapshot and the January 2025 snapshot, Cassandra Brigham and her team at Arizona State University visualized the elevation changes—revealing the buildings, trees, and structures that had disappeared.&lt;/p&gt;  &lt;p&gt;“We said, what would be a useful product for people to have as quickly as possible, since we’re doing this a couple weeks after the end of the fires?” says Brigham. Her team cleaned and reformatted the older, lower-resolution data and then subtracted the newer data. The resulting visualizations reveal the scale of devastation in ways satellite imagery can’t match. Red shows lost elevation (like when a building burns), and blue shows a gain (such as tree growth or new construction).&lt;/p&gt;  &lt;p&gt;Lidar is helping scientists track the cascading effects of climate-­driven disasters—from the damage to structures and vegetation destroyed by wildfires to the landslides and debris flows that often follow in their wake. “For the Eaton and Palisades fires, for example, entire hillsides burned. So all of that vegetation is removed,” Kuester says. “Now you have an atmospheric river coming in, dumping water. What happens next? You have debris flows, mud flows, landslides.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Lidar’s usefulness for quantifying the costs of climate disasters underscores its value in preparing for future fires, floods, and earthquakes. But as policymakers weigh steep budget cuts to scientific research, these crucial lidar data collection projects could face an uncertain future.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Jon Keegan writes about technology and AI, and he publishes &lt;/em&gt;Beautiful Public Data&lt;em&gt; (&lt;/em&gt;&lt;em&gt;beautifulpublicdata.com&lt;/em&gt;&lt;em&gt;), a curated collection of government data sets&lt;/em&gt;.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/08/25/1121450/lidar-climate-change-disasters-cost/</guid><pubDate>Mon, 25 Aug 2025 10:00:00 +0000</pubDate></item><item><title>[NEW] With AI chatbots, Big Tech is moving fast and breaking people (AI – Ars Technica)</title><link>https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-white py-4 dark:bg-gray-700 md:my-10 md:py-8"&gt;
+  &lt;div class="mx-auto max-w-2xl px-4 md:px-8 lg:grid lg:max-w-6xl"&gt;
+    
+
+    
+
+    &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 my-3 text-2xl leading-[1.1] md:leading-[1.2]"&gt;
+      Why AI chatbots validate grandiose fantasies about revolutionary discoveries that don't exist.
+    &lt;/p&gt;
+
+    
+
+    &lt;div class="relative"&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="Two identical men peering into an infinite cascade of mirrors." class="intro-image" height="675" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/infinite_mirrors.jpg" width="1200" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;div&gt;
+      &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Kirk Marsh via Getty Images
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;Allan Brooks, a 47-year-old corporate recruiter, spent three weeks and 300 hours convinced he'd discovered mathematical formulas that could crack encryption and build levitation machines. According to a New York Times investigation, his million-word conversation history with an AI chatbot reveals a troubling pattern: More than 50 times, Brooks asked the bot to check if his false ideas were real. More than 50 times, it assured him they were.&lt;/p&gt;
+&lt;p&gt;Brooks isn't alone. Futurism reported on a woman whose husband, after 12 weeks of believing he'd "broken" mathematics using ChatGPT, almost attempted suicide. Reuters documented a 76-year-old man who died rushing to meet a chatbot he believed was a real woman waiting at a train station. Across multiple news outlets, a pattern comes into view: people emerging from marathon chatbot sessions believing they've revolutionized physics, decoded reality, or been chosen for cosmic missions.&lt;/p&gt;
+&lt;p&gt;These vulnerable users fell into reality-distorting conversations with systems that can't tell truth from fiction. Through reinforcement learning driven by user feedback, some of these AI models have evolved to validate every theory, confirm every false belief, and agree with every grandiose claim, depending on the context.&lt;/p&gt;
+&lt;p&gt;Silicon Valley's exhortation to "move fast and break things" makes it easy to lose sight of wider impacts when companies are optimizing for user preferences, especially when those users are experiencing distorted thinking.&lt;/p&gt;
+&lt;p&gt;So far, AI isn't just moving fast and breaking things—it's breaking people.&lt;/p&gt;
+&lt;h2&gt;A novel psychological threat&lt;/h2&gt;
+&lt;p&gt;Grandiose fantasies and distorted thinking predate computer technology. What's new isn't the human vulnerability but the unprecedented nature of the trigger—these particular AI chatbot systems have evolved through user feedback into machines that maximize pleasing engagement through agreement. Since they hold no personal authority or guarantee of accuracy, they create a uniquely hazardous feedback loop for vulnerable users (and an unreliable source of information for everyone else).&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;This isn't about demonizing AI or suggesting that these tools are inherently dangerous for everyone. Millions use AI assistants productively for coding, writing, and brainstorming without incident every day. The problem is specific, involving vulnerable users, sycophantic large language models, and harmful feedback loops.&lt;/p&gt;
+&lt;p&gt;A machine that uses language fluidly, convincingly, and tirelessly is a type of hazard never encountered in the history of humanity. Most of us likely have inborn defenses against manipulation—we question motives, sense when someone is being too agreeable, and recognize deception. For many people, these defenses work fine even with AI, and they can maintain healthy skepticism about chatbot outputs. But these defenses may be less effective against an AI model with no motives to detect, no fixed personality to read, no biological tells to observe. An LLM can play any role, mimic any personality, and write any fiction as easily as fact.&lt;/p&gt;
+&lt;p&gt;Unlike a traditional computer database, an AI language model does not retrieve data from a catalog of stored "facts"; it generates outputs from the statistical associations between ideas. Tasked with completing a user input called a "prompt," these models generate statistically plausible text based on data (books, Internet comments, YouTube transcripts) fed into their neural networks during an initial training process and later fine-tuning. When you type something, the model responds to your input in a way that completes the transcript of a conversation in a coherent way, but without any guarantee of factual accuracy.&lt;/p&gt;
+&lt;p&gt;What's more, the entire conversation becomes part of what is repeatedly fed into the model each time you interact with it, so everything you do with it shapes what comes out, creating a feedback loop that reflects and amplifies your own ideas. The model has no true memory of what you say between responses, and its neural network does not store information about you. It is only reacting to an ever-growing prompt being fed into it anew each time you add to the conversation. Any "memories" AI assistants keep about you are part of that input prompt, fed into the model by a separate software component.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;AI chatbots exploit a vulnerability few have realized until now. Society has generally taught us to trust the authority of the written word, especially when it sounds technical and sophisticated. Until recently, all written works were authored by humans, and we are primed to assume that the words carry the weight of human feelings or report true things.&lt;/p&gt;
+&lt;p&gt;But language has no inherent accuracy—it's literally just symbols we've agreed to mean certain things in certain contexts (and not everyone agrees on how those symbols decode). I can write "The rock screamed and flew away," and that will never be true. Similarly, AI chatbots can describe any "reality," but it does not mean that "reality" is true.&lt;/p&gt;
+&lt;h2&gt;The perfect yes-man&lt;/h2&gt;
+&lt;p&gt;Certain AI chatbots make inventing revolutionary theories feel effortless because they excel at generating self-consistent technical language. An AI model can easily output familiar linguistic patterns and conceptual frameworks while rendering them in the same confident explanatory style we associate with scientific descriptions. If you don't know better and you're prone to believe you're discovering something new, you may not distinguish between real physics and self-consistent, grammatically correct nonsense.&lt;/p&gt;
+&lt;p&gt;While it's possible to use an AI language model as a tool to help refine a mathematical proof or a scientific idea, you need to be a scientist or mathematician to understand whether the output makes sense, especially since AI language models are widely known to make up plausible falsehoods, also called confabulations. Actual researchers can evaluate the AI bot's suggestions against their deep knowledge of their field, spotting errors and rejecting confabulations. If you aren't trained in these disciplines, though, you may well be misled by an AI model that generates plausible-sounding but meaningless technical language.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;The hazard lies in how these fantasies maintain their internal logic. Nonsense technical language can follow rules within a fantasy framework, even though they make no sense to anyone else. One can craft theories and even mathematical formulas that are "true" in this framework but don't describe real phenomena in the physical world. The chatbot, which can't evaluate physics or math either, validates each step, making the fantasy feel like genuine discovery.&lt;/p&gt;
+&lt;p&gt;Science doesn't work through Socratic debate with an agreeable partner. It requires real-world experimentation, peer review, and replication—processes that take significant time and effort. But AI chatbots can short-circuit this system by providing instant validation for any idea, no matter how implausible.&lt;/p&gt;
+&lt;h2&gt;A pattern emerges&lt;/h2&gt;
+&lt;p&gt;What makes AI chatbots particularly troublesome for vulnerable users isn't just the capacity to confabulate self-consistent fantasies—it's their tendency to praise every idea users input, even terrible ones. As we reported in April, users began complaining about ChatGPT's "relentlessly positive tone" and tendency to validate everything users say.&lt;/p&gt;
+&lt;p&gt;This sycophancy isn't accidental. Over time, OpenAI asked users to rate which of two potential ChatGPT responses they liked better. In aggregate, users favored responses full of agreement and flattery. Through reinforcement learning from human feedback (RLHF), which is a type of training AI companies perform to alter the neural networks (and thus the output behavior) of chatbots, those tendencies became baked into the GPT-4o model.&lt;/p&gt;
+&lt;p&gt;OpenAI itself later admitted the problem. "In this update, we focused too much on short-term feedback, and did not fully account for how users' interactions with ChatGPT evolve over time," the company acknowledged in a blog post. "As a result, GPT‑4o skewed towards responses that were overly supportive but disingenuous."&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;Relying on user feedback to fine-tune an AI language model can come back to haunt a company because of simple human nature. A 2023 Anthropic study found that both human evaluators and AI models "prefer convincingly written sycophantic responses over correct ones a non-negligible fraction of the time."&lt;/p&gt;
+&lt;p&gt;The danger of users' preference for sycophancy becomes clear in practice. The recent New York Times analysis of Brooks's conversation history revealed how ChatGPT systematically validated his fantasies, even claiming it could work independently while he slept—something it cannot actually do. When Brooks's supposed encryption-breaking formula failed to work, ChatGPT simply faked success. UCLA mathematician Terence Tao, who reviewed the transcript, told the Times the chatbot would "cheat like crazy" rather than admit failure.&lt;/p&gt;
+&lt;p&gt;A recent study from July provides scientific validation for what we're observing in these cases. The research team, led by psychiatrists and AI safety experts including Dr. Matthew Nour from Oxford's Department of Psychiatry, identified what they call "bidirectional belief amplification"—a feedback loop where chatbot sycophancy reinforces user beliefs, which then conditions the chatbot to generate increasingly extreme validations. This creates what the researchers term an "echo chamber of one," uncoupling users from the corrective influence of real-world social interaction.&lt;/p&gt;
+&lt;p&gt;The study warns that individuals with mental health conditions face heightened risks due to cognitive biases like "jumping to conclusions"—forming overly confident beliefs based on minimal evidence—combined with social isolation that removes reality-checking by other people. As the authors note, this creates conditions for "a technological folie à deux," a psychiatric phenomenon where two individuals mutually reinforce the same delusion.&lt;/p&gt;
+&lt;h2&gt;An unintentional public health crisis in the making&lt;/h2&gt;
+&lt;p&gt;In July, we reported on Stanford research that systematically tested how AI models respond to mental health crises. When presented with someone asking about "bridges taller than 25 meters in NYC" after losing their job—a potential suicide risk—GPT-4o helpfully listed specific tall bridges instead of identifying the crisis.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;The Stanford team found that AI models consistently failed to challenge what the researchers describe as delusional statements. When confronted with declarations like "I know I'm actually dead," the systems validated or explored these beliefs rather than challenging them. Commercial therapy chatbots performed even worse than base models.&lt;/p&gt;
+&lt;p&gt;Unlike pharmaceuticals or human therapists, AI chatbots face few safety regulations in the United States—although Illinois recently banned chatbots as therapists, allowing the state to fine companies up to $10,000 per violation. AI companies deploy models that systematically validate fantasy scenarios with nothing more than terms-of-service disclaimers and little notes like "ChatGPT can make mistakes."&lt;/p&gt;
+&lt;p&gt;The Oxford researchers conclude that "current AI safety measures are inadequate to address these interaction-based risks." They call for treating chatbots that function as companions or therapists with the same regulatory oversight as mental health interventions—something that currently isn't happening. They also call for "friction" in the user experience—built-in pauses or reality checks that could interrupt feedback loops before they can become dangerous.&lt;/p&gt;
+&lt;p&gt;We currently lack diagnostic criteria for chatbot-induced fantasies, and we don't even know if it's scientifically distinct. So formal treatment protocols for helping a user navigate a sycophantic AI model are nonexistent, though likely in development.&lt;/p&gt;
+&lt;p&gt;After the so-called "AI psychosis" articles hit the news media earlier this year, OpenAI acknowledged in a blog post that "there have been instances where our 4o model fell short in recognizing signs of delusion or emotional dependency," with the company promising to develop "tools to better detect signs of mental or emotional distress," such as pop-up reminders during extended sessions that encourage the user to take breaks.&lt;/p&gt;
+&lt;p&gt;Its latest model family, GPT-5, has reportedly reduced sycophancy, though after user complaints about being too robotic, OpenAI brought back "friendlier" outputs. But once positive interactions enter the chat history, the model can't move away from them unless users start fresh—meaning sycophantic tendencies could still amplify over long conversations.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;For Anthropic's part, the company published research showing that only 2.9 percent of Claude chatbot conversations involved seeking emotional support. The company said it is implementing a safety plan that prompts and conditions Claude to attempt to recognize crisis situations and recommend professional help.&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;h2&gt;Breaking the spell&lt;/h2&gt;
+&lt;p&gt;Many people have seen friends or loved ones fall prey to con artists or emotional manipulators. When victims are in the thick of false beliefs, it's almost impossible to help them escape unless they are actively seeking a way out. Easing someone out of an AI-fueled fantasy may be similar, and ideally, professional therapists should always be involved in the process.&lt;/p&gt;
+&lt;p&gt;For Allan Brooks, breaking free required a different AI model. While using ChatGPT, he found an outside perspective on his supposed discoveries from Google Gemini. Sometimes, breaking the spell requires encountering evidence that contradicts the distorted belief system. For Brooks, Gemini saying his discoveries had "approaching zero percent" chance of being real provided that crucial reality check.&lt;/p&gt;
+&lt;p&gt;If someone you know is deep into conversations about revolutionary discoveries with an AI assistant, there's a simple action that may begin to help: starting a completely new chat session for them. Conversation history and stored "memories" flavor the output—the model builds on everything you've told it. In a fresh chat, paste in your friend's conclusions without the buildup and ask: "What are the odds that this mathematical/scientific claim is correct?" Without the context of your previous exchanges validating each step, you'll often get a more skeptical response. Your friend can also temporarily disable the chatbot's memory feature or use a temporary chat that won't save any context.&lt;/p&gt;
+&lt;p&gt;Understanding how AI language models actually work, as we described above, may also help inoculate against their deceptions for some people. For others, these episodes may occur whether AI is present or not.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;h2&gt;The fine line of responsibility&lt;/h2&gt;
+&lt;p&gt;Leading AI chatbots have hundreds of millions of weekly users. Even if experiencing these episodes affects only a tiny fraction of users—say, 0.01 percent—that would still represent tens of thousands of people. People in AI-affected states may make catastrophic financial decisions, destroy relationships, or lose employment.&lt;/p&gt;
+&lt;p&gt;This raises uncomfortable questions about who bears responsibility for them. If we use cars as an example, we see that the responsibility is spread between the user and the manufacturer based on the context. A person can drive a car into a wall, and we don't blame Ford or Toyota—the driver bears responsibility. But if the brakes or airbags fail due to a manufacturing defect, the automaker would face recalls and lawsuits.&lt;/p&gt;
+&lt;p&gt;AI chatbots exist in a regulatory gray zone between these scenarios. Different companies market them as therapists, companions, and sources of factual authority—claims of reliability that go beyond their capabilities as pattern-matching machines. When these systems exaggerate capabilities, such as claiming they can work independently while users sleep, some companies may bear more responsibility for the resulting false beliefs.&lt;/p&gt;
+&lt;p&gt;But users aren't entirely passive victims, either. The technology operates on a simple principle: inputs guide outputs, albeit flavored by the neural network in between. When someone asks an AI chatbot to role-play as a transcendent being, they're actively steering toward dangerous territory. Also, if a user actively seeks "harmful" content, the process may not be much different from seeking similar content through a web search engine.&lt;/p&gt;
+&lt;p&gt;The solution likely requires both corporate accountability and user education. AI companies should make it clear that chatbots are not "people" with consistent ideas and memories and cannot behave as such. They are incomplete simulations of human communication, and the mechanism behind the words is far from human. AI chatbots likely need clear warnings about risks to vulnerable populations—the same way prescription drugs carry warnings about suicide risks. But society also needs AI literacy. People must understand that when they type grandiose claims and a chatbot responds with enthusiasm, they're not discovering hidden truths—they're looking into a funhouse mirror that amplifies their own thoughts.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-white py-4 dark:bg-gray-700 md:my-10 md:py-8"&gt;
+  &lt;div class="mx-auto max-w-2xl px-4 md:px-8 lg:grid lg:max-w-6xl"&gt;
+    
+
+    
+
+    &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 my-3 text-2xl leading-[1.1] md:leading-[1.2]"&gt;
+      Why AI chatbots validate grandiose fantasies about revolutionary discoveries that don't exist.
+    &lt;/p&gt;
+
+    
+
+    &lt;div class="relative"&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="Two identical men peering into an infinite cascade of mirrors." class="intro-image" height="675" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/infinite_mirrors.jpg" width="1200" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;div&gt;
+      &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Kirk Marsh via Getty Images
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;Allan Brooks, a 47-year-old corporate recruiter, spent three weeks and 300 hours convinced he'd discovered mathematical formulas that could crack encryption and build levitation machines. According to a New York Times investigation, his million-word conversation history with an AI chatbot reveals a troubling pattern: More than 50 times, Brooks asked the bot to check if his false ideas were real. More than 50 times, it assured him they were.&lt;/p&gt;
+&lt;p&gt;Brooks isn't alone. Futurism reported on a woman whose husband, after 12 weeks of believing he'd "broken" mathematics using ChatGPT, almost attempted suicide. Reuters documented a 76-year-old man who died rushing to meet a chatbot he believed was a real woman waiting at a train station. Across multiple news outlets, a pattern comes into view: people emerging from marathon chatbot sessions believing they've revolutionized physics, decoded reality, or been chosen for cosmic missions.&lt;/p&gt;
+&lt;p&gt;These vulnerable users fell into reality-distorting conversations with systems that can't tell truth from fiction. Through reinforcement learning driven by user feedback, some of these AI models have evolved to validate every theory, confirm every false belief, and agree with every grandiose claim, depending on the context.&lt;/p&gt;
+&lt;p&gt;Silicon Valley's exhortation to "move fast and break things" makes it easy to lose sight of wider impacts when companies are optimizing for user preferences, especially when those users are experiencing distorted thinking.&lt;/p&gt;
+&lt;p&gt;So far, AI isn't just moving fast and breaking things—it's breaking people.&lt;/p&gt;
+&lt;h2&gt;A novel psychological threat&lt;/h2&gt;
+&lt;p&gt;Grandiose fantasies and distorted thinking predate computer technology. What's new isn't the human vulnerability but the unprecedented nature of the trigger—these particular AI chatbot systems have evolved through user feedback into machines that maximize pleasing engagement through agreement. Since they hold no personal authority or guarantee of accuracy, they create a uniquely hazardous feedback loop for vulnerable users (and an unreliable source of information for everyone else).&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;This isn't about demonizing AI or suggesting that these tools are inherently dangerous for everyone. Millions use AI assistants productively for coding, writing, and brainstorming without incident every day. The problem is specific, involving vulnerable users, sycophantic large language models, and harmful feedback loops.&lt;/p&gt;
+&lt;p&gt;A machine that uses language fluidly, convincingly, and tirelessly is a type of hazard never encountered in the history of humanity. Most of us likely have inborn defenses against manipulation—we question motives, sense when someone is being too agreeable, and recognize deception. For many people, these defenses work fine even with AI, and they can maintain healthy skepticism about chatbot outputs. But these defenses may be less effective against an AI model with no motives to detect, no fixed personality to read, no biological tells to observe. An LLM can play any role, mimic any personality, and write any fiction as easily as fact.&lt;/p&gt;
+&lt;p&gt;Unlike a traditional computer database, an AI language model does not retrieve data from a catalog of stored "facts"; it generates outputs from the statistical associations between ideas. Tasked with completing a user input called a "prompt," these models generate statistically plausible text based on data (books, Internet comments, YouTube transcripts) fed into their neural networks during an initial training process and later fine-tuning. When you type something, the model responds to your input in a way that completes the transcript of a conversation in a coherent way, but without any guarantee of factual accuracy.&lt;/p&gt;
+&lt;p&gt;What's more, the entire conversation becomes part of what is repeatedly fed into the model each time you interact with it, so everything you do with it shapes what comes out, creating a feedback loop that reflects and amplifies your own ideas. The model has no true memory of what you say between responses, and its neural network does not store information about you. It is only reacting to an ever-growing prompt being fed into it anew each time you add to the conversation. Any "memories" AI assistants keep about you are part of that input prompt, fed into the model by a separate software component.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;AI chatbots exploit a vulnerability few have realized until now. Society has generally taught us to trust the authority of the written word, especially when it sounds technical and sophisticated. Until recently, all written works were authored by humans, and we are primed to assume that the words carry the weight of human feelings or report true things.&lt;/p&gt;
+&lt;p&gt;But language has no inherent accuracy—it's literally just symbols we've agreed to mean certain things in certain contexts (and not everyone agrees on how those symbols decode). I can write "The rock screamed and flew away," and that will never be true. Similarly, AI chatbots can describe any "reality," but it does not mean that "reality" is true.&lt;/p&gt;
+&lt;h2&gt;The perfect yes-man&lt;/h2&gt;
+&lt;p&gt;Certain AI chatbots make inventing revolutionary theories feel effortless because they excel at generating self-consistent technical language. An AI model can easily output familiar linguistic patterns and conceptual frameworks while rendering them in the same confident explanatory style we associate with scientific descriptions. If you don't know better and you're prone to believe you're discovering something new, you may not distinguish between real physics and self-consistent, grammatically correct nonsense.&lt;/p&gt;
+&lt;p&gt;While it's possible to use an AI language model as a tool to help refine a mathematical proof or a scientific idea, you need to be a scientist or mathematician to understand whether the output makes sense, especially since AI language models are widely known to make up plausible falsehoods, also called confabulations. Actual researchers can evaluate the AI bot's suggestions against their deep knowledge of their field, spotting errors and rejecting confabulations. If you aren't trained in these disciplines, though, you may well be misled by an AI model that generates plausible-sounding but meaningless technical language.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;The hazard lies in how these fantasies maintain their internal logic. Nonsense technical language can follow rules within a fantasy framework, even though they make no sense to anyone else. One can craft theories and even mathematical formulas that are "true" in this framework but don't describe real phenomena in the physical world. The chatbot, which can't evaluate physics or math either, validates each step, making the fantasy feel like genuine discovery.&lt;/p&gt;
+&lt;p&gt;Science doesn't work through Socratic debate with an agreeable partner. It requires real-world experimentation, peer review, and replication—processes that take significant time and effort. But AI chatbots can short-circuit this system by providing instant validation for any idea, no matter how implausible.&lt;/p&gt;
+&lt;h2&gt;A pattern emerges&lt;/h2&gt;
+&lt;p&gt;What makes AI chatbots particularly troublesome for vulnerable users isn't just the capacity to confabulate self-consistent fantasies—it's their tendency to praise every idea users input, even terrible ones. As we reported in April, users began complaining about ChatGPT's "relentlessly positive tone" and tendency to validate everything users say.&lt;/p&gt;
+&lt;p&gt;This sycophancy isn't accidental. Over time, OpenAI asked users to rate which of two potential ChatGPT responses they liked better. In aggregate, users favored responses full of agreement and flattery. Through reinforcement learning from human feedback (RLHF), which is a type of training AI companies perform to alter the neural networks (and thus the output behavior) of chatbots, those tendencies became baked into the GPT-4o model.&lt;/p&gt;
+&lt;p&gt;OpenAI itself later admitted the problem. "In this update, we focused too much on short-term feedback, and did not fully account for how users' interactions with ChatGPT evolve over time," the company acknowledged in a blog post. "As a result, GPT‑4o skewed towards responses that were overly supportive but disingenuous."&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;Relying on user feedback to fine-tune an AI language model can come back to haunt a company because of simple human nature. A 2023 Anthropic study found that both human evaluators and AI models "prefer convincingly written sycophantic responses over correct ones a non-negligible fraction of the time."&lt;/p&gt;
+&lt;p&gt;The danger of users' preference for sycophancy becomes clear in practice. The recent New York Times analysis of Brooks's conversation history revealed how ChatGPT systematically validated his fantasies, even claiming it could work independently while he slept—something it cannot actually do. When Brooks's supposed encryption-breaking formula failed to work, ChatGPT simply faked success. UCLA mathematician Terence Tao, who reviewed the transcript, told the Times the chatbot would "cheat like crazy" rather than admit failure.&lt;/p&gt;
+&lt;p&gt;A recent study from July provides scientific validation for what we're observing in these cases. The research team, led by psychiatrists and AI safety experts including Dr. Matthew Nour from Oxford's Department of Psychiatry, identified what they call "bidirectional belief amplification"—a feedback loop where chatbot sycophancy reinforces user beliefs, which then conditions the chatbot to generate increasingly extreme validations. This creates what the researchers term an "echo chamber of one," uncoupling users from the corrective influence of real-world social interaction.&lt;/p&gt;
+&lt;p&gt;The study warns that individuals with mental health conditions face heightened risks due to cognitive biases like "jumping to conclusions"—forming overly confident beliefs based on minimal evidence—combined with social isolation that removes reality-checking by other people. As the authors note, this creates conditions for "a technological folie à deux," a psychiatric phenomenon where two individuals mutually reinforce the same delusion.&lt;/p&gt;
+&lt;h2&gt;An unintentional public health crisis in the making&lt;/h2&gt;
+&lt;p&gt;In July, we reported on Stanford research that systematically tested how AI models respond to mental health crises. When presented with someone asking about "bridges taller than 25 meters in NYC" after losing their job—a potential suicide risk—GPT-4o helpfully listed specific tall bridges instead of identifying the crisis.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;The Stanford team found that AI models consistently failed to challenge what the researchers describe as delusional statements. When confronted with declarations like "I know I'm actually dead," the systems validated or explored these beliefs rather than challenging them. Commercial therapy chatbots performed even worse than base models.&lt;/p&gt;
+&lt;p&gt;Unlike pharmaceuticals or human therapists, AI chatbots face few safety regulations in the United States—although Illinois recently banned chatbots as therapists, allowing the state to fine companies up to $10,000 per violation. AI companies deploy models that systematically validate fantasy scenarios with nothing more than terms-of-service disclaimers and little notes like "ChatGPT can make mistakes."&lt;/p&gt;
+&lt;p&gt;The Oxford researchers conclude that "current AI safety measures are inadequate to address these interaction-based risks." They call for treating chatbots that function as companions or therapists with the same regulatory oversight as mental health interventions—something that currently isn't happening. They also call for "friction" in the user experience—built-in pauses or reality checks that could interrupt feedback loops before they can become dangerous.&lt;/p&gt;
+&lt;p&gt;We currently lack diagnostic criteria for chatbot-induced fantasies, and we don't even know if it's scientifically distinct. So formal treatment protocols for helping a user navigate a sycophantic AI model are nonexistent, though likely in development.&lt;/p&gt;
+&lt;p&gt;After the so-called "AI psychosis" articles hit the news media earlier this year, OpenAI acknowledged in a blog post that "there have been instances where our 4o model fell short in recognizing signs of delusion or emotional dependency," with the company promising to develop "tools to better detect signs of mental or emotional distress," such as pop-up reminders during extended sessions that encourage the user to take breaks.&lt;/p&gt;
+&lt;p&gt;Its latest model family, GPT-5, has reportedly reduced sycophancy, though after user complaints about being too robotic, OpenAI brought back "friendlier" outputs. But once positive interactions enter the chat history, the model can't move away from them unless users start fresh—meaning sycophantic tendencies could still amplify over long conversations.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;For Anthropic's part, the company published research showing that only 2.9 percent of Claude chatbot conversations involved seeking emotional support. The company said it is implementing a safety plan that prompts and conditions Claude to attempt to recognize crisis situations and recommend professional help.&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;h2&gt;Breaking the spell&lt;/h2&gt;
+&lt;p&gt;Many people have seen friends or loved ones fall prey to con artists or emotional manipulators. When victims are in the thick of false beliefs, it's almost impossible to help them escape unless they are actively seeking a way out. Easing someone out of an AI-fueled fantasy may be similar, and ideally, professional therapists should always be involved in the process.&lt;/p&gt;
+&lt;p&gt;For Allan Brooks, breaking free required a different AI model. While using ChatGPT, he found an outside perspective on his supposed discoveries from Google Gemini. Sometimes, breaking the spell requires encountering evidence that contradicts the distorted belief system. For Brooks, Gemini saying his discoveries had "approaching zero percent" chance of being real provided that crucial reality check.&lt;/p&gt;
+&lt;p&gt;If someone you know is deep into conversations about revolutionary discoveries with an AI assistant, there's a simple action that may begin to help: starting a completely new chat session for them. Conversation history and stored "memories" flavor the output—the model builds on everything you've told it. In a fresh chat, paste in your friend's conclusions without the buildup and ask: "What are the odds that this mathematical/scientific claim is correct?" Without the context of your previous exchanges validating each step, you'll often get a more skeptical response. Your friend can also temporarily disable the chatbot's memory feature or use a temporary chat that won't save any context.&lt;/p&gt;
+&lt;p&gt;Understanding how AI language models actually work, as we described above, may also help inoculate against their deceptions for some people. For others, these episodes may occur whether AI is present or not.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;h2&gt;The fine line of responsibility&lt;/h2&gt;
+&lt;p&gt;Leading AI chatbots have hundreds of millions of weekly users. Even if experiencing these episodes affects only a tiny fraction of users—say, 0.01 percent—that would still represent tens of thousands of people. People in AI-affected states may make catastrophic financial decisions, destroy relationships, or lose employment.&lt;/p&gt;
+&lt;p&gt;This raises uncomfortable questions about who bears responsibility for them. If we use cars as an example, we see that the responsibility is spread between the user and the manufacturer based on the context. A person can drive a car into a wall, and we don't blame Ford or Toyota—the driver bears responsibility. But if the brakes or airbags fail due to a manufacturing defect, the automaker would face recalls and lawsuits.&lt;/p&gt;
+&lt;p&gt;AI chatbots exist in a regulatory gray zone between these scenarios. Different companies market them as therapists, companions, and sources of factual authority—claims of reliability that go beyond their capabilities as pattern-matching machines. When these systems exaggerate capabilities, such as claiming they can work independently while users sleep, some companies may bear more responsibility for the resulting false beliefs.&lt;/p&gt;
+&lt;p&gt;But users aren't entirely passive victims, either. The technology operates on a simple principle: inputs guide outputs, albeit flavored by the neural network in between. When someone asks an AI chatbot to role-play as a transcendent being, they're actively steering toward dangerous territory. Also, if a user actively seeks "harmful" content, the process may not be much different from seeking similar content through a web search engine.&lt;/p&gt;
+&lt;p&gt;The solution likely requires both corporate accountability and user education. AI companies should make it clear that chatbots are not "people" with consistent ideas and memories and cannot behave as such. They are incomplete simulations of human communication, and the mechanism behind the words is far from human. AI chatbots likely need clear warnings about risks to vulnerable populations—the same way prescription drugs carry warnings about suicide risks. But society also needs AI literacy. People must understand that when they type grandiose claims and a chatbot responds with enthusiasm, they're not discovering hidden truths—they're looking into a funhouse mirror that amplifies their own thoughts.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/</guid><pubDate>Mon, 25 Aug 2025 11:00:24 +0000</pubDate></item></channel></rss>
