@@ -1,915 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 28 Aug 2025 01:40:55 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>Unlocking enterprise agility in the API economy (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/08/27/1121532/unlocking-enterprise-agility-in-the-api-economy/</link><description>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;Tata Communications&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Across industries, enterprises are increasingly adopting an on-demand approach to compute, storage, and applications. They are favoring digital services that are faster to deploy, easier to scale, and better integrated with partner ecosystems. Yet, one critical pillar has lagged: the network. While software-defined networking has made inroads, many organizations still operate rigid, pre-provisioned networks. As applications become increasingly distributed and dynamic—including hybrid cloud and edge deployments—a programmable, on-demand network infrastructure can enhance and enable this new era.&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1121548" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/iStock-1742620693.jpg" /&gt;&lt;/figure&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;From CapEx to OpEx: The new connectivity mindset&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Another, practical concern is also driving this shift: the need for IT models that align cost with usage. Rising uncertainty about inflation, consumer spending, business investment, and global supply chains are just a few of the economic factors weighing on company decision-making. And chief information officers (CIOs) are scrutinizing capital-expenditure-heavy infrastructure more closely and increasingly adopting operating-expenses-based subscription models.&lt;/p&gt;  &lt;p&gt;Instead of long-term circuit contracts and static provisioning, companies are looking for cloud-ready, on-demand network services that can scale, adapt, and integrate across hybrid environments. This trend is fueling demand for API-first network infrastructure connectivity that behaves like software, dynamically orchestrated and integrated into enterprise IT ecosystems. There has been such rapid interest, the global network API market is projected to surge from $1.53 billion in 2024 to over $72 billion in 2034.&lt;/p&gt; 
- &lt;p&gt;In fact, McKinsey estimates the network API market could unlock between $100 billion and $300 billion in connectivity- and edge-computing-related revenue for telecom operators over the next five to seven years, with an additional $10 billion to $30 billion generated directly from APIs themselves.&lt;/p&gt;  &lt;p&gt;“When the cloud came in, first there was a trickle of adoptions. And then there was a deluge,” says Rajarshi Purkayastha, VP of solutions at Tata Communications. “We’re seeing the same trend with programmable networks. What was once a niche industry is now becoming mainstream as CIOs prioritize agility and time-to-value.”&lt;/p&gt; 
-   &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;&lt;strong&gt;Programmable networks as a catalyst for innovation&lt;/strong&gt;&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Programmable subscription-based networks are not just about efficiency, they are about enabling faster innovation, better user experiences, and global scalability. Organizations are preferring API-first systems to avoid vendor lock-in, enable multi-vendor integration, and foster innovation. API-first approaches allow seamless integration across different hardware and software stacks, reducing operational complexity and costs.&lt;/p&gt;  &lt;p&gt;With APIs, enterprises can provision bandwidth, configure services, and connect to clouds and edge locations in real time, all through automation layers embedded in their DevOps and application platforms. This makes the network an active enabler of digital transformation rather than a lagging dependency.&lt;/p&gt;  &lt;p&gt;For example, Netflix—one of the earliest adopters of microservices—handles billions of API requests daily through over 500 microservices and gateways, supporting global scalability and rapid innovation. After a two-year transition period, it redesigned its IT structure and organized it using microservice architecture.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Elsewhere, Coca-Cola integrated its global systems using APIs, enabling faster, lower-cost delivery and improved cross-functional collaboration. And Uber moved to microservices with API gateways, allowing independent scaling and rapid deployment across markets.&lt;/p&gt;  &lt;p&gt;In each case, the network had to evolve from being static and hardware-bound to dynamic, programmable, and consumption-based. “API-first infrastructure fits naturally into how today’s IT teams work,” says Purkayastha. “It aligns with continuous integration and continuous delivery/deployment (CI/CD) pipelines and service orchestration tools. That reduces friction and accelerates how fast enterprises can launch new services.”&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Powering on-demand connectivity&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Tata Communications deployed Network Fabric—its programmable platform that uses APIs to allow enterprise systems to request and adjust network resources dynamically—to help a global software-as-a-service (SaaS) company modernize how it manages network capacity in response to real-time business needs. As the company scaled its digital services worldwide, it needed a more agile, cost-efficient way to align network performance with unpredictable traffic surges and fast-changing user demands. With Tata’s platform, the company’s operations teams were able to automatically scale bandwidth in key regions for peak performance, during high-impact events like global software releases. And just as quickly scale down once demand normalized, avoiding unnecessary costs.&lt;/p&gt;  &lt;p&gt;In another scenario, when the SaaS provider needed to run large-scale data operations between its US and Asia hubs, the network was programmatically reconfigured in under an hour; a process that previously required weeks of planning and provisioning. “What we delivered wasn’t just bandwidth, it was the ability for their teams to take control,” says Purkayastha. “By integrating our Network Fabric APIs into their automation workflows, we gave them a network that responds at the pace of their business.”&lt;/p&gt; 
-
-   &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Barriers to transformation — and how to overcome them&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Transforming network infrastructure is no small task. Many enterprises still rely on legacy multiprotocol label switching (MPLS) and hardware-defined wide-area network (WAN) architectures. These environments are rigid, manually managed, and often incompatible with modern APIs or automation frameworks. As with any organization, barriers can be both technical and internal, and legacy devices may not support programmable interfaces. Organizations are often siloed, meaning networks are managed separately to application and DevOps workflows.&lt;/p&gt;  &lt;p&gt;Furthermore, CIOs face pressure for quick returns and may not even remain in the company long enough to oversee the process and results, making it harder to push for long-term network modernization strategies. “Often, it’s easier to address the low-hanging fruit rather than go after the transformation because decision-makers may not be around to see the transformation come to life,” says Purkayastha.&lt;/p&gt;  &lt;p&gt;But quick fixes or workarounds may not yield the desired results; transformation is needed instead. “Enterprises have historically built their networks for stability, not agility,” says Purkayastha. “But now, that same rigidity becomes a bottleneck when applications, users, and workloads are distributed across the cloud, edge, and remote locations.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Despite the challenges, there is a clear path forward, starting with overlay orchestration, well-defined API contracts, and security-first design. Instead of completely removing and replacing an existing system, many enterprises are layering APIs over existing infrastructure, enabling controlled migrations and real-time service automation.&lt;/p&gt;  &lt;p&gt;“We don’t just help customers adopt APIs, we guide them through the operational shift it requires,” says Purkayastha. “We have blueprints for what to automate first, how to manage hybrid environments, and how to design for resilience.”&lt;/p&gt;  &lt;p&gt;For some organizations, there will be resistance to the change initially. Fears of extra workloads, or misalliance with teams’ existing goals and objectives are common, as is the deeply human distrust of change. These can be overcome, however. “There are playbooks on what we’ve done earlier—learnings from transformation—which we share with clients,” says Purkayastha. “We also plan for the unknowns. We usually reserve 10% of time and resources just to manage unforeseen risks, and the result is an empowered organization to scale innovation and reduce operational complexity.”&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff.&lt;/em&gt; &lt;em&gt;It was researched, designed, and written entirely by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;Tata Communications&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Across industries, enterprises are increasingly adopting an on-demand approach to compute, storage, and applications. They are favoring digital services that are faster to deploy, easier to scale, and better integrated with partner ecosystems. Yet, one critical pillar has lagged: the network. While software-defined networking has made inroads, many organizations still operate rigid, pre-provisioned networks. As applications become increasingly distributed and dynamic—including hybrid cloud and edge deployments—a programmable, on-demand network infrastructure can enhance and enable this new era.&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1121548" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/iStock-1742620693.jpg" /&gt;&lt;/figure&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;From CapEx to OpEx: The new connectivity mindset&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Another, practical concern is also driving this shift: the need for IT models that align cost with usage. Rising uncertainty about inflation, consumer spending, business investment, and global supply chains are just a few of the economic factors weighing on company decision-making. And chief information officers (CIOs) are scrutinizing capital-expenditure-heavy infrastructure more closely and increasingly adopting operating-expenses-based subscription models.&lt;/p&gt;  &lt;p&gt;Instead of long-term circuit contracts and static provisioning, companies are looking for cloud-ready, on-demand network services that can scale, adapt, and integrate across hybrid environments. This trend is fueling demand for API-first network infrastructure connectivity that behaves like software, dynamically orchestrated and integrated into enterprise IT ecosystems. There has been such rapid interest, the global network API market is projected to surge from $1.53 billion in 2024 to over $72 billion in 2034.&lt;/p&gt; 
- &lt;p&gt;In fact, McKinsey estimates the network API market could unlock between $100 billion and $300 billion in connectivity- and edge-computing-related revenue for telecom operators over the next five to seven years, with an additional $10 billion to $30 billion generated directly from APIs themselves.&lt;/p&gt;  &lt;p&gt;“When the cloud came in, first there was a trickle of adoptions. And then there was a deluge,” says Rajarshi Purkayastha, VP of solutions at Tata Communications. “We’re seeing the same trend with programmable networks. What was once a niche industry is now becoming mainstream as CIOs prioritize agility and time-to-value.”&lt;/p&gt; 
-   &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;&lt;strong&gt;Programmable networks as a catalyst for innovation&lt;/strong&gt;&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Programmable subscription-based networks are not just about efficiency, they are about enabling faster innovation, better user experiences, and global scalability. Organizations are preferring API-first systems to avoid vendor lock-in, enable multi-vendor integration, and foster innovation. API-first approaches allow seamless integration across different hardware and software stacks, reducing operational complexity and costs.&lt;/p&gt;  &lt;p&gt;With APIs, enterprises can provision bandwidth, configure services, and connect to clouds and edge locations in real time, all through automation layers embedded in their DevOps and application platforms. This makes the network an active enabler of digital transformation rather than a lagging dependency.&lt;/p&gt;  &lt;p&gt;For example, Netflix—one of the earliest adopters of microservices—handles billions of API requests daily through over 500 microservices and gateways, supporting global scalability and rapid innovation. After a two-year transition period, it redesigned its IT structure and organized it using microservice architecture.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Elsewhere, Coca-Cola integrated its global systems using APIs, enabling faster, lower-cost delivery and improved cross-functional collaboration. And Uber moved to microservices with API gateways, allowing independent scaling and rapid deployment across markets.&lt;/p&gt;  &lt;p&gt;In each case, the network had to evolve from being static and hardware-bound to dynamic, programmable, and consumption-based. “API-first infrastructure fits naturally into how today’s IT teams work,” says Purkayastha. “It aligns with continuous integration and continuous delivery/deployment (CI/CD) pipelines and service orchestration tools. That reduces friction and accelerates how fast enterprises can launch new services.”&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Powering on-demand connectivity&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Tata Communications deployed Network Fabric—its programmable platform that uses APIs to allow enterprise systems to request and adjust network resources dynamically—to help a global software-as-a-service (SaaS) company modernize how it manages network capacity in response to real-time business needs. As the company scaled its digital services worldwide, it needed a more agile, cost-efficient way to align network performance with unpredictable traffic surges and fast-changing user demands. With Tata’s platform, the company’s operations teams were able to automatically scale bandwidth in key regions for peak performance, during high-impact events like global software releases. And just as quickly scale down once demand normalized, avoiding unnecessary costs.&lt;/p&gt;  &lt;p&gt;In another scenario, when the SaaS provider needed to run large-scale data operations between its US and Asia hubs, the network was programmatically reconfigured in under an hour; a process that previously required weeks of planning and provisioning. “What we delivered wasn’t just bandwidth, it was the ability for their teams to take control,” says Purkayastha. “By integrating our Network Fabric APIs into their automation workflows, we gave them a network that responds at the pace of their business.”&lt;/p&gt; 
-
-   &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Barriers to transformation — and how to overcome them&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Transforming network infrastructure is no small task. Many enterprises still rely on legacy multiprotocol label switching (MPLS) and hardware-defined wide-area network (WAN) architectures. These environments are rigid, manually managed, and often incompatible with modern APIs or automation frameworks. As with any organization, barriers can be both technical and internal, and legacy devices may not support programmable interfaces. Organizations are often siloed, meaning networks are managed separately to application and DevOps workflows.&lt;/p&gt;  &lt;p&gt;Furthermore, CIOs face pressure for quick returns and may not even remain in the company long enough to oversee the process and results, making it harder to push for long-term network modernization strategies. “Often, it’s easier to address the low-hanging fruit rather than go after the transformation because decision-makers may not be around to see the transformation come to life,” says Purkayastha.&lt;/p&gt;  &lt;p&gt;But quick fixes or workarounds may not yield the desired results; transformation is needed instead. “Enterprises have historically built their networks for stability, not agility,” says Purkayastha. “But now, that same rigidity becomes a bottleneck when applications, users, and workloads are distributed across the cloud, edge, and remote locations.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Despite the challenges, there is a clear path forward, starting with overlay orchestration, well-defined API contracts, and security-first design. Instead of completely removing and replacing an existing system, many enterprises are layering APIs over existing infrastructure, enabling controlled migrations and real-time service automation.&lt;/p&gt;  &lt;p&gt;“We don’t just help customers adopt APIs, we guide them through the operational shift it requires,” says Purkayastha. “We have blueprints for what to automate first, how to manage hybrid environments, and how to design for resilience.”&lt;/p&gt;  &lt;p&gt;For some organizations, there will be resistance to the change initially. Fears of extra workloads, or misalliance with teams’ existing goals and objectives are common, as is the deeply human distrust of change. These can be overcome, however. “There are playbooks on what we’ve done earlier—learnings from transformation—which we share with clients,” says Purkayastha. “We also plan for the unknowns. We usually reserve 10% of time and resources just to manage unforeseen risks, and the result is an empowered organization to scale innovation and reduce operational complexity.”&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff.&lt;/em&gt; &lt;em&gt;It was researched, designed, and written entirely by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/08/27/1121532/unlocking-enterprise-agility-in-the-api-economy/</guid><pubDate>Wed, 27 Aug 2025 14:00:00 +0000</pubDate></item><item><title>The AI Hype Index: AI-designed antibiotics show promise (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/08/27/1122356/the-ai-hype-index-ai-designed-antibiotics-show-promise/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/August-Thumb.png?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt;&lt;p&gt;Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry.&lt;/p&gt;    &lt;p&gt;Using AI to improve our health and well-being is one of the areas scientists and researchers are most excited about. The last month has seen an interesting leap forward: The technology has been put to work designing new antibiotics to fight hard-to-treat conditions, and OpenAI and Anthropic have both introduced new limiting features to curb potentially harmful conversations on their platforms.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Unfortunately, not all the news has been positive. Doctors who overrely on AI to help them spot cancerous tumors found their detection skills dropped once they lost access to the tool, and a man fell ill after ChatGPT recommended he replace the salt in his diet with dangerous sodium bromide. These are yet more warning signs of how careful we have to be when it comes to using AI to make important decisions for our physical and mental states.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/08/August-Thumb.png?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt;&lt;p&gt;Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry.&lt;/p&gt;    &lt;p&gt;Using AI to improve our health and well-being is one of the areas scientists and researchers are most excited about. The last month has seen an interesting leap forward: The technology has been put to work designing new antibiotics to fight hard-to-treat conditions, and OpenAI and Anthropic have both introduced new limiting features to curb potentially harmful conversations on their platforms.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Unfortunately, not all the news has been positive. Doctors who overrely on AI to help them spot cancerous tumors found their detection skills dropped once they lost access to the tool, and a man fell ill after ChatGPT recommended he replace the salt in his diet with dangerous sodium bromide. These are yet more warning signs of how careful we have to be when it comes to using AI to make important decisions for our physical and mental states.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/08/27/1122356/the-ai-hype-index-ai-designed-antibiotics-show-promise/</guid><pubDate>Wed, 27 Aug 2025 14:07:31 +0000</pubDate></item><item><title>Plaud launches a new AI hardware notetaker, the $179 Note Pro (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/plaud-launches-a-new-ai-hardware-notetaker-the-179-note-pro/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Hardware company Plaud.ai released its new physical notetaker, the Plaud AI Pro, on Wednesday. The notetaker, priced at $179, comes two years after the original Plaud Note was released, and a year after the company released an AI pin.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For people who haven’t seen one, the Plaud Note is a credit-card-sized hardware notetaker, which can stick on the back of your phone and help you take notes for calls or in-person meetings.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Note Pro looks similar to the original Note, but there’s one major difference. The new device has a small 0.95-inch AMOLED screen, which shows information like a recording indicator and battery level.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="An image of Plaud AI hardware notetaker displaying battery level on its tiny screen." class="wp-image-3040223" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/Black_side.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Plaud.ai&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Note Pro offers a 30-hour recording capacity for the standard range. But you can push the device to record for 50 hours with a shorter range of 9.8 feet (nearly 3 meters) on a single charge.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company said that the Note Pro has four MEMS (Micro-Electro-Mechanical Systems) mics, compared with two on the last-gen device, to better capture audio. Because of this, the Note Pro can capture audio within the range of 16.4 feet (nearly 5 meters), resulting in a 2x jump in range from the original Note Pro. The startup said users will get better noise suppression and speaker detection with the new device, as well. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While you had to manually switch between calls and in-person recording on the original Note, the Note Pro uses an auto-detection feature for this.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plaud.ai is also updating its companion app with new features. You can take notes in text on your phone — just like Granola — and add images, like slides.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The app update also offers  “multidimensional summaries,” which allow you to extract insights in different formats, such as key insights or data items. The company built templates for summary generation, and the app can automatically suggest the right one based on your role. Plus, you can build your own templates.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="An Image showing a person using Plaud AI notetaker while adding an image to notes using Plaud's app" class="wp-image-3040224" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/Highlight-Multimodal-AI.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Plaud.ai&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Another new feature, still in beta, allows you to query your notes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Plaud Note Pro is priced at $179/£169, and users can preorder the device starting today, with shipping slated for October 2025. The company said people preordering the device will get 600 complimentary transcription minutes along with a magnetic case. Users can get 300 minutes of monthly transcription for free, and if they want more, they need to buy a paid monthly plan or a one-time top-up.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Plaud is one of the companies that has been successfully chugging along when other AI device makers haven’t had a lot of popularity. Exor-backed Bee got acquired by Amazon, and Friend just started shipping after a few delays.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plaud said that it has shipped over a million units of its AI hardware notetakers, with nearly 50% users upgrading to the Pro plan.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Hardware company Plaud.ai released its new physical notetaker, the Plaud AI Pro, on Wednesday. The notetaker, priced at $179, comes two years after the original Plaud Note was released, and a year after the company released an AI pin.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For people who haven’t seen one, the Plaud Note is a credit-card-sized hardware notetaker, which can stick on the back of your phone and help you take notes for calls or in-person meetings.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Note Pro looks similar to the original Note, but there’s one major difference. The new device has a small 0.95-inch AMOLED screen, which shows information like a recording indicator and battery level.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="An image of Plaud AI hardware notetaker displaying battery level on its tiny screen." class="wp-image-3040223" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/Black_side.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Plaud.ai&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Note Pro offers a 30-hour recording capacity for the standard range. But you can push the device to record for 50 hours with a shorter range of 9.8 feet (nearly 3 meters) on a single charge.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company said that the Note Pro has four MEMS (Micro-Electro-Mechanical Systems) mics, compared with two on the last-gen device, to better capture audio. Because of this, the Note Pro can capture audio within the range of 16.4 feet (nearly 5 meters), resulting in a 2x jump in range from the original Note Pro. The startup said users will get better noise suppression and speaker detection with the new device, as well. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While you had to manually switch between calls and in-person recording on the original Note, the Note Pro uses an auto-detection feature for this.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plaud.ai is also updating its companion app with new features. You can take notes in text on your phone — just like Granola — and add images, like slides.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The app update also offers  “multidimensional summaries,” which allow you to extract insights in different formats, such as key insights or data items. The company built templates for summary generation, and the app can automatically suggest the right one based on your role. Plus, you can build your own templates.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="An Image showing a person using Plaud AI notetaker while adding an image to notes using Plaud's app" class="wp-image-3040224" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/Highlight-Multimodal-AI.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Plaud.ai&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Another new feature, still in beta, allows you to query your notes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Plaud Note Pro is priced at $179/£169, and users can preorder the device starting today, with shipping slated for October 2025. The company said people preordering the device will get 600 complimentary transcription minutes along with a magnetic case. Users can get 300 minutes of monthly transcription for free, and if they want more, they need to buy a paid monthly plan or a one-time top-up.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Plaud is one of the companies that has been successfully chugging along when other AI device makers haven’t had a lot of popularity. Exor-backed Bee got acquired by Amazon, and Friend just started shipping after a few delays.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plaud said that it has shipped over a million units of its AI hardware notetakers, with nearly 50% users upgrading to the Pro plan.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/plaud-launches-a-new-ai-hardware-notetaker-the-179-note-pro/</guid><pubDate>Wed, 27 Aug 2025 14:13:02 +0000</pubDate></item><item><title>Google Vids gets AI avatars and image-to-video tools (AI News)</title><link>https://www.artificialintelligence-news.com/news/google-vids-gets-ai-avatars-and-image-to-video-tools/</link><description>&lt;p&gt;Google is rolling out a raft of powerful new generative AI features for Vids designed to take the pain out of video creation.&lt;/p&gt;&lt;p&gt;Between wrestling with complicated software, finding someone willing to be on camera, and then spending hours editing out all the “ums” and “ahs,” video production often feels more trouble than it’s worth. Google is aiming to change that narrative with Vids.&lt;/p&gt;&lt;p&gt;So far, it seems to be finding its audience. Google announced that Vids has already rocketed past one million monthly active users, a clear sign that teams are crying out for simpler ways to bring their ideas to life with video.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-your-photos-now-move-and-avatars-do-the-talking"&gt;Your photos now move, and avatars do the talking&lt;/h3&gt;&lt;p&gt;Among the latest additions is the ability to turn static images into motion pictures. Imagine you’ve got a great photo of a new product but need something more engaging for a social media post or presentation. You can now upload that picture to Vids, type a quick prompt describing what you want to happen, and Google’s Veo AI will turn it into an eight-second animated clip, complete with sound. It’s a simple way to create eye-catching, brand-aligned content in minutes.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;For anyone who dreads being on camera, the new AI avatars will be a welcome relief. This feature lets you produce a polished video without ever stepping in front of a lens. You write your script, choose from a selection of digital presenters, and the AI handles the delivery. It’s perfect for creating consistent training guides, product demos, or team updates without worrying about lighting, background noise, or re-recording twenty takes to get it right.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;Google is also tackling the tedious task of editing. A new automatic transcript trimming tool listens to your recordings and, with a few clicks, snips out all the filler words and awkward silences. Speaking from plenty of experience, that will be a huge time-saver.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;Building on this, the company confirmed that familiar tools from Google Meet – like noise cancellation, custom backgrounds, and appearance filters – are set to arrive next month. Google Vids will also soon support portrait and square formats, making it much easier to create content for different platforms.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-getting-started-with-google-vids"&gt;Getting started with Google Vids&lt;/h3&gt;&lt;p&gt;With these new tools, Google is trying to make video creation as routine as building a slide deck.&lt;/p&gt;&lt;p&gt;The company is broadening access to Google Vids, making it available to more Workspace customers on business and education plans. Better yet, a basic version of the Vids editor is now completely free for all consumers, offering a range of templates to help you create anything from a tutorial to a party invitation.&lt;/p&gt;&lt;p&gt;To get everyone up to speed, Google has also launched a new “Vids on Vids” instructional series. The video guides walk you through the entire process, demonstrates the best features, and offers practical tips to help you create professional-looking content quickly.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;h3 class="wp-block-heading" id="h-real-businesses-are-seeing-the-benefit"&gt;Real businesses are seeing the benefit&lt;/h3&gt;&lt;p&gt;Companies are already putting Vids to work. At Mercer International, a global manufacturing firm, it’s being used for employee safety training.&lt;/p&gt;&lt;p&gt;Alistair Skey, CIO of Mercer International, said: “Google Vids has given us the ability to create safety content, developed and curated by our organisation rather than having to go to market to hire very expensive resources to produce that for us.”&lt;/p&gt;&lt;p&gt;It’s also a story of speed and scale. Forest Donovan from the data platform Fullstory was impressed by the efficiency gains. “The amount of [high gloss] content we can create in a matter of hours versus what would normally take weeks has been astounding,” he said.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;By embedding these powerful yet simple AI tools directly into its Workspace suite, Google is making the case that video is no longer the exclusive domain of specialist creative teams. It’s becoming a fundamental tool for everyday communication, and these updates just made it accessible to everyone.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Google Cloud unveils AI ally for security teams&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for the AI &amp;amp; Big Data Expo event series." class="wp-image-109137" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Google is rolling out a raft of powerful new generative AI features for Vids designed to take the pain out of video creation.&lt;/p&gt;&lt;p&gt;Between wrestling with complicated software, finding someone willing to be on camera, and then spending hours editing out all the “ums” and “ahs,” video production often feels more trouble than it’s worth. Google is aiming to change that narrative with Vids.&lt;/p&gt;&lt;p&gt;So far, it seems to be finding its audience. Google announced that Vids has already rocketed past one million monthly active users, a clear sign that teams are crying out for simpler ways to bring their ideas to life with video.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-your-photos-now-move-and-avatars-do-the-talking"&gt;Your photos now move, and avatars do the talking&lt;/h3&gt;&lt;p&gt;Among the latest additions is the ability to turn static images into motion pictures. Imagine you’ve got a great photo of a new product but need something more engaging for a social media post or presentation. You can now upload that picture to Vids, type a quick prompt describing what you want to happen, and Google’s Veo AI will turn it into an eight-second animated clip, complete with sound. It’s a simple way to create eye-catching, brand-aligned content in minutes.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;For anyone who dreads being on camera, the new AI avatars will be a welcome relief. This feature lets you produce a polished video without ever stepping in front of a lens. You write your script, choose from a selection of digital presenters, and the AI handles the delivery. It’s perfect for creating consistent training guides, product demos, or team updates without worrying about lighting, background noise, or re-recording twenty takes to get it right.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;Google is also tackling the tedious task of editing. A new automatic transcript trimming tool listens to your recordings and, with a few clicks, snips out all the filler words and awkward silences. Speaking from plenty of experience, that will be a huge time-saver.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;Building on this, the company confirmed that familiar tools from Google Meet – like noise cancellation, custom backgrounds, and appearance filters – are set to arrive next month. Google Vids will also soon support portrait and square formats, making it much easier to create content for different platforms.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-getting-started-with-google-vids"&gt;Getting started with Google Vids&lt;/h3&gt;&lt;p&gt;With these new tools, Google is trying to make video creation as routine as building a slide deck.&lt;/p&gt;&lt;p&gt;The company is broadening access to Google Vids, making it available to more Workspace customers on business and education plans. Better yet, a basic version of the Vids editor is now completely free for all consumers, offering a range of templates to help you create anything from a tutorial to a party invitation.&lt;/p&gt;&lt;p&gt;To get everyone up to speed, Google has also launched a new “Vids on Vids” instructional series. The video guides walk you through the entire process, demonstrates the best features, and offers practical tips to help you create professional-looking content quickly.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;h3 class="wp-block-heading" id="h-real-businesses-are-seeing-the-benefit"&gt;Real businesses are seeing the benefit&lt;/h3&gt;&lt;p&gt;Companies are already putting Vids to work. At Mercer International, a global manufacturing firm, it’s being used for employee safety training.&lt;/p&gt;&lt;p&gt;Alistair Skey, CIO of Mercer International, said: “Google Vids has given us the ability to create safety content, developed and curated by our organisation rather than having to go to market to hire very expensive resources to produce that for us.”&lt;/p&gt;&lt;p&gt;It’s also a story of speed and scale. Forest Donovan from the data platform Fullstory was impressed by the efficiency gains. “The amount of [high gloss] content we can create in a matter of hours versus what would normally take weeks has been astounding,” he said.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;By embedding these powerful yet simple AI tools directly into its Workspace suite, Google is making the case that video is no longer the exclusive domain of specialist creative teams. It’s becoming a fundamental tool for everyday communication, and these updates just made it accessible to everyone.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Google Cloud unveils AI ally for security teams&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for the AI &amp;amp; Big Data Expo event series." class="wp-image-109137" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/google-vids-gets-ai-avatars-and-image-to-video-tools/</guid><pubDate>Wed, 27 Aug 2025 14:48:34 +0000</pubDate></item><item><title>Malaysia’s SkyeChip unveils the country’s first edge AI processor (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/malaysias-skyechip-unveils-the-countrys-first-edge-ai-processor/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2026266993.jpg?resize=1200,686" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Malaysia has developed its first domestic edge AI processor. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Malaysian chip design company SkyeChip announced its MARS1000 processor at an industry event on Monday, Bloomberg reported. While an edge processor isn’t as powerful as an advanced Nvidia chip, it still represents a technological milestone for Malaysia, which is looking to play a bigger role in the global AI race.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Malaysia already has a foothold in the chip manufacturing sector and has recently increased its efforts and investment around AI. The country announced the creation of the Malaysian National AI Office in late 2024, an agency that plans to focus on seven areas, including the acceleration of AI adoption, AI adoption regulatory frameworks, and AI ethics.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It was rumored in early July that the Trump administration was considering restricting the sale of U.S. AI chips to Malaysia, and Thailand, in an attempt to prevent smuggling of these chips to China.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While those rumors have yet to come to fruition, Malaysia’s Ministry of Investment, Trade and Industry announced that it was going to require trade permits for U.S. AI chips on July 14. This rule means individuals and companies are required to notify the Malaysian government at least 30 days in advance if they plan to export or transship U.S.-made AI chips.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2026266993.jpg?resize=1200,686" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Malaysia has developed its first domestic edge AI processor. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Malaysian chip design company SkyeChip announced its MARS1000 processor at an industry event on Monday, Bloomberg reported. While an edge processor isn’t as powerful as an advanced Nvidia chip, it still represents a technological milestone for Malaysia, which is looking to play a bigger role in the global AI race.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Malaysia already has a foothold in the chip manufacturing sector and has recently increased its efforts and investment around AI. The country announced the creation of the Malaysian National AI Office in late 2024, an agency that plans to focus on seven areas, including the acceleration of AI adoption, AI adoption regulatory frameworks, and AI ethics.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It was rumored in early July that the Trump administration was considering restricting the sale of U.S. AI chips to Malaysia, and Thailand, in an attempt to prevent smuggling of these chips to China.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While those rumors have yet to come to fruition, Malaysia’s Ministry of Investment, Trade and Industry announced that it was going to require trade permits for U.S. AI chips on July 14. This rule means individuals and companies are required to notify the Malaysian government at least 30 days in advance if they plan to export or transship U.S.-made AI chips.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/malaysias-skyechip-unveils-the-countrys-first-edge-ai-processor/</guid><pubDate>Wed, 27 Aug 2025 15:01:00 +0000</pubDate></item><item><title>From streaming to healthcare to AI, Mark Cuban reveals his ‘disruption formula’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/from-streaming-to-healthcare-to-ai-mark-cuban-reveals-his-disruption-formula/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/mark-cuban-sxsw.jpg?resize=1200,667" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;Steve Jobs once said, “Everything’s a remix.” And that’s a philosophy that Mark Cuban has taken to heart, building an entire entrepreneurial and investment career on that simple belief. The real opportunity, Cuban says, lies in spotting patterns others miss and turning them into billion-dollar disruptions.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On today’s episode of Equity, Cuban joined TechCrunch’s Rebecca Bellan to discuss his decades-long strategy of betting on technologies before they go mainstream, from his early investments in local area networks and streaming services to his current healthcare and AI ventures. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But Cuban’s real insight isn’t just about picking winners. It’s about understanding why most people building in AI today are missing the point entirely.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Cuban delivered a stark warning about the current AI gold rush: While everyone’s using ChatGPT, almost no one (including Fortune 500 CEOs) knows how to integrate AI into their actual businesses. His take? Forget the hype. The real money is in helping small- and medium-sized businesses figure out how to use the AI tools that already exist.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;How Cuban identified disruptive opportunities in LANs, streaming, and HD television before they became obvious.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Why he thinks current AI “isn’t smart,” and why that limitation could be its strength as a business tool.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;The upcoming regulatory battles that will determine AI’s future around IP protection, training data access, and the U.S.-China competition.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Inside Cuban’s latest venture, Cost Plus Drugs, expanding from transparent pricing to manufacturing.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Cuban’s prediction that AI-savvy graduates will become the most in-demand employees across every industry.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;As always, Equity will be back Friday. Don’t miss it!&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Equity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="has-text-align-left wp-block-paragraph"&gt;&lt;em&gt;Subscribe to us on&lt;/em&gt;&lt;em&gt; Apple Podcasts&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Overcast&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Spotify&lt;/em&gt;&lt;em&gt; and all the casts. You also can follow Equity on&lt;/em&gt;&lt;em&gt; X&lt;/em&gt;&lt;em&gt; and&lt;/em&gt;&lt;em&gt; Threads&lt;/em&gt;&lt;em&gt;, at @EquityPod.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/mark-cuban-sxsw.jpg?resize=1200,667" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;Steve Jobs once said, “Everything’s a remix.” And that’s a philosophy that Mark Cuban has taken to heart, building an entire entrepreneurial and investment career on that simple belief. The real opportunity, Cuban says, lies in spotting patterns others miss and turning them into billion-dollar disruptions.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On today’s episode of Equity, Cuban joined TechCrunch’s Rebecca Bellan to discuss his decades-long strategy of betting on technologies before they go mainstream, from his early investments in local area networks and streaming services to his current healthcare and AI ventures. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But Cuban’s real insight isn’t just about picking winners. It’s about understanding why most people building in AI today are missing the point entirely.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Cuban delivered a stark warning about the current AI gold rush: While everyone’s using ChatGPT, almost no one (including Fortune 500 CEOs) knows how to integrate AI into their actual businesses. His take? Forget the hype. The real money is in helping small- and medium-sized businesses figure out how to use the AI tools that already exist.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;How Cuban identified disruptive opportunities in LANs, streaming, and HD television before they became obvious.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Why he thinks current AI “isn’t smart,” and why that limitation could be its strength as a business tool.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;The upcoming regulatory battles that will determine AI’s future around IP protection, training data access, and the U.S.-China competition.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Inside Cuban’s latest venture, Cost Plus Drugs, expanding from transparent pricing to manufacturing.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Cuban’s prediction that AI-savvy graduates will become the most in-demand employees across every industry.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;As always, Equity will be back Friday. Don’t miss it!&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Equity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="has-text-align-left wp-block-paragraph"&gt;&lt;em&gt;Subscribe to us on&lt;/em&gt;&lt;em&gt; Apple Podcasts&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Overcast&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Spotify&lt;/em&gt;&lt;em&gt; and all the casts. You also can follow Equity on&lt;/em&gt;&lt;em&gt; X&lt;/em&gt;&lt;em&gt; and&lt;/em&gt;&lt;em&gt; Threads&lt;/em&gt;&lt;em&gt;, at @EquityPod.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/from-streaming-to-healthcare-to-ai-mark-cuban-reveals-his-disruption-formula/</guid><pubDate>Wed, 27 Aug 2025 15:20:00 +0000</pubDate></item><item><title>Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns (AI – Ars Technica)</title><link>https://arstechnica.com/information-technology/2025/08/new-ai-browser-agents-create-risks-if-sites-hijack-them-with-hidden-instructions/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Malicious websites can embed invisible commands that AI agents will follow blindly.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="The &amp;quot;Claude for Chrome&amp;quot; logo." class="absolute inset-0 w-full h-full object-cover hidden" height="359" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin-640x359.jpg" width="640" /&gt;
-                  &lt;img alt="The &amp;quot;Claude for Chrome&amp;quot; logo." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="620" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin.jpg" width="1105" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Anthropic
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;As AI assistants become capable of controlling web browsers, a new security challenge has emerged: users must now trust that every website they visit won't try to hijack their AI agent with hidden malicious instructions. Experts voiced concerns about this emerging threat this week after testing from a leading AI chatbot vendor revealed that AI browser agents can be successfully tricked into harmful actions nearly a quarter of the time.&lt;/p&gt;
-&lt;p&gt;On Tuesday, Anthropic announced the launch of Claude for Chrome, a web browser-based AI agent that can take actions on behalf of users. Due to security concerns, the extension is only rolling out as a research preview to 1,000 subscribers on Anthropic's Max plan, which costs between $100 and $200 per month, with a waitlist available for other users.&lt;/p&gt;
-&lt;p&gt;The Claude for Chrome extension allows users to chat with the Claude AI model in a sidebar window that maintains the context of everything happening in their browser. Users can grant Claude permission to perform tasks like managing calendars, scheduling meetings, drafting email responses, handling expense reports, and testing website features.&lt;/p&gt;
-&lt;p&gt;The browser extension builds on Anthropic's Computer Use capability, which the company released in October 2024. Computer Use is an experimental feature that allows Claude to take screenshots and control a user's mouse cursor to perform tasks, but the new Chrome extension provides more direct browser integration.&lt;/p&gt;
-&lt;figure class="ars-video"&gt;&lt;div class="relative"&gt;&lt;/div&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Claude for Chrome demo video by Anthropic.
-
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/figure&gt;
-&lt;p&gt;Zooming out, it appears Anthropic's browser extension reflects a new phase of AI lab competition. In July, Perplexity launched its own browser, Comet, which features an AI agent that attempts to offload tasks for users. OpenAI recently released ChatGPT Agent, a bot that uses its own sandboxed browser to take actions on the web. Google has also launched Gemini integrations with Chrome in recent months.&lt;/p&gt;
-&lt;p&gt;But this rush to integrate AI into browsers has exposed a fundamental security flaw that could put users at serious risk.&lt;/p&gt;
-&lt;h2&gt;Security challenges and safety measures&lt;/h2&gt;
-&lt;p&gt;In preparation for the Chrome extension launch, Anthropic says it has conducted extensive testing that revealed browser-using AI models can face prompt-injection attacks, where malicious actors embed hidden instructions into websites to trick AI systems into performing harmful actions without user knowledge.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;The company tested 123 cases representing 29 different attack scenarios and found a 23.6 percent attack success rate when browser use operated without safety mitigations.&lt;/p&gt;
-&lt;p&gt;One example involved a malicious email that instructed Claude to delete a user's emails for "mailbox hygiene" purposes. Without safeguards, Claude followed these instructions and deleted the user's emails without confirmation.&lt;/p&gt;
-&lt;p&gt;Anthropic says it has implemented several defenses to address these vulnerabilities. Users can grant or revoke Claude's access to specific websites through site-level permissions. The system requires user confirmation before Claude takes high-risk actions like publishing, purchasing, or sharing personal data. The company has also blocked Claude from accessing websites offering financial services, adult content, and pirated content by default.&lt;/p&gt;
-&lt;p&gt;These safety measures reduced the attack success rate from 23.6 percent to 11.2 percent in autonomous mode. On a specialized test of four browser-specific attack types, the new mitigations reportedly reduced the success rate from 35.7 percent to 0 percent.&lt;/p&gt;
-&lt;p&gt;Independent AI researcher Simon Willison, who has extensively written about AI security risks and coined the term "prompt injection" in 2022, called the remaining 11.2 percent attack rate "catastrophic," writing on his blog that "in the absence of 100% reliable protection I have trouble imagining a world in which it's a good idea to unleash this pattern."&lt;/p&gt;
-&lt;p&gt;By "pattern," Willison is referring to the recent trend of integrating AI agents into web browsers. "I strongly expect that the entire concept of an agentic browser extension is fatally flawed and cannot be built safely," he wrote in an earlier post on similar prompt-injection security issues recently found in Perplexity Comet.&lt;/p&gt;
-&lt;p&gt;The security risks are no longer theoretical. Last week, Brave's security team discovered that Perplexity's Comet browser could be tricked into accessing users' Gmail accounts and triggering password recovery flows through malicious instructions hidden in Reddit posts. When users asked Comet to summarize a Reddit thread, attackers could embed invisible commands that instructed the AI to open Gmail in another tab, extract the user's email address, and perform unauthorized actions. Although Perplexity attempted to fix the vulnerability, Brave later confirmed that its mitigations were defeated and the security hole remained.&lt;/p&gt;
-&lt;p&gt;For now, Anthropic plans to use its new research preview to identify and address attack patterns that emerge in real-world usage before making the Chrome extension more widely available. In the absence of good protections from AI vendors, the burden of security falls on the user, who is taking a large risk by using these tools on the open web. As Willison noted in his post about Claude for Chrome, "I don't think it's reasonable to expect end users to make good decisions about the security risks."&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Malicious websites can embed invisible commands that AI agents will follow blindly.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="The &amp;quot;Claude for Chrome&amp;quot; logo." class="absolute inset-0 w-full h-full object-cover hidden" height="359" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin-640x359.jpg" width="640" /&gt;
-                  &lt;img alt="The &amp;quot;Claude for Chrome&amp;quot; logo." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="620" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin.jpg" width="1105" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Anthropic
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;As AI assistants become capable of controlling web browsers, a new security challenge has emerged: users must now trust that every website they visit won't try to hijack their AI agent with hidden malicious instructions. Experts voiced concerns about this emerging threat this week after testing from a leading AI chatbot vendor revealed that AI browser agents can be successfully tricked into harmful actions nearly a quarter of the time.&lt;/p&gt;
-&lt;p&gt;On Tuesday, Anthropic announced the launch of Claude for Chrome, a web browser-based AI agent that can take actions on behalf of users. Due to security concerns, the extension is only rolling out as a research preview to 1,000 subscribers on Anthropic's Max plan, which costs between $100 and $200 per month, with a waitlist available for other users.&lt;/p&gt;
-&lt;p&gt;The Claude for Chrome extension allows users to chat with the Claude AI model in a sidebar window that maintains the context of everything happening in their browser. Users can grant Claude permission to perform tasks like managing calendars, scheduling meetings, drafting email responses, handling expense reports, and testing website features.&lt;/p&gt;
-&lt;p&gt;The browser extension builds on Anthropic's Computer Use capability, which the company released in October 2024. Computer Use is an experimental feature that allows Claude to take screenshots and control a user's mouse cursor to perform tasks, but the new Chrome extension provides more direct browser integration.&lt;/p&gt;
-&lt;figure class="ars-video"&gt;&lt;div class="relative"&gt;&lt;/div&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Claude for Chrome demo video by Anthropic.
-
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/figure&gt;
-&lt;p&gt;Zooming out, it appears Anthropic's browser extension reflects a new phase of AI lab competition. In July, Perplexity launched its own browser, Comet, which features an AI agent that attempts to offload tasks for users. OpenAI recently released ChatGPT Agent, a bot that uses its own sandboxed browser to take actions on the web. Google has also launched Gemini integrations with Chrome in recent months.&lt;/p&gt;
-&lt;p&gt;But this rush to integrate AI into browsers has exposed a fundamental security flaw that could put users at serious risk.&lt;/p&gt;
-&lt;h2&gt;Security challenges and safety measures&lt;/h2&gt;
-&lt;p&gt;In preparation for the Chrome extension launch, Anthropic says it has conducted extensive testing that revealed browser-using AI models can face prompt-injection attacks, where malicious actors embed hidden instructions into websites to trick AI systems into performing harmful actions without user knowledge.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;The company tested 123 cases representing 29 different attack scenarios and found a 23.6 percent attack success rate when browser use operated without safety mitigations.&lt;/p&gt;
-&lt;p&gt;One example involved a malicious email that instructed Claude to delete a user's emails for "mailbox hygiene" purposes. Without safeguards, Claude followed these instructions and deleted the user's emails without confirmation.&lt;/p&gt;
-&lt;p&gt;Anthropic says it has implemented several defenses to address these vulnerabilities. Users can grant or revoke Claude's access to specific websites through site-level permissions. The system requires user confirmation before Claude takes high-risk actions like publishing, purchasing, or sharing personal data. The company has also blocked Claude from accessing websites offering financial services, adult content, and pirated content by default.&lt;/p&gt;
-&lt;p&gt;These safety measures reduced the attack success rate from 23.6 percent to 11.2 percent in autonomous mode. On a specialized test of four browser-specific attack types, the new mitigations reportedly reduced the success rate from 35.7 percent to 0 percent.&lt;/p&gt;
-&lt;p&gt;Independent AI researcher Simon Willison, who has extensively written about AI security risks and coined the term "prompt injection" in 2022, called the remaining 11.2 percent attack rate "catastrophic," writing on his blog that "in the absence of 100% reliable protection I have trouble imagining a world in which it's a good idea to unleash this pattern."&lt;/p&gt;
-&lt;p&gt;By "pattern," Willison is referring to the recent trend of integrating AI agents into web browsers. "I strongly expect that the entire concept of an agentic browser extension is fatally flawed and cannot be built safely," he wrote in an earlier post on similar prompt-injection security issues recently found in Perplexity Comet.&lt;/p&gt;
-&lt;p&gt;The security risks are no longer theoretical. Last week, Brave's security team discovered that Perplexity's Comet browser could be tricked into accessing users' Gmail accounts and triggering password recovery flows through malicious instructions hidden in Reddit posts. When users asked Comet to summarize a Reddit thread, attackers could embed invisible commands that instructed the AI to open Gmail in another tab, extract the user's email address, and perform unauthorized actions. Although Perplexity attempted to fix the vulnerability, Brave later confirmed that its mitigations were defeated and the security hole remained.&lt;/p&gt;
-&lt;p&gt;For now, Anthropic plans to use its new research preview to identify and address attack patterns that emerge in real-world usage before making the Chrome extension more widely available. In the absence of good protections from AI vendors, the burden of security falls on the user, who is taking a large risk by using these tools on the open web. As Willison noted in his post about Claude for Chrome, "I don't think it's reasonable to expect end users to make good decisions about the security risks."&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/information-technology/2025/08/new-ai-browser-agents-create-risks-if-sites-hijack-them-with-hidden-instructions/</guid><pubDate>Wed, 27 Aug 2025 16:17:29 +0000</pubDate></item><item><title>AI Safety Newsletter #62: Big Tech Launches $100 Million pro-AI Super PAC (AI Safety Newsletter)</title><link>https://newsletter.safe.ai/p/ai-safety-newsletter-62-big-tech</link><description>&lt;p&gt;&lt;span&gt;Welcome to the AI Safety Newsletter by the &lt;/span&gt;&lt;a href="https://www.safe.ai/" rel="rel"&gt;Center for AI Safety&lt;/a&gt;&lt;span&gt;. We discuss developments in AI and AI safety. No technical background required.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;In this edition: Big tech launches a $100 million pro-AI super PAC; Meta’s chatbot policies prompt congressional scrutiny amid the company’s AI reorganization; China reverses course on buying Nvidia H20 chips after comments by Secretary of Commerce Howard Lutnick.&lt;/p&gt;&lt;p&gt;&lt;span&gt;Listen to the AI Safety Newsletter for free on &lt;/span&gt;&lt;a href="https://spotify.link/E6lHa1ij2Cb" rel="rel"&gt;Spotify&lt;/a&gt;&lt;span&gt; or &lt;/span&gt;&lt;a href="https://podcasts.apple.com/us/podcast/ai-safety-newsletter/id1702875110" rel="rel"&gt;Apple Podcasts&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Silicon valley executives and investors are investing more than $100 million in &lt;/span&gt;&lt;a href="https://www.wsj.com/politics/silicon-valley-launches-pro-ai-pacs-to-defend-industry-in-midterm-elections-287905b3" rel="rel"&gt;a new political network&lt;/a&gt;&lt;span&gt; to push back against AI regulations, signaling that the industry intends to be a major player in next year’s U.S. midterms.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The super PAC is backed by a16z and Greg Brockman and imitates the crypto super PAC Fairshake. &lt;/strong&gt;&lt;span&gt;The network, called Leading the Future, is modeled on the crypto-focused super-PAC Fairshake and aims to influence AI policy through campaign donations, digital ads, and candidate targeting. Venture capital firm Andreessen Horowitz and OpenAI President Greg Brockman are among the key backers, alongside Palantir co-founder Joe Lonsdale, Perplexity AI, and veteran angel investor Ron Conway.&lt;/span&gt;&lt;/p&gt;&lt;div class="captioned-image-container"&gt;&lt;figure&gt;&lt;a class="image-link image2 is-viewable-img" href="https://substackcdn.com/image/fetch/$s_!NQ_Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31a08d1d-bc5e-43d0-9664-5d3797244a26_1500x500.png" rel="rel" target="_blank"&gt;&lt;div class="image2-inset"&gt;&lt;source type="image/webp" /&gt;&lt;img alt="alt" class="sizing-normal" height="485" src="https://substackcdn.com/image/fetch/$s_!NQ_Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31a08d1d-bc5e-43d0-9664-5d3797244a26_1500x500.png" width="1456" /&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class="image-caption"&gt;&lt;span&gt;Leading The Future’s branding. &lt;/span&gt;&lt;a href="https://x.com/LeadingFutureAI" rel="rel"&gt;Source&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;The effort will be led by Josh Vlasto, a former adviser to Sen. Chuck Schumer, and Zac Moffatt, CEO of consulting firm Targeted Victory. Both previously played senior roles in Fairshake, which spent heavily to defeat crypto skeptics and support the first federal crypto law signed earlier this year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Meta is funding an AI super-PAC in California.&lt;/strong&gt;&lt;span&gt; Meta is also ramping up political efforts in its home state with the launch of &lt;/span&gt;&lt;a href="https://techcrunch.com/2025/08/26/meta-to-spend-tens-of-millions-on-pro-ai-super-pac/" rel="rel"&gt;another new super PAC&lt;/a&gt;&lt;span&gt;, Mobilizing Economic Transformation Across (Meta) California. Meta California is led by Meta executives Brian Rice and Greg Maurer and is expected to deploy tens of millions of dollars to support candidates—across party lines—who oppose AI regulation.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Meta is facing bipartisan outrage and an ongoing probe after Reuters &lt;/span&gt;&lt;a href="https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/" rel="rel"&gt;reported&lt;/a&gt;&lt;span&gt; on internal company documents that permitted its AI chatbots to engage in romantic and sensual conversations with minors—drawing fresh scrutiny as the company reorganizes its AI division.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Meta allowed its chatbots to have sensual conversations with children.&lt;/strong&gt;&lt;span&gt; An internal policy document permitted Meta AI chatbots to interact with children in “romantic or sensual” contexts—such as describing a child’s body as “a work of art.” Although Meta removed these sections of its policy when questioned by Reuters, the rules had been approved and in effect.&lt;/span&gt;&lt;/p&gt;&lt;div class="captioned-image-container"&gt;&lt;figure&gt;&lt;a class="image-link image2 is-viewable-img" href="https://substackcdn.com/image/fetch/$s_!gjRH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3587369f-4268-4546-b4ed-9743fccad5d8_1600x505.png" rel="rel" target="_blank"&gt;&lt;div class="image2-inset"&gt;&lt;source type="image/webp" /&gt;&lt;img alt="alt" class="sizing-normal" height="460" src="https://substackcdn.com/image/fetch/$s_!gjRH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3587369f-4268-4546-b4ed-9743fccad5d8_1600x505.png" width="1456" /&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class="image-caption"&gt;&lt;span&gt;An exerpt from Meta’s policies. &lt;/span&gt;&lt;a href="https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/" rel="rel"&gt;Source&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The revelation provoked congressional scrutiny.&lt;/strong&gt;&lt;span&gt; Congress Senator Josh Hawley (R‑MO) launched a &lt;/span&gt;&lt;a href="https://www.hawley.senate.gov/kids-deserve-protection-hawley-launches-investigation-into-meta-for-training-its-ai-chatbots-to-target-children-with-sensual-conversation/" rel="rel"&gt;Senate inquiry&lt;/a&gt;&lt;span&gt; into Meta’s policies, requesting that the company preserve all relevant communications and clarify whether its chatbots enable “exploitation, deception or other criminal harms to children.” A bipartisan group of senators also &lt;/span&gt;&lt;a href="https://www.schatz.senate.gov/news/press-releases/schatz-leads-bipartisan-group-of-10-senators-in-pressing-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots" rel="rel"&gt;sent a letter&lt;/a&gt;&lt;span&gt; to Meta demanding it publicly disclose its updated policies and specifically forbid romantic chatbot interactions with minors.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Meta is in the middle of reorganizing its AI division.&lt;/strong&gt;&lt;span&gt; As Meta is fielding congressional backlash, the company is also in the middle of a major internal reorganization of its AI division. Under the umbrella of Meta Superintelligence Labs (MSL), teams have been split into specialized groups: TBD Lab (large-language‑model development), FAIR (long‑term research), Products &amp;amp; Applied Research, and MSL Infra (infrastructure). The reorganization, communicated in an &lt;/span&gt;&lt;a href="https://www.businessinsider.com/meta-ai-superintelligence-labs-reorg-alexandr-wang-memo-2025-8" rel="rel"&gt;internal memo&lt;/a&gt;&lt;span&gt; from Chief AI Officer Alexandr Wang, also dissolved the AGI Foundations team, redistributing its members across the new structure.&lt;/span&gt;&lt;strong&gt; &lt;/strong&gt;&lt;span&gt;Any new hires or transfers across Meta’s AI teams now &lt;/span&gt;&lt;a href="https://www.wsj.com/tech/ai/meta-ai-hiring-freeze-fda6b3c4" rel="rel"&gt;require&lt;/a&gt;&lt;span&gt; Wang’s personal approval.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Meta’s AI reorganization reflects high stakes in a competitive race with other AI companies. Yet, as Meta accelerates toward superintelligence, its chatbot controversy demonstrates that its ambitions are outpacing both internal controls and external oversight.&lt;/p&gt;&lt;p&gt;Weeks after the Trump administration approved Nvidia’s H20 chip exports to China under a 15% revenue-sharing arrangement, the deal is facing an uncertain future.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nvidia made a deal with the White House to sell H20s (and possibly a new chip model) to China.&lt;/strong&gt;&lt;span&gt; Last month, the White House struck a deal with Nvidia which allowed the company to export H20s to China on the condition it shared 15% of its revenue with the US government. President Trump recently suggested he might also allow Nvidia to export a scaled-down version of their next-generation Blackwell chips. The chip in question (the B30A) would offer about half the performance of Nvidia's flagship B300 and could be shipped as early as September.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The deal faces political opposition and legal uncertainty.&lt;/strong&gt;&lt;span&gt; Selling AI chips China faces political opposition on national security grounds. A group of six democratic senators wrote &lt;/span&gt;&lt;a href="https://www.warner.senate.gov/public/_cache/files/3/a/3a2a1db4-65d2-4377-822a-5f245d53b28f/62DE3F69670AE9734557935EEC1CB6A941532F5BA23C1E543B74B4EECAD3D420.250815.trump-senate-15-percent-fee-letter.signed.pdf" rel="rel"&gt;a letter&lt;/a&gt;&lt;span&gt; to the White House arguing that its deal with Nvidia undermines US national security by giving the PRC access to a critical military technology. The deal’s revenue-sharing condition—in effect, an export tax—also faces &lt;/span&gt;&lt;a href="https://thehill.com/policy/technology/5446890-nvidia-amd-china-chip-deal/" rel="rel"&gt;legal challenges&lt;/a&gt;&lt;span&gt;. Export taxes are barred under both the Constitution and federal law.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chinese regulators issued guidance against H20 purchases after comments by Sec. Lutnick.&lt;/strong&gt;&lt;span&gt; China urged Defending the H20 deal, Commerce Secretary Howard Lutnick said that the U.S. strategy was to offer China inferior AI chips: “We don’t sell them our best stuff… not even our third‑best,” adding that the goal was for Chinese developers to get “addicted to the American technology stack.” Chinese regulators &lt;/span&gt;&lt;a href="https://www.ft.com/content/b8e30c54-b71c-4113-8b3e-8f54bc36587d" rel="rel"&gt;reportedly&lt;/a&gt;&lt;span&gt; deemed the comments “insulting,” provoking efforts to discourage Nvidia chip purchases.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A week after Lunick’s comments, China’s Cyberspace Administration (CAC) issued guidance urging Chinese companies to suspend H20 orders. Nvidia is &lt;/span&gt;&lt;a href="https://www.reuters.com/world/china/nvidia-asks-foxconn-suspend-work-h20-chip-sources-say-2025-08-22/" rel="rel"&gt;reportedly&lt;/a&gt;&lt;span&gt; halting production of H20s in response to decreased demand from China.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Renting AI chips might be better than selling them&lt;/strong&gt;&lt;span&gt;. Instead of selling chips to China, &lt;/span&gt;&lt;a href="https://www.rand.org/pubs/commentary/2025/08/america-should-rent-not-sell-ai-chips-to-china.html" rel="rel"&gt;renting AI chips&lt;/a&gt;&lt;span&gt; via remote cloud services would offer the US greater leverage than outright sales. Cloud access preserves US control: chips remain physically in custody, and access can be revoked. This model could generate revenue for both chipmakers and cloud providers while curbing diversion to unauthorized users like the Chinese military.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Government&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Industry&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Civil Society&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;See also: &lt;/span&gt;&lt;a href="https://x.com/ai_risks?lang=en" rel="rel"&gt;CAIS’ X account&lt;/a&gt;&lt;span&gt;, our paper on &lt;/span&gt;&lt;a href="https://www.nationalsecurity.ai/" rel="rel"&gt;superintelligence strategy&lt;/a&gt;&lt;span&gt;, our &lt;/span&gt;&lt;a href="https://www.aisafetybook.com/" rel="rel"&gt;AI safety course&lt;/a&gt;&lt;span&gt;, and &lt;/span&gt;&lt;a href="http://ai-frontiers.org/" rel="rel"&gt;AI Frontiers&lt;/a&gt;&lt;span&gt;, a new platform for expert commentary and analysis.&lt;/span&gt;&lt;/p&gt;&lt;p class="button-wrapper"&gt;&lt;a class="button primary" href="https://newsletter.safe.ai/p/ai-safety-newsletter-62-big-tech?utm_source=substack&amp;amp;utm_medium=email&amp;amp;utm_content=share&amp;amp;action=share" rel="rel"&gt;&lt;span&gt;Share&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description><content:encoded>&lt;p&gt;&lt;span&gt;Welcome to the AI Safety Newsletter by the &lt;/span&gt;&lt;a href="https://www.safe.ai/" rel="rel"&gt;Center for AI Safety&lt;/a&gt;&lt;span&gt;. We discuss developments in AI and AI safety. No technical background required.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;In this edition: Big tech launches a $100 million pro-AI super PAC; Meta’s chatbot policies prompt congressional scrutiny amid the company’s AI reorganization; China reverses course on buying Nvidia H20 chips after comments by Secretary of Commerce Howard Lutnick.&lt;/p&gt;&lt;p&gt;&lt;span&gt;Listen to the AI Safety Newsletter for free on &lt;/span&gt;&lt;a href="https://spotify.link/E6lHa1ij2Cb" rel="rel"&gt;Spotify&lt;/a&gt;&lt;span&gt; or &lt;/span&gt;&lt;a href="https://podcasts.apple.com/us/podcast/ai-safety-newsletter/id1702875110" rel="rel"&gt;Apple Podcasts&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Silicon valley executives and investors are investing more than $100 million in &lt;/span&gt;&lt;a href="https://www.wsj.com/politics/silicon-valley-launches-pro-ai-pacs-to-defend-industry-in-midterm-elections-287905b3" rel="rel"&gt;a new political network&lt;/a&gt;&lt;span&gt; to push back against AI regulations, signaling that the industry intends to be a major player in next year’s U.S. midterms.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The super PAC is backed by a16z and Greg Brockman and imitates the crypto super PAC Fairshake. &lt;/strong&gt;&lt;span&gt;The network, called Leading the Future, is modeled on the crypto-focused super-PAC Fairshake and aims to influence AI policy through campaign donations, digital ads, and candidate targeting. Venture capital firm Andreessen Horowitz and OpenAI President Greg Brockman are among the key backers, alongside Palantir co-founder Joe Lonsdale, Perplexity AI, and veteran angel investor Ron Conway.&lt;/span&gt;&lt;/p&gt;&lt;div class="captioned-image-container"&gt;&lt;figure&gt;&lt;a class="image-link image2 is-viewable-img" href="https://substackcdn.com/image/fetch/$s_!NQ_Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31a08d1d-bc5e-43d0-9664-5d3797244a26_1500x500.png" rel="rel" target="_blank"&gt;&lt;div class="image2-inset"&gt;&lt;source type="image/webp" /&gt;&lt;img alt="alt" class="sizing-normal" height="485" src="https://substackcdn.com/image/fetch/$s_!NQ_Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31a08d1d-bc5e-43d0-9664-5d3797244a26_1500x500.png" width="1456" /&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class="image-caption"&gt;&lt;span&gt;Leading The Future’s branding. &lt;/span&gt;&lt;a href="https://x.com/LeadingFutureAI" rel="rel"&gt;Source&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;The effort will be led by Josh Vlasto, a former adviser to Sen. Chuck Schumer, and Zac Moffatt, CEO of consulting firm Targeted Victory. Both previously played senior roles in Fairshake, which spent heavily to defeat crypto skeptics and support the first federal crypto law signed earlier this year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Meta is funding an AI super-PAC in California.&lt;/strong&gt;&lt;span&gt; Meta is also ramping up political efforts in its home state with the launch of &lt;/span&gt;&lt;a href="https://techcrunch.com/2025/08/26/meta-to-spend-tens-of-millions-on-pro-ai-super-pac/" rel="rel"&gt;another new super PAC&lt;/a&gt;&lt;span&gt;, Mobilizing Economic Transformation Across (Meta) California. Meta California is led by Meta executives Brian Rice and Greg Maurer and is expected to deploy tens of millions of dollars to support candidates—across party lines—who oppose AI regulation.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Meta is facing bipartisan outrage and an ongoing probe after Reuters &lt;/span&gt;&lt;a href="https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/" rel="rel"&gt;reported&lt;/a&gt;&lt;span&gt; on internal company documents that permitted its AI chatbots to engage in romantic and sensual conversations with minors—drawing fresh scrutiny as the company reorganizes its AI division.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Meta allowed its chatbots to have sensual conversations with children.&lt;/strong&gt;&lt;span&gt; An internal policy document permitted Meta AI chatbots to interact with children in “romantic or sensual” contexts—such as describing a child’s body as “a work of art.” Although Meta removed these sections of its policy when questioned by Reuters, the rules had been approved and in effect.&lt;/span&gt;&lt;/p&gt;&lt;div class="captioned-image-container"&gt;&lt;figure&gt;&lt;a class="image-link image2 is-viewable-img" href="https://substackcdn.com/image/fetch/$s_!gjRH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3587369f-4268-4546-b4ed-9743fccad5d8_1600x505.png" rel="rel" target="_blank"&gt;&lt;div class="image2-inset"&gt;&lt;source type="image/webp" /&gt;&lt;img alt="alt" class="sizing-normal" height="460" src="https://substackcdn.com/image/fetch/$s_!gjRH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3587369f-4268-4546-b4ed-9743fccad5d8_1600x505.png" width="1456" /&gt;&lt;/div&gt;&lt;/a&gt;&lt;figcaption class="image-caption"&gt;&lt;span&gt;An exerpt from Meta’s policies. &lt;/span&gt;&lt;a href="https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/" rel="rel"&gt;Source&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The revelation provoked congressional scrutiny.&lt;/strong&gt;&lt;span&gt; Congress Senator Josh Hawley (R‑MO) launched a &lt;/span&gt;&lt;a href="https://www.hawley.senate.gov/kids-deserve-protection-hawley-launches-investigation-into-meta-for-training-its-ai-chatbots-to-target-children-with-sensual-conversation/" rel="rel"&gt;Senate inquiry&lt;/a&gt;&lt;span&gt; into Meta’s policies, requesting that the company preserve all relevant communications and clarify whether its chatbots enable “exploitation, deception or other criminal harms to children.” A bipartisan group of senators also &lt;/span&gt;&lt;a href="https://www.schatz.senate.gov/news/press-releases/schatz-leads-bipartisan-group-of-10-senators-in-pressing-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots" rel="rel"&gt;sent a letter&lt;/a&gt;&lt;span&gt; to Meta demanding it publicly disclose its updated policies and specifically forbid romantic chatbot interactions with minors.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Meta is in the middle of reorganizing its AI division.&lt;/strong&gt;&lt;span&gt; As Meta is fielding congressional backlash, the company is also in the middle of a major internal reorganization of its AI division. Under the umbrella of Meta Superintelligence Labs (MSL), teams have been split into specialized groups: TBD Lab (large-language‑model development), FAIR (long‑term research), Products &amp;amp; Applied Research, and MSL Infra (infrastructure). The reorganization, communicated in an &lt;/span&gt;&lt;a href="https://www.businessinsider.com/meta-ai-superintelligence-labs-reorg-alexandr-wang-memo-2025-8" rel="rel"&gt;internal memo&lt;/a&gt;&lt;span&gt; from Chief AI Officer Alexandr Wang, also dissolved the AGI Foundations team, redistributing its members across the new structure.&lt;/span&gt;&lt;strong&gt; &lt;/strong&gt;&lt;span&gt;Any new hires or transfers across Meta’s AI teams now &lt;/span&gt;&lt;a href="https://www.wsj.com/tech/ai/meta-ai-hiring-freeze-fda6b3c4" rel="rel"&gt;require&lt;/a&gt;&lt;span&gt; Wang’s personal approval.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Meta’s AI reorganization reflects high stakes in a competitive race with other AI companies. Yet, as Meta accelerates toward superintelligence, its chatbot controversy demonstrates that its ambitions are outpacing both internal controls and external oversight.&lt;/p&gt;&lt;p&gt;Weeks after the Trump administration approved Nvidia’s H20 chip exports to China under a 15% revenue-sharing arrangement, the deal is facing an uncertain future.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nvidia made a deal with the White House to sell H20s (and possibly a new chip model) to China.&lt;/strong&gt;&lt;span&gt; Last month, the White House struck a deal with Nvidia which allowed the company to export H20s to China on the condition it shared 15% of its revenue with the US government. President Trump recently suggested he might also allow Nvidia to export a scaled-down version of their next-generation Blackwell chips. The chip in question (the B30A) would offer about half the performance of Nvidia's flagship B300 and could be shipped as early as September.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The deal faces political opposition and legal uncertainty.&lt;/strong&gt;&lt;span&gt; Selling AI chips China faces political opposition on national security grounds. A group of six democratic senators wrote &lt;/span&gt;&lt;a href="https://www.warner.senate.gov/public/_cache/files/3/a/3a2a1db4-65d2-4377-822a-5f245d53b28f/62DE3F69670AE9734557935EEC1CB6A941532F5BA23C1E543B74B4EECAD3D420.250815.trump-senate-15-percent-fee-letter.signed.pdf" rel="rel"&gt;a letter&lt;/a&gt;&lt;span&gt; to the White House arguing that its deal with Nvidia undermines US national security by giving the PRC access to a critical military technology. The deal’s revenue-sharing condition—in effect, an export tax—also faces &lt;/span&gt;&lt;a href="https://thehill.com/policy/technology/5446890-nvidia-amd-china-chip-deal/" rel="rel"&gt;legal challenges&lt;/a&gt;&lt;span&gt;. Export taxes are barred under both the Constitution and federal law.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chinese regulators issued guidance against H20 purchases after comments by Sec. Lutnick.&lt;/strong&gt;&lt;span&gt; China urged Defending the H20 deal, Commerce Secretary Howard Lutnick said that the U.S. strategy was to offer China inferior AI chips: “We don’t sell them our best stuff… not even our third‑best,” adding that the goal was for Chinese developers to get “addicted to the American technology stack.” Chinese regulators &lt;/span&gt;&lt;a href="https://www.ft.com/content/b8e30c54-b71c-4113-8b3e-8f54bc36587d" rel="rel"&gt;reportedly&lt;/a&gt;&lt;span&gt; deemed the comments “insulting,” provoking efforts to discourage Nvidia chip purchases.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A week after Lunick’s comments, China’s Cyberspace Administration (CAC) issued guidance urging Chinese companies to suspend H20 orders. Nvidia is &lt;/span&gt;&lt;a href="https://www.reuters.com/world/china/nvidia-asks-foxconn-suspend-work-h20-chip-sources-say-2025-08-22/" rel="rel"&gt;reportedly&lt;/a&gt;&lt;span&gt; halting production of H20s in response to decreased demand from China.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Renting AI chips might be better than selling them&lt;/strong&gt;&lt;span&gt;. Instead of selling chips to China, &lt;/span&gt;&lt;a href="https://www.rand.org/pubs/commentary/2025/08/america-should-rent-not-sell-ai-chips-to-china.html" rel="rel"&gt;renting AI chips&lt;/a&gt;&lt;span&gt; via remote cloud services would offer the US greater leverage than outright sales. Cloud access preserves US control: chips remain physically in custody, and access can be revoked. This model could generate revenue for both chipmakers and cloud providers while curbing diversion to unauthorized users like the Chinese military.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Government&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Industry&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Civil Society&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;See also: &lt;/span&gt;&lt;a href="https://x.com/ai_risks?lang=en" rel="rel"&gt;CAIS’ X account&lt;/a&gt;&lt;span&gt;, our paper on &lt;/span&gt;&lt;a href="https://www.nationalsecurity.ai/" rel="rel"&gt;superintelligence strategy&lt;/a&gt;&lt;span&gt;, our &lt;/span&gt;&lt;a href="https://www.aisafetybook.com/" rel="rel"&gt;AI safety course&lt;/a&gt;&lt;span&gt;, and &lt;/span&gt;&lt;a href="http://ai-frontiers.org/" rel="rel"&gt;AI Frontiers&lt;/a&gt;&lt;span&gt;, a new platform for expert commentary and analysis.&lt;/span&gt;&lt;/p&gt;&lt;p class="button-wrapper"&gt;&lt;a class="button primary" href="https://newsletter.safe.ai/p/ai-safety-newsletter-62-big-tech?utm_source=substack&amp;amp;utm_medium=email&amp;amp;utm_content=share&amp;amp;action=share" rel="rel"&gt;&lt;span&gt;Share&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://newsletter.safe.ai/p/ai-safety-newsletter-62-big-tech</guid><pubDate>Wed, 27 Aug 2025 16:29:19 +0000</pubDate></item><item><title>Here are the 33 US AI startups that have raised $100M or more in 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1485726179-1.jpg?resize=1200,720" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last year was monumental for the AI industry in the U.S. and beyond.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There were 49 startups that raised funding rounds worth $100 million or more in 2024, per our count at TechCrunch; three companies raised more than one “mega-round,” and seven companies raised rounds that were $1 billion in size or larger.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;How will 2025 compare? With only a few weeks left in the third quarter, it looks like 2024’s momentum will continue this year. There have already been multiple billion-dollar rounds this year, and a handful of companies have raised more than one mega-round. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Here are all the U.S. AI companies that have raised $100 million this year:&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;August&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Healthcare and housing automation platform &lt;strong&gt;EliseAI&lt;/strong&gt; raised $250 million in a Series E round that valued the startup at $2.2 billion. The round, which was announced on August 20, was led by Andreessen Horowitz.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Decart&lt;/strong&gt;, an AI research lab, raised $100 million at a $3.1 billion valuation. The round included Sequoia Capital, Benchmark, and Zeev Ventures, among others, and was announced on August 7.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;July&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Generative media platform &lt;strong&gt;Fal&lt;/strong&gt; raised a $125 million Series C round led by Meritech Capital Partners. The company announced the round, which values Fal at $1.5 billion, on July 31. Salesforce Ventures, Shopify Ventures, Google AI Futures Fund, and others joined the round.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Five-year-old &lt;strong&gt;Ambience Healthcare&lt;/strong&gt;, which is building an AI healthcare operating system, raised a $243 million Series C round that was led by Oak HC/FT and Andreessen Horowitz. Kleiner Perkins, OpenAI Startup Fund, Smash Capital, and others also participated in the round.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Reka AI&lt;/strong&gt;, an AI research lab, raised $110 million in a round that included Snowflake and Nvidia. The Series B round was announced on July 22 and values the company at $1 billion.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI research lab &lt;strong&gt;Thinking Machines Lab&lt;/strong&gt; confirmed that it raised $2 billion on July 15. This sizable seed round was led by Andreessen Horowitz with participation from Nvidia, Accel, and AMD, among others. The round values the company at $12 billion.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Cambridge, Massachusetts-based &lt;strong&gt;OpenEvidence&lt;/strong&gt;, which is building an AI-powered search tool for clinicians, raised $210 million at a $3.5 billion valuation. The Series B round was announced on July 15 and was led by Kleiner Perkins and GV.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Harmonic&lt;/strong&gt;, which is building a mathematical reasoning engine, raised a $100 million Series B round led by Kleiner Perkins. The round was announced on July 10 and values the company at $875 million.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;June&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Healthcare AI unicorn &lt;strong&gt;Abridge&lt;/strong&gt; announced it raised a $300 million Series E round that values the company at $5.3 billion. The round was led by Andreessen Horowitz with Khosla Ventures participating. It was the company’s second round of 2025.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Harvey&lt;/strong&gt;, which builds AI tools for the legal industry, announced it raised its second $300 million round of 2025 on June 23. This latest Series E round was co-led by Kleiner Perkins and Coatue and brings the company’s valuation to $5 billion.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Healthcare AI startup &lt;strong&gt;Tennr&lt;/strong&gt; announced it raised a $101 million Series C round led by IVP with participation from Lightspeed Venture Partners, GV, and Andreessen Horowitz, among others. The round values the company at $605 million.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Enterprise search startup &lt;strong&gt;Glean &lt;/strong&gt;continues to rake in cash. The company announced a $150 million Series F round on June 10, led by Wellington Management with participation from Sequoia, Lightspeed Venture Partners, and Kleiner Perkins, among others. Glean is now valued at $7.25 billion.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Anysphere&lt;/strong&gt;, the AI research lab behind AI coding tool Cursor, raised a sizable $900 million Series C round that values the company at nearly $10 billion. The round was led by Thrive Capital with participation from Andreessen Horowitz, Accel, and DST Global.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;May&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;AI data labeling startup &lt;strong&gt;Snorkel AI&lt;/strong&gt; announced a $100 million Series D round on May 29, valuing the company at $1.3 billion. The round was led by Addition with participation from Prosperity7 Ventures, Lightspeed Venture Partners, and Greylock.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;LMArena&lt;/strong&gt;, a popular, community-driven benchmarking tool for AI models, raised a $100 million seed round that valued the startup at $600 million. The round was announced on May 21 and was co-led by Andreessen Horowitz and UC Investments. Lightspeed Venture Partners, Kleiner Perkins, and Felicis also participated, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Las Vegas-based AI infrastructure company &lt;strong&gt;TensorWave &lt;/strong&gt;announced a $100 million Series A round on May 14. The round was co-led by Magnetar Capital and AMD Ventures with participation from Prosperity7 Ventures, Nexus Venture Partners, and Maverick Silicon.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;April&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;SandboxAQ&lt;/strong&gt; closed a $450 million Series E round on April 4 that valued the AI model company at $5.7 billion. The round included Nvidia, Google, and Bridgewater Associates founder Ray Dalio among other investors.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Runway&lt;/strong&gt;, which creates AI models for media production, raised a $308 million Series D round that was announced on April 3, valuing the company at $3 billion. It was led by General Atlantic. SoftBank, Nvidia, and Fidelity also participated.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;March&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;AI behemoth &lt;strong&gt;OpenAI&lt;/strong&gt; raised a record-breaking $40 billion funding round that valued the startup at $300 billion. This round, which closed on March 31, was led by SoftBank with participation from Thrive Capital, Microsoft, and Coatue, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;On March 25, &lt;strong&gt;Nexthop AI&lt;/strong&gt;, an AI infrastructure company, announced that it had raised a Series A round led by Lightspeed Venture Partners. The $110 million round also included Kleiner Perkins, Battery Ventures, and Emergent Ventures, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Cambridge Massachusetts-based &lt;strong&gt;Insilico Medicine&lt;/strong&gt; raised $110 million for its generative AI-powered drug discovery platform as announced on March 13. This Series E round valued the company at $1 billion and was co-led by Value Partners and Pudong Chuangtou.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI infrastructure company &lt;strong&gt;Celestial AI&lt;/strong&gt; raised a $250 million Series C round that valued the company at $2.5 billion. The March 11 round was led by Fidelity with participation from Tiger Global, BlackRock, and Intel CEO Lip-Bu Tan, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Lila Sciences&lt;/strong&gt; raised a $200 million seed round as it looks to create a science superintelligence platform. The round was led by Flagship Pioneering. The Cambridge, Massachusetts-based company also received funding from March Capital, General Catalyst, and ARK Venture Fund, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Brooklyn-based &lt;strong&gt;Reflection.Ai&lt;/strong&gt;, which looks to build superintelligent autonomous systems, raised a $130 million Series A round that values the 1-year-old company at $580 million. The round was led by Lightspeed Venture Partners and CRV.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI coding startup &lt;strong&gt;Turing&lt;/strong&gt; closed a Series E round on March 7 that valued the startup, which partners with LLM companies, at $2.2 billion. The $111 million round was led by Khazanah Nasional with participation from WestBridge Capital, Gaingels, and Sozo Ventures, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Shield AI&lt;/strong&gt;, an AI defense tech startup, raised $240 million in a Series F round that closed on March 6. This round was co-led by L3Harris Technologies and Hanwha Aerospace, with participation from Andreessen Horowitz and the US Innovative Technology Fund, among others. The round valued the company at $5.3 billion&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI research and large language model company &lt;strong&gt;Anthropic&lt;/strong&gt; raised $3.5 billion in a Series E round that valued the startup at $61.5 billion. The round was announced on March 3 and was led by Lightspeed with participation from Salesforce Ventures, Menlo Ventures, and General Catalyst, among others.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading" id="h-february"&gt;February&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Together AI&lt;/strong&gt;, which creates open source generative AI and AI model development infrastructure, raised a $305 million Series B round that valued the company at $3.3 billion. The February 20 round was co-led by Prosperity7 and General Catalyst with participation from Salesforce Ventures, Nvidia, Lux Capital, and others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI infrastructure company &lt;strong&gt;Lambda&lt;/strong&gt; raised a $480 million Series D round that was announced on February 19. The round valued the startup at nearly $2.5 billion and was co-led by SGW and Andra Capital. Nvidia, G Squared, ARK Invest, and others also participated.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Abridge&lt;/strong&gt;, an AI platform that transcribes patient-clinician conversations, was valued at $2.75 billion in a Series D round that was announced on February 17. The $250 million round was co-led by IVP and Elad Gil. Lightspeed, Redpoint, and Spark Capital also participated, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Eudia&lt;/strong&gt;, an AI legal tech company, raised $105 million in a Series A round led by General Catalyst. Floodgate, Defy Ventures, and Everywhere Ventures also participated in the round in addition to other VC firms and numerous angel investors. The round closed on February 13.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI hardware startup &lt;strong&gt;EnCharge AI&lt;/strong&gt; raised a $100 million Series B round that also closed on February 13. The round was led by Tiger Global with participation from Scout Ventures, Samsung Ventures, and RTX Ventures, among others. The Santa Clara-based business was founded in 2022.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI legal tech company &lt;strong&gt;Harvey&lt;/strong&gt; raised a $300 million Series D round that valued the 3-year-old company at $3 billion. The round was led by Sequoia and announced on February 12. OpenAI Startup Fund, Kleiner Perkins, Elad Gil, and others also participated in the raise.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading" id="h-january"&gt;January&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Synthetic voice startup &lt;strong&gt;ElevenLabs&lt;/strong&gt; raised a $180 million Series C round that valued the company at more than $3 billion. It was announced on January 30. The round was co-led by ICONIQ Growth and Andreessen Horowitz. Sequoia, NEA, Salesforce Ventures, and others also participated in the round.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Hippocratic AI&lt;/strong&gt;, which develops large language models for the healthcare industry, announced a $141 million Series B round on January 9. This round valued the company at more than $1.6 billion and was led by Kleiner Perkins. Andreessen Horowitz, Nvidia, and General Catalyst also participated, among others.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This piece was updated on April 23, June 18 and August 27 to include more deals. &lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This piece has been updated to remove that Abridge is based in Pittsburgh; the company was founded there. &lt;/em&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1485726179-1.jpg?resize=1200,720" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last year was monumental for the AI industry in the U.S. and beyond.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There were 49 startups that raised funding rounds worth $100 million or more in 2024, per our count at TechCrunch; three companies raised more than one “mega-round,” and seven companies raised rounds that were $1 billion in size or larger.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;How will 2025 compare? With only a few weeks left in the third quarter, it looks like 2024’s momentum will continue this year. There have already been multiple billion-dollar rounds this year, and a handful of companies have raised more than one mega-round. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Here are all the U.S. AI companies that have raised $100 million this year:&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;August&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Healthcare and housing automation platform &lt;strong&gt;EliseAI&lt;/strong&gt; raised $250 million in a Series E round that valued the startup at $2.2 billion. The round, which was announced on August 20, was led by Andreessen Horowitz.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Decart&lt;/strong&gt;, an AI research lab, raised $100 million at a $3.1 billion valuation. The round included Sequoia Capital, Benchmark, and Zeev Ventures, among others, and was announced on August 7.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;July&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Generative media platform &lt;strong&gt;Fal&lt;/strong&gt; raised a $125 million Series C round led by Meritech Capital Partners. The company announced the round, which values Fal at $1.5 billion, on July 31. Salesforce Ventures, Shopify Ventures, Google AI Futures Fund, and others joined the round.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Five-year-old &lt;strong&gt;Ambience Healthcare&lt;/strong&gt;, which is building an AI healthcare operating system, raised a $243 million Series C round that was led by Oak HC/FT and Andreessen Horowitz. Kleiner Perkins, OpenAI Startup Fund, Smash Capital, and others also participated in the round.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Reka AI&lt;/strong&gt;, an AI research lab, raised $110 million in a round that included Snowflake and Nvidia. The Series B round was announced on July 22 and values the company at $1 billion.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI research lab &lt;strong&gt;Thinking Machines Lab&lt;/strong&gt; confirmed that it raised $2 billion on July 15. This sizable seed round was led by Andreessen Horowitz with participation from Nvidia, Accel, and AMD, among others. The round values the company at $12 billion.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Cambridge, Massachusetts-based &lt;strong&gt;OpenEvidence&lt;/strong&gt;, which is building an AI-powered search tool for clinicians, raised $210 million at a $3.5 billion valuation. The Series B round was announced on July 15 and was led by Kleiner Perkins and GV.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Harmonic&lt;/strong&gt;, which is building a mathematical reasoning engine, raised a $100 million Series B round led by Kleiner Perkins. The round was announced on July 10 and values the company at $875 million.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;June&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Healthcare AI unicorn &lt;strong&gt;Abridge&lt;/strong&gt; announced it raised a $300 million Series E round that values the company at $5.3 billion. The round was led by Andreessen Horowitz with Khosla Ventures participating. It was the company’s second round of 2025.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Harvey&lt;/strong&gt;, which builds AI tools for the legal industry, announced it raised its second $300 million round of 2025 on June 23. This latest Series E round was co-led by Kleiner Perkins and Coatue and brings the company’s valuation to $5 billion.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Healthcare AI startup &lt;strong&gt;Tennr&lt;/strong&gt; announced it raised a $101 million Series C round led by IVP with participation from Lightspeed Venture Partners, GV, and Andreessen Horowitz, among others. The round values the company at $605 million.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Enterprise search startup &lt;strong&gt;Glean &lt;/strong&gt;continues to rake in cash. The company announced a $150 million Series F round on June 10, led by Wellington Management with participation from Sequoia, Lightspeed Venture Partners, and Kleiner Perkins, among others. Glean is now valued at $7.25 billion.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Anysphere&lt;/strong&gt;, the AI research lab behind AI coding tool Cursor, raised a sizable $900 million Series C round that values the company at nearly $10 billion. The round was led by Thrive Capital with participation from Andreessen Horowitz, Accel, and DST Global.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;May&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;AI data labeling startup &lt;strong&gt;Snorkel AI&lt;/strong&gt; announced a $100 million Series D round on May 29, valuing the company at $1.3 billion. The round was led by Addition with participation from Prosperity7 Ventures, Lightspeed Venture Partners, and Greylock.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;LMArena&lt;/strong&gt;, a popular, community-driven benchmarking tool for AI models, raised a $100 million seed round that valued the startup at $600 million. The round was announced on May 21 and was co-led by Andreessen Horowitz and UC Investments. Lightspeed Venture Partners, Kleiner Perkins, and Felicis also participated, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Las Vegas-based AI infrastructure company &lt;strong&gt;TensorWave &lt;/strong&gt;announced a $100 million Series A round on May 14. The round was co-led by Magnetar Capital and AMD Ventures with participation from Prosperity7 Ventures, Nexus Venture Partners, and Maverick Silicon.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;April&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;SandboxAQ&lt;/strong&gt; closed a $450 million Series E round on April 4 that valued the AI model company at $5.7 billion. The round included Nvidia, Google, and Bridgewater Associates founder Ray Dalio among other investors.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Runway&lt;/strong&gt;, which creates AI models for media production, raised a $308 million Series D round that was announced on April 3, valuing the company at $3 billion. It was led by General Atlantic. SoftBank, Nvidia, and Fidelity also participated.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;March&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;AI behemoth &lt;strong&gt;OpenAI&lt;/strong&gt; raised a record-breaking $40 billion funding round that valued the startup at $300 billion. This round, which closed on March 31, was led by SoftBank with participation from Thrive Capital, Microsoft, and Coatue, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;On March 25, &lt;strong&gt;Nexthop AI&lt;/strong&gt;, an AI infrastructure company, announced that it had raised a Series A round led by Lightspeed Venture Partners. The $110 million round also included Kleiner Perkins, Battery Ventures, and Emergent Ventures, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Cambridge Massachusetts-based &lt;strong&gt;Insilico Medicine&lt;/strong&gt; raised $110 million for its generative AI-powered drug discovery platform as announced on March 13. This Series E round valued the company at $1 billion and was co-led by Value Partners and Pudong Chuangtou.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI infrastructure company &lt;strong&gt;Celestial AI&lt;/strong&gt; raised a $250 million Series C round that valued the company at $2.5 billion. The March 11 round was led by Fidelity with participation from Tiger Global, BlackRock, and Intel CEO Lip-Bu Tan, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Lila Sciences&lt;/strong&gt; raised a $200 million seed round as it looks to create a science superintelligence platform. The round was led by Flagship Pioneering. The Cambridge, Massachusetts-based company also received funding from March Capital, General Catalyst, and ARK Venture Fund, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Brooklyn-based &lt;strong&gt;Reflection.Ai&lt;/strong&gt;, which looks to build superintelligent autonomous systems, raised a $130 million Series A round that values the 1-year-old company at $580 million. The round was led by Lightspeed Venture Partners and CRV.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI coding startup &lt;strong&gt;Turing&lt;/strong&gt; closed a Series E round on March 7 that valued the startup, which partners with LLM companies, at $2.2 billion. The $111 million round was led by Khazanah Nasional with participation from WestBridge Capital, Gaingels, and Sozo Ventures, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Shield AI&lt;/strong&gt;, an AI defense tech startup, raised $240 million in a Series F round that closed on March 6. This round was co-led by L3Harris Technologies and Hanwha Aerospace, with participation from Andreessen Horowitz and the US Innovative Technology Fund, among others. The round valued the company at $5.3 billion&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI research and large language model company &lt;strong&gt;Anthropic&lt;/strong&gt; raised $3.5 billion in a Series E round that valued the startup at $61.5 billion. The round was announced on March 3 and was led by Lightspeed with participation from Salesforce Ventures, Menlo Ventures, and General Catalyst, among others.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading" id="h-february"&gt;February&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Together AI&lt;/strong&gt;, which creates open source generative AI and AI model development infrastructure, raised a $305 million Series B round that valued the company at $3.3 billion. The February 20 round was co-led by Prosperity7 and General Catalyst with participation from Salesforce Ventures, Nvidia, Lux Capital, and others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI infrastructure company &lt;strong&gt;Lambda&lt;/strong&gt; raised a $480 million Series D round that was announced on February 19. The round valued the startup at nearly $2.5 billion and was co-led by SGW and Andra Capital. Nvidia, G Squared, ARK Invest, and others also participated.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Abridge&lt;/strong&gt;, an AI platform that transcribes patient-clinician conversations, was valued at $2.75 billion in a Series D round that was announced on February 17. The $250 million round was co-led by IVP and Elad Gil. Lightspeed, Redpoint, and Spark Capital also participated, among others.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Eudia&lt;/strong&gt;, an AI legal tech company, raised $105 million in a Series A round led by General Catalyst. Floodgate, Defy Ventures, and Everywhere Ventures also participated in the round in addition to other VC firms and numerous angel investors. The round closed on February 13.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI hardware startup &lt;strong&gt;EnCharge AI&lt;/strong&gt; raised a $100 million Series B round that also closed on February 13. The round was led by Tiger Global with participation from Scout Ventures, Samsung Ventures, and RTX Ventures, among others. The Santa Clara-based business was founded in 2022.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;AI legal tech company &lt;strong&gt;Harvey&lt;/strong&gt; raised a $300 million Series D round that valued the 3-year-old company at $3 billion. The round was led by Sequoia and announced on February 12. OpenAI Startup Fund, Kleiner Perkins, Elad Gil, and others also participated in the raise.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading" id="h-january"&gt;January&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Synthetic voice startup &lt;strong&gt;ElevenLabs&lt;/strong&gt; raised a $180 million Series C round that valued the company at more than $3 billion. It was announced on January 30. The round was co-led by ICONIQ Growth and Andreessen Horowitz. Sequoia, NEA, Salesforce Ventures, and others also participated in the round.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Hippocratic AI&lt;/strong&gt;, which develops large language models for the healthcare industry, announced a $141 million Series B round on January 9. This round valued the company at more than $1.6 billion and was led by Kleiner Perkins. Andreessen Horowitz, Nvidia, and General Catalyst also participated, among others.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This piece was updated on April 23, June 18 and August 27 to include more deals. &lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This piece has been updated to remove that Abridge is based in Pittsburgh; the company was founded there. &lt;/em&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/</guid><pubDate>Wed, 27 Aug 2025 17:01:57 +0000</pubDate></item><item><title>How Google’s AI can help transform health professions education (The latest research from Google)</title><link>https://research.google/blog/how-googles-ai-can-help-transform-health-professions-education/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Acknowledgements&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;&lt;i&gt;The research described here is a joint effort across Google Research, Google for Health, Google DeepMind, and partnering teams. The following researchers contributed to this work: Kevin McKee, Dan Gillick, Irina Jurenka, Markus Kunesch, Kaiz Alarakyia, Miriam Schneider, Jenn Sturgeon, Maggie Shiels, Amy Wang, Roma Ruparel, Anna Iurchenko, Mahvish Nagda, Julie Anne Séguin, Divya Pandya, Patricia Strachan, Renee Wong, Renee Schneider, Viknesh Sounderajah, Pete Clardy, Garth Graham, Megan Jones Bell, Michael Howell, Jonathan Krause, Christopher Semturs, Dale Webster, Avinatan Hassidim, Joëlle Barral, Ronit Levavi Morad and Yossi Matias. Special thanks to participants who contributed to these studies.&lt;/i&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Acknowledgements&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;&lt;i&gt;The research described here is a joint effort across Google Research, Google for Health, Google DeepMind, and partnering teams. The following researchers contributed to this work: Kevin McKee, Dan Gillick, Irina Jurenka, Markus Kunesch, Kaiz Alarakyia, Miriam Schneider, Jenn Sturgeon, Maggie Shiels, Amy Wang, Roma Ruparel, Anna Iurchenko, Mahvish Nagda, Julie Anne Séguin, Divya Pandya, Patricia Strachan, Renee Wong, Renee Schneider, Viknesh Sounderajah, Pete Clardy, Garth Graham, Megan Jones Bell, Michael Howell, Jonathan Krause, Christopher Semturs, Dale Webster, Avinatan Hassidim, Joëlle Barral, Ronit Levavi Morad and Yossi Matias. Special thanks to participants who contributed to these studies.&lt;/i&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/how-googles-ai-can-help-transform-health-professions-education/</guid><pubDate>Wed, 27 Aug 2025 17:19:00 +0000</pubDate></item><item><title>[NEW] OpenAI co-founder calls for AI labs to safety-test rival models (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/openai-co-founder-calls-for-ai-labs-to-safety-test-rival-models/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI and Anthropic, two of the world’s leading AI labs, briefly opened up their closely guarded AI models to allow for joint safety testing — a rare cross-lab collaboration at a time of fierce competition. The effort aimed to surface blind spots in each company’s internal evaluations and demonstrate how leading AI companies can work together on safety and alignment work in the future.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 28 Aug 2025 06:32:01 +0000</lastBuildDate><item><title>OpenAI co-founder calls for AI labs to safety-test rival models (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/openai-co-founder-calls-for-ai-labs-to-safety-test-rival-models/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI and Anthropic, two of the world’s leading AI labs, briefly opened up their closely guarded AI models to allow for joint safety testing — a rare cross-lab collaboration at a time of fierce competition. The effort aimed to surface blind spots in each company’s internal evaluations and demonstrate how leading AI companies can work together on safety and alignment work in the future.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;In an interview with TechCrunch, OpenAI co-founder Wojciech Zaremba said this kind of collaboration is increasingly important now that AI is entering a “consequential” stage of development, where AI models are used by millions of people every day.&lt;/p&gt;
 
@@ -1031,7 +121,7 @@
 
 &lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
 
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Got a sensitive tip or confidential documents? We’re reporting on the inner workings of the AI industry — from the companies shaping its future to the people impacted by their decisions. Reach out to Rebecca Bellan at&amp;nbsp;&lt;/em&gt;&lt;em&gt;rebecca.bellan@techcrunch.com&lt;/em&gt;&lt;em&gt;&amp;nbsp;and Maxwell Zeff at&amp;nbsp;&lt;/em&gt;&lt;em&gt;maxwell.zeff@techcrunch.com&lt;/em&gt;&lt;em&gt;. For secure communication, you can contact us via Signal at&amp;nbsp;@rebeccabellan.491 and&amp;nbsp;@mzeff.88.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/openai-co-founder-calls-for-ai-labs-to-safety-test-rival-models/</guid><pubDate>Wed, 27 Aug 2025 19:14:01 +0000</pubDate></item><item><title>[NEW] Google and Grok are catching up to ChatGPT, says a16z’s latest AI report (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/google-and-grok-are-catching-up-to-chatgpt-says-a16zs-latest-ai-report/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;ChatGPT rivals like Google’s Gemini, xAI’s Grok, and, to a lesser extent, Meta AI, are closing the gap to ChatGPT, OpenAI’s popular AI chatbot, according to a new report focused on the consumer AI landscape from venture firm Andreessen Horowitz.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Got a sensitive tip or confidential documents? We’re reporting on the inner workings of the AI industry — from the companies shaping its future to the people impacted by their decisions. Reach out to Rebecca Bellan at&amp;nbsp;&lt;/em&gt;&lt;em&gt;rebecca.bellan@techcrunch.com&lt;/em&gt;&lt;em&gt;&amp;nbsp;and Maxwell Zeff at&amp;nbsp;&lt;/em&gt;&lt;em&gt;maxwell.zeff@techcrunch.com&lt;/em&gt;&lt;em&gt;. For secure communication, you can contact us via Signal at&amp;nbsp;@rebeccabellan.491 and&amp;nbsp;@mzeff.88.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/openai-co-founder-calls-for-ai-labs-to-safety-test-rival-models/</guid><pubDate>Wed, 27 Aug 2025 19:14:01 +0000</pubDate></item><item><title>Google and Grok are catching up to ChatGPT, says a16z’s latest AI report (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/google-and-grok-are-catching-up-to-chatgpt-says-a16zs-latest-ai-report/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;ChatGPT rivals like Google’s Gemini, xAI’s Grok, and, to a lesser extent, Meta AI, are closing the gap to ChatGPT, OpenAI’s popular AI chatbot, according to a new report focused on the consumer AI landscape from venture firm Andreessen Horowitz.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The report, in its fifth iteration, showcases two and a half years of data about consumers’ evolving use of AI products.&lt;/p&gt;
 
@@ -1171,7 +261,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;The firm notes that the mobile list in this month’s report already features more newcomers (14) than before, as both app stores have long since cracked down on ChatGPT copycats and clones, allowing for more original apps to find their footing.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/google-and-grok-are-catching-up-to-chatgpt-says-a16zs-latest-ai-report/</guid><pubDate>Wed, 27 Aug 2025 19:27:01 +0000</pubDate></item><item><title>[NEW] 911 centers are so understaffed, they’re turning to AI to answer calls (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2216397171.jpg?resize=1200,633" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;When Max Keenan joined Y Combinator’s summer 2022 batch, he was working on Aurelian, a company that automated appointment bookings for hair salons. But less than a year later, a conversation with one of his clients led him to a far more significant problem.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The firm notes that the mobile list in this month’s report already features more newcomers (14) than before, as both app stores have long since cracked down on ChatGPT copycats and clones, allowing for more original apps to find their footing.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/google-and-grok-are-catching-up-to-chatgpt-says-a16zs-latest-ai-report/</guid><pubDate>Wed, 27 Aug 2025 19:27:01 +0000</pubDate></item><item><title>911 centers are so understaffed, they’re turning to AI to answer calls (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2216397171.jpg?resize=1200,633" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;When Max Keenan joined Y Combinator’s summer 2022 batch, he was working on Aurelian, a company that automated appointment bookings for hair salons. But less than a year later, a conversation with one of his clients led him to a far more significant problem.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;A nearby school’s carpool line was constantly blocking the parking lot of one of Aurelian’s hair salon clients. The salon owner called the city’s non-emergency line and was put on hold for 45 minutes before reaching a dispatcher. “She called me into her office afterwards, and was like, ‘Max, do you want to help me out?’” Keenan told TechCrunch.&lt;/p&gt;
 
@@ -1269,7 +359,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;Aurelian isn’t the only AI startup tackling non-emergency calls. Hyper, which raised a $6.3 million seed round, came out of stealth last month. Prepared, a company founded in 2019, also recently added an AI voice solution for emergency response.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;But Aurelian believes its product is ahead of the competition. According to Neemuchwala, Aurelian is the only company actually deployed and handling live calls. “As far as we know, nobody else is actually live,” he said, referring to Aurelian responding to thousands of actual calls daily.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/</guid><pubDate>Wed, 27 Aug 2025 20:42:12 +0000</pubDate></item><item><title>[NEW] Nvidia reports record sales as the AI boom continues (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia, the world’s most valuable company, reported another quarter of sustained sales growth in its earnings statement Wednesday, with $46.7 billion in revenue, a&amp;nbsp;56% increase compared to the same period last year. That growth was largely fueled by AI-dominated data center business, which saw a 56% year-over-year increase in revenue.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;But Aurelian believes its product is ahead of the competition. According to Neemuchwala, Aurelian is the only company actually deployed and handling live calls. “As far as we know, nobody else is actually live,” he said, referring to Aurelian responding to thousands of actual calls daily.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/</guid><pubDate>Wed, 27 Aug 2025 20:42:12 +0000</pubDate></item><item><title>Nvidia reports record sales as the AI boom continues (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia, the world’s most valuable company, reported another quarter of sustained sales growth in its earnings statement Wednesday, with $46.7 billion in revenue, a&amp;nbsp;56% increase compared to the same period last year. That growth was largely fueled by AI-dominated data center business, which saw a 56% year-over-year increase in revenue.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Nvidia also saw its net income grow substantially since last year. The company reported a net income of $26.4 billion in the second quarter, a 59% spike since the same period last year.&amp;nbsp;&lt;/p&gt;
 
@@ -1363,7 +453,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Nvidia said it expects $54 billion in revenue in the third quarter. The company noted that its outlook for the third quarter, which could shift 2% in either direction, doesn’t include any H20 shipments to China.  &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/</guid><pubDate>Wed, 27 Aug 2025 21:18:39 +0000</pubDate></item><item><title>[NEW] How Do You Teach an AI Model to Reason? With Humans (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/ai-reasoning-cosmos/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/08/cosmos-reasoning-blog-header-1280x680-1.gif" /&gt;&lt;/div&gt;&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;AI models are advancing at a rapid rate and scale.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Nvidia said it expects $54 billion in revenue in the third quarter. The company noted that its outlook for the third quarter, which could shift 2% in either direction, doesn’t include any H20 shipments to China.  &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/</guid><pubDate>Wed, 27 Aug 2025 21:18:39 +0000</pubDate></item><item><title>How Do You Teach an AI Model to Reason? With Humans (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/ai-reasoning-cosmos/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/08/cosmos-reasoning-blog-header-1280x680-1.gif" /&gt;&lt;/div&gt;&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;AI models are advancing at a rapid rate and scale.&lt;/p&gt;
 &lt;p&gt;But what might they lack that (most) humans don’t? Common sense: an understanding, developed through real-world experiences, that birds can’t fly backwards, mirrors are reflective and ice melts into water.&lt;/p&gt;
 &lt;p&gt;While such principles seem obvious to humans, they must be taught to AI models tasked with accurately answering complex questions and navigating unpredictable physical environments, such as industrial warehouses or roads.&lt;/p&gt;
 &lt;p&gt;NVIDIA is tackling this challenge by developing a set of tests to coach AI models on the limitations of the physical world. In other words, to teach AI common sense.&lt;/p&gt;
@@ -1437,4 +527,106 @@
 &lt;p&gt;&lt;i&gt;Preview &lt;/i&gt;&lt;i&gt;NVDIA Cosmos-Reason1&lt;/i&gt;&lt;i&gt; or download the model on &lt;/i&gt;&lt;i&gt;Hugging Face&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;GitHub&lt;/i&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
 
 		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-reasoning-cosmos/</guid><pubDate>Wed, 27 Aug 2025 23:13:16 +0000</pubDate></item></channel></rss>
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-reasoning-cosmos/</guid><pubDate>Wed, 27 Aug 2025 23:13:16 +0000</pubDate></item><item><title>[NEW] Maisa AI gets $25M to fix enterprise AI’s 95% failure rate (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A staggering 95% of generative AI pilots at companies are failing, according to a recent report published by MIT’s NANDA initiative. But rather than giving up on the technology altogether, the most advanced organizations are experimenting with agentic AI systems that can learn and be supervised.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That’s where Maisa AI comes in. The year-old startup has built its entire approach around the premise that enterprise automation requires accountable AI agents, not opaque black boxes. With a new, $25 million seed round led by European VC firm Creandum, it has now launched Maisa Studio, a model-agnostic self-serve platform that helps users deploy digital workers that can be trained with natural language.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;While that might sound familiar — reminiscent of so-called vibe coding platforms like Cursor and the Creandum-backed Lovable — Maisa argues that its approach is fundamentally different. “Instead of using AI to build the responses, we use AI to build the process that needs to be executed to get to the response — what we call ‘chain-of-work,” Maisa CEO David Villalón told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The principal architect behind this process is Maisa’s co-founder and Chief Scientific Officer, Manuel Romero, who had previously worked with Villalón at Spanish AI startup Clibrain. In 2024, the duo teamed up to build a solution to hallucinations after seeing firsthand that “you could not rely on AI,” Villalón said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The pair isn’t skeptical about AI, but they think it won’t be feasible for humans to review “three months of work done in five minutes.” To address this, Maisa employs a system called HALP, standing for Human-Augmented LLM Processing. This custom method works like students at the blackboard — it asks users about their needs while the digital workers outline each step they will follow.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Maisa AI - Worker builder" class="wp-image-3040098" height="460" src="https://techcrunch.com/wp-content/uploads/2025/08/Maisa-AI-Worker-builder.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Maisa AI&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The startup also developed the Knowledge Processing Unit (KPU), a deterministic system designed to limit hallucinations. While Maisa started out from this technical challenge rather than a use case, it soon found that its bet on trustworthiness and accountability resonated with companies hoping to apply AI to critical tasks. For instance, clients that currently use Maisa in production include a large bank, as well as companies in the car manufacturing and energy sectors.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;By serving these enterprise clients, Maisa hopes to position itself as a more advanced form of robotic process automation (RPA) that unlocks productivity gains without requiring companies to rely on rigid predefined rules or extensive manual programming. To meet their needs, the startup also offers them either deployment in its secure cloud or through on-premise deployment.&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This enterprise-first approach means Maisa’s customer base is still very small compared to the millions flocking to freemium vibe-coding platforms. But as these platforms are now exploring how to win enterprise customers, Maisa is moving in the opposite direction with Maisa Studio, which is designed to grow its customer funnel and ease adoption.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The startup also plans to expand with existing customers that have operations in multiple countries. With dual headquarters in Valencia and San Francisco, Maisa itself already has a foothold in the U.S., as reflected in its cap table; its $5 million pre-seed round last December was led by the San Francisco-based venture firms NFX and Village Global.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In addition, TechCrunch learned exclusively that U.S. firm Forgepoint Capital International participated in this new round via its European joint venture with Spanish bank Banco Santander, highlighting its appeal for regulated sectors.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Focusing on complex use cases demanding accountability from non-technical users could be a differentiator for Maisa, whose competitors include CrewAI and many other AI-powered, business-focused workflow automation products. In a LinkedIn post, Villalón highlighted this “AI framework gold rush,” warning that the “quick start” becomes a long nightmare when you need reliability, auditability, or the ability to fix what went wrong.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Doubling down on its goal to help AI scale, Maisa plans to use its funding to grow from 35 to as many as 65 people by the first quarter of 2026 in order to meet demand. Starting in the last quarter of this year, the startup anticipates rapid growth as it begins serving its waiting list. “We are going to show the market that there is a company that is delivering what has been promised, and that it’s working,” Villalón said.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A staggering 95% of generative AI pilots at companies are failing, according to a recent report published by MIT’s NANDA initiative. But rather than giving up on the technology altogether, the most advanced organizations are experimenting with agentic AI systems that can learn and be supervised.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That’s where Maisa AI comes in. The year-old startup has built its entire approach around the premise that enterprise automation requires accountable AI agents, not opaque black boxes. With a new, $25 million seed round led by European VC firm Creandum, it has now launched Maisa Studio, a model-agnostic self-serve platform that helps users deploy digital workers that can be trained with natural language.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;While that might sound familiar — reminiscent of so-called vibe coding platforms like Cursor and the Creandum-backed Lovable — Maisa argues that its approach is fundamentally different. “Instead of using AI to build the responses, we use AI to build the process that needs to be executed to get to the response — what we call ‘chain-of-work,” Maisa CEO David Villalón told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The principal architect behind this process is Maisa’s co-founder and Chief Scientific Officer, Manuel Romero, who had previously worked with Villalón at Spanish AI startup Clibrain. In 2024, the duo teamed up to build a solution to hallucinations after seeing firsthand that “you could not rely on AI,” Villalón said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The pair isn’t skeptical about AI, but they think it won’t be feasible for humans to review “three months of work done in five minutes.” To address this, Maisa employs a system called HALP, standing for Human-Augmented LLM Processing. This custom method works like students at the blackboard — it asks users about their needs while the digital workers outline each step they will follow.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Maisa AI - Worker builder" class="wp-image-3040098" height="460" src="https://techcrunch.com/wp-content/uploads/2025/08/Maisa-AI-Worker-builder.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Maisa AI&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The startup also developed the Knowledge Processing Unit (KPU), a deterministic system designed to limit hallucinations. While Maisa started out from this technical challenge rather than a use case, it soon found that its bet on trustworthiness and accountability resonated with companies hoping to apply AI to critical tasks. For instance, clients that currently use Maisa in production include a large bank, as well as companies in the car manufacturing and energy sectors.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;By serving these enterprise clients, Maisa hopes to position itself as a more advanced form of robotic process automation (RPA) that unlocks productivity gains without requiring companies to rely on rigid predefined rules or extensive manual programming. To meet their needs, the startup also offers them either deployment in its secure cloud or through on-premise deployment.&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This enterprise-first approach means Maisa’s customer base is still very small compared to the millions flocking to freemium vibe-coding platforms. But as these platforms are now exploring how to win enterprise customers, Maisa is moving in the opposite direction with Maisa Studio, which is designed to grow its customer funnel and ease adoption.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The startup also plans to expand with existing customers that have operations in multiple countries. With dual headquarters in Valencia and San Francisco, Maisa itself already has a foothold in the U.S., as reflected in its cap table; its $5 million pre-seed round last December was led by the San Francisco-based venture firms NFX and Village Global.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In addition, TechCrunch learned exclusively that U.S. firm Forgepoint Capital International participated in this new round via its European joint venture with Spanish bank Banco Santander, highlighting its appeal for regulated sectors.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Focusing on complex use cases demanding accountability from non-technical users could be a differentiator for Maisa, whose competitors include CrewAI and many other AI-powered, business-focused workflow automation products. In a LinkedIn post, Villalón highlighted this “AI framework gold rush,” warning that the “quick start” becomes a long nightmare when you need reliability, auditability, or the ability to fix what went wrong.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Doubling down on its goal to help AI scale, Maisa plans to use its funding to grow from 35 to as many as 65 people by the first quarter of 2026 in order to meet demand. Starting in the last quarter of this year, the startup anticipates rapid growth as it begins serving its waiting list. “We are going to show the market that there is a company that is delivering what has been promised, and that it’s working,” Villalón said.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/</guid><pubDate>Thu, 28 Aug 2025 05:00:00 +0000</pubDate></item></channel></rss>
