@@ -1,537 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 04 Sep 2025 01:28:20 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>These 20- and 22-year-olds raised $5M from YC, General Catalyst to study online behavior using vision AI (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/these-20-and-22-year-olds-raised-5m-from-yc-general-catalyst-to-study-online-behavior-using-vision-ai/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Amogh Chaturvedi is running on little sleep but plenty of conviction at 6 a.m. He’s groggy, apologetic for rescheduling, and still reeling from a recent scare involving a family member and an electric scooter.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Within minutes, though, the 20-year-old Stanford dropout snaps into focus, walking me through how he and his co-founders sold one startup at 19, landed in Y Combinator, and raised $5 million for their next company, Human Behavior.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Launched just a few months ago, Human Behavior is betting that vision AI can do what analytics tools like Mixpanel and PostHog have struggled with: give companies a real understanding of how people use their products, including why they convert or churn.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Instead of relying on manually tagged events or clickstream data, Human Behavior claims its AI watches real user session replays and generates insights, answering product teams’ most pressing questions without hours of instrumenting code.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The 4-month-old YC startup closed its $5 million seed round in just two days (which is becoming a norm for current YC companies), with backers including General Catalyst, Paul Graham, Vercel Ventures, and Y Combinator.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We could’ve done the financial engineering game because we got more offers with higher valuations, but we didn’t want that,” said the CEO.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Human Behavior" class="wp-image-3041998" height="490" src="https://techcrunch.com/wp-content/uploads/2025/09/6dda7ae0-1b20-424c-8155-ec79427d42f4.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;L-R: Amogh Chaturvedi (CEO), Chirag Kawediya (COO), Skyler Ji (CTO)&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Human Behavior&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Chaturvedi met his co-founders, Skyler Ji and Chirag Kawediya, both 22, at a hacker house he organized in 2023 as an excuse to live and build with friends after his freshman year at Stanford.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Their first startup, Dough, was an e-commerce accounting tool they bootstrapped. Like Chaturvedi, Ji dropped out of college (leaving Berkeley) while Kawediya went on to graduate.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Although YC was initially skeptical about Dough’s market potential, the team was admitted into the accelerator’s spring batch this year on the assumption they would eventually pivot, Chaturvedi says. They did so almost immediately, after speaking with every customer and inquiring about any other problems they faced.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The feedback was consistent: While Dough could show which products were selling or not, the customers wanted to know why. Answering that required analytics powered by behavioral data, not just accounting reports.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;With this new direction, the team sold Dough for six figures to Employer.com, the same company that bought Bench, and went all-in on Human Behavior.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kawediya explains that companies using traditional analytics often need engineers to set up event trackers for every button and click, burning hours, sometimes weeks, of engineering time. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For a fast-moving startup, that’s far from ideal. “Even once you have that data, you’re still stuck with the bigger question of how users actually interact with your product so you can make it better,” he says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Session replays aren’t new, but until recently, computer vision models weren’t accurate enough to parse them at scale. Now they are, and Human Behavior is doing so to summarize and segment thousands of hours of footage. “Why spend hours writing code to track clicks when we can just watch the video?” Ji adds.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Today, Human Behavior’s customers — mostly fast-moving Series A and B startups — get daily summary emails highlighting which features were used, which bugs appeared, and which users churned.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The founders call session replays an “untapped goldmine.” Right now, Human Behavior helps teams understand users and squash bugs. Over time, the same dataset could power automated QA and embedded IT support. Their ambition is to make Human Behavior the Datadog of session replay, spinning out dozens of products from the same core data.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Building with new technology from the ground up is how the founders believe they’ll take on more established players like Mixpanel and PostHog. “For some of these companies, it might be difficult to replicate what we have because their architecture can’t support the shift without starting over,” remarked Chaturvedi.  &lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Amogh Chaturvedi is running on little sleep but plenty of conviction at 6 a.m. He’s groggy, apologetic for rescheduling, and still reeling from a recent scare involving a family member and an electric scooter.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Within minutes, though, the 20-year-old Stanford dropout snaps into focus, walking me through how he and his co-founders sold one startup at 19, landed in Y Combinator, and raised $5 million for their next company, Human Behavior.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Launched just a few months ago, Human Behavior is betting that vision AI can do what analytics tools like Mixpanel and PostHog have struggled with: give companies a real understanding of how people use their products, including why they convert or churn.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Instead of relying on manually tagged events or clickstream data, Human Behavior claims its AI watches real user session replays and generates insights, answering product teams’ most pressing questions without hours of instrumenting code.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The 4-month-old YC startup closed its $5 million seed round in just two days (which is becoming a norm for current YC companies), with backers including General Catalyst, Paul Graham, Vercel Ventures, and Y Combinator.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We could’ve done the financial engineering game because we got more offers with higher valuations, but we didn’t want that,” said the CEO.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Human Behavior" class="wp-image-3041998" height="490" src="https://techcrunch.com/wp-content/uploads/2025/09/6dda7ae0-1b20-424c-8155-ec79427d42f4.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;L-R: Amogh Chaturvedi (CEO), Chirag Kawediya (COO), Skyler Ji (CTO)&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Human Behavior&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Chaturvedi met his co-founders, Skyler Ji and Chirag Kawediya, both 22, at a hacker house he organized in 2023 as an excuse to live and build with friends after his freshman year at Stanford.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Their first startup, Dough, was an e-commerce accounting tool they bootstrapped. Like Chaturvedi, Ji dropped out of college (leaving Berkeley) while Kawediya went on to graduate.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Although YC was initially skeptical about Dough’s market potential, the team was admitted into the accelerator’s spring batch this year on the assumption they would eventually pivot, Chaturvedi says. They did so almost immediately, after speaking with every customer and inquiring about any other problems they faced.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The feedback was consistent: While Dough could show which products were selling or not, the customers wanted to know why. Answering that required analytics powered by behavioral data, not just accounting reports.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;With this new direction, the team sold Dough for six figures to Employer.com, the same company that bought Bench, and went all-in on Human Behavior.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kawediya explains that companies using traditional analytics often need engineers to set up event trackers for every button and click, burning hours, sometimes weeks, of engineering time. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For a fast-moving startup, that’s far from ideal. “Even once you have that data, you’re still stuck with the bigger question of how users actually interact with your product so you can make it better,” he says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Session replays aren’t new, but until recently, computer vision models weren’t accurate enough to parse them at scale. Now they are, and Human Behavior is doing so to summarize and segment thousands of hours of footage. “Why spend hours writing code to track clicks when we can just watch the video?” Ji adds.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Today, Human Behavior’s customers — mostly fast-moving Series A and B startups — get daily summary emails highlighting which features were used, which bugs appeared, and which users churned.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The founders call session replays an “untapped goldmine.” Right now, Human Behavior helps teams understand users and squash bugs. Over time, the same dataset could power automated QA and embedded IT support. Their ambition is to make Human Behavior the Datadog of session replay, spinning out dozens of products from the same core data.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Building with new technology from the ground up is how the founders believe they’ll take on more established players like Mixpanel and PostHog. “For some of these companies, it might be difficult to replicate what we have because their architecture can’t support the shift without starting over,” remarked Chaturvedi.  &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/these-20-and-22-year-olds-raised-5m-from-yc-general-catalyst-to-study-online-behavior-using-vision-ai/</guid><pubDate>Wed, 03 Sep 2025 15:03:32 +0000</pubDate></item><item><title>Karen Hao on the making of a $90B AI empire (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/karen-hao-on-the-making-of-a-90b-ai-empire/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/KarenHao-BW.png?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;Karen Hao, the bestselling author of “Empire of AI,” has watched OpenAI go from a nonprofit “laughingstock” to a $90 billion powerhouse chasing artificial general intelligence at breakneck speeds. Hao, who first profiled the company back in 2020, says early visions of building AI “for humanity’s benefit” were quickly overtaken by a familiar Silicon Valley mindset: Move fast, break things, and let scale be the measure of success.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This week, Hao joined TechCrunch’s Equity podcast to unpack the direction the AI boom is going and who’s paying the price. Hao argues that, like historical empires, today’s AI giants rely on resource hoarding and exploitative labor to amass political and economic power, and they’re doing so at the expense of the environment. For investors and founders, it’s a clear signal that AI’s current path carries real risks, and that there’s room to build a better model.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;How OpenAI’s three internal “clans” warred to shape the company’s trajectory&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;The hidden human costs of data labeling in developing countries&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;How the “China competition” narrative serves Silicon Valley’s interests&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Where founders might find different opportunities beyond the pursuit of AGI&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Equity will be back Friday with our weekly news roundup, so stay tuned.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Equity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="has-text-align-left wp-block-paragraph"&gt;&lt;em&gt;Subscribe to us on&lt;/em&gt;&lt;em&gt; Apple Podcasts&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Overcast&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Spotify&lt;/em&gt;&lt;em&gt; and all the casts. You also can follow Equity on&lt;/em&gt;&lt;em&gt; X&lt;/em&gt;&lt;em&gt; and&lt;/em&gt;&lt;em&gt; Threads&lt;/em&gt;&lt;em&gt;, at @EquityPod.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/KarenHao-BW.png?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;Karen Hao, the bestselling author of “Empire of AI,” has watched OpenAI go from a nonprofit “laughingstock” to a $90 billion powerhouse chasing artificial general intelligence at breakneck speeds. Hao, who first profiled the company back in 2020, says early visions of building AI “for humanity’s benefit” were quickly overtaken by a familiar Silicon Valley mindset: Move fast, break things, and let scale be the measure of success.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This week, Hao joined TechCrunch’s Equity podcast to unpack the direction the AI boom is going and who’s paying the price. Hao argues that, like historical empires, today’s AI giants rely on resource hoarding and exploitative labor to amass political and economic power, and they’re doing so at the expense of the environment. For investors and founders, it’s a clear signal that AI’s current path carries real risks, and that there’s room to build a better model.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;How OpenAI’s three internal “clans” warred to shape the company’s trajectory&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;The hidden human costs of data labeling in developing countries&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;How the “China competition” narrative serves Silicon Valley’s interests&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Where founders might find different opportunities beyond the pursuit of AGI&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Equity will be back Friday with our weekly news roundup, so stay tuned.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Equity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="has-text-align-left wp-block-paragraph"&gt;&lt;em&gt;Subscribe to us on&lt;/em&gt;&lt;em&gt; Apple Podcasts&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Overcast&lt;/em&gt;&lt;em&gt;,&lt;/em&gt;&lt;em&gt; Spotify&lt;/em&gt;&lt;em&gt; and all the casts. You also can follow Equity on&lt;/em&gt;&lt;em&gt; X&lt;/em&gt;&lt;em&gt; and&lt;/em&gt;&lt;em&gt; Threads&lt;/em&gt;&lt;em&gt;, at @EquityPod.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/karen-hao-on-the-making-of-a-90b-ai-empire/</guid><pubDate>Wed, 03 Sep 2025 16:31:39 +0000</pubDate></item><item><title>Why the US government is taking a stake in Intel (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/why-the-us-government-is-taking-a-stake-in-intel/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205047441.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The Trump administration wants the United States to be &lt;em&gt;the&lt;/em&gt; dominant force when it comes to artificial intelligence, and one way the administration hopes to achieve primacy is by bringing semiconductor manufacturing back to the U.S. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To help with that transition, President Donald Trump has introduced potential chip tariffs and policies in recent months meant to bring more semiconductor manufacturing stateside.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In late August, the Trump administration took an unprecedented step toward that goal when it converted an existing government grant, meant for domestic semiconductor manufacturing, into a 10% equity stake in Intel.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This deal was structured to grant the U.S. government additional equity in Intel if the company’s ownership of its foundry business —&amp;nbsp;which manufactures custom chips for international customers —&amp;nbsp;drops below 50% within the next five years.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But Intel isn’t the only U.S.-based semiconductor company, nor the only one that manufactures its chips overseas. So, how did Intel find itself as the main character in the Trump administration’s plans for AI dominance? Let’s take a look.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-chip-context"&gt;Chip context&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;First, some history: In March 2021, Intel launched its foundry business alongside a commitment to spend $20 billion building two new chip-manufacturing plants in Arizona.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A year later, the company announced its intent to acquire Tower Semiconductor, a company in the custom foundry industry, for $5.4 billion, but that didn’t pan out due to regulatory troubles, and the companies canceled the merger in August 2023.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since then, Intel Foundry has struggled to gain momentum and there have been rumors that the business wasn’t able to get large customers on board.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In 2024, then-CEO Pat Gelsinger announced Intel was taking steps to transition Intel Foundry into an independent subsidiary. This came as board members called to spin the unit out entirely even as the company grappled with slowing growth, cost cuts, and massive layoffs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In November 2024, there was a noticeable bright spot as the company reached a deal with the U.S. government for $7.86 billion in federal grants through the 2022 Chips and Science Act meant to boost domestic semiconductor manufacturing.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Then, Gelsinger suddenly retired in December 2024.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-lip-bu-tan-s-return"&gt;Lip-Bu Tan’s return&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Intel announced that its former board member Lip-Bu Tan would rejoin the company as CEO in early March. Tan got right to work with a potential turnaround plan that centered on refocusing the company, shedding its noncore units, and significantly trimming its workforce.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In July, the company said it was scaling back some of its manufacturing projects, including its already-delayed $28 billion fabrication plant in Ohio.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A few weeks later, the Trump administration came knocking.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On August 6, Republican senator Tom Cotton penned a letter to Intel’s board of directors, asking about Tan’s ties to China, including his relationship with Cadence Design Systems, according to reporting from Bloomberg. Cadence had been charged with violating U.S. export controls to China, according to Bloomberg, and has sold tech to a military school in China. Tan was at Cadence’s helm for more than a decade.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The next day, August 7, Trump demanded that Tan resign “immediately,” accusing the CEO of being “highly conflicted,” though the president didn’t provide any evidence.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The following week, Tan headed to Washington, D.C., to meet with Trump to discuss ways the government and Intel could work together toward achieving the administration’s goals of reshoring semiconductor manufacturing in the U.S. Shortly after, rumors started to swirl that the U.S. government might be considering an equity stake in Intel.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On August 18, SoftBank said it was investing $2 billion in Intel. Four days later, the U.S. government announced its deal with Intel.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The deal ensures that Intel gets the grant money it was already awarded, and the Trump administration is claiming that it will be a passive investor that will vote alongside Intel’s interests. But will that actually help Intel?&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What will happen next is a bit unclear.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205047441.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The Trump administration wants the United States to be &lt;em&gt;the&lt;/em&gt; dominant force when it comes to artificial intelligence, and one way the administration hopes to achieve primacy is by bringing semiconductor manufacturing back to the U.S. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To help with that transition, President Donald Trump has introduced potential chip tariffs and policies in recent months meant to bring more semiconductor manufacturing stateside.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In late August, the Trump administration took an unprecedented step toward that goal when it converted an existing government grant, meant for domestic semiconductor manufacturing, into a 10% equity stake in Intel.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This deal was structured to grant the U.S. government additional equity in Intel if the company’s ownership of its foundry business —&amp;nbsp;which manufactures custom chips for international customers —&amp;nbsp;drops below 50% within the next five years.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But Intel isn’t the only U.S.-based semiconductor company, nor the only one that manufactures its chips overseas. So, how did Intel find itself as the main character in the Trump administration’s plans for AI dominance? Let’s take a look.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-chip-context"&gt;Chip context&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;First, some history: In March 2021, Intel launched its foundry business alongside a commitment to spend $20 billion building two new chip-manufacturing plants in Arizona.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A year later, the company announced its intent to acquire Tower Semiconductor, a company in the custom foundry industry, for $5.4 billion, but that didn’t pan out due to regulatory troubles, and the companies canceled the merger in August 2023.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since then, Intel Foundry has struggled to gain momentum and there have been rumors that the business wasn’t able to get large customers on board.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In 2024, then-CEO Pat Gelsinger announced Intel was taking steps to transition Intel Foundry into an independent subsidiary. This came as board members called to spin the unit out entirely even as the company grappled with slowing growth, cost cuts, and massive layoffs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In November 2024, there was a noticeable bright spot as the company reached a deal with the U.S. government for $7.86 billion in federal grants through the 2022 Chips and Science Act meant to boost domestic semiconductor manufacturing.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Then, Gelsinger suddenly retired in December 2024.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-lip-bu-tan-s-return"&gt;Lip-Bu Tan’s return&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Intel announced that its former board member Lip-Bu Tan would rejoin the company as CEO in early March. Tan got right to work with a potential turnaround plan that centered on refocusing the company, shedding its noncore units, and significantly trimming its workforce.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In July, the company said it was scaling back some of its manufacturing projects, including its already-delayed $28 billion fabrication plant in Ohio.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A few weeks later, the Trump administration came knocking.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On August 6, Republican senator Tom Cotton penned a letter to Intel’s board of directors, asking about Tan’s ties to China, including his relationship with Cadence Design Systems, according to reporting from Bloomberg. Cadence had been charged with violating U.S. export controls to China, according to Bloomberg, and has sold tech to a military school in China. Tan was at Cadence’s helm for more than a decade.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The next day, August 7, Trump demanded that Tan resign “immediately,” accusing the CEO of being “highly conflicted,” though the president didn’t provide any evidence.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The following week, Tan headed to Washington, D.C., to meet with Trump to discuss ways the government and Intel could work together toward achieving the administration’s goals of reshoring semiconductor manufacturing in the U.S. Shortly after, rumors started to swirl that the U.S. government might be considering an equity stake in Intel.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On August 18, SoftBank said it was investing $2 billion in Intel. Four days later, the U.S. government announced its deal with Intel.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The deal ensures that Intel gets the grant money it was already awarded, and the Trump administration is claiming that it will be a passive investor that will vote alongside Intel’s interests. But will that actually help Intel?&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What will happen next is a bit unclear.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/why-the-us-government-is-taking-a-stake-in-intel/</guid><pubDate>Wed, 03 Sep 2025 17:22:36 +0000</pubDate></item><item><title>Google’s NotebookLM now lets you customize the tone of its AI podcasts (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/googles-notebooklm-now-lets-you-customize-the-tone-of-its-ai-podcasts/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google’s AI note-taking and research assistant NotebookLM now lets users customize the tone of their Audio Overviews, which are podcasts with AI virtual hosts that summarize and discuss documents shared with NotebookLM, such as course readings or legal briefs. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When generating an Audio Overview, users can now choose whether they want their AI podcasts to be formatted as a “Deep Dive,” “Brief,” “Critique,” or “Debate.” &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;A Deep Dive features conversational dialogues where two AI hosts unpack the topic with depth and questions. A Brief is a bite-sized overview that’s designed to help you quickly grasp the core ideas from your sources.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A Critique features a review of your sources and constructive feedback to help you improve, while a Debate includes two AI hosts offering different perspectives on your sources. &lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3042123" height="450" src="https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-03-at-1.28.11PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;NotebookLM&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Each of the different formats lets you customize how long or short you want the AI podcast to be.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In addition to customizable tones, Google is also bringing a highly requested feature to NotebookLM, which is the addition of new voices for the AI podcasts.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The launch comes as Google has been building out NotebookLM over the past few months. A few weeks ago, the tech giant rolled out Video Overviews, which allow users to&amp;nbsp;turn dense multimedia, such as raw notes, PDFs, and images, into digestible visual presentations. &lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;NotebookLM recently also got access to a series of featured notebooks from various authors, publications, researchers, and nonprofits that allow users to explore a wide array of topics. And in May, Google officially rolled out standalone NotebookLM apps for&amp;nbsp;Android&amp;nbsp;and&amp;nbsp;iOS.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The new formats for NotebookLM are launching in all languages and should be available to all users this week, Google says.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google’s AI note-taking and research assistant NotebookLM now lets users customize the tone of their Audio Overviews, which are podcasts with AI virtual hosts that summarize and discuss documents shared with NotebookLM, such as course readings or legal briefs. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When generating an Audio Overview, users can now choose whether they want their AI podcasts to be formatted as a “Deep Dive,” “Brief,” “Critique,” or “Debate.” &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;A Deep Dive features conversational dialogues where two AI hosts unpack the topic with depth and questions. A Brief is a bite-sized overview that’s designed to help you quickly grasp the core ideas from your sources.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A Critique features a review of your sources and constructive feedback to help you improve, while a Debate includes two AI hosts offering different perspectives on your sources. &lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3042123" height="450" src="https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-03-at-1.28.11PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;NotebookLM&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Each of the different formats lets you customize how long or short you want the AI podcast to be.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In addition to customizable tones, Google is also bringing a highly requested feature to NotebookLM, which is the addition of new voices for the AI podcasts.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The launch comes as Google has been building out NotebookLM over the past few months. A few weeks ago, the tech giant rolled out Video Overviews, which allow users to&amp;nbsp;turn dense multimedia, such as raw notes, PDFs, and images, into digestible visual presentations. &lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;NotebookLM recently also got access to a series of featured notebooks from various authors, publications, researchers, and nonprofits that allow users to explore a wide array of topics. And in May, Google officially rolled out standalone NotebookLM apps for&amp;nbsp;Android&amp;nbsp;and&amp;nbsp;iOS.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The new formats for NotebookLM are launching in all languages and should be available to all users this week, Google says.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/googles-notebooklm-now-lets-you-customize-the-tone-of-its-ai-podcasts/</guid><pubDate>Wed, 03 Sep 2025 17:29:03 +0000</pubDate></item><item><title>Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/CameraSystem_Picture.png?resize=1200,1118" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Inspired by his grandparents, who were apple farmers in China, Charlie Wu got the idea to apply technology to agriculture while studying computer science at Cornell University, a top agriculture school.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I got to meet fruit professors who are the best in the world at what they do,” Wu told TechCrunch. “Through talking to them, I realized even the largest farms in the nation basically&lt;strong&gt; &lt;/strong&gt;have no idea what is actually growing out in their fields.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;He dropped out of Cornell, became a Thiel fellow, and in 2022 began building Orchard Robotics, a startup that uses cameras and AI to help fruit growers manage their crops more precisely.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On Wednesday, Orchard Robotics announced that it raised a $22 million Series A funding led by Quiet Capital and Shine Capital, and with participation from returning investors, including General Catalyst and Contrary.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Although the idea of using computer vision for specialty crops isn’t new, Wu says that the largest farms in the U.S. still rely on manual sampling to make critical decisions about farm operations.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since farmers inspect only a small percentage of their crops, their estimations of how many healthy fruits they have on their vineyard or orchard can be extremely imprecise.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If you don’t know what you’re growing in the field, you don’t know how much chemical to apply to it. You don’t know how many workers to hire to harvest it. You don’t know what you can actually sell and market,” Wu said.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Orchard’s small camera attaches to tractors or farm vehicles, collecting ultra-high-resolution images about fruit health as the operator drives through the field. Those images are then analyzed by AI for fruit size, color, and health.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The data is then uploaded into Orchard’s cloud-based software, which acts as a central record for making decisions such as the vines or trees that may need extra fertilization, pruning, or thinning.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Orchard is already in use in some of the country’s largest apple and grape farms, and the startup recently began to offer its technology to blueberries, cherries, almonds, pistachios, citrus, and strawberry growers.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company is not alone in its use of tractor-mounted cameras to leverage AI for specialty crop image analysis. Orchard’s direct competitors include Bloomfield Robotics, which last year was acquired by farm equipment manufacturer Kubota, as well as seed-stage startups Vivid Robotics and Green Atlas.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Wu admits the existing market for fruit and vegetable data is only $1.5 billion, but he believes that future AI advancements will allow the technology to make autonomous decisions, expanding Orchard’s product offerings.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He hopes Orchard’s evolution mirrors that of Flock Safety, a public safety startup now valued at $7.5 billion, which over the past eight years has expanded from simply collecting license plate information to a range of other products, including gunshot detection and video surveillance.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Our ambition is to be a lot more than just collecting data,” Wu said. “We want to collect the data, then build an operating system on top of the data, and then eventually own all the workflows in the farm, and that’s going to have the potential to expand our market by quite a bit.” &amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/CameraSystem_Picture.png?resize=1200,1118" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Inspired by his grandparents, who were apple farmers in China, Charlie Wu got the idea to apply technology to agriculture while studying computer science at Cornell University, a top agriculture school.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I got to meet fruit professors who are the best in the world at what they do,” Wu told TechCrunch. “Through talking to them, I realized even the largest farms in the nation basically&lt;strong&gt; &lt;/strong&gt;have no idea what is actually growing out in their fields.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;He dropped out of Cornell, became a Thiel fellow, and in 2022 began building Orchard Robotics, a startup that uses cameras and AI to help fruit growers manage their crops more precisely.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On Wednesday, Orchard Robotics announced that it raised a $22 million Series A funding led by Quiet Capital and Shine Capital, and with participation from returning investors, including General Catalyst and Contrary.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Although the idea of using computer vision for specialty crops isn’t new, Wu says that the largest farms in the U.S. still rely on manual sampling to make critical decisions about farm operations.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since farmers inspect only a small percentage of their crops, their estimations of how many healthy fruits they have on their vineyard or orchard can be extremely imprecise.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If you don’t know what you’re growing in the field, you don’t know how much chemical to apply to it. You don’t know how many workers to hire to harvest it. You don’t know what you can actually sell and market,” Wu said.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Orchard’s small camera attaches to tractors or farm vehicles, collecting ultra-high-resolution images about fruit health as the operator drives through the field. Those images are then analyzed by AI for fruit size, color, and health.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The data is then uploaded into Orchard’s cloud-based software, which acts as a central record for making decisions such as the vines or trees that may need extra fertilization, pruning, or thinning.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Orchard is already in use in some of the country’s largest apple and grape farms, and the startup recently began to offer its technology to blueberries, cherries, almonds, pistachios, citrus, and strawberry growers.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company is not alone in its use of tractor-mounted cameras to leverage AI for specialty crop image analysis. Orchard’s direct competitors include Bloomfield Robotics, which last year was acquired by farm equipment manufacturer Kubota, as well as seed-stage startups Vivid Robotics and Green Atlas.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Wu admits the existing market for fruit and vegetable data is only $1.5 billion, but he believes that future AI advancements will allow the technology to make autonomous decisions, expanding Orchard’s product offerings.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He hopes Orchard’s evolution mirrors that of Flock Safety, a public safety startup now valued at $7.5 billion, which over the past eight years has expanded from simply collecting license plate information to a range of other products, including gunshot detection and video surveillance.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Our ambition is to be a lot more than just collecting data,” Wu said. “We want to collect the data, then build an operating system on top of the data, and then eventually own all the workflows in the farm, and that’s going to have the potential to expand our market by quite a bit.” &amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/</guid><pubDate>Wed, 03 Sep 2025 17:30:00 +0000</pubDate></item><item><title>[NEW] These psychological tricks can get LLMs to respond to “forbidden” prompts (AI – Ars Technica)</title><link>https://arstechnica.com/science/2025/09/these-psychological-tricks-can-get-llms-to-respond-to-forbidden-prompts/</link><description>&lt;article class="double-column h-entry post-2114944 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-science tag-chatgpt tag-llm tag-parahuman tag-persuasion tag-psychology tag-study tag-training"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 04 Sep 2025 06:30:37 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>These psychological tricks can get LLMs to respond to “forbidden” prompts (AI – Ars Technica)</title><link>https://arstechnica.com/science/2025/09/these-psychological-tricks-can-get-llms-to-respond-to-forbidden-prompts/</link><description>&lt;article class="double-column h-entry post-2114944 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-science tag-chatgpt tag-llm tag-parahuman tag-persuasion tag-psychology tag-study tag-training"&gt;
   
   &lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
@@ -987,7 +455,7 @@
               &lt;time datetime="2025-09-03T19:43:13+00:00"&gt;September 3, 2025 at 7:43 pm&lt;/time&gt;
             
           &lt;/div&gt;
-        &lt;/article&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/science/2025/09/these-psychological-tricks-can-get-llms-to-respond-to-forbidden-prompts/</guid><pubDate>Wed, 03 Sep 2025 19:32:12 +0000</pubDate></item><item><title>[NEW] CoreWeave acquires agent-training startup OpenPipe (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/coreweave-acquires-agent-training-startup-openpipe/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/cloud-computing-getty.jpg?resize=1200,750" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;CoreWeave, which provides cloud servers to large companies training AI models, has struck an agreement to acquire OpenPipe, a two-year-old Y Combinator-backed startup that helps enterprises develop customized AI agents with reinforcement learning, the companies announced on Wednesday.&lt;/p&gt;
+        &lt;/article&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/science/2025/09/these-psychological-tricks-can-get-llms-to-respond-to-forbidden-prompts/</guid><pubDate>Wed, 03 Sep 2025 19:32:12 +0000</pubDate></item><item><title>CoreWeave acquires agent-training startup OpenPipe (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/coreweave-acquires-agent-training-startup-openpipe/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/cloud-computing-getty.jpg?resize=1200,750" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;CoreWeave, which provides cloud servers to large companies training AI models, has struck an agreement to acquire OpenPipe, a two-year-old Y Combinator-backed startup that helps enterprises develop customized AI agents with reinforcement learning, the companies announced on Wednesday.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;“Reinforcement learning is emerging as a pivotal force to strengthen model performance on agentic and reasoning tasks,” said&amp;nbsp;Brian Venturo, co-founder of CoreWeave, in a statement to TechCrunch. “By combining OpenPipe’s advanced self-learning tools with CoreWeave’s high-performance AI cloud, we’re expanding our platform to give developers at AI labs and beyond an important advantage in building scalable intelligent systems.”&lt;/p&gt;
 
@@ -1019,7 +487,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;A growing number of AI labs and startups are building out enterprise products around reinforcement learning, which involves rewarding AI models for correct responses. Reinforcement learning has proven a strong way to improve an AI model’s performance on a specific task; the idea with these enterprise products is to train AI agents specifically for a company’s needs.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This kind of customer-specific training requires a lot of computing resources, and by acquiring OpenPipe, CoreWeave hopes to both power and offer such services. OpenPipe’s team will be joining CoreWeave, and customers of OpenPipe will become CoreWeave customers.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/coreweave-acquires-agent-training-startup-openpipe/</guid><pubDate>Wed, 03 Sep 2025 19:38:36 +0000</pubDate></item><item><title>[NEW] A new generative AI approach to predicting chemical reactions (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202508/mit-flower.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
+&lt;p class="wp-block-paragraph"&gt;This kind of customer-specific training requires a lot of computing resources, and by acquiring OpenPipe, CoreWeave hopes to both power and offer such services. OpenPipe’s team will be joining CoreWeave, and customers of OpenPipe will become CoreWeave customers.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/coreweave-acquires-agent-training-startup-openpipe/</guid><pubDate>Wed, 03 Sep 2025 19:38:36 +0000</pubDate></item><item><title>A new generative AI approach to predicting chemical reactions (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202508/mit-flower.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
             &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
           
 
@@ -1033,7 +501,7 @@
             &lt;p&gt;Many attempts have been made to harness the power of new artificial intelligence and large language models (LLMs) to try to predict the outcomes of new chemical reactions. These have had limited success, in part because until now they have not been grounded in an understanding of fundamental physical principles, such as the laws of conservation of mass. Now, a team of researchers at MIT has come up with a way of incorporating these physical constraints on a reaction prediction model, and thus greatly improving the accuracy and reliability of its outputs.&lt;/p&gt;&lt;p&gt;The new work was reported Aug. 20 in the journal &lt;em&gt;Nature&lt;/em&gt;, in a paper by recent postdoc Joonyoung Joung (now an assistant professor at Kookmin University, South Korea); former software engineer Mun Hong Fong (now at Duke University); chemical engineering graduate student Nicholas Casetti; postdoc Jordan Liles; physics undergraduate student Ne Dassanayake; and senior author Connor Coley, who is the Class of 1957 Career Development Professor in the MIT departments of Chemical Engineering and Electrical Engineering and Computer Science.&lt;/p&gt;&lt;p&gt;“The prediction of reaction outcomes is a very important task,” Joung explains. For example, if you want to make a new drug, “you need to know how to make it. So, this requires us to know what product is likely” to result from a given set of chemical inputs to a reaction. But most previous efforts to carry out such predictions look only at a set of inputs and a set of outputs, without looking at the intermediate steps or considering the constraints of ensuring that no mass is gained or lost in the process, which is not possible in actual reactions.&lt;/p&gt;&lt;p&gt;Joung points out that while large language models such as ChatGPT have been very successful in many areas of research, these models do not provide a way to limit their outputs to physically realistic possibilities, such as by requiring them to adhere to conservation of mass. These models use computational “tokens,” which in this case represent individual atoms, but “if you don’t conserve the tokens, the LLM model starts to make new atoms, or deletes atoms in the reaction.” Instead of being grounded in real scientific understanding, “this is kind of like alchemy,” he says. While many attempts at reaction prediction only look at the final products, “we want to track all the chemicals, and how the chemicals are transformed” throughout the reaction process from start to end, he says.&lt;/p&gt;&lt;p&gt;In order to address the problem, the team made use of a method developed back in the 1970s by chemist Ivar Ugi, which uses a bond-electron matrix to represent the electrons in a reaction. They used this system as the basis for their new program, called FlowER (Flow matching for Electron Redistribution), which allows them to explicitly keep track of all the electrons in the reaction to ensure that none are spuriously added or deleted in the process.&lt;/p&gt;&lt;p&gt;The system uses a matrix to represent the electrons in a reaction, and uses nonzero values to represent bonds or lone electron pairs and zeros to represent a lack thereof. “That helps us to conserve both atoms and electrons at the same time,” says Fong. This representation, he says, was one of the key elements to including mass conservation in their prediction system.&lt;/p&gt;&lt;p&gt;The system they developed is still at an early stage, Coley says. “The system as it stands is a demonstration — a proof of concept that this generative approach of flow matching is very well suited to the task of chemical reaction prediction.” While the team is excited about this promising approach, he says, “we’re aware that it does have specific limitations as far as the breadth of different chemistries that it’s seen.” Although the model was trained using data on more than a million chemical reactions, obtained from a U.S. Patent Office database, those data do not include certain metals and some kinds of catalytic reactions, he says.&lt;/p&gt;&lt;p&gt;“We’re incredibly excited about the fact that we can get such reliable predictions of chemical mechanisms” from the existing system, he says. “It conserves mass, it conserves electrons, but we certainly acknowledge that there’s a lot more expansion and robustness to work on in the coming years as well.”&lt;/p&gt;&lt;p&gt;But even in its present form, which is being made freely available through the online platform GitHub, “we think it will make accurate predictions and be helpful as a tool for assessing reactivity and mapping out reaction pathways,” Coley says. “If we’re looking toward the future of really advancing the state of the art of mechanistic understanding and helping to invent new reactions, we’re not quite there. But we hope this will be a steppingstone toward that.”&lt;/p&gt;&lt;p&gt;“It’s all open source,” says Fong. “The models, the data, all of them are up there,” including a previous dataset developed by Joung that exhaustively lists the mechanistic steps of known reactions. “I think we are one of the pioneering groups making this dataset, and making it available open-source, and making this usable for everyone,” he says.&lt;/p&gt;&lt;p&gt;The FlowER model matches or outperforms existing approaches in finding standard mechanistic pathways, the team says, and makes it possible to generalize to previously unseen reaction types. They say the model could potentially be relevant for predicting reactions for medicinal chemistry, materials discovery, combustion, atmospheric chemistry, and electrochemical systems.&lt;/p&gt;&lt;p&gt;In their comparisons with existing reaction prediction systems, Coley says, “using the architecture choices that we’ve made, we get this massive increase in validity and conservation, and we get a matching or a little bit better accuracy in terms of performance.”&lt;/p&gt;&lt;p&gt;He adds that “what’s unique about our approach is that while we are using these textbook understandings of mechanisms to generate this dataset, we’re anchoring the reactants and products of the overall reaction in experimentally validated data from the patent literature.”&amp;nbsp;They are inferring the underlying mechanisms, he says, rather than just making them up. “We’re imputing them from experimental data, and that’s not something that has been done and shared at this kind of scale before.”&lt;/p&gt;&lt;p&gt;The next step, he says, is “we are quite interested in expanding the model’s understanding of metals and catalytic cycles. We’ve just scratched the surface in this first paper,” and most of the reactions included so far don’t include metals or catalysts, “so that’s a direction we’re quite interested in.”&lt;/p&gt;&lt;p&gt;In the long term, he says, “a lot of the excitement is in using this kind of system to help discover new complex reactions and help elucidate new mechanisms. I think that the long-term potential impact is big, but this is of course just a first step.”&lt;/p&gt;&lt;p&gt;The work was supported by the Machine Learning for Pharmaceutical Discovery and Synthesis consortium and the National Science Foundation.&lt;/p&gt;        
 
       &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903</guid><pubDate>Wed, 03 Sep 2025 19:55:00 +0000</pubDate></item><item><title>[NEW] xAI’s CFO is the latest executive to leave Elon Musk’s AI firm (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-elon-musks-ai-firm/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576365.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Mike Liberatore, xAI’s chief financial officer, has left the company, according to reporting from The Wall Street Journal. This marks the latest in a string of high-profile executive departures.&amp;nbsp;&lt;/p&gt;
+        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903</guid><pubDate>Wed, 03 Sep 2025 19:55:00 +0000</pubDate></item><item><title>xAI’s CFO is the latest executive to leave Elon Musk’s AI firm (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-elon-musks-ai-firm/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576365.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Mike Liberatore, xAI’s chief financial officer, has left the company, according to reporting from The Wall Street Journal. This marks the latest in a string of high-profile executive departures.&amp;nbsp;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The former Airbnb executive joined the company in April and left around the end of July, per the WSJ.&lt;/p&gt;
 
@@ -1061,7 +529,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;Liberatore’s departure comes after xAI’s general counsel, Robert Keele, left in August — a little over a year on the job. Raghu Rao, a senior lawyer, left around the same time as Keele and Liberatore, per the WSJ. Igor Babuschkin, an xAI co-founder, announced his departure last month, saying he left the company to launch his own VC firm dedicated to AI safety research.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Linda Yaccarino, former CEO of X, also resigned in July following concerning behavior from Grok, xAI’s chatbot that can be accessed through X. xAI acquired X in late March.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-elon-musks-ai-firm/</guid><pubDate>Wed, 03 Sep 2025 20:27:06 +0000</pubDate></item><item><title>[NEW] Apple’s Siri upgrade could reportedly be powered by Google Gemini (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/09/CMC_7975.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Apple’s Siri overhaul may include an AI-powered web search tool with technology powered by Google’s Gemini, according to a new report from Bloomberg’s Mark Gurman. The iPhone maker, which has been criticized for falling behind in the AI race, delayed its long-awaited Siri update until 2026. In the meantime, the company has been scrambling to determine whether its own AI models alone will work well enough to make its upgraded Siri competitive with the AI answer engines available today from tech companies like OpenAI, Perplexity, and Google.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Linda Yaccarino, former CEO of X, also resigned in July following concerning behavior from Grok, xAI’s chatbot that can be accessed through X. xAI acquired X in late March.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-elon-musks-ai-firm/</guid><pubDate>Wed, 03 Sep 2025 20:27:06 +0000</pubDate></item><item><title>Apple’s Siri upgrade could reportedly be powered by Google Gemini (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/09/CMC_7975.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Apple’s Siri overhaul may include an AI-powered web search tool with technology powered by Google’s Gemini, according to a new report from Bloomberg’s Mark Gurman. The iPhone maker, which has been criticized for falling behind in the AI race, delayed its long-awaited Siri update until 2026. In the meantime, the company has been scrambling to determine whether its own AI models alone will work well enough to make its upgraded Siri competitive with the AI answer engines available today from tech companies like OpenAI, Perplexity, and Google.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Per Bloomberg, Apple could be turning to Google for a solution to its problems. The report claims that Apple and Google reached a formal agreement this week that will see Apple testing a Google AI model in Siri. If successful, the technology could also be used in other areas of iPhone software, including the Safari browser and Spotlight search, which is available on the Home Screen.&lt;/p&gt;
 
@@ -1085,7 +553,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;In previous years, Spotlight seemed to be ramping up to become a rival of sorts to Google, as it allowed iPhone users to bypass web searches to get basic answers about popular topics, like information about actors, musicians, TV shows, and movies, among other things. With AI chatbots, however, consumers can now source quick answers about a wide range of topics beyond those that could be found on Wikipedia. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The report suggests that the upgraded search experience’s interface will use a combination of text, photos, videos, and local points of interest, as well as an AI-powered summarization feature. It will also be able to tap into users’ personal data and let them navigate their devices via voice. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/</guid><pubDate>Wed, 03 Sep 2025 20:50:38 +0000</pubDate></item><item><title>[NEW] Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/11/gavel-messy-legal.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Scale AI, which helps tech companies prepare data to train their AI models, filed a lawsuit against one of its former sales employees and its rival Mercor on Wednesday. The suit claims the employee, who was hired by Mercor, “stole more than 100 confidential documents concerning Scale’s customer strategies and other proprietary information,” according to a copy seen by TechCrunch.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The report suggests that the upgraded search experience’s interface will use a combination of text, photos, videos, and local points of interest, as well as an AI-powered summarization feature. It will also be able to tap into users’ personal data and let them navigate their devices via voice. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/</guid><pubDate>Wed, 03 Sep 2025 20:50:38 +0000</pubDate></item><item><title>Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/11/gavel-messy-legal.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Scale AI, which helps tech companies prepare data to train their AI models, filed a lawsuit against one of its former sales employees and its rival Mercor on Wednesday. The suit claims the employee, who was hired by Mercor, “stole more than 100 confidential documents concerning Scale’s customer strategies and other proprietary information,” according to a copy seen by TechCrunch.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Scale is suing Mercor for misappropriation of trade secrets and is suing the former employee, Eugene Ling, for breach of contract. The suit also claims the employee was trying to pitch Mercor to one of Scale’s largest customers before he officially left his former job. The suit calls this company “Customer A.”&lt;/p&gt;
 
@@ -1187,7 +655,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;In June, Scale announced that Meta was investing $14.3 billion for a 49% stake in Scale and was hiring away its founder. Shortly after that, several of Scale AI’s largest data customers, who are competitors to Meta’s efforts, reportedly cut ties with it.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Updated with comments on social media from Eugene Ling.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/</guid><pubDate>Wed, 03 Sep 2025 21:21:30 +0000</pubDate></item><item><title>[NEW] New AI model turns photos into explorable 3D worlds, with caveats (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/</link><description>&lt;header&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Updated with comments on social media from Eugene Ling.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/</guid><pubDate>Wed, 03 Sep 2025 21:21:30 +0000</pubDate></item><item><title>New AI model turns photos into explorable 3D worlds, with caveats (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -1605,7 +1073,7 @@
         &lt;/div&gt;
     &lt;/div&gt;
               &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/</guid><pubDate>Wed, 03 Sep 2025 21:56:07 +0000</pubDate></item><item><title>[NEW] Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2193522095.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;French AI startup Mistral AI is finalizing a €2 billion investment at a post-money valuation of $14 billion, reports Bloomberg, positioning the company as one of Europe’s most valuable tech startups. The two-year-old OpenAI rival, founded by former DeepMind and Meta researchers, develops open source language models and Le Chat, its AI chatbot built for European audiences.&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/</guid><pubDate>Wed, 03 Sep 2025 21:56:07 +0000</pubDate></item><item><title>Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2193522095.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;French AI startup Mistral AI is finalizing a €2 billion investment at a post-money valuation of $14 billion, reports Bloomberg, positioning the company as one of Europe’s most valuable tech startups. The two-year-old OpenAI rival, founded by former DeepMind and Meta researchers, develops open source language models and Le Chat, its AI chatbot built for European audiences.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Mistral isn’t commenting on the report, but the round would represent Mistral’s first major raise since June 2024, when it was valued at €5.8 billion. The company has previously raised over €1 billion from prominent investors, including Andreessen Horowitz and General Catalyst.&lt;/p&gt;
 
