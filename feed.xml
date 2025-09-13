@@ -1,269 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 12 Sep 2025 18:25:24 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>[NEW] VaultGemma: The world's most capable differentially private LLM (The latest research from Google)</title><link>https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;h2&gt;Acknowledgements&lt;/h2&gt;&lt;p&gt;&lt;i&gt;We'd like to thank the entire Gemma and Google Privacy teams for their contributions and support throughout this project, in particular, Peter Kairouz, Brendan McMahan and Dan Ramage for feedback on the blog post, Mark Simborg and Kimberly Schwede for help with visualizations, and the teams at Google that helped with algorithm design, infrastructure implementation, and production maintenance. The following people directly contributed to the work presented here (ordered alphabetically): Borja Balle, Zachary Charles, Christopher A. Choquette-Choo, Lynn Chua, Prem Eruvbetine, Badih Ghazi, Steve He, Yangsibo Huang, Armand Joulin, George Kaissis, Pritish Kamath, Ravi Kumar, Daogao Liu, Ruibo Liu, Pasin Manurangsi, Thomas Mesnard, Andreas Terzis, Tris Warkentin, Da Yu, and Chiyuan Zhang.&lt;/i&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;h2&gt;Acknowledgements&lt;/h2&gt;&lt;p&gt;&lt;i&gt;We'd like to thank the entire Gemma and Google Privacy teams for their contributions and support throughout this project, in particular, Peter Kairouz, Brendan McMahan and Dan Ramage for feedback on the blog post, Mark Simborg and Kimberly Schwede for help with visualizations, and the teams at Google that helped with algorithm design, infrastructure implementation, and production maintenance. The following people directly contributed to the work presented here (ordered alphabetically): Borja Balle, Zachary Charles, Christopher A. Choquette-Choo, Lynn Chua, Prem Eruvbetine, Badih Ghazi, Steve He, Yangsibo Huang, Armand Joulin, George Kaissis, Pritish Kamath, Ravi Kumar, Daogao Liu, Ruibo Liu, Pasin Manurangsi, Thomas Mesnard, Andreas Terzis, Tris Warkentin, Da Yu, and Chiyuan Zhang.&lt;/i&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/</guid><pubDate>Fri, 12 Sep 2025 08:14:00 +0000</pubDate></item><item><title>How do AI models generate videos? (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/stacked-noise.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Sure, the clips you see in demo reels are cherry-picked to showcase a company’s models at the top of their game. But with the technology in the hands of more users than ever before—Sora and Veo 3 are available in the ChatGPT and Gemini apps for paying subscribers—even the most casual filmmaker can now knock out something remarkable.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The downside is that creators are competing with AI slop, and social media feeds are filling up&amp;nbsp;with faked news footage. Video generation also uses up a huge amount of energy, many times more than text or image generation.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;With AI-generated videos everywhere, let's take a moment to talk about the tech that makes them work.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;How do you generate a video?&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Let’s assume you’re a casual user. There are now a range of high-end tools that allow pro video makers to insert video generation models into their workflows. But most people will use this technology in an app or via a website. You know the drill: “Hey, Gemini, make me a video of a unicorn eating spaghetti. Now make its horn take off like a rocket.” What you get back will be hit or miss, and you’ll typically need to ask the model to take another pass or 10 before you get more or less what you wanted.&amp;nbsp;&lt;/p&gt; 
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 core-embed_3"&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-[embedded content]
-
-&lt;/div&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;So what’s going on under the hood? Why is it hit or miss—and why does it take so much energy? The latest wave of video generation models are what’s known as &lt;strong&gt;latent diffusion transformers&lt;/strong&gt;. Yes, that’s quite a mouthful. Let’s unpack each part in turn, starting with diffusion.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;What’s a diffusion model?&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Imagine taking an image and adding a random spattering of pixels to it. Take that pixel-spattered image and spatter it again and then again. Do that enough times and you will have turned the initial image into a random mess of pixels, like static on an old TV set.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;A diffusion model is a neural network trained to reverse that process, turning random static into images. During training, it gets shown millions of images in various stages of pixelation. It learns how those images change each time new pixels are thrown at them and, thus, how to undo those changes.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The upshot is that when you ask a diffusion model to generate an image, it will start off with a random mess of pixels and step by step turn that mess into an image that is more or less similar to images in its training set.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 core-embed_6"&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-[embedded content]
-
-&lt;/div&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_7"&gt; &lt;p&gt;But you don’t want any image—you want the image you specified, typically with a text prompt. And so the diffusion model is paired with a second model—such as a large language model (LLM) trained to match images with text descriptions—that guides each step of the cleanup process, pushing the diffusion model toward images that the large language model considers a good match to the prompt.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;An aside: This LLM isn’t pulling the links between text and images out of thin air. Most text-to-image and text-to-video models today are trained on large data sets that contain billions of pairings of text and images or text and video scraped from the internet (a practice many creators are very unhappy about). This means that what you get from such models is a distillation of the world as it’s represented online, distorted by prejudice (and pornography).&lt;/p&gt;  &lt;p&gt;It's easiest to imagine diffusion models working with images. But the technique can be used with many kinds of data, including audio and video. To generate movie clips, a diffusion model must clean up sequences of images—the consecutive frames of a video—instead of just one image.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;What’s a latent diffusion model?&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;  &lt;p&gt;All this takes a huge amount of compute (read: energy). That’s why most diffusion models used for video generation use a technique called latent diffusion. Instead of processing raw data—the millions of pixels in each video frame—the model works in what’s known as a latent space, in which the video frames (and text prompt) are compressed into a mathematical code that captures just the essential features of the data and throws out the rest.&amp;nbsp;&lt;/p&gt; 
-
- &lt;p&gt;A similar thing happens whenever you stream a video over the internet: A video is sent from a server to your screen in a compressed format to make it get to you faster, and when it arrives, your computer or TV will convert it back into a watchable video.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_9"&gt; &lt;p&gt;And so the final step is to decompress what the latent diffusion process has come up with. Once the compressed frames of random static have been turned into the compressed frames of a video that the LLM guide considers a good match for the user’s prompt, the compressed video gets converted into something you can watch.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;With latent diffusion, the diffusion process works more or less the way it would for an image. The difference is that the pixelated video frames are now mathematical encodings of those frames rather than the frames themselves. This makes latent diffusion far more efficient than a typical diffusion model. (Even so, video generation still uses more energy than image or text generation. There’s just an eye-popping amount of computation involved.)&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;What’s a latent diffusion transformer?&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Still with me? There’s one more piece to the puzzle—and that’s how to make sure the diffusion process produces a sequence of frames that are consistent, maintaining objects and lighting and so on from one frame to the next. OpenAI did this with Sora by combining its diffusion model with another kind of model called a transformer. This has now become standard in generative video.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_11"&gt; &lt;p&gt;Transformers are great at processing long sequences of data, like words. That has made them the special sauce inside large language models such as OpenAI’s GPT-5 and Google DeepMind’s Gemini, which can generate long sequences of words that make sense, maintaining consistency across many dozens of sentences.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But videos are not made of words. Instead, videos get cut into chunks that can be treated as if they were. The approach that OpenAI came up with was to dice videos up across both space and time. “It’s like if you were to have a stack of all the video frames and you cut little cubes from it,” says Tim Brooks, a lead researcher on Sora.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 core-embed_12"&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-[embedded content]
-
-&lt;/div&gt;&lt;figcaption class="wp-element-caption"&gt;A selection of videos generated with Veo 3 and Midjourney. The clips have been enhanced in postproduction with Topaz, an AI video-editing tool. Credit: VaigueMan&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_13"&gt; &lt;p&gt;Using transformers alongside diffusion models brings several advantages. Because they are designed to process sequences of data, transformers also help the diffusion model maintain consistency across frames as it generates them. This makes it possible to produce videos in which objects don’t pop in and out of existence, for example.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;And because the videos are diced up, their size and orientation do not matter. This means that the latest wave of video generation models can be trained on a wide range of example videos, from short vertical clips shot with a phone to wide-screen cinematic films. The greater variety of training data has made video generation far better than it was just two years ago. It also means that video generation models can now be asked to produce videos in a variety of formats.&amp;nbsp;&lt;/p&gt; 
- &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;What about the audio?&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;A big advance with Veo 3 is that it generates video with audio, from lip-synched dialogue to sound effects to background noise. That’s a first for video generation models. As Google DeepMind CEO Demis Hassabis put it at this year’s Google I/O: “We’re emerging from the silent era of video generation.”&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 core-embed_14"&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-[embedded content]
-
-&lt;/div&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_15"&gt;&lt;p&gt;The challenge was to find a way to line up video and audio data so that the diffusion process would work on both at the same time. Google DeepMind’s breakthrough was a new way to compress audio and video into a single piece of data inside the diffusion model. When Veo 3 generates a video, its diffusion model produces audio and video together in a lockstep process, ensuring that the sound and images are synched.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;You said that diffusion models can generate different kinds of data. Is this how LLMs work too?&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;No—or at least not yet. Diffusion models are most often used to generate images, video, and audio. Large language models—which generate text (including computer code)—are built using transformers. But the lines are blurring. We’ve seen how transformers are now being combined with diffusion models to generate videos. And this summer Google DeepMind revealed that it was building an experimental large language model that used a diffusion model instead of a transformer to generate text.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Here’s where things start to get confusing: Though video generation (which uses diffusion models) consumes a lot of energy, diffusion models themselves are in fact more efficient than transformers. Thus, by using a diffusion model instead of a transformer to generate text, Google DeepMind’s new LLM could be a lot more efficient than existing LLMs. Expect to see more from diffusion models in the near future!&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/stacked-noise.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Sure, the clips you see in demo reels are cherry-picked to showcase a company’s models at the top of their game. But with the technology in the hands of more users than ever before—Sora and Veo 3 are available in the ChatGPT and Gemini apps for paying subscribers—even the most casual filmmaker can now knock out something remarkable.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The downside is that creators are competing with AI slop, and social media feeds are filling up&amp;nbsp;with faked news footage. Video generation also uses up a huge amount of energy, many times more than text or image generation.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;With AI-generated videos everywhere, let's take a moment to talk about the tech that makes them work.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;How do you generate a video?&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Let’s assume you’re a casual user. There are now a range of high-end tools that allow pro video makers to insert video generation models into their workflows. But most people will use this technology in an app or via a website. You know the drill: “Hey, Gemini, make me a video of a unicorn eating spaghetti. Now make its horn take off like a rocket.” What you get back will be hit or miss, and you’ll typically need to ask the model to take another pass or 10 before you get more or less what you wanted.&amp;nbsp;&lt;/p&gt; 
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 core-embed_3"&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-[embedded content]
-
-&lt;/div&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;So what’s going on under the hood? Why is it hit or miss—and why does it take so much energy? The latest wave of video generation models are what’s known as &lt;strong&gt;latent diffusion transformers&lt;/strong&gt;. Yes, that’s quite a mouthful. Let’s unpack each part in turn, starting with diffusion.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;What’s a diffusion model?&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Imagine taking an image and adding a random spattering of pixels to it. Take that pixel-spattered image and spatter it again and then again. Do that enough times and you will have turned the initial image into a random mess of pixels, like static on an old TV set.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;A diffusion model is a neural network trained to reverse that process, turning random static into images. During training, it gets shown millions of images in various stages of pixelation. It learns how those images change each time new pixels are thrown at them and, thus, how to undo those changes.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The upshot is that when you ask a diffusion model to generate an image, it will start off with a random mess of pixels and step by step turn that mess into an image that is more or less similar to images in its training set.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 core-embed_6"&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-[embedded content]
-
-&lt;/div&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_7"&gt; &lt;p&gt;But you don’t want any image—you want the image you specified, typically with a text prompt. And so the diffusion model is paired with a second model—such as a large language model (LLM) trained to match images with text descriptions—that guides each step of the cleanup process, pushing the diffusion model toward images that the large language model considers a good match to the prompt.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;An aside: This LLM isn’t pulling the links between text and images out of thin air. Most text-to-image and text-to-video models today are trained on large data sets that contain billions of pairings of text and images or text and video scraped from the internet (a practice many creators are very unhappy about). This means that what you get from such models is a distillation of the world as it’s represented online, distorted by prejudice (and pornography).&lt;/p&gt;  &lt;p&gt;It's easiest to imagine diffusion models working with images. But the technique can be used with many kinds of data, including audio and video. To generate movie clips, a diffusion model must clean up sequences of images—the consecutive frames of a video—instead of just one image.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;What’s a latent diffusion model?&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;  &lt;p&gt;All this takes a huge amount of compute (read: energy). That’s why most diffusion models used for video generation use a technique called latent diffusion. Instead of processing raw data—the millions of pixels in each video frame—the model works in what’s known as a latent space, in which the video frames (and text prompt) are compressed into a mathematical code that captures just the essential features of the data and throws out the rest.&amp;nbsp;&lt;/p&gt; 
-
- &lt;p&gt;A similar thing happens whenever you stream a video over the internet: A video is sent from a server to your screen in a compressed format to make it get to you faster, and when it arrives, your computer or TV will convert it back into a watchable video.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_9"&gt; &lt;p&gt;And so the final step is to decompress what the latent diffusion process has come up with. Once the compressed frames of random static have been turned into the compressed frames of a video that the LLM guide considers a good match for the user’s prompt, the compressed video gets converted into something you can watch.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;With latent diffusion, the diffusion process works more or less the way it would for an image. The difference is that the pixelated video frames are now mathematical encodings of those frames rather than the frames themselves. This makes latent diffusion far more efficient than a typical diffusion model. (Even so, video generation still uses more energy than image or text generation. There’s just an eye-popping amount of computation involved.)&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;What’s a latent diffusion transformer?&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Still with me? There’s one more piece to the puzzle—and that’s how to make sure the diffusion process produces a sequence of frames that are consistent, maintaining objects and lighting and so on from one frame to the next. OpenAI did this with Sora by combining its diffusion model with another kind of model called a transformer. This has now become standard in generative video.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_11"&gt; &lt;p&gt;Transformers are great at processing long sequences of data, like words. That has made them the special sauce inside large language models such as OpenAI’s GPT-5 and Google DeepMind’s Gemini, which can generate long sequences of words that make sense, maintaining consistency across many dozens of sentences.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But videos are not made of words. Instead, videos get cut into chunks that can be treated as if they were. The approach that OpenAI came up with was to dice videos up across both space and time. “It’s like if you were to have a stack of all the video frames and you cut little cubes from it,” says Tim Brooks, a lead researcher on Sora.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 core-embed_12"&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-[embedded content]
-
-&lt;/div&gt;&lt;figcaption class="wp-element-caption"&gt;A selection of videos generated with Veo 3 and Midjourney. The clips have been enhanced in postproduction with Topaz, an AI video-editing tool. Credit: VaigueMan&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_13"&gt; &lt;p&gt;Using transformers alongside diffusion models brings several advantages. Because they are designed to process sequences of data, transformers also help the diffusion model maintain consistency across frames as it generates them. This makes it possible to produce videos in which objects don’t pop in and out of existence, for example.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;And because the videos are diced up, their size and orientation do not matter. This means that the latest wave of video generation models can be trained on a wide range of example videos, from short vertical clips shot with a phone to wide-screen cinematic films. The greater variety of training data has made video generation far better than it was just two years ago. It also means that video generation models can now be asked to produce videos in a variety of formats.&amp;nbsp;&lt;/p&gt; 
- &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;What about the audio?&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;A big advance with Veo 3 is that it generates video with audio, from lip-synched dialogue to sound effects to background noise. That’s a first for video generation models. As Google DeepMind CEO Demis Hassabis put it at this year’s Google I/O: “We’re emerging from the silent era of video generation.”&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 core-embed_14"&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-[embedded content]
-
-&lt;/div&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_15"&gt;&lt;p&gt;The challenge was to find a way to line up video and audio data so that the diffusion process would work on both at the same time. Google DeepMind’s breakthrough was a new way to compress audio and video into a single piece of data inside the diffusion model. When Veo 3 generates a video, its diffusion model produces audio and video together in a lockstep process, ensuring that the sound and images are synched.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;You said that diffusion models can generate different kinds of data. Is this how LLMs work too?&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;No—or at least not yet. Diffusion models are most often used to generate images, video, and audio. Large language models—which generate text (including computer code)—are built using transformers. But the lines are blurring. We’ve seen how transformers are now being combined with diffusion models to generate videos. And this summer Google DeepMind revealed that it was building an experimental large language model that used a diffusion model instead of a transformer to generate text.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Here’s where things start to get confusing: Though video generation (which uses diffusion models) consumes a lot of energy, diffusion models themselves are in fact more efficient than transformers. Thus, by using a diffusion model instead of a transformer to generate text, Google DeepMind’s new LLM could be a lot more efficient than existing LLMs. Expect to see more from diffusion models in the near future!&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/</guid><pubDate>Fri, 12 Sep 2025 10:01:44 +0000</pubDate></item><item><title>The Download: America’s gun crisis, and how AI video models work (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can’t “make American children healthy again” without tackling the gun crisis&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;This week, the Trump administration released a strategy for improving the health and well-being of American children. The report was titled—you guessed it—Make Our Children Healthy Again. It suggests American children should be eating more healthily. And they should be getting more exercise.&lt;/p&gt;  &lt;p&gt;But there’s a glaring omission. The leading cause of death for American children and teenagers isn’t ultraprocessed food or exposure to some chemical. It’s gun violence.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;This week’s news of yet more high-profile shootings at schools in the US throws this disconnect into even sharper relief. Experts believe it is time to treat gun violence in the US as what it is: a public health crisis. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt; 
- &lt;p&gt;&lt;strong&gt;This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, &lt;/strong&gt;&lt;strong&gt;sign up here&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;How do AI models generate videos?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It’s been a big year for video generation. In the last nine months OpenAI made Sora public, Google DeepMind launched Veo 3, and the video startup Runway launched Gen-4. All can produce video clips that are (almost) impossible to distinguish from actual filmed footage or CGI animation.&lt;/p&gt;&lt;p&gt;The downside is that creators are competing with AI slop, and social media feeds are filling up with faked news footage. Video generation also uses up a huge amount of energy, many times more than text or image generation.&lt;/p&gt;&lt;p&gt;With AI-generated videos everywhere, let's take a moment to talk about the tech that makes them work. Read the full story.&lt;/p&gt;&lt;p&gt;&lt;em&gt;—Will Douglas Heaven&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;strong&gt;This article is part of MIT Technology Review Explains, our series untangling the complex, messy world of technology to help you understand what’s coming next. &lt;/strong&gt;&lt;strong&gt;You can read more from the series here&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Meet our 2025 Innovator of the Year: Sneha Goenka&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Up to a quarter of children entering intensive care have undiagnosed genetic conditions. To be treated properly, they must first get diagnoses—which means having their genomes sequenced. This process typically takes up to seven weeks. Sadly, that’s often too slow to save a critically ill child.&lt;/p&gt;&lt;p&gt;Hospitals may soon have a faster option, thanks to a groundbreaking system built in part by Sneha Goenka, an assistant professor of electrical and computer engineering at Princeton—and MIT Technology Review’s 2025 Innovator of the Year.&lt;strong&gt; &lt;/strong&gt;Read all about Goenka and her work in this profile.&lt;/p&gt; 
-
- &lt;p&gt;&lt;em&gt;—Helen Thomson&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;As well as our Innovator of the Year, Goenka is one of the biotech honorees on our 35 Innovators Under 35 list for 2025.&lt;/strong&gt; &lt;strong&gt;Meet the rest of our &lt;/strong&gt;&lt;strong&gt;biotech&lt;/strong&gt;&lt;strong&gt; and &lt;/strong&gt;&lt;strong&gt;materials science&lt;/strong&gt;&lt;strong&gt; innovators, and the full list &lt;/strong&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;strong&gt;.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 OpenAI and Microsoft have agreed a revised deal&lt;/strong&gt;&lt;br /&gt;But haven’t actually revealed any details of said deal. (Axios)&lt;br /&gt;+ &lt;em&gt;The news comes as OpenAI keeps pursuing its for-profit pivot. &lt;/em&gt;(Ars Technica)&lt;br /&gt;+ &lt;em&gt;The world’s largest startup is going to need more paying users soon. &lt;/em&gt;(WSJ $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2 A child has died from a measles complication in Los Angeles&lt;br /&gt;&lt;/strong&gt;They had contracted the virus before they were old enough to be vaccinated. (Ars Technica)&lt;br /&gt;+ &lt;em&gt;Infants are best protected by community immunity. &lt;/em&gt;(LA Times $)&lt;br /&gt;+ &lt;em&gt;They’d originally recovered from measles before developing the condition. &lt;/em&gt;(CNN)&lt;br /&gt;+ &lt;em&gt;Why childhood vaccines are a public health success story. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 Ukrainian drone attacks triggered internet blackouts in Russia&lt;/strong&gt;&lt;br /&gt;The Kremlin cut internet access in a bid to thwart the mobile-guided drones. (FT $)&lt;br /&gt;+ &lt;em&gt;The UK is poised to mass-produce drones to aid Ukraine. &lt;/em&gt;(Sky News)&lt;br /&gt;+ &lt;em&gt;On the ground in Ukraine’s largest Starlink repair shop. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;4 Demis Hasabis says AI may slash drug discovery time to under a year&lt;/strong&gt;&lt;br /&gt;Or perhaps even faster. (Bloomberg $)&lt;br /&gt;+ &lt;em&gt;But there’s good reason to be skeptical of that claim. &lt;/em&gt;(FT $)&lt;br /&gt;+ &lt;em&gt;An AI-driven “factory of drugs” claims to have hit a big milestone. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
- &lt;p&gt;&lt;strong&gt;5 How chatbots alter how we think&lt;br /&gt;&lt;/strong&gt;We shouldn't outsource our critical thinking to them. (Undark)&lt;br /&gt;+ &lt;em&gt;AI companies have stopped warning you that their chatbots aren’t doctors. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;6 Fraudsters are threatening small businesses with one-star reviews&lt;br /&gt;&lt;/strong&gt;Online reviews can make or break fledgling enterprises, and scammers know it. (NYT $)&lt;/p&gt; 
- &lt;p&gt;&lt;strong&gt;7 Why humanoid robots aren’t taking off any time soon&lt;br /&gt;&lt;/strong&gt;The industry has a major hype problem. (IEEE Spectrum)&lt;br /&gt;+ &lt;em&gt;Chinese tech giant Ant Group showed off its own humanoid machine. &lt;/em&gt;(The Verge)&lt;br /&gt;+ &lt;em&gt;Why the humanoid workforce is running late. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 Encyclopedia Britannica and Merriam-Webster are suing Perplexity&lt;/strong&gt;&lt;br /&gt;In yet another case of alleged copyright infringement. (Reuters)&lt;br /&gt;+ &lt;em&gt;What comes next for AI copyright lawsuits? &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;&lt;strong&gt;9 Where we’re most likely to find extraterrestrial life in the next decade&lt;/strong&gt;&lt;br /&gt;Warning: Hollywood may have given us unrealistic expectations. (BBC)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;10 Want to build a trillion-dollar company?&lt;/strong&gt;&lt;br /&gt;Then kiss your social life goodbye. (WSJ $)&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;"Nooooo I'm going to have to use my brain again and write 100% of my code like a caveman from December 2024."&lt;/strong&gt;&lt;/p&gt; 
- &lt;p&gt;—A Hacker News commenter jokes about a service outage that left Anthropic users unable to access its AI coding tools, Ars Technica reports.&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1123589" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/image_10090f.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;&lt;br /&gt;What Africa needs to do to become a major AI player&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Africa is still early in the process of adopting AI technologies. But researchers say the continent is uniquely hospitable to it for several reasons, including a relatively young and increasingly well-educated population, a rapidly growing ecosystem of AI startups, and lots of potential consumers.&lt;/p&gt;&lt;p&gt;However, ambitious efforts to develop AI tools that answer the needs of Africans face numerous hurdles. Read our story to learn what they are, and how they could be overcome.&lt;/p&gt; 
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt;&lt;p&gt;&lt;em&gt;—Abdullahi Tsanni&lt;/em&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;+ The fascinating, unexpected origins of everyone’s favorite pastime—karaoke.&lt;br /&gt;+ Why the &lt;em&gt;Twilight&lt;/em&gt; juggernaut just refuses to die.&lt;br /&gt;+ If you’re among the mass of excited &lt;em&gt;Hollow Knight&lt;/em&gt; fans, here’s a few tips to get through the early stages of the new &lt;em&gt;Silksong&lt;/em&gt; game.&lt;br /&gt;+ A sloe gin bramble pie sounds like the perfect way to welcome fall.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can’t “make American children healthy again” without tackling the gun crisis&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;This week, the Trump administration released a strategy for improving the health and well-being of American children. The report was titled—you guessed it—Make Our Children Healthy Again. It suggests American children should be eating more healthily. And they should be getting more exercise.&lt;/p&gt;  &lt;p&gt;But there’s a glaring omission. The leading cause of death for American children and teenagers isn’t ultraprocessed food or exposure to some chemical. It’s gun violence.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;This week’s news of yet more high-profile shootings at schools in the US throws this disconnect into even sharper relief. Experts believe it is time to treat gun violence in the US as what it is: a public health crisis. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt; 
- &lt;p&gt;&lt;strong&gt;This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, &lt;/strong&gt;&lt;strong&gt;sign up here&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;How do AI models generate videos?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It’s been a big year for video generation. In the last nine months OpenAI made Sora public, Google DeepMind launched Veo 3, and the video startup Runway launched Gen-4. All can produce video clips that are (almost) impossible to distinguish from actual filmed footage or CGI animation.&lt;/p&gt;&lt;p&gt;The downside is that creators are competing with AI slop, and social media feeds are filling up with faked news footage. Video generation also uses up a huge amount of energy, many times more than text or image generation.&lt;/p&gt;&lt;p&gt;With AI-generated videos everywhere, let's take a moment to talk about the tech that makes them work. Read the full story.&lt;/p&gt;&lt;p&gt;&lt;em&gt;—Will Douglas Heaven&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;strong&gt;This article is part of MIT Technology Review Explains, our series untangling the complex, messy world of technology to help you understand what’s coming next. &lt;/strong&gt;&lt;strong&gt;You can read more from the series here&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Meet our 2025 Innovator of the Year: Sneha Goenka&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Up to a quarter of children entering intensive care have undiagnosed genetic conditions. To be treated properly, they must first get diagnoses—which means having their genomes sequenced. This process typically takes up to seven weeks. Sadly, that’s often too slow to save a critically ill child.&lt;/p&gt;&lt;p&gt;Hospitals may soon have a faster option, thanks to a groundbreaking system built in part by Sneha Goenka, an assistant professor of electrical and computer engineering at Princeton—and MIT Technology Review’s 2025 Innovator of the Year.&lt;strong&gt; &lt;/strong&gt;Read all about Goenka and her work in this profile.&lt;/p&gt; 
-
- &lt;p&gt;&lt;em&gt;—Helen Thomson&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;As well as our Innovator of the Year, Goenka is one of the biotech honorees on our 35 Innovators Under 35 list for 2025.&lt;/strong&gt; &lt;strong&gt;Meet the rest of our &lt;/strong&gt;&lt;strong&gt;biotech&lt;/strong&gt;&lt;strong&gt; and &lt;/strong&gt;&lt;strong&gt;materials science&lt;/strong&gt;&lt;strong&gt; innovators, and the full list &lt;/strong&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;strong&gt;.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 OpenAI and Microsoft have agreed a revised deal&lt;/strong&gt;&lt;br /&gt;But haven’t actually revealed any details of said deal. (Axios)&lt;br /&gt;+ &lt;em&gt;The news comes as OpenAI keeps pursuing its for-profit pivot. &lt;/em&gt;(Ars Technica)&lt;br /&gt;+ &lt;em&gt;The world’s largest startup is going to need more paying users soon. &lt;/em&gt;(WSJ $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2 A child has died from a measles complication in Los Angeles&lt;br /&gt;&lt;/strong&gt;They had contracted the virus before they were old enough to be vaccinated. (Ars Technica)&lt;br /&gt;+ &lt;em&gt;Infants are best protected by community immunity. &lt;/em&gt;(LA Times $)&lt;br /&gt;+ &lt;em&gt;They’d originally recovered from measles before developing the condition. &lt;/em&gt;(CNN)&lt;br /&gt;+ &lt;em&gt;Why childhood vaccines are a public health success story. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 Ukrainian drone attacks triggered internet blackouts in Russia&lt;/strong&gt;&lt;br /&gt;The Kremlin cut internet access in a bid to thwart the mobile-guided drones. (FT $)&lt;br /&gt;+ &lt;em&gt;The UK is poised to mass-produce drones to aid Ukraine. &lt;/em&gt;(Sky News)&lt;br /&gt;+ &lt;em&gt;On the ground in Ukraine’s largest Starlink repair shop. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;4 Demis Hasabis says AI may slash drug discovery time to under a year&lt;/strong&gt;&lt;br /&gt;Or perhaps even faster. (Bloomberg $)&lt;br /&gt;+ &lt;em&gt;But there’s good reason to be skeptical of that claim. &lt;/em&gt;(FT $)&lt;br /&gt;+ &lt;em&gt;An AI-driven “factory of drugs” claims to have hit a big milestone. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
- &lt;p&gt;&lt;strong&gt;5 How chatbots alter how we think&lt;br /&gt;&lt;/strong&gt;We shouldn't outsource our critical thinking to them. (Undark)&lt;br /&gt;+ &lt;em&gt;AI companies have stopped warning you that their chatbots aren’t doctors. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;6 Fraudsters are threatening small businesses with one-star reviews&lt;br /&gt;&lt;/strong&gt;Online reviews can make or break fledgling enterprises, and scammers know it. (NYT $)&lt;/p&gt; 
- &lt;p&gt;&lt;strong&gt;7 Why humanoid robots aren’t taking off any time soon&lt;br /&gt;&lt;/strong&gt;The industry has a major hype problem. (IEEE Spectrum)&lt;br /&gt;+ &lt;em&gt;Chinese tech giant Ant Group showed off its own humanoid machine. &lt;/em&gt;(The Verge)&lt;br /&gt;+ &lt;em&gt;Why the humanoid workforce is running late. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 Encyclopedia Britannica and Merriam-Webster are suing Perplexity&lt;/strong&gt;&lt;br /&gt;In yet another case of alleged copyright infringement. (Reuters)&lt;br /&gt;+ &lt;em&gt;What comes next for AI copyright lawsuits? &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;&lt;strong&gt;9 Where we’re most likely to find extraterrestrial life in the next decade&lt;/strong&gt;&lt;br /&gt;Warning: Hollywood may have given us unrealistic expectations. (BBC)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;10 Want to build a trillion-dollar company?&lt;/strong&gt;&lt;br /&gt;Then kiss your social life goodbye. (WSJ $)&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;"Nooooo I'm going to have to use my brain again and write 100% of my code like a caveman from December 2024."&lt;/strong&gt;&lt;/p&gt; 
- &lt;p&gt;—A Hacker News commenter jokes about a service outage that left Anthropic users unable to access its AI coding tools, Ars Technica reports.&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1123589" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/image_10090f.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;&lt;br /&gt;What Africa needs to do to become a major AI player&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Africa is still early in the process of adopting AI technologies. But researchers say the continent is uniquely hospitable to it for several reasons, including a relatively young and increasingly well-educated population, a rapidly growing ecosystem of AI startups, and lots of potential consumers.&lt;/p&gt;&lt;p&gt;However, ambitious efforts to develop AI tools that answer the needs of Africans face numerous hurdles. Read our story to learn what they are, and how they could be overcome.&lt;/p&gt; 
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt;&lt;p&gt;&lt;em&gt;—Abdullahi Tsanni&lt;/em&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;+ The fascinating, unexpected origins of everyone’s favorite pastime—karaoke.&lt;br /&gt;+ Why the &lt;em&gt;Twilight&lt;/em&gt; juggernaut just refuses to die.&lt;br /&gt;+ If you’re among the mass of excited &lt;em&gt;Hollow Knight&lt;/em&gt; fans, here’s a few tips to get through the early stages of the new &lt;em&gt;Silksong&lt;/em&gt; game.&lt;br /&gt;+ A sloe gin bramble pie sounds like the perfect way to welcome fall.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/</guid><pubDate>Fri, 12 Sep 2025 12:10:00 +0000</pubDate></item><item><title>[NEW] We are entering a golden age of robotics startups — and not just because of AI (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;When Seth Winterroth left his job at GE Ventures to help launch Eclipse in 2015, robotics was on his mind. Or more specifically, the number of early-stage robotics startups that were struggling to launch due to lack of interest.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“These are teams that had just finished their postdocs at Waterloo, or CMU, or MIT, and were starting robotics companies, and the refrain that I continually heard from the startups was, ‘hey, we’re having a really hard time raising institutional venture capital,’” Winterroth told TechCrunch. “At the time in Silicon Valley, most venture capital was going into the very mature application layer or the application layer of some very mature computing platforms.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;A lot has changed since then.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, after investing in robotics startups for 10 years, Winterroth, a partner at Eclipse, said the time to invest in robotics has never been better. The robotics startup market has matured and the hardware and software powering these bots has gotten significantly better —&amp;nbsp;and cheaper.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Venture investing in the category is gaining momentum as well. Investors poured $6 billion into robotics startups in the first seven months of 2025 according to Crunchbase data. The data company predicts that this year’s funding totals will eclipse 2024, making it one of the only non-AI categories to experience a boost in funding.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While one could argue that robotics is seeing a surge in investor interest because of AI —&amp;nbsp;and it’s not wrong to acknowledge AI’s role in the advancement of robotic tech —&amp;nbsp;investors who have focused on the category longer than the last few years said the industry didn’t get to this point just because of advancements in AI over the past few years.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-reaching-maturation"&gt;Reaching maturation&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The real catalyst for the industry to start gaining momentum actually happened back in 2012, Winterroth said, when Kiva Systems, a small startup based out of Massachusetts, got acquired by Amazon.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I like to say Kiva Systems’ acquisition was the acquisition that launched 1,000 robotic startups,” Winterroth said. “Between 2011 and 2015, 2016, that really was the case. You just saw a number of different new companies get started. Some like 6 River Systems, or Clearpath Robotics, were successful, but most were not. But that talent learns and that learning compounds, and it’s brought into the next set of ventures.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This first wave helped attract engineers to the sector and helped companies figure out product-market-fit, he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kira Noodleman, a partner at Bee Partners, echoed this. Noodleman told TechCrunch the last decade of trial and error helped startups figure out what the market is actually looking for when it comes to robotics and automation.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Some companies, like Rapid Robotics which Noodleman backed, shut down trying to figure out what the market wanted. Those failures have helped the next batch of startup founders, who now have a much better idea of what potential customers want from this sector.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Noodleman had a similar experience with her own investing thesis, she said, which changed as the market matured.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Lights out manufacturing assumes there are zero humans in the loop, that is just not happening, we proved that already back in the 2010s,” Noodleman said. “Let me take a simple task, machine tending, all it is is someone’s hand putting something in and out of a machine. The point here is you can imagine how many low-hanging fruit, repetitive tasks there are, like machine tending.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Fady Saad, a general partner at early-stage robotics-focused Cybernetix Ventures, also launched his firm prior to the AI boom after he noticed he was spending a lot of time connecting early-stage robotics companies to sources of funding during his time as a co-founder at MassRobotics.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Falling hardware costs have also driven investor interest in the sector, Saad said, noting that it’s cheaper to build robots today than five years ago. This allows companies to have a more viable path to scale and makes them more attractive to potential venture backers.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The cost of building robotics has been going dramatically down,” Saad said. “Advances in sensor technology, compute, and batteries, all of that, it was the perfect timing to start full-stack robotics solutions.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Advancements in AI aren’t hurting the industry either. While AI is being touted by many as the main reason why robotics are starting to see an increase in interest —&amp;nbsp;alongside an Elon Musk-driven fascination with humanoid robots —&amp;nbsp;it isn’t the only factor.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Saad added that while AI and large language models can be helpful for training robots, these LLMs are primarily trained on online information whereas robots interact with the real world.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;There are companies building models based on that real-life data; Nvidia just released a new set of world models for robot training in August. But Saad predicted it will take a bit longer to capture and train robots, especially those that will exist alongside people, on world data.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-present-day"&gt;Present day&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Momentum in the industry may be starting to swell, but that doesn’t mean every startup has figured out the best approach yet. Nor are some categories within robotics as mature as others.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Some of the first few markets to adopt robotics and automation, including manufacturing, warehousing, and construction, continue to be attractive for robotics startup backers.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For Winterroth, Saad, and Noodleman, healthcare and surgical-related robots remain a compelling area to invest in too. Noodleman adds eldercare to that category as well.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“In-home assistance is interesting, coming from me having looked at industrial robotics for 10 years,” Noodleman said. “Manufacturing and mining, burning labor shortages, aging populations, no humans are available at any price, even imperfect robotics are better than nothing.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Saad added that vertically-focused robotics companies tend to have access to more real-world and physical data too than horizontal players.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One area that these VCs are not as excited about are humanoids or consumer —&amp;nbsp;and especially not consumer-focused humanoids.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Saad isn’t convinced that people will want to have a robot in their house anytime soon. He added that even non-humanoid consumer-focused robotics companies have struggled to get consumers excited.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“The only successful consumer robot company, iRobot, failed to come up with a second act,” Saad said. “Pool cleaning robot, lawn mower, mopping and floor-cleaning robot, none of these worked out for whatever reason.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While the industry is still years away from commercial success of more intricate robotic models, like humanoids, VCs are pouring more capital into the sector. Despite the fact that this interest is driving up the costs of deals, the surge in interest is a net positive for the industry, Winterroth and Saad said, as the potential customer base for robotics startups continues to grow.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There are enough examples of successful commercial organizations, successful robotics companies, that have become a valuable commercial organization,” Winterroth said. “Ten, 15 years ago, it was questionable whether or not there was going to be a large and thriving marketplace for these types of solutions. Now, there’s a lot of customer awareness.”&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;When Seth Winterroth left his job at GE Ventures to help launch Eclipse in 2015, robotics was on his mind. Or more specifically, the number of early-stage robotics startups that were struggling to launch due to lack of interest.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“These are teams that had just finished their postdocs at Waterloo, or CMU, or MIT, and were starting robotics companies, and the refrain that I continually heard from the startups was, ‘hey, we’re having a really hard time raising institutional venture capital,’” Winterroth told TechCrunch. “At the time in Silicon Valley, most venture capital was going into the very mature application layer or the application layer of some very mature computing platforms.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;A lot has changed since then.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, after investing in robotics startups for 10 years, Winterroth, a partner at Eclipse, said the time to invest in robotics has never been better. The robotics startup market has matured and the hardware and software powering these bots has gotten significantly better —&amp;nbsp;and cheaper.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Venture investing in the category is gaining momentum as well. Investors poured $6 billion into robotics startups in the first seven months of 2025 according to Crunchbase data. The data company predicts that this year’s funding totals will eclipse 2024, making it one of the only non-AI categories to experience a boost in funding.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While one could argue that robotics is seeing a surge in investor interest because of AI —&amp;nbsp;and it’s not wrong to acknowledge AI’s role in the advancement of robotic tech —&amp;nbsp;investors who have focused on the category longer than the last few years said the industry didn’t get to this point just because of advancements in AI over the past few years.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-reaching-maturation"&gt;Reaching maturation&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The real catalyst for the industry to start gaining momentum actually happened back in 2012, Winterroth said, when Kiva Systems, a small startup based out of Massachusetts, got acquired by Amazon.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I like to say Kiva Systems’ acquisition was the acquisition that launched 1,000 robotic startups,” Winterroth said. “Between 2011 and 2015, 2016, that really was the case. You just saw a number of different new companies get started. Some like 6 River Systems, or Clearpath Robotics, were successful, but most were not. But that talent learns and that learning compounds, and it’s brought into the next set of ventures.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This first wave helped attract engineers to the sector and helped companies figure out product-market-fit, he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kira Noodleman, a partner at Bee Partners, echoed this. Noodleman told TechCrunch the last decade of trial and error helped startups figure out what the market is actually looking for when it comes to robotics and automation.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Some companies, like Rapid Robotics which Noodleman backed, shut down trying to figure out what the market wanted. Those failures have helped the next batch of startup founders, who now have a much better idea of what potential customers want from this sector.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Noodleman had a similar experience with her own investing thesis, she said, which changed as the market matured.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Lights out manufacturing assumes there are zero humans in the loop, that is just not happening, we proved that already back in the 2010s,” Noodleman said. “Let me take a simple task, machine tending, all it is is someone’s hand putting something in and out of a machine. The point here is you can imagine how many low-hanging fruit, repetitive tasks there are, like machine tending.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Fady Saad, a general partner at early-stage robotics-focused Cybernetix Ventures, also launched his firm prior to the AI boom after he noticed he was spending a lot of time connecting early-stage robotics companies to sources of funding during his time as a co-founder at MassRobotics.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Falling hardware costs have also driven investor interest in the sector, Saad said, noting that it’s cheaper to build robots today than five years ago. This allows companies to have a more viable path to scale and makes them more attractive to potential venture backers.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The cost of building robotics has been going dramatically down,” Saad said. “Advances in sensor technology, compute, and batteries, all of that, it was the perfect timing to start full-stack robotics solutions.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Advancements in AI aren’t hurting the industry either. While AI is being touted by many as the main reason why robotics are starting to see an increase in interest —&amp;nbsp;alongside an Elon Musk-driven fascination with humanoid robots —&amp;nbsp;it isn’t the only factor.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Saad added that while AI and large language models can be helpful for training robots, these LLMs are primarily trained on online information whereas robots interact with the real world.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;There are companies building models based on that real-life data; Nvidia just released a new set of world models for robot training in August. But Saad predicted it will take a bit longer to capture and train robots, especially those that will exist alongside people, on world data.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-present-day"&gt;Present day&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Momentum in the industry may be starting to swell, but that doesn’t mean every startup has figured out the best approach yet. Nor are some categories within robotics as mature as others.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Some of the first few markets to adopt robotics and automation, including manufacturing, warehousing, and construction, continue to be attractive for robotics startup backers.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For Winterroth, Saad, and Noodleman, healthcare and surgical-related robots remain a compelling area to invest in too. Noodleman adds eldercare to that category as well.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“In-home assistance is interesting, coming from me having looked at industrial robotics for 10 years,” Noodleman said. “Manufacturing and mining, burning labor shortages, aging populations, no humans are available at any price, even imperfect robotics are better than nothing.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Saad added that vertically-focused robotics companies tend to have access to more real-world and physical data too than horizontal players.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One area that these VCs are not as excited about are humanoids or consumer —&amp;nbsp;and especially not consumer-focused humanoids.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Saad isn’t convinced that people will want to have a robot in their house anytime soon. He added that even non-humanoid consumer-focused robotics companies have struggled to get consumers excited.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“The only successful consumer robot company, iRobot, failed to come up with a second act,” Saad said. “Pool cleaning robot, lawn mower, mopping and floor-cleaning robot, none of these worked out for whatever reason.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While the industry is still years away from commercial success of more intricate robotic models, like humanoids, VCs are pouring more capital into the sector. Despite the fact that this interest is driving up the costs of deals, the surge in interest is a net positive for the industry, Winterroth and Saad said, as the potential customer base for robotics startups continues to grow.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There are enough examples of successful commercial organizations, successful robotics companies, that have become a valuable commercial organization,” Winterroth said. “Ten, 15 years ago, it was questionable whether or not there was going to be a large and thriving marketplace for these types of solutions. Now, there’s a lot of customer awareness.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/</guid><pubDate>Fri, 12 Sep 2025 13:00:00 +0000</pubDate></item><item><title>[NEW] Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The countdown is on: The application to host a Side Event at &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt; closes tonight at 11:59 p.m. PT.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 13 Sep 2025 01:23:53 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The countdown is on: The application to host a Side Event at &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt; closes tonight at 11:59 p.m. PT.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;If you’ve been considering a way to amplify your brand during the week’s tech epicenter, now is the time to lock it in.&lt;/p&gt;
 
@@ -355,7 +91,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Apply now&lt;/strong&gt; and make your event the one everyone remembers during Disrupt 2025.&lt;/p&gt;
 
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 no anniversary" class="wp-image-3040972" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/TC25_Disrupt_General_Article_No-Anniversary-at-all_Headers_1920x1080.png?w=680" width="680" /&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/</guid><pubDate>Fri, 12 Sep 2025 15:00:00 +0000</pubDate></item><item><title>[NEW] Education report calling for ethical AI use contains over 15 fake sources (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/09/education-report-calling-for-ethical-ai-use-contains-over-15-fake-sources/</link><description>&lt;header&gt;
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 no anniversary" class="wp-image-3040972" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/TC25_Disrupt_General_Article_No-Anniversary-at-all_Headers_1920x1080.png?w=680" width="680" /&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/</guid><pubDate>Fri, 12 Sep 2025 15:00:00 +0000</pubDate></item><item><title>Education report calling for ethical AI use contains over 15 fake sources (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/09/education-report-calling-for-ethical-ai-use-contains-over-15-fake-sources/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -629,60 +365,9 @@
         &lt;/div&gt;
     &lt;/div&gt;
               &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/09/education-report-calling-for-ethical-ai-use-contains-over-15-fake-sources/</guid><pubDate>Fri, 12 Sep 2025 16:01:27 +0000</pubDate></item><item><title>[NEW] Micro1, a competitor to Scale AI, raises funds at $500M valuation (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1343238867.jpg?resize=1200,633" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Micro1, a three-year-old startup that helps AI companies find and manage human contractors for data labeling and training, has raised a $35 million Series A funding round that values the company at $500 million. The round was led by O1 Advisors, a venture capital firm co-founded by Dick Costolo and Adam Bain, the former CEO and COO of Twitter.&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/09/education-report-calling-for-ethical-ai-use-contains-over-15-fake-sources/</guid><pubDate>Fri, 12 Sep 2025 16:01:27 +0000</pubDate></item><item><title>Micro1, a competitor to Scale AI, raises funds at $500M valuation (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1343238867.jpg?resize=1200,633" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Micro1, a three-year-old startup that helps AI companies find and manage human contractors for data labeling and training, has raised a $35 million Series A funding round that values the company at $500 million. The round was led by 01 Advisors, a venture capital firm co-founded by Dick Costolo and Adam Bain, the former CEO and COO of Twitter.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The startup is one of many companies looking to fill the gap in the data market created by recent changes involving Scale AI. After Meta invested $14 billion in Scale AI and hired its CEO, AI labs including OpenAI and Google said they planned to cut ties with the startup, presumably over concerns that their research could end up in Meta’s hands. (Scale AI denies that it shares confidential information with Meta as part of its partnership).&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;However, AI labs still need these data services, and startups like Micro1 aim to pick up the slack.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Micro1 CEO Ali Ansari — who is just 24 years old — tells TechCrunch that his company has been working with leading AI labs, including Microsoft, as well as several Fortune 100 companies. Ansari said Micro1 is now generating $50 million in annual recurring revenue (ARR), up from $7 million at the start of 2025.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s still a far cry from larger competitors like Mercor, which is generating more than $450 million in ARR, and Surge, which reportedly brought in $1.2 billion in 2024. However, Micro1’s growth and adoption among AI labs seems to be growing at a healthy rate.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As part of the new funding, Micro1 is also adding Bain to its board of directors, alongside Joshua Browder, founder and CEO of the AI legal assistant DoNotPay.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Really the only way models are now learning is through net new human data. Micro1 is at the core of providing that data to all frontier labs, while moving at speeds I’ve never seen before,” Bain said in a statement to TechCrunch.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Reuters previously reported details of Micro1’s fundraising efforts.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;All these companies — Micro1, Surge, Mercor, and Scale AI — supply AI labs with access to a large base of human contractors who can label and generate data for AI training. It’s become a crucial service that companies like OpenAI, Anthropic, Meta, and Google need to build cutting edge AI models.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Scale AI was first to dominate this space, with the initial insight that it could pay relatively little for low-skilled contractors around the world to help label data for AI model training. However, Ansari says that the demands of AI labs have shifted in recent years, and that companies now need high-quality data labeling from domain experts — such as senior software engineers, doctors, and professional writers — to improve their AI models. The hard part became recruiting these types of folks.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This led Micro1 to build its AI recruiter, Zara, which interviews and vets candidates who apply to work as one of company’s contractors, or as Ansari calls them, experts. Micro1 says Zara has recruited thousands of experts — including professors from Stanford and Harvard — and that the company plans to add hundreds more every week.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The market for AI training data appears to be changing yet again. Now, many AI labs are interested in working with startups to develop “environments” — virtual workspaces that can be used to train AI agents on simulated tasks. Ansari says Micro1 is building new offerings in the environments space to meet this demand.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Luckily for startups like Micro1, AI labs seem to be working with multiple training data providers. The nature of the business is such that it’s difficult for any one company to handle all of one AI lab’s data needs. That means there’s plenty of business to go around, at least, for now.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1343238867.jpg?resize=1200,633" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Micro1, a three-year-old startup that helps AI companies find and manage human contractors for data labeling and training, has raised a $35 million Series A funding round that values the company at $500 million. The round was led by O1 Advisors, a venture capital firm co-founded by Dick Costolo and Adam Bain, the former CEO and COO of Twitter.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The startup is one of many companies looking to fill the gap in the data market created by recent changes involving Scale AI. After Meta invested $14 billion in Scale AI and hired its CEO, AI labs including OpenAI and Google said they planned to cut ties with the startup, presumably over concerns that their research could end up in Meta’s hands. (Scale AI denies that it shares confidential information with Meta as part of its partnership).&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The startup is one of many companies looking to fill the gap in the data market created by recent changes involving Scale AI. After Meta invested $14 billion in Scale AI and hired its CEO, AI labs, including OpenAI and Google, said they planned to cut ties with the startup, presumably over concerns that their research could end up in Meta’s hands. (Scale AI denies that it shares confidential information with Meta as part of its partnership.)&lt;/p&gt;
 
 
 
@@ -717,18 +402,777 @@
 
 &lt;p class="wp-block-paragraph"&gt;Reuters previously reported details of Micro1’s fundraising efforts.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;All these companies — Micro1, Surge, Mercor, and Scale AI — supply AI labs with access to a large base of human contractors who can label and generate data for AI training. It’s become a crucial service that companies like OpenAI, Anthropic, Meta, and Google need to build cutting edge AI models.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;All these companies — Micro1, Surge, Mercor, and Scale AI — supply AI labs with access to a large base of human contractors who can label and generate data for AI training. It’s become a crucial service that companies like OpenAI, Anthropic, Meta, and Google need to build cutting-edge AI models.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Scale AI was first to dominate this space, with the initial insight that it could pay relatively little for low-skilled contractors around the world to help label data for AI model training. However, Ansari says that the demands of AI labs have shifted in recent years, and that companies now need high-quality data labeling from domain experts — such as senior software engineers, doctors, and professional writers — to improve their AI models. The hard part became recruiting these types of folks.&lt;/p&gt;
-
-
+&lt;p class="wp-block-paragraph"&gt;Scale AI was first to dominate this space, with the initial insight that it could pay relatively little for low-skilled contractors around the world to help label data for AI model training. However, Ansari says that the demands of AI labs have shifted in recent years and that companies now need high-quality data labeling from domain experts — such as senior software engineers, doctors, and professional writers — to improve their AI models. The hard part became recruiting these types of folks.&lt;/p&gt;
 
 
 
 
 
-&lt;p class="wp-block-paragraph"&gt;This led Micro1 to build its AI recruiter, Zara, which interviews and vets candidates who apply to work as one of company’s contractors, or as Ansari calls them, experts. Micro1 says Zara has recruited thousands of experts — including professors from Stanford and Harvard — and that the company plans to add hundreds more every week.&lt;/p&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;This led Micro1 to build its AI recruiter, Zara, which interviews and vets candidates who apply to work as one of the company’s contractors, or as Ansari calls them, experts. Micro1 says Zara has recruited thousands of experts — including professors from Stanford and Harvard — and that the company plans to add hundreds more every week.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The market for AI training data appears to be changing yet again. Now, many AI labs are interested in working with startups to develop “environments” — virtual workspaces that can be used to train AI agents on simulated tasks. Ansari says Micro1 is building new offerings in the environments space to meet this demand.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Luckily for startups like Micro1, AI labs seem to be working with multiple training data providers. The nature of the business is such that it’s difficult for any one company to handle all of one AI lab’s data needs. That means there’s plenty of business to go around, at least, for now.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/</guid><pubDate>Fri, 12 Sep 2025 17:00:00 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;Luckily for startups like Micro1, AI labs seem to be working with multiple training data providers. The nature of the business is such that it’s difficult for any one company to handle all of one AI lab’s data needs. That means there’s plenty of business to go around, at least for now.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1343238867.jpg?resize=1200,633" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Micro1, a three-year-old startup that helps AI companies find and manage human contractors for data labeling and training, has raised a $35 million Series A funding round that values the company at $500 million. The round was led by 01 Advisors, a venture capital firm co-founded by Dick Costolo and Adam Bain, the former CEO and COO of Twitter.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The startup is one of many companies looking to fill the gap in the data market created by recent changes involving Scale AI. After Meta invested $14 billion in Scale AI and hired its CEO, AI labs, including OpenAI and Google, said they planned to cut ties with the startup, presumably over concerns that their research could end up in Meta’s hands. (Scale AI denies that it shares confidential information with Meta as part of its partnership.)&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;However, AI labs still need these data services, and startups like Micro1 aim to pick up the slack.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Micro1 CEO Ali Ansari — who is just 24 years old — tells TechCrunch that his company has been working with leading AI labs, including Microsoft, as well as several Fortune 100 companies. Ansari said Micro1 is now generating $50 million in annual recurring revenue (ARR), up from $7 million at the start of 2025.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That’s still a far cry from larger competitors like Mercor, which is generating more than $450 million in ARR, and Surge, which reportedly brought in $1.2 billion in 2024. However, Micro1’s growth and adoption among AI labs seems to be growing at a healthy rate.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As part of the new funding, Micro1 is also adding Bain to its board of directors, alongside Joshua Browder, founder and CEO of the AI legal assistant DoNotPay.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Really the only way models are now learning is through net new human data. Micro1 is at the core of providing that data to all frontier labs, while moving at speeds I’ve never seen before,” Bain said in a statement to TechCrunch.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Reuters previously reported details of Micro1’s fundraising efforts.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;All these companies — Micro1, Surge, Mercor, and Scale AI — supply AI labs with access to a large base of human contractors who can label and generate data for AI training. It’s become a crucial service that companies like OpenAI, Anthropic, Meta, and Google need to build cutting-edge AI models.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Scale AI was first to dominate this space, with the initial insight that it could pay relatively little for low-skilled contractors around the world to help label data for AI model training. However, Ansari says that the demands of AI labs have shifted in recent years and that companies now need high-quality data labeling from domain experts — such as senior software engineers, doctors, and professional writers — to improve their AI models. The hard part became recruiting these types of folks.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This led Micro1 to build its AI recruiter, Zara, which interviews and vets candidates who apply to work as one of the company’s contractors, or as Ansari calls them, experts. Micro1 says Zara has recruited thousands of experts — including professors from Stanford and Harvard — and that the company plans to add hundreds more every week.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The market for AI training data appears to be changing yet again. Now, many AI labs are interested in working with startups to develop “environments” — virtual workspaces that can be used to train AI agents on simulated tasks. Ansari says Micro1 is building new offerings in the environments space to meet this demand.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luckily for startups like Micro1, AI labs seem to be working with multiple training data providers. The nature of the business is such that it’s difficult for any one company to handle all of one AI lab’s data needs. That means there’s plenty of business to go around, at least for now.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/</guid><pubDate>Fri, 12 Sep 2025 17:00:00 +0000</pubDate></item><item><title>[NEW] Google is a ‘bad actor’ says People CEO, accusing the company of stealing content (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/Neil-Vogel.jpg?resize=1200,593" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The CEO of the largest digital and print publisher in the U.S. has accused Google of being a bad actor for crawling its websites to support the search giant’s AI products.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Neil Vogel, CEO of People, Inc. (formerly Dotdash Meredith), a publisher that operates over 40 brands, including People, Food &amp;amp; Wine, Travel + Leisure, Better Homes &amp;amp; Gardens, Real Simple, Southern Living, Allrecipes, and others, said that Google is not playing fair because it uses the same bot to crawl websites to index them for the Google search engine as it does to support its AI features.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Google has one crawler, which means they use the same crawler for their search, where they still send us traffic, as they do for their AI products, where they steal our content,” said Vogel, speaking at the Fortune Brainstorm Tech conference this week.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;He noted that three years ago, Google Search accounted for about 65% of the company’s traffic and that has since dropped to the “high 20s.” (Vogel shared an even more startling statistic with AdExchanger last month, saying that as of several years ago, Google’s traffic accounted for as much as 90% of People Inc.’s traffic from the open web.)&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I’m not complaining. We’ve grown our audience. We’ve grown our revenue,” Vogel told conference attendees. “We’re doing great. What is not right about this is: You cannot take our content to compete with us.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Vogel believes publishers need more leverage in the AI era, which is why he feels it’s necessary to block AI crawlers — automated programs that scan websites to train AI systems — as that can force them into content deals. His company, for example, has a deal with OpenAI, which Vogel described as a “good actor.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;People Inc. has been leveraging web infrastructure company Cloudflare’s latest solution to block AI crawlers that don’t pay, prompting AI players to approach the publisher with potential content deals. While Vogel wouldn’t directly name the companies involved, he said they were “large LLM providers.” No deals have been signed yet, but Vogel said the company is “much further along” than before it adopted the crawler-blocking solution.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;However, Vogel pointed out, Google’s crawler can’t be blocked because doing so would also prevent the publisher’s websites from being indexed in Google Search, cutting off that “20%-ish” of traffic that Google still delivers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“They know this, and they’re not splitting their crawler. So they are an intentional bad actor here,” Vogel declared. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Janice Min, the editor-in-chief and CEO at newsletter provider Ankler Media, agreed, calling Big Tech companies like Google and Meta longtime “content kleptomaniacs.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“I don’t see the benefit to us in partnering with any AI company right now,” she said, adding that her company blocks AI crawlers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, Cloudflare CEO Matthew Prince, whose company makes the AI-blocking solution (and who was also on the panel), said he believed that things would still change in the future when it comes to how the AI companies behave. He suspected those changes could be prompted by new regulations.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Cloudflare exec also questioned whether fighting the AI companies using legal solutions around things like copyright law, created for the pre-AI era, was the right answer. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I think that it’s a fool’s errand to go down that path, because, in copyright law, typically, the more derivative something is, the more it’s protected under fair use&amp;nbsp;… What these AI companies are doing is they’re actually creating derivatives,” Prince said. “And so if you look at the best case law that’s come out so far, it’s actually said that the use by Anthropic and others — the reason Anthropic settled recently with all the book publishers for $1.5 billion — was for them to be able to preserve the positive copyright ruling that they got.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Prince also proclaimed that “everything that’s wrong with the world today is, at some level, Google’s fault,” because the search giant had taught publishers to value traffic over original content creation, triggering publishers like BuzzFeed to write for clicks. Still, he admitted that Google was in a tough spot right now from a competitive standpoint.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Internally, they’re having massive fights about what they do, and my prediction is that, by this time next year, Google will be paying content creators for crawling their content and taking it and putting it in AI models,” he said.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/Neil-Vogel.jpg?resize=1200,593" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The CEO of the largest digital and print publisher in the U.S. has accused Google of being a bad actor for crawling its websites to support the search giant’s AI products.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Neil Vogel, CEO of People, Inc. (formerly Dotdash Meredith), a publisher that operates over 40 brands, including People, Food &amp;amp; Wine, Travel + Leisure, Better Homes &amp;amp; Gardens, Real Simple, Southern Living, Allrecipes, and others, said that Google is not playing fair because it uses the same bot to crawl websites to index them for the Google search engine as it does to support its AI features.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Google has one crawler, which means they use the same crawler for their search, where they still send us traffic, as they do for their AI products, where they steal our content,” said Vogel, speaking at the Fortune Brainstorm Tech conference this week.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;He noted that three years ago, Google Search accounted for about 65% of the company’s traffic and that has since dropped to the “high 20s.” (Vogel shared an even more startling statistic with AdExchanger last month, saying that as of several years ago, Google’s traffic accounted for as much as 90% of People Inc.’s traffic from the open web.)&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I’m not complaining. We’ve grown our audience. We’ve grown our revenue,” Vogel told conference attendees. “We’re doing great. What is not right about this is: You cannot take our content to compete with us.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Vogel believes publishers need more leverage in the AI era, which is why he feels it’s necessary to block AI crawlers — automated programs that scan websites to train AI systems — as that can force them into content deals. His company, for example, has a deal with OpenAI, which Vogel described as a “good actor.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;People Inc. has been leveraging web infrastructure company Cloudflare’s latest solution to block AI crawlers that don’t pay, prompting AI players to approach the publisher with potential content deals. While Vogel wouldn’t directly name the companies involved, he said they were “large LLM providers.” No deals have been signed yet, but Vogel said the company is “much further along” than before it adopted the crawler-blocking solution.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;However, Vogel pointed out, Google’s crawler can’t be blocked because doing so would also prevent the publisher’s websites from being indexed in Google Search, cutting off that “20%-ish” of traffic that Google still delivers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“They know this, and they’re not splitting their crawler. So they are an intentional bad actor here,” Vogel declared. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Janice Min, the editor-in-chief and CEO at newsletter provider Ankler Media, agreed, calling Big Tech companies like Google and Meta longtime “content kleptomaniacs.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“I don’t see the benefit to us in partnering with any AI company right now,” she said, adding that her company blocks AI crawlers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, Cloudflare CEO Matthew Prince, whose company makes the AI-blocking solution (and who was also on the panel), said he believed that things would still change in the future when it comes to how the AI companies behave. He suspected those changes could be prompted by new regulations.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Cloudflare exec also questioned whether fighting the AI companies using legal solutions around things like copyright law, created for the pre-AI era, was the right answer. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I think that it’s a fool’s errand to go down that path, because, in copyright law, typically, the more derivative something is, the more it’s protected under fair use&amp;nbsp;… What these AI companies are doing is they’re actually creating derivatives,” Prince said. “And so if you look at the best case law that’s come out so far, it’s actually said that the use by Anthropic and others — the reason Anthropic settled recently with all the book publishers for $1.5 billion — was for them to be able to preserve the positive copyright ruling that they got.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Prince also proclaimed that “everything that’s wrong with the world today is, at some level, Google’s fault,” because the search giant had taught publishers to value traffic over original content creation, triggering publishers like BuzzFeed to write for clicks. Still, he admitted that Google was in a tough spot right now from a competitive standpoint.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Internally, they’re having massive fights about what they do, and my prediction is that, by this time next year, Google will be paying content creators for crawling their content and taking it and putting it in AI models,” he said.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/</guid><pubDate>Fri, 12 Sep 2025 18:53:26 +0000</pubDate></item><item><title>[NEW] Why the Oracle-OpenAI deal caught Wall Street by surprise (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2234339951.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;This week, OpenAI and Oracle shocked the markets with a surprise $300 billion, five-year agreement, part of a surge of new business that sent the cloud provider’s stock skyrocketing. But maybe the markets shouldn’t have been taken by surprise. The deal is a reminder that, despite Oracle’s legacy status, the company still plays a major role in AI infrastructure.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the OpenAI side, the agreement was more revealing than the lack of details suggest. For one, the startup’s willingness to pay so much for compute provides a measurement of the startup’s appetite — even if it’s unclear where the electricity to power said compute is coming from or how it will pay for it.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Chirag Dekate, a vice president at research firm Gartner, told TechCrunch it’s clear why both sides were interested in this deal. It makes sense for OpenAI to work with several infrastructure providers, he noted. It also diversifies the company’s infrastructure — spreading out risk among several cloud providers — and gives OpenAI a scaling advantage compared to competitors.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“OpenAI seems to be putting together one of the most comprehensive global AI supercomputing foundations for extreme scale, inference scaling where appropriate,” Dekate said. “This is quite unique. This is probably exemplary of what a model ecosystem should look like.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Some industry watchers expressed surprise that Oracle was involved, citing the company’s diminished role in the AI boom compared to cloud rivals like Google, Microsoft Azure, and AWS. But Dekate argues that observers shouldn’t be so surprised: Oracle has worked with hyperscalers before and provides the infrastructure for TikTok’s sizable U.S. business.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Over the decades, they actually built core infrastructure capabilities that enabled them to deliver extreme scale and performance as a core part of their cloud infrastructure,” Dekate said.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-payment-and-power"&gt;Payment and power&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But even as the stock market celebrates the deal, key details are missing and questions around power and payment remain.&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;OpenAI has made a string of infrastructure investment announcements over the past year, each one with an eye-popping price tag.&amp;nbsp;OpenAI has committed to spend around $60 billion a year for compute from Oracle and $10 billion to develop custom AI chips with Broadcom.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, OpenAI said in June it hit $10 billion in annual recurring revenue, up from around $5.5 billion last year. That figure includes revenue from the company’s consumer products, ChatGPT business products, and its API. And while its CEO Sam Altman has painted a rosy picture of its future prospects in terms of subscribers, products, and revenue, the company is burning through billions of dollars in cash each year.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Power is another question, or more specifically where the companies plan to source the energy needed to run this level of compute.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Industry observers have been predicting a near-term boost for natural gas, though solar and batteries are arguably better positioned to deliver power sooner and at lower cost in many markets. Tech companies are also betting big on nuclear.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Despite market moving headlines, the energy impact of OpenAI’s anticipated growth isn’t entirely unexpected. Data centers are anticipated to consume 14% of all electricity in the U.S. by 2040, according to a report the Rhodium Group published yesterday.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Compute has always been a constraint for AI companies, so much so that investors have bought thousands of Nvidia chips to ensure their startups have access to the power they need. Andreessen Horowitz has reportedly purchased over 20,000 GPUs, while Nat Friedman and Daniel Gross rented access to a 4,000 GPU cluster (though maybe Meta owns that now).&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But compute is worthless without power. To ensure their data centers remain juiced, large tech companies have been snapping up solar farms, buying nuclear power plants, and inking deals with geothermal startups.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;So far, OpenAI has been relatively quiet on that front. CEO Sam Altman has placed several prominent bets in the energy sector, including Oklo, Helion, and Exowatt, but the company itself hasn’t thrown money into the space like Google, Meta, or Amazon.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;With a 4.5 gigawatt compute deal, that may soon change.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company may play an indirect role, paying Oracle to handle the physical infrastructure — something it has extensive experience with — just as Altman invested in startups aligned with OpenAI’s future power needs. That will leave the company “asset light,” something that will undoubtedly please its investors and help keep its valuation in line with other software-centric AI startups and not with legacy tech firms, which are burdened with pricy infrastructure.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2234339951.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;This week, OpenAI and Oracle shocked the markets with a surprise $300 billion, five-year agreement, part of a surge of new business that sent the cloud provider’s stock skyrocketing. But maybe the markets shouldn’t have been taken by surprise. The deal is a reminder that, despite Oracle’s legacy status, the company still plays a major role in AI infrastructure.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the OpenAI side, the agreement was more revealing than the lack of details suggest. For one, the startup’s willingness to pay so much for compute provides a measurement of the startup’s appetite — even if it’s unclear where the electricity to power said compute is coming from or how it will pay for it.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Chirag Dekate, a vice president at research firm Gartner, told TechCrunch it’s clear why both sides were interested in this deal. It makes sense for OpenAI to work with several infrastructure providers, he noted. It also diversifies the company’s infrastructure — spreading out risk among several cloud providers — and gives OpenAI a scaling advantage compared to competitors.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“OpenAI seems to be putting together one of the most comprehensive global AI supercomputing foundations for extreme scale, inference scaling where appropriate,” Dekate said. “This is quite unique. This is probably exemplary of what a model ecosystem should look like.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Some industry watchers expressed surprise that Oracle was involved, citing the company’s diminished role in the AI boom compared to cloud rivals like Google, Microsoft Azure, and AWS. But Dekate argues that observers shouldn’t be so surprised: Oracle has worked with hyperscalers before and provides the infrastructure for TikTok’s sizable U.S. business.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Over the decades, they actually built core infrastructure capabilities that enabled them to deliver extreme scale and performance as a core part of their cloud infrastructure,” Dekate said.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-payment-and-power"&gt;Payment and power&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But even as the stock market celebrates the deal, key details are missing and questions around power and payment remain.&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;OpenAI has made a string of infrastructure investment announcements over the past year, each one with an eye-popping price tag.&amp;nbsp;OpenAI has committed to spend around $60 billion a year for compute from Oracle and $10 billion to develop custom AI chips with Broadcom.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, OpenAI said in June it hit $10 billion in annual recurring revenue, up from around $5.5 billion last year. That figure includes revenue from the company’s consumer products, ChatGPT business products, and its API. And while its CEO Sam Altman has painted a rosy picture of its future prospects in terms of subscribers, products, and revenue, the company is burning through billions of dollars in cash each year.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Power is another question, or more specifically where the companies plan to source the energy needed to run this level of compute.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Industry observers have been predicting a near-term boost for natural gas, though solar and batteries are arguably better positioned to deliver power sooner and at lower cost in many markets. Tech companies are also betting big on nuclear.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Despite market moving headlines, the energy impact of OpenAI’s anticipated growth isn’t entirely unexpected. Data centers are anticipated to consume 14% of all electricity in the U.S. by 2040, according to a report the Rhodium Group published yesterday.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Compute has always been a constraint for AI companies, so much so that investors have bought thousands of Nvidia chips to ensure their startups have access to the power they need. Andreessen Horowitz has reportedly purchased over 20,000 GPUs, while Nat Friedman and Daniel Gross rented access to a 4,000 GPU cluster (though maybe Meta owns that now).&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But compute is worthless without power. To ensure their data centers remain juiced, large tech companies have been snapping up solar farms, buying nuclear power plants, and inking deals with geothermal startups.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;So far, OpenAI has been relatively quiet on that front. CEO Sam Altman has placed several prominent bets in the energy sector, including Oklo, Helion, and Exowatt, but the company itself hasn’t thrown money into the space like Google, Meta, or Amazon.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;With a 4.5 gigawatt compute deal, that may soon change.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company may play an indirect role, paying Oracle to handle the physical infrastructure — something it has extensive experience with — just as Altman invested in startups aligned with OpenAI’s future power needs. That will leave the company “asset light,” something that will undoubtedly please its investors and help keep its valuation in line with other software-centric AI startups and not with legacy tech firms, which are burdened with pricy infrastructure.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/</guid><pubDate>Fri, 12 Sep 2025 20:01:41 +0000</pubDate></item><item><title>[NEW] Modder injects AI dialogue into 2002’s Animal Crossing using memory hack (AI – Ars Technica)</title><link>https://arstechnica.com/gaming/2025/09/animal-crossing-mod-uses-ai-to-orchestrate-anti-tom-nook-villager-revolt/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Unofficial mod lets classic Nintendo GameCube title use AI chatbots with amusing results.
+      &lt;/p&gt;
+
+      
+    &lt;/div&gt;
+
+    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Artist's impression of the &amp;quot;real&amp;quot; Tom Nook cornered up in a tree." class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/the_real_tom_nook_2-640x360.jpg" width="640" /&gt;
+                  &lt;img alt="Artist's impression of the &amp;quot;real&amp;quot; Tom Nook cornered up in a tree." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/the_real_tom_nook_2-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      Artist's impression of the "real" Tom Nook cornered up in a tree.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          NunyaCarley via Getty Images / Benj Edwards
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;When software engineer Joshua Fonseca recently connected the GameCube simulation classic &lt;em&gt;Animal Crossing&lt;/em&gt; to a modern AI language model like the kind that powers ChatGPT, he decided to shake things up. By programming the AI to roleplay as villagers growing aware of their debt situation, and giving them a shared memory to track conversations, Fonseca orchestrated a scenario where the residents began to organize against their raccoon landlord.&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Animal Crossing&lt;/em&gt;, Tom Nook runs the town shop and provides home loans (paid out in bells, the in-game currency) that keep players perpetually in debt, which is a core mechanic of the game.&lt;/p&gt;
+&lt;p&gt;"Predictably, it escalated into an anti-Tom Nook movement," Fonseca wrote in a detailed post documenting his hack that bridges a 2002 game to cloud-based AI without modifying any game code. While Fonseca frames the uprising as a type of emergent phenomenon in his post and a YouTube video, examination of the source code by AI researcher Simon Willison shows that Fonseca specifically instructed the villagers to behave this way and even escalate the unrest over time.&lt;/p&gt;
+&lt;p&gt;"You are a resident of a town run by Tom Nook. You are beginning to realize your mortgage is exploitative and the economy is unfair," reads the initial prompt. "Discuss this with the player and other villagers when appropriate."&lt;/p&gt;
+&lt;p&gt;Even though Fonseca stacked the deck, so to speak, it's still an interesting technical hack.&lt;/p&gt;
+&lt;figure class="ars-video"&gt;&lt;div class="relative"&gt;&lt;/div&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      "I Replaced &lt;em&gt;Animal Crossing'&lt;/em&gt;s Dialogue with AI by Hacking GameCube Memory"
+
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;After connecting the simulated villagers to a real-world newsfeed to provide context, characters began relating headlines in casual conversation, which the developer found surreal. One villager named Mitzi suddenly announced, "About the news? European leaders are planning to meet with Trump and Zelenskyy!" Another delivered a humorous simulation of self-awareness: "Oh my gosh, Josh! I just had the weirdest dream, like, everything we do is a game! Arfer!"&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;As amusing as this type of mod is, it's worth remembering that large language models are always playing roles prompted by humans, pulling statistically plausible outputs from training data that researchers fed into their neural networks when they created or later fine-tuned them.&lt;/p&gt;
+&lt;h2&gt;Hacking a pre-Internet console&lt;/h2&gt;
+&lt;p&gt;Making this amusing amalgam of past and present technology possible required some clever engineering. The technical feat Fonseca pulled off involves a Python script that monitors the game memory through the Dolphin emulator, sends dialogue context to AI models like GPT-5 or Gemini, and writes the responses back into the GameCube's RAM.&lt;/p&gt;
+&lt;p&gt;The GameCube presented unique obstacles for this project. With its 485 MHz PowerPC processor, 24MB of RAM, and no Internet connectivity (unless you add the Modem or Broadband Adapter), the console was "fundamentally, physically, and philosophically designed to be an offline island," Fonseca notes.&lt;/p&gt;
+&lt;p&gt;His timing proved fortunate. The &lt;em&gt;Animal Crossing&lt;/em&gt; decompilation community had just finished reverse-engineering the game's source code, providing readable C instead of PowerPC assembly. This gave him access to the dialogue system's inner workings through a file called m_message.c. (He considered using the Broadband Adapter, but it would have added many layers of additional complexity to the project.)&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;figure class="ars-wp-img-shortcode id-2116850 align-center"&gt;
+    &lt;div&gt;
+                        &lt;img alt="A screenshot of LLM-powered dialog injected into Animal Crossing for the GameCube." class="center large" height="576" src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Modern-AI-in-24-Year-Old-Game-Screenshot-3-1024x576.png" width="1024" /&gt;
+                  &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      A screenshot of LLM-powered dialogue injected into &lt;em&gt;Animal Crossing&lt;/em&gt; for the GameCube.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Joshua Fonseca
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;Rather than write an entire network stack for the GameCube from scratch, Fonseca implemented what he calls a "memory mailbox." This classic game modding technique uses specific RAM addresses as communication channels. His Python script writes directly to GameCube memory through Dolphin while the game reads from those same locations.&lt;/p&gt;
+&lt;p&gt;Finding these addresses required what Fonseca describes as becoming a "memory archaeologist." He wrote a custom scanner and spent hours in a loop: talk to a villager, freeze the emulator when dialogue appeared, scan all 24 million bytes of RAM for the text string, then cross-reference with different villagers. He eventually located the speaker's name and dialogue buffer at specific addresses.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;But discovering the addresses was only half the problem. When you talk to a villager in &lt;em&gt;Animal Crossing&lt;/em&gt;, the game normally displays dialogue instantly. Calling an AI model over the Internet takes several seconds. Willison examined the code and found Fonseca's solution: a watch_dialogue() function that polls memory 10 times per second. When it detects a conversation starting, it immediately writes placeholder text: three dots with hidden pause commands between them, followed by a "Press A to continue" prompt.&lt;/p&gt;
+&lt;p&gt;"So the user gets a 'press A to continue' button and hopefully the LLM has finished by the time they press that button," Willison noted in a Hacker News comment. While players watch dots appear and reach for the A button, the mod races to get a response from the AI model and translate it into the game's dialog format.&lt;/p&gt;
+&lt;h2&gt;Learning the game’s secret language&lt;/h2&gt;
+&lt;p&gt;Simply writing text to memory froze the game. &lt;em&gt;Animal Crossing&lt;/em&gt; uses an encoded format with control codes that manage everything from text color to character emotions. A special prefix byte (0x7F) signals commands rather than characters. Without the proper end-of-conversation control code, the game waits forever.&lt;/p&gt;
+&lt;p&gt;"Think of it like HTML," Fonseca explains. "Your browser doesn't just display words; it interprets tags ... to make text bold." The decompilation community had documented these codes, allowing Fonseca to build encoder and decoder tools that translate between a human-readable format and the GameCube's expected byte sequences.&lt;/p&gt;
+&lt;figure class="ars-wp-img-shortcode id-2116853 align-center"&gt;
+    &lt;div&gt;
+                        &lt;img alt="A screenshot of LLM-powered dialog injected into Animal Crossing for the GameCube." class="center large" height="576" src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Modern-AI-in-24-Year-Old-Game-Screenshot-2-1024x576.png" width="1024" /&gt;
+                  &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      A screenshot of LLM-powered dialog injected into &lt;em&gt;Animal Crossing&lt;/em&gt; for the GameCube.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Joshua Fonseca
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;Initially, he tried using a single AI model to handle both creative writing and technical formatting. "The results were a mess," he notes. "The AI was trying to be a creative writer and a technical programmer simultaneously and was bad at both."&lt;/p&gt;
+&lt;p&gt;The solution: split the work between two models. A Writer AI creates dialogue using character sheets scraped from the &lt;em&gt;Animal Crossing&lt;/em&gt; fan wiki. A Director AI then adds technical elements, including pauses, color changes, character expressions, and sound effects.&lt;/p&gt;
+&lt;p&gt;The code is available on GitHub, though Fonseca warns it contains known bugs and has only been tested on macOS. The mod requires Python 3.8+, API keys for either Google Gemini or OpenAI, and Dolphin emulator. Have fun sticking it to the man—or the raccoon, as the case may be.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Unofficial mod lets classic Nintendo GameCube title use AI chatbots with amusing results.
+      &lt;/p&gt;
+
+      
+    &lt;/div&gt;
+
+    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Artist's impression of the &amp;quot;real&amp;quot; Tom Nook cornered up in a tree." class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/the_real_tom_nook_2-640x360.jpg" width="640" /&gt;
+                  &lt;img alt="Artist's impression of the &amp;quot;real&amp;quot; Tom Nook cornered up in a tree." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/the_real_tom_nook_2-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      Artist's impression of the "real" Tom Nook cornered up in a tree.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          NunyaCarley via Getty Images / Benj Edwards
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;When software engineer Joshua Fonseca recently connected the GameCube simulation classic &lt;em&gt;Animal Crossing&lt;/em&gt; to a modern AI language model like the kind that powers ChatGPT, he decided to shake things up. By programming the AI to roleplay as villagers growing aware of their debt situation, and giving them a shared memory to track conversations, Fonseca orchestrated a scenario where the residents began to organize against their raccoon landlord.&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Animal Crossing&lt;/em&gt;, Tom Nook runs the town shop and provides home loans (paid out in bells, the in-game currency) that keep players perpetually in debt, which is a core mechanic of the game.&lt;/p&gt;
+&lt;p&gt;"Predictably, it escalated into an anti-Tom Nook movement," Fonseca wrote in a detailed post documenting his hack that bridges a 2002 game to cloud-based AI without modifying any game code. While Fonseca frames the uprising as a type of emergent phenomenon in his post and a YouTube video, examination of the source code by AI researcher Simon Willison shows that Fonseca specifically instructed the villagers to behave this way and even escalate the unrest over time.&lt;/p&gt;
+&lt;p&gt;"You are a resident of a town run by Tom Nook. You are beginning to realize your mortgage is exploitative and the economy is unfair," reads the initial prompt. "Discuss this with the player and other villagers when appropriate."&lt;/p&gt;
+&lt;p&gt;Even though Fonseca stacked the deck, so to speak, it's still an interesting technical hack.&lt;/p&gt;
+&lt;figure class="ars-video"&gt;&lt;div class="relative"&gt;&lt;/div&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      "I Replaced &lt;em&gt;Animal Crossing'&lt;/em&gt;s Dialogue with AI by Hacking GameCube Memory"
+
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;After connecting the simulated villagers to a real-world newsfeed to provide context, characters began relating headlines in casual conversation, which the developer found surreal. One villager named Mitzi suddenly announced, "About the news? European leaders are planning to meet with Trump and Zelenskyy!" Another delivered a humorous simulation of self-awareness: "Oh my gosh, Josh! I just had the weirdest dream, like, everything we do is a game! Arfer!"&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;As amusing as this type of mod is, it's worth remembering that large language models are always playing roles prompted by humans, pulling statistically plausible outputs from training data that researchers fed into their neural networks when they created or later fine-tuned them.&lt;/p&gt;
+&lt;h2&gt;Hacking a pre-Internet console&lt;/h2&gt;
+&lt;p&gt;Making this amusing amalgam of past and present technology possible required some clever engineering. The technical feat Fonseca pulled off involves a Python script that monitors the game memory through the Dolphin emulator, sends dialogue context to AI models like GPT-5 or Gemini, and writes the responses back into the GameCube's RAM.&lt;/p&gt;
+&lt;p&gt;The GameCube presented unique obstacles for this project. With its 485 MHz PowerPC processor, 24MB of RAM, and no Internet connectivity (unless you add the Modem or Broadband Adapter), the console was "fundamentally, physically, and philosophically designed to be an offline island," Fonseca notes.&lt;/p&gt;
+&lt;p&gt;His timing proved fortunate. The &lt;em&gt;Animal Crossing&lt;/em&gt; decompilation community had just finished reverse-engineering the game's source code, providing readable C instead of PowerPC assembly. This gave him access to the dialogue system's inner workings through a file called m_message.c. (He considered using the Broadband Adapter, but it would have added many layers of additional complexity to the project.)&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;figure class="ars-wp-img-shortcode id-2116850 align-center"&gt;
+    &lt;div&gt;
+                        &lt;img alt="A screenshot of LLM-powered dialog injected into Animal Crossing for the GameCube." class="center large" height="576" src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Modern-AI-in-24-Year-Old-Game-Screenshot-3-1024x576.png" width="1024" /&gt;
+                  &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      A screenshot of LLM-powered dialogue injected into &lt;em&gt;Animal Crossing&lt;/em&gt; for the GameCube.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Joshua Fonseca
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;Rather than write an entire network stack for the GameCube from scratch, Fonseca implemented what he calls a "memory mailbox." This classic game modding technique uses specific RAM addresses as communication channels. His Python script writes directly to GameCube memory through Dolphin while the game reads from those same locations.&lt;/p&gt;
+&lt;p&gt;Finding these addresses required what Fonseca describes as becoming a "memory archaeologist." He wrote a custom scanner and spent hours in a loop: talk to a villager, freeze the emulator when dialogue appeared, scan all 24 million bytes of RAM for the text string, then cross-reference with different villagers. He eventually located the speaker's name and dialogue buffer at specific addresses.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;But discovering the addresses was only half the problem. When you talk to a villager in &lt;em&gt;Animal Crossing&lt;/em&gt;, the game normally displays dialogue instantly. Calling an AI model over the Internet takes several seconds. Willison examined the code and found Fonseca's solution: a watch_dialogue() function that polls memory 10 times per second. When it detects a conversation starting, it immediately writes placeholder text: three dots with hidden pause commands between them, followed by a "Press A to continue" prompt.&lt;/p&gt;
+&lt;p&gt;"So the user gets a 'press A to continue' button and hopefully the LLM has finished by the time they press that button," Willison noted in a Hacker News comment. While players watch dots appear and reach for the A button, the mod races to get a response from the AI model and translate it into the game's dialog format.&lt;/p&gt;
+&lt;h2&gt;Learning the game’s secret language&lt;/h2&gt;
+&lt;p&gt;Simply writing text to memory froze the game. &lt;em&gt;Animal Crossing&lt;/em&gt; uses an encoded format with control codes that manage everything from text color to character emotions. A special prefix byte (0x7F) signals commands rather than characters. Without the proper end-of-conversation control code, the game waits forever.&lt;/p&gt;
+&lt;p&gt;"Think of it like HTML," Fonseca explains. "Your browser doesn't just display words; it interprets tags ... to make text bold." The decompilation community had documented these codes, allowing Fonseca to build encoder and decoder tools that translate between a human-readable format and the GameCube's expected byte sequences.&lt;/p&gt;
+&lt;figure class="ars-wp-img-shortcode id-2116853 align-center"&gt;
+    &lt;div&gt;
+                        &lt;img alt="A screenshot of LLM-powered dialog injected into Animal Crossing for the GameCube." class="center large" height="576" src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Modern-AI-in-24-Year-Old-Game-Screenshot-2-1024x576.png" width="1024" /&gt;
+                  &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      A screenshot of LLM-powered dialog injected into &lt;em&gt;Animal Crossing&lt;/em&gt; for the GameCube.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Joshua Fonseca
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;Initially, he tried using a single AI model to handle both creative writing and technical formatting. "The results were a mess," he notes. "The AI was trying to be a creative writer and a technical programmer simultaneously and was bad at both."&lt;/p&gt;
+&lt;p&gt;The solution: split the work between two models. A Writer AI creates dialogue using character sheets scraped from the &lt;em&gt;Animal Crossing&lt;/em&gt; fan wiki. A Director AI then adds technical elements, including pauses, color changes, character expressions, and sound effects.&lt;/p&gt;
+&lt;p&gt;The code is available on GitHub, though Fonseca warns it contains known bugs and has only been tested on macOS. The mod requires Python 3.8+, API keys for either Google Gemini or OpenAI, and Dolphin emulator. Have fun sticking it to the man—or the raccoon, as the case may be.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/gaming/2025/09/animal-crossing-mod-uses-ai-to-orchestrate-anti-tom-nook-villager-revolt/</guid><pubDate>Fri, 12 Sep 2025 21:36:48 +0000</pubDate></item></channel></rss>
