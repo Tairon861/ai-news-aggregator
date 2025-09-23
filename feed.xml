@@ -1,585 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 23 Sep 2025 06:32:09 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’ (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/openai-nvidia/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute with multi-gigawatt data centers powered by millions of NVIDIA GPUs.&lt;/p&gt;
-&lt;p&gt;To discuss what this means for the next generation of AI development and deployment, the two companies’ CEOs, and the president of OpenAI, spoke this morning with CNBC’s Jon Fortt.&lt;/p&gt;
-&lt;p&gt;“This is the biggest AI infrastructure project in history,” said NVIDIA founder and CEO Jensen Huang in the interview. “This partnership is about building an AI infrastructure that enables AI to go from the labs into the world.”&lt;/p&gt;
-&lt;p&gt;Through the partnership, OpenAI will deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure, including the NVIDIA Vera Rubin platform. NVIDIA also intends to invest up to $100 billion in OpenAI progressively as each gigawatt is deployed.&lt;/p&gt;
-&lt;p&gt;“There’s no partner but NVIDIA that can do this at this kind of scale, at this kind of speed,” said Sam Altman, CEO of OpenAI.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignright size-large wp-image-85178" height="672" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/OAI_Altmanquote-1680x672.jpg" width="1680" /&gt;&lt;/p&gt;
-&lt;p&gt;The million-GPU AI factories built through this agreement will help OpenAI meet the training and inference demands of its next frontier of AI models.&lt;/p&gt;
-&lt;p&gt;“Building this infrastructure is critical to everything we want to do,” Altman said. “This is the fuel that we need to drive improvement, drive better models, drive revenue, drive everything.”&lt;/p&gt;
-&lt;figure class="wp-caption aligncenter" id="attachment_85172"&gt;&lt;img alt="alt" class="wp-image-85172 size-large" height="945" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/jhh-oai-announce-sep25-press-1920x1080-1504-1680x945.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-85172"&gt;(L to R): OpenAI President Greg Brockman, NVIDIA Founder and CEO Jensen Huang, and OpenAI CEO Sam Altman&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2&gt;&lt;b&gt;Building Million-GPU Infrastructure to Meet AI Demand&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;Since the launch of OpenAI’s ChatGPT — which in 2022 became the fastest application in history to reach 100 million users — the company has grown its user base to more than 700 million weekly active users and delivered increasingly advanced capabilities, including support for agentic AI, AI reasoning, multimodal data and longer context windows.&lt;/p&gt;
-&lt;p&gt;To support its next phase of growth, the company’s AI infrastructure must scale up to meet not only training but inference demands of the most advanced models for&amp;nbsp; agentic and reasoning AI users worldwide.&lt;/p&gt;
-&lt;p&gt;“The cost per unit of intelligence will keep falling and falling and falling, and we think that’s great,” said Altman. “But on the other side, the frontier of AI, maximum intellectual capability, is going up and up. And that enables more and more use — and a lot of it.”&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-full wp-image-85184" height="510" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/SamAltman-Quote.png" width="1020" /&gt;&lt;/p&gt;
-&lt;p&gt;Without enough computational resources, Altman explained, people would have to choose between impactful use cases, for example either researching a cancer cure or offering free education.&lt;/p&gt;
-&lt;p&gt;“No one wants to make that choice,” he said. “And so increasingly, as we see this, the answer is just much more capacity so that we can serve the massive need and opportunity.”&lt;/p&gt;
-&lt;figure class="wp-caption alignright" id="attachment_34361"&gt;&lt;img alt="NVIDIA CEO opens the GPU tray on DGX-1 presented to OpenAI in San Francisco." class="wp-image-34361" height="493" src="https://blogs.nvidia.com/wp-content/uploads/2016/08/15OpenAI_inside_tray_cropped.jpg" width="400" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-34361"&gt;In 2016, NVIDIA CEO Jensen Huang hand-delivered the first NVIDIA DGX system to OpenAI’s headquarters in San Francisco.&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;The first gigawatt of NVIDIA systems built with NVIDIA Vera Rubin GPUs will generate their first tokens in the second half of 2026.&lt;/p&gt;
-&lt;p&gt;The partnership expands on a long-standing collaboration between NVIDIA and OpenAI, which began with Huang hand-delivering the first NVIDIA DGX system to the company in 2016.&lt;/p&gt;
-&lt;p&gt;“This is a billion times more computational power than that initial server,” said Greg Brockman, president of OpenAI. “We’re able to actually create new breakthroughs, new models…to empower every individual and business because we’ll be able to reach the next level of scale.”&lt;/p&gt;
-&lt;p&gt;Huang emphasized that though this is the start of a massive buildout of AI infrastructure around the world, it’s just the beginning.&lt;/p&gt;
-&lt;p&gt;“We’re literally going to connect intelligence to every application, to every use case, to every device — and we’re just at the beginning,” Huang said. “This is the first 10 gigawatts, I assure you of that.”&lt;/p&gt;
-&lt;p&gt;Watch the CNBC interview below.&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-
-		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</description><content:encoded>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute with multi-gigawatt data centers powered by millions of NVIDIA GPUs.&lt;/p&gt;
-&lt;p&gt;To discuss what this means for the next generation of AI development and deployment, the two companies’ CEOs, and the president of OpenAI, spoke this morning with CNBC’s Jon Fortt.&lt;/p&gt;
-&lt;p&gt;“This is the biggest AI infrastructure project in history,” said NVIDIA founder and CEO Jensen Huang in the interview. “This partnership is about building an AI infrastructure that enables AI to go from the labs into the world.”&lt;/p&gt;
-&lt;p&gt;Through the partnership, OpenAI will deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure, including the NVIDIA Vera Rubin platform. NVIDIA also intends to invest up to $100 billion in OpenAI progressively as each gigawatt is deployed.&lt;/p&gt;
-&lt;p&gt;“There’s no partner but NVIDIA that can do this at this kind of scale, at this kind of speed,” said Sam Altman, CEO of OpenAI.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignright size-large wp-image-85178" height="672" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/OAI_Altmanquote-1680x672.jpg" width="1680" /&gt;&lt;/p&gt;
-&lt;p&gt;The million-GPU AI factories built through this agreement will help OpenAI meet the training and inference demands of its next frontier of AI models.&lt;/p&gt;
-&lt;p&gt;“Building this infrastructure is critical to everything we want to do,” Altman said. “This is the fuel that we need to drive improvement, drive better models, drive revenue, drive everything.”&lt;/p&gt;
-&lt;figure class="wp-caption aligncenter" id="attachment_85172"&gt;&lt;img alt="alt" class="wp-image-85172 size-large" height="945" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/jhh-oai-announce-sep25-press-1920x1080-1504-1680x945.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-85172"&gt;(L to R): OpenAI President Greg Brockman, NVIDIA Founder and CEO Jensen Huang, and OpenAI CEO Sam Altman&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2&gt;&lt;b&gt;Building Million-GPU Infrastructure to Meet AI Demand&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;Since the launch of OpenAI’s ChatGPT — which in 2022 became the fastest application in history to reach 100 million users — the company has grown its user base to more than 700 million weekly active users and delivered increasingly advanced capabilities, including support for agentic AI, AI reasoning, multimodal data and longer context windows.&lt;/p&gt;
-&lt;p&gt;To support its next phase of growth, the company’s AI infrastructure must scale up to meet not only training but inference demands of the most advanced models for&amp;nbsp; agentic and reasoning AI users worldwide.&lt;/p&gt;
-&lt;p&gt;“The cost per unit of intelligence will keep falling and falling and falling, and we think that’s great,” said Altman. “But on the other side, the frontier of AI, maximum intellectual capability, is going up and up. And that enables more and more use — and a lot of it.”&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-full wp-image-85184" height="510" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/SamAltman-Quote.png" width="1020" /&gt;&lt;/p&gt;
-&lt;p&gt;Without enough computational resources, Altman explained, people would have to choose between impactful use cases, for example either researching a cancer cure or offering free education.&lt;/p&gt;
-&lt;p&gt;“No one wants to make that choice,” he said. “And so increasingly, as we see this, the answer is just much more capacity so that we can serve the massive need and opportunity.”&lt;/p&gt;
-&lt;figure class="wp-caption alignright" id="attachment_34361"&gt;&lt;img alt="NVIDIA CEO opens the GPU tray on DGX-1 presented to OpenAI in San Francisco." class="wp-image-34361" height="493" src="https://blogs.nvidia.com/wp-content/uploads/2016/08/15OpenAI_inside_tray_cropped.jpg" width="400" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-34361"&gt;In 2016, NVIDIA CEO Jensen Huang hand-delivered the first NVIDIA DGX system to OpenAI’s headquarters in San Francisco.&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;The first gigawatt of NVIDIA systems built with NVIDIA Vera Rubin GPUs will generate their first tokens in the second half of 2026.&lt;/p&gt;
-&lt;p&gt;The partnership expands on a long-standing collaboration between NVIDIA and OpenAI, which began with Huang hand-delivering the first NVIDIA DGX system to the company in 2016.&lt;/p&gt;
-&lt;p&gt;“This is a billion times more computational power than that initial server,” said Greg Brockman, president of OpenAI. “We’re able to actually create new breakthroughs, new models…to empower every individual and business because we’ll be able to reach the next level of scale.”&lt;/p&gt;
-&lt;p&gt;Huang emphasized that though this is the start of a massive buildout of AI infrastructure around the world, it’s just the beginning.&lt;/p&gt;
-&lt;p&gt;“We’re literally going to connect intelligence to every application, to every use case, to every device — and we’re just at the beginning,” Huang said. “This is the first 10 gigawatts, I assure you of that.”&lt;/p&gt;
-&lt;p&gt;Watch the CNBC interview below.&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-
-		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/openai-nvidia/</guid><pubDate>Mon, 22 Sep 2025 18:38:58 +0000</pubDate></item><item><title>Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Ahead of the curve — he practically lives there. Before most of the world had even asked ChatGPT its first question, &lt;strong&gt;Elad Gil&lt;/strong&gt; was writing early checks into companies like Perplexity, Character.AI, and Harvey. That’s just a slice of his story. His track record spans seed and Series A investments in over 30 unicorns and involvement with some of the most iconic names in tech, including Stripe, Airbnb, Coinbase, Instacart, Notion, Figma, Flexport, GitLab, and many more.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This October, Gil takes the &lt;strong&gt;Disrupt Stage&lt;/strong&gt; at &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt; in San Francisco for a one-on-one fireside chat. He’ll cover his approach to spotting breakout potential early, decoding emerging markets, and what’s next across AI, crypto, health tech, and enterprise SaaS.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Register now before September 26, 11:59 p.m., to save up to $668 on your pass!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Elad Gil" class="wp-image-3034899" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/TC25_-Elad-Gil-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-why-this-session-matters"&gt;Why this session matters&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;With operating experience at Google and Twitter, multiple founder wins, and a portfolio reading like a who’s who of tech success stories, Gil blends operator empathy with investor clarity. His bestselling book &lt;em&gt;High Growth Handbook&lt;/em&gt; is required reading for startup leaders scaling fast, and his ability to predict market shifts is second to none.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In this conversation, he’ll go deep on early-stage investing, frontier technologies, and what it takes to build a category-defining company — from the inside out. &lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-early-insights-from-a-silicon-valley-powerhouse"&gt;Early insights from a Silicon Valley powerhouse&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Join 10,000+ startup and VC leaders October 27–29 at Moscone West in San Francisco. From headline-making sessions to hands-on networking, Disrupt is where the future of tech gets built — and this fireside with Elad Gil is a rare opportunity to learn from one of Silicon Valley’s most prolific investors. &lt;strong&gt;Register here to save up to $668&lt;/strong&gt; with Regular Bird pricing before rates increase on September 26, 11:59 p.m. PT.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Ahead of the curve — he practically lives there. Before most of the world had even asked ChatGPT its first question, &lt;strong&gt;Elad Gil&lt;/strong&gt; was writing early checks into companies like Perplexity, Character.AI, and Harvey. That’s just a slice of his story. His track record spans seed and Series A investments in over 30 unicorns and involvement with some of the most iconic names in tech, including Stripe, Airbnb, Coinbase, Instacart, Notion, Figma, Flexport, GitLab, and many more.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This October, Gil takes the &lt;strong&gt;Disrupt Stage&lt;/strong&gt; at &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt; in San Francisco for a one-on-one fireside chat. He’ll cover his approach to spotting breakout potential early, decoding emerging markets, and what’s next across AI, crypto, health tech, and enterprise SaaS.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Register now before September 26, 11:59 p.m., to save up to $668 on your pass!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Elad Gil" class="wp-image-3034899" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/TC25_-Elad-Gil-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-why-this-session-matters"&gt;Why this session matters&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;With operating experience at Google and Twitter, multiple founder wins, and a portfolio reading like a who’s who of tech success stories, Gil blends operator empathy with investor clarity. His bestselling book &lt;em&gt;High Growth Handbook&lt;/em&gt; is required reading for startup leaders scaling fast, and his ability to predict market shifts is second to none.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In this conversation, he’ll go deep on early-stage investing, frontier technologies, and what it takes to build a category-defining company — from the inside out. &lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-early-insights-from-a-silicon-valley-powerhouse"&gt;Early insights from a Silicon Valley powerhouse&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Join 10,000+ startup and VC leaders October 27–29 at Moscone West in San Francisco. From headline-making sessions to hands-on networking, Disrupt is where the future of tech gets built — and this fireside with Elad Gil is a rare opportunity to learn from one of Silicon Valley’s most prolific investors. &lt;strong&gt;Register here to save up to $668&lt;/strong&gt; with Regular Bird pricing before rates increase on September 26, 11:59 p.m. PT.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/</guid><pubDate>Mon, 22 Sep 2025 19:00:00 +0000</pubDate></item><item><title>MIT affiliates win AI for Math grants to accelerate mathematical discovery (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202509/mit-mathematics-roe-sutherland.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;MIT Department of Mathematics researchers David Roe ’06 and Andrew Sutherland ’90, PhD ’07 are among the inaugural recipients of the Renaissance Philanthropy and XTX Markets’ AI for Math grants.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Four additional MIT alumni — Anshula Gandhi ’19, Viktor Kunčak SM ’01, PhD ’07; Gireeja Ranade ’07; and Damiano Testa PhD ’05 — were also honored for separate projects.&lt;/p&gt;&lt;p&gt;The first 29 winning projects will support mathematicians and researchers at universities and organizations working to develop artificial intelligence systems that help advance mathematical discovery and research across several key tasks.&lt;/p&gt;&lt;p&gt;Roe and Sutherland, along with&amp;nbsp;Chris Birkbeck&amp;nbsp;of the University of East Anglia,&amp;nbsp;will use their grant&amp;nbsp;to boost automated theorem proving by building connections between the&amp;nbsp;L-Functions and Modular Forms Database&amp;nbsp;(LMFDB) and the&amp;nbsp;Lean4 mathematics library&amp;nbsp;(mathlib).&lt;/p&gt;&lt;p&gt;“Automated theorem provers are quite technically involved, but their development is under-resourced,” says&amp;nbsp;Sutherland. With AI technologies such as large language models (LLMs), the barrier to entry for these formal tools is dropping rapidly, making formal verification frameworks accessible to working mathematicians.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Mathlib is a large, community-driven mathematical library for the&amp;nbsp;Lean&amp;nbsp;theorem prover, a formal system that verifies the correctness of every step in a proof.&amp;nbsp;Mathlib currently contains on the order of 10&lt;sup&gt;5&lt;/sup&gt; mathematical results (such as lemmas, propositions, and theorems). The LMFDB,&amp;nbsp;a massive, collaborative online resource that serves as a kind of “encyclopedia” of modern number theory,&amp;nbsp;contains more than 10&lt;sup&gt;9&lt;/sup&gt; concrete statements.&amp;nbsp;Sutherland&amp;nbsp;and Roe are managing editors of the LMFDB.&lt;/p&gt;&lt;p&gt;Roe and Sutherland’s grant will be used for a&amp;nbsp;project that aims to augment both systems, making the LMFDB’s results available within mathlib as assertions that have not yet been formally proved, and providing precise formal definitions of the numerical data stored within the LMFDB. This bridge will benefit both human mathematicians and AI agents, and provide a framework for connecting other mathematical databases to formal theorem-proving systems.&lt;/p&gt;&lt;p&gt;The main obstacles to automating mathematical discovery and proof are the limited amount of formalized math knowledge, the high cost of formalizing complex results, and the gap between what is computationally accessible and what is feasible to formalize.&lt;/p&gt;&lt;p&gt;To address these obstacles, the researchers will use the funding to build tools for accessing the LMFDB from mathlib, making a large database of unformalized mathematical knowledge accessible to a formal proof system. This approach enables proof assistants to identify specific targets for formalization without the need to formalize the entire LMFDB corpus in advance.&lt;/p&gt;&lt;p&gt;“Making a large database of unformalized number-theoretic facts available within mathlib will provide a powerful technique for mathematical discovery, because the set of facts an agent might wish to consider while searching for a theorem or proof is exponentially larger than the set of facts that eventually need to be formalized in actually proving the theorem,” says Roe.&lt;/p&gt;&lt;p&gt;The researchers note that proving new theorems at the frontier of mathematical knowledge often&amp;nbsp;involves steps that rely on a nontrivial computation. For example, Andrew Wiles’ proof of Fermat’s Last Theorem uses what is known as the “3-5 trick” at a crucial point in the proof.&lt;/p&gt;&lt;p&gt;“This trick depends on the fact that the modular curve X_0(15) has only finitely many rational points, and none of those rational points correspond to a semi-stable elliptic curve,” according to&amp;nbsp;Sutherland. “This fact was known well before Wiles’ work, and is easy to verify using computational tools available in modern computer algebra systems, but it is not something one can realistically prove using pencil and paper, nor is it necessarily easy to formalize.”&lt;/p&gt;&lt;p&gt;While formal theorem provers are being connected to computer algebra systems for more efficient verification, tapping into computational outputs in existing mathematical databases offers several other benefits.&lt;/p&gt;&lt;p&gt;Using stored results leverages the thousands of CPU-years of computation time already spent in creating the LMFDB, saving money that would be needed to redo these computations. Having precomputed information available also makes it feasible to search for examples or counterexamples without knowing ahead of time how broad the search can be. In addition, mathematical databases are curated repositories, not simply a random collection of facts.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“The fact that number theorists emphasized the role of the conductor in databases of elliptic curves has already proved to be crucial to one notable mathematical discovery made using machine learning tools:&amp;nbsp;murmurations,” says&amp;nbsp;Sutherland.&lt;/p&gt;&lt;p&gt;“Our next steps are to build a team, engage with both the LMFDB and mathlib communities, start to formalize the definitions that underpin the elliptic curve, number field, and modular form sections of the LMFDB, and make it possible to run LMFDB searches from within mathlib,” says Roe. “If you are an MIT student interested in getting involved, feel free to reach out!”&amp;nbsp;&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202509/mit-mathematics-roe-sutherland.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;MIT Department of Mathematics researchers David Roe ’06 and Andrew Sutherland ’90, PhD ’07 are among the inaugural recipients of the Renaissance Philanthropy and XTX Markets’ AI for Math grants.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Four additional MIT alumni — Anshula Gandhi ’19, Viktor Kunčak SM ’01, PhD ’07; Gireeja Ranade ’07; and Damiano Testa PhD ’05 — were also honored for separate projects.&lt;/p&gt;&lt;p&gt;The first 29 winning projects will support mathematicians and researchers at universities and organizations working to develop artificial intelligence systems that help advance mathematical discovery and research across several key tasks.&lt;/p&gt;&lt;p&gt;Roe and Sutherland, along with&amp;nbsp;Chris Birkbeck&amp;nbsp;of the University of East Anglia,&amp;nbsp;will use their grant&amp;nbsp;to boost automated theorem proving by building connections between the&amp;nbsp;L-Functions and Modular Forms Database&amp;nbsp;(LMFDB) and the&amp;nbsp;Lean4 mathematics library&amp;nbsp;(mathlib).&lt;/p&gt;&lt;p&gt;“Automated theorem provers are quite technically involved, but their development is under-resourced,” says&amp;nbsp;Sutherland. With AI technologies such as large language models (LLMs), the barrier to entry for these formal tools is dropping rapidly, making formal verification frameworks accessible to working mathematicians.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Mathlib is a large, community-driven mathematical library for the&amp;nbsp;Lean&amp;nbsp;theorem prover, a formal system that verifies the correctness of every step in a proof.&amp;nbsp;Mathlib currently contains on the order of 10&lt;sup&gt;5&lt;/sup&gt; mathematical results (such as lemmas, propositions, and theorems). The LMFDB,&amp;nbsp;a massive, collaborative online resource that serves as a kind of “encyclopedia” of modern number theory,&amp;nbsp;contains more than 10&lt;sup&gt;9&lt;/sup&gt; concrete statements.&amp;nbsp;Sutherland&amp;nbsp;and Roe are managing editors of the LMFDB.&lt;/p&gt;&lt;p&gt;Roe and Sutherland’s grant will be used for a&amp;nbsp;project that aims to augment both systems, making the LMFDB’s results available within mathlib as assertions that have not yet been formally proved, and providing precise formal definitions of the numerical data stored within the LMFDB. This bridge will benefit both human mathematicians and AI agents, and provide a framework for connecting other mathematical databases to formal theorem-proving systems.&lt;/p&gt;&lt;p&gt;The main obstacles to automating mathematical discovery and proof are the limited amount of formalized math knowledge, the high cost of formalizing complex results, and the gap between what is computationally accessible and what is feasible to formalize.&lt;/p&gt;&lt;p&gt;To address these obstacles, the researchers will use the funding to build tools for accessing the LMFDB from mathlib, making a large database of unformalized mathematical knowledge accessible to a formal proof system. This approach enables proof assistants to identify specific targets for formalization without the need to formalize the entire LMFDB corpus in advance.&lt;/p&gt;&lt;p&gt;“Making a large database of unformalized number-theoretic facts available within mathlib will provide a powerful technique for mathematical discovery, because the set of facts an agent might wish to consider while searching for a theorem or proof is exponentially larger than the set of facts that eventually need to be formalized in actually proving the theorem,” says Roe.&lt;/p&gt;&lt;p&gt;The researchers note that proving new theorems at the frontier of mathematical knowledge often&amp;nbsp;involves steps that rely on a nontrivial computation. For example, Andrew Wiles’ proof of Fermat’s Last Theorem uses what is known as the “3-5 trick” at a crucial point in the proof.&lt;/p&gt;&lt;p&gt;“This trick depends on the fact that the modular curve X_0(15) has only finitely many rational points, and none of those rational points correspond to a semi-stable elliptic curve,” according to&amp;nbsp;Sutherland. “This fact was known well before Wiles’ work, and is easy to verify using computational tools available in modern computer algebra systems, but it is not something one can realistically prove using pencil and paper, nor is it necessarily easy to formalize.”&lt;/p&gt;&lt;p&gt;While formal theorem provers are being connected to computer algebra systems for more efficient verification, tapping into computational outputs in existing mathematical databases offers several other benefits.&lt;/p&gt;&lt;p&gt;Using stored results leverages the thousands of CPU-years of computation time already spent in creating the LMFDB, saving money that would be needed to redo these computations. Having precomputed information available also makes it feasible to search for examples or counterexamples without knowing ahead of time how broad the search can be. In addition, mathematical databases are curated repositories, not simply a random collection of facts.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“The fact that number theorists emphasized the role of the conductor in databases of elliptic curves has already proved to be crucial to one notable mathematical discovery made using machine learning tools:&amp;nbsp;murmurations,” says&amp;nbsp;Sutherland.&lt;/p&gt;&lt;p&gt;“Our next steps are to build a team, engage with both the LMFDB and mathlib communities, start to formalize the definitions that underpin the elliptic curve, number field, and modular form sections of the LMFDB, and make it possible to run LMFDB searches from within mathlib,” says Roe. “If you are an MIT student interested in getting involved, feel free to reach out!”&amp;nbsp;&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/ai-for-math-grants-accelerate-mathematical-discovery-0922</guid><pubDate>Mon, 22 Sep 2025 19:15:00 +0000</pubDate></item><item><title>OpenAI and Nvidia’s $100B AI plan will require power equal to 10 nuclear reactors (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/09/openai-and-nvidias-100b-ai-plan-will-require-power-equal-to-10-nuclear-reactors/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        "This is a giant project," Nvidia CEO said of new 10-gigawatt AI infrastructure deal.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="An orange, cloudy sky backlights a set of electrical wires on large pylons, leading away from the cooling towers of a nuclear power plant." class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1540176964-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="An orange, cloudy sky backlights a set of electrical wires on large pylons, leading away from the cooling towers of a nuclear power plant." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1540176964-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Anton Petrus via Getty Images
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;On Monday, OpenAI and Nvidia jointly announced a letter of intent for a strategic partnership to deploy at least 10 gigawatts of Nvidia systems for OpenAI's AI infrastructure, with Nvidia planning to invest up to $100 billion as the systems roll out. The companies said the first gigawatt of Nvidia systems will come online in the second half of 2026 using Nvidia's Vera Rubin platform.&lt;/p&gt;
-&lt;p&gt;"Everything starts with compute," said Sam Altman, CEO of OpenAI, in the announcement. "Compute infrastructure will be the basis for the economy of the future, and we will utilize what we're building with NVIDIA to both create new AI breakthroughs and empower people and businesses with them at scale."&lt;/p&gt;
-&lt;p&gt;The 10-gigawatt project represents an astoundingly ambitious and as-yet-unproven scale for AI infrastructure. Nvidia CEO Jensen Huang told CNBC that the planned 10 gigawatts equals the power consumption of between 4 million and 5 million graphics processing units, which matches the company's total GPU shipments for this year and doubles last year's volume. "This is a giant project," Huang said in an interview alongside Altman and OpenAI President Greg Brockman.&lt;/p&gt;
-&lt;p&gt;To put that power demand in perspective, 10 gigawatts equals the output of roughly 10 nuclear reactors, which typically output about 1 gigawatt per facility. Current data center energy consumption ranges from 10 megawatts to 1 gigawatt, with most large facilities consuming between 50 and 100 megawatts. OpenAI's planned infrastructure would dwarf existing installations, requiring as much electricity as multiple major cities.&lt;/p&gt;
-&lt;p&gt;The partnership follows OpenAI's rapid user growth to 700 million weekly active users. Nvidia's stock rose nearly 4 percent on Monday following the announcement, adding roughly $170 billion to its market capitalization. The partnership establishes Nvidia as OpenAI's preferred strategic compute and networking partner, alongside OpenAI's existing relationships with Microsoft, Oracle, SoftBank, and the recently announced Stargate project partners.&lt;/p&gt;
-&lt;p&gt;The partnership announcement comes a week after Nvidia disclosed a $5 billion investment in Intel, taking a 4 percent stake in its longtime competitor as the two companies plan to co-develop custom data center and PC products.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Bryn Talkington, managing partner at Requisite Capital Management, noted the circular nature of the investment structure to CNBC. "Nvidia invests $100 billion in OpenAI, which then OpenAI turns back and gives it back to Nvidia," Talkington told CNBC. "I feel like this is going to be very virtuous for Jensen."&lt;/p&gt;
-&lt;h2&gt;Racing for nuclear power&lt;/h2&gt;
-&lt;p&gt;In an August earnings call, Huang told investors that building one gigawatt of data center capacity costs between $50 billion and $60 billion, with about $35 billion going toward Nvidia chips and systems. At that rate, the 10 gigawatt project could require total investment exceeding $500 billion.&lt;/p&gt;
-&lt;p&gt;While the companies did not specify power sources in their announcement, the massive energy requirements have driven other tech giants to nuclear partnerships for similar projects. In September 2024, Microsoft signed a 20-year agreement to restart a Three Mile Island reactor for 835 megawatts, while in May of this year, Amazon Web Services purchased a data center next to Pennsylvania's Susquehanna nuclear plant with plans to use up to 960 megawatts.&lt;/p&gt;
-&lt;p&gt;Other massive AI infrastructure projects are emerging across the US. In July, officials in Cheyenne, Wyoming, announced plans for an AI data center that would eventually scale to 10 gigawatts—consuming more electricity than all homes in the state combined, even in its earliest 1.8 gigawatt phase. Whether it's connected to OpenAI's plans remains unclear.&lt;/p&gt;
-&lt;p&gt;Altman's ambition for mega-sized datacenter deals now stretches back over a year. In September of last year, Constellation Energy CEO Joe Dominguez told Bloomberg he had heard Altman wanted five to seven data centers of 5 gigawatts each. Alex de Vries of Digiconomist told Fortune that seven 5-gigawatt units would have "twice the power consumption of New York State combined."&lt;/p&gt;
-&lt;p&gt;The planned infrastructure buildout would significantly increase global energy consumption, which also raises environmental concerns. The International Energy Agency estimates that global data centers already consumed roughly 1.5 percent of global electricity in 2024. OpenAI's project also faces practical constraints. Existing power grid connections represent bottlenecks in power-constrained markets, with utilities struggling to keep pace with rapid AI expansion that could push global data center electricity demand to 945 terawatt hours by 2030, according to the International Energy Agency.&lt;/p&gt;
-&lt;p&gt;The companies said they expect to finalize details in the coming weeks. Huang told CNBC the $100 billion investment comes on top of all Nvidia's existing commitments and was not included in the company's recent financial forecasts to investors.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        "This is a giant project," Nvidia CEO said of new 10-gigawatt AI infrastructure deal.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="An orange, cloudy sky backlights a set of electrical wires on large pylons, leading away from the cooling towers of a nuclear power plant." class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1540176964-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="An orange, cloudy sky backlights a set of electrical wires on large pylons, leading away from the cooling towers of a nuclear power plant." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1540176964-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Anton Petrus via Getty Images
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;On Monday, OpenAI and Nvidia jointly announced a letter of intent for a strategic partnership to deploy at least 10 gigawatts of Nvidia systems for OpenAI's AI infrastructure, with Nvidia planning to invest up to $100 billion as the systems roll out. The companies said the first gigawatt of Nvidia systems will come online in the second half of 2026 using Nvidia's Vera Rubin platform.&lt;/p&gt;
-&lt;p&gt;"Everything starts with compute," said Sam Altman, CEO of OpenAI, in the announcement. "Compute infrastructure will be the basis for the economy of the future, and we will utilize what we're building with NVIDIA to both create new AI breakthroughs and empower people and businesses with them at scale."&lt;/p&gt;
-&lt;p&gt;The 10-gigawatt project represents an astoundingly ambitious and as-yet-unproven scale for AI infrastructure. Nvidia CEO Jensen Huang told CNBC that the planned 10 gigawatts equals the power consumption of between 4 million and 5 million graphics processing units, which matches the company's total GPU shipments for this year and doubles last year's volume. "This is a giant project," Huang said in an interview alongside Altman and OpenAI President Greg Brockman.&lt;/p&gt;
-&lt;p&gt;To put that power demand in perspective, 10 gigawatts equals the output of roughly 10 nuclear reactors, which typically output about 1 gigawatt per facility. Current data center energy consumption ranges from 10 megawatts to 1 gigawatt, with most large facilities consuming between 50 and 100 megawatts. OpenAI's planned infrastructure would dwarf existing installations, requiring as much electricity as multiple major cities.&lt;/p&gt;
-&lt;p&gt;The partnership follows OpenAI's rapid user growth to 700 million weekly active users. Nvidia's stock rose nearly 4 percent on Monday following the announcement, adding roughly $170 billion to its market capitalization. The partnership establishes Nvidia as OpenAI's preferred strategic compute and networking partner, alongside OpenAI's existing relationships with Microsoft, Oracle, SoftBank, and the recently announced Stargate project partners.&lt;/p&gt;
-&lt;p&gt;The partnership announcement comes a week after Nvidia disclosed a $5 billion investment in Intel, taking a 4 percent stake in its longtime competitor as the two companies plan to co-develop custom data center and PC products.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Bryn Talkington, managing partner at Requisite Capital Management, noted the circular nature of the investment structure to CNBC. "Nvidia invests $100 billion in OpenAI, which then OpenAI turns back and gives it back to Nvidia," Talkington told CNBC. "I feel like this is going to be very virtuous for Jensen."&lt;/p&gt;
-&lt;h2&gt;Racing for nuclear power&lt;/h2&gt;
-&lt;p&gt;In an August earnings call, Huang told investors that building one gigawatt of data center capacity costs between $50 billion and $60 billion, with about $35 billion going toward Nvidia chips and systems. At that rate, the 10 gigawatt project could require total investment exceeding $500 billion.&lt;/p&gt;
-&lt;p&gt;While the companies did not specify power sources in their announcement, the massive energy requirements have driven other tech giants to nuclear partnerships for similar projects. In September 2024, Microsoft signed a 20-year agreement to restart a Three Mile Island reactor for 835 megawatts, while in May of this year, Amazon Web Services purchased a data center next to Pennsylvania's Susquehanna nuclear plant with plans to use up to 960 megawatts.&lt;/p&gt;
-&lt;p&gt;Other massive AI infrastructure projects are emerging across the US. In July, officials in Cheyenne, Wyoming, announced plans for an AI data center that would eventually scale to 10 gigawatts—consuming more electricity than all homes in the state combined, even in its earliest 1.8 gigawatt phase. Whether it's connected to OpenAI's plans remains unclear.&lt;/p&gt;
-&lt;p&gt;Altman's ambition for mega-sized datacenter deals now stretches back over a year. In September of last year, Constellation Energy CEO Joe Dominguez told Bloomberg he had heard Altman wanted five to seven data centers of 5 gigawatts each. Alex de Vries of Digiconomist told Fortune that seven 5-gigawatt units would have "twice the power consumption of New York State combined."&lt;/p&gt;
-&lt;p&gt;The planned infrastructure buildout would significantly increase global energy consumption, which also raises environmental concerns. The International Energy Agency estimates that global data centers already consumed roughly 1.5 percent of global electricity in 2024. OpenAI's project also faces practical constraints. Existing power grid connections represent bottlenecks in power-constrained markets, with utilities struggling to keep pace with rapid AI expansion that could push global data center electricity demand to 945 terawatt hours by 2030, according to the International Energy Agency.&lt;/p&gt;
-&lt;p&gt;The companies said they expect to finalize details in the coming weeks. Huang told CNBC the $100 billion investment comes on top of all Nvidia's existing commitments and was not included in the company's recent financial forecasts to investors.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/09/openai-and-nvidias-100b-ai-plan-will-require-power-equal-to-10-nuclear-reactors/</guid><pubDate>Mon, 22 Sep 2025 19:17:28 +0000</pubDate></item><item><title>The Oakland Ballers let an AI manage the team. What could go wrong? (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/22/the-oakland-ballers-let-an-ai-manage-the-team-what-could-go-wrong/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/09/Oakland-Ballers.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;There’s a classic Simpsons episode in which the sly businessman Mr. Burns recruits real Major League Baseball players to join his company softball team in order to win a bet. But when the championship is on the line, Mr. Burns pulls eight-time National League all-star Darryl Strawberry for a substitute, Homer Simpson.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“You’re a left-hander, and so is the pitcher. If I send up a right-handed batter, it’s called playing the percentages,” Mr. Burns says to Strawberry. “It’s what smart managers do to win ballgames.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;High-level baseball is very mathematically-driven, with teams hiring dozens of data engineers to study granular statistics that can inform managerial decisions. But like Mr. Burns in that Simpsons episode, it’s tempting to overanalyze baseball statistics to the point of absurdity.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Oakland Ballers, an independent Pioneer League baseball team, took that concept of “playing the percentages” to the next level: they let an AI manage the team for a game.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Ballers were founded by edtech entrepreneur Paul Freedman as a salve to the departure of the beloved Oakland A’s, the Major League baseball team that owner John Fisher ripped away from local fans in what’s regarded as one of the most insidious managerial moves in sports history. Though they’re not a Major League team, the Oakland Ballers – coyly, the Oakland B’s – established an unprecedented national community of fans who rallied around the team in protest of the A’s departure. After just two seasons, the Ballers just won Oakland’s first baseball title since 1989.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The Oakland Ballers uniquely have the experience of being like a major league team in a minor league market,” Freedman told TechCrunch. “We can have creative flexibility. We can play with things and experiment with things way before the MLB or NBA or any of those leagues could do something.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Minor league baseball organizations are often called upon to test new technology before it gets implemented in the majors, like challenging calls with instant replay footage or the automated ball-strike system. The Ballers embraced this attitude, especially given Freedman’s own background in tech, but have added in a dash of whimsy, piloting things that would never actually debut in Major League Baseball.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Last year, this meant partnering with Fan Controlled Sports to let fans make managerial decisions during one late season game. The Ballers ended up losing that game, in part because fans advocated for the funniest possible managerial decisions, rather than the savviest – at one point, the fans called upon a pitcher to pinch hit.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This time around, once the team clinched their postseason berth, the Ballers partnered with the AI company Distillery to commission AI software that could manage a baseball game in real time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Baseball is the perfect place to do an initial experiment like this, because it is so data-driven, and decisions are made very analytically,” Freedman told TechCrunch. “You have the pace to be able to do something literally after every pitch.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Distillery trained OpenAI’s ChatGPT on over a century’s worth of baseball data and analytics, including Ballers games, to approximate what decisions Ballers manager Aaron Miles would make.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What the AI did was figure out what our human coach would have done – the ingenuity on strategy and the concepts came from [Miles], and the ability to use the data and recognize patterns… is what the AI did throughout the course of the game,” Freedman said. “So I think the role of human ingenuity is safe for now, and AI is a tool to be deployed to optimize decisions, but not to make them.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The AI-controlled game went smoothly – in fact, the AI made all of the same choices regarding pitching changes, lineup construction, and pinch hitters that Miles would have made. The only time that Miles had to override the AI was to replace the starting catcher with his backup, since he was sick.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Miles took his temporary replacement by AI in stride – perhaps because he knows that his job is not actually in jeopardy. In a video posted to the Ballers’ Instagram, Miles walks to home plate before the game to shake hands with the opposing team’s manager – only instead of offering his own hand, he extends the tablet running the AI out for a handshake.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But the use of AI struck a nerve for Oakland fans, who see companies like OpenAI – which powered Distillery’s baseball AI – as enterprises that prioritize “winning” the AI race over shipping products that have been properly tested for safety. For many fans, the AI experiment felt like a betrayal, similar to the kind of corporate greed that pushed three professional sports franchises out of Oakland in five years.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There goes the Ballers trying to appeal to Bay Area techies instead of baseball fans,” one commenter wrote. “It’s so over for Oakland.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This backlash wasn’t what the Ballers expected, and Freedman does not intend to repeat this AI experiment. But the reaction of the fans models a larger cultural tension in baseball and beyond. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It never feels good to have your fans be like, ‘We hate this,’” Freedman said. “But it’s not a bad thing that there’s more of a conversation about the pluses and minuses of this new technology now, as opposed to like, a decade later when it’s too late.”&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/09/Oakland-Ballers.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;There’s a classic Simpsons episode in which the sly businessman Mr. Burns recruits real Major League Baseball players to join his company softball team in order to win a bet. But when the championship is on the line, Mr. Burns pulls eight-time National League all-star Darryl Strawberry for a substitute, Homer Simpson.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“You’re a left-hander, and so is the pitcher. If I send up a right-handed batter, it’s called playing the percentages,” Mr. Burns says to Strawberry. “It’s what smart managers do to win ballgames.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;High-level baseball is very mathematically-driven, with teams hiring dozens of data engineers to study granular statistics that can inform managerial decisions. But like Mr. Burns in that Simpsons episode, it’s tempting to overanalyze baseball statistics to the point of absurdity.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Oakland Ballers, an independent Pioneer League baseball team, took that concept of “playing the percentages” to the next level: they let an AI manage the team for a game.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Ballers were founded by edtech entrepreneur Paul Freedman as a salve to the departure of the beloved Oakland A’s, the Major League baseball team that owner John Fisher ripped away from local fans in what’s regarded as one of the most insidious managerial moves in sports history. Though they’re not a Major League team, the Oakland Ballers – coyly, the Oakland B’s – established an unprecedented national community of fans who rallied around the team in protest of the A’s departure. After just two seasons, the Ballers just won Oakland’s first baseball title since 1989.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The Oakland Ballers uniquely have the experience of being like a major league team in a minor league market,” Freedman told TechCrunch. “We can have creative flexibility. We can play with things and experiment with things way before the MLB or NBA or any of those leagues could do something.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Minor league baseball organizations are often called upon to test new technology before it gets implemented in the majors, like challenging calls with instant replay footage or the automated ball-strike system. The Ballers embraced this attitude, especially given Freedman’s own background in tech, but have added in a dash of whimsy, piloting things that would never actually debut in Major League Baseball.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Last year, this meant partnering with Fan Controlled Sports to let fans make managerial decisions during one late season game. The Ballers ended up losing that game, in part because fans advocated for the funniest possible managerial decisions, rather than the savviest – at one point, the fans called upon a pitcher to pinch hit.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This time around, once the team clinched their postseason berth, the Ballers partnered with the AI company Distillery to commission AI software that could manage a baseball game in real time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Baseball is the perfect place to do an initial experiment like this, because it is so data-driven, and decisions are made very analytically,” Freedman told TechCrunch. “You have the pace to be able to do something literally after every pitch.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Distillery trained OpenAI’s ChatGPT on over a century’s worth of baseball data and analytics, including Ballers games, to approximate what decisions Ballers manager Aaron Miles would make.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What the AI did was figure out what our human coach would have done – the ingenuity on strategy and the concepts came from [Miles], and the ability to use the data and recognize patterns… is what the AI did throughout the course of the game,” Freedman said. “So I think the role of human ingenuity is safe for now, and AI is a tool to be deployed to optimize decisions, but not to make them.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The AI-controlled game went smoothly – in fact, the AI made all of the same choices regarding pitching changes, lineup construction, and pinch hitters that Miles would have made. The only time that Miles had to override the AI was to replace the starting catcher with his backup, since he was sick.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Miles took his temporary replacement by AI in stride – perhaps because he knows that his job is not actually in jeopardy. In a video posted to the Ballers’ Instagram, Miles walks to home plate before the game to shake hands with the opposing team’s manager – only instead of offering his own hand, he extends the tablet running the AI out for a handshake.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But the use of AI struck a nerve for Oakland fans, who see companies like OpenAI – which powered Distillery’s baseball AI – as enterprises that prioritize “winning” the AI race over shipping products that have been properly tested for safety. For many fans, the AI experiment felt like a betrayal, similar to the kind of corporate greed that pushed three professional sports franchises out of Oakland in five years.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There goes the Ballers trying to appeal to Bay Area techies instead of baseball fans,” one commenter wrote. “It’s so over for Oakland.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This backlash wasn’t what the Ballers expected, and Freedman does not intend to repeat this AI experiment. But the reaction of the fans models a larger cultural tension in baseball and beyond. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It never feels good to have your fans be like, ‘We hate this,’” Freedman said. “But it’s not a bad thing that there’s more of a conversation about the pluses and minuses of this new technology now, as opposed to like, a decade later when it’s too late.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/22/the-oakland-ballers-let-an-ai-manage-the-team-what-could-go-wrong/</guid><pubDate>Mon, 22 Sep 2025 20:15:32 +0000</pubDate></item><item><title>Facebook is getting an AI dating assistant (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/06/robots-love.jpg?resize=1200,704" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Meta announced on Monday that it’s bringing an AI assistant to Facebook Dating.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This chatbot is intended to help users find matches who are more closely tailored to what they are looking for. For example, Meta might suggest users ask it to find “a Brooklyn girl in tech” or a user could ask the AI to help refine their profile.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Meta also says that it’s “helping people avoid swipe fatigue” with a new feature called Meet Cute, which gives users a weekly “surprise match” chosen based on its algorithm.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company says Facebook Dating matches among adults ages 18 to 29 have increased 10% year-over-year growth, with hundreds of thousands of users in that age group creating Facebook Dating profiles each month. That’s small compared to competitors like Tinder, which has about 50 million daily active users, and Hinge’s 10 million daily active users.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AI features have already become the norm in mainstream dating apps. Even newer dating apps like Sitch have attempted to differentiate themselves with their AI features.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Match Group — the owner of Tinder, Hinge, OKCupid, and others — entered a partnership with OpenAI last year, which is part of the dating giant’s $20 million-plus investment in AI. That’s a big bet, especially given the financial struggles of Match Group, which has lost about 68% of its stock price in the last five years.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So far, this investment has produced features like an AI photo selector tool to Tinder, which scans your cameral roll to help choose profile images, as well as AI-powered matching. Hinge has a feature that lets users improve their responses to profile prompts with AI.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bumble has added similar AI features, and founder Whitney Wolfe Herd even ruffled some feathers last year when she suggested that one day, users could have personal “AI concierges” that go on dates with other people’s AI to determine compatibility.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/06/robots-love.jpg?resize=1200,704" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Meta announced on Monday that it’s bringing an AI assistant to Facebook Dating.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This chatbot is intended to help users find matches who are more closely tailored to what they are looking for. For example, Meta might suggest users ask it to find “a Brooklyn girl in tech” or a user could ask the AI to help refine their profile.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Meta also says that it’s “helping people avoid swipe fatigue” with a new feature called Meet Cute, which gives users a weekly “surprise match” chosen based on its algorithm.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company says Facebook Dating matches among adults ages 18 to 29 have increased 10% year-over-year growth, with hundreds of thousands of users in that age group creating Facebook Dating profiles each month. That’s small compared to competitors like Tinder, which has about 50 million daily active users, and Hinge’s 10 million daily active users.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AI features have already become the norm in mainstream dating apps. Even newer dating apps like Sitch have attempted to differentiate themselves with their AI features.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Match Group — the owner of Tinder, Hinge, OKCupid, and others — entered a partnership with OpenAI last year, which is part of the dating giant’s $20 million-plus investment in AI. That’s a big bet, especially given the financial struggles of Match Group, which has lost about 68% of its stock price in the last five years.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So far, this investment has produced features like an AI photo selector tool to Tinder, which scans your cameral roll to help choose profile images, as well as AI-powered matching. Hinge has a feature that lets users improve their responses to profile prompts with AI.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bumble has added similar AI features, and founder Whitney Wolfe Herd even ruffled some feathers last year when she suggested that one day, users could have personal “AI concierges” that go on dates with other people’s AI to determine compatibility.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/</guid><pubDate>Mon, 22 Sep 2025 20:27:06 +0000</pubDate></item><item><title>[NEW] Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Rocket.new, an Indian startup building an AI-powered app development platform, has raised $15 million in a seed round led by Salesforce Ventures to take on viral vibe-coding rivals like Lovable, Cursor, and Bolt by letting users build full, production-ready apps from natural-language prompts rather than just quick prototypes.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 23 Sep 2025 12:42:04 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Rocket.new, an Indian startup building an AI-powered app development platform, has raised $15 million in a seed round led by Salesforce Ventures to take on viral vibe-coding rivals like Lovable, Cursor, and Bolt by letting users build full, production-ready apps from natural-language prompts rather than just quick prototypes.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Accel and Together Fund joined Salesforce Ventures in the all-equity seed round, which comes only three months after Rocket.new launched its platform in beta in June.&lt;/p&gt;
 
@@ -721,7 +141,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Rocket.new currently has a 58-member team, primarily in Surat, and expects to double its engineering and product staff in India over the next 12 months to support growth.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/</guid><pubDate>Tue, 23 Sep 2025 05:30:00 +0000</pubDate></item><item><title>[NEW] After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI is expanding its budget-friendly ChatGPT subscription plan beyond India. The company launched its sub-$5 ChatGPT Go paid plan for the country’s users last month and now is rolling out the same plan in Indonesia for Rp75,000 ($4.50) per month.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Rocket.new currently has a 58-member team, primarily in Surat, and expects to double its engineering and product staff in India over the next 12 months to support growth.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/</guid><pubDate>Tue, 23 Sep 2025 05:30:00 +0000</pubDate></item><item><title>After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI is expanding its budget-friendly ChatGPT subscription plan beyond India. The company launched its sub-$5 ChatGPT Go paid plan for the country’s users last month and now is rolling out the same plan in Indonesia for Rp75,000 ($4.50) per month.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The ChatGPT Go plan is a mid-tier subscription option that sits between OpenAI’s free version and its premium $20-per-month ChatGPT Plus plan. Users get 10 times higher usage limits than the free plan for sending questions or prompts, generating images, and uploading files. The plan also allows ChatGPT to remember previous conversations better, enabling more personalized responses over time, ChatGPT head Nick Turley said on X.&lt;/p&gt;
 
@@ -745,4 +165,202 @@
 
 &lt;p class="wp-block-paragraph"&gt;Turley said that since the company launched the ChatGPT Go plan in India, paid subscribers have more than doubled.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This move puts OpenAI in direct competition with Google, which launched its own similarly-priced AI Plus subscription plan in Indonesia earlier this month. Google’s AI Plus plan gives users access to its Gemini 2.5 Pro chatbot, along with creative tools for image and video creation like Flow, Whisk, and Veo 3 Fast. The plan also includes enhanced features for Google’s AI research assistant NotebookLM and integrates AI capabilities into Gmail, Docs, and Sheets, along with 200GB of cloud storage.&lt;br /&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/</guid><pubDate>Tue, 23 Sep 2025 05:47:26 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;This move puts OpenAI in direct competition with Google, which launched its own similarly-priced AI Plus subscription plan in Indonesia earlier this month. Google’s AI Plus plan gives users access to its Gemini 2.5 Pro chatbot, along with creative tools for image and video creation like Flow, Whisk, and Veo 3 Fast. The plan also includes enhanced features for Google’s AI research assistant NotebookLM and integrates AI capabilities into Gmail, Docs, and Sheets, along with 200GB of cloud storage.&lt;br /&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/</guid><pubDate>Tue, 23 Sep 2025 05:47:26 +0000</pubDate></item><item><title>[NEW] AI models are using material from retracted scientific papers (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/retracted-papers2a.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by &lt;em&gt;MIT Technology Review&lt;/em&gt;, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists.&lt;/p&gt;  &lt;p&gt;AI search tools and chatbots are already known to fabricate links and references. But answers based on the material from actual papers can mislead as well if those papers have been retracted.&amp;nbsp; The chatbot is “using a real paper, real material, to tell you something,” says Weikuan Gu, a medical researcher at the University of Tennessee in Memphis and an author of one of the recent studies. But, he says, if people only look at the content of the answer and do not click through to the paper and see that it’s been retracted, that’s really a problem.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Gu and his team asked OpenAI’s ChatGPT, running on the GPT-4o model, questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three. While it cited non-retracted papers for other questions, the authors note it may not have recognized the retraction status of the articles. In a study from August, a different group of researchers used ChatGPT-4o mini to evaluate the quality of 217 retracted and low-quality papers from different scientific fields; they found that none of the chatbot’s responses mentioned retractions or other concerns. (No similar studies have been released on GPT-5, which came out this August.)&lt;/p&gt;  &lt;p&gt;The public uses AI chatbots to ask for medical advice and diagnose health conditions. Students and scientists increasingly use science-focused AI tools to review existing scientific literature and summarize papers. That kind of usage is likely to increase. The US National Science Foundation, for instance, invested $75 million in building AI models for science research this August.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;“If [a tool is] facing the general public, then using retraction as a kind of quality indicator is very important,” says Yuanxi Fu, an information science researcher at the University of Illinois Urbana-Champaign. There’s “kind of an agreement that retracted papers have been struck off the record of science,” she says, “and the people who are outside of science—they should be warned that these are retracted papers.” OpenAI did not provide a response to a request for comment about the paper results.&lt;/p&gt;  &lt;p&gt;The problem is not limited to ChatGPT. In June,&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;MIT Technology Review&lt;/em&gt; tested AI tools specifically advertised for research work, such as Elicit, Ai2 ScholarQA (now part of the Allen Institute for Artificial Intelligence’s Asta tool), Perplexity, and Consensus, using questions based on the 21 retracted papers in Gu’s study. Elicit referenced five of the retracted papers in its answers, while Ai2 ScholarQA referenced 17, Perplexity 11, and Consensus 18—all without noting the retractions.&lt;/p&gt; 
+ &lt;p&gt;Some companies have since made moves to correct the issue. “Until recently, we didn’t have great retraction data in our search engine,” says Christian Salem, cofounder of Consensus. His company has now started using retraction data from a combination of sources, including publishers and data aggregators, independent web crawling, and Retraction Watch, which manually curates and maintains a database of retractions. In a test of the same papers in August, Consensus cited only five retracted papers.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Elicit told &lt;em&gt;MIT Technology Review&lt;/em&gt; that it removes retracted papers flagged by the scholarly research catalogue OpenAlex from its database and is “still working on aggregating sources of retractions.” Ai2 told us that its tool does not automatically detect or remove retracted papers currently. Perplexity said that it “[does] not ever claim to be 100% accurate.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;However, relying on retraction databases may not be enough. Ivan Oransky, the cofounder of Retraction Watch, is careful not to describe it as a comprehensive database, saying that creating one would require more resources than anyone has: “The reason it’s resource intensive is because someone has to do it all by hand if you want it to be accurate.”&lt;/p&gt;  &lt;p&gt;Further complicating the matter is that publishers don’t share a uniform approach to retraction notices. “Where things are retracted, they can be marked as such in very different ways,” says Caitlin Bakker from University of Regina, Canada, an expert in research and discovery tools. “Correction,” “expression of concern,” “erratum,” and “retracted” are among some labels publishers may add to research papers—and these labels can be added for many reasons, including concerns about the content, methodology, and data or the presence of conflicts of interest.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Some researchers distribute their papers on preprint servers, paper repositories, and other websites, causing copies to be scattered around the web. Moreover, the data used to train AI models may not be up to date. If a paper is retracted after the model’s training cutoff date, its responses might not instantaneously reflect what's going on, says Fu. Most academic search engines don’t do a real-time check against retraction data, so you are at the mercy of how accurate their corpus is, says Aaron Tay, a librarian at Singapore Management University.&lt;/p&gt;  &lt;p&gt;Oransky and other experts advocate making more context available for models to use when creating a response. This could mean publishing information that already exists, like peer reviews commissioned by journals and critiques from the review site PubPeer, alongside the published paper.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Many publishers, such as &lt;em&gt;Nature&lt;/em&gt; and the &lt;em&gt;BMJ&lt;/em&gt;, publish retraction notices as separate articles linked to the paper, outside paywalls. Fu says companies need to effectively make use of such information, as well as any news articles in a model’s training data that mention a paper’s retraction.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The users and creators of AI tools need to do their due diligence. “We are at the very, very early stages, and essentially you have to be skeptical,” says Tay.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Ananya&lt;/em&gt;&lt;em&gt; is a freelance science and technology journalist based in Bengaluru, India.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/retracted-papers2a.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by &lt;em&gt;MIT Technology Review&lt;/em&gt;, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists.&lt;/p&gt;  &lt;p&gt;AI search tools and chatbots are already known to fabricate links and references. But answers based on the material from actual papers can mislead as well if those papers have been retracted.&amp;nbsp; The chatbot is “using a real paper, real material, to tell you something,” says Weikuan Gu, a medical researcher at the University of Tennessee in Memphis and an author of one of the recent studies. But, he says, if people only look at the content of the answer and do not click through to the paper and see that it’s been retracted, that’s really a problem.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Gu and his team asked OpenAI’s ChatGPT, running on the GPT-4o model, questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three. While it cited non-retracted papers for other questions, the authors note it may not have recognized the retraction status of the articles. In a study from August, a different group of researchers used ChatGPT-4o mini to evaluate the quality of 217 retracted and low-quality papers from different scientific fields; they found that none of the chatbot’s responses mentioned retractions or other concerns. (No similar studies have been released on GPT-5, which came out this August.)&lt;/p&gt;  &lt;p&gt;The public uses AI chatbots to ask for medical advice and diagnose health conditions. Students and scientists increasingly use science-focused AI tools to review existing scientific literature and summarize papers. That kind of usage is likely to increase. The US National Science Foundation, for instance, invested $75 million in building AI models for science research this August.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;“If [a tool is] facing the general public, then using retraction as a kind of quality indicator is very important,” says Yuanxi Fu, an information science researcher at the University of Illinois Urbana-Champaign. There’s “kind of an agreement that retracted papers have been struck off the record of science,” she says, “and the people who are outside of science—they should be warned that these are retracted papers.” OpenAI did not provide a response to a request for comment about the paper results.&lt;/p&gt;  &lt;p&gt;The problem is not limited to ChatGPT. In June,&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;MIT Technology Review&lt;/em&gt; tested AI tools specifically advertised for research work, such as Elicit, Ai2 ScholarQA (now part of the Allen Institute for Artificial Intelligence’s Asta tool), Perplexity, and Consensus, using questions based on the 21 retracted papers in Gu’s study. Elicit referenced five of the retracted papers in its answers, while Ai2 ScholarQA referenced 17, Perplexity 11, and Consensus 18—all without noting the retractions.&lt;/p&gt; 
+ &lt;p&gt;Some companies have since made moves to correct the issue. “Until recently, we didn’t have great retraction data in our search engine,” says Christian Salem, cofounder of Consensus. His company has now started using retraction data from a combination of sources, including publishers and data aggregators, independent web crawling, and Retraction Watch, which manually curates and maintains a database of retractions. In a test of the same papers in August, Consensus cited only five retracted papers.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Elicit told &lt;em&gt;MIT Technology Review&lt;/em&gt; that it removes retracted papers flagged by the scholarly research catalogue OpenAlex from its database and is “still working on aggregating sources of retractions.” Ai2 told us that its tool does not automatically detect or remove retracted papers currently. Perplexity said that it “[does] not ever claim to be 100% accurate.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;However, relying on retraction databases may not be enough. Ivan Oransky, the cofounder of Retraction Watch, is careful not to describe it as a comprehensive database, saying that creating one would require more resources than anyone has: “The reason it’s resource intensive is because someone has to do it all by hand if you want it to be accurate.”&lt;/p&gt;  &lt;p&gt;Further complicating the matter is that publishers don’t share a uniform approach to retraction notices. “Where things are retracted, they can be marked as such in very different ways,” says Caitlin Bakker from University of Regina, Canada, an expert in research and discovery tools. “Correction,” “expression of concern,” “erratum,” and “retracted” are among some labels publishers may add to research papers—and these labels can be added for many reasons, including concerns about the content, methodology, and data or the presence of conflicts of interest.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Some researchers distribute their papers on preprint servers, paper repositories, and other websites, causing copies to be scattered around the web. Moreover, the data used to train AI models may not be up to date. If a paper is retracted after the model’s training cutoff date, its responses might not instantaneously reflect what's going on, says Fu. Most academic search engines don’t do a real-time check against retraction data, so you are at the mercy of how accurate their corpus is, says Aaron Tay, a librarian at Singapore Management University.&lt;/p&gt;  &lt;p&gt;Oransky and other experts advocate making more context available for models to use when creating a response. This could mean publishing information that already exists, like peer reviews commissioned by journals and critiques from the review site PubPeer, alongside the published paper.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Many publishers, such as &lt;em&gt;Nature&lt;/em&gt; and the &lt;em&gt;BMJ&lt;/em&gt;, publish retraction notices as separate articles linked to the paper, outside paywalls. Fu says companies need to effectively make use of such information, as well as any news articles in a model’s training data that mention a paper’s retraction.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The users and creators of AI tools need to do their due diligence. “We are at the very, very early stages, and essentially you have to be skeptical,” says Tay.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Ananya&lt;/em&gt;&lt;em&gt; is a freelance science and technology journalist based in Bengaluru, India.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</guid><pubDate>Tue, 23 Sep 2025 09:00:00 +0000</pubDate></item><item><title>[NEW] At Climate Week NYC, NVIDIA Details AI’s Key Role in the Sustainable Energy Transition (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that accelerated computing is sustainable computing.&lt;/p&gt;
+&lt;p&gt;At Climate Week NYC, taking place through Sept. 26 in New York City, NVIDIA is showcasing how accelerated computing is propelling the sustainable energy transition and advancing climate research.&lt;/p&gt;
+&lt;p&gt;The summit brings together researchers, startups, scientists, technologists, nonprofits and policymakers to discuss bold ideas for climate action. This year’s theme is energy: where it comes from, how to scale it and how AI can optimize the grid in newfound ways.&lt;/p&gt;
+&lt;p&gt;Throughout the week, NVIDIA will be highlighting its own innovative climate technologies, as well as a pair of recently published product carbon footprint reports on the emissions intensity of NVIDIA GPUs.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;AI Usage Isn’t Black and White — It Can Actually Be Green&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;AI can play a critical role in stabilizing energy grids by pinpointing anomalies at a rapid rate. These timely insights can allow operators to respond to issues efficiently before they affect the larger grid.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Forecasted AI-Induced Energy Savings Across Energy-Intensive Sectors by 2035&lt;/b&gt;&lt;/h3&gt;
+
+&lt;table class="tablepress tablepress-id-climateweek" id="tablepress-climateweek"&gt;
+&lt;thead&gt;
+&lt;tr class="row-1"&gt;
+	&lt;th class="column-1"&gt;Sector&lt;/th&gt;&lt;th class="column-2"&gt;Subsector&lt;/th&gt;&lt;th class="column-3"&gt;2035 AI Energy Savings (%)&lt;/th&gt;&lt;th class="column-4"&gt;2035 Demand: Reference Case Scenario (in petajoules)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody class="row-striping row-hover"&gt;
+&lt;tr class="row-2"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Iron and Steel&lt;/td&gt;&lt;td class="column-3"&gt;3&lt;/td&gt;&lt;td class="column-4"&gt;1,160&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-3"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Cement&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-4"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Chemicals&lt;/td&gt;&lt;td class="column-3"&gt;2&lt;/td&gt;&lt;td class="column-4"&gt;10,440&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-5"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Aluminum&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;260&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-6"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Paper&lt;/td&gt;&lt;td class="column-3"&gt;2&lt;/td&gt;&lt;td class="column-4"&gt;1,860&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-7"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Other&lt;/td&gt;&lt;td class="column-3"&gt;8&lt;/td&gt;&lt;td class="column-4"&gt;13,650&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-8"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Light commercial vehicles&lt;/td&gt;&lt;td class="column-3"&gt;6&lt;/td&gt;&lt;td class="column-4"&gt;8,160&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-9"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Heavy duty trucks&lt;/td&gt;&lt;td class="column-3"&gt;3&lt;/td&gt;&lt;td class="column-4"&gt;3,670&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-10"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Cars&lt;/td&gt;&lt;td class="column-3"&gt;3&lt;/td&gt;&lt;td class="column-4"&gt;4,460&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-11"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Buses&lt;/td&gt;&lt;td class="column-3"&gt;6&lt;/td&gt;&lt;td class="column-4"&gt;1,690&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-12"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Aviation&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;3,120&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-13"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Shipping&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;940&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-14"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Rail&lt;/td&gt;&lt;td class="column-3"&gt;7&lt;/td&gt;&lt;td class="column-4"&gt;530&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-15"&gt;
+	&lt;td class="column-1"&gt;Buildings&lt;/td&gt;&lt;td class="column-2"&gt;Residential&lt;/td&gt;&lt;td class="column-3"&gt;1&lt;/td&gt;&lt;td class="column-4"&gt;4,780&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-16"&gt;
+	&lt;td class="column-1"&gt;Buildings&lt;/td&gt;&lt;td class="column-2"&gt;Non-residential&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;1,760&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- #tablepress-climateweek from cache --&gt;
+&lt;p&gt;&lt;em&gt;Data Sources: Davide D’Ambrosio et al., Energy and AI (Paris: International Energy Agency, April 2025) and “Net Zero America: Potential Pathways, Infrastructure, and Impacts,” Princeton University, as featured in CSIS’ report “AI for the Grid.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;According to Net-Zero America Project’s calculations, if AI applications are fully adopted, nearly 4.5% of projected energy demand in 2035 will be saved across the three most energy-intensive sectors — industry, transportation and buildings.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="aligncenter size-large wp-image-85225" height="672" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/Climate-NYC-Graphics-1680x672.jpg" width="1680" /&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA joined a Climate Week panel discussion on AI: Powering a More Productive Energy Future yesterday following the release of Center for Strategic and International Studies findings on AI and energy. Panelists included Crusoe Energy Systems, a company that builds and operates clean computing infrastructure, and Emerald AI, a startup developing an AI solution to control data center power use during times of peak grid demand.&lt;/p&gt;
+&lt;p&gt;This discussion centered around how AI will advance sustainability solutions at an unprecedented pace–from responsible grid and power infrastructure scaling&amp;nbsp; to reliable transportation and nuclear energy optimization.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Startup Ecosystem Advances AI Energy Efficiency, Sustainability Projects&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Emerald AI, a NVIDIA NVentures portfolio company, is collaborating with NVIDIA on a recently unveiled NVIDIA Omniverse Blueprint for building high-performance, grid-friendly and energy-efficient AI infrastructure.&lt;/p&gt;
+&lt;p&gt;This new reference design enables the transformation of data centers into fully integrated AI factories — optimized so that every watt of energy contributes to intelligence generation.&lt;/p&gt;
+&lt;p&gt;“As a collaborator on NVIDIA’s reference design for giga-scale AI factories, we’re helping prove that AI compute can be power-flexible,” said Varun Sivaram, founder and CEO of Emerald AI. “It’s a paradigm shift with a massive prize: unlocking 100 gigawatts of untapped power grid capacity and resolving AI’s energy bottleneck while promoting affordable, reliable and clean power grids.”&lt;/p&gt;
+&lt;p&gt;Emerald AI is a member of the NVIDIA Inception program for startups, within the Sustainable Futures initiative. These companies are pioneering developments in fields such as green computing, sustainable infrastructure, wildlife conservation and more.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Decreasing the Carbon Footprint of NVIDIA Products and Operations&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;NVIDIA is continuously working to decrease its own carbon footprint.&lt;/p&gt;
+&lt;p&gt;Its first product carbon footprint summary comparison was recently released — revealing a 24% reduction in embodied carbon emissions intensity between NVIDIA HGX H100 and HGX B200 baseboards.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_85210"&gt;&lt;img alt="alt" class="size-full wp-image-85210" height="1094" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/HGX-B200-Product-Carbon-Footprint-Methodology.png" width="1569" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-85210"&gt;Scope and methodology of the product carbon footprint analysis for NVIDIA HGX B200.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;NVIDIA will continue to publish product carbon footprint summaries of newly released products to spotlight improvements in energy efficiency and sustainability.&lt;/p&gt;
+&lt;p&gt;In terms of NVIDIA’s physical footprint, all offices and data centers under the company’s operational control run on 100% renewable energy — and carbon-free electricity is purchased to cover 100% of the company’s leased data centers’ footprint.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_85207"&gt;&lt;img alt="alt" class="size-large wp-image-85207" height="976" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/NVIDIA-aerial-Voyager-and-Endeavor-1680x976.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-85207"&gt;NVIDIA headquarters in Santa Clara, California&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2&gt;&lt;b&gt;Applying AI to Climate and Weather Research&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;High-resolution, AI-powered weather models are helping strengthen energy systems and reduce vulnerability to unpredictable climate events.&lt;/p&gt;
+&lt;p&gt;When used to support energy grid stability, these simulations can help utilities more precisely direct maintenance crews to remove obstacles close to power lines ahead of storms.&lt;/p&gt;
+&lt;p&gt;AI-driven climate models are also poised to increase the adoption and usage of renewables across the energy grid by lowering costs and ramping up efficiency.&lt;/p&gt;
+&lt;p&gt;With these climate models, grid operators can accurately determine factors like the amount of power wind turbines will generate on a given day, or how much energy collected in solar batteries will need to be saved to compensate and keep a city’s lights on and stable.&lt;/p&gt;
+&lt;p&gt;These insights can help energy providers manage load and lower the cost of adopting renewables, presenting a path forward to decarbonize the grid.&lt;/p&gt;
+&lt;p&gt;The NVIDIA Earth-2 platform offers tools, microservices, and reference implementations that help developers build applications to simulate and visualize weather and climate predictions at a global scale.&lt;/p&gt;
+&lt;p&gt;Work powered by Earth-2 is featured on an array of panels at Climate Week, including Columbia University’s GenAI for Climate Science, AI for Energy and Energy for AI, Where the Internet Lives, Presented by Google, and the AWS Climate Tech &amp;amp; AI Forum.&lt;/p&gt;
+&lt;p&gt;Learn more about NVIDIA Earth-2 and sustainable computing solutions.&lt;/p&gt;
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</description><content:encoded>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that accelerated computing is sustainable computing.&lt;/p&gt;
+&lt;p&gt;At Climate Week NYC, taking place through Sept. 26 in New York City, NVIDIA is showcasing how accelerated computing is propelling the sustainable energy transition and advancing climate research.&lt;/p&gt;
+&lt;p&gt;The summit brings together researchers, startups, scientists, technologists, nonprofits and policymakers to discuss bold ideas for climate action. This year’s theme is energy: where it comes from, how to scale it and how AI can optimize the grid in newfound ways.&lt;/p&gt;
+&lt;p&gt;Throughout the week, NVIDIA will be highlighting its own innovative climate technologies, as well as a pair of recently published product carbon footprint reports on the emissions intensity of NVIDIA GPUs.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;AI Usage Isn’t Black and White — It Can Actually Be Green&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;AI can play a critical role in stabilizing energy grids by pinpointing anomalies at a rapid rate. These timely insights can allow operators to respond to issues efficiently before they affect the larger grid.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Forecasted AI-Induced Energy Savings Across Energy-Intensive Sectors by 2035&lt;/b&gt;&lt;/h3&gt;
+
+&lt;table class="tablepress tablepress-id-climateweek" id="tablepress-climateweek"&gt;
+&lt;thead&gt;
+&lt;tr class="row-1"&gt;
+	&lt;th class="column-1"&gt;Sector&lt;/th&gt;&lt;th class="column-2"&gt;Subsector&lt;/th&gt;&lt;th class="column-3"&gt;2035 AI Energy Savings (%)&lt;/th&gt;&lt;th class="column-4"&gt;2035 Demand: Reference Case Scenario (in petajoules)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody class="row-striping row-hover"&gt;
+&lt;tr class="row-2"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Iron and Steel&lt;/td&gt;&lt;td class="column-3"&gt;3&lt;/td&gt;&lt;td class="column-4"&gt;1,160&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-3"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Cement&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-4"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Chemicals&lt;/td&gt;&lt;td class="column-3"&gt;2&lt;/td&gt;&lt;td class="column-4"&gt;10,440&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-5"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Aluminum&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;260&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-6"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Paper&lt;/td&gt;&lt;td class="column-3"&gt;2&lt;/td&gt;&lt;td class="column-4"&gt;1,860&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-7"&gt;
+	&lt;td class="column-1"&gt;Industry&lt;/td&gt;&lt;td class="column-2"&gt;Other&lt;/td&gt;&lt;td class="column-3"&gt;8&lt;/td&gt;&lt;td class="column-4"&gt;13,650&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-8"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Light commercial vehicles&lt;/td&gt;&lt;td class="column-3"&gt;6&lt;/td&gt;&lt;td class="column-4"&gt;8,160&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-9"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Heavy duty trucks&lt;/td&gt;&lt;td class="column-3"&gt;3&lt;/td&gt;&lt;td class="column-4"&gt;3,670&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-10"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Cars&lt;/td&gt;&lt;td class="column-3"&gt;3&lt;/td&gt;&lt;td class="column-4"&gt;4,460&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-11"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Buses&lt;/td&gt;&lt;td class="column-3"&gt;6&lt;/td&gt;&lt;td class="column-4"&gt;1,690&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-12"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Aviation&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;3,120&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-13"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Shipping&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;940&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-14"&gt;
+	&lt;td class="column-1"&gt;Transportation&lt;/td&gt;&lt;td class="column-2"&gt;Rail&lt;/td&gt;&lt;td class="column-3"&gt;7&lt;/td&gt;&lt;td class="column-4"&gt;530&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-15"&gt;
+	&lt;td class="column-1"&gt;Buildings&lt;/td&gt;&lt;td class="column-2"&gt;Residential&lt;/td&gt;&lt;td class="column-3"&gt;1&lt;/td&gt;&lt;td class="column-4"&gt;4,780&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="row-16"&gt;
+	&lt;td class="column-1"&gt;Buildings&lt;/td&gt;&lt;td class="column-2"&gt;Non-residential&lt;/td&gt;&lt;td class="column-3"&gt;4&lt;/td&gt;&lt;td class="column-4"&gt;1,760&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- #tablepress-climateweek from cache --&gt;
+&lt;p&gt;&lt;em&gt;Data Sources: Davide D’Ambrosio et al., Energy and AI (Paris: International Energy Agency, April 2025) and “Net Zero America: Potential Pathways, Infrastructure, and Impacts,” Princeton University, as featured in CSIS’ report “AI for the Grid.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;According to Net-Zero America Project’s calculations, if AI applications are fully adopted, nearly 4.5% of projected energy demand in 2035 will be saved across the three most energy-intensive sectors — industry, transportation and buildings.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="aligncenter size-large wp-image-85225" height="672" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/Climate-NYC-Graphics-1680x672.jpg" width="1680" /&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA joined a Climate Week panel discussion on AI: Powering a More Productive Energy Future yesterday following the release of Center for Strategic and International Studies findings on AI and energy. Panelists included Crusoe Energy Systems, a company that builds and operates clean computing infrastructure, and Emerald AI, a startup developing an AI solution to control data center power use during times of peak grid demand.&lt;/p&gt;
+&lt;p&gt;This discussion centered around how AI will advance sustainability solutions at an unprecedented pace–from responsible grid and power infrastructure scaling&amp;nbsp; to reliable transportation and nuclear energy optimization.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Startup Ecosystem Advances AI Energy Efficiency, Sustainability Projects&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Emerald AI, a NVIDIA NVentures portfolio company, is collaborating with NVIDIA on a recently unveiled NVIDIA Omniverse Blueprint for building high-performance, grid-friendly and energy-efficient AI infrastructure.&lt;/p&gt;
+&lt;p&gt;This new reference design enables the transformation of data centers into fully integrated AI factories — optimized so that every watt of energy contributes to intelligence generation.&lt;/p&gt;
+&lt;p&gt;“As a collaborator on NVIDIA’s reference design for giga-scale AI factories, we’re helping prove that AI compute can be power-flexible,” said Varun Sivaram, founder and CEO of Emerald AI. “It’s a paradigm shift with a massive prize: unlocking 100 gigawatts of untapped power grid capacity and resolving AI’s energy bottleneck while promoting affordable, reliable and clean power grids.”&lt;/p&gt;
+&lt;p&gt;Emerald AI is a member of the NVIDIA Inception program for startups, within the Sustainable Futures initiative. These companies are pioneering developments in fields such as green computing, sustainable infrastructure, wildlife conservation and more.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Decreasing the Carbon Footprint of NVIDIA Products and Operations&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;NVIDIA is continuously working to decrease its own carbon footprint.&lt;/p&gt;
+&lt;p&gt;Its first product carbon footprint summary comparison was recently released — revealing a 24% reduction in embodied carbon emissions intensity between NVIDIA HGX H100 and HGX B200 baseboards.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_85210"&gt;&lt;img alt="alt" class="size-full wp-image-85210" height="1094" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/HGX-B200-Product-Carbon-Footprint-Methodology.png" width="1569" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-85210"&gt;Scope and methodology of the product carbon footprint analysis for NVIDIA HGX B200.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;NVIDIA will continue to publish product carbon footprint summaries of newly released products to spotlight improvements in energy efficiency and sustainability.&lt;/p&gt;
+&lt;p&gt;In terms of NVIDIA’s physical footprint, all offices and data centers under the company’s operational control run on 100% renewable energy — and carbon-free electricity is purchased to cover 100% of the company’s leased data centers’ footprint.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_85207"&gt;&lt;img alt="alt" class="size-large wp-image-85207" height="976" src="https://blogs.nvidia.com/wp-content/uploads/2025/09/NVIDIA-aerial-Voyager-and-Endeavor-1680x976.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-85207"&gt;NVIDIA headquarters in Santa Clara, California&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2&gt;&lt;b&gt;Applying AI to Climate and Weather Research&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;High-resolution, AI-powered weather models are helping strengthen energy systems and reduce vulnerability to unpredictable climate events.&lt;/p&gt;
+&lt;p&gt;When used to support energy grid stability, these simulations can help utilities more precisely direct maintenance crews to remove obstacles close to power lines ahead of storms.&lt;/p&gt;
+&lt;p&gt;AI-driven climate models are also poised to increase the adoption and usage of renewables across the energy grid by lowering costs and ramping up efficiency.&lt;/p&gt;
+&lt;p&gt;With these climate models, grid operators can accurately determine factors like the amount of power wind turbines will generate on a given day, or how much energy collected in solar batteries will need to be saved to compensate and keep a city’s lights on and stable.&lt;/p&gt;
+&lt;p&gt;These insights can help energy providers manage load and lower the cost of adopting renewables, presenting a path forward to decarbonize the grid.&lt;/p&gt;
+&lt;p&gt;The NVIDIA Earth-2 platform offers tools, microservices, and reference implementations that help developers build applications to simulate and visualize weather and climate predictions at a global scale.&lt;/p&gt;
+&lt;p&gt;Work powered by Earth-2 is featured on an array of panels at Climate Week, including Columbia University’s GenAI for Climate Science, AI for Energy and Energy for AI, Where the Internet Lives, Presented by Google, and the AWS Climate Tech &amp;amp; AI Forum.&lt;/p&gt;
+&lt;p&gt;Learn more about NVIDIA Earth-2 and sustainable computing solutions.&lt;/p&gt;
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/</guid><pubDate>Tue, 23 Sep 2025 10:00:45 +0000</pubDate></item><item><title>[NEW] The Download: AI’s retracted papers problem (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading has-medium-font-size"&gt;AI models are using material from retracted scientific papers&lt;/h3&gt;  &lt;p&gt;&lt;strong&gt;The news:&amp;nbsp;&lt;/strong&gt;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. In one such study, researchers asked OpenAI’s ChatGPT questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;&lt;strong&gt;The bigger picture:&amp;nbsp;&lt;/strong&gt;The findings raise serious questions about how reliable AI tools are at evaluating scientific research, or answering people’s health queries. They could also complicate efforts to invest in AI tools for scientists. And it’s not an easy problem to fix.&amp;nbsp;Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Ananya&lt;/em&gt;&lt;/p&gt; 
+   &lt;h3 class="wp-block-heading has-medium-font-size"&gt;Join us at 1pm ET today to meet our Innovator of the Year&lt;/h3&gt;  &lt;p&gt;Every year, MIT Technology Review awards Innovator of the Year to someone whose work we admire. This year we selected Sneha Goenka, who designed the computations behind&amp;nbsp;the world’s fastest whole-genome sequencing method.&lt;/p&gt; 
+ &lt;p&gt;Her work could transform medical care by allowing physicians to sequence a patient’s genome and diagnose genetic conditions in less than eight hours.&lt;/p&gt;  &lt;p&gt;Register here&amp;nbsp;to join an exclusive subscriber-only Roundtable conversation with Goenka, Leilani Battle, assistant professor at the University of Washington, and our editor in chief Mat Honan at 1pm ET today.&amp;nbsp;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 There’s scant evidence tylenol use during pregnancy causes autism&lt;/strong&gt;&lt;br /&gt;The biggest cause of autism is genetic—that’s why it often runs in families. (Scientific American $)&lt;br /&gt;+ &lt;em&gt;Anti-vaxxers are furious the White House didn’t link autism to vaccines.&lt;/em&gt; (Ars Technica)&lt;br /&gt;+ &lt;em&gt;The company that sells Tylenol is being forced to defend the medicine’s safety&lt;/em&gt;. (Axios)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2 Nvidia is investing up to $100 billion in OpenAI&lt;/strong&gt;&lt;br /&gt;OpenAI is already a major customer, but this will bind the two even more closely together. (Reuters $)&lt;br /&gt;+ &lt;em&gt;America’s top companies keep talking about AI—but they can’t explain its upsides.&lt;/em&gt; (FT $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;3 Denmark’s biggest airport was shut down by drones&lt;/strong&gt;&lt;br /&gt;Its prime minister refused to rule out Russian involvement. (FT $)&lt;br /&gt;+ &lt;em&gt;Poland and Estonia have been speaking up at the UN about Russian incursions into their airspace. &lt;/em&gt;(The Guardian)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;4 Google is facing another antitrust trial in the US&lt;/strong&gt;&lt;br /&gt;This one will focus on remedies to its dominance of the advertising tech market. (Ars Technica)&lt;br /&gt;+ &lt;em&gt;The FTC is also taking Amazon to court over accusations the company tricks people into paying for Prime. &lt;/em&gt;(NPR)&lt;br /&gt;+ T&lt;em&gt;he Supreme Court has ruled to allow Trump’s firing of a Democrat FTC commissioner.&lt;/em&gt; (NYT $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;5 Here’s the potential impact of Trump’s H-1B crackdown on tech&lt;/strong&gt;&lt;br /&gt;It’s likely to push a lot of skilled workers elsewhere. (Rest of World)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;6 How TikTok’s deal to stay in the US will work&lt;/strong&gt;&lt;br /&gt;Oracle will manage its algorithm for US users and oversee security operations. (ABC)&lt;br /&gt;+ &lt;em&gt;It’s a giant prize for Trump’s friend Larry Ellison, Oracle’s cofounder.&lt;/em&gt; (NYT $)&lt;br /&gt;+ &lt;em&gt;Trump and his allies are now likely to exert a lot of political influence over TikTok.&lt;/em&gt; (WP $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;7 Record labels are escalating their lawsuit against an AI music startup&lt;/strong&gt;&lt;br /&gt;They claim it knowingly pirated songs from YouTube to train its generative AI models. (The Verge $)&lt;br /&gt;+ &lt;em&gt;AI is coming for music, too.&lt;/em&gt; (MIT Technology Review)&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;8 There’s a big fight in the US over who pays for weight loss drugs&lt;/strong&gt;&lt;br /&gt;Although they’ll save insurers money long-term, they cost a lot upfront. (WP $)&lt;br /&gt;+ &lt;em&gt;We’re learning more about what weight-loss drugs do to the body. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;9 How a lone vigilante ended up blowing up 5G towers&lt;/strong&gt;&lt;br /&gt;A little bit of knowledge can be a dangerous thing. (Wired $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;10 The moon is rusting&amp;nbsp;🌕&lt;/strong&gt;&lt;br /&gt;And it’s our fault. Awkward! (Nature)&lt;/p&gt;   
+
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“At the heart of this is people trying to look for simple answers to complex problems.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—James Cusack, chief executive of an autism charity called Autistica, tells&amp;nbsp;Nature&amp;nbsp;what he thinks is driving Trump and others to incorrectly link the condition with Tylenol use during pregnancy.&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="A mobility walker sinking in an hourglass." class="wp-image-1096661" src="https://wp.technologyreview.com/wp-content/uploads/2024/08/240814_longevity_essay.jpg" /&gt;&lt;div class="image-credit"&gt;SARAH ROGERS / MITTR | PHOTOS GETTY&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;&lt;strong&gt;Maybe you will be able to live past 122&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;How long can humans live? This is a good time to ask the question. The longevity scene is having a moment, and a few key areas of research suggest that we might be able to push human life spans further, and potentially reverse at least some signs of aging.&lt;/p&gt;  &lt;p&gt;Researchers can’t even agree on what the exact mechanisms of aging are and which they should be targeting. Debates continue to rage over how long it’s possible for humans to live—and whether there is a limit at all.&lt;/p&gt; 
+ &lt;p&gt;But it looks likely that something will be developed in the coming decades that will help us live longer, in better health.&amp;nbsp;Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ This website lets you send a&amp;nbsp;letter&amp;nbsp;to your future self.&amp;nbsp;&lt;br /&gt;+ Here’s what&amp;nbsp;Brian Eno&amp;nbsp;has to say about art.&lt;br /&gt;+ This&amp;nbsp;photographer&amp;nbsp;takes stunning pictures of Greenland.&amp;nbsp;&lt;br /&gt;+ The Hungarian dish&amp;nbsp;Rakott krumpli&amp;nbsp;isn’t going to win any health plaudits, but it looks very comforting all the same.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading has-medium-font-size"&gt;AI models are using material from retracted scientific papers&lt;/h3&gt;  &lt;p&gt;&lt;strong&gt;The news:&amp;nbsp;&lt;/strong&gt;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. In one such study, researchers asked OpenAI’s ChatGPT questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;&lt;strong&gt;The bigger picture:&amp;nbsp;&lt;/strong&gt;The findings raise serious questions about how reliable AI tools are at evaluating scientific research, or answering people’s health queries. They could also complicate efforts to invest in AI tools for scientists. And it’s not an easy problem to fix.&amp;nbsp;Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Ananya&lt;/em&gt;&lt;/p&gt; 
+   &lt;h3 class="wp-block-heading has-medium-font-size"&gt;Join us at 1pm ET today to meet our Innovator of the Year&lt;/h3&gt;  &lt;p&gt;Every year, MIT Technology Review awards Innovator of the Year to someone whose work we admire. This year we selected Sneha Goenka, who designed the computations behind&amp;nbsp;the world’s fastest whole-genome sequencing method.&lt;/p&gt; 
+ &lt;p&gt;Her work could transform medical care by allowing physicians to sequence a patient’s genome and diagnose genetic conditions in less than eight hours.&lt;/p&gt;  &lt;p&gt;Register here&amp;nbsp;to join an exclusive subscriber-only Roundtable conversation with Goenka, Leilani Battle, assistant professor at the University of Washington, and our editor in chief Mat Honan at 1pm ET today.&amp;nbsp;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 There’s scant evidence tylenol use during pregnancy causes autism&lt;/strong&gt;&lt;br /&gt;The biggest cause of autism is genetic—that’s why it often runs in families. (Scientific American $)&lt;br /&gt;+ &lt;em&gt;Anti-vaxxers are furious the White House didn’t link autism to vaccines.&lt;/em&gt; (Ars Technica)&lt;br /&gt;+ &lt;em&gt;The company that sells Tylenol is being forced to defend the medicine’s safety&lt;/em&gt;. (Axios)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2 Nvidia is investing up to $100 billion in OpenAI&lt;/strong&gt;&lt;br /&gt;OpenAI is already a major customer, but this will bind the two even more closely together. (Reuters $)&lt;br /&gt;+ &lt;em&gt;America’s top companies keep talking about AI—but they can’t explain its upsides.&lt;/em&gt; (FT $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;3 Denmark’s biggest airport was shut down by drones&lt;/strong&gt;&lt;br /&gt;Its prime minister refused to rule out Russian involvement. (FT $)&lt;br /&gt;+ &lt;em&gt;Poland and Estonia have been speaking up at the UN about Russian incursions into their airspace. &lt;/em&gt;(The Guardian)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;4 Google is facing another antitrust trial in the US&lt;/strong&gt;&lt;br /&gt;This one will focus on remedies to its dominance of the advertising tech market. (Ars Technica)&lt;br /&gt;+ &lt;em&gt;The FTC is also taking Amazon to court over accusations the company tricks people into paying for Prime. &lt;/em&gt;(NPR)&lt;br /&gt;+ T&lt;em&gt;he Supreme Court has ruled to allow Trump’s firing of a Democrat FTC commissioner.&lt;/em&gt; (NYT $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;5 Here’s the potential impact of Trump’s H-1B crackdown on tech&lt;/strong&gt;&lt;br /&gt;It’s likely to push a lot of skilled workers elsewhere. (Rest of World)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;6 How TikTok’s deal to stay in the US will work&lt;/strong&gt;&lt;br /&gt;Oracle will manage its algorithm for US users and oversee security operations. (ABC)&lt;br /&gt;+ &lt;em&gt;It’s a giant prize for Trump’s friend Larry Ellison, Oracle’s cofounder.&lt;/em&gt; (NYT $)&lt;br /&gt;+ &lt;em&gt;Trump and his allies are now likely to exert a lot of political influence over TikTok.&lt;/em&gt; (WP $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;7 Record labels are escalating their lawsuit against an AI music startup&lt;/strong&gt;&lt;br /&gt;They claim it knowingly pirated songs from YouTube to train its generative AI models. (The Verge $)&lt;br /&gt;+ &lt;em&gt;AI is coming for music, too.&lt;/em&gt; (MIT Technology Review)&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;8 There’s a big fight in the US over who pays for weight loss drugs&lt;/strong&gt;&lt;br /&gt;Although they’ll save insurers money long-term, they cost a lot upfront. (WP $)&lt;br /&gt;+ &lt;em&gt;We’re learning more about what weight-loss drugs do to the body. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;9 How a lone vigilante ended up blowing up 5G towers&lt;/strong&gt;&lt;br /&gt;A little bit of knowledge can be a dangerous thing. (Wired $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;10 The moon is rusting&amp;nbsp;🌕&lt;/strong&gt;&lt;br /&gt;And it’s our fault. Awkward! (Nature)&lt;/p&gt;   
+
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“At the heart of this is people trying to look for simple answers to complex problems.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—James Cusack, chief executive of an autism charity called Autistica, tells&amp;nbsp;Nature&amp;nbsp;what he thinks is driving Trump and others to incorrectly link the condition with Tylenol use during pregnancy.&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="A mobility walker sinking in an hourglass." class="wp-image-1096661" src="https://wp.technologyreview.com/wp-content/uploads/2024/08/240814_longevity_essay.jpg" /&gt;&lt;div class="image-credit"&gt;SARAH ROGERS / MITTR | PHOTOS GETTY&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;&lt;strong&gt;Maybe you will be able to live past 122&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;How long can humans live? This is a good time to ask the question. The longevity scene is having a moment, and a few key areas of research suggest that we might be able to push human life spans further, and potentially reverse at least some signs of aging.&lt;/p&gt;  &lt;p&gt;Researchers can’t even agree on what the exact mechanisms of aging are and which they should be targeting. Debates continue to rage over how long it’s possible for humans to live—and whether there is a limit at all.&lt;/p&gt; 
+ &lt;p&gt;But it looks likely that something will be developed in the coming decades that will help us live longer, in better health.&amp;nbsp;Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ This website lets you send a&amp;nbsp;letter&amp;nbsp;to your future self.&amp;nbsp;&lt;br /&gt;+ Here’s what&amp;nbsp;Brian Eno&amp;nbsp;has to say about art.&lt;br /&gt;+ This&amp;nbsp;photographer&amp;nbsp;takes stunning pictures of Greenland.&amp;nbsp;&lt;br /&gt;+ The Hungarian dish&amp;nbsp;Rakott krumpli&amp;nbsp;isn’t going to win any health plaudits, but it looks very comforting all the same.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</guid><pubDate>Tue, 23 Sep 2025 12:10:00 +0000</pubDate></item></channel></rss>
