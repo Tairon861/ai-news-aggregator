@@ -1,176 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 23 Sep 2025 12:42:04 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Rocket.new, an Indian startup building an AI-powered app development platform, has raised $15 million in a seed round led by Salesforce Ventures to take on viral vibe-coding rivals like Lovable, Cursor, and Bolt by letting users build full, production-ready apps from natural-language prompts rather than just quick prototypes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Accel and Together Fund joined Salesforce Ventures in the all-equity seed round, which comes only three months after Rocket.new launched its platform in beta in June.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Since its debut, the startup has crossed 400,000 users — including over 10,000 paid subscribers — in 180 countries and reached $4.5 million in annual recurring revenue. It is aiming to scale that to $20–$25 million by year’s end and $60–$70 million by June next year, co-founder and CEO Vishal Virani (pictured above, center) said in an exclusive interview.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Based in Surat — a city famous for diamonds and textiles but far from India’s usual tech hubs — Virani teamed up with Rahul Shingala and Deepak Dhanak to launch Rocket.new. The startup marks a pivot from their earlier venture, DhiWise, which focused on developer workflows.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We are building the first vibe solution platform, which is not solving just a problem of day one, but what we are focusing on is solving the problem of day two,” Virani told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The 16-week-old startup aims to become a comprehensive agentic system, which will utilize AI not only to build apps and websites but also to conduct competitive research and product development, eliminating the need for product managers.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Our entire agentic system will help organizations build all kinds of functions around products — not just generating the source code — but even a facility to scale their product — all by giving natural-language prompts,” Virani asserted.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The current model, which Virani refers to as version 0.3, has already built half a million applications and attracted product managers, solopreneurs, and front-end developers. It also counts users from companies like Meta, PayPal, KPMG, PwC, and Times Internet, who turn to the platform for personal projects.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Rocket.new" class="wp-image-3048681" height="1070" src="https://techcrunch.com/wp-content/uploads/2025/09/rocket-new-platform-screenshot.jpg" width="1910" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Rocket.new&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;About 80% of Rocket.new’s users have so far built what Virani calls “serious” applications rather than simple landing pages or branding sites. Roughly 12% have created e-commerce platforms in segments like grocery and apparel, 10% have built fintech apps, 5–6% have developed B2B tools, and 4–5% have launched mental health apps, he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Roughly 45% of Rocket.new’s users are building mobile apps and 55% are building websites, Virani said. He added that many users build a website on Lovable or Replit, then turn to Rocket.new to generate a native mobile app by integrating with their existing Supabase backend.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The platform combines large language models from Anthropic, OpenAI, and Google’s Gemini with Rocket.new’s own deep learning systems, which are trained on proprietary datasets from DhiWise.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Our underlying architecture is completely different from what Lovable, Bolt, and everyone is doing,” Virani told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Generating the first application takes about 25 minutes — much slower than most vibe-coding tools, which usually produce results within three. But in our early testing, Rocket.new delivered a more comprehensive user experience, with all essential modules included.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Rocket.new offers a free trial capped at one million tokens. After that, users pay a monthly subscription starting at $25 for five million tokens.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This model effectively discourages hobbyists, while giving Rocket.new a healthy gross margin of 50–55% — a figure it aims to raise to 60–70% within the next few months.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The U.S. is Rocket.new’s largest market, contributing 26% of revenue, followed by Europe at 15–20% and India at 10%. To better serve its American users, the startup is establishing a U.S. headquarters in Palo Alto.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Virani noted that Rocket.new’s early traction was organic, driven by word-of-mouth and viral social posts. With fresh seed funding, the startup is looking to sharpen its go-to-market playbook, deepen its presence in key markets, and accelerate work on proprietary models and R&amp;amp;D.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We saw a clear gap between the magic of AI code generation and the reality of making that code production-ready,” Kartik Gupta, Investor at Salesforce Ventures, told TechCrunch over email. “Rocket.new is purpose-built to solve this problem of iteration, maintenance, and deployment at enterprise scale.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Rocket.new currently has a 58-member team, primarily in Surat, and expects to double its engineering and product staff in India over the next 12 months to support growth.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Rocket.new, an Indian startup building an AI-powered app development platform, has raised $15 million in a seed round led by Salesforce Ventures to take on viral vibe-coding rivals like Lovable, Cursor, and Bolt by letting users build full, production-ready apps from natural-language prompts rather than just quick prototypes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Accel and Together Fund joined Salesforce Ventures in the all-equity seed round, which comes only three months after Rocket.new launched its platform in beta in June.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Since its debut, the startup has crossed 400,000 users — including over 10,000 paid subscribers — in 180 countries and reached $4.5 million in annual recurring revenue. It is aiming to scale that to $20–$25 million by year’s end and $60–$70 million by June next year, co-founder and CEO Vishal Virani (pictured above, center) said in an exclusive interview.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Based in Surat — a city famous for diamonds and textiles but far from India’s usual tech hubs — Virani teamed up with Rahul Shingala and Deepak Dhanak to launch Rocket.new. The startup marks a pivot from their earlier venture, DhiWise, which focused on developer workflows.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We are building the first vibe solution platform, which is not solving just a problem of day one, but what we are focusing on is solving the problem of day two,” Virani told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The 16-week-old startup aims to become a comprehensive agentic system, which will utilize AI not only to build apps and websites but also to conduct competitive research and product development, eliminating the need for product managers.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Our entire agentic system will help organizations build all kinds of functions around products — not just generating the source code — but even a facility to scale their product — all by giving natural-language prompts,” Virani asserted.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The current model, which Virani refers to as version 0.3, has already built half a million applications and attracted product managers, solopreneurs, and front-end developers. It also counts users from companies like Meta, PayPal, KPMG, PwC, and Times Internet, who turn to the platform for personal projects.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Rocket.new" class="wp-image-3048681" height="1070" src="https://techcrunch.com/wp-content/uploads/2025/09/rocket-new-platform-screenshot.jpg" width="1910" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Rocket.new&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;About 80% of Rocket.new’s users have so far built what Virani calls “serious” applications rather than simple landing pages or branding sites. Roughly 12% have created e-commerce platforms in segments like grocery and apparel, 10% have built fintech apps, 5–6% have developed B2B tools, and 4–5% have launched mental health apps, he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Roughly 45% of Rocket.new’s users are building mobile apps and 55% are building websites, Virani said. He added that many users build a website on Lovable or Replit, then turn to Rocket.new to generate a native mobile app by integrating with their existing Supabase backend.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The platform combines large language models from Anthropic, OpenAI, and Google’s Gemini with Rocket.new’s own deep learning systems, which are trained on proprietary datasets from DhiWise.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Our underlying architecture is completely different from what Lovable, Bolt, and everyone is doing,” Virani told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Generating the first application takes about 25 minutes — much slower than most vibe-coding tools, which usually produce results within three. But in our early testing, Rocket.new delivered a more comprehensive user experience, with all essential modules included.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Rocket.new offers a free trial capped at one million tokens. After that, users pay a monthly subscription starting at $25 for five million tokens.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This model effectively discourages hobbyists, while giving Rocket.new a healthy gross margin of 50–55% — a figure it aims to raise to 60–70% within the next few months.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The U.S. is Rocket.new’s largest market, contributing 26% of revenue, followed by Europe at 15–20% and India at 10%. To better serve its American users, the startup is establishing a U.S. headquarters in Palo Alto.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Virani noted that Rocket.new’s early traction was organic, driven by word-of-mouth and viral social posts. With fresh seed funding, the startup is looking to sharpen its go-to-market playbook, deepen its presence in key markets, and accelerate work on proprietary models and R&amp;amp;D.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We saw a clear gap between the magic of AI code generation and the reality of making that code production-ready,” Kartik Gupta, Investor at Salesforce Ventures, told TechCrunch over email. “Rocket.new is purpose-built to solve this problem of iteration, maintenance, and deployment at enterprise scale.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Rocket.new currently has a 58-member team, primarily in Surat, and expects to double its engineering and product staff in India over the next 12 months to support growth.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/</guid><pubDate>Tue, 23 Sep 2025 05:30:00 +0000</pubDate></item><item><title>After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI is expanding its budget-friendly ChatGPT subscription plan beyond India. The company launched its sub-$5 ChatGPT Go paid plan for the country’s users last month and now is rolling out the same plan in Indonesia for Rp75,000 ($4.50) per month.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The ChatGPT Go plan is a mid-tier subscription option that sits between OpenAI’s free version and its premium $20-per-month ChatGPT Plus plan. Users get 10 times higher usage limits than the free plan for sending questions or prompts, generating images, and uploading files. The plan also allows ChatGPT to remember previous conversations better, enabling more personalized responses over time, ChatGPT head Nick Turley said on X.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Turley said that since the company launched the ChatGPT Go plan in India, paid subscribers have more than doubled.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This move puts OpenAI in direct competition with Google, which launched its own similarly-priced AI Plus subscription plan in Indonesia earlier this month. Google’s AI Plus plan gives users access to its Gemini 2.5 Pro chatbot, along with creative tools for image and video creation like Flow, Whisk, and Veo 3 Fast. The plan also includes enhanced features for Google’s AI research assistant NotebookLM and integrates AI capabilities into Gmail, Docs, and Sheets, along with 200GB of cloud storage.&lt;br /&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI is expanding its budget-friendly ChatGPT subscription plan beyond India. The company launched its sub-$5 ChatGPT Go paid plan for the country’s users last month and now is rolling out the same plan in Indonesia for Rp75,000 ($4.50) per month.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The ChatGPT Go plan is a mid-tier subscription option that sits between OpenAI’s free version and its premium $20-per-month ChatGPT Plus plan. Users get 10 times higher usage limits than the free plan for sending questions or prompts, generating images, and uploading files. The plan also allows ChatGPT to remember previous conversations better, enabling more personalized responses over time, ChatGPT head Nick Turley said on X.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Turley said that since the company launched the ChatGPT Go plan in India, paid subscribers have more than doubled.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This move puts OpenAI in direct competition with Google, which launched its own similarly-priced AI Plus subscription plan in Indonesia earlier this month. Google’s AI Plus plan gives users access to its Gemini 2.5 Pro chatbot, along with creative tools for image and video creation like Flow, Whisk, and Veo 3 Fast. The plan also includes enhanced features for Google’s AI research assistant NotebookLM and integrates AI capabilities into Gmail, Docs, and Sheets, along with 200GB of cloud storage.&lt;br /&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/</guid><pubDate>Tue, 23 Sep 2025 05:47:26 +0000</pubDate></item><item><title>[NEW] AI models are using material from retracted scientific papers (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/retracted-papers2a.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by &lt;em&gt;MIT Technology Review&lt;/em&gt;, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists.&lt;/p&gt;  &lt;p&gt;AI search tools and chatbots are already known to fabricate links and references. But answers based on the material from actual papers can mislead as well if those papers have been retracted.&amp;nbsp; The chatbot is “using a real paper, real material, to tell you something,” says Weikuan Gu, a medical researcher at the University of Tennessee in Memphis and an author of one of the recent studies. But, he says, if people only look at the content of the answer and do not click through to the paper and see that it’s been retracted, that’s really a problem.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Gu and his team asked OpenAI’s ChatGPT, running on the GPT-4o model, questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three. While it cited non-retracted papers for other questions, the authors note it may not have recognized the retraction status of the articles. In a study from August, a different group of researchers used ChatGPT-4o mini to evaluate the quality of 217 retracted and low-quality papers from different scientific fields; they found that none of the chatbot’s responses mentioned retractions or other concerns. (No similar studies have been released on GPT-5, which came out this August.)&lt;/p&gt;  &lt;p&gt;The public uses AI chatbots to ask for medical advice and diagnose health conditions. Students and scientists increasingly use science-focused AI tools to review existing scientific literature and summarize papers. That kind of usage is likely to increase. The US National Science Foundation, for instance, invested $75 million in building AI models for science research this August.&lt;/p&gt; 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 23 Sep 2025 18:30:57 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>AI models are using material from retracted scientific papers (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/retracted-papers2a.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by &lt;em&gt;MIT Technology Review&lt;/em&gt;, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists.&lt;/p&gt;  &lt;p&gt;AI search tools and chatbots are already known to fabricate links and references. But answers based on the material from actual papers can mislead as well if those papers have been retracted.&amp;nbsp; The chatbot is “using a real paper, real material, to tell you something,” says Weikuan Gu, a medical researcher at the University of Tennessee in Memphis and an author of one of the recent studies. But, he says, if people only look at the content of the answer and do not click through to the paper and see that it’s been retracted, that’s really a problem.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Gu and his team asked OpenAI’s ChatGPT, running on the GPT-4o model, questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three. While it cited non-retracted papers for other questions, the authors note it may not have recognized the retraction status of the articles. In a study from August, a different group of researchers used ChatGPT-4o mini to evaluate the quality of 217 retracted and low-quality papers from different scientific fields; they found that none of the chatbot’s responses mentioned retractions or other concerns. (No similar studies have been released on GPT-5, which came out this August.)&lt;/p&gt;  &lt;p&gt;The public uses AI chatbots to ask for medical advice and diagnose health conditions. Students and scientists increasingly use science-focused AI tools to review existing scientific literature and summarize papers. That kind of usage is likely to increase. The US National Science Foundation, for instance, invested $75 million in building AI models for science research this August.&lt;/p&gt; 
 &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;“If [a tool is] facing the general public, then using retraction as a kind of quality indicator is very important,” says Yuanxi Fu, an information science researcher at the University of Illinois Urbana-Champaign. There’s “kind of an agreement that retracted papers have been struck off the record of science,” she says, “and the people who are outside of science—they should be warned that these are retracted papers.” OpenAI did not provide a response to a request for comment about the paper results.&lt;/p&gt;  &lt;p&gt;The problem is not limited to ChatGPT. In June,&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;MIT Technology Review&lt;/em&gt; tested AI tools specifically advertised for research work, such as Elicit, Ai2 ScholarQA (now part of the Allen Institute for Artificial Intelligence’s Asta tool), Perplexity, and Consensus, using questions based on the 21 retracted papers in Gu’s study. Elicit referenced five of the retracted papers in its answers, while Ai2 ScholarQA referenced 17, Perplexity 11, and Consensus 18—all without noting the retractions.&lt;/p&gt; 
  &lt;p&gt;Some companies have since made moves to correct the issue. “Until recently, we didn’t have great retraction data in our search engine,” says Christian Salem, cofounder of Consensus. His company has now started using retraction data from a combination of sources, including publishers and data aggregators, independent web crawling, and Retraction Watch, which manually curates and maintains a database of retractions. In a test of the same papers in August, Consensus cited only five retracted papers.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Elicit told &lt;em&gt;MIT Technology Review&lt;/em&gt; that it removes retracted papers flagged by the scholarly research catalogue OpenAlex from its database and is “still working on aggregating sources of retractions.” Ai2 told us that its tool does not automatically detect or remove retracted papers currently. Perplexity said that it “[does] not ever claim to be 100% accurate.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;However, relying on retraction databases may not be enough. Ivan Oransky, the cofounder of Retraction Watch, is careful not to describe it as a comprehensive database, saying that creating one would require more resources than anyone has: “The reason it’s resource intensive is because someone has to do it all by hand if you want it to be accurate.”&lt;/p&gt;  &lt;p&gt;Further complicating the matter is that publishers don’t share a uniform approach to retraction notices. “Where things are retracted, they can be marked as such in very different ways,” says Caitlin Bakker from University of Regina, Canada, an expert in research and discovery tools. “Correction,” “expression of concern,” “erratum,” and “retracted” are among some labels publishers may add to research papers—and these labels can be added for many reasons, including concerns about the content, methodology, and data or the presence of conflicts of interest.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Some researchers distribute their papers on preprint servers, paper repositories, and other websites, causing copies to be scattered around the web. Moreover, the data used to train AI models may not be up to date. If a paper is retracted after the model’s training cutoff date, its responses might not instantaneously reflect what's going on, says Fu. Most academic search engines don’t do a real-time check against retraction data, so you are at the mercy of how accurate their corpus is, says Aaron Tay, a librarian at Singapore Management University.&lt;/p&gt;  &lt;p&gt;Oransky and other experts advocate making more context available for models to use when creating a response. This could mean publishing information that already exists, like peer reviews commissioned by journals and critiques from the review site PubPeer, alongside the published paper.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Many publishers, such as &lt;em&gt;Nature&lt;/em&gt; and the &lt;em&gt;BMJ&lt;/em&gt;, publish retraction notices as separate articles linked to the paper, outside paywalls. Fu says companies need to effectively make use of such information, as well as any news articles in a model’s training data that mention a paper’s retraction.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The users and creators of AI tools need to do their due diligence. “We are at the very, very early stages, and essentially you have to be skeptical,” says Tay.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Ananya&lt;/em&gt;&lt;em&gt; is a freelance science and technology journalist based in Bengaluru, India.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/retracted-papers2a.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by &lt;em&gt;MIT Technology Review&lt;/em&gt;, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists.&lt;/p&gt;  &lt;p&gt;AI search tools and chatbots are already known to fabricate links and references. But answers based on the material from actual papers can mislead as well if those papers have been retracted.&amp;nbsp; The chatbot is “using a real paper, real material, to tell you something,” says Weikuan Gu, a medical researcher at the University of Tennessee in Memphis and an author of one of the recent studies. But, he says, if people only look at the content of the answer and do not click through to the paper and see that it’s been retracted, that’s really a problem.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Gu and his team asked OpenAI’s ChatGPT, running on the GPT-4o model, questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three. While it cited non-retracted papers for other questions, the authors note it may not have recognized the retraction status of the articles. In a study from August, a different group of researchers used ChatGPT-4o mini to evaluate the quality of 217 retracted and low-quality papers from different scientific fields; they found that none of the chatbot’s responses mentioned retractions or other concerns. (No similar studies have been released on GPT-5, which came out this August.)&lt;/p&gt;  &lt;p&gt;The public uses AI chatbots to ask for medical advice and diagnose health conditions. Students and scientists increasingly use science-focused AI tools to review existing scientific literature and summarize papers. That kind of usage is likely to increase. The US National Science Foundation, for instance, invested $75 million in building AI models for science research this August.&lt;/p&gt; 
 &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap alignleft"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;“If [a tool is] facing the general public, then using retraction as a kind of quality indicator is very important,” says Yuanxi Fu, an information science researcher at the University of Illinois Urbana-Champaign. There’s “kind of an agreement that retracted papers have been struck off the record of science,” she says, “and the people who are outside of science—they should be warned that these are retracted papers.” OpenAI did not provide a response to a request for comment about the paper results.&lt;/p&gt;  &lt;p&gt;The problem is not limited to ChatGPT. In June,&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;MIT Technology Review&lt;/em&gt; tested AI tools specifically advertised for research work, such as Elicit, Ai2 ScholarQA (now part of the Allen Institute for Artificial Intelligence’s Asta tool), Perplexity, and Consensus, using questions based on the 21 retracted papers in Gu’s study. Elicit referenced five of the retracted papers in its answers, while Ai2 ScholarQA referenced 17, Perplexity 11, and Consensus 18—all without noting the retractions.&lt;/p&gt; 
- &lt;p&gt;Some companies have since made moves to correct the issue. “Until recently, we didn’t have great retraction data in our search engine,” says Christian Salem, cofounder of Consensus. His company has now started using retraction data from a combination of sources, including publishers and data aggregators, independent web crawling, and Retraction Watch, which manually curates and maintains a database of retractions. In a test of the same papers in August, Consensus cited only five retracted papers.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Elicit told &lt;em&gt;MIT Technology Review&lt;/em&gt; that it removes retracted papers flagged by the scholarly research catalogue OpenAlex from its database and is “still working on aggregating sources of retractions.” Ai2 told us that its tool does not automatically detect or remove retracted papers currently. Perplexity said that it “[does] not ever claim to be 100% accurate.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;However, relying on retraction databases may not be enough. Ivan Oransky, the cofounder of Retraction Watch, is careful not to describe it as a comprehensive database, saying that creating one would require more resources than anyone has: “The reason it’s resource intensive is because someone has to do it all by hand if you want it to be accurate.”&lt;/p&gt;  &lt;p&gt;Further complicating the matter is that publishers don’t share a uniform approach to retraction notices. “Where things are retracted, they can be marked as such in very different ways,” says Caitlin Bakker from University of Regina, Canada, an expert in research and discovery tools. “Correction,” “expression of concern,” “erratum,” and “retracted” are among some labels publishers may add to research papers—and these labels can be added for many reasons, including concerns about the content, methodology, and data or the presence of conflicts of interest.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Some researchers distribute their papers on preprint servers, paper repositories, and other websites, causing copies to be scattered around the web. Moreover, the data used to train AI models may not be up to date. If a paper is retracted after the model’s training cutoff date, its responses might not instantaneously reflect what's going on, says Fu. Most academic search engines don’t do a real-time check against retraction data, so you are at the mercy of how accurate their corpus is, says Aaron Tay, a librarian at Singapore Management University.&lt;/p&gt;  &lt;p&gt;Oransky and other experts advocate making more context available for models to use when creating a response. This could mean publishing information that already exists, like peer reviews commissioned by journals and critiques from the review site PubPeer, alongside the published paper.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Many publishers, such as &lt;em&gt;Nature&lt;/em&gt; and the &lt;em&gt;BMJ&lt;/em&gt;, publish retraction notices as separate articles linked to the paper, outside paywalls. Fu says companies need to effectively make use of such information, as well as any news articles in a model’s training data that mention a paper’s retraction.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The users and creators of AI tools need to do their due diligence. “We are at the very, very early stages, and essentially you have to be skeptical,” says Tay.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Ananya&lt;/em&gt;&lt;em&gt; is a freelance science and technology journalist based in Bengaluru, India.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</guid><pubDate>Tue, 23 Sep 2025 09:00:00 +0000</pubDate></item><item><title>[NEW] At Climate Week NYC, NVIDIA Details AI’s Key Role in the Sustainable Energy Transition (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that accelerated computing is sustainable computing.&lt;/p&gt;
+ &lt;p&gt;Some companies have since made moves to correct the issue. “Until recently, we didn’t have great retraction data in our search engine,” says Christian Salem, cofounder of Consensus. His company has now started using retraction data from a combination of sources, including publishers and data aggregators, independent web crawling, and Retraction Watch, which manually curates and maintains a database of retractions. In a test of the same papers in August, Consensus cited only five retracted papers.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Elicit told &lt;em&gt;MIT Technology Review&lt;/em&gt; that it removes retracted papers flagged by the scholarly research catalogue OpenAlex from its database and is “still working on aggregating sources of retractions.” Ai2 told us that its tool does not automatically detect or remove retracted papers currently. Perplexity said that it “[does] not ever claim to be 100% accurate.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;However, relying on retraction databases may not be enough. Ivan Oransky, the cofounder of Retraction Watch, is careful not to describe it as a comprehensive database, saying that creating one would require more resources than anyone has: “The reason it’s resource intensive is because someone has to do it all by hand if you want it to be accurate.”&lt;/p&gt;  &lt;p&gt;Further complicating the matter is that publishers don’t share a uniform approach to retraction notices. “Where things are retracted, they can be marked as such in very different ways,” says Caitlin Bakker from University of Regina, Canada, an expert in research and discovery tools. “Correction,” “expression of concern,” “erratum,” and “retracted” are among some labels publishers may add to research papers—and these labels can be added for many reasons, including concerns about the content, methodology, and data or the presence of conflicts of interest.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Some researchers distribute their papers on preprint servers, paper repositories, and other websites, causing copies to be scattered around the web. Moreover, the data used to train AI models may not be up to date. If a paper is retracted after the model’s training cutoff date, its responses might not instantaneously reflect what's going on, says Fu. Most academic search engines don’t do a real-time check against retraction data, so you are at the mercy of how accurate their corpus is, says Aaron Tay, a librarian at Singapore Management University.&lt;/p&gt;  &lt;p&gt;Oransky and other experts advocate making more context available for models to use when creating a response. This could mean publishing information that already exists, like peer reviews commissioned by journals and critiques from the review site PubPeer, alongside the published paper.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Many publishers, such as &lt;em&gt;Nature&lt;/em&gt; and the &lt;em&gt;BMJ&lt;/em&gt;, publish retraction notices as separate articles linked to the paper, outside paywalls. Fu says companies need to effectively make use of such information, as well as any news articles in a model’s training data that mention a paper’s retraction.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The users and creators of AI tools need to do their due diligence. “We are at the very, very early stages, and essentially you have to be skeptical,” says Tay.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Ananya&lt;/em&gt;&lt;em&gt; is a freelance science and technology journalist based in Bengaluru, India.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</guid><pubDate>Tue, 23 Sep 2025 09:00:00 +0000</pubDate></item><item><title>At Climate Week NYC, NVIDIA Details AI’s Key Role in the Sustainable Energy Transition (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that accelerated computing is sustainable computing.&lt;/p&gt;
 &lt;p&gt;At Climate Week NYC, taking place through Sept. 26 in New York City, NVIDIA is showcasing how accelerated computing is propelling the sustainable energy transition and advancing climate research.&lt;/p&gt;
+&lt;p&gt;[embedded content]&lt;/p&gt;
 &lt;p&gt;The summit brings together researchers, startups, scientists, technologists, nonprofits and policymakers to discuss bold ideas for climate action. This year’s theme is energy: where it comes from, how to scale it and how AI can optimize the grid in newfound ways.&lt;/p&gt;
 &lt;p&gt;Throughout the week, NVIDIA will be highlighting its own innovative climate technologies, as well as a pair of recently published product carbon footprint reports on the emissions intensity of NVIDIA GPUs.&lt;/p&gt;
 &lt;h2&gt;&lt;b&gt;AI Usage Isn’t Black and White — It Can Actually Be Green&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
@@ -242,6 +77,7 @@
 &lt;p&gt;This new reference design enables the transformation of data centers into fully integrated AI factories — optimized so that every watt of energy contributes to intelligence generation.&lt;/p&gt;
 &lt;p&gt;“As a collaborator on NVIDIA’s reference design for giga-scale AI factories, we’re helping prove that AI compute can be power-flexible,” said Varun Sivaram, founder and CEO of Emerald AI. “It’s a paradigm shift with a massive prize: unlocking 100 gigawatts of untapped power grid capacity and resolving AI’s energy bottleneck while promoting affordable, reliable and clean power grids.”&lt;/p&gt;
 &lt;p&gt;Emerald AI is a member of the NVIDIA Inception program for startups, within the Sustainable Futures initiative. These companies are pioneering developments in fields such as green computing, sustainable infrastructure, wildlife conservation and more.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Sustainable Futures members &lt;/span&gt;&lt;span&gt;Vibrant Planet&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;FortyGuard&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;Pachama&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;Wherobots&lt;/span&gt;&lt;span&gt; are also attending this week’s summit.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;b&gt;Decreasing the Carbon Footprint of NVIDIA Products and Operations&lt;/b&gt;&lt;/h2&gt;
 &lt;p&gt;NVIDIA is continuously working to decrease its own carbon footprint.&lt;/p&gt;
 &lt;p&gt;Its first product carbon footprint summary comparison was recently released — revealing a 24% reduction in embodied carbon emissions intensity between NVIDIA HGX H100 and HGX B200 baseboards.&lt;/p&gt;
@@ -262,6 +98,7 @@
 		&lt;footer class="entry-footer  " id="post-footer"&gt;
 					&lt;/footer&gt;</description><content:encoded>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that accelerated computing is sustainable computing.&lt;/p&gt;
 &lt;p&gt;At Climate Week NYC, taking place through Sept. 26 in New York City, NVIDIA is showcasing how accelerated computing is propelling the sustainable energy transition and advancing climate research.&lt;/p&gt;
+&lt;p&gt;[embedded content]&lt;/p&gt;
 &lt;p&gt;The summit brings together researchers, startups, scientists, technologists, nonprofits and policymakers to discuss bold ideas for climate action. This year’s theme is energy: where it comes from, how to scale it and how AI can optimize the grid in newfound ways.&lt;/p&gt;
 &lt;p&gt;Throughout the week, NVIDIA will be highlighting its own innovative climate technologies, as well as a pair of recently published product carbon footprint reports on the emissions intensity of NVIDIA GPUs.&lt;/p&gt;
 &lt;h2&gt;&lt;b&gt;AI Usage Isn’t Black and White — It Can Actually Be Green&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
@@ -333,6 +170,7 @@
 &lt;p&gt;This new reference design enables the transformation of data centers into fully integrated AI factories — optimized so that every watt of energy contributes to intelligence generation.&lt;/p&gt;
 &lt;p&gt;“As a collaborator on NVIDIA’s reference design for giga-scale AI factories, we’re helping prove that AI compute can be power-flexible,” said Varun Sivaram, founder and CEO of Emerald AI. “It’s a paradigm shift with a massive prize: unlocking 100 gigawatts of untapped power grid capacity and resolving AI’s energy bottleneck while promoting affordable, reliable and clean power grids.”&lt;/p&gt;
 &lt;p&gt;Emerald AI is a member of the NVIDIA Inception program for startups, within the Sustainable Futures initiative. These companies are pioneering developments in fields such as green computing, sustainable infrastructure, wildlife conservation and more.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Sustainable Futures members &lt;/span&gt;&lt;span&gt;Vibrant Planet&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;FortyGuard&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;Pachama&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;Wherobots&lt;/span&gt;&lt;span&gt; are also attending this week’s summit.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;b&gt;Decreasing the Carbon Footprint of NVIDIA Products and Operations&lt;/b&gt;&lt;/h2&gt;
 &lt;p&gt;NVIDIA is continuously working to decrease its own carbon footprint.&lt;/p&gt;
 &lt;p&gt;Its first product carbon footprint summary comparison was recently released — revealing a 24% reduction in embodied carbon emissions intensity between NVIDIA HGX H100 and HGX B200 baseboards.&lt;/p&gt;
@@ -351,7 +189,7 @@
 &lt;p&gt;Learn more about NVIDIA Earth-2 and sustainable computing solutions.&lt;/p&gt;
 
 		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/</guid><pubDate>Tue, 23 Sep 2025 10:00:45 +0000</pubDate></item><item><title>[NEW] The Download: AI’s retracted papers problem (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading has-medium-font-size"&gt;AI models are using material from retracted scientific papers&lt;/h3&gt;  &lt;p&gt;&lt;strong&gt;The news:&amp;nbsp;&lt;/strong&gt;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. In one such study, researchers asked OpenAI’s ChatGPT questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;&lt;strong&gt;The bigger picture:&amp;nbsp;&lt;/strong&gt;The findings raise serious questions about how reliable AI tools are at evaluating scientific research, or answering people’s health queries. They could also complicate efforts to invest in AI tools for scientists. And it’s not an easy problem to fix.&amp;nbsp;Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Ananya&lt;/em&gt;&lt;/p&gt; 
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/</guid><pubDate>Tue, 23 Sep 2025 10:00:45 +0000</pubDate></item><item><title>The Download: AI’s retracted papers problem (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading has-medium-font-size"&gt;AI models are using material from retracted scientific papers&lt;/h3&gt;  &lt;p&gt;&lt;strong&gt;The news:&amp;nbsp;&lt;/strong&gt;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. In one such study, researchers asked OpenAI’s ChatGPT questions based on information from 21 retracted papers on medical imaging. The chatbot’s answers referenced retracted papers in five cases but advised caution in only three.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;&lt;strong&gt;The bigger picture:&amp;nbsp;&lt;/strong&gt;The findings raise serious questions about how reliable AI tools are at evaluating scientific research, or answering people’s health queries. They could also complicate efforts to invest in AI tools for scientists. And it’s not an easy problem to fix.&amp;nbsp;Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Ananya&lt;/em&gt;&lt;/p&gt; 
    &lt;h3 class="wp-block-heading has-medium-font-size"&gt;Join us at 1pm ET today to meet our Innovator of the Year&lt;/h3&gt;  &lt;p&gt;Every year, MIT Technology Review awards Innovator of the Year to someone whose work we admire. This year we selected Sneha Goenka, who designed the computations behind&amp;nbsp;the world’s fastest whole-genome sequencing method.&lt;/p&gt; 
  &lt;p&gt;Her work could transform medical care by allowing physicians to sequence a patient’s genome and diagnose genetic conditions in less than eight hours.&lt;/p&gt;  &lt;p&gt;Register here&amp;nbsp;to join an exclusive subscriber-only Roundtable conversation with Goenka, Leilani Battle, assistant professor at the University of Washington, and our editor in chief Mat Honan at 1pm ET today.&amp;nbsp;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 There’s scant evidence tylenol use during pregnancy causes autism&lt;/strong&gt;&lt;br /&gt;The biggest cause of autism is genetic—that’s why it often runs in families. (Scientific American $)&lt;br /&gt;+ &lt;em&gt;Anti-vaxxers are furious the White House didn’t link autism to vaccines.&lt;/em&gt; (Ars Technica)&lt;br /&gt;+ &lt;em&gt;The company that sells Tylenol is being forced to defend the medicine’s safety&lt;/em&gt;. (Axios)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2 Nvidia is investing up to $100 billion in OpenAI&lt;/strong&gt;&lt;br /&gt;OpenAI is already a major customer, but this will bind the two even more closely together. (Reuters $)&lt;br /&gt;+ &lt;em&gt;America’s top companies keep talking about AI—but they can’t explain its upsides.&lt;/em&gt; (FT $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;3 Denmark’s biggest airport was shut down by drones&lt;/strong&gt;&lt;br /&gt;Its prime minister refused to rule out Russian involvement. (FT $)&lt;br /&gt;+ &lt;em&gt;Poland and Estonia have been speaking up at the UN about Russian incursions into their airspace. &lt;/em&gt;(The Guardian)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;4 Google is facing another antitrust trial in the US&lt;/strong&gt;&lt;br /&gt;This one will focus on remedies to its dominance of the advertising tech market. (Ars Technica)&lt;br /&gt;+ &lt;em&gt;The FTC is also taking Amazon to court over accusations the company tricks people into paying for Prime. &lt;/em&gt;(NPR)&lt;br /&gt;+ T&lt;em&gt;he Supreme Court has ruled to allow Trump’s firing of a Democrat FTC commissioner.&lt;/em&gt; (NYT $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;5 Here’s the potential impact of Trump’s H-1B crackdown on tech&lt;/strong&gt;&lt;br /&gt;It’s likely to push a lot of skilled workers elsewhere. (Rest of World)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;6 How TikTok’s deal to stay in the US will work&lt;/strong&gt;&lt;br /&gt;Oracle will manage its algorithm for US users and oversee security operations. (ABC)&lt;br /&gt;+ &lt;em&gt;It’s a giant prize for Trump’s friend Larry Ellison, Oracle’s cofounder.&lt;/em&gt; (NYT $)&lt;br /&gt;+ &lt;em&gt;Trump and his allies are now likely to exert a lot of political influence over TikTok.&lt;/em&gt; (WP $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;7 Record labels are escalating their lawsuit against an AI music startup&lt;/strong&gt;&lt;br /&gt;They claim it knowingly pirated songs from YouTube to train its generative AI models. (The Verge $)&lt;br /&gt;+ &lt;em&gt;AI is coming for music, too.&lt;/em&gt; (MIT Technology Review)&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;8 There’s a big fight in the US over who pays for weight loss drugs&lt;/strong&gt;&lt;br /&gt;Although they’ll save insurers money long-term, they cost a lot upfront. (WP $)&lt;br /&gt;+ &lt;em&gt;We’re learning more about what weight-loss drugs do to the body. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;9 How a lone vigilante ended up blowing up 5G towers&lt;/strong&gt;&lt;br /&gt;A little bit of knowledge can be a dangerous thing. (Wired $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;10 The moon is rusting&amp;nbsp;🌕&lt;/strong&gt;&lt;br /&gt;And it’s our fault. Awkward! (Nature)&lt;/p&gt;   
 
@@ -363,4 +201,898 @@
 
  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“At the heart of this is people trying to look for simple answers to complex problems.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—James Cusack, chief executive of an autism charity called Autistica, tells&amp;nbsp;Nature&amp;nbsp;what he thinks is driving Trump and others to incorrectly link the condition with Tylenol use during pregnancy.&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="A mobility walker sinking in an hourglass." class="wp-image-1096661" src="https://wp.technologyreview.com/wp-content/uploads/2024/08/240814_longevity_essay.jpg" /&gt;&lt;div class="image-credit"&gt;SARAH ROGERS / MITTR | PHOTOS GETTY&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;&lt;strong&gt;Maybe you will be able to live past 122&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;How long can humans live? This is a good time to ask the question. The longevity scene is having a moment, and a few key areas of research suggest that we might be able to push human life spans further, and potentially reverse at least some signs of aging.&lt;/p&gt;  &lt;p&gt;Researchers can’t even agree on what the exact mechanisms of aging are and which they should be targeting. Debates continue to rage over how long it’s possible for humans to live—and whether there is a limit at all.&lt;/p&gt; 
  &lt;p&gt;But it looks likely that something will be developed in the coming decades that will help us live longer, in better health.&amp;nbsp;Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt; 
-   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ This website lets you send a&amp;nbsp;letter&amp;nbsp;to your future self.&amp;nbsp;&lt;br /&gt;+ Here’s what&amp;nbsp;Brian Eno&amp;nbsp;has to say about art.&lt;br /&gt;+ This&amp;nbsp;photographer&amp;nbsp;takes stunning pictures of Greenland.&amp;nbsp;&lt;br /&gt;+ The Hungarian dish&amp;nbsp;Rakott krumpli&amp;nbsp;isn’t going to win any health plaudits, but it looks very comforting all the same.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</guid><pubDate>Tue, 23 Sep 2025 12:10:00 +0000</pubDate></item></channel></rss>
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ This website lets you send a&amp;nbsp;letter&amp;nbsp;to your future self.&amp;nbsp;&lt;br /&gt;+ Here’s what&amp;nbsp;Brian Eno&amp;nbsp;has to say about art.&lt;br /&gt;+ This&amp;nbsp;photographer&amp;nbsp;takes stunning pictures of Greenland.&amp;nbsp;&lt;br /&gt;+ The Hungarian dish&amp;nbsp;Rakott krumpli&amp;nbsp;isn’t going to win any health plaudits, but it looks very comforting all the same.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</guid><pubDate>Tue, 23 Sep 2025 12:10:00 +0000</pubDate></item><item><title>[NEW] TechCrunch Disrupt 2025 ticket rates increase after just 4 days (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Your window to save up to $668 on &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt; closes in just 4 days. Savings end September 26 at 11:59 p.m. PT. Join 10,000+ founders, investors, and innovators shaping the future of tech at the conference where startup legends like Discord and Mint got their start.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Celebrate 20 years of TechCrunch at the biggest tech gathering of the year in San Francisco, taking place October 27–29. &lt;strong&gt;Secure your pass now&lt;/strong&gt; before prices rise at the end of this week.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 4 days left" class="wp-image-3010838" height="383" src="https://techcrunch.com/wp-content/uploads/2025/05/TC25_4Days-16X9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-learn-from-the-top-in-the-industry"&gt;Learn from the top in the industry&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Disrupt 2025 brings together &lt;strong&gt;250+ leading innovators&lt;/strong&gt; to define the future through &lt;strong&gt;200+ thought-provoking sessions&lt;/strong&gt;, including:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-1706791" height="453" src="https://techcrunch.com/wp-content/uploads/2018/09/disruptsf18_baiju_bhatt_robinhood-1214.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Vinod Khosla, Founder of Khosla Ventures, speaks onstage during TechCrunch Disrupt 2024 Day 1 at Moscone Center on October 28, 2024 in San Francisco, California." class="wp-image-2907131" height="453" src="https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181599313.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White/Getty Images for TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="waymo's tekedra mawakana at strictly vc" class="wp-image-2673588" height="453" src="https://techcrunch.com/wp-content/uploads/2024/03/53560747222_fa1ff0b7c7_k.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Slava Blazer Photography&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-1707093" height="419" src="https://techcrunch.com/wp-content/uploads/2018/09/disruptsf18_brynn_putnam_mirror-1615.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-the-full-disrupt-experience"&gt;The full Disrupt experience&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Not only will you hear from tech’s top voices, but you’ll also witness the intense Startup Battlefield 200, explore 100+ exhibitor demos, join 2,000+ curated networking meetings, and soak up the unmatched energy as founders, VCs, operators, and innovators share the same space for three whole days.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Don’t miss out on ticket savings of up to $668 before September 26 at 11:59 p.m. PT. &lt;strong&gt;Secure your savings here&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-968067" height="454" src="https://techcrunch.com/wp-content/uploads/2014/03/8697162730_285af0487f_c.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Your window to save up to $668 on &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt; closes in just 4 days. Savings end September 26 at 11:59 p.m. PT. Join 10,000+ founders, investors, and innovators shaping the future of tech at the conference where startup legends like Discord and Mint got their start.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Celebrate 20 years of TechCrunch at the biggest tech gathering of the year in San Francisco, taking place October 27–29. &lt;strong&gt;Secure your pass now&lt;/strong&gt; before prices rise at the end of this week.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 4 days left" class="wp-image-3010838" height="383" src="https://techcrunch.com/wp-content/uploads/2025/05/TC25_4Days-16X9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-learn-from-the-top-in-the-industry"&gt;Learn from the top in the industry&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Disrupt 2025 brings together &lt;strong&gt;250+ leading innovators&lt;/strong&gt; to define the future through &lt;strong&gt;200+ thought-provoking sessions&lt;/strong&gt;, including:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-1706791" height="453" src="https://techcrunch.com/wp-content/uploads/2018/09/disruptsf18_baiju_bhatt_robinhood-1214.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Vinod Khosla, Founder of Khosla Ventures, speaks onstage during TechCrunch Disrupt 2024 Day 1 at Moscone Center on October 28, 2024 in San Francisco, California." class="wp-image-2907131" height="453" src="https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181599313.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White/Getty Images for TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="waymo's tekedra mawakana at strictly vc" class="wp-image-2673588" height="453" src="https://techcrunch.com/wp-content/uploads/2024/03/53560747222_fa1ff0b7c7_k.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Slava Blazer Photography&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-1707093" height="419" src="https://techcrunch.com/wp-content/uploads/2018/09/disruptsf18_brynn_putnam_mirror-1615.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-the-full-disrupt-experience"&gt;The full Disrupt experience&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Not only will you hear from tech’s top voices, but you’ll also witness the intense Startup Battlefield 200, explore 100+ exhibitor demos, join 2,000+ curated networking meetings, and soak up the unmatched energy as founders, VCs, operators, and innovators share the same space for three whole days.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Don’t miss out on ticket savings of up to $668 before September 26 at 11:59 p.m. PT. &lt;strong&gt;Secure your savings here&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-968067" height="454" src="https://techcrunch.com/wp-content/uploads/2014/03/8697162730_285af0487f_c.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/</guid><pubDate>Tue, 23 Sep 2025 14:00:00 +0000</pubDate></item><item><title>[NEW] Former NotebookLM devs’ new app, Huxe, taps audio to help you with news and research (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/former-notebooklm-devs-new-app-huxe-taps-audio-to-help-you-with-news-and-research/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google’s AI note-taking and research assistant NotebookLM took off to a spectacular reception at launch, capturing people’s imaginations with its ability to quickly whip up summaries and reports, and turn reams of documents into “podcasts” with AI hosts discussing the topic to help users in their research. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Inspired by the success of the project, three devs who worked on NotebookLM since its inception are now building an audio-first app called Huxe, which can similarly help users dive deep into topics by generating a “podcast” with multiple AI hosts. The startup said on Tuesday that it had raised $4.6 million in funding from Conviction, Genius Ventures, Figma CEO Dylan Field, and Google Research’s chief scientist, Jeff Dean.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The app launched on an invite-only basis in June, and is now available to everyone on iOS and Android.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Raiza Martin, along with Jason Spielman and Stephen Hughes, left Google in December 2024 to explore their own ideas. They initially launched a chatbot slanted toward more B2B use cases, but decided to focus on the consumer market and built a personal assistant in March 2025 that could generate personalized images, videos, and audio.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="A pair of screenshot showing audio app Huxe's home screen where you can go through different news briefs and deepdive podcasts generated by AI." class="wp-image-3049054" height="594" src="https://techcrunch.com/wp-content/uploads/2025/09/DailyBrief.jpeg?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“During this phase, we realized that people liked having the ability to generate audio for different topics. We also observed that people often used the app at specific times to get their daily brief or catch up with news while getting ready,” Martin told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That insight led the three to lean into audio and build Huxe.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Huxe essentially gives you a daily briefing based on the emails you receive and by connecting to your calendars to understand your schedule. It also lets you explore topics, and like NotebookLM, it will generate a podcast with AI hosts discussing the topic. You can interact with the AI hosts at any point in time, ask questions about the topic, or request them to explain points in a different way.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;What’s different here is that Huxe lets users build a “live station” of any topic, like tech news, sports, or even celebrity gossip. After you listen to a station, the app will give you updates by tapping different sources — helpful for following developing news. There’s also a personalized interest feed, which automatically generates audio content that might interest you.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large is-resized"&gt;&lt;img alt="A pair of screenshots showing Live Station feature on audio app Huxe. These stations are representative of topics you can follow evolve over time. Every time you open a live station, the app sends you updates." class="wp-image-3049055" height="594" src="https://techcrunch.com/wp-content/uploads/2025/09/LiveStations-Overview.jpeg?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Martin said that during the early NotebookLM days, a cohort of power users drove the product feedback, and Huxe is seeing similar signs.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“This is a well-suited product for people who spend all day on their screens with tons of tabs open on their browser. People who might want to catch up on their email, schedule, and news can do that without looking at their screen,” she said.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Huxe currently is suited to the information market, but entertainment can be a possible use case, too. India-based audio companies like Pocket FM and Kuku FM, for example, tap AI to let users create content. And Huxe is not the only one using audio as a medium. Startups like ElevenLabs and Oboe are leveraging audio, too, as are Google and Meta.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google’s AI note-taking and research assistant NotebookLM took off to a spectacular reception at launch, capturing people’s imaginations with its ability to quickly whip up summaries and reports, and turn reams of documents into “podcasts” with AI hosts discussing the topic to help users in their research. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Inspired by the success of the project, three devs who worked on NotebookLM since its inception are now building an audio-first app called Huxe, which can similarly help users dive deep into topics by generating a “podcast” with multiple AI hosts. The startup said on Tuesday that it had raised $4.6 million in funding from Conviction, Genius Ventures, Figma CEO Dylan Field, and Google Research’s chief scientist, Jeff Dean.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The app launched on an invite-only basis in June, and is now available to everyone on iOS and Android.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Raiza Martin, along with Jason Spielman and Stephen Hughes, left Google in December 2024 to explore their own ideas. They initially launched a chatbot slanted toward more B2B use cases, but decided to focus on the consumer market and built a personal assistant in March 2025 that could generate personalized images, videos, and audio.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="A pair of screenshot showing audio app Huxe's home screen where you can go through different news briefs and deepdive podcasts generated by AI." class="wp-image-3049054" height="594" src="https://techcrunch.com/wp-content/uploads/2025/09/DailyBrief.jpeg?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“During this phase, we realized that people liked having the ability to generate audio for different topics. We also observed that people often used the app at specific times to get their daily brief or catch up with news while getting ready,” Martin told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That insight led the three to lean into audio and build Huxe.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Huxe essentially gives you a daily briefing based on the emails you receive and by connecting to your calendars to understand your schedule. It also lets you explore topics, and like NotebookLM, it will generate a podcast with AI hosts discussing the topic. You can interact with the AI hosts at any point in time, ask questions about the topic, or request them to explain points in a different way.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;What’s different here is that Huxe lets users build a “live station” of any topic, like tech news, sports, or even celebrity gossip. After you listen to a station, the app will give you updates by tapping different sources — helpful for following developing news. There’s also a personalized interest feed, which automatically generates audio content that might interest you.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large is-resized"&gt;&lt;img alt="A pair of screenshots showing Live Station feature on audio app Huxe. These stations are representative of topics you can follow evolve over time. Every time you open a live station, the app sends you updates." class="wp-image-3049055" height="594" src="https://techcrunch.com/wp-content/uploads/2025/09/LiveStations-Overview.jpeg?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Martin said that during the early NotebookLM days, a cohort of power users drove the product feedback, and Huxe is seeing similar signs.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“This is a well-suited product for people who spend all day on their screens with tons of tabs open on their browser. People who might want to catch up on their email, schedule, and news can do that without looking at their screen,” she said.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Huxe currently is suited to the information market, but entertainment can be a possible use case, too. India-based audio companies like Pocket FM and Kuku FM, for example, tap AI to let users create content. And Huxe is not the only one using audio as a medium. Startups like ElevenLabs and Oboe are leveraging audio, too, as are Google and Meta.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/former-notebooklm-devs-new-app-huxe-taps-audio-to-help-you-with-news-and-research/</guid><pubDate>Tue, 23 Sep 2025 14:00:00 +0000</pubDate></item><item><title>[NEW] AI company Superpanel raises $5.3M seed to automate legal intake (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/superpanel-raises-5-3m-seed-to-automate-legal-intake/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/Superpanel-Founders.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;For Julien Emery, the problem has always been personal.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;He’s the CEO and co-founder of Superpanel, a platform that helps law firms seamlessly onboard new clients.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;He listed emotional encounters with the law: As a Canadian, he found access to legal help hard and expensive; he also recalls his mother in a car accident, and how the legal payout helped keep his family afloat for years. He found the legal intake — the process of a firm evaluating a new client or request — tedious.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“For consumers, it’s a maze of forms, phone calls, and dropped leads that cause most people to give up before getting help,” he told TechCrunch. “For firms, it’s a costly, error-prone bottleneck.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before the recent advancements in artificial intelligence, he said that the intake process was regarded as too complex for automation. But that’s changed. Emery worked at Hootsuite, then founded the health insurance underwriting platform Allay (which exited to Novo Benefits), before teaming up with his friend Dingyu Zhang, who had a background in AI, to launch Superpanel in 2024.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Superpanel automates half the work of legal intake, Emery said, managing collection and feedback. It provides plaintiff law firms with a “digital teammate” that helps with escalation and compliance. “It engages clients across phone, texting, email, and forums, guiding them through their story and sharing documents,” he continued. For firms, it helps sort case type, jurisdiction, and documentation.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“When there’s risk of ambiguity, the system escalates to a human team member,” he said. “The result is a unified, multi-channel workflow that delivers measurable results and gives firms a system they can trust like a real employee.”&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company announced Tuesday a seed $5.3 million raise in a round co-led by Outlander VC and Field Ventures. Emery said he met some investors in this round through his last startup, and those early investors introduced him to the ones who led the round for this new one. Others in this round include LOI Venture (co-founded by the founder of Hootsuite), Zenda Capital, 8-Bit Capital, and Behind Genius Ventures.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We’ll use the funding to accelerate hiring and expand Superpanel’s capabilities for plaintiff law firms,” he said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Legal is one of the top industries seeing transformation as artificial intelligence continues to innovate. So Superpanel certainly isn’t alone in this space, and its competitors include Clio Grow, LegalClerk.ai, MyCase, and Whippy.ai.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;But Emery is hoping Superpanel will stand out from the pack. “Consumers now expect answers and solutions to be instant and self-serve, shaped by AI tools and the online experiences they use every day,” Emery said.&amp;nbsp;“Superpanel guides them continuously across that journey.”&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/Superpanel-Founders.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;For Julien Emery, the problem has always been personal.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;He’s the CEO and co-founder of Superpanel, a platform that helps law firms seamlessly onboard new clients.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;He listed emotional encounters with the law: As a Canadian, he found access to legal help hard and expensive; he also recalls his mother in a car accident, and how the legal payout helped keep his family afloat for years. He found the legal intake — the process of a firm evaluating a new client or request — tedious.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“For consumers, it’s a maze of forms, phone calls, and dropped leads that cause most people to give up before getting help,” he told TechCrunch. “For firms, it’s a costly, error-prone bottleneck.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before the recent advancements in artificial intelligence, he said that the intake process was regarded as too complex for automation. But that’s changed. Emery worked at Hootsuite, then founded the health insurance underwriting platform Allay (which exited to Novo Benefits), before teaming up with his friend Dingyu Zhang, who had a background in AI, to launch Superpanel in 2024.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Superpanel automates half the work of legal intake, Emery said, managing collection and feedback. It provides plaintiff law firms with a “digital teammate” that helps with escalation and compliance. “It engages clients across phone, texting, email, and forums, guiding them through their story and sharing documents,” he continued. For firms, it helps sort case type, jurisdiction, and documentation.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“When there’s risk of ambiguity, the system escalates to a human team member,” he said. “The result is a unified, multi-channel workflow that delivers measurable results and gives firms a system they can trust like a real employee.”&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company announced Tuesday a seed $5.3 million raise in a round co-led by Outlander VC and Field Ventures. Emery said he met some investors in this round through his last startup, and those early investors introduced him to the ones who led the round for this new one. Others in this round include LOI Venture (co-founded by the founder of Hootsuite), Zenda Capital, 8-Bit Capital, and Behind Genius Ventures.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We’ll use the funding to accelerate hiring and expand Superpanel’s capabilities for plaintiff law firms,” he said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Legal is one of the top industries seeing transformation as artificial intelligence continues to innovate. So Superpanel certainly isn’t alone in this space, and its competitors include Clio Grow, LegalClerk.ai, MyCase, and Whippy.ai.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;But Emery is hoping Superpanel will stand out from the pack. “Consumers now expect answers and solutions to be instant and self-serve, shaped by AI tools and the online experiences they use every day,” Emery said.&amp;nbsp;“Superpanel guides them continuously across that journey.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/superpanel-raises-5-3m-seed-to-automate-legal-intake/</guid><pubDate>Tue, 23 Sep 2025 14:50:00 +0000</pubDate></item><item><title>[NEW] Meta launches super PAC to fight AI regulation as state policies mount (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/meta-launches-super-pac-to-fight-ai-regulation-as-state-policies-mount/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Meta has raised the stakes in Big Tech’s fight against AI regulation. The Facebook-maker is investing “tens of millions” of dollars into a new super PAC to fight state-level tech policy proposals that could stifle AI advancement, reports Axios.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meta’s pro-AI PAC, called the American Technology Excellence Project, is the company’s latest effort to combat policies it sees as harmful to the development of AI. Last month, Meta launched a California-focused PAC to back tech-friendly candidates in state races.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Axios reports that Meta’s new super PAC will be run by Republican veteran Brian Baker and Democratic consulting firm Hilltop Public Solutions, and will work to elect tech-friendly politicians from both parties in next year’s midterm elections. Rachel Holland, a Meta spokesperson, told the outlet that the super PAC will focus on promoting and defending U.S. tech companies and leadership, advocating for AI progress, and putting parents in charge of how their children experience online apps and AI technologies. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The focus on parental control comes amid growing child safety concerns surrounding AI tools. Meta has come under particular scrutiny after leaked internal documents showed the company’s chatbots were allowed to have “romantic” chats with kids and whistleblower reports alleged that the company may have suppressed research on child safety.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meta has not shared which states its super PAC would focus on, nor how many people the PAC would employ. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The PAC comes at a time when many states are proposing AI regulations, spurred by a perceived failure of the federal government to address the issue. More than 1,000 bills were introduced in all 50 states related to AI during the 2025 legislative session. In California specifically, two bills passed and are awaiting signature or veto by Governor Gavin Newsom: SB 243, a bill that would regulate AI companion chatbots to protect minors and vulnerable users, and SB 53, a bill that would set new transparency requirements on large AI companies. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Reached for comment, Meta VP of public policy Brian Rice said the new group would “support the election of state candidates across the country who embrace AI development, champion the U.S. technology industry, and defend American tech leadership at home and abroad.”&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Silicon Valley has picked up the pace this year to try to curb states’ abilities to pass AI legislation, arguing that such a “patchwork” would be difficult for powerful AI companies to navigate and slow down innovation at a time when the U.S. is racing to beat China in AI development. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Last month, Andreessen Horowitz and OpenAI president Greg Brockman launched a Silicon Valley super PAC with $100 million dedicated to advocating against AI regulation. Earlier this year, a proposal that would bar states from regulating AI at all for 10 years almost made it into the federal budget, but was ultimately struck down. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Got a sensitive tip or confidential documents? We’re reporting on the inner workings of the AI industry — from the companies shaping its future to the people impacted by their decisions. Reach out to Rebecca Bellan at&amp;nbsp;&lt;/em&gt;&lt;em&gt;rebecca.bellan@techcrunch.com&lt;/em&gt;&lt;em&gt;&amp;nbsp;and Maxwell Zeff at&amp;nbsp;&lt;/em&gt;&lt;em&gt;maxwell.zeff@techcrunch.com&lt;/em&gt;&lt;em&gt;. For secure communication, you can contact us via Signal at&amp;nbsp;@rebeccabellan.491 and&amp;nbsp;@mzeff.88.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Meta has raised the stakes in Big Tech’s fight against AI regulation. The Facebook-maker is investing “tens of millions” of dollars into a new super PAC to fight state-level tech policy proposals that could stifle AI advancement, reports Axios.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meta’s pro-AI PAC, called the American Technology Excellence Project, is the company’s latest effort to combat policies it sees as harmful to the development of AI. Last month, Meta launched a California-focused PAC to back tech-friendly candidates in state races.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Axios reports that Meta’s new super PAC will be run by Republican veteran Brian Baker and Democratic consulting firm Hilltop Public Solutions, and will work to elect tech-friendly politicians from both parties in next year’s midterm elections. Rachel Holland, a Meta spokesperson, told the outlet that the super PAC will focus on promoting and defending U.S. tech companies and leadership, advocating for AI progress, and putting parents in charge of how their children experience online apps and AI technologies. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The focus on parental control comes amid growing child safety concerns surrounding AI tools. Meta has come under particular scrutiny after leaked internal documents showed the company’s chatbots were allowed to have “romantic” chats with kids and whistleblower reports alleged that the company may have suppressed research on child safety.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meta has not shared which states its super PAC would focus on, nor how many people the PAC would employ. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The PAC comes at a time when many states are proposing AI regulations, spurred by a perceived failure of the federal government to address the issue. More than 1,000 bills were introduced in all 50 states related to AI during the 2025 legislative session. In California specifically, two bills passed and are awaiting signature or veto by Governor Gavin Newsom: SB 243, a bill that would regulate AI companion chatbots to protect minors and vulnerable users, and SB 53, a bill that would set new transparency requirements on large AI companies. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Reached for comment, Meta VP of public policy Brian Rice said the new group would “support the election of state candidates across the country who embrace AI development, champion the U.S. technology industry, and defend American tech leadership at home and abroad.”&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Silicon Valley has picked up the pace this year to try to curb states’ abilities to pass AI legislation, arguing that such a “patchwork” would be difficult for powerful AI companies to navigate and slow down innovation at a time when the U.S. is racing to beat China in AI development. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Last month, Andreessen Horowitz and OpenAI president Greg Brockman launched a Silicon Valley super PAC with $100 million dedicated to advocating against AI regulation. Earlier this year, a proposal that would bar states from regulating AI at all for 10 years almost made it into the federal budget, but was ultimately struck down. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Got a sensitive tip or confidential documents? We’re reporting on the inner workings of the AI industry — from the companies shaping its future to the people impacted by their decisions. Reach out to Rebecca Bellan at&amp;nbsp;&lt;/em&gt;&lt;em&gt;rebecca.bellan@techcrunch.com&lt;/em&gt;&lt;em&gt;&amp;nbsp;and Maxwell Zeff at&amp;nbsp;&lt;/em&gt;&lt;em&gt;maxwell.zeff@techcrunch.com&lt;/em&gt;&lt;em&gt;. For secure communication, you can contact us via Signal at&amp;nbsp;@rebeccabellan.491 and&amp;nbsp;@mzeff.88.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/meta-launches-super-pac-to-fight-ai-regulation-as-state-policies-mount/</guid><pubDate>Tue, 23 Sep 2025 14:51:43 +0000</pubDate></item><item><title>[NEW] Alloy is bringing data management to the robotics industry (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/ALY00_Stills-2-1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Robotics companies often have to deal with a simple but confounding problem: Robots&amp;nbsp;produce a lot of data. Even a simple robot&amp;nbsp;can easily&amp;nbsp;produce up to a terabyte of data per day,&amp;nbsp;since they continuously capture data from cameras and sensors.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sydney, Australia-based&amp;nbsp;Alloy&amp;nbsp;thinks it can help with that issue: The startup&amp;nbsp;is&amp;nbsp;building data&amp;nbsp;infrastructure&amp;nbsp;for robotics companies to help them process and organize&amp;nbsp;all the data their robots collect from&amp;nbsp;various sources, including sensors and&amp;nbsp;cameras.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;At its core, Alloy&amp;nbsp;encodes and labels&amp;nbsp;the data it collects,&amp;nbsp;and&amp;nbsp;allows users to search through their data using natural language to find bugs and errors.&amp;nbsp;Users can also&amp;nbsp;set up rules to catch&amp;nbsp;and flag&amp;nbsp;issues in the future, similar to&amp;nbsp;how observability tools flag errors in software code.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The current pattern is, you look for some kind of anomaly, and then you’ll replay the data,” Joe Harris, the founder and CEO of Alloy,&amp;nbsp;told TechCrunch. “They then are spending hours scrubbing through this data, looking for these issues that have been flagged to them, trying to diagnose from that [while] not really having a good view as to whether this has happened before, if it’s&amp;nbsp;a high-severity issue or this one-off,&amp;nbsp;edge case.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Considering how much data&amp;nbsp;a single robot produces, as robotics companies look to scale,&amp;nbsp;this data problem will continue to compound, Harris added.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Harris&amp;nbsp;has been&amp;nbsp;fascinated by&amp;nbsp;robotics&amp;nbsp;since he was a kid.&amp;nbsp;But when he graduated from college&amp;nbsp;in 2018, there weren’t&amp;nbsp;many opportunities to work in the field, so&amp;nbsp;he instead worked multiple roles across&amp;nbsp;Australian&amp;nbsp;tech companies including Atlassian and&amp;nbsp;telehealth startup&amp;nbsp;Eucalyptus.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In 2024,&amp;nbsp;he decided&amp;nbsp;the time was right&amp;nbsp;to launch a robotics company of his own. He&amp;nbsp;originally thought he’d focus on&amp;nbsp;building robots for the agriculture industry&amp;nbsp;due to&amp;nbsp;an&amp;nbsp;interest&amp;nbsp;in&amp;nbsp;vertical farming, but when he started talking to other founders,&amp;nbsp;the issue of managing the data robots produce kept coming up.&amp;nbsp;He&amp;nbsp;figured he might as well solve that&amp;nbsp;problem&amp;nbsp;first.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“If I need to solve this problem for myself and my robotics company, I will have a great horizontal solution,” Harris said. “Perhaps that&amp;nbsp;would be a more important&amp;nbsp;near-term&amp;nbsp;mission — to help enable other robotics companies to spend less time on data plumbing and more time on getting to that high reliability.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Since its launch in&amp;nbsp;February 2025,&amp;nbsp;Alloy has signed four&amp;nbsp;Australian&amp;nbsp;robotics companies as&amp;nbsp;design partners&amp;nbsp;and looks to push into the U.S. market this year.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The customers that we found have been most excited about this because they’ve gone through the pain of building and maintaining it themselves,” Harris said. “They’d much rather have a fantastic tool, like a Databricks just specifically built for robotics.”&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Alloy has also raised a little more than AUD $4.5 million&amp;nbsp;(about $3 million USD)&amp;nbsp;in&amp;nbsp;a pre-seed round that was led by Blackbird Ventures, with participation from&amp;nbsp;Airtree&amp;nbsp;Ventures, Xtal Ventures, and Skip Capital, in addition to angel investors from robotics companies.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company&amp;nbsp;doesn’t&amp;nbsp;have too many&amp;nbsp;direct&amp;nbsp;competitors yet. Many robotics companies are either retrofitting existing data management tools that&amp;nbsp;aren’t&amp;nbsp;designed for the multimodal data robots produce,&amp;nbsp;or are attempting to build their own internal data management tools.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As commercial use cases for robotics continue&amp;nbsp;to increase, Alloy hopes it will be able to capture a good share of the&amp;nbsp;growing market.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“It’s never been a better time to build a robotics company,” Harris said. “I really want to make it possible for the next&amp;nbsp;10,000,&amp;nbsp;100,000 robotics companies that&amp;nbsp;don’t&amp;nbsp;yet exist, that inevitably will&amp;nbsp;not have to necessarily reinvent the wheel, like every company has.”&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/ALY00_Stills-2-1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Robotics companies often have to deal with a simple but confounding problem: Robots&amp;nbsp;produce a lot of data. Even a simple robot&amp;nbsp;can easily&amp;nbsp;produce up to a terabyte of data per day,&amp;nbsp;since they continuously capture data from cameras and sensors.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sydney, Australia-based&amp;nbsp;Alloy&amp;nbsp;thinks it can help with that issue: The startup&amp;nbsp;is&amp;nbsp;building data&amp;nbsp;infrastructure&amp;nbsp;for robotics companies to help them process and organize&amp;nbsp;all the data their robots collect from&amp;nbsp;various sources, including sensors and&amp;nbsp;cameras.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;At its core, Alloy&amp;nbsp;encodes and labels&amp;nbsp;the data it collects,&amp;nbsp;and&amp;nbsp;allows users to search through their data using natural language to find bugs and errors.&amp;nbsp;Users can also&amp;nbsp;set up rules to catch&amp;nbsp;and flag&amp;nbsp;issues in the future, similar to&amp;nbsp;how observability tools flag errors in software code.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The current pattern is, you look for some kind of anomaly, and then you’ll replay the data,” Joe Harris, the founder and CEO of Alloy,&amp;nbsp;told TechCrunch. “They then are spending hours scrubbing through this data, looking for these issues that have been flagged to them, trying to diagnose from that [while] not really having a good view as to whether this has happened before, if it’s&amp;nbsp;a high-severity issue or this one-off,&amp;nbsp;edge case.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Considering how much data&amp;nbsp;a single robot produces, as robotics companies look to scale,&amp;nbsp;this data problem will continue to compound, Harris added.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Harris&amp;nbsp;has been&amp;nbsp;fascinated by&amp;nbsp;robotics&amp;nbsp;since he was a kid.&amp;nbsp;But when he graduated from college&amp;nbsp;in 2018, there weren’t&amp;nbsp;many opportunities to work in the field, so&amp;nbsp;he instead worked multiple roles across&amp;nbsp;Australian&amp;nbsp;tech companies including Atlassian and&amp;nbsp;telehealth startup&amp;nbsp;Eucalyptus.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In 2024,&amp;nbsp;he decided&amp;nbsp;the time was right&amp;nbsp;to launch a robotics company of his own. He&amp;nbsp;originally thought he’d focus on&amp;nbsp;building robots for the agriculture industry&amp;nbsp;due to&amp;nbsp;an&amp;nbsp;interest&amp;nbsp;in&amp;nbsp;vertical farming, but when he started talking to other founders,&amp;nbsp;the issue of managing the data robots produce kept coming up.&amp;nbsp;He&amp;nbsp;figured he might as well solve that&amp;nbsp;problem&amp;nbsp;first.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“If I need to solve this problem for myself and my robotics company, I will have a great horizontal solution,” Harris said. “Perhaps that&amp;nbsp;would be a more important&amp;nbsp;near-term&amp;nbsp;mission — to help enable other robotics companies to spend less time on data plumbing and more time on getting to that high reliability.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Since its launch in&amp;nbsp;February 2025,&amp;nbsp;Alloy has signed four&amp;nbsp;Australian&amp;nbsp;robotics companies as&amp;nbsp;design partners&amp;nbsp;and looks to push into the U.S. market this year.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The customers that we found have been most excited about this because they’ve gone through the pain of building and maintaining it themselves,” Harris said. “They’d much rather have a fantastic tool, like a Databricks just specifically built for robotics.”&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Alloy has also raised a little more than AUD $4.5 million&amp;nbsp;(about $3 million USD)&amp;nbsp;in&amp;nbsp;a pre-seed round that was led by Blackbird Ventures, with participation from&amp;nbsp;Airtree&amp;nbsp;Ventures, Xtal Ventures, and Skip Capital, in addition to angel investors from robotics companies.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company&amp;nbsp;doesn’t&amp;nbsp;have too many&amp;nbsp;direct&amp;nbsp;competitors yet. Many robotics companies are either retrofitting existing data management tools that&amp;nbsp;aren’t&amp;nbsp;designed for the multimodal data robots produce,&amp;nbsp;or are attempting to build their own internal data management tools.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As commercial use cases for robotics continue&amp;nbsp;to increase, Alloy hopes it will be able to capture a good share of the&amp;nbsp;growing market.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“It’s never been a better time to build a robotics company,” Harris said. “I really want to make it possible for the next&amp;nbsp;10,000,&amp;nbsp;100,000 robotics companies that&amp;nbsp;don’t&amp;nbsp;yet exist, that inevitably will&amp;nbsp;not have to necessarily reinvent the wheel, like every company has.”&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/</guid><pubDate>Tue, 23 Sep 2025 15:00:00 +0000</pubDate></item><item><title>[NEW] Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Few investors speak as bluntly — or think as big — as Vinod Khosla. The Khosla Ventures’ founder has never shied away from calling out hype, doubling down on ambitious bets, and pushing founders to look beyond incremental progress.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Vinod Khosla" class="wp-image-3048807" height="383" src="https://techcrunch.com/wp-content/uploads/2025/09/TC25_Vinod-Khosla-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This October at &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, happening October 27-29 at San Francisco’s Moscone West, Khosla will return to the &lt;strong&gt;Disrupt Stage&lt;/strong&gt; for a fireside chat that promises insight, provocation, and inspiration. In a session overflowing with experience and hard-won lessons, he will share his unvarnished take on the world 15 years from now — a future he believes will be defined by unprecedented abundance, massive job displacement, and transformational change across every sector. This is advice entrepreneurs need to hear — not just what they want to hear — to build enduring companies in turbulent times.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Seats at the Disrupt Stage will fill fast — don’t get stuck outside. This is a can’t-miss session, and you can still lock in your savings. &lt;strong&gt;Register by September 26&lt;/strong&gt; at 11:59 p.m. PT to &lt;strong&gt;save up to $668&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-vinod-khosla-returns-to-disrupt-with-candid-insights-and-bold-predictions"&gt;Vinod Khosla returns to Disrupt with candid insights and bold predictions&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;At last year’s Disrupt, Khosla’s session drew a packed audience and sparked headlines, reflecting his rare ability to combine candid critique with visionary thinking. From evaluating ideas to navigating real-world challenges, Khosla will leave founders and investors alike with actionable insights that can’t be found in a pitch deck or a startup handbook.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-2907380" height="453" src="https://techcrunch.com/wp-content/uploads/2024/10/54099913287_779d0d7808_k.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-about-vinod-khosla"&gt;About Vinod Khosla&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Vinod Khosla is the founder of Khosla Ventures, which invests across AI, climate, healthcare, and frontier technologies. He has backed transformational companies while challenging founders to think bigger and bolder than anyone else. His past sessions at Disrupt sparked widely-read TechCrunch stories:&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-you-ll-walk-away-with-insights-from-the-vc-legend"&gt;You’ll walk away with insights from the VC legend&lt;/h2&gt;
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li class="wp-block-list-item"&gt;How AI is reshaping everything (and why there is still plenty of opportunity to seize)&lt;/li&gt;
+
+
+
+&lt;li class="wp-block-list-item"&gt;What it takes to think and build beyond incremental gains&lt;/li&gt;
+
+
+
+&lt;li class="wp-block-list-item"&gt;How transformational founders navigate turbulence and scale for impact&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="wp-block-heading" id="h-don-t-miss-vinod-khosla-live-and-your-last-chance-to-save-668"&gt;Don’t miss Vinod Khosla live, and your last chance to save $668&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;TechCrunch Disrupt 2025 brings together over 10,000 startup founders, investors, and innovators. Don’t miss this chance to hear directly from one of tech’s most legendary investors. &lt;strong&gt;Register now for Disrupt 2025&lt;/strong&gt; and &lt;strong&gt;save up to $668&lt;/strong&gt; before savings ends September 26 at 11:59 p.m. PT.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Few investors speak as bluntly — or think as big — as Vinod Khosla. The Khosla Ventures’ founder has never shied away from calling out hype, doubling down on ambitious bets, and pushing founders to look beyond incremental progress.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Vinod Khosla" class="wp-image-3048807" height="383" src="https://techcrunch.com/wp-content/uploads/2025/09/TC25_Vinod-Khosla-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This October at &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, happening October 27-29 at San Francisco’s Moscone West, Khosla will return to the &lt;strong&gt;Disrupt Stage&lt;/strong&gt; for a fireside chat that promises insight, provocation, and inspiration. In a session overflowing with experience and hard-won lessons, he will share his unvarnished take on the world 15 years from now — a future he believes will be defined by unprecedented abundance, massive job displacement, and transformational change across every sector. This is advice entrepreneurs need to hear — not just what they want to hear — to build enduring companies in turbulent times.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Seats at the Disrupt Stage will fill fast — don’t get stuck outside. This is a can’t-miss session, and you can still lock in your savings. &lt;strong&gt;Register by September 26&lt;/strong&gt; at 11:59 p.m. PT to &lt;strong&gt;save up to $668&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-vinod-khosla-returns-to-disrupt-with-candid-insights-and-bold-predictions"&gt;Vinod Khosla returns to Disrupt with candid insights and bold predictions&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;At last year’s Disrupt, Khosla’s session drew a packed audience and sparked headlines, reflecting his rare ability to combine candid critique with visionary thinking. From evaluating ideas to navigating real-world challenges, Khosla will leave founders and investors alike with actionable insights that can’t be found in a pitch deck or a startup handbook.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-2907380" height="453" src="https://techcrunch.com/wp-content/uploads/2024/10/54099913287_779d0d7808_k.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-about-vinod-khosla"&gt;About Vinod Khosla&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Vinod Khosla is the founder of Khosla Ventures, which invests across AI, climate, healthcare, and frontier technologies. He has backed transformational companies while challenging founders to think bigger and bolder than anyone else. His past sessions at Disrupt sparked widely-read TechCrunch stories:&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-you-ll-walk-away-with-insights-from-the-vc-legend"&gt;You’ll walk away with insights from the VC legend&lt;/h2&gt;
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li class="wp-block-list-item"&gt;How AI is reshaping everything (and why there is still plenty of opportunity to seize)&lt;/li&gt;
+
+
+
+&lt;li class="wp-block-list-item"&gt;What it takes to think and build beyond incremental gains&lt;/li&gt;
+
+
+
+&lt;li class="wp-block-list-item"&gt;How transformational founders navigate turbulence and scale for impact&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="wp-block-heading" id="h-don-t-miss-vinod-khosla-live-and-your-last-chance-to-save-668"&gt;Don’t miss Vinod Khosla live, and your last chance to save $668&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;TechCrunch Disrupt 2025 brings together over 10,000 startup founders, investors, and innovators. Don’t miss this chance to hear directly from one of tech’s most legendary investors. &lt;strong&gt;Register now for Disrupt 2025&lt;/strong&gt; and &lt;strong&gt;save up to $668&lt;/strong&gt; before savings ends September 26 at 11:59 p.m. PT.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/</guid><pubDate>Tue, 23 Sep 2025 15:00:00 +0000</pubDate></item><item><title>[NEW] Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The future of work is no longer on the horizon — it’s being redefined in real time.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the &lt;strong&gt;AI Stage&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;at&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, Mercor co-founder and CEO Brendan Foody will break down how artificial intelligence is transforming not just how we work, but also &lt;em&gt;who&lt;/em&gt; gets to work in the first place. From talent access to hiring pipelines to the rise of AI-augmented teams, it’s a conversation that could reshape the way you think about your next hire.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;At the 20th anniversary of TechCrunchDon’t, miss this session on how AI is redefining hiring practices. &lt;strong&gt;Register by September 26&lt;/strong&gt; at 11:59 p.m. PT to save up to $668.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Brendan Foody" class="wp-image-3048876" height="383" src="https://techcrunch.com/wp-content/uploads/2025/09/TC25_Brendan-Foody-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-redefining-the-global-workforce"&gt;Redefining the global workforce&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Backed by names like Peter Thiel and Jack Dorsey, Mercor has gone from $1 to $500 million in revenue run rate in just 17 months — a staggering pace that reflects how quickly AI is changing the labor landscape. Foody will share how his team is using AI to match companies with elite technical talent, what it takes to build a truly distributed hiring model, and why upskilling is becoming mission-critical in today’s global economy.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In his session, Foody will also explore how startups and enterprise leaders alike can harness AI to unlock new talent pools, eliminate bias in hiring, and build workforces equipped for what’s next — not just what’s now.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Don’t miss it live on the &lt;strong&gt;AI Stage&lt;/strong&gt; at TechCrunch Disrupt 2025, taking place October 27–29, and &lt;strong&gt;secure up to $668 in ticket savings by registering today&lt;/strong&gt;.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The future of work is no longer on the horizon — it’s being redefined in real time.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the &lt;strong&gt;AI Stage&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;at&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, Mercor co-founder and CEO Brendan Foody will break down how artificial intelligence is transforming not just how we work, but also &lt;em&gt;who&lt;/em&gt; gets to work in the first place. From talent access to hiring pipelines to the rise of AI-augmented teams, it’s a conversation that could reshape the way you think about your next hire.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;At the 20th anniversary of TechCrunchDon’t, miss this session on how AI is redefining hiring practices. &lt;strong&gt;Register by September 26&lt;/strong&gt; at 11:59 p.m. PT to save up to $668.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Brendan Foody" class="wp-image-3048876" height="383" src="https://techcrunch.com/wp-content/uploads/2025/09/TC25_Brendan-Foody-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-redefining-the-global-workforce"&gt;Redefining the global workforce&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Backed by names like Peter Thiel and Jack Dorsey, Mercor has gone from $1 to $500 million in revenue run rate in just 17 months — a staggering pace that reflects how quickly AI is changing the labor landscape. Foody will share how his team is using AI to match companies with elite technical talent, what it takes to build a truly distributed hiring model, and why upskilling is becoming mission-critical in today’s global economy.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In his session, Foody will also explore how startups and enterprise leaders alike can harness AI to unlock new talent pools, eliminate bias in hiring, and build workforces equipped for what’s next — not just what’s now.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Don’t miss it live on the &lt;strong&gt;AI Stage&lt;/strong&gt; at TechCrunch Disrupt 2025, taking place October 27–29, and &lt;strong&gt;secure up to $668 in ticket savings by registering today&lt;/strong&gt;.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/</guid><pubDate>Tue, 23 Sep 2025 15:30:00 +0000</pubDate></item><item><title>[NEW] Dedicated mobile apps for vibe coding have so far failed to gain traction (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/dedicated-mobile-apps-for-vibe-coding-have-so-far-failed-to-gain-traction/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;While many vibe coding startups have become unicorns, with valuations in the billions, one area where AI-assisted coding has not yet taken off is on mobile devices. Despite the numerous apps now available that offer vibe coding tools on mobile platforms, none are gaining noticeable downloads, and few are generating any revenue at all.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;According to an analysis of global app store trends by the app intelligence provider Appfigures, only a small handful of mobile apps offering vibe coding tools have seen any downloads, let alone generated revenue.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The largest of these is Instance: AI App Builder, which has seen only 16,000 downloads and $1,000 in consumer spending. The next largest app, Vibe Studio, has pulled in just 4,000 downloads but has made no money.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3049102" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-23-at-10.31.04AM.jpg?w=512" width="512" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Screenshot from Appfigures&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This situation could still change, of course. The market is young, and vibe coding apps continue to improve and work out the bugs. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;New apps in this space are arriving all the time, too. This year, a startup called Vibecode launched with $9.4 million in seed funding from Reddit co-founder&amp;nbsp;Alexis Ohanian’s Seven Seven Six. The company’s service allows users to create mobile apps using AI within its own iOS app. Vibecode is so  new, Appfigures doesn’t yet have data on it.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For now, most people who want to toy around with vibe coding technology are doing so on the desktop. But vibe coding does have another presence on mobile devices: it’s powering a growing number of existing mobile apps.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For instance, the subscription platform provider RevenueCat, now used by over 50,000 apps, reports that it powers the in-app purchases for over 50% of all AI-built iOS apps currently on the market.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company told TechCrunch that the share of apps that came to RevenueCat for monetization from an AI assistant or platform — meaning an AI chatbot referred its service to the customer — surged to over 35% of all new signups in the second quarter of this year, up from below 5% in the second quarter of last year.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The platform, which is already used by nearly 50% of all mobile apps that take payments, notes that vibe coders are using its service to automatically configure their subscriptions with Cursor, Claude Code, and others, via its RevenueCat MCP server, allowing them to quickly create subscriptions and test plans and features.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Although there’s certainly interest in vibe coding, the consensus is that it’s not ready for prime time. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;TechCrunch recently spoke with developers working with AI-generated code, who said the technology still has a long way to go. A separate survey from Fastly found that roughly 95% of the nearly 800 developers surveyed said they had to spend extra time fixing AI-generated code.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Still, user demand is there. A 2025 survey by Stack Overflow found that 84% of respondents are using or planning to use AI tools in their development process, up from 76% last year. Another survey conducted this summer by the tech media site The Information found that 75% of respondents were at least trying vibe coding. A May 2025 study by the software intelligence platform Jellyfish found that 90% had integrated AI into their work, up from 61% last year, as reported by Business Insider.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;While many vibe coding startups have become unicorns, with valuations in the billions, one area where AI-assisted coding has not yet taken off is on mobile devices. Despite the numerous apps now available that offer vibe coding tools on mobile platforms, none are gaining noticeable downloads, and few are generating any revenue at all.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;According to an analysis of global app store trends by the app intelligence provider Appfigures, only a small handful of mobile apps offering vibe coding tools have seen any downloads, let alone generated revenue.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The largest of these is Instance: AI App Builder, which has seen only 16,000 downloads and $1,000 in consumer spending. The next largest app, Vibe Studio, has pulled in just 4,000 downloads but has made no money.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3049102" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-23-at-10.31.04AM.jpg?w=512" width="512" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Screenshot from Appfigures&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This situation could still change, of course. The market is young, and vibe coding apps continue to improve and work out the bugs. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;New apps in this space are arriving all the time, too. This year, a startup called Vibecode launched with $9.4 million in seed funding from Reddit co-founder&amp;nbsp;Alexis Ohanian’s Seven Seven Six. The company’s service allows users to create mobile apps using AI within its own iOS app. Vibecode is so  new, Appfigures doesn’t yet have data on it.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For now, most people who want to toy around with vibe coding technology are doing so on the desktop. But vibe coding does have another presence on mobile devices: it’s powering a growing number of existing mobile apps.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For instance, the subscription platform provider RevenueCat, now used by over 50,000 apps, reports that it powers the in-app purchases for over 50% of all AI-built iOS apps currently on the market.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company told TechCrunch that the share of apps that came to RevenueCat for monetization from an AI assistant or platform — meaning an AI chatbot referred its service to the customer — surged to over 35% of all new signups in the second quarter of this year, up from below 5% in the second quarter of last year.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The platform, which is already used by nearly 50% of all mobile apps that take payments, notes that vibe coders are using its service to automatically configure their subscriptions with Cursor, Claude Code, and others, via its RevenueCat MCP server, allowing them to quickly create subscriptions and test plans and features.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Although there’s certainly interest in vibe coding, the consensus is that it’s not ready for prime time. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;TechCrunch recently spoke with developers working with AI-generated code, who said the technology still has a long way to go. A separate survey from Fastly found that roughly 95% of the nearly 800 developers surveyed said they had to spend extra time fixing AI-generated code.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Still, user demand is there. A 2025 survey by Stack Overflow found that 84% of respondents are using or planning to use AI tools in their development process, up from 76% last year. Another survey conducted this summer by the tech media site The Information found that 75% of respondents were at least trying vibe coding. A May 2025 study by the software intelligence platform Jellyfish found that 90% had integrated AI into their work, up from 61% last year, as reported by Business Insider.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/dedicated-mobile-apps-for-vibe-coding-have-so-far-failed-to-gain-traction/</guid><pubDate>Tue, 23 Sep 2025 16:10:27 +0000</pubDate></item><item><title>[NEW] Martin Frederik, Snowflake: Data quality is key to AI-driven growth (AI News)</title><link>https://www.artificialintelligence-news.com/news/martin-frederik-snowflake-data-quality-key-ai-driven-growth/</link><description>&lt;p&gt;As companies race to implement AI, many are finding that project success hinges directly on the quality of their data. This dependency is causing many ambitious initiatives to stall, never making it beyond the experimental proof-of-concept stage.&lt;/p&gt;&lt;p&gt;So, what’s the secret to turning these experiments into real revenue generators? AI News caught up with Martin Frederik, regional leader for the Netherlands, Belgium, and Luxembourg at data cloud giant Snowflake, to find out.&lt;/p&gt;&lt;p&gt;“There’s no AI strategy without a data strategy,” Frederik says simply. “AI apps, agents, and models are only as effective as the data they’re built on, and without unified, well-governed data infrastructure, even the most advanced models can fall short.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-improving-data-quality-is-key-to-ai-project-success"&gt;Improving data quality is key to AI project success&lt;/h3&gt;&lt;p&gt;It’s a familiar story for many organisations: a promising proof-of-concept impresses the team but never translates into a tool that makes the company money. According to Frederik, this often happens because leaders treat the technology as the end goal.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-full is-resized"&gt;&lt;img alt="Headshot of Martin Frederik, regional leader for the Netherlands, Belgium, and Luxembourg at AI data cloud giant Snowflake." class="wp-image-109549" height="800" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/09/image-14.png" width="800" /&gt;&lt;/figure&gt;&lt;p&gt;“AI is not the destination – it’s the vehicle to achieving your business goals,” Frederik advises.&lt;/p&gt;&lt;p&gt;When projects get stuck, it’s usually down to a few common culprits: the project isn’t truly aligned with what the business needs, teams aren’t talking to each other, or the data is a mess. It’s easy to get disheartened by statistics suggesting that 80% of AI projects don’t reach production, but Frederik offers a different perspective. This isn’t necessarily a failure, he suggests, but “part of the maturation process”.&lt;/p&gt;&lt;p&gt;For those who get the foundation right, the payoff is very real. A recent Snowflake study found that 92% of companies are already seeing a return on their AI investments. In fact, for every £1 spent, they’re getting back £1.41 in cost savings and new revenue. The key, Frederik repeats, is having a “secure, governed and centralised platform” for your data from the very beginning.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-it-s-not-just-about-tech-it-s-about-people"&gt;It’s not just about tech, it’s about people&lt;/h3&gt;&lt;p&gt;Even with the best technology, an AI strategy can fall flat if the company culture isn’t ready for it. One of the biggest challenges is getting data into the hands of everyone who needs it, not just a select few data scientists. To make AI work at scale, you have to build strong foundations in your “people, processes, and technology.”&lt;/p&gt;&lt;p&gt;This means breaking down the walls between departments and making quality data and AI tools accessible to everyone.&lt;/p&gt;&lt;p&gt;“With the right governance, AI becomes a shared resource rather than a siloed tool,” Frederik explains. When everyone works from a single source of truth, teams can stop arguing about whose numbers are correct and start making faster and smarter decisions together.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-next-leap-ai-that-reasons-for-itself"&gt;The next leap: AI that reasons for itself&lt;/h3&gt;&lt;p&gt;The true breakthrough we’re seeing now is the emergence of AI agents that can understand and reason over all kinds of data at once regardless of structure quality; from the neat rows and columns in a spreadsheet, to the unstructured information in documents, videos, and emails. Considering that this unstructured data makes up 80-90% of a typical company’s data, this is a huge step forward.&lt;/p&gt;&lt;p&gt;New tools are enabling staff, no matter their technical skill level, to simply ask complex questions in plain English and get answers directly from the data.&lt;/p&gt;&lt;p&gt;Frederik explains that this is a move towards what he calls “goal-directed autonomy”. Until now, AI has been a helpful assistant you had to constantly direct. “You ask a question, you get an answer; you ask for code, you get a snippet,” he notes.&lt;/p&gt;&lt;p&gt;The next generation of AI is different. You can give an agent a complex goal, and it will figure out the necessary steps on its own, from writing code to pulling in information from other apps to deliver a complete answer. This will automate the most time-consuming parts of a data scientist’s job, like “tedious data cleaning” and “repetitive model tuning.”&lt;/p&gt;&lt;p&gt;The result? It frees up your brightest minds to focus on what really matters. This elevates your people “from practitioner to strategist” and allows them to drive real value for the business. That can only be a good thing.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Snowflake is a key sponsor of this year’s &lt;/em&gt;&lt;em&gt;AI &amp;amp; Big Data Expo Europe&lt;/em&gt;&lt;em&gt; and will have a range of speakers sharing their deep insights during the event. Swing by Snowflake’s booth at stand number 50 to hear more from the company about making enterprise AI easy, efficient, and trusted.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Public trust deficit is a major hurdle for AI growth&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Banner for the AI &amp;amp; Big Data Expo event series." class="wp-image-109137" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;As companies race to implement AI, many are finding that project success hinges directly on the quality of their data. This dependency is causing many ambitious initiatives to stall, never making it beyond the experimental proof-of-concept stage.&lt;/p&gt;&lt;p&gt;So, what’s the secret to turning these experiments into real revenue generators? AI News caught up with Martin Frederik, regional leader for the Netherlands, Belgium, and Luxembourg at data cloud giant Snowflake, to find out.&lt;/p&gt;&lt;p&gt;“There’s no AI strategy without a data strategy,” Frederik says simply. “AI apps, agents, and models are only as effective as the data they’re built on, and without unified, well-governed data infrastructure, even the most advanced models can fall short.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-improving-data-quality-is-key-to-ai-project-success"&gt;Improving data quality is key to AI project success&lt;/h3&gt;&lt;p&gt;It’s a familiar story for many organisations: a promising proof-of-concept impresses the team but never translates into a tool that makes the company money. According to Frederik, this often happens because leaders treat the technology as the end goal.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-full is-resized"&gt;&lt;img alt="Headshot of Martin Frederik, regional leader for the Netherlands, Belgium, and Luxembourg at AI data cloud giant Snowflake." class="wp-image-109549" height="800" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/09/image-14.png" width="800" /&gt;&lt;/figure&gt;&lt;p&gt;“AI is not the destination – it’s the vehicle to achieving your business goals,” Frederik advises.&lt;/p&gt;&lt;p&gt;When projects get stuck, it’s usually down to a few common culprits: the project isn’t truly aligned with what the business needs, teams aren’t talking to each other, or the data is a mess. It’s easy to get disheartened by statistics suggesting that 80% of AI projects don’t reach production, but Frederik offers a different perspective. This isn’t necessarily a failure, he suggests, but “part of the maturation process”.&lt;/p&gt;&lt;p&gt;For those who get the foundation right, the payoff is very real. A recent Snowflake study found that 92% of companies are already seeing a return on their AI investments. In fact, for every £1 spent, they’re getting back £1.41 in cost savings and new revenue. The key, Frederik repeats, is having a “secure, governed and centralised platform” for your data from the very beginning.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-it-s-not-just-about-tech-it-s-about-people"&gt;It’s not just about tech, it’s about people&lt;/h3&gt;&lt;p&gt;Even with the best technology, an AI strategy can fall flat if the company culture isn’t ready for it. One of the biggest challenges is getting data into the hands of everyone who needs it, not just a select few data scientists. To make AI work at scale, you have to build strong foundations in your “people, processes, and technology.”&lt;/p&gt;&lt;p&gt;This means breaking down the walls between departments and making quality data and AI tools accessible to everyone.&lt;/p&gt;&lt;p&gt;“With the right governance, AI becomes a shared resource rather than a siloed tool,” Frederik explains. When everyone works from a single source of truth, teams can stop arguing about whose numbers are correct and start making faster and smarter decisions together.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-next-leap-ai-that-reasons-for-itself"&gt;The next leap: AI that reasons for itself&lt;/h3&gt;&lt;p&gt;The true breakthrough we’re seeing now is the emergence of AI agents that can understand and reason over all kinds of data at once regardless of structure quality; from the neat rows and columns in a spreadsheet, to the unstructured information in documents, videos, and emails. Considering that this unstructured data makes up 80-90% of a typical company’s data, this is a huge step forward.&lt;/p&gt;&lt;p&gt;New tools are enabling staff, no matter their technical skill level, to simply ask complex questions in plain English and get answers directly from the data.&lt;/p&gt;&lt;p&gt;Frederik explains that this is a move towards what he calls “goal-directed autonomy”. Until now, AI has been a helpful assistant you had to constantly direct. “You ask a question, you get an answer; you ask for code, you get a snippet,” he notes.&lt;/p&gt;&lt;p&gt;The next generation of AI is different. You can give an agent a complex goal, and it will figure out the necessary steps on its own, from writing code to pulling in information from other apps to deliver a complete answer. This will automate the most time-consuming parts of a data scientist’s job, like “tedious data cleaning” and “repetitive model tuning.”&lt;/p&gt;&lt;p&gt;The result? It frees up your brightest minds to focus on what really matters. This elevates your people “from practitioner to strategist” and allows them to drive real value for the business. That can only be a good thing.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Snowflake is a key sponsor of this year’s &lt;/em&gt;&lt;em&gt;AI &amp;amp; Big Data Expo Europe&lt;/em&gt;&lt;em&gt; and will have a range of speakers sharing their deep insights during the event. Swing by Snowflake’s booth at stand number 50 to hear more from the company about making enterprise AI easy, efficient, and trusted.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Public trust deficit is a major hurdle for AI growth&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Banner for the AI &amp;amp; Big Data Expo event series." class="wp-image-109137" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/martin-frederik-snowflake-data-quality-key-ai-driven-growth/</guid><pubDate>Tue, 23 Sep 2025 16:34:26 +0000</pubDate></item><item><title>[NEW] Google Photos users on Android can now edit their photos by talking to or texting the AI (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/google-photos-users-on-android-can-now-edit-their-photos-by-talking-to-or-texting-the-ai/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Android users are now able to edit their photos with AI, Google announced on Tuesday. In Google Photos, users will be able to talk to the AI using natural language to describe how they want to edit their photo via either voice or text, Google says.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The feature is designed to make it easier to edit photos without having to understand which editing tools to use or where they can be found in the app. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Gemini-powered feature was initially made available to those with the newly launched Pixel 10 devices in the U.S., introduced in August. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Google Photos" class="wp-image-3038275" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/unnamed.gif?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To get started, you can tap “Help me edit” in the editor, then describe how you want to change the photo. If you’re not sure where to start to make improvements, you can also use one of the provided Gemini suggestions or simply tell the AI to “make it better.” &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The feature supports the usual types of edits, like lighting adjustments or removing distractions from the images, as well as more advanced edits, like removing objects in the background or restoring an old image. Plus, it can change photos to have fantastical AI elements added, for a bit of creativity. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As you continue to edit, Gemini will support follow-up requests to help you fine-tune your work further. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;AI editing is currently available to users 18 and up in the U.S. in English.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The AI feature was announced alongside support for C2PA Content Credentials&amp;nbsp;in Google Photos, which identifies when images were created with AI. This functionality was also initially launched on Pixel devices, but is now coming to Android users, too, Google confirmed to TechCrunch.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Android users are now able to edit their photos with AI, Google announced on Tuesday. In Google Photos, users will be able to talk to the AI using natural language to describe how they want to edit their photo via either voice or text, Google says.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The feature is designed to make it easier to edit photos without having to understand which editing tools to use or where they can be found in the app. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Gemini-powered feature was initially made available to those with the newly launched Pixel 10 devices in the U.S., introduced in August. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Google Photos" class="wp-image-3038275" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/unnamed.gif?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To get started, you can tap “Help me edit” in the editor, then describe how you want to change the photo. If you’re not sure where to start to make improvements, you can also use one of the provided Gemini suggestions or simply tell the AI to “make it better.” &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The feature supports the usual types of edits, like lighting adjustments or removing distractions from the images, as well as more advanced edits, like removing objects in the background or restoring an old image. Plus, it can change photos to have fantastical AI elements added, for a bit of creativity. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As you continue to edit, Gemini will support follow-up requests to help you fine-tune your work further. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;AI editing is currently available to users 18 and up in the U.S. in English.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The AI feature was announced alongside support for C2PA Content Credentials&amp;nbsp;in Google Photos, which identifies when images were created with AI. This functionality was also initially launched on Pixel devices, but is now coming to Android users, too, Google confirmed to TechCrunch.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/google-photos-users-on-android-can-now-edit-their-photos-by-talking-to-or-texting-the-ai/</guid><pubDate>Tue, 23 Sep 2025 17:12:05 +0000</pubDate></item><item><title>[NEW] Time series foundation models can be few-shot learners (The latest research from Google)</title><link>https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
+        
+            
+                &lt;h2 class="class"&gt;Redesigning the model&lt;/h2&gt;
+            
+        
+        
+    &lt;/p&gt;
+
+
+
+    &lt;p&gt;TimesFM is a patched decoder that tokenizes every 32 contiguous timepoints (a patch) as an input token and applies a transformer stack on top of the sequence of input tokens to generate the output tokens. It then applies a shared multilayer perceptron (MLP) to translate each output token back to a time series of 128 timepoints.&lt;/p&gt;&lt;p&gt;To create TimesFM-ICF (In-Context Fine-tuning), we start with the base TimesFM model and continue the pre-training with new context: the forecast history plus all in-context examples. The first step is to make sure the model doesn’t confuse or conflate the forecasting history and the in-context examples. Imagine you're giving the model a list of numbers that represent a few different things, maybe sunglasses sales figures from one store, then umbrella sales figures from another. If you just merge all those numbers together, the model might get confused, thinking it's one continuous stream of data. For example, if the first store’s sales were going up and the second store’s sales were going down, the model might incorrectly see it as a single up-and-down pattern, rather than two separate, simple trends.&lt;/p&gt;&lt;p&gt;To fix this, we put a special, learnable “common separator token” — like a digital "stop sign" or a "new paragraph" symbol — after each set of numbers. With these separators in place, as soon as the model attends to the separator token of an example it has seen before, it won't mix it up with the data it's currently trying to predict. This theoretically allows the model to learn from patterns in those past examples and apply that knowledge to the current forecast. For instance, the model could learn that "all the store sales are showing consistent, directional trends lately, so I should predict an upward trend for my new store’s sunscreen sales."&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
+        
+            
+                &lt;h2 class="class"&gt;Redesigning the model&lt;/h2&gt;
+            
+        
+        
+    &lt;/p&gt;
+
+
+
+    &lt;p&gt;TimesFM is a patched decoder that tokenizes every 32 contiguous timepoints (a patch) as an input token and applies a transformer stack on top of the sequence of input tokens to generate the output tokens. It then applies a shared multilayer perceptron (MLP) to translate each output token back to a time series of 128 timepoints.&lt;/p&gt;&lt;p&gt;To create TimesFM-ICF (In-Context Fine-tuning), we start with the base TimesFM model and continue the pre-training with new context: the forecast history plus all in-context examples. The first step is to make sure the model doesn’t confuse or conflate the forecasting history and the in-context examples. Imagine you're giving the model a list of numbers that represent a few different things, maybe sunglasses sales figures from one store, then umbrella sales figures from another. If you just merge all those numbers together, the model might get confused, thinking it's one continuous stream of data. For example, if the first store’s sales were going up and the second store’s sales were going down, the model might incorrectly see it as a single up-and-down pattern, rather than two separate, simple trends.&lt;/p&gt;&lt;p&gt;To fix this, we put a special, learnable “common separator token” — like a digital "stop sign" or a "new paragraph" symbol — after each set of numbers. With these separators in place, as soon as the model attends to the separator token of an example it has seen before, it won't mix it up with the data it's currently trying to predict. This theoretically allows the model to learn from patterns in those past examples and apply that knowledge to the current forecast. For instance, the model could learn that "all the store sales are showing consistent, directional trends lately, so I should predict an upward trend for my new store’s sunscreen sales."&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/</guid><pubDate>Tue, 23 Sep 2025 18:00:43 +0000</pubDate></item><item><title>[NEW] How Google’s dev tools manager makes AI coding work (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/IMG_5424.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;As Google’s project manager for developer tools, Ryan Salva has a front-row seat to the ways AI tools are changing coding. Formerly of Github and Microsoft, he’s now responsible for tools like Gemini CLI and Gemini Code Assist, nudging developers into the new world of agentic programming. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;His team released new third-party research on Tuesday showing how developers actually use AI tools – and how much progress is left to make. I sat down with Salva to talk about the report and his personal experience with AI coding tools.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This interview was edited for length and clarity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Every year, Google does a survey of developer trends – but this year’s report really focuses on AI tools, and specifically how agentic developers are willing to get in their approach to programming. Was there anything in the research that surprised you?&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;One of the really interesting findings was the median date when developers started using AI tools. They found it was April 2024, which corresponds fairly neatly to Claude 3 coming out and Gemini 2.5 coming out. This is really the dawn of the reasoning or thinking models, and around that same time, we got much better at tool-calling. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For coding tasks, you really need to be able to leverage external information in order to problem solve, so it may need to grep, it may need to compile the code. If the code compiles it may want to run that unit test, and that integration test. I think that tool-calling really is the important piece that gave models the ability to self-correct as they move along.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;How are you using AI coding tools personally?&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Most of my coding these days is for hobby projects, and I spend most of my time using command line-based tools. So that includes Gemini CLI. Then there’s a little bit of Claude Code, little bit of Codex in there. And you don’t ever really use a terminal-based tool by itself, so I’m really heterogeneous around the IDEs that I use. I use Zed. I use VS code. I use Cursor. I use Windsurf, all of them, because I’m interested in just seeing how the world works and how the industry is evolving.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the professional side, product managers tend to live in documents, so the first thing is using AI to help me write the specification and requirements docs.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;I’m curious how that works. You’re using Gemini CLI to build Gemini CLI, but I would imagine it doesn’t just run itself.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A development task will usually start as an issue, maybe it’s a GitHub issue that someone’s dropped with a bug. Often, if I’m really being honest, it’s a fairly under-specified issue. So I’ll use Gemini CLI in order to create a more robust requirement doc in Markdown. That will usually create probably about 100 lines of fairly technical, but also outcome-driven specification. Then I will use Gemini CLI to write the code based on that specification and the general preferences in the team documents.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Across the engineering team, we have a couple of different layers of rules and Markdown docs that get consumed by the model, just laying out our way of working: Here’s how we do testing, here’s how we manage dependencies, and so on. So when it produces the code, it’s also working from those documents.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;And as Gemini CLI is going through and doing the troubleshooting, I’ll have it update my requirements doc saying, “I fixed this step. Now I’m on to the next step,” and so on. Each one of those creates its own commit and pull request in the repository, so I can always rewind or undo.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I would say probably 70% to 80% of my work is me working in the terminal with natural language, trying to use Gemini CLI to craft the requirements, and then allowing Gemini CLI to write most of the code for me, which I will then go review and read with whatever IDE I happen to be using. But mostly I’m using the IDE as a place to read the code, rather than to write the code.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you think there’s a future for raw computer code? Or will we just move everything into terminal windows?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For three decades, the IDE was where we went to do everything in software development. You had the IDE, you had the browser, and you had the terminal window.&amp;nbsp; &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I think that’s still largely the case, but I suspect that over time we’ll end up spending a lot more time working with the requirements, and the amount of time spent in the IDE will gradually shrink. And I think that change may actually happen over a pretty long time horizon.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;There’s a lot of angst about what that means for software development as a progression. If 10 years from now, we’re no longer looking at code, what does that mean for developers? Will there still be a job for them?&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;I think that your job as a developer is going to look a lot more like an architect. It is going to be about taking big, complex problems and breaking them down into smaller, solvable tasks. You’ll need to be thinking about like the bigger picture about what you’re trying to produce, rather than the intermediate language in order to express that in machine code.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/IMG_5424.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;As Google’s project manager for developer tools, Ryan Salva has a front-row seat to the ways AI tools are changing coding. Formerly of Github and Microsoft, he’s now responsible for tools like Gemini CLI and Gemini Code Assist, nudging developers into the new world of agentic programming. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;His team released new third-party research on Tuesday showing how developers actually use AI tools – and how much progress is left to make. I sat down with Salva to talk about the report and his personal experience with AI coding tools.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This interview was edited for length and clarity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Every year, Google does a survey of developer trends – but this year’s report really focuses on AI tools, and specifically how agentic developers are willing to get in their approach to programming. Was there anything in the research that surprised you?&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;One of the really interesting findings was the median date when developers started using AI tools. They found it was April 2024, which corresponds fairly neatly to Claude 3 coming out and Gemini 2.5 coming out. This is really the dawn of the reasoning or thinking models, and around that same time, we got much better at tool-calling. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For coding tasks, you really need to be able to leverage external information in order to problem solve, so it may need to grep, it may need to compile the code. If the code compiles it may want to run that unit test, and that integration test. I think that tool-calling really is the important piece that gave models the ability to self-correct as they move along.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;How are you using AI coding tools personally?&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Most of my coding these days is for hobby projects, and I spend most of my time using command line-based tools. So that includes Gemini CLI. Then there’s a little bit of Claude Code, little bit of Codex in there. And you don’t ever really use a terminal-based tool by itself, so I’m really heterogeneous around the IDEs that I use. I use Zed. I use VS code. I use Cursor. I use Windsurf, all of them, because I’m interested in just seeing how the world works and how the industry is evolving.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the professional side, product managers tend to live in documents, so the first thing is using AI to help me write the specification and requirements docs.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;I’m curious how that works. You’re using Gemini CLI to build Gemini CLI, but I would imagine it doesn’t just run itself.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A development task will usually start as an issue, maybe it’s a GitHub issue that someone’s dropped with a bug. Often, if I’m really being honest, it’s a fairly under-specified issue. So I’ll use Gemini CLI in order to create a more robust requirement doc in Markdown. That will usually create probably about 100 lines of fairly technical, but also outcome-driven specification. Then I will use Gemini CLI to write the code based on that specification and the general preferences in the team documents.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Across the engineering team, we have a couple of different layers of rules and Markdown docs that get consumed by the model, just laying out our way of working: Here’s how we do testing, here’s how we manage dependencies, and so on. So when it produces the code, it’s also working from those documents.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;And as Gemini CLI is going through and doing the troubleshooting, I’ll have it update my requirements doc saying, “I fixed this step. Now I’m on to the next step,” and so on. Each one of those creates its own commit and pull request in the repository, so I can always rewind or undo.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I would say probably 70% to 80% of my work is me working in the terminal with natural language, trying to use Gemini CLI to craft the requirements, and then allowing Gemini CLI to write most of the code for me, which I will then go review and read with whatever IDE I happen to be using. But mostly I’m using the IDE as a place to read the code, rather than to write the code.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you think there’s a future for raw computer code? Or will we just move everything into terminal windows?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For three decades, the IDE was where we went to do everything in software development. You had the IDE, you had the browser, and you had the terminal window.&amp;nbsp; &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I think that’s still largely the case, but I suspect that over time we’ll end up spending a lot more time working with the requirements, and the amount of time spent in the IDE will gradually shrink. And I think that change may actually happen over a pretty long time horizon.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;There’s a lot of angst about what that means for software development as a progression. If 10 years from now, we’re no longer looking at code, what does that mean for developers? Will there still be a job for them?&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;I think that your job as a developer is going to look a lot more like an architect. It is going to be about taking big, complex problems and breaking them down into smaller, solvable tasks. You’ll need to be thinking about like the bigger picture about what you’re trying to produce, rather than the intermediate language in order to express that in machine code.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/</guid><pubDate>Tue, 23 Sep 2025 18:28:54 +0000</pubDate></item></channel></rss>
