@@ -1,541 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 24 Sep 2025 01:38:42 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>Alloy is bringing data management to the robotics industry (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/ALY00_Stills-2-1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Robotics companies often have to deal with a simple but confounding problem: Robots&amp;nbsp;produce a lot of data. Even a simple robot&amp;nbsp;can easily&amp;nbsp;produce up to a terabyte of data per day,&amp;nbsp;since they continuously capture data from cameras and sensors.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Sydney, Australia-based&amp;nbsp;Alloy&amp;nbsp;thinks it can help with that issue: The startup&amp;nbsp;is&amp;nbsp;building data&amp;nbsp;infrastructure&amp;nbsp;for robotics companies to help them process and organize&amp;nbsp;all the data their robots collect from&amp;nbsp;various sources, including sensors and&amp;nbsp;cameras.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At its core, Alloy&amp;nbsp;encodes and labels&amp;nbsp;the data it collects,&amp;nbsp;and&amp;nbsp;allows users to search through their data using natural language to find bugs and errors.&amp;nbsp;Users can also&amp;nbsp;set up rules to catch&amp;nbsp;and flag&amp;nbsp;issues in the future, similar to&amp;nbsp;how observability tools flag errors in software code.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The current pattern is, you look for some kind of anomaly, and then you’ll replay the data,” Joe Harris, the founder and CEO of Alloy,&amp;nbsp;told TechCrunch. “They then are spending hours scrubbing through this data, looking for these issues that have been flagged to them, trying to diagnose from that [while] not really having a good view as to whether this has happened before, if it’s&amp;nbsp;a high-severity issue or this one-off,&amp;nbsp;edge case.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Considering how much data&amp;nbsp;a single robot produces, as robotics companies look to scale,&amp;nbsp;this data problem will continue to compound, Harris added.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Harris&amp;nbsp;has been&amp;nbsp;fascinated by&amp;nbsp;robotics&amp;nbsp;since he was a kid.&amp;nbsp;But when he graduated from college&amp;nbsp;in 2018, there weren’t&amp;nbsp;many opportunities to work in the field, so&amp;nbsp;he instead worked multiple roles across&amp;nbsp;Australian&amp;nbsp;tech companies, including Atlassian and&amp;nbsp;telehealth startup&amp;nbsp;Eucalyptus.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In 2024,&amp;nbsp;he decided&amp;nbsp;the time was right&amp;nbsp;to launch a robotics company of his own. He&amp;nbsp;originally thought he’d focus on&amp;nbsp;building robots for the agriculture industry&amp;nbsp;due to&amp;nbsp;an&amp;nbsp;interest&amp;nbsp;in&amp;nbsp;vertical farming, but when he started talking to other founders,&amp;nbsp;the issue of managing the data robots produce kept coming up.&amp;nbsp;He&amp;nbsp;figured he might as well solve that&amp;nbsp;problem&amp;nbsp;first.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If I need to solve this problem for myself and my robotics company, I will have a great horizontal solution,” Harris said. “Perhaps that&amp;nbsp;would be a more important&amp;nbsp;near-term&amp;nbsp;mission — to help enable other robotics companies to spend less time on data plumbing and more time on getting to that high reliability.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since its launch in&amp;nbsp;February 2025,&amp;nbsp;Alloy has signed four&amp;nbsp;Australian&amp;nbsp;robotics companies as&amp;nbsp;design partners&amp;nbsp;and looks to push into the U.S. market this year.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The customers that we found have been most excited about this because they’ve gone through the pain of building and maintaining it themselves,” Harris said. “They’d much rather have a fantastic tool, like a Databricks just specifically built for robotics.”&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Alloy has also raised a little more than AUD $4.5 million&amp;nbsp;(about $3 million)&amp;nbsp;in&amp;nbsp;a pre-seed round that was led by Blackbird Ventures, with participation from&amp;nbsp;Airtree&amp;nbsp;Ventures, Xtal Ventures, and Skip Capital, in addition to angel investors from robotics companies.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company&amp;nbsp;doesn’t&amp;nbsp;have too many&amp;nbsp;direct&amp;nbsp;competitors yet. Many robotics companies are either retrofitting existing data management tools that&amp;nbsp;aren’t&amp;nbsp;designed for the multimodal data robots produce,&amp;nbsp;or are attempting to build their own internal data management tools.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As commercial use cases for robotics continue&amp;nbsp;to increase, Alloy hopes it will be able to capture a good share of the&amp;nbsp;growing market.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It’s never been a better time to build a robotics company,” Harris said. “I really want to make it possible for the next&amp;nbsp;10,000,&amp;nbsp;100,000 robotics companies that&amp;nbsp;don’t&amp;nbsp;yet exist, that inevitably will&amp;nbsp;not have to necessarily reinvent the wheel, like every company has.”&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/ALY00_Stills-2-1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Robotics companies often have to deal with a simple but confounding problem: Robots&amp;nbsp;produce a lot of data. Even a simple robot&amp;nbsp;can easily&amp;nbsp;produce up to a terabyte of data per day,&amp;nbsp;since they continuously capture data from cameras and sensors.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Sydney, Australia-based&amp;nbsp;Alloy&amp;nbsp;thinks it can help with that issue: The startup&amp;nbsp;is&amp;nbsp;building data&amp;nbsp;infrastructure&amp;nbsp;for robotics companies to help them process and organize&amp;nbsp;all the data their robots collect from&amp;nbsp;various sources, including sensors and&amp;nbsp;cameras.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At its core, Alloy&amp;nbsp;encodes and labels&amp;nbsp;the data it collects,&amp;nbsp;and&amp;nbsp;allows users to search through their data using natural language to find bugs and errors.&amp;nbsp;Users can also&amp;nbsp;set up rules to catch&amp;nbsp;and flag&amp;nbsp;issues in the future, similar to&amp;nbsp;how observability tools flag errors in software code.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The current pattern is, you look for some kind of anomaly, and then you’ll replay the data,” Joe Harris, the founder and CEO of Alloy,&amp;nbsp;told TechCrunch. “They then are spending hours scrubbing through this data, looking for these issues that have been flagged to them, trying to diagnose from that [while] not really having a good view as to whether this has happened before, if it’s&amp;nbsp;a high-severity issue or this one-off,&amp;nbsp;edge case.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Considering how much data&amp;nbsp;a single robot produces, as robotics companies look to scale,&amp;nbsp;this data problem will continue to compound, Harris added.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Harris&amp;nbsp;has been&amp;nbsp;fascinated by&amp;nbsp;robotics&amp;nbsp;since he was a kid.&amp;nbsp;But when he graduated from college&amp;nbsp;in 2018, there weren’t&amp;nbsp;many opportunities to work in the field, so&amp;nbsp;he instead worked multiple roles across&amp;nbsp;Australian&amp;nbsp;tech companies, including Atlassian and&amp;nbsp;telehealth startup&amp;nbsp;Eucalyptus.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In 2024,&amp;nbsp;he decided&amp;nbsp;the time was right&amp;nbsp;to launch a robotics company of his own. He&amp;nbsp;originally thought he’d focus on&amp;nbsp;building robots for the agriculture industry&amp;nbsp;due to&amp;nbsp;an&amp;nbsp;interest&amp;nbsp;in&amp;nbsp;vertical farming, but when he started talking to other founders,&amp;nbsp;the issue of managing the data robots produce kept coming up.&amp;nbsp;He&amp;nbsp;figured he might as well solve that&amp;nbsp;problem&amp;nbsp;first.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If I need to solve this problem for myself and my robotics company, I will have a great horizontal solution,” Harris said. “Perhaps that&amp;nbsp;would be a more important&amp;nbsp;near-term&amp;nbsp;mission — to help enable other robotics companies to spend less time on data plumbing and more time on getting to that high reliability.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since its launch in&amp;nbsp;February 2025,&amp;nbsp;Alloy has signed four&amp;nbsp;Australian&amp;nbsp;robotics companies as&amp;nbsp;design partners&amp;nbsp;and looks to push into the U.S. market this year.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The customers that we found have been most excited about this because they’ve gone through the pain of building and maintaining it themselves,” Harris said. “They’d much rather have a fantastic tool, like a Databricks just specifically built for robotics.”&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Alloy has also raised a little more than AUD $4.5 million&amp;nbsp;(about $3 million)&amp;nbsp;in&amp;nbsp;a pre-seed round that was led by Blackbird Ventures, with participation from&amp;nbsp;Airtree&amp;nbsp;Ventures, Xtal Ventures, and Skip Capital, in addition to angel investors from robotics companies.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company&amp;nbsp;doesn’t&amp;nbsp;have too many&amp;nbsp;direct&amp;nbsp;competitors yet. Many robotics companies are either retrofitting existing data management tools that&amp;nbsp;aren’t&amp;nbsp;designed for the multimodal data robots produce,&amp;nbsp;or are attempting to build their own internal data management tools.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As commercial use cases for robotics continue&amp;nbsp;to increase, Alloy hopes it will be able to capture a good share of the&amp;nbsp;growing market.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It’s never been a better time to build a robotics company,” Harris said. “I really want to make it possible for the next&amp;nbsp;10,000,&amp;nbsp;100,000 robotics companies that&amp;nbsp;don’t&amp;nbsp;yet exist, that inevitably will&amp;nbsp;not have to necessarily reinvent the wheel, like every company has.”&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/</guid><pubDate>Tue, 23 Sep 2025 15:00:00 +0000</pubDate></item><item><title>Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Few investors speak as bluntly — or think as big — as Vinod Khosla. The Khosla Ventures’ founder has never shied away from calling out hype, doubling down on ambitious bets, and pushing founders to look beyond incremental progress.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Vinod Khosla" class="wp-image-3048807" height="383" src="https://techcrunch.com/wp-content/uploads/2025/09/TC25_Vinod-Khosla-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This October at &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, happening October 27-29 at San Francisco’s Moscone West, Khosla will return to the &lt;strong&gt;Disrupt Stage&lt;/strong&gt; for a fireside chat that promises insight, provocation, and inspiration. In a session overflowing with experience and hard-won lessons, he will share his unvarnished take on the world 15 years from now — a future he believes will be defined by unprecedented abundance, massive job displacement, and transformational change across every sector. This is advice entrepreneurs need to hear — not just what they want to hear — to build enduring companies in turbulent times.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Seats at the Disrupt Stage will fill fast — don’t get stuck outside. This is a can’t-miss session, and you can still lock in your savings. &lt;strong&gt;Register by September 26&lt;/strong&gt; at 11:59 p.m. PT to &lt;strong&gt;save up to $668&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-vinod-khosla-returns-to-disrupt-with-candid-insights-and-bold-predictions"&gt;Vinod Khosla returns to Disrupt with candid insights and bold predictions&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At last year’s Disrupt, Khosla’s session drew a packed audience and sparked headlines, reflecting his rare ability to combine candid critique with visionary thinking. From evaluating ideas to navigating real-world challenges, Khosla will leave founders and investors alike with actionable insights that can’t be found in a pitch deck or a startup handbook.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-2907380" height="453" src="https://techcrunch.com/wp-content/uploads/2024/10/54099913287_779d0d7808_k.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-about-vinod-khosla"&gt;About Vinod Khosla&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Vinod Khosla is the founder of Khosla Ventures, which invests across AI, climate, healthcare, and frontier technologies. He has backed transformational companies while challenging founders to think bigger and bolder than anyone else. His past sessions at Disrupt sparked widely-read TechCrunch stories:&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-you-ll-walk-away-with-insights-from-the-vc-legend"&gt;You’ll walk away with insights from the VC legend&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;How AI is reshaping everything (and why there is still plenty of opportunity to seize)&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;What it takes to think and build beyond incremental gains&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;How transformational founders navigate turbulence and scale for impact&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading" id="h-don-t-miss-vinod-khosla-live-and-your-last-chance-to-save-668"&gt;Don’t miss Vinod Khosla live, and your last chance to save $668&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch Disrupt 2025 brings together over 10,000 startup founders, investors, and innovators. Don’t miss this chance to hear directly from one of tech’s most legendary investors. &lt;strong&gt;Register now for Disrupt 2025&lt;/strong&gt; and &lt;strong&gt;save up to $668&lt;/strong&gt; before savings ends September 26 at 11:59 p.m. PT.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Few investors speak as bluntly — or think as big — as Vinod Khosla. The Khosla Ventures’ founder has never shied away from calling out hype, doubling down on ambitious bets, and pushing founders to look beyond incremental progress.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Vinod Khosla" class="wp-image-3048807" height="383" src="https://techcrunch.com/wp-content/uploads/2025/09/TC25_Vinod-Khosla-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This October at &lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, happening October 27-29 at San Francisco’s Moscone West, Khosla will return to the &lt;strong&gt;Disrupt Stage&lt;/strong&gt; for a fireside chat that promises insight, provocation, and inspiration. In a session overflowing with experience and hard-won lessons, he will share his unvarnished take on the world 15 years from now — a future he believes will be defined by unprecedented abundance, massive job displacement, and transformational change across every sector. This is advice entrepreneurs need to hear — not just what they want to hear — to build enduring companies in turbulent times.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Seats at the Disrupt Stage will fill fast — don’t get stuck outside. This is a can’t-miss session, and you can still lock in your savings. &lt;strong&gt;Register by September 26&lt;/strong&gt; at 11:59 p.m. PT to &lt;strong&gt;save up to $668&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-vinod-khosla-returns-to-disrupt-with-candid-insights-and-bold-predictions"&gt;Vinod Khosla returns to Disrupt with candid insights and bold predictions&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At last year’s Disrupt, Khosla’s session drew a packed audience and sparked headlines, reflecting his rare ability to combine candid critique with visionary thinking. From evaluating ideas to navigating real-world challenges, Khosla will leave founders and investors alike with actionable insights that can’t be found in a pitch deck or a startup handbook.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-2907380" height="453" src="https://techcrunch.com/wp-content/uploads/2024/10/54099913287_779d0d7808_k.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-about-vinod-khosla"&gt;About Vinod Khosla&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Vinod Khosla is the founder of Khosla Ventures, which invests across AI, climate, healthcare, and frontier technologies. He has backed transformational companies while challenging founders to think bigger and bolder than anyone else. His past sessions at Disrupt sparked widely-read TechCrunch stories:&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="h-you-ll-walk-away-with-insights-from-the-vc-legend"&gt;You’ll walk away with insights from the VC legend&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;How AI is reshaping everything (and why there is still plenty of opportunity to seize)&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;What it takes to think and build beyond incremental gains&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;How transformational founders navigate turbulence and scale for impact&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading" id="h-don-t-miss-vinod-khosla-live-and-your-last-chance-to-save-668"&gt;Don’t miss Vinod Khosla live, and your last chance to save $668&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch Disrupt 2025 brings together over 10,000 startup founders, investors, and innovators. Don’t miss this chance to hear directly from one of tech’s most legendary investors. &lt;strong&gt;Register now for Disrupt 2025&lt;/strong&gt; and &lt;strong&gt;save up to $668&lt;/strong&gt; before savings ends September 26 at 11:59 p.m. PT.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/</guid><pubDate>Tue, 23 Sep 2025 15:00:00 +0000</pubDate></item><item><title>Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The future of work is no longer on the horizon — it’s being redefined in real time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On the &lt;strong&gt;AI Stage&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;at&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, Mercor co-founder and CEO Brendan Foody will break down how artificial intelligence is transforming not just how we work, but also &lt;em&gt;who&lt;/em&gt; gets to work in the first place. From talent access to hiring pipelines to the rise of AI-augmented teams, it’s a conversation that could reshape the way you think about your next hire.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At the 20th anniversary of TechCrunchDon’t, miss this session on how AI is redefining hiring practices. &lt;strong&gt;Register by September 26&lt;/strong&gt; at 11:59 p.m. PT to save up to $668.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Brendan Foody" class="wp-image-3048876" height="383" src="https://techcrunch.com/wp-content/uploads/2025/09/TC25_Brendan-Foody-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-redefining-the-global-workforce"&gt;Redefining the global workforce&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Backed by names like Peter Thiel and Jack Dorsey, Mercor has gone from $1 to $500 million in revenue run rate in just 17 months — a staggering pace that reflects how quickly AI is changing the labor landscape. Foody will share how his team is using AI to match companies with elite technical talent, what it takes to build a truly distributed hiring model, and why upskilling is becoming mission-critical in today’s global economy.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In his session, Foody will also explore how startups and enterprise leaders alike can harness AI to unlock new talent pools, eliminate bias in hiring, and build workforces equipped for what’s next — not just what’s now.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Don’t miss it live on the &lt;strong&gt;AI Stage&lt;/strong&gt; at TechCrunch Disrupt 2025, taking place October 27–29, and &lt;strong&gt;secure up to $668 in ticket savings by registering today&lt;/strong&gt;.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The future of work is no longer on the horizon — it’s being redefined in real time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On the &lt;strong&gt;AI Stage&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;at&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;TechCrunch Disrupt 2025&lt;/strong&gt;, Mercor co-founder and CEO Brendan Foody will break down how artificial intelligence is transforming not just how we work, but also &lt;em&gt;who&lt;/em&gt; gets to work in the first place. From talent access to hiring pipelines to the rise of AI-augmented teams, it’s a conversation that could reshape the way you think about your next hire.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At the 20th anniversary of TechCrunchDon’t, miss this session on how AI is redefining hiring practices. &lt;strong&gt;Register by September 26&lt;/strong&gt; at 11:59 p.m. PT to save up to $668.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 Brendan Foody" class="wp-image-3048876" height="383" src="https://techcrunch.com/wp-content/uploads/2025/09/TC25_Brendan-Foody-Speaker-16x9-Dark.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-redefining-the-global-workforce"&gt;Redefining the global workforce&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Backed by names like Peter Thiel and Jack Dorsey, Mercor has gone from $1 to $500 million in revenue run rate in just 17 months — a staggering pace that reflects how quickly AI is changing the labor landscape. Foody will share how his team is using AI to match companies with elite technical talent, what it takes to build a truly distributed hiring model, and why upskilling is becoming mission-critical in today’s global economy.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In his session, Foody will also explore how startups and enterprise leaders alike can harness AI to unlock new talent pools, eliminate bias in hiring, and build workforces equipped for what’s next — not just what’s now.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Don’t miss it live on the &lt;strong&gt;AI Stage&lt;/strong&gt; at TechCrunch Disrupt 2025, taking place October 27–29, and &lt;strong&gt;secure up to $668 in ticket savings by registering today&lt;/strong&gt;.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/</guid><pubDate>Tue, 23 Sep 2025 15:30:00 +0000</pubDate></item><item><title>Dedicated mobile apps for vibe coding have so far failed to gain traction (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/dedicated-mobile-apps-for-vibe-coding-have-so-far-failed-to-gain-traction/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;While many vibe-coding startups have become unicorns, with valuations in the billions, one area where AI-assisted coding has not yet taken off is on mobile devices. Despite the numerous apps now available that offer vibe-coding tools on mobile platforms, none are gaining noticeable downloads, and few are generating any revenue at all.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;According to an analysis of global app store trends by the app intelligence provider Appfigures, only a small handful of mobile apps offering vibe-coding tools have seen any downloads, let alone generated revenue.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The largest of these is Instance: AI App Builder, which has seen only 16,000 downloads and $1,000 in consumer spending. The next largest app, Vibe Studio, has pulled in just 4,000 downloads but has made no money.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3049102" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-23-at-10.31.04AM.jpg?w=512" width="512" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Appfigures (screenshot)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This situation could still change, of course. The market is young, and vibe-coding apps continue to improve and work out the bugs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;New apps in this space are arriving all the time, too. This year, a startup called Vibecode launched with $9.4 million in seed funding from Reddit co-founder&amp;nbsp;Alexis Ohanian’s Seven Seven Six. The company’s service allows users to create mobile apps using AI within its own iOS app. Vibecode is so new, Appfigures doesn’t yet have data on it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For now, most people who want to toy around with vibe-coding technology are doing so on the desktop. But vibe coding does have another presence on mobile devices: It’s powering a growing number of existing mobile apps.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For instance, the subscription platform provider RevenueCat, now used by over 50,000 apps, reports that it powers the in-app purchases for over 50% of all AI-built iOS apps currently on the market.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company told TechCrunch that the share of apps that came to RevenueCat for monetization from an AI assistant or platform — meaning an AI chatbot referred its service to the customer — surged to over 35% of all new sign-ups in the second quarter of this year, up from below 5% in the second quarter of last year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The platform, which is already used by nearly 50% of all mobile apps that take payments, notes that vibe coders are using its service to automatically configure their subscriptions with Cursor, Claude Code, and others, via its RevenueCat MCP server, allowing them to quickly create subscriptions and test plans and features.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Although there’s certainly interest in vibe coding, the consensus is that it’s not ready for prime time. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch recently spoke with developers working with AI-generated code, who said the technology still has a long way to go. A separate survey from Fastly found that roughly 95% of the nearly 800 developers surveyed said they had to spend extra time fixing AI-generated code.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Still, user demand is there. A 2025 survey by Stack Overflow found that 84% of respondents are using or planning to use AI tools in their development process, up from 76% last year. Another survey conducted this summer by the tech media site The Information found that 75% of respondents were at least trying vibe coding. A May 2025 study by the software intelligence platform Jellyfish found that 90% had integrated AI into their work, up from 61% last year, as reported by Business Insider.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;While many vibe-coding startups have become unicorns, with valuations in the billions, one area where AI-assisted coding has not yet taken off is on mobile devices. Despite the numerous apps now available that offer vibe-coding tools on mobile platforms, none are gaining noticeable downloads, and few are generating any revenue at all.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;According to an analysis of global app store trends by the app intelligence provider Appfigures, only a small handful of mobile apps offering vibe-coding tools have seen any downloads, let alone generated revenue.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The largest of these is Instance: AI App Builder, which has seen only 16,000 downloads and $1,000 in consumer spending. The next largest app, Vibe Studio, has pulled in just 4,000 downloads but has made no money.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3049102" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-23-at-10.31.04AM.jpg?w=512" width="512" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Appfigures (screenshot)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This situation could still change, of course. The market is young, and vibe-coding apps continue to improve and work out the bugs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;New apps in this space are arriving all the time, too. This year, a startup called Vibecode launched with $9.4 million in seed funding from Reddit co-founder&amp;nbsp;Alexis Ohanian’s Seven Seven Six. The company’s service allows users to create mobile apps using AI within its own iOS app. Vibecode is so new, Appfigures doesn’t yet have data on it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For now, most people who want to toy around with vibe-coding technology are doing so on the desktop. But vibe coding does have another presence on mobile devices: It’s powering a growing number of existing mobile apps.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For instance, the subscription platform provider RevenueCat, now used by over 50,000 apps, reports that it powers the in-app purchases for over 50% of all AI-built iOS apps currently on the market.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company told TechCrunch that the share of apps that came to RevenueCat for monetization from an AI assistant or platform — meaning an AI chatbot referred its service to the customer — surged to over 35% of all new sign-ups in the second quarter of this year, up from below 5% in the second quarter of last year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The platform, which is already used by nearly 50% of all mobile apps that take payments, notes that vibe coders are using its service to automatically configure their subscriptions with Cursor, Claude Code, and others, via its RevenueCat MCP server, allowing them to quickly create subscriptions and test plans and features.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Although there’s certainly interest in vibe coding, the consensus is that it’s not ready for prime time. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch recently spoke with developers working with AI-generated code, who said the technology still has a long way to go. A separate survey from Fastly found that roughly 95% of the nearly 800 developers surveyed said they had to spend extra time fixing AI-generated code.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Still, user demand is there. A 2025 survey by Stack Overflow found that 84% of respondents are using or planning to use AI tools in their development process, up from 76% last year. Another survey conducted this summer by the tech media site The Information found that 75% of respondents were at least trying vibe coding. A May 2025 study by the software intelligence platform Jellyfish found that 90% had integrated AI into their work, up from 61% last year, as reported by Business Insider.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/dedicated-mobile-apps-for-vibe-coding-have-so-far-failed-to-gain-traction/</guid><pubDate>Tue, 23 Sep 2025 16:10:27 +0000</pubDate></item><item><title>Martin Frederik, Snowflake: Data quality is key to AI-driven growth (AI News)</title><link>https://www.artificialintelligence-news.com/news/martin-frederik-snowflake-data-quality-key-ai-driven-growth/</link><description>&lt;p&gt;As companies race to implement AI, many are finding that project success hinges directly on the quality of their data. This dependency is causing many ambitious initiatives to stall, never making it beyond the experimental proof-of-concept stage.&lt;/p&gt;&lt;p&gt;So, what’s the secret to turning these experiments into real revenue generators? AI News caught up with Martin Frederik, regional leader for the Netherlands, Belgium, and Luxembourg at data cloud giant Snowflake, to find out.&lt;/p&gt;&lt;p&gt;“There’s no AI strategy without a data strategy,” Frederik says simply. “AI apps, agents, and models are only as effective as the data they’re built on, and without unified, well-governed data infrastructure, even the most advanced models can fall short.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-improving-data-quality-is-key-to-ai-project-success"&gt;Improving data quality is key to AI project success&lt;/h3&gt;&lt;p&gt;It’s a familiar story for many organisations: a promising proof-of-concept impresses the team but never translates into a tool that makes the company money. According to Frederik, this often happens because leaders treat the technology as the end goal.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-full is-resized"&gt;&lt;img alt="Headshot of Martin Frederik, regional leader for the Netherlands, Belgium, and Luxembourg at AI data cloud giant Snowflake." class="wp-image-109549" height="800" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/09/image-14.png" width="800" /&gt;&lt;/figure&gt;&lt;p&gt;“AI is not the destination – it’s the vehicle to achieving your business goals,” Frederik advises.&lt;/p&gt;&lt;p&gt;When projects get stuck, it’s usually down to a few common culprits: the project isn’t truly aligned with what the business needs, teams aren’t talking to each other, or the data is a mess. It’s easy to get disheartened by statistics suggesting that 80% of AI projects don’t reach production, but Frederik offers a different perspective. This isn’t necessarily a failure, he suggests, but “part of the maturation process”.&lt;/p&gt;&lt;p&gt;For those who get the foundation right, the payoff is very real. A recent Snowflake study found that 92% of companies are already seeing a return on their AI investments. In fact, for every £1 spent, they’re getting back £1.41 in cost savings and new revenue. The key, Frederik repeats, is having a “secure, governed and centralised platform” for your data from the very beginning.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-it-s-not-just-about-tech-it-s-about-people"&gt;It’s not just about tech, it’s about people&lt;/h3&gt;&lt;p&gt;Even with the best technology, an AI strategy can fall flat if the company culture isn’t ready for it. One of the biggest challenges is getting data into the hands of everyone who needs it, not just a select few data scientists. To make AI work at scale, you have to build strong foundations in your “people, processes, and technology.”&lt;/p&gt;&lt;p&gt;This means breaking down the walls between departments and making quality data and AI tools accessible to everyone.&lt;/p&gt;&lt;p&gt;“With the right governance, AI becomes a shared resource rather than a siloed tool,” Frederik explains. When everyone works from a single source of truth, teams can stop arguing about whose numbers are correct and start making faster and smarter decisions together.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-next-leap-ai-that-reasons-for-itself"&gt;The next leap: AI that reasons for itself&lt;/h3&gt;&lt;p&gt;The true breakthrough we’re seeing now is the emergence of AI agents that can understand and reason over all kinds of data at once regardless of structure quality; from the neat rows and columns in a spreadsheet, to the unstructured information in documents, videos, and emails. Considering that this unstructured data makes up 80-90% of a typical company’s data, this is a huge step forward.&lt;/p&gt;&lt;p&gt;New tools are enabling staff, no matter their technical skill level, to simply ask complex questions in plain English and get answers directly from the data.&lt;/p&gt;&lt;p&gt;Frederik explains that this is a move towards what he calls “goal-directed autonomy”. Until now, AI has been a helpful assistant you had to constantly direct. “You ask a question, you get an answer; you ask for code, you get a snippet,” he notes.&lt;/p&gt;&lt;p&gt;The next generation of AI is different. You can give an agent a complex goal, and it will figure out the necessary steps on its own, from writing code to pulling in information from other apps to deliver a complete answer. This will automate the most time-consuming parts of a data scientist’s job, like “tedious data cleaning” and “repetitive model tuning.”&lt;/p&gt;&lt;p&gt;The result? It frees up your brightest minds to focus on what really matters. This elevates your people “from practitioner to strategist” and allows them to drive real value for the business. That can only be a good thing.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Snowflake is a key sponsor of this year’s &lt;/em&gt;&lt;em&gt;AI &amp;amp; Big Data Expo Europe&lt;/em&gt;&lt;em&gt; and will have a range of speakers sharing their deep insights during the event. Swing by Snowflake’s booth at stand number 50 to hear more from the company about making enterprise AI easy, efficient, and trusted.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Public trust deficit is a major hurdle for AI growth&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Banner for the AI &amp;amp; Big Data Expo event series." class="wp-image-109137" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;As companies race to implement AI, many are finding that project success hinges directly on the quality of their data. This dependency is causing many ambitious initiatives to stall, never making it beyond the experimental proof-of-concept stage.&lt;/p&gt;&lt;p&gt;So, what’s the secret to turning these experiments into real revenue generators? AI News caught up with Martin Frederik, regional leader for the Netherlands, Belgium, and Luxembourg at data cloud giant Snowflake, to find out.&lt;/p&gt;&lt;p&gt;“There’s no AI strategy without a data strategy,” Frederik says simply. “AI apps, agents, and models are only as effective as the data they’re built on, and without unified, well-governed data infrastructure, even the most advanced models can fall short.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-improving-data-quality-is-key-to-ai-project-success"&gt;Improving data quality is key to AI project success&lt;/h3&gt;&lt;p&gt;It’s a familiar story for many organisations: a promising proof-of-concept impresses the team but never translates into a tool that makes the company money. According to Frederik, this often happens because leaders treat the technology as the end goal.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-full is-resized"&gt;&lt;img alt="Headshot of Martin Frederik, regional leader for the Netherlands, Belgium, and Luxembourg at AI data cloud giant Snowflake." class="wp-image-109549" height="800" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/09/image-14.png" width="800" /&gt;&lt;/figure&gt;&lt;p&gt;“AI is not the destination – it’s the vehicle to achieving your business goals,” Frederik advises.&lt;/p&gt;&lt;p&gt;When projects get stuck, it’s usually down to a few common culprits: the project isn’t truly aligned with what the business needs, teams aren’t talking to each other, or the data is a mess. It’s easy to get disheartened by statistics suggesting that 80% of AI projects don’t reach production, but Frederik offers a different perspective. This isn’t necessarily a failure, he suggests, but “part of the maturation process”.&lt;/p&gt;&lt;p&gt;For those who get the foundation right, the payoff is very real. A recent Snowflake study found that 92% of companies are already seeing a return on their AI investments. In fact, for every £1 spent, they’re getting back £1.41 in cost savings and new revenue. The key, Frederik repeats, is having a “secure, governed and centralised platform” for your data from the very beginning.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-it-s-not-just-about-tech-it-s-about-people"&gt;It’s not just about tech, it’s about people&lt;/h3&gt;&lt;p&gt;Even with the best technology, an AI strategy can fall flat if the company culture isn’t ready for it. One of the biggest challenges is getting data into the hands of everyone who needs it, not just a select few data scientists. To make AI work at scale, you have to build strong foundations in your “people, processes, and technology.”&lt;/p&gt;&lt;p&gt;This means breaking down the walls between departments and making quality data and AI tools accessible to everyone.&lt;/p&gt;&lt;p&gt;“With the right governance, AI becomes a shared resource rather than a siloed tool,” Frederik explains. When everyone works from a single source of truth, teams can stop arguing about whose numbers are correct and start making faster and smarter decisions together.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-next-leap-ai-that-reasons-for-itself"&gt;The next leap: AI that reasons for itself&lt;/h3&gt;&lt;p&gt;The true breakthrough we’re seeing now is the emergence of AI agents that can understand and reason over all kinds of data at once regardless of structure quality; from the neat rows and columns in a spreadsheet, to the unstructured information in documents, videos, and emails. Considering that this unstructured data makes up 80-90% of a typical company’s data, this is a huge step forward.&lt;/p&gt;&lt;p&gt;New tools are enabling staff, no matter their technical skill level, to simply ask complex questions in plain English and get answers directly from the data.&lt;/p&gt;&lt;p&gt;Frederik explains that this is a move towards what he calls “goal-directed autonomy”. Until now, AI has been a helpful assistant you had to constantly direct. “You ask a question, you get an answer; you ask for code, you get a snippet,” he notes.&lt;/p&gt;&lt;p&gt;The next generation of AI is different. You can give an agent a complex goal, and it will figure out the necessary steps on its own, from writing code to pulling in information from other apps to deliver a complete answer. This will automate the most time-consuming parts of a data scientist’s job, like “tedious data cleaning” and “repetitive model tuning.”&lt;/p&gt;&lt;p&gt;The result? It frees up your brightest minds to focus on what really matters. This elevates your people “from practitioner to strategist” and allows them to drive real value for the business. That can only be a good thing.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Snowflake is a key sponsor of this year’s &lt;/em&gt;&lt;em&gt;AI &amp;amp; Big Data Expo Europe&lt;/em&gt;&lt;em&gt; and will have a range of speakers sharing their deep insights during the event. Swing by Snowflake’s booth at stand number 50 to hear more from the company about making enterprise AI easy, efficient, and trusted.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Public trust deficit is a major hurdle for AI growth&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Banner for the AI &amp;amp; Big Data Expo event series." class="wp-image-109137" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/martin-frederik-snowflake-data-quality-key-ai-driven-growth/</guid><pubDate>Tue, 23 Sep 2025 16:34:26 +0000</pubDate></item><item><title>Google Photos users on Android can now edit their photos by talking to or texting the AI (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/google-photos-users-on-android-can-now-edit-their-photos-by-talking-to-or-texting-the-ai/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Android users are now able to edit their photos with AI, Google announced on Tuesday. In Google Photos, users will be able to talk to the AI using natural language to describe how they want to edit their photo via either voice or text, Google says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The feature is designed to make it easier to edit photos without having to understand which editing tools to use or where they can be found in the app. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Gemini-powered feature was initially made available to those with the newly launched Pixel 10 devices in the U.S., introduced in August. &lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Google Photos" class="wp-image-3038275" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/unnamed.gif?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To get started, you can tap “Help me edit” in the editor, then describe how you want to change the photo. If you’re not sure where to start to make improvements, you can also use one of the provided Gemini suggestions or simply tell the AI to “make it better.” &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The feature supports the usual types of edits, like lighting adjustments or removing distractions from the images, as well as more advanced edits, like removing objects in the background or restoring an old image. Plus, it can change photos to have fantastical AI elements added, for a bit of creativity. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As you continue to edit, Gemini will support follow-up requests to help you fine-tune your work further. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AI editing is currently available to users 18 and up in the U.S. in English.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The AI feature was announced alongside support for C2PA Content Credentials&amp;nbsp;in Google Photos, which identifies when images were created with AI. This functionality was also initially launched on Pixel devices, but is now coming to Android users, too, Google confirmed to TechCrunch.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Android users are now able to edit their photos with AI, Google announced on Tuesday. In Google Photos, users will be able to talk to the AI using natural language to describe how they want to edit their photo via either voice or text, Google says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The feature is designed to make it easier to edit photos without having to understand which editing tools to use or where they can be found in the app. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Gemini-powered feature was initially made available to those with the newly launched Pixel 10 devices in the U.S., introduced in August. &lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Google Photos" class="wp-image-3038275" height="680" src="https://techcrunch.com/wp-content/uploads/2025/08/unnamed.gif?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To get started, you can tap “Help me edit” in the editor, then describe how you want to change the photo. If you’re not sure where to start to make improvements, you can also use one of the provided Gemini suggestions or simply tell the AI to “make it better.” &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The feature supports the usual types of edits, like lighting adjustments or removing distractions from the images, as well as more advanced edits, like removing objects in the background or restoring an old image. Plus, it can change photos to have fantastical AI elements added, for a bit of creativity. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As you continue to edit, Gemini will support follow-up requests to help you fine-tune your work further. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AI editing is currently available to users 18 and up in the U.S. in English.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The AI feature was announced alongside support for C2PA Content Credentials&amp;nbsp;in Google Photos, which identifies when images were created with AI. This functionality was also initially launched on Pixel devices, but is now coming to Android users, too, Google confirmed to TechCrunch.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/google-photos-users-on-android-can-now-edit-their-photos-by-talking-to-or-texting-the-ai/</guid><pubDate>Tue, 23 Sep 2025 17:12:05 +0000</pubDate></item><item><title>Time series foundation models can be few-shot learners (The latest research from Google)</title><link>https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Redesigning the model&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;TimesFM is a patched decoder that tokenizes every 32 contiguous timepoints (a patch) as an input token and applies a transformer stack on top of the sequence of input tokens to generate the output tokens. It then applies a shared multilayer perceptron (MLP) to translate each output token back to a time series of 128 timepoints.&lt;/p&gt;&lt;p&gt;To create TimesFM-ICF (In-Context Fine-tuning), we start with the base TimesFM model and continue the pre-training with new context: the forecast history plus all in-context examples. The first step is to make sure the model doesn’t confuse or conflate the forecasting history and the in-context examples. Imagine you're giving the model a list of numbers that represent a few different things, maybe sunglasses sales figures from one store, then umbrella sales figures from another. If you just merge all those numbers together, the model might get confused, thinking it's one continuous stream of data. For example, if the first store’s sales were going up and the second store’s sales were going down, the model might incorrectly see it as a single up-and-down pattern, rather than two separate, simple trends.&lt;/p&gt;&lt;p&gt;To fix this, we put a special, learnable “common separator token” — like a digital "stop sign" or a "new paragraph" symbol — after each set of numbers. With these separators in place, as soon as the model attends to the separator token of an example it has seen before, it won't mix it up with the data it's currently trying to predict. This theoretically allows the model to learn from patterns in those past examples and apply that knowledge to the current forecast. For instance, the model could learn that "all the store sales are showing consistent, directional trends lately, so I should predict an upward trend for my new store’s sunscreen sales."&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Redesigning the model&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;TimesFM is a patched decoder that tokenizes every 32 contiguous timepoints (a patch) as an input token and applies a transformer stack on top of the sequence of input tokens to generate the output tokens. It then applies a shared multilayer perceptron (MLP) to translate each output token back to a time series of 128 timepoints.&lt;/p&gt;&lt;p&gt;To create TimesFM-ICF (In-Context Fine-tuning), we start with the base TimesFM model and continue the pre-training with new context: the forecast history plus all in-context examples. The first step is to make sure the model doesn’t confuse or conflate the forecasting history and the in-context examples. Imagine you're giving the model a list of numbers that represent a few different things, maybe sunglasses sales figures from one store, then umbrella sales figures from another. If you just merge all those numbers together, the model might get confused, thinking it's one continuous stream of data. For example, if the first store’s sales were going up and the second store’s sales were going down, the model might incorrectly see it as a single up-and-down pattern, rather than two separate, simple trends.&lt;/p&gt;&lt;p&gt;To fix this, we put a special, learnable “common separator token” — like a digital "stop sign" or a "new paragraph" symbol — after each set of numbers. With these separators in place, as soon as the model attends to the separator token of an example it has seen before, it won't mix it up with the data it's currently trying to predict. This theoretically allows the model to learn from patterns in those past examples and apply that knowledge to the current forecast. For instance, the model could learn that "all the store sales are showing consistent, directional trends lately, so I should predict an upward trend for my new store’s sunscreen sales."&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/</guid><pubDate>Tue, 23 Sep 2025 18:00:43 +0000</pubDate></item><item><title>How Google’s dev tools manager makes AI coding work (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/IMG_5424.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;As Google’s project manager for developer tools, Ryan Salva has a front-row seat to the ways AI tools are changing coding. Formerly of GitHub and Microsoft, he’s now responsible for tools like Gemini CLI and Gemini Code Assist, nudging developers into the new world of agentic programming.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;His team released new third-party research on Tuesday showing how developers actually use AI tools — and how much progress is left to make. I sat down with Salva to talk about the report and his personal experience with AI coding tools.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This interview was edited for length and clarity.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Every year, Google does a survey of developer trends — but this year’s report really focuses on AI tools, and specifically how agentic developers are willing to get in their approach to programming. Was there anything in the research that surprised you?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One of the really interesting findings was the median date when developers started using AI tools. They found it was April 2024, which corresponds fairly neatly to Claude 3 coming out and Gemini 2.5 coming out. This is really the dawn of the reasoning or thinking models, and around that same time, we got much better at tool-calling. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For coding tasks, you really need to be able to leverage external information in order to problem solve, so it may need to grep, it may need to compile the code. If the code compiles it may want to run that unit test, and that integration test. I think that tool-calling really is the important piece that gave models the ability to self-correct as they move along.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;How are you using AI coding tools personally?&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Most of my coding these days is for hobby projects, and I spend most of my time using command line-based tools. So that includes Gemini CLI. Then there’s a little bit of Claude Code, little bit of Codex in there. And you don’t ever really use a terminal-based tool by itself, so I’m really heterogeneous around the IDEs that I use. I use Zed. I use VS code. I use Cursor. I use Windsurf, all of them, because I’m interested in just seeing how the world works and how the industry is evolving.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On the professional side, product managers tend to live in documents, so the first thing is using AI to help me write the specification and requirements docs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;I’m curious how that works. You’re using Gemini CLI to build Gemini CLI, but I would imagine it doesn’t just run itself.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;A development task will usually start as an issue, maybe it’s a GitHub issue that someone’s dropped with a bug. Often, if I’m really being honest, it’s a fairly under-specified issue. So I’ll use Gemini CLI in order to create a more robust requirement doc in Markdown. That will usually create probably about 100 lines of fairly technical, but also outcome-driven specification. Then I will use Gemini CLI to write the code based on that specification and the general preferences in the team documents.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Across the engineering team, we have a couple of different layers of rules and Markdown docs that get consumed by the model, just laying out our way of working: Here’s how we do testing, here’s how we manage dependencies, and so on. So when it produces the code, it’s also working from those documents.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And as Gemini CLI is going through and doing the troubleshooting, I’ll have it update my requirements doc saying, “I fixed this step. Now I’m on to the next step,” and so on. Each one of those creates its own commit and pull request in the repository, so I can always rewind or undo.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I would say probably 70% to 80% of my work is me working in the terminal with natural language, trying to use Gemini CLI to craft the requirements, and then allowing Gemini CLI to write most of the code for me, which I will then go review and read with whatever IDE I happen to be using. But mostly I’m using the IDE as a place to read the code, rather than to write the code.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you think there’s a future for raw computer code? Or will we just move everything into terminal windows?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For three decades, the IDE was where we went to do everything in software development. You had the IDE, you had the browser, and you had the terminal window.&amp;nbsp; &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I think that’s still largely the case, but I suspect that over time we’ll end up spending a lot more time working with the requirements, and the amount of time spent in the IDE will gradually shrink. And I think that change may actually happen over a pretty long time horizon.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;There’s a lot of angst about what that means for software development as a progression. If 10 years from now, we’re no longer looking at code, what does that mean for developers? Will there still be a job for them?&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;I think that your job as a developer is going to look a lot more like an architect. It is going to be about taking big, complex problems and breaking them down into smaller, solvable tasks. You’ll need to be thinking about like the bigger picture about what you’re trying to produce, rather than the intermediate language in order to express that in machine code.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/IMG_5424.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;As Google’s project manager for developer tools, Ryan Salva has a front-row seat to the ways AI tools are changing coding. Formerly of GitHub and Microsoft, he’s now responsible for tools like Gemini CLI and Gemini Code Assist, nudging developers into the new world of agentic programming.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;His team released new third-party research on Tuesday showing how developers actually use AI tools — and how much progress is left to make. I sat down with Salva to talk about the report and his personal experience with AI coding tools.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This interview was edited for length and clarity.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Every year, Google does a survey of developer trends — but this year’s report really focuses on AI tools, and specifically how agentic developers are willing to get in their approach to programming. Was there anything in the research that surprised you?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One of the really interesting findings was the median date when developers started using AI tools. They found it was April 2024, which corresponds fairly neatly to Claude 3 coming out and Gemini 2.5 coming out. This is really the dawn of the reasoning or thinking models, and around that same time, we got much better at tool-calling. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For coding tasks, you really need to be able to leverage external information in order to problem solve, so it may need to grep, it may need to compile the code. If the code compiles it may want to run that unit test, and that integration test. I think that tool-calling really is the important piece that gave models the ability to self-correct as they move along.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;How are you using AI coding tools personally?&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Most of my coding these days is for hobby projects, and I spend most of my time using command line-based tools. So that includes Gemini CLI. Then there’s a little bit of Claude Code, little bit of Codex in there. And you don’t ever really use a terminal-based tool by itself, so I’m really heterogeneous around the IDEs that I use. I use Zed. I use VS code. I use Cursor. I use Windsurf, all of them, because I’m interested in just seeing how the world works and how the industry is evolving.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On the professional side, product managers tend to live in documents, so the first thing is using AI to help me write the specification and requirements docs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;I’m curious how that works. You’re using Gemini CLI to build Gemini CLI, but I would imagine it doesn’t just run itself.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;A development task will usually start as an issue, maybe it’s a GitHub issue that someone’s dropped with a bug. Often, if I’m really being honest, it’s a fairly under-specified issue. So I’ll use Gemini CLI in order to create a more robust requirement doc in Markdown. That will usually create probably about 100 lines of fairly technical, but also outcome-driven specification. Then I will use Gemini CLI to write the code based on that specification and the general preferences in the team documents.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Across the engineering team, we have a couple of different layers of rules and Markdown docs that get consumed by the model, just laying out our way of working: Here’s how we do testing, here’s how we manage dependencies, and so on. So when it produces the code, it’s also working from those documents.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And as Gemini CLI is going through and doing the troubleshooting, I’ll have it update my requirements doc saying, “I fixed this step. Now I’m on to the next step,” and so on. Each one of those creates its own commit and pull request in the repository, so I can always rewind or undo.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I would say probably 70% to 80% of my work is me working in the terminal with natural language, trying to use Gemini CLI to craft the requirements, and then allowing Gemini CLI to write most of the code for me, which I will then go review and read with whatever IDE I happen to be using. But mostly I’m using the IDE as a place to read the code, rather than to write the code.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you think there’s a future for raw computer code? Or will we just move everything into terminal windows?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For three decades, the IDE was where we went to do everything in software development. You had the IDE, you had the browser, and you had the terminal window.&amp;nbsp; &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I think that’s still largely the case, but I suspect that over time we’ll end up spending a lot more time working with the requirements, and the amount of time spent in the IDE will gradually shrink. And I think that change may actually happen over a pretty long time horizon.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;There’s a lot of angst about what that means for software development as a progression. If 10 years from now, we’re no longer looking at code, what does that mean for developers? Will there still be a job for them?&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;I think that your job as a developer is going to look a lot more like an architect. It is going to be about taking big, complex problems and breaking them down into smaller, solvable tasks. You’ll need to be thinking about like the bigger picture about what you’re trying to produce, rather than the intermediate language in order to express that in machine code.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/</guid><pubDate>Tue, 23 Sep 2025 18:28:54 +0000</pubDate></item><item><title>[NEW] Roundtables: Meet the 2025 Innovator of the Year (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTR-Roundtables-1-Zoom-Opening-Overlay.png?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="contentBody__summaryBullets--81327c9379272772d1e74a64b6d4868a"&gt;&lt;div class="contentBody__summaryBullets--81327c9379272772d1e74a64b6d4868a"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 24 Sep 2025 06:31:29 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>Roundtables: Meet the 2025 Innovator of the Year (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTR-Roundtables-1-Zoom-Opening-Overlay.png?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="contentBody__summaryBullets--81327c9379272772d1e74a64b6d4868a"&gt;&lt;div class="contentBody__summaryBullets--81327c9379272772d1e74a64b6d4868a"&gt;
 &lt;p&gt;&lt;em&gt;Available only for MIT Alumni and subscribers.&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Every year, MIT Technology Review selects one individual whose work we admire to recognize as Innovator of the Year. For 2025, we chose Sneha Goenka, who designed the computations behind&amp;nbsp;the world’s fastest whole-genome sequencing method. Thanks to her work, physicians can now sequence a patient’s genome and diagnose a genetic condition in less than eight hours—an achievement that could transform medical care.&lt;/p&gt;  &lt;p&gt;Speakers: &lt;strong&gt;&lt;strong&gt;Sneha Goenka&lt;/strong&gt;&lt;/strong&gt;, Innovator of the Year;&lt;strong&gt;&amp;nbsp;&lt;strong&gt;Leilani Battle&lt;/strong&gt;,&amp;nbsp;&lt;/strong&gt;University of Washington;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;and&lt;strong&gt;&amp;nbsp;&lt;strong&gt;Mat Honan&lt;/strong&gt;,&amp;nbsp;&lt;/strong&gt;editor in chief&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 core-embed_1"&gt;
@@ -551,7 +15,7 @@
 [embedded content]
 
 &lt;/div&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;strong&gt;Recorded on&lt;/strong&gt; September 23&lt;/strong&gt;, &lt;strong&gt;2025&lt;/strong&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Related Coverage: &lt;/strong&gt;&lt;/p&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/</guid><pubDate>Tue, 23 Sep 2025 19:12:31 +0000</pubDate></item><item><title>[NEW] Scott Wiener on his fight to make Big Tech disclose AI’s dangers (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/scott-wiener-on-his-fight-to-make-big-tech-disclose-ais-dangers/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2218026592.jpg?resize=1200,804" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;This is not California state senator Scott Wiener’s first attempt at addressing the dangers of AI.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;strong&gt;Recorded on&lt;/strong&gt; September 23&lt;/strong&gt;, &lt;strong&gt;2025&lt;/strong&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Related Coverage: &lt;/strong&gt;&lt;/p&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/</guid><pubDate>Tue, 23 Sep 2025 19:12:31 +0000</pubDate></item><item><title>Scott Wiener on his fight to make Big Tech disclose AI’s dangers (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/scott-wiener-on-his-fight-to-make-big-tech-disclose-ais-dangers/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2218026592.jpg?resize=1200,804" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;This is not California state senator Scott Wiener’s first attempt at addressing the dangers of AI.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;In 2024, Silicon Valley mounted a fierce campaign against his controversial AI safety bill, SB 1047, which would have made tech companies liable for the potential harms of their AI systems. Tech leaders warned that it would stifle America’s AI boom. Governor Gavin Newsom ultimately vetoed the bill, echoing similar concerns, and a popular AI hacker house promptly threw an “SB 1047 Veto Party.” One attendee told me, “Thank god, AI is still legal.”&lt;/p&gt;
 
@@ -777,7 +241,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;My message is that we heard you. You vetoed SB 1047 and provided a very comprehensive and thoughtful veto message. You wisely convened a working group that produced a very strong report, and we really looked to that report in crafting this bill. The governor laid out a path, and we followed that path in order to come to an agreement, and I hope we got there.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/scott-wiener-on-his-fight-to-make-big-tech-disclose-ais-dangers/</guid><pubDate>Tue, 23 Sep 2025 20:21:06 +0000</pubDate></item><item><title>[NEW] Google Cloud’s COO isn’t stressed about landing the AI giants (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/google-clouds-coo-isnt-stressed-about-landing-the-ai-giants/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1252207431.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;This week on StrictlyVC Download, TechCrunch Editor-in-Chief Connie Loizos is joined by Francis deSouza, the renowned entrepreneur, operator, and, since January, COO of Google Cloud. They discuss his goals for Google Cloud and how the company maintains its competitive position by focusing on startups while giants like AWS and Oracle snap up major deals with leading AI companies — namely, OpenAI and Anthropic.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;My message is that we heard you. You vetoed SB 1047 and provided a very comprehensive and thoughtful veto message. You wisely convened a working group that produced a very strong report, and we really looked to that report in crafting this bill. The governor laid out a path, and we followed that path in order to come to an agreement, and I hope we got there.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/scott-wiener-on-his-fight-to-make-big-tech-disclose-ais-dangers/</guid><pubDate>Tue, 23 Sep 2025 20:21:06 +0000</pubDate></item><item><title>Google Cloud’s COO isn’t stressed about landing the AI giants (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/google-clouds-coo-isnt-stressed-about-landing-the-ai-giants/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1252207431.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;This week on StrictlyVC Download, TechCrunch Editor-in-Chief Connie Loizos is joined by Francis deSouza, the renowned entrepreneur, operator, and, since January, COO of Google Cloud. They discuss his goals for Google Cloud and how the company maintains its competitive position by focusing on startups while giants like AWS and Oracle snap up major deals with leading AI companies — namely, OpenAI and Anthropic.&lt;/p&gt;
 
 
 
@@ -793,7 +257,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;StrictlyVC Download posts every Tuesday. Subscribe on&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;Apple&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;,&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;Spotify,&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;or&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;wherever you listen to podcasts&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;to be alerted when new episodes drop.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/google-clouds-coo-isnt-stressed-about-landing-the-ai-giants/</guid><pubDate>Tue, 23 Sep 2025 20:53:16 +0000</pubDate></item><item><title>[NEW] Google’s AI Mode arrives in Spanish globally (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/googles-ai-mode-arrives-in-spanish-globally/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google Search is bringing its AI Mode feature — its AI-powered search experience — to Spanish-speaking users, the company announced on Tuesday. This expansion will introduce Google’s conversational search interface to a broader market, allowing users to ask questions using natural language queries, engage in back-and-forth conversations, upload images, dig deeper on complex topics, and more.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;StrictlyVC Download posts every Tuesday. Subscribe on&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;Apple&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;,&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;Spotify,&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;or&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;wherever you listen to podcasts&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;to be alerted when new episodes drop.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/google-clouds-coo-isnt-stressed-about-landing-the-ai-giants/</guid><pubDate>Tue, 23 Sep 2025 20:53:16 +0000</pubDate></item><item><title>Google’s AI Mode arrives in Spanish globally (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/googles-ai-mode-arrives-in-spanish-globally/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google Search is bringing its AI Mode feature — its AI-powered search experience — to Spanish-speaking users, the company announced on Tuesday. This expansion will introduce Google’s conversational search interface to a broader market, allowing users to ask questions using natural language queries, engage in back-and-forth conversations, upload images, dig deeper on complex topics, and more.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The Spanish-language rollout comes on the heels of Google’s major AI Mode expansion in August, when the company released the feature to 180 more countries worldwide. Previously, it had only been available in the U.S., U.K., and India. During that August rollout, Google also introduced advanced AI capabilities to its Google AI Ultra subscribers, allowing them to request restaurant reservations in AI Mode. The company plans to introduce support for other types of appointments and event ticket purchases in the future.&lt;/p&gt;
 
@@ -825,7 +289,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;Google&amp;nbsp;announced&amp;nbsp;earlier this month that AI Mode also now supports Hindi, Indonesian, Japanese, Korean, and Brazilian Portuguese.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;With so many products, users may find it hard to distinguish between different features and functionality, like the difference between Google’s AI Mode and its AI Overviews. The former is a separate, immersive, and conversational experience where users chat directly with Gemini AI. Meanwhile, AI Overviews simply offer a quick, AI-generated summary of information about your search query at the top of Google’s Search results.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/googles-ai-mode-arrives-in-spanish-globally/</guid><pubDate>Tue, 23 Sep 2025 21:18:32 +0000</pubDate></item><item><title>[NEW] When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/</link><description>&lt;header&gt;
+&lt;p class="wp-block-paragraph"&gt;With so many products, users may find it hard to distinguish between different features and functionality, like the difference between Google’s AI Mode and its AI Overviews. The former is a separate, immersive, and conversational experience where users chat directly with Gemini AI. Meanwhile, AI Overviews simply offer a quick, AI-generated summary of information about your search query at the top of Google’s Search results.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/googles-ai-mode-arrives-in-spanish-globally/</guid><pubDate>Tue, 23 Sep 2025 21:18:32 +0000</pubDate></item><item><title>When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -1297,19 +761,9 @@
         &lt;/div&gt;
     &lt;/div&gt;
               &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/</guid><pubDate>Tue, 23 Sep 2025 22:23:22 +0000</pubDate></item><item><title>[NEW] OpenAI is building five new Stargate data centers with Oracle and SoftBank (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2194585046.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI announced on Tuesday that it plans to build five new AI data centers across the United States with partners Oracle and SoftBank through its Stargate project. The new data centers will bring Stargate’s planned capacity to seven gigawatts — enough energy to power more than five million homes.&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/</guid><pubDate>Tue, 23 Sep 2025 22:23:22 +0000</pubDate></item><item><title>OpenAI is building five new Stargate data centers with Oracle and SoftBank (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2194585046.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI announced on Tuesday that it plans to build five new AI data centers across the United States with partners Oracle and SoftBank through its Stargate project. The new data centers will bring Stargate’s planned capacity to 7 gigawatts — enough energy to power more than 5 million homes.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Three of the new sites are being developed with Oracle. They’re located in Shackelford County, Texas; Doña Ana County, New Mexico;&amp;nbsp;and an undisclosed location in the Midwest. The other two sites are being developed with SoftBank, with one in Lordstown, Ohio and the other in Milam County, Texas.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The new Stargate AI data centers are part of OpenAI’s massive infrastructure buildout, as the company works to train and serve more powerful AI models. On Monday, OpenAI said it would receive a $100 billion investment from Nvidia to buy the chipmaker’s AI processors and build out even more AI data centers.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2194585046.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI announced on Tuesday that it plans to build five new AI data centers across the United States with partners Oracle and SoftBank through its Stargate project. The new data centers will bring Stargate’s planned capacity to seven gigawatts — enough energy to power more than five million homes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Three of the new sites are being developed with Oracle. They’re located in Shackelford County, Texas; Doña Ana County, New Mexico;&amp;nbsp;and an undisclosed location in the Midwest. The other two sites are being developed with SoftBank, with one in Lordstown, Ohio and the other in Milam County, Texas.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Three of the new sites are being developed with Oracle. They’re located in Shackelford County, Texas; Doña Ana County, New Mexico;&amp;nbsp;and an undisclosed location in the Midwest. The other two sites are being developed with SoftBank, with one in Lordstown, Ohio, and the other in Milam County, Texas.&lt;/p&gt;
 
 
 
@@ -1317,4 +771,94 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;The new Stargate AI data centers are part of OpenAI’s massive infrastructure buildout, as the company works to train and serve more powerful AI models. On Monday, OpenAI said it would receive a $100 billion investment from Nvidia to buy the chipmaker’s AI processors and build out even more AI data centers.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/</guid><pubDate>Tue, 23 Sep 2025 22:24:17 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;The new Stargate AI data centers are part of OpenAI’s massive infrastructure buildout, as the company works to train and serve more powerful AI models. On Monday, OpenAI said it would receive a $100 billion investment from Nvidia to buy the chipmaker’s AI processors and build out even more AI data centers.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2194585046.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI announced on Tuesday that it plans to build five new AI data centers across the United States with partners Oracle and SoftBank through its Stargate project. The new data centers will bring Stargate’s planned capacity to 7 gigawatts — enough energy to power more than 5 million homes.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Three of the new sites are being developed with Oracle. They’re located in Shackelford County, Texas; Doña Ana County, New Mexico;&amp;nbsp;and an undisclosed location in the Midwest. The other two sites are being developed with SoftBank, with one in Lordstown, Ohio, and the other in Milam County, Texas.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The new Stargate AI data centers are part of OpenAI’s massive infrastructure buildout, as the company works to train and serve more powerful AI models. On Monday, OpenAI said it would receive a $100 billion investment from Nvidia to buy the chipmaker’s AI processors and build out even more AI data centers.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/</guid><pubDate>Tue, 23 Sep 2025 22:24:17 +0000</pubDate></item><item><title>[NEW] Improving the workplace of the future (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/improving-workplace-future-whitney-zhang-0924</link><description>&lt;div class="news-article--content--body--inner"&gt;
+            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
+          
+
+            &lt;p dir="ltr"&gt;Whitney Zhang ’21 believes in the importance of valuing workers regardless of where they fit into an organizational chart.&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang is a PhD student in MIT’s&amp;nbsp;Department of Economics studying labor economics. She explores how the technological and managerial decisions companies make affect workers across the pay spectrum.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“I’ve been interested in economics, economic impacts, and related social issues for a long time,” says Zhang, who majored in mathematical economics as an undergraduate. “I wanted to apply my math skills to see how we could improve policies and their effects.”&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang is interested in how to improve conditions for workers. She believes it’s important to build relationships with policymakers, focusing on an evidence-driven approach to policy, while always remembering to center those the policies may affect. “We have to remember the people whose lives are impacted by business operations and legislation,” she says.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;She’s also aware of the complex intermixture of politics, social status, and financial obligations organizations and their employees have to navigate.&lt;/p&gt;&lt;p dir="ltr"&gt;“Though I’m studying workers, it’s important to consider the entire complex ecosystem when solving for these kinds of challenges, including firm incentives and global economic conditions,” she says.&lt;/p&gt;        
+
+      &lt;/div&gt;
+            &lt;div class="paragraph paragraph--type--content-block-youtube-video paragraph--view-mode--default"&gt;
+          
+
+            
+   
+
+  &lt;div class="news-article--inline-video"&gt;
+        &lt;div class="news-article--inline-video--container"&gt;
+
+                             &lt;div class="news-article--inline-video--cover-image"&gt;
+                      &lt;img alt="Video thumbnail" height="480" src="https://i1.ytimg.com/vi/1nJ1-p5Hi_8/maxresdefault.jpg" width="640" /&gt;
+                    
+          Play video
+        &lt;/div&gt;
+                
+
+                      &lt;/div&gt;
+        &lt;div class="news-article--inline-video--caption"&gt;
+      
+
+            Graduate student spotlight: PhD student Whitney Zhang        
+
+    &lt;/div&gt;
+          &lt;/div&gt;  
+        
+
+      &lt;/div&gt;
+            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
+          
+
+            &lt;p&gt;&lt;strong&gt;The intersection of tech and labor policy&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang began investigating employee productivity, artificial intelligence, and related economic and labor market phenomena early in her time as a doctoral student, collaborating frequently with fellow PhD students in the department.&lt;/p&gt;&lt;p dir="ltr"&gt;A collaboration with economics doctoral student Shakked Noy yielded the 2023&amp;nbsp;study investigating ChatGPT as a tool to improve productivity. Their&amp;nbsp;research found it substantially increased workers’ productivity on writing tasks, most so for workers who initially performed the worst on the tasks.&lt;/p&gt;&lt;p dir="ltr"&gt;“This was one of the earliest pieces of evidence on the productivity effects of generative AI, and contributed to providing concrete data on how impactful these types of tools might be in the workplace and on the labor market,” Zhang says.&lt;/p&gt;&lt;p dir="ltr"&gt;In other ongoing research&amp;nbsp;—&amp;nbsp;“Determinants of Irregular Worker Schedules” —&amp;nbsp;Zhang is using data from a payroll provider to examine scheduling unpredictability, investigating why companies employ unpredictable schedules and how these schedules affect low-wage employees’ quality of life.&lt;/p&gt;&lt;p dir="ltr"&gt;The scheduling project, conducted with MIT economics PhD student Nathan Lazarus, is motivated, in part, by existing sociological evidence that low-wage workers’ unpredictable schedules are associated with worse sleep and well-being. “We’ve seen a relationship between higher turnover and inconsistent, inadequate schedules, which suggests workers dis-prefer these kinds of schedules,” Zhang says.&lt;/p&gt;&lt;p dir="ltr"&gt;At an academic roundtable, Zhang presented her results to Starbucks employees involved in scheduling and staffing. The attendees wanted to learn more about how different scheduling practices impacted workers and their productivity. “These are the kinds of questions that could reveal useful information for small businesses, large corporations, and others,” she says.&lt;/p&gt;&lt;p dir="ltr"&gt;By conducting this research, Zhang hopes to better understand whether or not scheduling regulations can improve affected employees’ quality of life, while also considering potential unintended consequences. “Why are these schedules set the way they’re set?” she asks. “Do businesses with these kinds of schedules require increased regulation?”&lt;/p&gt;&lt;p dir="ltr"&gt;Another project, conducted with MIT economics doctoral student Arjun Ramani, examines the linkages between offshoring, remote work, and related outcomes. “Do the technological and managerial practices that have made remote work possible further facilitate offshoring?” she asks. “Do organizations see significant gains in efficiency? What are the impacts on U.S. and offshore workers?”&lt;/p&gt;&lt;p dir="ltr"&gt;Her work is being funded through the&amp;nbsp;National Science Foundation Graduate Research Fellowship Program and the&amp;nbsp;Washington Center for Equitable Growth.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Putting people at the center&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang has observed the different kinds of people economics and higher education could bring together. She followed a dual enrollment track in high school, completing college-level courses with students from across a variety of demographic identities. “I enjoyed centering people in my work,” she says. “Taking classes with a diverse group of students, including veterans and mothers returning to school to complete their studies, made me more curious about socioeconomic issues and the policies relevant to them.”&lt;/p&gt;&lt;p dir="ltr"&gt;She later enrolled at MIT, where she participated in the Undergraduate Research Opportunities Program (UROP). She also completed an internship at the World Bank, worked as a summer analyst at the Federal Reserve Bank of New York, and worked as an assistant for a diverse faculty cohort including MIT economists&amp;nbsp;David Autor,&amp;nbsp;Jon Gruber, and&amp;nbsp;Nina Roussille. Autor is her primary advisor on her doctoral research, a mentor she cites as a significant influence.&lt;/p&gt;&lt;p dir="ltr"&gt;“[Autor’s] course, 14.03 (Microeconomics and Public Policy), cemented connections between theory and practice,” she says. “I thought the class was revelatory in showing the kinds of questions economics can answer.”&lt;/p&gt;&lt;p dir="ltr"&gt;Doctoral study has revealed interesting pathways of investigation for Zhang, as have her relationships with her student peers and other faculty. She has, for example, leveraged faculty connections to gain access to hourly wage data in support of her scheduling and employee impacts work. “Generally, economists have had administrative data on earnings, but not on hours,” she notes.&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang’s focus on improving others’ lives extends to her work outside the classroom. She’s a mentor for the&amp;nbsp;Boston Chinatown Neighborhood Center College Access Program and a member of MIT’s Graduate Christian Fellowship group. When she’s not enjoying spicy soups or&amp;nbsp;paddling on the Charles, she takes advantage of opportunities to decompress with her art at&amp;nbsp;W20 Arts Studios.&lt;/p&gt;&lt;p dir="ltr"&gt;“I wanted to create time for myself outside of research and the classroom,” she says.&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang cites the benefits of MIT’s focus on cross-collaboration and encouraging students to explore other disciplines. As an undergraduate, Zhang minored in computer science, which taught her coding skills critical to her data work. Exposure to engineering also led her to become more interested in questions around how technology and workers interact.&lt;/p&gt;&lt;p dir="ltr"&gt;Working with other scholars in the department has improved how Zhang conducts inquiries. “I’ve become the kind of well-rounded student and professional who can identify and quantify impacts, which is invaluable for future projects,” she says. Exposure to different academic and research areas, Zhang argues, helps increase access to ideas and information.&lt;/p&gt;        
+
+      &lt;/div&gt;
+        &lt;/div&gt;</description><content:encoded>&lt;div class="news-article--content--body--inner"&gt;
+            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
+          
+
+            &lt;p dir="ltr"&gt;Whitney Zhang ’21 believes in the importance of valuing workers regardless of where they fit into an organizational chart.&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang is a PhD student in MIT’s&amp;nbsp;Department of Economics studying labor economics. She explores how the technological and managerial decisions companies make affect workers across the pay spectrum.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“I’ve been interested in economics, economic impacts, and related social issues for a long time,” says Zhang, who majored in mathematical economics as an undergraduate. “I wanted to apply my math skills to see how we could improve policies and their effects.”&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang is interested in how to improve conditions for workers. She believes it’s important to build relationships with policymakers, focusing on an evidence-driven approach to policy, while always remembering to center those the policies may affect. “We have to remember the people whose lives are impacted by business operations and legislation,” she says.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;She’s also aware of the complex intermixture of politics, social status, and financial obligations organizations and their employees have to navigate.&lt;/p&gt;&lt;p dir="ltr"&gt;“Though I’m studying workers, it’s important to consider the entire complex ecosystem when solving for these kinds of challenges, including firm incentives and global economic conditions,” she says.&lt;/p&gt;        
+
+      &lt;/div&gt;
+            &lt;div class="paragraph paragraph--type--content-block-youtube-video paragraph--view-mode--default"&gt;
+          
+
+            
+   
+
+  &lt;div class="news-article--inline-video"&gt;
+        &lt;div class="news-article--inline-video--container"&gt;
+
+                             &lt;div class="news-article--inline-video--cover-image"&gt;
+                      &lt;img alt="Video thumbnail" height="480" src="https://i1.ytimg.com/vi/1nJ1-p5Hi_8/maxresdefault.jpg" width="640" /&gt;
+                    
+          Play video
+        &lt;/div&gt;
+                
+
+                      &lt;/div&gt;
+        &lt;div class="news-article--inline-video--caption"&gt;
+      
+
+            Graduate student spotlight: PhD student Whitney Zhang        
+
+    &lt;/div&gt;
+          &lt;/div&gt;  
+        
+
+      &lt;/div&gt;
+            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
+          
+
+            &lt;p&gt;&lt;strong&gt;The intersection of tech and labor policy&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang began investigating employee productivity, artificial intelligence, and related economic and labor market phenomena early in her time as a doctoral student, collaborating frequently with fellow PhD students in the department.&lt;/p&gt;&lt;p dir="ltr"&gt;A collaboration with economics doctoral student Shakked Noy yielded the 2023&amp;nbsp;study investigating ChatGPT as a tool to improve productivity. Their&amp;nbsp;research found it substantially increased workers’ productivity on writing tasks, most so for workers who initially performed the worst on the tasks.&lt;/p&gt;&lt;p dir="ltr"&gt;“This was one of the earliest pieces of evidence on the productivity effects of generative AI, and contributed to providing concrete data on how impactful these types of tools might be in the workplace and on the labor market,” Zhang says.&lt;/p&gt;&lt;p dir="ltr"&gt;In other ongoing research&amp;nbsp;—&amp;nbsp;“Determinants of Irregular Worker Schedules” —&amp;nbsp;Zhang is using data from a payroll provider to examine scheduling unpredictability, investigating why companies employ unpredictable schedules and how these schedules affect low-wage employees’ quality of life.&lt;/p&gt;&lt;p dir="ltr"&gt;The scheduling project, conducted with MIT economics PhD student Nathan Lazarus, is motivated, in part, by existing sociological evidence that low-wage workers’ unpredictable schedules are associated with worse sleep and well-being. “We’ve seen a relationship between higher turnover and inconsistent, inadequate schedules, which suggests workers dis-prefer these kinds of schedules,” Zhang says.&lt;/p&gt;&lt;p dir="ltr"&gt;At an academic roundtable, Zhang presented her results to Starbucks employees involved in scheduling and staffing. The attendees wanted to learn more about how different scheduling practices impacted workers and their productivity. “These are the kinds of questions that could reveal useful information for small businesses, large corporations, and others,” she says.&lt;/p&gt;&lt;p dir="ltr"&gt;By conducting this research, Zhang hopes to better understand whether or not scheduling regulations can improve affected employees’ quality of life, while also considering potential unintended consequences. “Why are these schedules set the way they’re set?” she asks. “Do businesses with these kinds of schedules require increased regulation?”&lt;/p&gt;&lt;p dir="ltr"&gt;Another project, conducted with MIT economics doctoral student Arjun Ramani, examines the linkages between offshoring, remote work, and related outcomes. “Do the technological and managerial practices that have made remote work possible further facilitate offshoring?” she asks. “Do organizations see significant gains in efficiency? What are the impacts on U.S. and offshore workers?”&lt;/p&gt;&lt;p dir="ltr"&gt;Her work is being funded through the&amp;nbsp;National Science Foundation Graduate Research Fellowship Program and the&amp;nbsp;Washington Center for Equitable Growth.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Putting people at the center&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang has observed the different kinds of people economics and higher education could bring together. She followed a dual enrollment track in high school, completing college-level courses with students from across a variety of demographic identities. “I enjoyed centering people in my work,” she says. “Taking classes with a diverse group of students, including veterans and mothers returning to school to complete their studies, made me more curious about socioeconomic issues and the policies relevant to them.”&lt;/p&gt;&lt;p dir="ltr"&gt;She later enrolled at MIT, where she participated in the Undergraduate Research Opportunities Program (UROP). She also completed an internship at the World Bank, worked as a summer analyst at the Federal Reserve Bank of New York, and worked as an assistant for a diverse faculty cohort including MIT economists&amp;nbsp;David Autor,&amp;nbsp;Jon Gruber, and&amp;nbsp;Nina Roussille. Autor is her primary advisor on her doctoral research, a mentor she cites as a significant influence.&lt;/p&gt;&lt;p dir="ltr"&gt;“[Autor’s] course, 14.03 (Microeconomics and Public Policy), cemented connections between theory and practice,” she says. “I thought the class was revelatory in showing the kinds of questions economics can answer.”&lt;/p&gt;&lt;p dir="ltr"&gt;Doctoral study has revealed interesting pathways of investigation for Zhang, as have her relationships with her student peers and other faculty. She has, for example, leveraged faculty connections to gain access to hourly wage data in support of her scheduling and employee impacts work. “Generally, economists have had administrative data on earnings, but not on hours,” she notes.&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang’s focus on improving others’ lives extends to her work outside the classroom. She’s a mentor for the&amp;nbsp;Boston Chinatown Neighborhood Center College Access Program and a member of MIT’s Graduate Christian Fellowship group. When she’s not enjoying spicy soups or&amp;nbsp;paddling on the Charles, she takes advantage of opportunities to decompress with her art at&amp;nbsp;W20 Arts Studios.&lt;/p&gt;&lt;p dir="ltr"&gt;“I wanted to create time for myself outside of research and the classroom,” she says.&lt;/p&gt;&lt;p dir="ltr"&gt;Zhang cites the benefits of MIT’s focus on cross-collaboration and encouraging students to explore other disciplines. As an undergraduate, Zhang minored in computer science, which taught her coding skills critical to her data work. Exposure to engineering also led her to become more interested in questions around how technology and workers interact.&lt;/p&gt;&lt;p dir="ltr"&gt;Working with other scholars in the department has improved how Zhang conducts inquiries. “I’ve become the kind of well-rounded student and professional who can identify and quantify impacts, which is invaluable for future projects,” she says. Exposure to different academic and research areas, Zhang argues, helps increase access to ideas and information.&lt;/p&gt;        
+
+      &lt;/div&gt;
+        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/improving-workplace-future-whitney-zhang-0924</guid><pubDate>Wed, 24 Sep 2025 04:00:00 +0000</pubDate></item></channel></rss>
