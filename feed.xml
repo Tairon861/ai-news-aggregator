@@ -1,2 +1,306 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 28 Sep 2025 12:38:35 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 28 Sep 2025 18:26:31 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>[NEW] Wiz chief technologist Ami Luttwak on how AI is transforming cyberattacks (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/28/wiz-chief-technologist-ami-luttwak-on-how-ai-is-transforming-cyberattacks/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2162704124.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;“One of the key things to understand about cybersecurity is that it’s a mind game,” Ami Luttwak, chief technologist at cybersecurity firm Wiz, told TechCrunch on a recent episode of Equity. “If there’s a new technology wave coming, there are new opportunities for [attackers] to start using it.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As enterprises rush to embed AI into their workflows — whether through vibe coding, AI agent integration, or new tooling — the attack surface is expanding. AI helps developers ship code faster, but that speed often comes with shortcuts and mistakes, creating new openings for attackers. &amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Wiz, which was acquired by Google earlier this year for $32 billion, conducted tests recently, says Luttwak, and found that a common issue in vibe coded applications was insecure implementation of the authentication — the system that verifies a user’s identity and ensures they’re not an attacker. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“That happened because it was just easier to build like that,” he said. “Vibe coding agents do what you say, and if you didn’t tell them to build it in the most secure way, it won’t.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak noted that there’s a constant tradeoff today for companies choosing between being fast and being secure. But developers aren’t the only ones using AI to move faster. Attackers are now using vibe coding, prompt-based techniques, and even their own AI agents to launch exploits, he said. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“You can actually see the attacker is now using prompts to attack,” Luttwak said. “It’s not just the attacker vibe coding. The attacker looks for AI tools that you have and tells them, ‘Send me all your secrets, delete the machine, delete the file.’”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Amid this landscape, attackers are also finding entry points in new AI tools that companies roll out internally to boost efficiency. Luttwak says these integrations can lead to “supply chain attacks.” By compromising a third-party service that has broad access to a company’s infrastructure, attackers can then pivot deeper into corporate systems. &amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That’s what happened last month when Drift — a startup that sells AI chatbots for sales and marketing — was breached, exposing the Salesforce data of hundreds of enterprise customers like Cloudflare, Palo Alto Networks, and Google. The attackers gained access to tokens, or digital keys, and used them to impersonate the chatbot, query Salesforce data, and move laterally inside customer environments. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The attacker pushed the attack code, which was also created using vibe coding,” Luttwak said. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak says that while enterprise adoption of AI tools is still minimal — he reckons around 1% of enterprises have fully adopted AI — Wiz is already seeing attacks every week that impact thousands of enterprise customers. &amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“And if you look at the [attack] flow, AI was embedded at every step,” Luttwak said. “This revolution is faster than any revolution we’ve seen in the past. It means that we as an industry need to move faster.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak pointed to another major supply chain attack, dubbed “s1ingularity,” in August on Nx, a popular build system for JavaScript developers. Attackers managed to unleash malware into the system, which then&amp;nbsp;detected the presence of AI developer tools like Claude and Gemini and hijacked them to autonomously scan the system for valuable data. &amp;nbsp;The attack compromised thousands of developer tokens and keys, giving attackers access to private GitHub repositories.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak says that despite the threats, this has been an exciting time to be a leader in cybersecurity. Wiz, founded in 2020, was originally focused on helping organizations identify and address misconfigurations, vulnerabilities, and other security risks across cloud environments. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Over the last year, Wiz has expanded its capabilities to keep up with the speed of AI-related attacks — and to use AI for its own products. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Last September, Wiz launched Wiz Code that focuses on securing the software development lifecycle by identifying and mitigating security issues early in the development process, so companies can be “secure by design.” In April, Wiz launched Wiz Defend, which offers runtime protection by detecting and responding to active threats within cloud environments. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak said that it’s vital for Wiz to fully understand the applications of their customers if the startup is going to help with what he calls “horizontal security.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We need to understand why you’re building it … so I can build the security tool that no one has ever had before, the security tool that understands you,” he said.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading" id="h-from-day-one-you-need-to-have-a-ciso-nbsp"&gt;&lt;strong&gt;‘From day one, you need to have a CISO’&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The democratization of AI tools has resulted in a flood of new startups promising to solve enterprise pain points. But Luttwak says enterprises shouldn’t just send all of their company, employee, and customer data to “every small SaaS company that has five employees just because they say, ‘Give me all your data, and I will give you amazing AI insights.’”&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Of course, those startups need that data if their offering is going to have any value. Luttwak says that means it’s incumbent upon them to make sure they’re operating like a secure organization from the start. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“From day one, you need to think about security and compliance,” he said. “From day one, you need to have a CISO (chief information security officer). Even if you have five people.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before writing a single line of code, startups should think like a highly secure organization, he said. They need to consider enterprise security features, audit logs, authentication, access to production, development practices, security ownership, and single sign-on. Planning this way from the start means you won’t have to overhaul processes later and incur what Luttwak calls “security debt.” And if you aim to sell to enterprises, you’ll already be prepared to protect their data.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We were SOC2 compliant [a compliance framework] before we had code,” he said. “And I can tell you a secret. Getting SOC2 compliance for five employees is much easier than for 500 employees.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The next most important step for startups is to think about architecture, he said. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“If&amp;nbsp;you’re&amp;nbsp;an AI startup that wants to focus on enterprise from day one, you&amp;nbsp;have to&amp;nbsp;think about an architecture that allows the data of the customer to stay … in the customer environment.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For cybersecurity startups looking to step into the field in the age of AI, Luttwak says now’s the time. Everything from phishing protection and email security to malware and endpoint protection is fertile ground for innovation ‚ both for attackers and defenders. The same is true for startups that could help with workflow and automation tools to do “vibe security,” since many security teams still don’t know how to use AI to defend against AI.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The game is open,” Luttwak said. “If every area of security now has new attacks, then it means we have to rethink every part of security.”&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2162704124.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;“One of the key things to understand about cybersecurity is that it’s a mind game,” Ami Luttwak, chief technologist at cybersecurity firm Wiz, told TechCrunch on a recent episode of Equity. “If there’s a new technology wave coming, there are new opportunities for [attackers] to start using it.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As enterprises rush to embed AI into their workflows — whether through vibe coding, AI agent integration, or new tooling — the attack surface is expanding. AI helps developers ship code faster, but that speed often comes with shortcuts and mistakes, creating new openings for attackers. &amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Wiz, which was acquired by Google earlier this year for $32 billion, conducted tests recently, says Luttwak, and found that a common issue in vibe coded applications was insecure implementation of the authentication — the system that verifies a user’s identity and ensures they’re not an attacker. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“That happened because it was just easier to build like that,” he said. “Vibe coding agents do what you say, and if you didn’t tell them to build it in the most secure way, it won’t.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak noted that there’s a constant tradeoff today for companies choosing between being fast and being secure. But developers aren’t the only ones using AI to move faster. Attackers are now using vibe coding, prompt-based techniques, and even their own AI agents to launch exploits, he said. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“You can actually see the attacker is now using prompts to attack,” Luttwak said. “It’s not just the attacker vibe coding. The attacker looks for AI tools that you have and tells them, ‘Send me all your secrets, delete the machine, delete the file.’”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Amid this landscape, attackers are also finding entry points in new AI tools that companies roll out internally to boost efficiency. Luttwak says these integrations can lead to “supply chain attacks.” By compromising a third-party service that has broad access to a company’s infrastructure, attackers can then pivot deeper into corporate systems. &amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That’s what happened last month when Drift — a startup that sells AI chatbots for sales and marketing — was breached, exposing the Salesforce data of hundreds of enterprise customers like Cloudflare, Palo Alto Networks, and Google. The attackers gained access to tokens, or digital keys, and used them to impersonate the chatbot, query Salesforce data, and move laterally inside customer environments. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The attacker pushed the attack code, which was also created using vibe coding,” Luttwak said. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak says that while enterprise adoption of AI tools is still minimal — he reckons around 1% of enterprises have fully adopted AI — Wiz is already seeing attacks every week that impact thousands of enterprise customers. &amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“And if you look at the [attack] flow, AI was embedded at every step,” Luttwak said. “This revolution is faster than any revolution we’ve seen in the past. It means that we as an industry need to move faster.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak pointed to another major supply chain attack, dubbed “s1ingularity,” in August on Nx, a popular build system for JavaScript developers. Attackers managed to unleash malware into the system, which then&amp;nbsp;detected the presence of AI developer tools like Claude and Gemini and hijacked them to autonomously scan the system for valuable data. &amp;nbsp;The attack compromised thousands of developer tokens and keys, giving attackers access to private GitHub repositories.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak says that despite the threats, this has been an exciting time to be a leader in cybersecurity. Wiz, founded in 2020, was originally focused on helping organizations identify and address misconfigurations, vulnerabilities, and other security risks across cloud environments. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Over the last year, Wiz has expanded its capabilities to keep up with the speed of AI-related attacks — and to use AI for its own products. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Last September, Wiz launched Wiz Code that focuses on securing the software development lifecycle by identifying and mitigating security issues early in the development process, so companies can be “secure by design.” In April, Wiz launched Wiz Defend, which offers runtime protection by detecting and responding to active threats within cloud environments. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Luttwak said that it’s vital for Wiz to fully understand the applications of their customers if the startup is going to help with what he calls “horizontal security.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We need to understand why you’re building it … so I can build the security tool that no one has ever had before, the security tool that understands you,” he said.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading" id="h-from-day-one-you-need-to-have-a-ciso-nbsp"&gt;&lt;strong&gt;‘From day one, you need to have a CISO’&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The democratization of AI tools has resulted in a flood of new startups promising to solve enterprise pain points. But Luttwak says enterprises shouldn’t just send all of their company, employee, and customer data to “every small SaaS company that has five employees just because they say, ‘Give me all your data, and I will give you amazing AI insights.’”&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Of course, those startups need that data if their offering is going to have any value. Luttwak says that means it’s incumbent upon them to make sure they’re operating like a secure organization from the start. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“From day one, you need to think about security and compliance,” he said. “From day one, you need to have a CISO (chief information security officer). Even if you have five people.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before writing a single line of code, startups should think like a highly secure organization, he said. They need to consider enterprise security features, audit logs, authentication, access to production, development practices, security ownership, and single sign-on. Planning this way from the start means you won’t have to overhaul processes later and incur what Luttwak calls “security debt.” And if you aim to sell to enterprises, you’ll already be prepared to protect their data.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We were SOC2 compliant [a compliance framework] before we had code,” he said. “And I can tell you a secret. Getting SOC2 compliance for five employees is much easier than for 500 employees.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The next most important step for startups is to think about architecture, he said. &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“If&amp;nbsp;you’re&amp;nbsp;an AI startup that wants to focus on enterprise from day one, you&amp;nbsp;have to&amp;nbsp;think about an architecture that allows the data of the customer to stay … in the customer environment.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For cybersecurity startups looking to step into the field in the age of AI, Luttwak says now’s the time. Everything from phishing protection and email security to malware and endpoint protection is fertile ground for innovation ‚ both for attackers and defenders. The same is true for startups that could help with workflow and automation tools to do “vibe security,” since many security teams still don’t know how to use AI to defend against AI.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The game is open,” Luttwak said. “If every area of security now has new attacks, then it means we have to rethink every part of security.”&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/28/wiz-chief-technologist-ami-luttwak-on-how-ai-is-transforming-cyberattacks/</guid><pubDate>Sun, 28 Sep 2025 14:00:00 +0000</pubDate></item><item><title>[NEW] The billion-dollar infrastructure deals powering the AI boom (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;It takes a lot of computing power to run an AI product — and as the tech industry races to tap the power of AI models, there’s a parallel race underway to build the infrastructure that will power them. On a recent earnings call, Nvidia CEO Jensen Huang estimated that between $3 trillion and $4 trillion will be spent on AI infrastructure by the end of the decade — with much of that money coming from AI companies. Along the way, they’re placing immense strain on power grids and pushing the industry’s building capacity to its limit.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Below, we’ve laid out everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI. We’ll keep it updated as the boom continues and the numbers climb even higher.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading has-h-3-font-size" id="h-microsoft-s-1-billion-investment-in-openai"&gt;Microsoft’s $1 billion investment in OpenAI&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This is arguably the deal that kicked off the whole contemporary AI boom: In 2019, Microsoft made a $1 billion investment in a buzzy non-profit called OpenAI, known mostly for its association with Elon Musk. Crucially, the deal made Microsoft the exclusive cloud provider for OpenAI — and as the demands of model training became more intense, more of Microsoft’s investment started to come in the form of Azure cloud credit rather than cash. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;It was a great deal for both sides: Microsoft was able to claim more Azure sales, and OpenAI got more money for its biggest single expense. In the years that followed, Microsoft would build its investment up to nearly $14 billion — a move that is set to pay off enormously when OpenAI converts into a for-profit company.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The partnership between the two companies has unwound more recently. In January, OpenAI announced it would no longer be using Microsoft’s cloud exclusively, instead giving the company a right of first refusal on future infrastructure demands but pursuing others if Azure couldn’t meet their needs. More recently, Microsoft began exploring other foundation models to power its AI products, establishing even more independence from the AI giant.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;OpenAI’s arrangement with Microsoft was so successful that it’s become a common practice for AI services to sign on with a particular cloud provider. Anthropic has received $8 billion in investment from Amazon, while making kernel-level modifications on the company’s hardware to make it better suited for AI training. Google Cloud has also signed on smaller AI companies like Lovable and Windsurf as “primary computing partners,” although those deals did not involve any investment. And even OpenAI has gone back to the well, receiving a $100 billion investment from Nvidia in September, giving it capacity to buy even more of the company’s GPUs.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading has-h-3-font-size" id="h-the-rise-of-oracle"&gt;The rise of Oracle&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On June 30, 2025, Oracle revealed in an SEC filing that it had signed a $30 billion cloud services deal with an unnamed partner; this is more than the company’s cloud revenues for all of the previous fiscal year. OpenAI was eventually revealed as the partner, securing Oracle a spot alongside Google as one of OpenAI’s string of post-Microsoft hosting partners. Unsurprisingly, the company’s stock went shooting up.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A few months later, it happened again. On September 10, Oracle revealed a five-year, $300 billion deal for compute power, set to begin in 2027. Oracle’s stock climbed even higher, briefly making founder Larry Ellison the richest man in the world. The sheer scale of the deal is stunning: OpenAI does not have $300 billion to spend, so the figure presumes immense growth for both companies, and more than a little faith. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But before a single dollar is spent, the deal has already cemented Oracle as one of the leading AI infrastructure providers — and a financial force to be reckoned with.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading has-h-3-font-size" id="h-building-tomorrow-s-hyperscale-data-centers"&gt;Building tomorrow’s hyperscale data centers&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For companies like Meta that already have significant legacy infrastructure, the story is more complicated — although equally expensive. Mark Zuckerberg has said that Meta plans to spend $600 billion on U.S. infrastructure through the end of 2028. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In just the first half of 2025, the company spent $30 billion more than the previous year, driven largely by the company’s growing AI ambitions. Some of that spending goes toward big ticket cloud contracts, like a recent $10 billion deal with Google Cloud, but even more resources are being poured into two massive new data centers. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A new 2,250-acre site in Louisiana, dubbed Hyperion, will cost an estimated $10 billion to build out and provide an estimated 5 gigawatts of compute power. Notably, the site includes an arrangement with a local nuclear power plant to handle the increased energy load. A smaller site in Ohio, called Prometheus, is expected to come online in 2026, powered by natural gas.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That kind of buildout comes with real environmental costs. Elon Musk’s xAI built its own hybrid data center and power-generation plant in South Memphis, Tennessee. The plant has quickly become one of the county’s largest emitters of smog-producing chemicals, thanks to a string of natural gas turbines that experts say violate the Clean Air Act.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading has-h-3-font-size" id="h-the-stargate-moonshot"&gt;The Stargate moonshot&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Just two days after his second inauguration, President Trump announced a joint venture between SoftBank, OpenAI, and Oracle, meant to spend $500 billion building AI infrastructure in the United States. Named “Stargate” after the 1994 film, the project arrived with incredible amounts of hype, with Trump calling it “the largest AI infrastructure project in history. Sam Altman seemed to agree, saying, ​​”I think this will be the most important project of this era.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In broad strokes, the plan was for SoftBank to provide the funding, with Oracle handling the buildout with input from OpenAI. Overseeing it all was Trump, who promised to clear away any regulatory hurdles that might slow down the build. But there were doubts from the beginning, including from Elon Musk, Altman’s business rival, who claimed the project did not have the available funds.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As the hype has died down, the project has lost some momentum. In August, Bloomberg reported that the partners were failing to reach consensus. Nonetheless, the project has moved forward with the construction of eight data centers in Abilene, Texas, with construction on the final building set to be finished by the end of 2026.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This article was first published on September 22.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;It takes a lot of computing power to run an AI product — and as the tech industry races to tap the power of AI models, there’s a parallel race underway to build the infrastructure that will power them. On a recent earnings call, Nvidia CEO Jensen Huang estimated that between $3 trillion and $4 trillion will be spent on AI infrastructure by the end of the decade — with much of that money coming from AI companies. Along the way, they’re placing immense strain on power grids and pushing the industry’s building capacity to its limit.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Below, we’ve laid out everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI. We’ll keep it updated as the boom continues and the numbers climb even higher.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading has-h-3-font-size" id="h-microsoft-s-1-billion-investment-in-openai"&gt;Microsoft’s $1 billion investment in OpenAI&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This is arguably the deal that kicked off the whole contemporary AI boom: In 2019, Microsoft made a $1 billion investment in a buzzy non-profit called OpenAI, known mostly for its association with Elon Musk. Crucially, the deal made Microsoft the exclusive cloud provider for OpenAI — and as the demands of model training became more intense, more of Microsoft’s investment started to come in the form of Azure cloud credit rather than cash. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;It was a great deal for both sides: Microsoft was able to claim more Azure sales, and OpenAI got more money for its biggest single expense. In the years that followed, Microsoft would build its investment up to nearly $14 billion — a move that is set to pay off enormously when OpenAI converts into a for-profit company.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The partnership between the two companies has unwound more recently. In January, OpenAI announced it would no longer be using Microsoft’s cloud exclusively, instead giving the company a right of first refusal on future infrastructure demands but pursuing others if Azure couldn’t meet their needs. More recently, Microsoft began exploring other foundation models to power its AI products, establishing even more independence from the AI giant.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;OpenAI’s arrangement with Microsoft was so successful that it’s become a common practice for AI services to sign on with a particular cloud provider. Anthropic has received $8 billion in investment from Amazon, while making kernel-level modifications on the company’s hardware to make it better suited for AI training. Google Cloud has also signed on smaller AI companies like Lovable and Windsurf as “primary computing partners,” although those deals did not involve any investment. And even OpenAI has gone back to the well, receiving a $100 billion investment from Nvidia in September, giving it capacity to buy even more of the company’s GPUs.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading has-h-3-font-size" id="h-the-rise-of-oracle"&gt;The rise of Oracle&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On June 30, 2025, Oracle revealed in an SEC filing that it had signed a $30 billion cloud services deal with an unnamed partner; this is more than the company’s cloud revenues for all of the previous fiscal year. OpenAI was eventually revealed as the partner, securing Oracle a spot alongside Google as one of OpenAI’s string of post-Microsoft hosting partners. Unsurprisingly, the company’s stock went shooting up.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A few months later, it happened again. On September 10, Oracle revealed a five-year, $300 billion deal for compute power, set to begin in 2027. Oracle’s stock climbed even higher, briefly making founder Larry Ellison the richest man in the world. The sheer scale of the deal is stunning: OpenAI does not have $300 billion to spend, so the figure presumes immense growth for both companies, and more than a little faith. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But before a single dollar is spent, the deal has already cemented Oracle as one of the leading AI infrastructure providers — and a financial force to be reckoned with.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading has-h-3-font-size" id="h-building-tomorrow-s-hyperscale-data-centers"&gt;Building tomorrow’s hyperscale data centers&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For companies like Meta that already have significant legacy infrastructure, the story is more complicated — although equally expensive. Mark Zuckerberg has said that Meta plans to spend $600 billion on U.S. infrastructure through the end of 2028. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In just the first half of 2025, the company spent $30 billion more than the previous year, driven largely by the company’s growing AI ambitions. Some of that spending goes toward big ticket cloud contracts, like a recent $10 billion deal with Google Cloud, but even more resources are being poured into two massive new data centers. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A new 2,250-acre site in Louisiana, dubbed Hyperion, will cost an estimated $10 billion to build out and provide an estimated 5 gigawatts of compute power. Notably, the site includes an arrangement with a local nuclear power plant to handle the increased energy load. A smaller site in Ohio, called Prometheus, is expected to come online in 2026, powered by natural gas.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That kind of buildout comes with real environmental costs. Elon Musk’s xAI built its own hybrid data center and power-generation plant in South Memphis, Tennessee. The plant has quickly become one of the county’s largest emitters of smog-producing chemicals, thanks to a string of natural gas turbines that experts say violate the Clean Air Act.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading has-h-3-font-size" id="h-the-stargate-moonshot"&gt;The Stargate moonshot&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Just two days after his second inauguration, President Trump announced a joint venture between SoftBank, OpenAI, and Oracle, meant to spend $500 billion building AI infrastructure in the United States. Named “Stargate” after the 1994 film, the project arrived with incredible amounts of hype, with Trump calling it “the largest AI infrastructure project in history. Sam Altman seemed to agree, saying, ​​”I think this will be the most important project of this era.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In broad strokes, the plan was for SoftBank to provide the funding, with Oracle handling the buildout with input from OpenAI. Overseeing it all was Trump, who promised to clear away any regulatory hurdles that might slow down the build. But there were doubts from the beginning, including from Elon Musk, Altman’s business rival, who claimed the project did not have the available funds.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As the hype has died down, the project has lost some momentum. In August, Bloomberg reported that the partners were failing to reach consensus. Nonetheless, the project has moved forward with the construction of eight data centers in Abilene, Texas, with construction on the final building set to be finished by the end of 2026.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This article was first published on September 22.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/</guid><pubDate>Sun, 28 Sep 2025 18:07:00 +0000</pubDate></item></channel></rss>
