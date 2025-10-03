@@ -1,543 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 03 Oct 2025 06:30:17 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>Anthropic hires new CTO with focus on AI infrastructure (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic has a new chief technical officer, former Stripe CTO Rahul Patil. Patil started at the company earlier this week, taking over from co-founder Sam McCandlish, who will move to a new role as chief architect.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As part of the change, Anthropic is updating the structure of its core technical group, bringing the company’s product-engineering team into closer contact with the infrastructure and inference teams. As CTO, Patil will oversee compute, infrastructure, inference, and a variety of other engineering tasks. In the chief architect role, McCandlish will work on pre-training and large-scale model training, extending much of his previous work. Both Patil and McCandlish will report to Anthropic president Daniela Amodei.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This new leadership structure comes as Anthropic faces intense infrastructure competition from AI labs at OpenAI and Meta, which have invested billions into computing infrastructure. Mark Zuckerberg has said that Meta plans to spend $600 billion on U.S. infrastructure through the end of 2028, and OpenAI has contracted a similar amount through its work with Oracle and the Stargate project. The scale of Anthropic’s own infrastructure spending is less clear, but there will be immense pressure to optimize the growing infrastructure for both speed and power consumption.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At the same time, the popularity of Anthropic’s Claude products has already put the company’s infrastructure under significant strain. In July, the company introduced new rate limits to Claude Code, with an eye toward power users who had been running the app “continuously in the background, 24/7.” Under the new rules, users are limited to between 240 and 480 hours of Sonnet usage each week, and between 24 and 40 hours of Opus 4 usage, depending on infrastructure strain.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;With more than 20 years in different engineering roles, Patil brings significant infrastructure experience to Anthropic. He previously spent five years in technical roles at Stripe and served as a senior VP for cloud infrastructure at Oracle. He has also held engineering roles at Amazon and Microsoft.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In a statement, Amodei emphasized Patil’s experience building stable infrastructure for enterprises. “Rahul brings a proven track record in building and scaling the kind of dependable infrastructure that businesses need,” the statement reads. “I couldn’t be more excited about what this means for strengthening Claude’s position as the leading intelligence platform for enterprises.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In a paired statement, Patil applauded Anthropic’s research and commitment to AI safety. “I’m thrilled to join Anthropic at this pivotal moment in AI development,” Patil said, adding that his work at the company “feels like the most important work I could be doing right now — I personally can’t think of a greater calling and responsibility.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic has a new chief technical officer, former Stripe CTO Rahul Patil. Patil started at the company earlier this week, taking over from co-founder Sam McCandlish, who will move to a new role as chief architect.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As part of the change, Anthropic is updating the structure of its core technical group, bringing the company’s product-engineering team into closer contact with the infrastructure and inference teams. As CTO, Patil will oversee compute, infrastructure, inference, and a variety of other engineering tasks. In the chief architect role, McCandlish will work on pre-training and large-scale model training, extending much of his previous work. Both Patil and McCandlish will report to Anthropic president Daniela Amodei.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This new leadership structure comes as Anthropic faces intense infrastructure competition from AI labs at OpenAI and Meta, which have invested billions into computing infrastructure. Mark Zuckerberg has said that Meta plans to spend $600 billion on U.S. infrastructure through the end of 2028, and OpenAI has contracted a similar amount through its work with Oracle and the Stargate project. The scale of Anthropic’s own infrastructure spending is less clear, but there will be immense pressure to optimize the growing infrastructure for both speed and power consumption.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At the same time, the popularity of Anthropic’s Claude products has already put the company’s infrastructure under significant strain. In July, the company introduced new rate limits to Claude Code, with an eye toward power users who had been running the app “continuously in the background, 24/7.” Under the new rules, users are limited to between 240 and 480 hours of Sonnet usage each week, and between 24 and 40 hours of Opus 4 usage, depending on infrastructure strain.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;With more than 20 years in different engineering roles, Patil brings significant infrastructure experience to Anthropic. He previously spent five years in technical roles at Stripe and served as a senior VP for cloud infrastructure at Oracle. He has also held engineering roles at Amazon and Microsoft.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In a statement, Amodei emphasized Patil’s experience building stable infrastructure for enterprises. “Rahul brings a proven track record in building and scaling the kind of dependable infrastructure that businesses need,” the statement reads. “I couldn’t be more excited about what this means for strengthening Claude’s position as the leading intelligence platform for enterprises.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In a paired statement, Patil applauded Anthropic’s research and commitment to AI safety. “I’m thrilled to join Anthropic at this pivotal moment in AI development,” Patil said, adding that his work at the company “feels like the most important work I could be doing right now — I personally can’t think of a greater calling and responsibility.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/</guid><pubDate>Thu, 02 Oct 2025 19:00:39 +0000</pubDate></item><item><title>Lincoln Lab unveils the most powerful AI supercomputer at any US university (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/lincoln-lab-unveils-most-powerful-ai-supercomputer-at-any-us-university-1002</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202509/mit-lincoln-lab-supercomputer.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;The new TX-Generative AI Next (TX-GAIN) computing system at the&amp;nbsp;Lincoln Laboratory Supercomputing Center  (LLSC) is the most powerful AI supercomputer at any U.S. university. With its recent ranking from  TOP500, which biannually publishes a list of the top supercomputers in various categories, TX-GAIN joins the ranks of other powerful systems at the LLSC, all supporting research and development at Lincoln Laboratory and across the MIT campus.&amp;nbsp;&lt;/p&gt;&lt;p&gt;"TX-GAIN will enable our researchers to achieve scientific and engineering breakthroughs. The system will play a large role in supporting generative AI, physical simulation, and data analysis across all research areas," says Lincoln Laboratory Fellow&amp;nbsp;Jeremy Kepner, who heads the LLSC.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The LLSC is a key resource for accelerating innovation at Lincoln Laboratory. Thousands of researchers tap into the LLSC to analyze data, train models, and run simulations for federally funded research projects. The supercomputers have been used, for example,&amp;nbsp;to simulate billions of aircraft encounters to develop collision-avoidance systems for the Federal Aviation Administration, and to train models in the complex tasks of autonomous navigation for the Department of Defense. Over the years, LLSC capabilities have been essential to numerous&amp;nbsp;award-winning technologies, including those that have improved  airline safety,  prevented the spread of new diseases, and  aided in hurricane responses.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As its name suggests, TX-GAIN is especially equipped for developing and applying generative AI. Whereas traditional AI focuses on categorization tasks, like identifying whether a photo depicts a dog or cat, generative AI produces entirely new outputs. Kepner describes it as a mathematical combination of interpolation (filling in the gaps between known data points) and extrapolation (extending data beyond known points). Today, generative AI is widely known for its use of large language models to create human-like responses to user prompts.&amp;nbsp;&lt;/p&gt;&lt;p&gt;At Lincoln Laboratory, teams are applying generative AI to various domains beyond large language models. They are using the technology, for instance, to evaluate radar signatures, supplement weather data where coverage is missing, root out anomalies in network traffic, and explore chemical interactions to design new medicines and materials.&lt;/p&gt;&lt;p&gt;To enable such intense computations, TX-GAIN is powered by more than 600 NVIDIA graphics processing unit accelerators specially designed for AI operations, in addition to traditional high-performance computing hardware. With a peak performance of two AI exaflops (two quintillion floating-point operations per second), TX-GAIN is the top AI system at a university, and in the Northeast.&amp;nbsp;Since TX-GAIN came online this summer, researchers have taken notice.&amp;nbsp;&lt;/p&gt;&lt;p&gt;"TX-GAIN is allowing us to model not only significantly more protein interactions than ever before, but also much larger proteins with more atoms. This new computational capability is a game-changer for protein characterization efforts in biological defense," says Rafael Jaimes, a researcher in Lincoln Laboratory's&amp;nbsp;Counter–Weapons of Mass Destruction Systems Group.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The LLSC's focus on&amp;nbsp;interactive supercomputing makes it especially useful to researchers. For years, the LLSC has pioneered software that lets users access its powerful systems without needing to be experts in configuring algorithms for parallel processing.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;"The LLSC has always tried to make supercomputing feel like working on your laptop," Kepner says. "The amount of data and the sophistication of analysis methods needed to be competitive today are well beyond what can be done on a laptop. But with our user-friendly approach, people can run their model and get answers quickly from their workspace."&lt;/p&gt;&lt;p&gt;Beyond supporting programs solely at Lincoln Laboratory, TX-GAIN is enhancing research collaborations with MIT's campus. Such collaborations include the&amp;nbsp;Haystack Observatory,&amp;nbsp;Center for Quantum Engineering,&amp;nbsp;Beaver Works, and&amp;nbsp;Department of Air Force–MIT AI Accelerator. The latter initiative is rapidly prototyping, scaling, and applying AI technologies for the U.S. Air Force and Space Force,&amp;nbsp;optimizing flight scheduling for global operations as one fielded example.&lt;/p&gt;&lt;p&gt;The LLSC systems are housed in an energy-efficient data center and facility in Holyoke, Massachusetts. Research staff in the LLSC are also tackling the immense&amp;nbsp;energy needs of AI and leading research into various&amp;nbsp;power-reduction methods. One software tool they developed can reduce the energy of training an AI model by&amp;nbsp;as much as 80 percent.&lt;/p&gt;&lt;p&gt;"The LLSC provides the capabilities needed to do leading-edge research, while in a cost-effective and energy-efficient manner," Kepner says.&lt;/p&gt;&lt;p&gt;All of the supercomputers at the LLSC use the "TX" nomenclature in homage&amp;nbsp;to Lincoln Laboratory's Transistorized Experimental Computer Zero (TX-0) of 1956. TX-0 was one of the world's first transistor-based machines, and its 1958 successor,&amp;nbsp;TX-2, is storied for its role in pioneering human-computer interaction and AI. With TX-GAIN,&amp;nbsp;the LLSC continues this legacy.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202509/mit-lincoln-lab-supercomputer.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;The new TX-Generative AI Next (TX-GAIN) computing system at the&amp;nbsp;Lincoln Laboratory Supercomputing Center  (LLSC) is the most powerful AI supercomputer at any U.S. university. With its recent ranking from  TOP500, which biannually publishes a list of the top supercomputers in various categories, TX-GAIN joins the ranks of other powerful systems at the LLSC, all supporting research and development at Lincoln Laboratory and across the MIT campus.&amp;nbsp;&lt;/p&gt;&lt;p&gt;"TX-GAIN will enable our researchers to achieve scientific and engineering breakthroughs. The system will play a large role in supporting generative AI, physical simulation, and data analysis across all research areas," says Lincoln Laboratory Fellow&amp;nbsp;Jeremy Kepner, who heads the LLSC.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The LLSC is a key resource for accelerating innovation at Lincoln Laboratory. Thousands of researchers tap into the LLSC to analyze data, train models, and run simulations for federally funded research projects. The supercomputers have been used, for example,&amp;nbsp;to simulate billions of aircraft encounters to develop collision-avoidance systems for the Federal Aviation Administration, and to train models in the complex tasks of autonomous navigation for the Department of Defense. Over the years, LLSC capabilities have been essential to numerous&amp;nbsp;award-winning technologies, including those that have improved  airline safety,  prevented the spread of new diseases, and  aided in hurricane responses.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As its name suggests, TX-GAIN is especially equipped for developing and applying generative AI. Whereas traditional AI focuses on categorization tasks, like identifying whether a photo depicts a dog or cat, generative AI produces entirely new outputs. Kepner describes it as a mathematical combination of interpolation (filling in the gaps between known data points) and extrapolation (extending data beyond known points). Today, generative AI is widely known for its use of large language models to create human-like responses to user prompts.&amp;nbsp;&lt;/p&gt;&lt;p&gt;At Lincoln Laboratory, teams are applying generative AI to various domains beyond large language models. They are using the technology, for instance, to evaluate radar signatures, supplement weather data where coverage is missing, root out anomalies in network traffic, and explore chemical interactions to design new medicines and materials.&lt;/p&gt;&lt;p&gt;To enable such intense computations, TX-GAIN is powered by more than 600 NVIDIA graphics processing unit accelerators specially designed for AI operations, in addition to traditional high-performance computing hardware. With a peak performance of two AI exaflops (two quintillion floating-point operations per second), TX-GAIN is the top AI system at a university, and in the Northeast.&amp;nbsp;Since TX-GAIN came online this summer, researchers have taken notice.&amp;nbsp;&lt;/p&gt;&lt;p&gt;"TX-GAIN is allowing us to model not only significantly more protein interactions than ever before, but also much larger proteins with more atoms. This new computational capability is a game-changer for protein characterization efforts in biological defense," says Rafael Jaimes, a researcher in Lincoln Laboratory's&amp;nbsp;Counter–Weapons of Mass Destruction Systems Group.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The LLSC's focus on&amp;nbsp;interactive supercomputing makes it especially useful to researchers. For years, the LLSC has pioneered software that lets users access its powerful systems without needing to be experts in configuring algorithms for parallel processing.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;"The LLSC has always tried to make supercomputing feel like working on your laptop," Kepner says. "The amount of data and the sophistication of analysis methods needed to be competitive today are well beyond what can be done on a laptop. But with our user-friendly approach, people can run their model and get answers quickly from their workspace."&lt;/p&gt;&lt;p&gt;Beyond supporting programs solely at Lincoln Laboratory, TX-GAIN is enhancing research collaborations with MIT's campus. Such collaborations include the&amp;nbsp;Haystack Observatory,&amp;nbsp;Center for Quantum Engineering,&amp;nbsp;Beaver Works, and&amp;nbsp;Department of Air Force–MIT AI Accelerator. The latter initiative is rapidly prototyping, scaling, and applying AI technologies for the U.S. Air Force and Space Force,&amp;nbsp;optimizing flight scheduling for global operations as one fielded example.&lt;/p&gt;&lt;p&gt;The LLSC systems are housed in an energy-efficient data center and facility in Holyoke, Massachusetts. Research staff in the LLSC are also tackling the immense&amp;nbsp;energy needs of AI and leading research into various&amp;nbsp;power-reduction methods. One software tool they developed can reduce the energy of training an AI model by&amp;nbsp;as much as 80 percent.&lt;/p&gt;&lt;p&gt;"The LLSC provides the capabilities needed to do leading-edge research, while in a cost-effective and energy-efficient manner," Kepner says.&lt;/p&gt;&lt;p&gt;All of the supercomputers at the LLSC use the "TX" nomenclature in homage&amp;nbsp;to Lincoln Laboratory's Transistorized Experimental Computer Zero (TX-0) of 1956. TX-0 was one of the world's first transistor-based machines, and its 1958 successor,&amp;nbsp;TX-2, is storied for its role in pioneering human-computer interaction and AI. With TX-GAIN,&amp;nbsp;the LLSC continues this legacy.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/lincoln-lab-unveils-most-powerful-ai-supercomputer-at-any-us-university-1002</guid><pubDate>Thu, 02 Oct 2025 19:30:00 +0000</pubDate></item><item><title>Martin Trust Center for MIT Entrepreneurship welcomes Ana Bakshi as new executive director (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/martin-trust-center-mit-entrepreneurship-ana-bakshi-executive-director-1002</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202509/mit-martintrust-bakshi.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;The&amp;nbsp;Martin Trust Center for MIT Entrepreneurship announced that Ana Bakshi has been named its new executive director. Bakshi stepped into the role at the start of the fall semester and will collaborate closely with the managing director, Ethernet Inventors Professor of the Practice Bill Aulet, to elevate the center to higher levels.&lt;/p&gt;&lt;p&gt;“Ana is uniquely qualified for this role. She brings a deep and highly decorated background in entrepreneurship education at the highest levels, along with exceptional leadership and execution skills,” says Aulet. “Since I first met her 12 years ago, I have been extraordinarily impressed with her commitment to create the highest-quality centers and institutes for entrepreneurs, first at King’s College London and then at Oxford University. This ideal skill set is compounded by her experience in leading high-growth companies, most recently as the chief operation officer in an award-winning AI startup. I’m honored and thrilled to welcome her to MIT — her knowledge and energy will greatly elevate our community, and the field as a whole.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A rapidly changing environment creates imperative for raising the bar for entrepreneurship education&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The need to raise the bar for innovation-driven entrepreneurship education is both timely and urgent. The rate of change is getting faster and faster every day, especially with artificial intelligence, and is generating new problems that need to be solved, as well as exacerbating existing problems in climate, health care, manufacturing, future of work, education, and economic stratification, to name but a few. The world needs more entrepreneurs and better entrepreneurs.&lt;/p&gt;&lt;p&gt;Bakshi joins the Trust Center at an exciting time in its history. MIT is at the forefront of helping to develop people and systems that can turn challenges into opportunities using an entrepreneurial mindset, skill set, and way of operating.&amp;nbsp;Bakshi’s deep experience and success will be key to unlocking this opportunity. “I am truly honored to join the Trust Center at such a pivotal moment,” Bakshi says. “In an era defined by both extraordinary challenges and extraordinary possibilities, the future will be built by those bold enough to try, and MIT will be at the forefront of this.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Translating academic research into real-world impact&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bakshi has a decade of experience building two world-class entrepreneurship centers from the ground up. She served as the founding director at King’s College and then at Oxford. In this role, she was responsible for all aspects of these centers, including fundraising.&lt;/p&gt;&lt;p&gt;While at Oxford, she authored a data-driven approach to determining efficacy of outcomes for their programs, as evidenced by a 61-page study, “Universities: Drivers of Prosperity and Economic Recovery.”&lt;/p&gt;&lt;p&gt;As the director of the Oxford Foundry (Oxford’s cross-university entrepreneurship center), Bakshi focused on investing in ambitious founders and talent. The center was backed by global entrepreneurial leaders such as the founders of LinkedIn and Twitter, with corporate partnerships including Santander and EY, and investment funds including Oxford Science Enterprises (OSE). As of 2021, the startups supported by the Foundry and King’s College have raised over $500 million and have created nearly 3,000 jobs, spanning diverse industries including health tech, climate tech, cybersecurity, fintech, and deep tech spinouts focusing on world-class science.&lt;/p&gt;&lt;p&gt;In addition, she built the highly successful and economically sustainable&amp;nbsp;Entrepreneurship School, Oxford’s first digital online learning platform.&lt;/p&gt;&lt;p&gt;Bakshi comes to MIT after having worked in the private sector as the chief operating officer (COO) in a rapidly growing artificial intelligence startup for almost two years,&amp;nbsp;Quench.ai, with offices in London and New York City. She was the first C-suite employee at Quench.ai, serving as COO and now senior advisor, helping companies unlock value from their knowledge through AI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Right place, right time, right person moving at the speed of MIT AI&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Since its inception, then turbocharged in the 1940s with the creation and operation of the&amp;nbsp;RadLab, and continuing to this day, entrepreneurship is at the core of MIT’s identity and mission.&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;"MIT has been a leader in entrepreneurship for decades. It’s now the third leg of the school, alongside teaching and research,” says Mark Gorenberg ’76, chair of the MIT Corporation. “I’m excited to have such a transformative leader as Ana join the Trust Center team, and I look forward to the impact she will have on the students and the wider academic community at MIT as we enter an exciting new phase in company building, driven by the accelerated use of AI and emerging technologies."&lt;/p&gt;&lt;p&gt;“In a time where we are rethinking management education, entrepreneurship as an interdisciplinary field to create impact is even more important to our future. To have such an experienced and accomplished leader in academia and the startup world, especially in AI, reinforces our commitment to be a global leader in this field,” says Richard M. Locke, John C Head III Dean at the MIT Sloan School of Management.&lt;/p&gt;&lt;p&gt;“MIT is a unique hub of research, innovation, and entrepreneurship, and that special mix creates massive positive impact that ripples around the world,” says Frederic Kerrest, MIT Sloan MBA ’09, co-founder of Okta, and member of the MIT Corporation. “In a rapidly changing, AI-driven world, Ana has the skills and experience to further accelerate MIT’s global leadership in entrepreneurship education to ensure that our students launch and scale the next generation of groundbreaking, innovation-driven startups.”&lt;/p&gt;&lt;p&gt;Prior to her time at Oxford and King’s College, Bakshi served as an elected councilor representing 6,000-plus constituents, held roles in international nongovernmental organizations, and led product execution strategy at MAHI, an award-winning family-led craft sauce startup, available in thousands of major retailers across the U.K.&amp;nbsp;Bakshi sits on the&amp;nbsp;advisory council for conservation charity&amp;nbsp;Save the Elephants, leveraging AI-driven and scientific approaches to reduce human-wildlife conflict and protect elephant populations.&amp;nbsp;Her work and impact have been featured across &lt;em&gt;FT&lt;/em&gt;, &lt;em&gt;Forbes&lt;/em&gt;, BBC, &lt;em&gt;The Times&lt;/em&gt;, and &lt;em&gt;The Hill&lt;/em&gt;. Bakshi was twice honored as a Top 50 Woman in Tech (U.K.), most recently in 2025.&lt;/p&gt;&lt;p&gt;“As AI changes how we learn, how we build, and how we scale, my focus will be on helping MIT expand its support for phenomenal talent — students and faculty — with the skills, ecosystem, and backing to turn knowledge into impact,” Bakshi says.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;35 years of impact to date&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Trust Center was founded in 1990 by the late Professor Edward Roberts and serves all MIT students across all schools and all disciplines.&amp;nbsp;It supports 60-plus courses and extensive extracurricular programming, including the delta v academic accelerator. Much of the work of the center is generated through the Disciplined Entrepreneurship methodology, which offers a proven approach to create new ventures. Over a thousand schools and other organizations across the world use Disciplined Entrepreneurship books and resources to teach entrepreneurship.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Now, with AI-powered tools like&amp;nbsp;Orbit and&amp;nbsp;JetPack, the Trust Center is changing the way that entrepreneurship is taught and practiced. Its mission is to produce the next generation of innovation-driven entrepreneurs while advancing the field more broadly to make it both rigorous and practical. This approach of leveraging proven evidence-based methodology, emerging technology, the ingenuity of MIT students, and responding to industry shifts is similar to how MIT&amp;nbsp;established the field of chemical engineering in the 1890s. The desired result in both cases was to create a comprehensive, integrated, scalable, rigorous, and practical curriculum to create a new workforce to address the nation’s and world’s greatest challenges.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202509/mit-martintrust-bakshi.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;The&amp;nbsp;Martin Trust Center for MIT Entrepreneurship announced that Ana Bakshi has been named its new executive director. Bakshi stepped into the role at the start of the fall semester and will collaborate closely with the managing director, Ethernet Inventors Professor of the Practice Bill Aulet, to elevate the center to higher levels.&lt;/p&gt;&lt;p&gt;“Ana is uniquely qualified for this role. She brings a deep and highly decorated background in entrepreneurship education at the highest levels, along with exceptional leadership and execution skills,” says Aulet. “Since I first met her 12 years ago, I have been extraordinarily impressed with her commitment to create the highest-quality centers and institutes for entrepreneurs, first at King’s College London and then at Oxford University. This ideal skill set is compounded by her experience in leading high-growth companies, most recently as the chief operation officer in an award-winning AI startup. I’m honored and thrilled to welcome her to MIT — her knowledge and energy will greatly elevate our community, and the field as a whole.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A rapidly changing environment creates imperative for raising the bar for entrepreneurship education&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The need to raise the bar for innovation-driven entrepreneurship education is both timely and urgent. The rate of change is getting faster and faster every day, especially with artificial intelligence, and is generating new problems that need to be solved, as well as exacerbating existing problems in climate, health care, manufacturing, future of work, education, and economic stratification, to name but a few. The world needs more entrepreneurs and better entrepreneurs.&lt;/p&gt;&lt;p&gt;Bakshi joins the Trust Center at an exciting time in its history. MIT is at the forefront of helping to develop people and systems that can turn challenges into opportunities using an entrepreneurial mindset, skill set, and way of operating.&amp;nbsp;Bakshi’s deep experience and success will be key to unlocking this opportunity. “I am truly honored to join the Trust Center at such a pivotal moment,” Bakshi says. “In an era defined by both extraordinary challenges and extraordinary possibilities, the future will be built by those bold enough to try, and MIT will be at the forefront of this.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Translating academic research into real-world impact&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bakshi has a decade of experience building two world-class entrepreneurship centers from the ground up. She served as the founding director at King’s College and then at Oxford. In this role, she was responsible for all aspects of these centers, including fundraising.&lt;/p&gt;&lt;p&gt;While at Oxford, she authored a data-driven approach to determining efficacy of outcomes for their programs, as evidenced by a 61-page study, “Universities: Drivers of Prosperity and Economic Recovery.”&lt;/p&gt;&lt;p&gt;As the director of the Oxford Foundry (Oxford’s cross-university entrepreneurship center), Bakshi focused on investing in ambitious founders and talent. The center was backed by global entrepreneurial leaders such as the founders of LinkedIn and Twitter, with corporate partnerships including Santander and EY, and investment funds including Oxford Science Enterprises (OSE). As of 2021, the startups supported by the Foundry and King’s College have raised over $500 million and have created nearly 3,000 jobs, spanning diverse industries including health tech, climate tech, cybersecurity, fintech, and deep tech spinouts focusing on world-class science.&lt;/p&gt;&lt;p&gt;In addition, she built the highly successful and economically sustainable&amp;nbsp;Entrepreneurship School, Oxford’s first digital online learning platform.&lt;/p&gt;&lt;p&gt;Bakshi comes to MIT after having worked in the private sector as the chief operating officer (COO) in a rapidly growing artificial intelligence startup for almost two years,&amp;nbsp;Quench.ai, with offices in London and New York City. She was the first C-suite employee at Quench.ai, serving as COO and now senior advisor, helping companies unlock value from their knowledge through AI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Right place, right time, right person moving at the speed of MIT AI&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Since its inception, then turbocharged in the 1940s with the creation and operation of the&amp;nbsp;RadLab, and continuing to this day, entrepreneurship is at the core of MIT’s identity and mission.&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;"MIT has been a leader in entrepreneurship for decades. It’s now the third leg of the school, alongside teaching and research,” says Mark Gorenberg ’76, chair of the MIT Corporation. “I’m excited to have such a transformative leader as Ana join the Trust Center team, and I look forward to the impact she will have on the students and the wider academic community at MIT as we enter an exciting new phase in company building, driven by the accelerated use of AI and emerging technologies."&lt;/p&gt;&lt;p&gt;“In a time where we are rethinking management education, entrepreneurship as an interdisciplinary field to create impact is even more important to our future. To have such an experienced and accomplished leader in academia and the startup world, especially in AI, reinforces our commitment to be a global leader in this field,” says Richard M. Locke, John C Head III Dean at the MIT Sloan School of Management.&lt;/p&gt;&lt;p&gt;“MIT is a unique hub of research, innovation, and entrepreneurship, and that special mix creates massive positive impact that ripples around the world,” says Frederic Kerrest, MIT Sloan MBA ’09, co-founder of Okta, and member of the MIT Corporation. “In a rapidly changing, AI-driven world, Ana has the skills and experience to further accelerate MIT’s global leadership in entrepreneurship education to ensure that our students launch and scale the next generation of groundbreaking, innovation-driven startups.”&lt;/p&gt;&lt;p&gt;Prior to her time at Oxford and King’s College, Bakshi served as an elected councilor representing 6,000-plus constituents, held roles in international nongovernmental organizations, and led product execution strategy at MAHI, an award-winning family-led craft sauce startup, available in thousands of major retailers across the U.K.&amp;nbsp;Bakshi sits on the&amp;nbsp;advisory council for conservation charity&amp;nbsp;Save the Elephants, leveraging AI-driven and scientific approaches to reduce human-wildlife conflict and protect elephant populations.&amp;nbsp;Her work and impact have been featured across &lt;em&gt;FT&lt;/em&gt;, &lt;em&gt;Forbes&lt;/em&gt;, BBC, &lt;em&gt;The Times&lt;/em&gt;, and &lt;em&gt;The Hill&lt;/em&gt;. Bakshi was twice honored as a Top 50 Woman in Tech (U.K.), most recently in 2025.&lt;/p&gt;&lt;p&gt;“As AI changes how we learn, how we build, and how we scale, my focus will be on helping MIT expand its support for phenomenal talent — students and faculty — with the skills, ecosystem, and backing to turn knowledge into impact,” Bakshi says.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;35 years of impact to date&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Trust Center was founded in 1990 by the late Professor Edward Roberts and serves all MIT students across all schools and all disciplines.&amp;nbsp;It supports 60-plus courses and extensive extracurricular programming, including the delta v academic accelerator. Much of the work of the center is generated through the Disciplined Entrepreneurship methodology, which offers a proven approach to create new ventures. Over a thousand schools and other organizations across the world use Disciplined Entrepreneurship books and resources to teach entrepreneurship.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Now, with AI-powered tools like&amp;nbsp;Orbit and&amp;nbsp;JetPack, the Trust Center is changing the way that entrepreneurship is taught and practiced. Its mission is to produce the next generation of innovation-driven entrepreneurs while advancing the field more broadly to make it both rigorous and practical. This approach of leveraging proven evidence-based methodology, emerging technology, the ingenuity of MIT students, and responding to industry shifts is similar to how MIT&amp;nbsp;established the field of chemical engineering in the 1890s. The desired result in both cases was to create a comprehensive, integrated, scalable, rigorous, and practical curriculum to create a new workforce to address the nation’s and world’s greatest challenges.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/martin-trust-center-mit-entrepreneurship-ana-bakshi-executive-director-1002</guid><pubDate>Thu, 02 Oct 2025 19:55:00 +0000</pubDate></item><item><title>Why iRobot’s founder won’t go within 10 feet of today’s walking robots (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/10/why-irobots-founder-wont-go-within-10-feet-of-todays-walking-robots/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Rodney Brooks says humanoid robots pose hidden safety challenges and won't learn dexterity from video alone.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="A photo of Tesla's Optimus humanoid robot prototype provided by Tesla for the &amp;quot;We Robot&amp;quot; event on October 10, 2024." class="absolute inset-0 w-full h-full object-cover hidden" height="169" src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/optimus_header_1-300x169.jpg" width="300" /&gt;
-                  &lt;img alt="A photo of Tesla's Optimus humanoid robot prototype provided by Tesla for the &amp;quot;We Robot&amp;quot; event on October 10, 2024." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/optimus_header_1-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      A photo of Tesla's Optimus humanoid robot prototype provided by Tesla for the "We Robot" event on October 10, 2024.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Tesla
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;When a robotics pioneer who has spent decades building humanoid machines recommends that you stand at least nine feet away from any full-sized walking robot, you should probably listen.&lt;/p&gt;
-&lt;p&gt;"My advice to people is to not come closer than 3 meters to a full-size walking robot," Rodney Brooks writes in a technical essay titled "Why Today’s Humanoids Won’t Learn Dexterity" published on his blog last week. "Until someone comes up with a better version of a two-legged&amp;nbsp;walking robot that is much safer to be near, and even in contact with, we will not see humanoid robots get certified to be deployed in zones that also have people in them."&lt;/p&gt;
-&lt;p&gt;Brooks, the MIT professor emeritus who co-founded iRobot (of Roomba fame) and Rethink Robotics, believes companies pouring billions into humanoid development are chasing an expensive fantasy. Among other problems yet to be addressed, he warns that today's bipedal humanoids are fundamentally unsafe for humans to be near when they walk due to the massive kinetic energy they generate while maintaining balance. That stored-up energy can cause severe injury if the robot falls or its limbs strike someone.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2120428 align-center"&gt;
-    &lt;div&gt;
-                        &lt;img alt="Rodney Brooks posing with a robot at MIT in 2002." class="center large" height="576" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-596940412-1024x576.jpg" width="1024" /&gt;
-                  &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Rodney Brooks posing with a robot at MIT in 2002.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Rick Friedman via Getty Images
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;More on the dangers of robots in a minute. Beyond concerns about malfunction, Brooks contests the prevailing belief that humanoid robots will soon replace human workers by learning dexterity through watching videos of people performing tasks. It's a common robotics AI training technique we have covered in the past. He does not think such robots are impossible, but that they may be further off than most people think.&lt;/p&gt;
-&lt;p&gt;In some corners of the tech world, robot hype has reached a fever pitch due to the rapid gains in AI. Tesla CEO Elon Musk has claimed that the company's Optimus robots could generate $30 trillion in revenue, while Figure's CEO Brett Adcock envisions humanoids serving millions of tasks in the labor force.&lt;/p&gt;
-&lt;p&gt;However, hardware is much harder than software. Unlike software that runs in a virtual world, the laws of physics are unforgiving and immutable, and interacting with the physical world safely requires a great deal of sensory input. Brooks, who has been working on robot manipulation since the 1970s, argues these companies are missing the fundamental ingredient for dexterous manipulation: the sense of touch.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;The crux of Brooks' argument centers on how companies like Tesla and Figure are training their robots. Both have publicly stated they are using a vision-only approach, having workers wear camera rigs to record tasks like folding shirts or picking up objects. The data is then fed into AI models, which can imitate permutations of the motions in novel contexts. Tesla recently shifted away from motion capture suits and teleoperation for data collection to a video-based method, with workers wearing helmets and backpacks equipped with five cameras. Figure's "Project Go-Big" initiative similarly relies on transferring knowledge directly from what they call "everyday human video."&lt;/p&gt;
-&lt;p&gt;(In addition to video capture from real humans performing tasks, some robotics AI models use simulations of physical space for training, which have similar limitations.)&lt;/p&gt;
-&lt;p&gt;These approaches, Brooks argues, ignore decades of research showing that human dexterity depends on an extraordinarily complex touch-sensing system. He cites work from Roland Johansson's lab at Umeå University showing that when a person's fingertips are anesthetized, a seven-second task of picking up and lighting a match stretches to nearly 30 seconds of fumbling. The human hand contains about 17,000 mechanoreceptors, with 1,000 concentrated in each fingertip alone. Recent research from David Ginty's lab at Harvard has identified 15 families of neurons involved in touch sensing, detecting everything from gentle indentation to vibrations to skin stretching. That's a lot of sensory information that current robot systems cannot yet capture or simulate.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;h2&gt;The physics of falling robots&lt;/h2&gt;
-&lt;p&gt;Beyond the dexterity problem lies an even more immediate safety concern. Current humanoid robots use powerful electric motors and a decades-old algorithm called zero moment point to maintain balance by pumping large amounts of energy into their systems when instability is detected. This approach works well enough to keep them upright most of the time, but it creates what Brooks describes as a fundamental incompatibility with human proximity.&lt;/p&gt;
-&lt;p&gt;The scaling laws of physics make full-sized humanoids exponentially more dangerous than their smaller counterparts. When you double the size of a robot, Brooks says, its mass increases by a factor of eight. That means a falling full-sized humanoid has eight times the kinetic energy of a half-sized version. If that rapidly accelerating metal leg encounters anything in its path during a fall, the impact can cause severe injury.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;In his post, Brooks recounts being "way too close" to an Agility Robotics Digit humanoid when it fell several years ago. He has not dared approach one while walking since. Even in promotional videos from humanoid companies, Brooks notes, humans are never shown close to moving humanoid robots unless separated by furniture, and even then, the robots only shuffle minimally.&lt;/p&gt;
-&lt;p&gt;This safety problem extends beyond accidental falls. For humanoids to fulfill their promised role in health care and factory settings, they need certification to operate in zones shared with humans. Current walking mechanisms make such certification virtually impossible under existing safety standards in most parts of the world.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2102438 align-center"&gt;
-    &lt;div&gt;
-                        &lt;img alt="Apollo robot" class="center large" height="576" src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Robotics-SocialShare_1920x1080.width-1300-1024x576.png" width="1024" /&gt;
-                  &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      The humanoid Apollo robot.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Google
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;Brooks predicts that within 15 years, there will indeed be many robots called "humanoids" performing various tasks. But ironically, they will look nothing like today's bipedal machines. They will have wheels instead of feet, varying numbers of arms, and specialized sensors that bear no resemblance to human eyes. Some will have cameras in their hands or looking down from their midsections. The definition of "humanoid" will shift, just as "flying cars" now means electric helicopters rather than road-capable aircraft, and "self-driving cars" means vehicles with remote human monitors rather than truly autonomous systems.&lt;/p&gt;
-&lt;p&gt;The billions currently being invested in forcing today's rigid, vision-only humanoids to learn dexterity will largely disappear, Brooks argues. Academic researchers are making more progress with systems that incorporate touch feedback, like MIT's approach using a glove that transmits sensations between human operators and robot hands. But even these advances remain far from the comprehensive touch sensing that enables human dexterity.&lt;/p&gt;
-&lt;p&gt;Today, few people spend their days near humanoid robots, but Brooks's three-meter rule stands as a practical warning of challenges ahead from someone who has spent decades building these machines. The gap between promotional videos and deployable reality remains large, measured not just in years but in fundamental unsolved problems of physics, sensing, and safety.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Rodney Brooks says humanoid robots pose hidden safety challenges and won't learn dexterity from video alone.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="A photo of Tesla's Optimus humanoid robot prototype provided by Tesla for the &amp;quot;We Robot&amp;quot; event on October 10, 2024." class="absolute inset-0 w-full h-full object-cover hidden" height="169" src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/optimus_header_1-300x169.jpg" width="300" /&gt;
-                  &lt;img alt="A photo of Tesla's Optimus humanoid robot prototype provided by Tesla for the &amp;quot;We Robot&amp;quot; event on October 10, 2024." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/optimus_header_1-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      A photo of Tesla's Optimus humanoid robot prototype provided by Tesla for the "We Robot" event on October 10, 2024.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Tesla
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;When a robotics pioneer who has spent decades building humanoid machines recommends that you stand at least nine feet away from any full-sized walking robot, you should probably listen.&lt;/p&gt;
-&lt;p&gt;"My advice to people is to not come closer than 3 meters to a full-size walking robot," Rodney Brooks writes in a technical essay titled "Why Today’s Humanoids Won’t Learn Dexterity" published on his blog last week. "Until someone comes up with a better version of a two-legged&amp;nbsp;walking robot that is much safer to be near, and even in contact with, we will not see humanoid robots get certified to be deployed in zones that also have people in them."&lt;/p&gt;
-&lt;p&gt;Brooks, the MIT professor emeritus who co-founded iRobot (of Roomba fame) and Rethink Robotics, believes companies pouring billions into humanoid development are chasing an expensive fantasy. Among other problems yet to be addressed, he warns that today's bipedal humanoids are fundamentally unsafe for humans to be near when they walk due to the massive kinetic energy they generate while maintaining balance. That stored-up energy can cause severe injury if the robot falls or its limbs strike someone.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2120428 align-center"&gt;
-    &lt;div&gt;
-                        &lt;img alt="Rodney Brooks posing with a robot at MIT in 2002." class="center large" height="576" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-596940412-1024x576.jpg" width="1024" /&gt;
-                  &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Rodney Brooks posing with a robot at MIT in 2002.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Rick Friedman via Getty Images
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;More on the dangers of robots in a minute. Beyond concerns about malfunction, Brooks contests the prevailing belief that humanoid robots will soon replace human workers by learning dexterity through watching videos of people performing tasks. It's a common robotics AI training technique we have covered in the past. He does not think such robots are impossible, but that they may be further off than most people think.&lt;/p&gt;
-&lt;p&gt;In some corners of the tech world, robot hype has reached a fever pitch due to the rapid gains in AI. Tesla CEO Elon Musk has claimed that the company's Optimus robots could generate $30 trillion in revenue, while Figure's CEO Brett Adcock envisions humanoids serving millions of tasks in the labor force.&lt;/p&gt;
-&lt;p&gt;However, hardware is much harder than software. Unlike software that runs in a virtual world, the laws of physics are unforgiving and immutable, and interacting with the physical world safely requires a great deal of sensory input. Brooks, who has been working on robot manipulation since the 1970s, argues these companies are missing the fundamental ingredient for dexterous manipulation: the sense of touch.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;The crux of Brooks' argument centers on how companies like Tesla and Figure are training their robots. Both have publicly stated they are using a vision-only approach, having workers wear camera rigs to record tasks like folding shirts or picking up objects. The data is then fed into AI models, which can imitate permutations of the motions in novel contexts. Tesla recently shifted away from motion capture suits and teleoperation for data collection to a video-based method, with workers wearing helmets and backpacks equipped with five cameras. Figure's "Project Go-Big" initiative similarly relies on transferring knowledge directly from what they call "everyday human video."&lt;/p&gt;
-&lt;p&gt;(In addition to video capture from real humans performing tasks, some robotics AI models use simulations of physical space for training, which have similar limitations.)&lt;/p&gt;
-&lt;p&gt;These approaches, Brooks argues, ignore decades of research showing that human dexterity depends on an extraordinarily complex touch-sensing system. He cites work from Roland Johansson's lab at Umeå University showing that when a person's fingertips are anesthetized, a seven-second task of picking up and lighting a match stretches to nearly 30 seconds of fumbling. The human hand contains about 17,000 mechanoreceptors, with 1,000 concentrated in each fingertip alone. Recent research from David Ginty's lab at Harvard has identified 15 families of neurons involved in touch sensing, detecting everything from gentle indentation to vibrations to skin stretching. That's a lot of sensory information that current robot systems cannot yet capture or simulate.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;h2&gt;The physics of falling robots&lt;/h2&gt;
-&lt;p&gt;Beyond the dexterity problem lies an even more immediate safety concern. Current humanoid robots use powerful electric motors and a decades-old algorithm called zero moment point to maintain balance by pumping large amounts of energy into their systems when instability is detected. This approach works well enough to keep them upright most of the time, but it creates what Brooks describes as a fundamental incompatibility with human proximity.&lt;/p&gt;
-&lt;p&gt;The scaling laws of physics make full-sized humanoids exponentially more dangerous than their smaller counterparts. When you double the size of a robot, Brooks says, its mass increases by a factor of eight. That means a falling full-sized humanoid has eight times the kinetic energy of a half-sized version. If that rapidly accelerating metal leg encounters anything in its path during a fall, the impact can cause severe injury.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;In his post, Brooks recounts being "way too close" to an Agility Robotics Digit humanoid when it fell several years ago. He has not dared approach one while walking since. Even in promotional videos from humanoid companies, Brooks notes, humans are never shown close to moving humanoid robots unless separated by furniture, and even then, the robots only shuffle minimally.&lt;/p&gt;
-&lt;p&gt;This safety problem extends beyond accidental falls. For humanoids to fulfill their promised role in health care and factory settings, they need certification to operate in zones shared with humans. Current walking mechanisms make such certification virtually impossible under existing safety standards in most parts of the world.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2102438 align-center"&gt;
-    &lt;div&gt;
-                        &lt;img alt="Apollo robot" class="center large" height="576" src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Robotics-SocialShare_1920x1080.width-1300-1024x576.png" width="1024" /&gt;
-                  &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      The humanoid Apollo robot.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Google
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;Brooks predicts that within 15 years, there will indeed be many robots called "humanoids" performing various tasks. But ironically, they will look nothing like today's bipedal machines. They will have wheels instead of feet, varying numbers of arms, and specialized sensors that bear no resemblance to human eyes. Some will have cameras in their hands or looking down from their midsections. The definition of "humanoid" will shift, just as "flying cars" now means electric helicopters rather than road-capable aircraft, and "self-driving cars" means vehicles with remote human monitors rather than truly autonomous systems.&lt;/p&gt;
-&lt;p&gt;The billions currently being invested in forcing today's rigid, vision-only humanoids to learn dexterity will largely disappear, Brooks argues. Academic researchers are making more progress with systems that incorporate touch feedback, like MIT's approach using a glove that transmits sensations between human operators and robot hands. But even these advances remain far from the comprehensive touch sensing that enables human dexterity.&lt;/p&gt;
-&lt;p&gt;Today, few people spend their days near humanoid robots, but Brooks's three-meter rule stands as a practical warning of challenges ahead from someone who has spent decades building these machines. The gap between promotional videos and deployable reality remains large, measured not just in years but in fundamental unsolved problems of physics, sensing, and safety.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/10/why-irobots-founder-wont-go-within-10-feet-of-todays-walking-robots/</guid><pubDate>Thu, 02 Oct 2025 21:10:23 +0000</pubDate></item><item><title>[NEW] After nine years of grinding, Replit finally found its market. Can it keep it? (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-02-at-9.34.51PM.png?resize=1200,668" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;While AI coding startups like Cursor close brow-raising rounds on barely three years of existence, Replit’s path to a $3 billion valuation has been anything but swift. For CEO Amjad Masad, who’s been building tools to democratize programming since 2009, it’s a story of muscling through multiple failed business models, years stuck at the same revenue plateau, and a reckoning last year that forced him to cut half his staff.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 03 Oct 2025 12:41:11 +0000</lastBuildDate><item><title> ()</title><link>https://venturebeat.com/category/ai/feed/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://venturebeat.com/category/ai/feed/</guid></item><item><title>After nine years of grinding, Replit finally found its market. Can it keep it? (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-02-at-9.34.51PM.png?resize=1200,668" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;While AI coding startups like Cursor close brow-raising rounds on barely three years of existence, Replit’s path to a $3 billion valuation has been anything but swift. For CEO Amjad Masad, who’s been building tools to democratize programming since 2009, it’s a story of muscling through multiple failed business models, years stuck at the same revenue plateau, and a reckoning last year that forced him to cut half his staff.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;That makes what happened next more remarkable. Earlier this month, the Bay Area-based company closed a $250 million funding round led by Prysm Capital, nearly tripling its valuation from 2023. The raise came on the heels of never-before-seen revenue growth for the company — from just $2.8 million last year to $150 million in annualized revenue in less than a year. But for Masad, this moment represents something more than finally realizing financial traction. It’s the culmination of a 16-year obsession.&lt;/p&gt;
 
@@ -695,4 +157,272 @@
 
 &lt;p class="wp-block-paragraph"&gt;It’s a stoic response from someone who spent the better part of a decade working away at the same revenue level, convinced that AI agents would eventually transform programming but unable to prove it to the market. But one major difference between Replit and the wave of AI coding startups now flooding the market is that Masad has lived through multiple hype cycles and has he emerged with something relatively differentiated – and reportedly profitable.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“I’ve learned to be a little stoic,” he said. “What matters is for us to do the right thing, be principled, and move forward.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/</guid><pubDate>Fri, 03 Oct 2025 04:58:16 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;“I’ve learned to be a little stoic,” he said. “What matters is for us to do the right thing, be principled, and move forward.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/</guid><pubDate>Fri, 03 Oct 2025 04:58:16 +0000</pubDate></item><item><title>[NEW] China Mobile Shanghai launches industry-first 5G-A network monetisation strategy with Huawei (AI News)</title><link>https://www.artificialintelligence-news.com/news/5g-a-shanghai-huawei-network-monetization-football/</link><description>&lt;p&gt;The roar of 80,000 fans at Shanghai Stadium on September 21, 2025, wasn’t just about the football match between Shanghai Shenhua and Chengdu Rongcheng – it was also a live demonstration of how telecom carriers are tackling one of their most pressing challenges: converting advanced network capabilities into revenue.&lt;/p&gt;&lt;p&gt;Huawei brought the international media to witness this implementation firsthand, offering many of us in the press corps our first experience of Chinese football culture. As supporters cheered in waves of blue and white, capturing moments on their phones and sharing videos (despite the crushing crowd density), China Mobile Shanghai’s newly deployed 5G-A network monetisation strategy was being tested in real-time, powered by Huawei’s GainLeap solution and intelligent wireless infrastructure.&lt;/p&gt;&lt;p&gt;From the media section, the scale of the technical challenge became apparent – ensuring 80,000 simultaneous users could stream, upload, and transact without network degradation. This was something that required more than additional bandwidth.&lt;/p&gt;&lt;p&gt;China Mobile Shanghai has become the first carrier in China to launch a differentiated 5G-A experience package, marking what industry observers see as a shift in how telecom operators might address revenue growth in saturated markets.&lt;/p&gt;&lt;p&gt;The “5G-A Exclusive Package for Shenhua Football Fans” is a way to transform the elastic capabilities of 5G-Advanced networks into tangible value that users can perceive and are willing to pay for.&lt;/p&gt;&lt;p&gt;The technical foundation for this 5G-A network monetisation strategy relies heavily on Huawei’s technology portfolio, from the GainLeap solution that identifies premium subscribers, to the AI-powered intelligent wireless boards that optimise network performance.&lt;/p&gt;&lt;h3&gt;The business model innovation&lt;/h3&gt;&lt;p&gt;The partnership between China Mobile Shanghai and Shanghai Shenhua Football Club offers approximately 200,000 football fans an annual package that combines network performance guarantees with fan-specific benefits.&lt;/p&gt;&lt;p&gt;Subscribers receive network acceleration on 5G-A, access to all matches via the Migu streaming service, unlimited video ringback tone downloads, and Shanghai Shenhua Football Club merchandise.&lt;/p&gt;&lt;p&gt;This approach to 5G-A network monetisation addresses what China Mobile Shanghai identifies as an important pain point for the telecommunications industry: how to drive quality growth when user acquisition has reached its ceiling. Rather than competing solely on price or basic connectivity, the package creates value through enhanced experiences in specific use-cases.&lt;/p&gt;&lt;h3&gt;The technical infrastructure behind the experience&lt;/h3&gt;&lt;p&gt;For Shanghai Stadium, China Mobile Shanghai implemented an elastic, scalable network capable of handling massive concurrent demand. During the match, with 80,000 users accessing the network simultaneously, 5G-A package subscribers can achieve download speeds of up to 600 Mbps.&lt;/p&gt;&lt;p&gt;The necessary technical foundation relies on Huawei’s GainLeap solution, which lets the network identify 5G-A subscribers and allocates them a high-speed 3CC (three-component carrier) channel. The differentiation is key to the 5G-A network monetisation model – creating measurable performance differences between standard and premium subscribers.&lt;/p&gt;&lt;p&gt;Behind the scenes, Huawei’s AI-powered intelligent wireless boards play a central role. They integrate on-board communications capabilities with artificial intelligence to perceive network service types, user experience goals, device characteristics, and resource status, in milliseconds.&lt;/p&gt;&lt;p&gt;According to test data provided by China Mobile Shanghai, they have helped result in QR code scanning latency reduced by 47%, WeChat uploading time shortened by 25%, live streaming speeds increased by 27%, and high-definition video ratios increased by 11%.&lt;/p&gt;&lt;h3&gt;Infrastructure deployment scale&lt;/h3&gt;&lt;p&gt;To support the high concurrent demand during events, China Mobile Shanghai and Huawei conducted comprehensive network upgrades at the stadium. The lower stands received 32 new 2.6 GHz and 4.9 GHz pRRUs (passive remote radio units), more than doubling overall network capacity. Seven escalator entrances each received a 4.9 GHz EM device to eliminate coverage dead spots.&lt;/p&gt;&lt;p&gt;On match days, more than 40 engineers are stationed onsite for real-time network monitoring and dynamic optimisation. Outside of the stadium, China Mobile Shanghai has achieved continuous 5G-A coverage in the area inside Shanghai’s Outer Ring Road, the five new towns further out, and 21 metro lines in the city.&lt;/p&gt;&lt;h3&gt;The practical user experience&lt;/h3&gt;&lt;p&gt;For fans at the match, the differentiated service manifested practically. The high bandwidth and business-level assurance capabilities enabled quick mobile payments for drinks, snacks, and souvenirs onsite. Users could share video highlights in real time without lag, even during peak moments when thousands of fans uploaded data simultaneously.&lt;/p&gt;&lt;p&gt;The ability to instantly see likes and comments from friends while still in the stadium represents the kind of enhanced experience that China Mobile Shanghai is betting users will value enough to pay a premium for. Whether this bet pays off commercially remains to be seen, but the technical execution at the September 21 match demonstrated that the infrastructure delivers on its promises.&lt;/p&gt;&lt;h3&gt;Industry implications&lt;/h3&gt;&lt;p&gt;The initiative raises questions about the future of 5G-A network monetisation strategies in the telecommunications industry. Traditional models have struggled to justify the massive infrastructure investments required for 5G and latterly, 5G-Advanced networks. By creating tiered experiences tied to specific user communities – in this case, football fans – carriers may have found a way to differentiate services beyond simple speed tiers.&lt;/p&gt;&lt;p&gt;The approach also represents a test case for how deeply integrated AI capabilities in network infrastructure can enable new business models. The intelligent wireless boards’ ability to make millisecond-level decisions about resource allocation is what makes the performance differentiation technically feasible at scale.&lt;/p&gt;&lt;p&gt;China Mobile Shanghai’s target of serving 200,000 Shenhua fans provides a measurable benchmark for assessing commercial viability.&lt;/p&gt;&lt;p&gt;As telecommunications companies globally grapple with how to monetise increasingly expensive network upgrades, China Mobile Shanghai’s experiment with community-specific, experience-based packages may offer insights for the industry’s evolution beyond traditional connectivity provision.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: Smart Shanghai &lt;/em&gt;)&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;The roar of 80,000 fans at Shanghai Stadium on September 21, 2025, wasn’t just about the football match between Shanghai Shenhua and Chengdu Rongcheng – it was also a live demonstration of how telecom carriers are tackling one of their most pressing challenges: converting advanced network capabilities into revenue.&lt;/p&gt;&lt;p&gt;Huawei brought the international media to witness this implementation firsthand, offering many of us in the press corps our first experience of Chinese football culture. As supporters cheered in waves of blue and white, capturing moments on their phones and sharing videos (despite the crushing crowd density), China Mobile Shanghai’s newly deployed 5G-A network monetisation strategy was being tested in real-time, powered by Huawei’s GainLeap solution and intelligent wireless infrastructure.&lt;/p&gt;&lt;p&gt;From the media section, the scale of the technical challenge became apparent – ensuring 80,000 simultaneous users could stream, upload, and transact without network degradation. This was something that required more than additional bandwidth.&lt;/p&gt;&lt;p&gt;China Mobile Shanghai has become the first carrier in China to launch a differentiated 5G-A experience package, marking what industry observers see as a shift in how telecom operators might address revenue growth in saturated markets.&lt;/p&gt;&lt;p&gt;The “5G-A Exclusive Package for Shenhua Football Fans” is a way to transform the elastic capabilities of 5G-Advanced networks into tangible value that users can perceive and are willing to pay for.&lt;/p&gt;&lt;p&gt;The technical foundation for this 5G-A network monetisation strategy relies heavily on Huawei’s technology portfolio, from the GainLeap solution that identifies premium subscribers, to the AI-powered intelligent wireless boards that optimise network performance.&lt;/p&gt;&lt;h3&gt;The business model innovation&lt;/h3&gt;&lt;p&gt;The partnership between China Mobile Shanghai and Shanghai Shenhua Football Club offers approximately 200,000 football fans an annual package that combines network performance guarantees with fan-specific benefits.&lt;/p&gt;&lt;p&gt;Subscribers receive network acceleration on 5G-A, access to all matches via the Migu streaming service, unlimited video ringback tone downloads, and Shanghai Shenhua Football Club merchandise.&lt;/p&gt;&lt;p&gt;This approach to 5G-A network monetisation addresses what China Mobile Shanghai identifies as an important pain point for the telecommunications industry: how to drive quality growth when user acquisition has reached its ceiling. Rather than competing solely on price or basic connectivity, the package creates value through enhanced experiences in specific use-cases.&lt;/p&gt;&lt;h3&gt;The technical infrastructure behind the experience&lt;/h3&gt;&lt;p&gt;For Shanghai Stadium, China Mobile Shanghai implemented an elastic, scalable network capable of handling massive concurrent demand. During the match, with 80,000 users accessing the network simultaneously, 5G-A package subscribers can achieve download speeds of up to 600 Mbps.&lt;/p&gt;&lt;p&gt;The necessary technical foundation relies on Huawei’s GainLeap solution, which lets the network identify 5G-A subscribers and allocates them a high-speed 3CC (three-component carrier) channel. The differentiation is key to the 5G-A network monetisation model – creating measurable performance differences between standard and premium subscribers.&lt;/p&gt;&lt;p&gt;Behind the scenes, Huawei’s AI-powered intelligent wireless boards play a central role. They integrate on-board communications capabilities with artificial intelligence to perceive network service types, user experience goals, device characteristics, and resource status, in milliseconds.&lt;/p&gt;&lt;p&gt;According to test data provided by China Mobile Shanghai, they have helped result in QR code scanning latency reduced by 47%, WeChat uploading time shortened by 25%, live streaming speeds increased by 27%, and high-definition video ratios increased by 11%.&lt;/p&gt;&lt;h3&gt;Infrastructure deployment scale&lt;/h3&gt;&lt;p&gt;To support the high concurrent demand during events, China Mobile Shanghai and Huawei conducted comprehensive network upgrades at the stadium. The lower stands received 32 new 2.6 GHz and 4.9 GHz pRRUs (passive remote radio units), more than doubling overall network capacity. Seven escalator entrances each received a 4.9 GHz EM device to eliminate coverage dead spots.&lt;/p&gt;&lt;p&gt;On match days, more than 40 engineers are stationed onsite for real-time network monitoring and dynamic optimisation. Outside of the stadium, China Mobile Shanghai has achieved continuous 5G-A coverage in the area inside Shanghai’s Outer Ring Road, the five new towns further out, and 21 metro lines in the city.&lt;/p&gt;&lt;h3&gt;The practical user experience&lt;/h3&gt;&lt;p&gt;For fans at the match, the differentiated service manifested practically. The high bandwidth and business-level assurance capabilities enabled quick mobile payments for drinks, snacks, and souvenirs onsite. Users could share video highlights in real time without lag, even during peak moments when thousands of fans uploaded data simultaneously.&lt;/p&gt;&lt;p&gt;The ability to instantly see likes and comments from friends while still in the stadium represents the kind of enhanced experience that China Mobile Shanghai is betting users will value enough to pay a premium for. Whether this bet pays off commercially remains to be seen, but the technical execution at the September 21 match demonstrated that the infrastructure delivers on its promises.&lt;/p&gt;&lt;h3&gt;Industry implications&lt;/h3&gt;&lt;p&gt;The initiative raises questions about the future of 5G-A network monetisation strategies in the telecommunications industry. Traditional models have struggled to justify the massive infrastructure investments required for 5G and latterly, 5G-Advanced networks. By creating tiered experiences tied to specific user communities – in this case, football fans – carriers may have found a way to differentiate services beyond simple speed tiers.&lt;/p&gt;&lt;p&gt;The approach also represents a test case for how deeply integrated AI capabilities in network infrastructure can enable new business models. The intelligent wireless boards’ ability to make millisecond-level decisions about resource allocation is what makes the performance differentiation technically feasible at scale.&lt;/p&gt;&lt;p&gt;China Mobile Shanghai’s target of serving 200,000 Shenhua fans provides a measurable benchmark for assessing commercial viability.&lt;/p&gt;&lt;p&gt;As telecommunications companies globally grapple with how to monetise increasingly expensive network upgrades, China Mobile Shanghai’s experiment with community-specific, experience-based packages may offer insights for the industry’s evolution beyond traditional connectivity provision.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: Smart Shanghai &lt;/em&gt;)&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/5g-a-shanghai-huawei-network-monetization-football/</guid><pubDate>Fri, 03 Oct 2025 09:00:00 +0000</pubDate></item><item><title>[NEW] How developers are using Apple’s local AI models with iOS 26 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company touted that with this framework, developers gain access to AI models without worrying about any inference cost. Plus, these local models have capabilities such as guided generation and tool calling built in.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple’s local AI models. Apple’s models are small compared with leading models from OpenAI, Anthropic, Google, or Meta. That is why local-only features largely improve quality of life with these apps rather than introducing major changes to the app’s workflow.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Below are some of the first apps to tap into Apple’s AI framework.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-lil-artist"&gt;Lil Artist&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Lil Artist app offers various interactive experiences to help kids learn different skills like creativity, math, and music. Developer Arima Jain and Aman Jain shipped an AI story creator with the iOS 26 update. This allows users to select a character and a theme, with the app generating a story using AI. The developer said that the text generation in the story is powered by the local model.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3047762" height="451" src="https://techcrunch.com/wp-content/uploads/2025/09/screenshot_3x_postspark_2025-09-01_01-19-08.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Lil Artist&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-daylish"&gt;Daylish&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The developer of the Daylish app is working on a prototype for automatically suggesting emojis for timeline events based on the title for the daily planner app.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-moneycoach"&gt;MoneyCoach&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Finance tracking app MoneyCoach has two neat features powered by local models. First, the app shows insights about your spending, such as whether you spent more than average on groceries for that particular week. The other feature automatically suggests categories and subcategories for a spending item for quick entries.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large is-resized"&gt;&lt;img alt="A screenshot of financial tracking app MoneyCoach where the screen shows summary of accounts and shows a weekly insight on grocery spend for the week. " class="wp-image-3047763" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/01-Foundation-Models-Insights.jpeg?w=313" width="313" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;MoneyCoach&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-lookup"&gt;LookUp&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The word learning app LookUp has added two new modes using Apple’s AI models. There is a new learning mode, which leverages a local model to create examples corresponding to a word. Plus, the example asks users to explain the usage of the word in a sentence.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="A screenshot of LookUp word learning app that shows a screen that displays an example to understand a new word " class="wp-image-3047764" height="400" src="https://techcrunch.com/wp-content/uploads/2025/09/Learn-Modes-2.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;LookUp&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The developer is also using on-device models to generate a map view of a word’s origin. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large is-resized"&gt;&lt;img alt="A screenshot of the Lookup app with a map view showing origin of a word." class="wp-image-3047765" height="400" src="https://techcrunch.com/wp-content/uploads/2025/09/Etymology-Maps-2.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Lookup&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-tasks"&gt;Tasks&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Just like a few other apps, the Tasks app implemented a feature to suggest tags for an entry using local models automatically. It’s also using these models to detect a recurring task and schedule it accordingly. And the app lets users speak a few things and use the local model to break them down into various tasks without using the internet.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="This is a lifestyle shot of Tasks app showing screen with a new feautre that uses local models to suggest tags when you enter a task." class="wp-image-3047766" height="407" src="https://techcrunch.com/wp-content/uploads/2025/09/Tasks-app.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Tasks&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-day-one"&gt;Day One&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Automattic-owned journaling app Day One is using Apple’s models to get highlights and suggest titles for your entry. The team has also implemented a feature to generate prompts that nudge you to dive deeper and write more based on what you have already written.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="A screenshot showing Day One journaling app's features implemented using Apple's local model. These features include a summary, title suggestion, and prompt generation to go deeper into writing. " class="wp-image-3047759" height="625" src="https://techcrunch.com/wp-content/uploads/2025/09/On-Device-AI-scaled-1.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Day One&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-crouton"&gt;Crouton&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Recipe app Crouton is using Apple Intelligence to suggest tags for a recipe and assign names to timers. It also uses AI to break down a block of text into easy-to-follow steps for cooking.&lt;/p&gt;
+
+&lt;figure class="wp-block-embed aligncenter is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-signeasy"&gt;Signeasy&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Digital signing app Signeasy is using Apple’s local models to extract key insights from a contract and give users a summary of the document they are signing.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-dark-noise"&gt;Dark Noise&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Background sound app Dark Noise has used Apple’s local models to let users describe a soundscape in a few words and generate one based on that. You can adjust the levels of different elements of the soundscape once it is created.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-lights-out"&gt;Lights Out&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Lights Out is the new app to track the F1 season and grand prix from Shihab Mehboob, developer of Twitter client Avery and Mastodon client Mammoth. The app uses on-device AI models to summarize commentary during a race.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-capture"&gt;Capture&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Note-taking app Capture is using local AI to show category suggestions to users as they type in their notes or tasks.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3050861" height="453" src="https://techcrunch.com/wp-content/uploads/2025/09/Capture.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Capture&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-lumy"&gt;Lumy&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sun and weather-tracking app Lumy now shows neat weather-related suggestions on the app using AI.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3050860" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/Lumy_image_iPhone_109_cef6.png?w=340" width="340" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Lumy&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-cardpointers"&gt;CardPointers&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;CardPointers is an app that helps you track your credit card expenses and gives suggestions on the best way to earn points from the cards you have. The app’s new version is using AI to let users ask questions about their cards and offers.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3050862" height="463" src="https://techcrunch.com/wp-content/uploads/2025/09/CardPointers-for-Credit-Cards_image_iPhone_105_eb71.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;CardPointers&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-guitar-wiz"&gt;Guitar Wiz&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Guitar Wiz is a guitar learning app using the Apple Foundation Model framework in a few ways. Users will see an explanation of a chord while learning it. The app is showing advanced players’ insights based on time intervals. Plus, the AI model is helping the developer support over 15 languages.&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SmartGym app uses local AI to convert the description of a workout to a step-wise set with rep counts, intervals, and equipment. It also gives users workout summaries with mothly progress, routine breakdowns and individual exercise performance. &lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-stoic"&gt;Stoic&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Journaling app Stoic is using Apple’s models to give personalized prompts to users based on their mood logging. The models can also help users summerize posts, search past entries, and organize them. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter"&gt;&lt;img alt="alt" class="wp-image-3053975" height="918" src="https://techcrunch.com/wp-content/uploads/2025/09/Stoic-apple-models.jpg?w=484" width="653" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Stoic&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-swingvision"&gt;SwingVision&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This app helps players of racquet sports such as Tennis and Pickleball to improve their form based on the video recordings. The app makers are now using Foundational models to give actionable and specific feedback. &lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-zoho"&gt;Zoho&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;India-based productivity suite company Zoho is using local models to power summarization, translation, and transcription across its apps like Notebook for documents and Tables for spreadsheets.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-trainfitness"&gt;TrainFitness&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The workout app is using on-device models to suggest an alternative for an exersice when you don’t have a particular equipment available to you. &lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-stuff"&gt;Stuff&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The to-do app has a listen mode that uses Apple’s AI models to listen to the user and convert the voice to individual tasks. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;We will continue updating this list as we discover more apps using Apple’s local models.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company touted that with this framework, developers gain access to AI models without worrying about any inference cost. Plus, these local models have capabilities such as guided generation and tool calling built in.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple’s local AI models. Apple’s models are small compared with leading models from OpenAI, Anthropic, Google, or Meta. That is why local-only features largely improve quality of life with these apps rather than introducing major changes to the app’s workflow.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Below are some of the first apps to tap into Apple’s AI framework.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-lil-artist"&gt;Lil Artist&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Lil Artist app offers various interactive experiences to help kids learn different skills like creativity, math, and music. Developer Arima Jain and Aman Jain shipped an AI story creator with the iOS 26 update. This allows users to select a character and a theme, with the app generating a story using AI. The developer said that the text generation in the story is powered by the local model.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3047762" height="451" src="https://techcrunch.com/wp-content/uploads/2025/09/screenshot_3x_postspark_2025-09-01_01-19-08.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Lil Artist&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-daylish"&gt;Daylish&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The developer of the Daylish app is working on a prototype for automatically suggesting emojis for timeline events based on the title for the daily planner app.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-moneycoach"&gt;MoneyCoach&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Finance tracking app MoneyCoach has two neat features powered by local models. First, the app shows insights about your spending, such as whether you spent more than average on groceries for that particular week. The other feature automatically suggests categories and subcategories for a spending item for quick entries.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large is-resized"&gt;&lt;img alt="A screenshot of financial tracking app MoneyCoach where the screen shows summary of accounts and shows a weekly insight on grocery spend for the week. " class="wp-image-3047763" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/01-Foundation-Models-Insights.jpeg?w=313" width="313" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;MoneyCoach&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-lookup"&gt;LookUp&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The word learning app LookUp has added two new modes using Apple’s AI models. There is a new learning mode, which leverages a local model to create examples corresponding to a word. Plus, the example asks users to explain the usage of the word in a sentence.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="A screenshot of LookUp word learning app that shows a screen that displays an example to understand a new word " class="wp-image-3047764" height="400" src="https://techcrunch.com/wp-content/uploads/2025/09/Learn-Modes-2.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;LookUp&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The developer is also using on-device models to generate a map view of a word’s origin. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large is-resized"&gt;&lt;img alt="A screenshot of the Lookup app with a map view showing origin of a word." class="wp-image-3047765" height="400" src="https://techcrunch.com/wp-content/uploads/2025/09/Etymology-Maps-2.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Lookup&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-tasks"&gt;Tasks&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Just like a few other apps, the Tasks app implemented a feature to suggest tags for an entry using local models automatically. It’s also using these models to detect a recurring task and schedule it accordingly. And the app lets users speak a few things and use the local model to break them down into various tasks without using the internet.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="This is a lifestyle shot of Tasks app showing screen with a new feautre that uses local models to suggest tags when you enter a task." class="wp-image-3047766" height="407" src="https://techcrunch.com/wp-content/uploads/2025/09/Tasks-app.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Tasks&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-day-one"&gt;Day One&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Automattic-owned journaling app Day One is using Apple’s models to get highlights and suggest titles for your entry. The team has also implemented a feature to generate prompts that nudge you to dive deeper and write more based on what you have already written.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="A screenshot showing Day One journaling app's features implemented using Apple's local model. These features include a summary, title suggestion, and prompt generation to go deeper into writing. " class="wp-image-3047759" height="625" src="https://techcrunch.com/wp-content/uploads/2025/09/On-Device-AI-scaled-1.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Day One&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-crouton"&gt;Crouton&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Recipe app Crouton is using Apple Intelligence to suggest tags for a recipe and assign names to timers. It also uses AI to break down a block of text into easy-to-follow steps for cooking.&lt;/p&gt;
+
+&lt;figure class="wp-block-embed aligncenter is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-signeasy"&gt;Signeasy&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Digital signing app Signeasy is using Apple’s local models to extract key insights from a contract and give users a summary of the document they are signing.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-dark-noise"&gt;Dark Noise&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Background sound app Dark Noise has used Apple’s local models to let users describe a soundscape in a few words and generate one based on that. You can adjust the levels of different elements of the soundscape once it is created.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-lights-out"&gt;Lights Out&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Lights Out is the new app to track the F1 season and grand prix from Shihab Mehboob, developer of Twitter client Avery and Mastodon client Mammoth. The app uses on-device AI models to summarize commentary during a race.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-capture"&gt;Capture&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Note-taking app Capture is using local AI to show category suggestions to users as they type in their notes or tasks.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3050861" height="453" src="https://techcrunch.com/wp-content/uploads/2025/09/Capture.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Capture&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-lumy"&gt;Lumy&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sun and weather-tracking app Lumy now shows neat weather-related suggestions on the app using AI.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3050860" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/Lumy_image_iPhone_109_cef6.png?w=340" width="340" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Lumy&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-cardpointers"&gt;CardPointers&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;CardPointers is an app that helps you track your credit card expenses and gives suggestions on the best way to earn points from the cards you have. The app’s new version is using AI to let users ask questions about their cards and offers.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3050862" height="463" src="https://techcrunch.com/wp-content/uploads/2025/09/CardPointers-for-Credit-Cards_image_iPhone_105_eb71.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;CardPointers&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-guitar-wiz"&gt;Guitar Wiz&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Guitar Wiz is a guitar learning app using the Apple Foundation Model framework in a few ways. Users will see an explanation of a chord while learning it. The app is showing advanced players’ insights based on time intervals. Plus, the AI model is helping the developer support over 15 languages.&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SmartGym app uses local AI to convert the description of a workout to a step-wise set with rep counts, intervals, and equipment. It also gives users workout summaries with mothly progress, routine breakdowns and individual exercise performance. &lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-stoic"&gt;Stoic&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Journaling app Stoic is using Apple’s models to give personalized prompts to users based on their mood logging. The models can also help users summerize posts, search past entries, and organize them. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter"&gt;&lt;img alt="alt" class="wp-image-3053975" height="918" src="https://techcrunch.com/wp-content/uploads/2025/09/Stoic-apple-models.jpg?w=484" width="653" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Stoic&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading" id="h-swingvision"&gt;SwingVision&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This app helps players of racquet sports such as Tennis and Pickleball to improve their form based on the video recordings. The app makers are now using Foundational models to give actionable and specific feedback. &lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-zoho"&gt;Zoho&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;India-based productivity suite company Zoho is using local models to power summarization, translation, and transcription across its apps like Notebook for documents and Tables for spreadsheets.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-trainfitness"&gt;TrainFitness&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The workout app is using on-device models to suggest an alternative for an exersice when you don’t have a particular equipment available to you. &lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-stuff"&gt;Stuff&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The to-do app has a listen mode that uses Apple’s AI models to listen to the user and convert the voice to individual tasks. &lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;We will continue updating this list as we discover more apps using Apple’s local models.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/</guid><pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate></item><item><title>[NEW] The Download: using AI to discover “zero day” vulnerabilities, and Apple’s ICE app removal (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Microsoft says AI can create “zero day” threats in biology&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;A team at Microsoft says it used artificial intelligence to discover a "zero day" vulnerability in the biosecurity systems used to prevent the misuse of DNA.&lt;/p&gt;&lt;p&gt;These screening systems are designed to stop people from purchasing genetic sequences that could be used to create deadly toxins or pathogens. But now researchers say they have figured out how to bypass the protections in a way previously unknown to defenders. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Antonio Regalado&lt;/em&gt;&lt;/p&gt; 
+ &lt;p&gt;&lt;strong&gt;If you’re interested in learning more about AI and biology, check out:&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;+ AI-designed viruses are here and already killing bacteria. Read the full story.&lt;/p&gt;&lt;p&gt;+ OpenAI is making a foray into longevity science with an AI built to help manufacture stem cells.&lt;/p&gt;&lt;p&gt;+ AI is dreaming up drugs that no one has ever seen. Now we’ve got to see if they work.&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1&lt;/strong&gt; &lt;strong&gt;Apple removed an app for reporting ICE officer sightings&lt;/strong&gt;&lt;br /&gt;The US Attorney General requested it take down ICEBlock—and Apple complied. (Insider $)&lt;br /&gt;+ &lt;em&gt;Apple says the removal was down to the safety risk it posed. &lt;/em&gt;(Bloomberg $)&lt;br /&gt;+ &lt;em&gt;The company had a similar explanation for removing a Hong Kong map app back in 2019. &lt;/em&gt;(The Verge)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;strong&gt;2 OpenAI’s parental controls are easily circumvented&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;Its alerts about teenagers’ concerning conversations also took hours to deliver. (WP $)&lt;br /&gt;+ &lt;em&gt;The looming crackdown on AI companionship. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 VCs have sunk a record amount into AI startups this year&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;To the tune of $192.7 billion so far. (Bloomberg $)&lt;br /&gt;+ &lt;em&gt;The AI bubble is looking increasingly precarious, though. &lt;/em&gt;(FT $)&lt;br /&gt;+ &lt;em&gt;How to fine-tune AI for prosperity. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;4 The US federal vaccination schedule is still waiting for an update&lt;/strong&gt;&lt;br /&gt;Officials are yet to sign off on recommendations for this year's updated Covid shots. (Ars Technica)&lt;br /&gt;+ &lt;em&gt;Many people have been left unable to get vaccinated. &lt;/em&gt;(NPR)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;5 The US Department of Energy has canceled yet more clean energy projects&lt;/strong&gt;&lt;br /&gt;In mostly blue states. (TechCrunch)&lt;br /&gt;+ &lt;em&gt;More than 300 funding awards have been axed. &lt;/em&gt;(CNBC)&lt;br /&gt;+ &lt;em&gt;How to make clean energy progress under Trump in the states. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
+
+ &lt;p&gt;&lt;strong&gt;6 TikTok recommends pornography to children’s accounts&lt;/strong&gt;&lt;br /&gt;Despite activating its "restricted mode” to prevent sexualized content. (BBC&lt;strong&gt;)&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;7 China has launched a new skilled worker visa program&lt;/strong&gt;&lt;br /&gt;In the wake of the US H-1B visa clampdown. (Wired $)&lt;br /&gt;+ &lt;em&gt;The initiative hasn’t gone down well with locals. &lt;/em&gt;(BBC)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 Flights were grounded in Germany after several drone sightings&lt;br /&gt;&lt;/strong&gt;NATO members are worried about suspected Russian incursions in their skies. (WSJ $)&lt;br /&gt;+ &lt;em&gt;It’s the latest in a string of airspace sightings. &lt;/em&gt;(FT $)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 How YouTube is shaking up Hollywood&lt;br /&gt;&lt;/strong&gt;Its powerful creators are starting to worry the entertainment establishment—and Netflix. (FT $)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;10 Anti-robocall tools are getting better&lt;br /&gt;&lt;/strong&gt;Call screening features are a useful first line of defense. (NYT $)&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“Capitulating to an authoritarian regime is never the right move.”&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;—Joshua Aaron, the developer of ICEBlock, the app that crowdsources sightings of ICE officials, hits back at Apple’s decision to remove it from the App Store, 404 Media reports.&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1124783" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/image_ca61e1.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;How AI can help supercharge creativity&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Existing generative tools can automate a striking range of creative tasks and offer near-instant gratification—but at what cost? Some artists and researchers fear that such technology could turn us into passive consumers of yet more AI slop.&lt;/p&gt;&lt;p&gt;And so they are looking for ways to inject human creativity back into the process: working on what’s known as co-­creativity or more-than-human creativity. The aim is to develop AI tools that augment our creativity rather than strip it from us. Read the full story.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;&lt;p&gt;&lt;em&gt;—Will Douglas Heaven&lt;/em&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ Congratulations to Fizz, the very handsome UK cat of the year! 🐈&lt;br /&gt;+ What it took to transform actor Jeremy Allan White into the one and only Boss in his new film, &lt;em&gt;Deliver Me from Nowhere&lt;/em&gt;.&lt;br /&gt;+ Divers have salvaged more than 1,000 gold and silver coins from a 1715 shipwreck off the east coast of Florida.&lt;br /&gt;+ The internet is obsessed with crabs. But why?&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Microsoft says AI can create “zero day” threats in biology&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;A team at Microsoft says it used artificial intelligence to discover a "zero day" vulnerability in the biosecurity systems used to prevent the misuse of DNA.&lt;/p&gt;&lt;p&gt;These screening systems are designed to stop people from purchasing genetic sequences that could be used to create deadly toxins or pathogens. But now researchers say they have figured out how to bypass the protections in a way previously unknown to defenders. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Antonio Regalado&lt;/em&gt;&lt;/p&gt; 
+ &lt;p&gt;&lt;strong&gt;If you’re interested in learning more about AI and biology, check out:&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;+ AI-designed viruses are here and already killing bacteria. Read the full story.&lt;/p&gt;&lt;p&gt;+ OpenAI is making a foray into longevity science with an AI built to help manufacture stem cells.&lt;/p&gt;&lt;p&gt;+ AI is dreaming up drugs that no one has ever seen. Now we’ve got to see if they work.&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1&lt;/strong&gt; &lt;strong&gt;Apple removed an app for reporting ICE officer sightings&lt;/strong&gt;&lt;br /&gt;The US Attorney General requested it take down ICEBlock—and Apple complied. (Insider $)&lt;br /&gt;+ &lt;em&gt;Apple says the removal was down to the safety risk it posed. &lt;/em&gt;(Bloomberg $)&lt;br /&gt;+ &lt;em&gt;The company had a similar explanation for removing a Hong Kong map app back in 2019. &lt;/em&gt;(The Verge)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;strong&gt;2 OpenAI’s parental controls are easily circumvented&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;Its alerts about teenagers’ concerning conversations also took hours to deliver. (WP $)&lt;br /&gt;+ &lt;em&gt;The looming crackdown on AI companionship. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 VCs have sunk a record amount into AI startups this year&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;To the tune of $192.7 billion so far. (Bloomberg $)&lt;br /&gt;+ &lt;em&gt;The AI bubble is looking increasingly precarious, though. &lt;/em&gt;(FT $)&lt;br /&gt;+ &lt;em&gt;How to fine-tune AI for prosperity. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;4 The US federal vaccination schedule is still waiting for an update&lt;/strong&gt;&lt;br /&gt;Officials are yet to sign off on recommendations for this year's updated Covid shots. (Ars Technica)&lt;br /&gt;+ &lt;em&gt;Many people have been left unable to get vaccinated. &lt;/em&gt;(NPR)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;5 The US Department of Energy has canceled yet more clean energy projects&lt;/strong&gt;&lt;br /&gt;In mostly blue states. (TechCrunch)&lt;br /&gt;+ &lt;em&gt;More than 300 funding awards have been axed. &lt;/em&gt;(CNBC)&lt;br /&gt;+ &lt;em&gt;How to make clean energy progress under Trump in the states. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt; 
+
+ &lt;p&gt;&lt;strong&gt;6 TikTok recommends pornography to children’s accounts&lt;/strong&gt;&lt;br /&gt;Despite activating its "restricted mode” to prevent sexualized content. (BBC&lt;strong&gt;)&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;7 China has launched a new skilled worker visa program&lt;/strong&gt;&lt;br /&gt;In the wake of the US H-1B visa clampdown. (Wired $)&lt;br /&gt;+ &lt;em&gt;The initiative hasn’t gone down well with locals. &lt;/em&gt;(BBC)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 Flights were grounded in Germany after several drone sightings&lt;br /&gt;&lt;/strong&gt;NATO members are worried about suspected Russian incursions in their skies. (WSJ $)&lt;br /&gt;+ &lt;em&gt;It’s the latest in a string of airspace sightings. &lt;/em&gt;(FT $)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 How YouTube is shaking up Hollywood&lt;br /&gt;&lt;/strong&gt;Its powerful creators are starting to worry the entertainment establishment—and Netflix. (FT $)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;10 Anti-robocall tools are getting better&lt;br /&gt;&lt;/strong&gt;Call screening features are a useful first line of defense. (NYT $)&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“Capitulating to an authoritarian regime is never the right move.”&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;—Joshua Aaron, the developer of ICEBlock, the app that crowdsources sightings of ICE officials, hits back at Apple’s decision to remove it from the App Store, 404 Media reports.&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1124783" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/image_ca61e1.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;How AI can help supercharge creativity&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Existing generative tools can automate a striking range of creative tasks and offer near-instant gratification—but at what cost? Some artists and researchers fear that such technology could turn us into passive consumers of yet more AI slop.&lt;/p&gt;&lt;p&gt;And so they are looking for ways to inject human creativity back into the process: working on what’s known as co-­creativity or more-than-human creativity. The aim is to develop AI tools that augment our creativity rather than strip it from us. Read the full story.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;&lt;p&gt;&lt;em&gt;—Will Douglas Heaven&lt;/em&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ Congratulations to Fizz, the very handsome UK cat of the year! 🐈&lt;br /&gt;+ What it took to transform actor Jeremy Allan White into the one and only Boss in his new film, &lt;em&gt;Deliver Me from Nowhere&lt;/em&gt;.&lt;br /&gt;+ Divers have salvaged more than 1,000 gold and silver coins from a 1715 shipwreck off the east coast of Florida.&lt;br /&gt;+ The internet is obsessed with crabs. But why?&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/</guid><pubDate>Fri, 03 Oct 2025 12:10:00 +0000</pubDate></item></channel></rss>
