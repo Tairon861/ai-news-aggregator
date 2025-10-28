@@ -1,785 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 28 Oct 2025 06:33:47 +0000</lastBuildDate><item><title> ()</title><link>https://www.artificialintelligence-news.com/feed/rss/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/feed/rss/</guid></item><item><title>MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling) (AI | VentureBeat)</title><link>https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool</link><description>[unable to retrieve full-text content]&lt;p&gt;Watch out, DeepSeek and Qwen! There&amp;#x27;s a new king of open source large language models (LLMs), especially when it comes to something enterprises are increasingly valuing: agentic tool use — that is, the ability to go off and use other software capabilities like web search or bespoke applications — without much human guidance. &lt;/p&gt;&lt;p&gt;That model is none other than &lt;a href="https://x.com/MiniMax__AI/status/1982674798649160175"&gt;&lt;b&gt;MiniMax-M2&lt;/b&gt;&lt;/a&gt;, the latest LLM from the Chinese startup of the same name. And in a big win for enterprises globally, the model is available under a permissive, enterprise-friendly MIT License, meaning it is made available freely for developers to take, deploy, retrain, and use how they see fit — even for commercial purposes. It can be found on &lt;a href="https://huggingface.co/MiniMaxAI/MiniMax-M2"&gt;Hugging Face&lt;/a&gt;, &lt;a href="https://github.com/MiniMax-AI/MiniMax-M2"&gt;GitHub&lt;/a&gt; and &lt;a href="https://www.modelscope.cn/models/MiniMax/MiniMax-M2"&gt;ModelScope&lt;/a&gt;, as well as through&lt;a href="https://platform.minimax.io/docs/guides/text-generation"&gt; MiniMax&amp;#x27;s API here.&lt;/a&gt; It supports OpenAI and Anthropic API standards, as well, making it easy for customers of said proprietary AI startups to shift out their models to MiniMax&amp;#x27;s API, if they want.&lt;/p&gt;&lt;p&gt;According to &lt;a href="https://x.com/ArtificialAnlys/status/1982714153375854998"&gt;independent evaluations by Artificial Analysis&lt;/a&gt;, a third-party generative AI model benchmarking and research organization, M2 now ranks first among all open-weight systems worldwide on the Intelligence Index—a composite measure of reasoning, coding, and task-execution performance. &lt;/p&gt;&lt;p&gt;In agentic benchmarks that measure how well a model can plan, execute, and use external tools—skills that power coding assistants and autonomous agents—MiniMax’s own reported results, following the Artificial Analysis methodology, show τ²-Bench 77.2, BrowseComp 44.0, and FinSearchComp-global 65.5. &lt;/p&gt;&lt;p&gt;These scores place it at or near the level of top proprietary systems like GPT-5 (thinking) and Claude Sonnet 4.5, making &lt;b&gt;MiniMax-M2 the highest-performing open model yet released for real-world agentic and tool-calling tasks.&lt;/b&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;What It Means For Enterprises and the AI Race&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Built around an efficient Mixture-of-Experts (MoE) architecture, MiniMax-M2 delivers high-end capability for agentic and developer workflows while remaining practical for enterprise deployment.&lt;/p&gt;&lt;p&gt;For technical decision-makers, the release marks an important turning point for open models in business settings. MiniMax-M2 combines frontier-level reasoning with a manageable activation footprint—just 10 billion active parameters out of 230 billion total. &lt;/p&gt;&lt;p&gt;This design enables enterprises to operate advanced reasoning and automation workloads on fewer GPUs, achieving near-state-of-the-art results without the infrastructure demands or licensing costs associated with proprietary frontier systems.&lt;/p&gt;&lt;p&gt;Artificial Analysis’ data show that MiniMax-M2’s strengths go beyond raw intelligence scores. The model leads or closely trails top proprietary systems such as GPT-5 (thinking) and Claude Sonnet 4.5 across benchmarks for end-to-end coding, reasoning, and agentic tool use. &lt;/p&gt;&lt;p&gt;Its performance in τ²-Bench, SWE-Bench, and BrowseComp indicates particular advantages for organizations that depend on AI systems capable of planning, executing, and verifying complex workflows—key functions for agentic and developer tools inside enterprise environments.&lt;/p&gt;&lt;p&gt;As LLM engineer Pierre-Carl Langlais aka &lt;a href="https://x.com/Dorialexander/status/1982761110228127954"&gt;Alexander Doria posted on X&lt;/a&gt;: &amp;quot;MiniMax [is] making a case for mastering the technology end-to-end to get actual agentic automation.&amp;quot;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Compact Design, Scalable Performance&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;MiniMax-M2’s technical architecture is a sparse Mixture-of-Experts model with 230 billion total parameters and 10 billion active per inference. &lt;/p&gt;&lt;p&gt;This configuration significantly reduces latency and compute requirements while maintaining broad general intelligence. &lt;/p&gt;&lt;p&gt;The design allows for responsive agent loops—compile–run–test or browse–retrieve–cite cycles—that execute faster and more predictably than denser models.&lt;/p&gt;&lt;p&gt;For enterprise technology teams, this means easier scaling, lower cloud costs, and reduced deployment friction.&lt;b&gt; &lt;/b&gt;According to Artificial Analysis, &lt;b&gt;the model can be served efficiently on as few as four NVIDIA H100 GPUs at FP8 precision&lt;/b&gt;, a setup well within reach for mid-size organizations or departmental AI clusters.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Benchmark Leadership Across Agentic and Coding Workflows&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;MiniMax’s benchmark suite highlights strong real-world performance across developer and agent environments. The figure below, released with the model, compares MiniMax-M2 (in red) with several leading proprietary and open models, including GPT-5 (thinking), Claude Sonnet 4.5, Gemini 2.5 Pro, and DeepSeek-V3.2.&lt;/p&gt;&lt;p&gt;MiniMax-M2 achieves top or near-top performance in many categories:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;SWE-bench Verified: 69.4 — close to GPT-5’s 74.9&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ArtifactsBench: 66.8 — above Claude Sonnet 4.5 and DeepSeek-V3.2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;τ²-Bench: 77.2 — approaching GPT-5’s 80.1&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;GAIA (text only): 75.7 — surpassing DeepSeek-V3.2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;BrowseComp: 44.0 — notably stronger than other open models&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;FinSearchComp-global: 65.5 — best among tested open-weight systems&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;These results show MiniMax-M2’s capability in executing complex, tool-augmented tasks across multiple languages and environments—skills increasingly relevant for automated support, R&amp;amp;D, and data analysis inside enterprises.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Strong Showing in Artificial Analysis’ Intelligence Index&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;The model’s overall intelligence profile is confirmed in the latest &lt;b&gt;Artificial Analysis Intelligence Index v3.0&lt;/b&gt;, which aggregates performance across ten reasoning benchmarks including MMLU-Pro, GPQA Diamond, AIME 2025, IFBench, and τ²-Bench Telecom.&lt;/p&gt;&lt;p&gt;&lt;b&gt;MiniMax-M2 scored 61 points&lt;/b&gt;, ranking as the highest open-weight model globally and following closely behind GPT-5 (high) and Grok 4. &lt;/p&gt;&lt;p&gt;Artificial Analysis highlighted the model’s balance between technical accuracy, reasoning depth, and applied intelligence across domains. For enterprise users, this consistency indicates a reliable model foundation suitable for integration into software engineering, customer support, or knowledge automation systems.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Designed for Developers and Agentic Systems&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;MiniMax engineered M2 for end-to-end developer workflows, enabling multi-file code edits, automated testing, and regression repair directly within integrated development environments or CI/CD pipelines. &lt;/p&gt;&lt;p&gt;The model also excels in agentic planning—handling tasks that combine web search, command execution, and API calls while maintaining reasoning traceability.&lt;/p&gt;&lt;p&gt;These capabilities make MiniMax-M2 especially valuable for enterprises exploring autonomous developer agents, data analysis assistants, or AI-augmented operational tools. &lt;/p&gt;&lt;p&gt;Benchmarks such as Terminal-Bench and BrowseComp demonstrate the model’s ability to adapt to incomplete data and recover gracefully from intermediate errors, improving reliability in production settings.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Interleaved Thinking and Structured Tool Use&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;A distinctive aspect of MiniMax-M2 is its interleaved thinking format, which maintains visible reasoning traces between &amp;lt;think&amp;gt;...&amp;lt;/think&amp;gt; tags.&lt;/p&gt;&lt;p&gt;This enables the model to plan and verify steps across multiple exchanges, a critical feature for agentic reasoning. MiniMax advises retaining these segments when passing conversation history to preserve the model’s logic and continuity.&lt;/p&gt;&lt;p&gt;The company also provides a &lt;a href="https://huggingface.co/MiniMaxAI/MiniMax-M2/blob/main/docs/tool_calling_guide.md"&gt;Tool Calling Guide&lt;/a&gt; on Hugging Face, detailing how developers can connect external tools and APIs via structured XML-style calls. &lt;/p&gt;&lt;p&gt;This functionality allows MiniMax-M2 to serve as the reasoning core for larger agent frameworks, executing dynamic tasks such as search, retrieval, and computation through external functions.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Open Source Access and Enterprise Deployment Options&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Enterprises can access the model through the &lt;a href="https://platform.minimax.io/docs/guides/platform-intro"&gt;MiniMax Open Platform API &lt;/a&gt;and &lt;a href="https://agent.minimax.io/"&gt;MiniMax Agent interface&lt;/a&gt; (a web chat similar to ChatGPT), both currently free for a limited time.&lt;/p&gt;&lt;p&gt;MiniMax recommends SGLang and vLLM for efficient serving, each offering day-one support for the model’s unique interleaved reasoning and tool-calling structure. &lt;/p&gt;&lt;p&gt;Deployment guides and parameter configurations are available through MiniMax’s documentation.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Cost Efficiency and Token Economics&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;As Artificial Analysis noted, &lt;a href="https://platform.minimax.io/docs/guides/pricing?key=68c79eb793ce7d2b318c5975"&gt;MiniMax’s API pricing&lt;/a&gt; is set at &lt;b&gt;$0.30 per million input tokens&lt;/b&gt; and &lt;b&gt;$1.20 per million output tokens&lt;/b&gt;, among the most competitive in the open-model ecosystem. &lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Provider&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Model (doc link)&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Input $/1M&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Output $/1M&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Notes&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;MiniMax&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://www.minimax.io/platform/document/pricing?key=68c79eb793ce7d2b318c5975"&gt;MiniMax-M2&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.30&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$1.20&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Listed under “Chat Completion v2” for M2. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;OpenAI&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://openai.com/api/pricing/"&gt;GPT-5&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$1.25&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$10.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Flagship model pricing on OpenAI’s API pricing page. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;OpenAI&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://openai.com/api/pricing/"&gt;GPT-5 mini&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.25&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$2.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Cheaper tier for well-defined tasks. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Anthropic&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://docs.claude.com/en/docs/about-claude/pricing"&gt;Claude Sonnet 4.5&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$3.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$15.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Anthropic’s current per-MTok list; long-context (&amp;gt;200K input) uses a premium tier. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Google&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://ai.google.dev/gemini-api/docs/pricing"&gt;Gemini 2.5 Flash (Preview)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.30&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$2.50&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Prices include “thinking tokens”; page also lists cheaper Flash-Lite and 2.0 tiers. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;xAI&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://x.ai/api"&gt;Grok-4 Fast (reasoning)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.20&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.50&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;“Fast” tier; xAI also lists Grok-4 at $3 / $15. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;DeepSeek&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://api-docs.deepseek.com/quick_start/pricing"&gt;DeepSeek-V3.2 (chat)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.28&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.42&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Cache-hit input is $0.028; table shows per-model details. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Qwen (Alibaba)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://www.alibabacloud.com/help/en/model-studio/models"&gt;qwen-flash (Model Studio)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;from $0.022&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;from $0.216&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Tiered by input size (≤128K, ≤256K, ≤1M tokens); listed “Input price / Output price per 1M”. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Cohere&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://cohere.com/pricing"&gt;Command R+ (Aug 2024)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$2.50&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$10.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;First-party pricing page also lists Command R ($0.50 / $1.50) and others. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;Notes &amp;amp; caveats (for readers):&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Prices are USD per &lt;b&gt;million&lt;/b&gt; tokens and can change; check linked pages for updates and region/endpoint nuances (e.g., Anthropic long-context &amp;gt;200K input, Google Live API variants, cache discounts). &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vendors may bill extra for server-side tools (web search, code execution) or offer batch/context-cache discounts. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;While the model produces longer, more explicit reasoning traces, its sparse activation and optimized compute design help maintain a favorable cost-performance balance—an advantage for teams deploying interactive agents or high-volume automation systems.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Background on MiniMax — an Emerging Chinese Powerhouse&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;MiniMax has quickly become one of the most closely watched names in China’s fast-rising AI sector. &lt;/p&gt;&lt;p&gt;Backed by Alibaba and Tencent, the company moved from relative obscurity to international recognition within a year—first through breakthroughs in AI video generation, then through a series of open-weight large language models (LLMs) aimed squarely at developers and enterprises.&lt;/p&gt;&lt;p&gt;The company first captured &lt;a href="https://venturebeat.com/ai/minimaxs-ai-video-tool-can-create-star-wars-battles-in-seconds-heres-why-that-matters"&gt;global attention in late 2024 with its AI video generation tool&lt;/a&gt;, “video-01,” which demonstrated the ability to create dynamic, cinematic scenes in seconds. VentureBeat described how the model’s launch sparked widespread interest after online creators began sharing lifelike, AI-generated footage—most memorably, a viral clip of a &lt;i&gt;Star Wars&lt;/i&gt; lightsaber duel that drew millions of views in under two days. &lt;/p&gt;&lt;p&gt;CEO Yan Junjie emphasized that the system outperformed leading Western tools in generating human movement and expression, an area where video AIs often struggle. The product, later commercialized through MiniMax’s &lt;i&gt;Hailuo&lt;/i&gt; platform, showcased the startup’s technical confidence and creative reach, helping to establish China as a serious contender in generative video technology.&lt;/p&gt;&lt;p&gt;By early 2025, MiniMax had turned its attention to long-context language modeling, unveiling the &lt;a href="https://venturebeat.com/ai/minimax-unveils-its-own-open-source-llm-with-industry-leading-4m-token-context"&gt;MiniMax-01 series, including MiniMax-Text-01 and MiniMax-VL-01&lt;/a&gt;. These open-weight models introduced an unprecedented 4-million-token context window, doubling the reach of Google’s Gemini 1.5 Pro and dwarfing OpenAI’s GPT-4o by more than twentyfold. &lt;/p&gt;&lt;p&gt;The company continued its rapid cadence with the &lt;a href="https://venturebeat.com/ai/minimax-m1-is-a-new-open-source-model-with-1-million-token-context-and-new-hyper-efficient-reinforcement-learning"&gt;MiniMax-M1 release in June 2025&lt;/a&gt;, a model focused on long-context reasoning and reinforcement learning efficiency. M1 extended context capacity to 1 million tokens and introduced a hybrid Mixture-of-Experts design trained using a custom reinforcement-learning algorithm known as CISPO. Remarkably, VentureBeat reported that MiniMax trained M1 at a total cost of about $534,700, roughly one-tenth of DeepSeek’s R1 and far below the multimillion-dollar budgets typical for frontier-scale models. &lt;/p&gt;&lt;p&gt;For enterprises and technical teams, MiniMax’s trajectory signals the arrival of a new generation of cost-efficient, open-weight models designed for real-world deployment. Its open licensing—ranging from Apache 2.0 to MIT—gives businesses freedom to customize, self-host, and fine-tune without vendor lock-in or compliance restrictions. &lt;/p&gt;&lt;p&gt;Features such as structured function calling, long-context retention, and high-efficiency attention architectures directly address the needs of engineering groups managing multi-step reasoning systems and data-intensive pipelines.&lt;/p&gt;&lt;p&gt;As MiniMax continues to expand its lineup, the company has emerged as a key global innovator in open-weight AI, combining ambitious research with pragmatic engineering. &lt;/p&gt;&lt;h3&gt;&lt;b&gt;Open-Weight Leadership and Industry Context&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;The release of MiniMax-M2 reinforces the growing leadership of Chinese AI research groups in open-weight model development. &lt;/p&gt;&lt;p&gt;Following earlier contributions from DeepSeek, Alibaba’s Qwen series, and Moonshot AI, MiniMax’s entry continues the trend toward open, efficient systems designed for real-world use. &lt;/p&gt;&lt;p&gt;Artificial Analysis observed that MiniMax-M2 exemplifies a broader shift in focus toward agentic capability and reinforcement-learning refinement, prioritizing controllable reasoning and real utility over raw model size.&lt;/p&gt;&lt;p&gt;For enterprises, this means access to a state-of-the-art open model that can be audited, fine-tuned, and deployed internally with full transparency. &lt;/p&gt;&lt;p&gt;By pairing strong benchmark performance with open licensing and efficient scaling, MiniMaxAI positions MiniMax-M2 as a practical foundation for intelligent systems that think, act, and assist with traceable logic—making it one of the most enterprise-ready open AI models available today.&lt;/p&gt;</description><content:encoded>[unable to retrieve full-text content]&lt;p&gt;Watch out, DeepSeek and Qwen! There&amp;#x27;s a new king of open source large language models (LLMs), especially when it comes to something enterprises are increasingly valuing: agentic tool use — that is, the ability to go off and use other software capabilities like web search or bespoke applications — without much human guidance. &lt;/p&gt;&lt;p&gt;That model is none other than &lt;a href="https://x.com/MiniMax__AI/status/1982674798649160175"&gt;&lt;b&gt;MiniMax-M2&lt;/b&gt;&lt;/a&gt;, the latest LLM from the Chinese startup of the same name. And in a big win for enterprises globally, the model is available under a permissive, enterprise-friendly MIT License, meaning it is made available freely for developers to take, deploy, retrain, and use how they see fit — even for commercial purposes. It can be found on &lt;a href="https://huggingface.co/MiniMaxAI/MiniMax-M2"&gt;Hugging Face&lt;/a&gt;, &lt;a href="https://github.com/MiniMax-AI/MiniMax-M2"&gt;GitHub&lt;/a&gt; and &lt;a href="https://www.modelscope.cn/models/MiniMax/MiniMax-M2"&gt;ModelScope&lt;/a&gt;, as well as through&lt;a href="https://platform.minimax.io/docs/guides/text-generation"&gt; MiniMax&amp;#x27;s API here.&lt;/a&gt; It supports OpenAI and Anthropic API standards, as well, making it easy for customers of said proprietary AI startups to shift out their models to MiniMax&amp;#x27;s API, if they want.&lt;/p&gt;&lt;p&gt;According to &lt;a href="https://x.com/ArtificialAnlys/status/1982714153375854998"&gt;independent evaluations by Artificial Analysis&lt;/a&gt;, a third-party generative AI model benchmarking and research organization, M2 now ranks first among all open-weight systems worldwide on the Intelligence Index—a composite measure of reasoning, coding, and task-execution performance. &lt;/p&gt;&lt;p&gt;In agentic benchmarks that measure how well a model can plan, execute, and use external tools—skills that power coding assistants and autonomous agents—MiniMax’s own reported results, following the Artificial Analysis methodology, show τ²-Bench 77.2, BrowseComp 44.0, and FinSearchComp-global 65.5. &lt;/p&gt;&lt;p&gt;These scores place it at or near the level of top proprietary systems like GPT-5 (thinking) and Claude Sonnet 4.5, making &lt;b&gt;MiniMax-M2 the highest-performing open model yet released for real-world agentic and tool-calling tasks.&lt;/b&gt;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;What It Means For Enterprises and the AI Race&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Built around an efficient Mixture-of-Experts (MoE) architecture, MiniMax-M2 delivers high-end capability for agentic and developer workflows while remaining practical for enterprise deployment.&lt;/p&gt;&lt;p&gt;For technical decision-makers, the release marks an important turning point for open models in business settings. MiniMax-M2 combines frontier-level reasoning with a manageable activation footprint—just 10 billion active parameters out of 230 billion total. &lt;/p&gt;&lt;p&gt;This design enables enterprises to operate advanced reasoning and automation workloads on fewer GPUs, achieving near-state-of-the-art results without the infrastructure demands or licensing costs associated with proprietary frontier systems.&lt;/p&gt;&lt;p&gt;Artificial Analysis’ data show that MiniMax-M2’s strengths go beyond raw intelligence scores. The model leads or closely trails top proprietary systems such as GPT-5 (thinking) and Claude Sonnet 4.5 across benchmarks for end-to-end coding, reasoning, and agentic tool use. &lt;/p&gt;&lt;p&gt;Its performance in τ²-Bench, SWE-Bench, and BrowseComp indicates particular advantages for organizations that depend on AI systems capable of planning, executing, and verifying complex workflows—key functions for agentic and developer tools inside enterprise environments.&lt;/p&gt;&lt;p&gt;As LLM engineer Pierre-Carl Langlais aka &lt;a href="https://x.com/Dorialexander/status/1982761110228127954"&gt;Alexander Doria posted on X&lt;/a&gt;: &amp;quot;MiniMax [is] making a case for mastering the technology end-to-end to get actual agentic automation.&amp;quot;&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Compact Design, Scalable Performance&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;MiniMax-M2’s technical architecture is a sparse Mixture-of-Experts model with 230 billion total parameters and 10 billion active per inference. &lt;/p&gt;&lt;p&gt;This configuration significantly reduces latency and compute requirements while maintaining broad general intelligence. &lt;/p&gt;&lt;p&gt;The design allows for responsive agent loops—compile–run–test or browse–retrieve–cite cycles—that execute faster and more predictably than denser models.&lt;/p&gt;&lt;p&gt;For enterprise technology teams, this means easier scaling, lower cloud costs, and reduced deployment friction.&lt;b&gt; &lt;/b&gt;According to Artificial Analysis, &lt;b&gt;the model can be served efficiently on as few as four NVIDIA H100 GPUs at FP8 precision&lt;/b&gt;, a setup well within reach for mid-size organizations or departmental AI clusters.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Benchmark Leadership Across Agentic and Coding Workflows&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;MiniMax’s benchmark suite highlights strong real-world performance across developer and agent environments. The figure below, released with the model, compares MiniMax-M2 (in red) with several leading proprietary and open models, including GPT-5 (thinking), Claude Sonnet 4.5, Gemini 2.5 Pro, and DeepSeek-V3.2.&lt;/p&gt;&lt;p&gt;MiniMax-M2 achieves top or near-top performance in many categories:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;SWE-bench Verified: 69.4 — close to GPT-5’s 74.9&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;ArtifactsBench: 66.8 — above Claude Sonnet 4.5 and DeepSeek-V3.2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;τ²-Bench: 77.2 — approaching GPT-5’s 80.1&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;GAIA (text only): 75.7 — surpassing DeepSeek-V3.2&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;BrowseComp: 44.0 — notably stronger than other open models&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;FinSearchComp-global: 65.5 — best among tested open-weight systems&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;These results show MiniMax-M2’s capability in executing complex, tool-augmented tasks across multiple languages and environments—skills increasingly relevant for automated support, R&amp;amp;D, and data analysis inside enterprises.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Strong Showing in Artificial Analysis’ Intelligence Index&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;The model’s overall intelligence profile is confirmed in the latest &lt;b&gt;Artificial Analysis Intelligence Index v3.0&lt;/b&gt;, which aggregates performance across ten reasoning benchmarks including MMLU-Pro, GPQA Diamond, AIME 2025, IFBench, and τ²-Bench Telecom.&lt;/p&gt;&lt;p&gt;&lt;b&gt;MiniMax-M2 scored 61 points&lt;/b&gt;, ranking as the highest open-weight model globally and following closely behind GPT-5 (high) and Grok 4. &lt;/p&gt;&lt;p&gt;Artificial Analysis highlighted the model’s balance between technical accuracy, reasoning depth, and applied intelligence across domains. For enterprise users, this consistency indicates a reliable model foundation suitable for integration into software engineering, customer support, or knowledge automation systems.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Designed for Developers and Agentic Systems&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;MiniMax engineered M2 for end-to-end developer workflows, enabling multi-file code edits, automated testing, and regression repair directly within integrated development environments or CI/CD pipelines. &lt;/p&gt;&lt;p&gt;The model also excels in agentic planning—handling tasks that combine web search, command execution, and API calls while maintaining reasoning traceability.&lt;/p&gt;&lt;p&gt;These capabilities make MiniMax-M2 especially valuable for enterprises exploring autonomous developer agents, data analysis assistants, or AI-augmented operational tools. &lt;/p&gt;&lt;p&gt;Benchmarks such as Terminal-Bench and BrowseComp demonstrate the model’s ability to adapt to incomplete data and recover gracefully from intermediate errors, improving reliability in production settings.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Interleaved Thinking and Structured Tool Use&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;A distinctive aspect of MiniMax-M2 is its interleaved thinking format, which maintains visible reasoning traces between &amp;lt;think&amp;gt;...&amp;lt;/think&amp;gt; tags.&lt;/p&gt;&lt;p&gt;This enables the model to plan and verify steps across multiple exchanges, a critical feature for agentic reasoning. MiniMax advises retaining these segments when passing conversation history to preserve the model’s logic and continuity.&lt;/p&gt;&lt;p&gt;The company also provides a &lt;a href="https://huggingface.co/MiniMaxAI/MiniMax-M2/blob/main/docs/tool_calling_guide.md"&gt;Tool Calling Guide&lt;/a&gt; on Hugging Face, detailing how developers can connect external tools and APIs via structured XML-style calls. &lt;/p&gt;&lt;p&gt;This functionality allows MiniMax-M2 to serve as the reasoning core for larger agent frameworks, executing dynamic tasks such as search, retrieval, and computation through external functions.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Open Source Access and Enterprise Deployment Options&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;Enterprises can access the model through the &lt;a href="https://platform.minimax.io/docs/guides/platform-intro"&gt;MiniMax Open Platform API &lt;/a&gt;and &lt;a href="https://agent.minimax.io/"&gt;MiniMax Agent interface&lt;/a&gt; (a web chat similar to ChatGPT), both currently free for a limited time.&lt;/p&gt;&lt;p&gt;MiniMax recommends SGLang and vLLM for efficient serving, each offering day-one support for the model’s unique interleaved reasoning and tool-calling structure. &lt;/p&gt;&lt;p&gt;Deployment guides and parameter configurations are available through MiniMax’s documentation.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Cost Efficiency and Token Economics&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;As Artificial Analysis noted, &lt;a href="https://platform.minimax.io/docs/guides/pricing?key=68c79eb793ce7d2b318c5975"&gt;MiniMax’s API pricing&lt;/a&gt; is set at &lt;b&gt;$0.30 per million input tokens&lt;/b&gt; and &lt;b&gt;$1.20 per million output tokens&lt;/b&gt;, among the most competitive in the open-model ecosystem. &lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Provider&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Model (doc link)&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Input $/1M&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Output $/1M&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;Notes&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;MiniMax&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://www.minimax.io/platform/document/pricing?key=68c79eb793ce7d2b318c5975"&gt;MiniMax-M2&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.30&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$1.20&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Listed under “Chat Completion v2” for M2. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;OpenAI&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://openai.com/api/pricing/"&gt;GPT-5&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$1.25&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$10.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Flagship model pricing on OpenAI’s API pricing page. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;OpenAI&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://openai.com/api/pricing/"&gt;GPT-5 mini&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.25&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$2.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Cheaper tier for well-defined tasks. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Anthropic&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://docs.claude.com/en/docs/about-claude/pricing"&gt;Claude Sonnet 4.5&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$3.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$15.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Anthropic’s current per-MTok list; long-context (&amp;gt;200K input) uses a premium tier. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Google&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://ai.google.dev/gemini-api/docs/pricing"&gt;Gemini 2.5 Flash (Preview)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.30&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$2.50&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Prices include “thinking tokens”; page also lists cheaper Flash-Lite and 2.0 tiers. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;xAI&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://x.ai/api"&gt;Grok-4 Fast (reasoning)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.20&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.50&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;“Fast” tier; xAI also lists Grok-4 at $3 / $15. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;DeepSeek&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://api-docs.deepseek.com/quick_start/pricing"&gt;DeepSeek-V3.2 (chat)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.28&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$0.42&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Cache-hit input is $0.028; table shows per-model details. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Qwen (Alibaba)&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://www.alibabacloud.com/help/en/model-studio/models"&gt;qwen-flash (Model Studio)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;from $0.022&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;from $0.216&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Tiered by input size (≤128K, ≤256K, ≤1M tokens); listed “Input price / Output price per 1M”. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Cohere&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;a href="https://cohere.com/pricing"&gt;Command R+ (Aug 2024)&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$2.50&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;b&gt;$10.00&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;First-party pricing page also lists Command R ($0.50 / $1.50) and others. &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;Notes &amp;amp; caveats (for readers):&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Prices are USD per &lt;b&gt;million&lt;/b&gt; tokens and can change; check linked pages for updates and region/endpoint nuances (e.g., Anthropic long-context &amp;gt;200K input, Google Live API variants, cache discounts). &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vendors may bill extra for server-side tools (web search, code execution) or offer batch/context-cache discounts. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;While the model produces longer, more explicit reasoning traces, its sparse activation and optimized compute design help maintain a favorable cost-performance balance—an advantage for teams deploying interactive agents or high-volume automation systems.&lt;/p&gt;&lt;h3&gt;&lt;b&gt;Background on MiniMax — an Emerging Chinese Powerhouse&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;MiniMax has quickly become one of the most closely watched names in China’s fast-rising AI sector. &lt;/p&gt;&lt;p&gt;Backed by Alibaba and Tencent, the company moved from relative obscurity to international recognition within a year—first through breakthroughs in AI video generation, then through a series of open-weight large language models (LLMs) aimed squarely at developers and enterprises.&lt;/p&gt;&lt;p&gt;The company first captured &lt;a href="https://venturebeat.com/ai/minimaxs-ai-video-tool-can-create-star-wars-battles-in-seconds-heres-why-that-matters"&gt;global attention in late 2024 with its AI video generation tool&lt;/a&gt;, “video-01,” which demonstrated the ability to create dynamic, cinematic scenes in seconds. VentureBeat described how the model’s launch sparked widespread interest after online creators began sharing lifelike, AI-generated footage—most memorably, a viral clip of a &lt;i&gt;Star Wars&lt;/i&gt; lightsaber duel that drew millions of views in under two days. &lt;/p&gt;&lt;p&gt;CEO Yan Junjie emphasized that the system outperformed leading Western tools in generating human movement and expression, an area where video AIs often struggle. The product, later commercialized through MiniMax’s &lt;i&gt;Hailuo&lt;/i&gt; platform, showcased the startup’s technical confidence and creative reach, helping to establish China as a serious contender in generative video technology.&lt;/p&gt;&lt;p&gt;By early 2025, MiniMax had turned its attention to long-context language modeling, unveiling the &lt;a href="https://venturebeat.com/ai/minimax-unveils-its-own-open-source-llm-with-industry-leading-4m-token-context"&gt;MiniMax-01 series, including MiniMax-Text-01 and MiniMax-VL-01&lt;/a&gt;. These open-weight models introduced an unprecedented 4-million-token context window, doubling the reach of Google’s Gemini 1.5 Pro and dwarfing OpenAI’s GPT-4o by more than twentyfold. &lt;/p&gt;&lt;p&gt;The company continued its rapid cadence with the &lt;a href="https://venturebeat.com/ai/minimax-m1-is-a-new-open-source-model-with-1-million-token-context-and-new-hyper-efficient-reinforcement-learning"&gt;MiniMax-M1 release in June 2025&lt;/a&gt;, a model focused on long-context reasoning and reinforcement learning efficiency. M1 extended context capacity to 1 million tokens and introduced a hybrid Mixture-of-Experts design trained using a custom reinforcement-learning algorithm known as CISPO. Remarkably, VentureBeat reported that MiniMax trained M1 at a total cost of about $534,700, roughly one-tenth of DeepSeek’s R1 and far below the multimillion-dollar budgets typical for frontier-scale models. &lt;/p&gt;&lt;p&gt;For enterprises and technical teams, MiniMax’s trajectory signals the arrival of a new generation of cost-efficient, open-weight models designed for real-world deployment. Its open licensing—ranging from Apache 2.0 to MIT—gives businesses freedom to customize, self-host, and fine-tune without vendor lock-in or compliance restrictions. &lt;/p&gt;&lt;p&gt;Features such as structured function calling, long-context retention, and high-efficiency attention architectures directly address the needs of engineering groups managing multi-step reasoning systems and data-intensive pipelines.&lt;/p&gt;&lt;p&gt;As MiniMax continues to expand its lineup, the company has emerged as a key global innovator in open-weight AI, combining ambitious research with pragmatic engineering. &lt;/p&gt;&lt;h3&gt;&lt;b&gt;Open-Weight Leadership and Industry Context&lt;/b&gt;&lt;/h3&gt;&lt;p&gt;The release of MiniMax-M2 reinforces the growing leadership of Chinese AI research groups in open-weight model development. &lt;/p&gt;&lt;p&gt;Following earlier contributions from DeepSeek, Alibaba’s Qwen series, and Moonshot AI, MiniMax’s entry continues the trend toward open, efficient systems designed for real-world use. &lt;/p&gt;&lt;p&gt;Artificial Analysis observed that MiniMax-M2 exemplifies a broader shift in focus toward agentic capability and reinforcement-learning refinement, prioritizing controllable reasoning and real utility over raw model size.&lt;/p&gt;&lt;p&gt;For enterprises, this means access to a state-of-the-art open model that can be audited, fine-tuned, and deployed internally with full transparency. &lt;/p&gt;&lt;p&gt;By pairing strong benchmark performance with open licensing and efficient scaling, MiniMaxAI positions MiniMax-M2 as a practical foundation for intelligent systems that think, act, and assist with traceable logic—making it one of the most enterprise-ready open AI models available today.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool</guid><pubDate>Mon, 27 Oct 2025 19:01:00 +0000</pubDate></item><item><title>Fitbit’s revamped app, with Gemini-powered health coach, rolls out to Premium users (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/27/fitbits-revamped-app-with-gemini-powered-health-coach-rolls-out-to-premium-users/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Fitbit’s new Gemini-powered health coach, announced back in August, is becoming available as a public preview to Premium subscribers in the U.S. on Android starting tomorrow. It expands to iOS later this year.&amp;nbsp;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 28 Oct 2025 12:44:42 +0000</lastBuildDate><item><title> ()</title><link>https://www.artificialintelligence-news.com/feed/rss/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/feed/rss/</guid></item><item><title>[NEW] PayPal’s Agentic Commerce Play Shows Why Flexibility, Not Standards, Will Define the Next E-Commerce Wave (AI | VentureBeat)</title><link>https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will</link><description>[unable to retrieve full-text content]&lt;p&gt;While enterprises looking to sell goods and services online wait for the &lt;a href="https://venturebeat.com/ai/google-vs-openai-vs-visa-competing-agent-protocols-threaten-the-future-of-ai"&gt;&lt;u&gt;backbone of agentic commerce&lt;/u&gt;&lt;/a&gt; to be hashed out, &lt;a href="https://www.paypal.com/"&gt;&lt;u&gt;PayPal&lt;/u&gt;&lt;/a&gt; is hoping its new features will bridge the gap.&lt;/p&gt;&lt;p&gt;The payments company is launching a discoverability solution that allows enterprises to make its product available on any chat platform, regardless of the model or agent payment protocol. &lt;/p&gt;&lt;p&gt;PayPal, which is one of the participants for &lt;a href="https://www.google.com/"&gt;&lt;u&gt;Google&lt;/u&gt;&lt;/a&gt;’s &lt;a href="https://venturebeat.com/ai/googles-new-agent-payments-protocol-ap2-allows-ai-agents-to-complete"&gt;&lt;u&gt;Agent Payments Protocol (AP2)&lt;/u&gt;&lt;/a&gt;, found that it can leverage its relationship with merchants and enterprises to help pave the way for an easier transition into agentic commerce and offer the kind of flexibility they learned will benefit the ecosystem. &lt;/p&gt;&lt;p&gt;Michelle Gill, PayPal general manager for small business and financial services, told VentureBeat that AI-powered shopping will continue to grow, so enterprises and brands need to start laying the groundwork early. &lt;/p&gt;&lt;p&gt;“We think that merchants who&amp;#x27;ve historically sold through web stores, particularly in the e-commerce space, are really going to need a way to get active on all of these large language models,” Gill said. “The challenge is that no one really knows how fast all of this is going to move. The issue that we’re trying to help merchants think through is how to do all of this as low-touch as possible while using the infrastructure you already have without doing a bazillion integrations.”&lt;/p&gt;&lt;p&gt;She added AI shopping would also bring about “a resurgence from consumers trying to ensure their investment is protected.”&lt;/p&gt;&lt;p&gt;PayPal partnered with website builder &lt;a href="https://www.wix.com/"&gt;&lt;u&gt;Wix&lt;/u&gt;&lt;/a&gt;, &lt;a href="https://www.cym.bio/"&gt;&lt;u&gt;Cymbio&lt;/u&gt;&lt;/a&gt;, Commerce and &lt;a href="https://shopware.com/"&gt;&lt;u&gt;Shopware&lt;/u&gt;&lt;/a&gt; to bring products to chat platforms like &lt;a href="https://www.perplexity.ai/"&gt;&lt;u&gt;Perplexity&lt;/u&gt;&lt;/a&gt;. 
+&lt;/p&gt;&lt;h2&gt;Agent-powered shopping &lt;/h2&gt;&lt;p&gt;PayPal’s Agentic Commerce Services include two features. The first is Agent Ready, which would allow existing PayPal merchants to accept payments on AI platforms. The second is called Shop Sync, which will enable companies’ product data to be discoverable through different AI chat interfaces. It takes a company’s catalog information and plug its inventory and fulfillment data to chat platforms. &lt;/p&gt;&lt;p&gt;Gill said the data goes into a central repository where AI models can ingest the information. &lt;/p&gt;&lt;p&gt;Right now, companies can access shop sync with Agent Ready coming in 2026. &lt;/p&gt;&lt;p&gt;Gill said Agentic Commerce Services is a one-to-many solution, that would be helpful right now, as different LLMs scrape different data sources to surface information. &lt;/p&gt;&lt;p&gt;Other benefits include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fast integration with current and future partners&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;More product discovery over the traditional search, browse and cart experiences&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Preserved customer insights and relationships where the brand continues to have control over their records and communications with customers. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Right now, the service is only available through Perplexity, but Gill said more platforms will be added soon. 
+&lt;/p&gt;&lt;h2&gt;Fragmented AI platforms &lt;/h2&gt;&lt;p&gt;
+Agentic commerce is still very much in the early stages. AI agents are just beginning to get better at reading a browser. while platforms like ChatGPT, Gemini and Perplexity can now surface products and services based on user queries, people cannot technically buy things from chat yet.&lt;/p&gt;&lt;p&gt;There’s a race right now to create a standard to enable agents to transact on behalf of users and pay for items. Other than Google’s AP2, &lt;a href="https://openai.com/"&gt;&lt;u&gt;OpenAI&lt;/u&gt;&lt;/a&gt; and &lt;a href="https://stripe.com/"&gt;&lt;u&gt;Stripe&lt;/u&gt;&lt;/a&gt; have the &lt;a href="https://venturebeat.com/ai/openai-debuts-new-chatgpt-buy-button-and-open-source-agentic-commerce"&gt;&lt;u&gt;Agentic Commerce Protocol (ACP)&lt;/u&gt;&lt;/a&gt; and &lt;a href="https://usa.visa.com/"&gt;&lt;u&gt;Visa&lt;/u&gt;&lt;/a&gt; launched its &lt;a href="https://venturebeat.com/ai/visa-just-launched-a-protocol-to-secure-the-ai-shopping-boom-heres-what-it"&gt;&lt;u&gt;Trusted Agent Protocol&lt;/u&gt;&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;Other than enabling a trust layer for agents to transact, another issue enterprises face with agentic commerce is fragmentation. Different chat platforms use different models which also interpret information in slightly different ways. Gill said PayPal learned that when it comes to working with merchants, flexibility is important. &lt;/p&gt;&lt;p&gt;“How do you decide if you&amp;#x27;re going to spend your time integrating with Google, Microsoft, ChatGPT or Perplexity? And each one of them right now has a different protocol, a different catalog, config, a different everything. That is a lot of time to make a bet as to like where you should spend your time,” Gill said. &lt;/p&gt;&lt;p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;As the AI race heats up, Google is counting on the Gemini AI assistant to help Fitbit stand out from the crowd. Called “Coach,” this feature is designed to be your all-in-one fitness trainer, sleep coach, and health and wellness advisor.&lt;/p&gt;
 
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062686" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Ask_Coach.Fitbit.jpeg?w=310" width="310" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;At the recent Made by Google event, Google showcased Coach’s various capabilities, like how it can create a custom routine based on your goals, preferences, and available equipment. &lt;/p&gt;
 
+&lt;/p&gt;</description><content:encoded>[unable to retrieve full-text content]&lt;p&gt;While enterprises looking to sell goods and services online wait for the &lt;a href="https://venturebeat.com/ai/google-vs-openai-vs-visa-competing-agent-protocols-threaten-the-future-of-ai"&gt;&lt;u&gt;backbone of agentic commerce&lt;/u&gt;&lt;/a&gt; to be hashed out, &lt;a href="https://www.paypal.com/"&gt;&lt;u&gt;PayPal&lt;/u&gt;&lt;/a&gt; is hoping its new features will bridge the gap.&lt;/p&gt;&lt;p&gt;The payments company is launching a discoverability solution that allows enterprises to make its product available on any chat platform, regardless of the model or agent payment protocol. &lt;/p&gt;&lt;p&gt;PayPal, which is one of the participants for &lt;a href="https://www.google.com/"&gt;&lt;u&gt;Google&lt;/u&gt;&lt;/a&gt;’s &lt;a href="https://venturebeat.com/ai/googles-new-agent-payments-protocol-ap2-allows-ai-agents-to-complete"&gt;&lt;u&gt;Agent Payments Protocol (AP2)&lt;/u&gt;&lt;/a&gt;, found that it can leverage its relationship with merchants and enterprises to help pave the way for an easier transition into agentic commerce and offer the kind of flexibility they learned will benefit the ecosystem. &lt;/p&gt;&lt;p&gt;Michelle Gill, PayPal general manager for small business and financial services, told VentureBeat that AI-powered shopping will continue to grow, so enterprises and brands need to start laying the groundwork early. &lt;/p&gt;&lt;p&gt;“We think that merchants who&amp;#x27;ve historically sold through web stores, particularly in the e-commerce space, are really going to need a way to get active on all of these large language models,” Gill said. “The challenge is that no one really knows how fast all of this is going to move. The issue that we’re trying to help merchants think through is how to do all of this as low-touch as possible while using the infrastructure you already have without doing a bazillion integrations.”&lt;/p&gt;&lt;p&gt;She added AI shopping would also bring about “a resurgence from consumers trying to ensure their investment is protected.”&lt;/p&gt;&lt;p&gt;PayPal partnered with website builder &lt;a href="https://www.wix.com/"&gt;&lt;u&gt;Wix&lt;/u&gt;&lt;/a&gt;, &lt;a href="https://www.cym.bio/"&gt;&lt;u&gt;Cymbio&lt;/u&gt;&lt;/a&gt;, Commerce and &lt;a href="https://shopware.com/"&gt;&lt;u&gt;Shopware&lt;/u&gt;&lt;/a&gt; to bring products to chat platforms like &lt;a href="https://www.perplexity.ai/"&gt;&lt;u&gt;Perplexity&lt;/u&gt;&lt;/a&gt;. 
+&lt;/p&gt;&lt;h2&gt;Agent-powered shopping &lt;/h2&gt;&lt;p&gt;PayPal’s Agentic Commerce Services include two features. The first is Agent Ready, which would allow existing PayPal merchants to accept payments on AI platforms. The second is called Shop Sync, which will enable companies’ product data to be discoverable through different AI chat interfaces. It takes a company’s catalog information and plug its inventory and fulfillment data to chat platforms. &lt;/p&gt;&lt;p&gt;Gill said the data goes into a central repository where AI models can ingest the information. &lt;/p&gt;&lt;p&gt;Right now, companies can access shop sync with Agent Ready coming in 2026. &lt;/p&gt;&lt;p&gt;Gill said Agentic Commerce Services is a one-to-many solution, that would be helpful right now, as different LLMs scrape different data sources to surface information. &lt;/p&gt;&lt;p&gt;Other benefits include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fast integration with current and future partners&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;More product discovery over the traditional search, browse and cart experiences&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Preserved customer insights and relationships where the brand continues to have control over their records and communications with customers. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Right now, the service is only available through Perplexity, but Gill said more platforms will be added soon. 
+&lt;/p&gt;&lt;h2&gt;Fragmented AI platforms &lt;/h2&gt;&lt;p&gt;
+Agentic commerce is still very much in the early stages. AI agents are just beginning to get better at reading a browser. while platforms like ChatGPT, Gemini and Perplexity can now surface products and services based on user queries, people cannot technically buy things from chat yet.&lt;/p&gt;&lt;p&gt;There’s a race right now to create a standard to enable agents to transact on behalf of users and pay for items. Other than Google’s AP2, &lt;a href="https://openai.com/"&gt;&lt;u&gt;OpenAI&lt;/u&gt;&lt;/a&gt; and &lt;a href="https://stripe.com/"&gt;&lt;u&gt;Stripe&lt;/u&gt;&lt;/a&gt; have the &lt;a href="https://venturebeat.com/ai/openai-debuts-new-chatgpt-buy-button-and-open-source-agentic-commerce"&gt;&lt;u&gt;Agentic Commerce Protocol (ACP)&lt;/u&gt;&lt;/a&gt; and &lt;a href="https://usa.visa.com/"&gt;&lt;u&gt;Visa&lt;/u&gt;&lt;/a&gt; launched its &lt;a href="https://venturebeat.com/ai/visa-just-launched-a-protocol-to-secure-the-ai-shopping-boom-heres-what-it"&gt;&lt;u&gt;Trusted Agent Protocol&lt;/u&gt;&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;Other than enabling a trust layer for agents to transact, another issue enterprises face with agentic commerce is fragmentation. Different chat platforms use different models which also interpret information in slightly different ways. Gill said PayPal learned that when it comes to working with merchants, flexibility is important. &lt;/p&gt;&lt;p&gt;“How do you decide if you&amp;#x27;re going to spend your time integrating with Google, Microsoft, ChatGPT or Perplexity? And each one of them right now has a different protocol, a different catalog, config, a different everything. That is a lot of time to make a bet as to like where you should spend your time,” Gill said. &lt;/p&gt;&lt;p&gt;
 
 
 
 
-
-
-&lt;p class="wp-block-paragraph"&gt;For example, if you want to run longer distances without becoming winded, Coach will create a tailored fitness plan with suggestions and achievable targets. While you work out, it’ll adjust your exercise plan in real time based on feedback to keep you on track. And if you happen to get injured later in the week, the AI will modify the plan accordingly.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other capabilities include analyzing your sleep habits and providing insights into how to improve your sleep quality over time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While the focus will be on Coach, the Fitbit app also features a makeover with a sleek design that’s easier to navigate, organized around four main tabs: Today, Fitness, Sleep, and Health.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3062689" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Fitbit_Today_tab.jpeg?w=329" width="329" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Google published a demo video on its Made by Google channel on YouTube that explains each tab. The Today tab, for instance, serves as the central hub of the app, highlighting key focus metrics, weekly cardio load data, and any other relevant statistics you may want to glance at quickly. You can manually customize which metrics you want to view at any time.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Fitness tab, meanwhile, houses your workout plans and key metrics, such as your cardio goal and average weekly step count. However, keep in mind that several features are still unavailable, such as nutrition tracking and cycle logging.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062687" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Fitbit_Pixel_9_Pro_UI_Fitness.jpeg?w=329" width="329" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Additionally, the Sleep tab allows you to track your sleep patterns, with a new feature that provides AI Coach insights to help you enhance your sleep quality. At the bottom of the tab, a Sleep summary aggregates all information from your last night’s sleep, such as whether you experienced prolonged periods of wakefulness during the night.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062688" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Fitbit_Sleep.jpeg?w=329" width="329" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Health tab is dedicated to key metrics, providing quick access to vital signs such as breathing rate, blood oxygen saturation, and resting heart rate, offering a comprehensive overview of your health.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To check out the Coach preview on Android, you’ll need an active Fitbit Premium subscription and a compatible Fitbit smartwatch, tracker, or Pixel Watch.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Fitbit’s new Gemini-powered health coach, announced back in August, is becoming available as a public preview to Premium subscribers in the U.S. on Android starting tomorrow. It expands to iOS later this year.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As the AI race heats up, Google is counting on the Gemini AI assistant to help Fitbit stand out from the crowd. Called “Coach,” this feature is designed to be your all-in-one fitness trainer, sleep coach, and health and wellness advisor.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062686" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Ask_Coach.Fitbit.jpeg?w=310" width="310" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At the recent Made by Google event, Google showcased Coach’s various capabilities, like how it can create a custom routine based on your goals, preferences, and available equipment. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For example, if you want to run longer distances without becoming winded, Coach will create a tailored fitness plan with suggestions and achievable targets. While you work out, it’ll adjust your exercise plan in real time based on feedback to keep you on track. And if you happen to get injured later in the week, the AI will modify the plan accordingly.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other capabilities include analyzing your sleep habits and providing insights into how to improve your sleep quality over time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While the focus will be on Coach, the Fitbit app also features a makeover with a sleek design that’s easier to navigate, organized around four main tabs: Today, Fitness, Sleep, and Health.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-3062689" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Fitbit_Today_tab.jpeg?w=329" width="329" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Google published a demo video on its Made by Google channel on YouTube that explains each tab. The Today tab, for instance, serves as the central hub of the app, highlighting key focus metrics, weekly cardio load data, and any other relevant statistics you may want to glance at quickly. You can manually customize which metrics you want to view at any time.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Fitness tab, meanwhile, houses your workout plans and key metrics, such as your cardio goal and average weekly step count. However, keep in mind that several features are still unavailable, such as nutrition tracking and cycle logging.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062687" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Fitbit_Pixel_9_Pro_UI_Fitness.jpeg?w=329" width="329" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Additionally, the Sleep tab allows you to track your sleep patterns, with a new feature that provides AI Coach insights to help you enhance your sleep quality. At the bottom of the tab, a Sleep summary aggregates all information from your last night’s sleep, such as whether you experienced prolonged periods of wakefulness during the night.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062688" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Fitbit_Sleep.jpeg?w=329" width="329" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Health tab is dedicated to key metrics, providing quick access to vital signs such as breathing rate, blood oxygen saturation, and resting heart rate, offering a comprehensive overview of your health.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To check out the Coach preview on Android, you’ll need an active Fitbit Premium subscription and a compatible Fitbit smartwatch, tracker, or Pixel Watch.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/27/fitbits-revamped-app-with-gemini-powered-health-coach-rolls-out-to-premium-users/</guid><pubDate>Mon, 27 Oct 2025 19:11:50 +0000</pubDate></item><item><title>OpenAI says over a million people talk to ChatGPT about suicide weekly (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI released new data on Monday illustrating how many of ChatGPT’s users are struggling with mental health issues and talking to the AI chatbot about it. The company says that 0.15% of ChatGPT’s active users in a given week have “conversations that include explicit indicators of potential suicidal planning or intent.” Given that ChatGPT has more than 800 million weekly active users, that translates to more than a million people a week.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company says a similar percentage of users show “heightened levels of emotional attachment to ChatGPT,” and that hundreds of thousands of people show signs of psychosis or mania in their weekly conversations with the AI chatbot.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI says these types of conversations in ChatGPT are “extremely rare,” and thus difficult to measure. That said, the company estimates these issues affect hundreds of thousands of people every week.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI shared the information as part of a broader announcement about its recent efforts to improve how models respond to users with mental health issues. The company claims its latest work on ChatGPT involved consulting with more than 170 mental health experts. OpenAI says these clinicians observed that the latest version of ChatGPT “responds more appropriately and consistently than earlier versions.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In recent months, several stories have shed light on how AI chatbots can adversely affect users struggling with mental health challenges. Researchers have previously found that AI chatbots can lead some users down delusional rabbit holes, largely by reinforcing dangerous beliefs through sycophantic behavior.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Addressing mental health concerns in ChatGPT is quickly becoming an existential issue for OpenAI. The company is currently being sued by the parents of a 16-year-old boy who confided his suicidal thoughts to ChatGPT in the weeks leading up to his suicide. State attorneys general from California and Delaware — which could block the company’s planned restructuring — have also warned OpenAI that it needs to protect young people who use their products.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Earlier this month, OpenAI CEO Sam Altman claimed in a post on X that the company has “been able to mitigate the serious mental health issues” in ChatGPT, though he did not provide specifics. The data shared on Monday appears to be evidence for that claim, though it raises broader issues about how widespread the problem is. Nevertheless, Altman said OpenAI would be relaxing some restrictions, even allowing adult users to start having erotic conversations with the AI chatbot.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the Monday announcement, OpenAI claims the recently updated version of GPT-5 responds with “desirable responses” to mental health issues roughly 65% more than the previous version. On an evaluation testing AI responses around suicidal conversations, OpenAI says its new GPT-5 model is 91% compliant with the company’s desired behaviors, compared to 77% for the previous GPT‑5 model.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company also says its latest version of GPT-5 also holds up to OpenAI’s safeguards better in long conversations. OpenAI has previously flagged that its safeguards were less effective in long conversations.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On top of these efforts, OpenAI says it’s adding new evaluations to measure some of the most serious mental health challenges facing ChatGPT users. The company says its baseline safety testing for AI models will now include benchmarks for emotional reliance and non-suicidal mental health emergencies.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI has also recently rolled out more controls for parents of children who use ChatGPT. The company says it’s building an age prediction system to automatically detect children using ChatGPT, and impose a stricter set of safeguards.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Still, it’s unclear how persistent the mental health challenges around ChatGPT will be. While GPT-5 seems to be an improvement over previous AI models in terms of safety, there still seems to be a slice of ChatGPT’s responses that OpenAI deems “undesirable.” OpenAI also still makes its older and less-safe AI models, including GPT-4o, available for millions of its paying subscribers.&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;If you or someone you know needs help, call 1-800-273-8255 for the &lt;/em&gt;&lt;em&gt;National Suicide Prevention Lifeline&lt;/em&gt;&lt;em&gt;. You can also text HOME to 741-741 for free; text 988; or get 24-hour support from the &lt;/em&gt;&lt;em&gt;Crisis Text Line&lt;/em&gt;&lt;em&gt;. Outside of the U.S., please visit the &lt;/em&gt;&lt;em&gt;International Association for Suicide Prevention&lt;/em&gt;&lt;em&gt; for a database of resources.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI released new data on Monday illustrating how many of ChatGPT’s users are struggling with mental health issues and talking to the AI chatbot about it. The company says that 0.15% of ChatGPT’s active users in a given week have “conversations that include explicit indicators of potential suicidal planning or intent.” Given that ChatGPT has more than 800 million weekly active users, that translates to more than a million people a week.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company says a similar percentage of users show “heightened levels of emotional attachment to ChatGPT,” and that hundreds of thousands of people show signs of psychosis or mania in their weekly conversations with the AI chatbot.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI says these types of conversations in ChatGPT are “extremely rare,” and thus difficult to measure. That said, the company estimates these issues affect hundreds of thousands of people every week.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI shared the information as part of a broader announcement about its recent efforts to improve how models respond to users with mental health issues. The company claims its latest work on ChatGPT involved consulting with more than 170 mental health experts. OpenAI says these clinicians observed that the latest version of ChatGPT “responds more appropriately and consistently than earlier versions.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In recent months, several stories have shed light on how AI chatbots can adversely affect users struggling with mental health challenges. Researchers have previously found that AI chatbots can lead some users down delusional rabbit holes, largely by reinforcing dangerous beliefs through sycophantic behavior.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Addressing mental health concerns in ChatGPT is quickly becoming an existential issue for OpenAI. The company is currently being sued by the parents of a 16-year-old boy who confided his suicidal thoughts to ChatGPT in the weeks leading up to his suicide. State attorneys general from California and Delaware — which could block the company’s planned restructuring — have also warned OpenAI that it needs to protect young people who use their products.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Earlier this month, OpenAI CEO Sam Altman claimed in a post on X that the company has “been able to mitigate the serious mental health issues” in ChatGPT, though he did not provide specifics. The data shared on Monday appears to be evidence for that claim, though it raises broader issues about how widespread the problem is. Nevertheless, Altman said OpenAI would be relaxing some restrictions, even allowing adult users to start having erotic conversations with the AI chatbot.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the Monday announcement, OpenAI claims the recently updated version of GPT-5 responds with “desirable responses” to mental health issues roughly 65% more than the previous version. On an evaluation testing AI responses around suicidal conversations, OpenAI says its new GPT-5 model is 91% compliant with the company’s desired behaviors, compared to 77% for the previous GPT‑5 model.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company also says its latest version of GPT-5 also holds up to OpenAI’s safeguards better in long conversations. OpenAI has previously flagged that its safeguards were less effective in long conversations.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On top of these efforts, OpenAI says it’s adding new evaluations to measure some of the most serious mental health challenges facing ChatGPT users. The company says its baseline safety testing for AI models will now include benchmarks for emotional reliance and non-suicidal mental health emergencies.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI has also recently rolled out more controls for parents of children who use ChatGPT. The company says it’s building an age prediction system to automatically detect children using ChatGPT, and impose a stricter set of safeguards.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Still, it’s unclear how persistent the mental health challenges around ChatGPT will be. While GPT-5 seems to be an improvement over previous AI models in terms of safety, there still seems to be a slice of ChatGPT’s responses that OpenAI deems “undesirable.” OpenAI also still makes its older and less-safe AI models, including GPT-4o, available for millions of its paying subscribers.&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity" /&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;If you or someone you know needs help, call 1-800-273-8255 for the &lt;/em&gt;&lt;em&gt;National Suicide Prevention Lifeline&lt;/em&gt;&lt;em&gt;. You can also text HOME to 741-741 for free; text 988; or get 24-hour support from the &lt;/em&gt;&lt;em&gt;Crisis Text Line&lt;/em&gt;&lt;em&gt;. Outside of the U.S., please visit the &lt;/em&gt;&lt;em&gt;International Association for Suicide Prevention&lt;/em&gt;&lt;em&gt; for a database of resources.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/</guid><pubDate>Mon, 27 Oct 2025 19:19:44 +0000</pubDate></item><item><title>AI-powered search engines rely on “less popular” sources, researchers find (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Generative search engines often cite sites that wouldn’t appear in Google’s top 100 links.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="533" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-184366155-640x533.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-184366155-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Anyone can cite a popular source. I'm gonna go deeper!
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Since last year’s disastrous rollout of Google’s AI Overviews, the world at large has been aware of how AI-powered search results can differ wildly from the traditional list of links search engines have generated for decades. Now, new research helps quantify that difference, showing that AI search engines tend to cite less popular websites and ones that wouldn’t even appear in the Top 100 links listed in an “organic” Google search.&lt;/p&gt;
-&lt;p&gt;In the pre-print paper “Characterizing Web Search in The Age of Generative AI,” researchers from Ruhr University in Bochum, Germany, and the Max Planck Institute for Software Systems compared traditional link results from Google’s search engine to its AI Overviews and Gemini-2.5-Flash. The researchers also looked at GPT-4o’s web search mode and the separate “GPT-4o with Search Tool,” which resorts to searching the web only when the LLM decides it needs information found outside its own pre-trained data.&lt;/p&gt;
-&lt;p&gt;The researchers drew test queries from a number of sources, including specific questions submitted to ChatGPT in the WildChat dataset, general political topics listed on AllSides, and products included in the 100 most-searched Amazon products list.&lt;/p&gt;
-&lt;p&gt;Overall, the sources cited in results from the generative search tools tended to be from sites that were less popular than those that appeared in the top 10 of a traditional search, as measured by the domain-tracker Tranco. Sources cited by the AI engines were more likely than those linked in traditional Google searches to fall outside both the top 1,000 and top 1,000,000 domains tracked by Tranco. Gemini search in particular showed a tendency to cite unpopular domains, with the median source falling outside Tranco’s top 1,000 across all results.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2124346 align-fullwidth"&gt;
-    &lt;div&gt;
-              &lt;div class="ars-lightbox"&gt;
-          &lt;div class="ars-lightbox-item"&gt;
-            
-              &lt;img alt="alt" class="fullwidth full" height="449" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/aiosources.png" width="897" /&gt;
-            
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      A majority of the cited AI Overview sources don’t appear in the top 10 Google link results for the same query.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Kirsten et al
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;The sources cited by the AI-powered search engines also tended to be ones that wouldn’t appear anywhere near the top results for the same organic Google search. Fifty-three percent of the sources cited by Google’s AI Overviews, for instance, didn’t appear in the top 10 Google links for the same query, and 40 percent of those sources didn’t even fall in the top 100 Google links.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;h2&gt;OK, but which one is better?&lt;/h2&gt;
-&lt;p&gt;These differences don’t necessarily mean the AI-generated results are “worse,” of course. The researchers found that GPT-based searches were more likely to cite sources like corporate entities and encyclopedias for their information, for instance, while almost never citing social media websites.&lt;/p&gt;
-&lt;p&gt;An LLM-based analysis tool found that AI-powered search results also tended to cover a similar number of identifiable “concepts” as the traditional top 10 links, suggesting a similar level of detail, diversity, and novelty in the results. At the same time, the researchers found that “generative engines tend to compress information, sometimes omitting secondary or ambiguous aspects that traditional search retains.” That was especially true for more ambiguous search terms (such as names shared by different people), for which “organic search results provide better coverage,” the researchers found.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2124347 align-fullwidth"&gt;
-    &lt;div&gt;
-              &lt;div class="ars-lightbox"&gt;
-          &lt;div class="ars-lightbox-item"&gt;
-            
-              &lt;img alt="alt" class="fullwidth full" height="598" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/aipopularity.png" width="997" /&gt;
-            
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Google Gemini search in particular was more likely to cite low-popularity domains.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Kirsten et al
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;The AI search engines also arguably have an advantage in being able to weave pre-trained “internal knowledge” in with data culled from cited websites. That was especially true for GPT-4o with Search Tool, which often didn’t cite any web sources and simply provided a direct response based on its training.&lt;/p&gt;
-&lt;p&gt;But this reliance on pre-trained data can become a limitation when searching for timely information. For search terms pulled from Google’s list of Trending Queries for September 15, the researchers found GPT-4o with Search Tool often responded with messages along the lines of “could you please provide more information” rather than actually searching the web for up-to-date information.&lt;/p&gt;
-&lt;p&gt;While the researchers didn’t determine whether AI-based search engines were overall “better” or “worse” than traditional search engine links, they did urge future research on “new evaluation methods that jointly consider source diversity, conceptual coverage, and synthesis behavior in generative search systems.”&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Generative search engines often cite sites that wouldn’t appear in Google’s top 100 links.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="533" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-184366155-640x533.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-184366155-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Anyone can cite a popular source. I'm gonna go deeper!
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Since last year’s disastrous rollout of Google’s AI Overviews, the world at large has been aware of how AI-powered search results can differ wildly from the traditional list of links search engines have generated for decades. Now, new research helps quantify that difference, showing that AI search engines tend to cite less popular websites and ones that wouldn’t even appear in the Top 100 links listed in an “organic” Google search.&lt;/p&gt;
-&lt;p&gt;In the pre-print paper “Characterizing Web Search in The Age of Generative AI,” researchers from Ruhr University in Bochum, Germany, and the Max Planck Institute for Software Systems compared traditional link results from Google’s search engine to its AI Overviews and Gemini-2.5-Flash. The researchers also looked at GPT-4o’s web search mode and the separate “GPT-4o with Search Tool,” which resorts to searching the web only when the LLM decides it needs information found outside its own pre-trained data.&lt;/p&gt;
-&lt;p&gt;The researchers drew test queries from a number of sources, including specific questions submitted to ChatGPT in the WildChat dataset, general political topics listed on AllSides, and products included in the 100 most-searched Amazon products list.&lt;/p&gt;
-&lt;p&gt;Overall, the sources cited in results from the generative search tools tended to be from sites that were less popular than those that appeared in the top 10 of a traditional search, as measured by the domain-tracker Tranco. Sources cited by the AI engines were more likely than those linked in traditional Google searches to fall outside both the top 1,000 and top 1,000,000 domains tracked by Tranco. Gemini search in particular showed a tendency to cite unpopular domains, with the median source falling outside Tranco’s top 1,000 across all results.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2124346 align-fullwidth"&gt;
-    &lt;div&gt;
-              &lt;div class="ars-lightbox"&gt;
-          &lt;div class="ars-lightbox-item"&gt;
-            
-              &lt;img alt="alt" class="fullwidth full" height="449" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/aiosources.png" width="897" /&gt;
-            
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      A majority of the cited AI Overview sources don’t appear in the top 10 Google link results for the same query.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Kirsten et al
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;The sources cited by the AI-powered search engines also tended to be ones that wouldn’t appear anywhere near the top results for the same organic Google search. Fifty-three percent of the sources cited by Google’s AI Overviews, for instance, didn’t appear in the top 10 Google links for the same query, and 40 percent of those sources didn’t even fall in the top 100 Google links.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;h2&gt;OK, but which one is better?&lt;/h2&gt;
-&lt;p&gt;These differences don’t necessarily mean the AI-generated results are “worse,” of course. The researchers found that GPT-based searches were more likely to cite sources like corporate entities and encyclopedias for their information, for instance, while almost never citing social media websites.&lt;/p&gt;
-&lt;p&gt;An LLM-based analysis tool found that AI-powered search results also tended to cover a similar number of identifiable “concepts” as the traditional top 10 links, suggesting a similar level of detail, diversity, and novelty in the results. At the same time, the researchers found that “generative engines tend to compress information, sometimes omitting secondary or ambiguous aspects that traditional search retains.” That was especially true for more ambiguous search terms (such as names shared by different people), for which “organic search results provide better coverage,” the researchers found.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2124347 align-fullwidth"&gt;
-    &lt;div&gt;
-              &lt;div class="ars-lightbox"&gt;
-          &lt;div class="ars-lightbox-item"&gt;
-            
-              &lt;img alt="alt" class="fullwidth full" height="598" src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/aipopularity.png" width="997" /&gt;
-            
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Google Gemini search in particular was more likely to cite low-popularity domains.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Kirsten et al
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;The AI search engines also arguably have an advantage in being able to weave pre-trained “internal knowledge” in with data culled from cited websites. That was especially true for GPT-4o with Search Tool, which often didn’t cite any web sources and simply provided a direct response based on its training.&lt;/p&gt;
-&lt;p&gt;But this reliance on pre-trained data can become a limitation when searching for timely information. For search terms pulled from Google’s list of Trending Queries for September 15, the researchers found GPT-4o with Search Tool often responded with messages along the lines of “could you please provide more information” rather than actually searching the web for up-to-date information.&lt;/p&gt;
-&lt;p&gt;While the researchers didn’t determine whether AI-based search engines were overall “better” or “worse” than traditional search engine links, they did urge future research on “new evaluation methods that jointly consider source diversity, conceptual coverage, and synthesis behavior in generative search systems.”&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/</guid><pubDate>Mon, 27 Oct 2025 20:18:05 +0000</pubDate></item><item><title>Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/27/mbodi-will-show-how-it-can-train-a-robot-using-ai-agents-at-techcrunch-disrupt-2025/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Robots can be programmed to do a variety of tasks, like packing boxes and even performing surgery. But each individual movement or task requires its own specific training process, which makes it hard for robots to adapt in real-world scenarios.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Mbodi wants to make training robots easier and quicker with the help of AI agents. The company will be showcasing this tech as one of the Top 20 Startup Battlefield finalists at TechCrunch Disrupt 2025.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;New York-based Mbodi built a cloud-to-edge system, a hybrid computing system using both cloud and local compute, that is designed to integrate into existing robotic tech stacks. The software relies on a multitude of AI agents that communicate with each other to gather the needed information to help a robot learn a task faster.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Once deployed, Mbodi will collect data and learn from its real-world use cases.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Xavier Chi, co-founder of Mbodi, told TechCrunch that users prompt the software using natural language, and Mbodi breaks down the request into smaller subtasks. Mbodi’s cluster of agents essentially divides and conquers the task to gather the needed information to train the robot on the prompt quickly.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The tricky thing with the physical world, it’s infinite possibility,” Chi said. “Every time you can invent something completely new, you haven’t had any data, that is a problem in the physical world. We always need to have a system where you can orchestrate different models or have anyone correct a robot and tell it to do certain things certain ways.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Chi said he and co-founder Sebastian Peralta got the idea for the company while working as engineers at Google. While they weren’t working on robotics, they both came to the realization that the advancements in AI were heading to the physical world and despite a rise in physical AI, there still wasn’t a great way to quickly train robots.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Many companies, like Skild AI and FieldAI, are looking to help make training robots faster by building large world AI models with enough real-world data to make it easier for them to adapt to new environments. Chi said that philosophy just doesn’t work with how much the world constantly changes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Mbodi launched in 2024 with a focus on picking and packaging. The company won an ABB Robotics AI startup competition last year, which landed them a partnership with the Swiss robotics organization that was acquired by SoftBank for $5.4 billion in October.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now the company is working with a Fortune 100 company in the consumer and product goods space on a proof of concept.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“For the CPG customer, they have a lot of people, they pack different products of their brand into a tray or a shelf thing, the problem is it changes every day,” Chi said. “Because of that, it is impossible to put robots there. To reprogram these robots, it’s just not possible, there is still a lot of humans doing that work.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Mbodi hopes to start deploying its software more in 2026.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We want to build something that works, that can actually be deployed,” Chi said. “We aren’t a research lab; we don’t want to be a research lab in that regard. We want to put something in production that works reliably.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;If you want to hear from Mbodi firsthand, and see dozens of additional pitches, attend valuable workshops, and make the connections that drive business results, &lt;/em&gt;&lt;em&gt;head here to learn more about this year’s Disrupt&lt;/em&gt;&lt;em&gt;, held October 27 to 29 in San Francisco.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 no anniversary" class="wp-image-3040972" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/TC25_Disrupt_General_Article_No-Anniversary-at-all_Headers_1920x1080.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This piece has been updated to better reflect Chi’s title. &lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Robots can be programmed to do a variety of tasks, like packing boxes and even performing surgery. But each individual movement or task requires its own specific training process, which makes it hard for robots to adapt in real-world scenarios.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Mbodi wants to make training robots easier and quicker with the help of AI agents. The company will be showcasing this tech as one of the Top 20 Startup Battlefield finalists at TechCrunch Disrupt 2025.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;New York-based Mbodi built a cloud-to-edge system, a hybrid computing system using both cloud and local compute, that is designed to integrate into existing robotic tech stacks. The software relies on a multitude of AI agents that communicate with each other to gather the needed information to help a robot learn a task faster.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Once deployed, Mbodi will collect data and learn from its real-world use cases.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Xavier Chi, co-founder of Mbodi, told TechCrunch that users prompt the software using natural language, and Mbodi breaks down the request into smaller subtasks. Mbodi’s cluster of agents essentially divides and conquers the task to gather the needed information to train the robot on the prompt quickly.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The tricky thing with the physical world, it’s infinite possibility,” Chi said. “Every time you can invent something completely new, you haven’t had any data, that is a problem in the physical world. We always need to have a system where you can orchestrate different models or have anyone correct a robot and tell it to do certain things certain ways.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Chi said he and co-founder Sebastian Peralta got the idea for the company while working as engineers at Google. While they weren’t working on robotics, they both came to the realization that the advancements in AI were heading to the physical world and despite a rise in physical AI, there still wasn’t a great way to quickly train robots.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Many companies, like Skild AI and FieldAI, are looking to help make training robots faster by building large world AI models with enough real-world data to make it easier for them to adapt to new environments. Chi said that philosophy just doesn’t work with how much the world constantly changes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Mbodi launched in 2024 with a focus on picking and packaging. The company won an ABB Robotics AI startup competition last year, which landed them a partnership with the Swiss robotics organization that was acquired by SoftBank for $5.4 billion in October.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now the company is working with a Fortune 100 company in the consumer and product goods space on a proof of concept.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“For the CPG customer, they have a lot of people, they pack different products of their brand into a tray or a shelf thing, the problem is it changes every day,” Chi said. “Because of that, it is impossible to put robots there. To reprogram these robots, it’s just not possible, there is still a lot of humans doing that work.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Mbodi hopes to start deploying its software more in 2026.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We want to build something that works, that can actually be deployed,” Chi said. “We aren’t a research lab; we don’t want to be a research lab in that regard. We want to put something in production that works reliably.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;If you want to hear from Mbodi firsthand, and see dozens of additional pitches, attend valuable workshops, and make the connections that drive business results, &lt;/em&gt;&lt;em&gt;head here to learn more about this year’s Disrupt&lt;/em&gt;&lt;em&gt;, held October 27 to 29 in San Francisco.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="TechCrunch Disrupt 2025 no anniversary" class="wp-image-3040972" height="383" src="https://techcrunch.com/wp-content/uploads/2025/08/TC25_Disrupt_General_Article_No-Anniversary-at-all_Headers_1920x1080.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This piece has been updated to better reflect Chi’s title. &lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/27/mbodi-will-show-how-it-can-train-a-robot-using-ai-agents-at-techcrunch-disrupt-2025/</guid><pubDate>Mon, 27 Oct 2025 21:45:00 +0000</pubDate></item><item><title>How we are building the personal health coach (The latest research from Google)</title><link>https://research.google/blog/how-we-are-building-the-personal-health-coach/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Steering Gemini for health coaching&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;“Do I get better sleep after exercising?” sounds like a simple question, but answering it like a proactive, personalized and adaptive coach required several technical innovations.&lt;/p&gt;&lt;p&gt;First, we need the coach to understand and do numerical reasoning on physiological time series data such as sleep and activity, using capabilities similar to those showcased by PH-LLM. For questions like this, the coach verifies recent data availability, chooses the right metrics, contrasts relevant days, contextualizes results against personal baselines and population-level statistics, incorporates prior interactions with the coach, and finally uses the analysis to provide tailored answers and insights.&lt;/p&gt;&lt;p&gt;Second, we utilize a multi-agent framework that coordinates expert sub-agents to provide clear, consistent and holistic support, such as (1) a conversational agent for multi-turn conversations, intent understanding, agent orchestration, context gathering and response generation; (2) a data science agent that iteratively uses tools to fetch, analyze, and summarize relevant data (e.g., sleep and workout data), leveraging code-generation capabilities as needed; and (3) a domain expert, such as a fitness expert that analyzes user data to generate personalized fitness plans and adapt them as progress and context change.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Steering Gemini for health coaching&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;“Do I get better sleep after exercising?” sounds like a simple question, but answering it like a proactive, personalized and adaptive coach required several technical innovations.&lt;/p&gt;&lt;p&gt;First, we need the coach to understand and do numerical reasoning on physiological time series data such as sleep and activity, using capabilities similar to those showcased by PH-LLM. For questions like this, the coach verifies recent data availability, chooses the right metrics, contrasts relevant days, contextualizes results against personal baselines and population-level statistics, incorporates prior interactions with the coach, and finally uses the analysis to provide tailored answers and insights.&lt;/p&gt;&lt;p&gt;Second, we utilize a multi-agent framework that coordinates expert sub-agents to provide clear, consistent and holistic support, such as (1) a conversational agent for multi-turn conversations, intent understanding, agent orchestration, context gathering and response generation; (2) a data science agent that iteratively uses tools to fetch, analyze, and summarize relevant data (e.g., sleep and workout data), leveraging code-generation capabilities as needed; and (3) a domain expert, such as a fitness expert that analyzes user data to generate personalized fitness plans and adapt them as progress and context change.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/how-we-are-building-the-personal-health-coach/</guid><pubDate>Mon, 27 Oct 2025 22:36:23 +0000</pubDate></item><item><title>Zoom CEO Eric Yuan says AI will shorten our workweek (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1137874452.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Zoom founder and CEO Eric Yuan believes that AI assistants will finally allow us to shorten our workweek. Speaking on stage at the TechCrunch Disrupt 2025 conference on Monday, Yuan discussed his videoconferencing product’s embrace of AI, which includes a “digital twin” feature where an AI avatar can speak for you. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Yuan began using his AI avatar in an earnings call with investors this year, demonstrating the technology’s potential and ability to push the “boundaries of communication,” he said.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At Disrupt, the exec emphasized spending a lot of time talking about AI and the right products to bring to market. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When asked about what he’s investing in, he responded, “AI, AI, and AI.” The technology is the subject of multi-hour strategy meetings, as Zoom believes in its potential to transform work.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Yuan also suggested there were many more use cases for AI companions, beyond just video conferencing stand-ins. He offered a potential future scenario where two business execs were negotiating a contract over Zoom. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Instead of being on a call for a long time, they could send their digital twins to work together on the plan first, Yuan said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He also spoke of how AI could assist with email, checking your messages for you, and help you figure out what was important and in need of a response. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plus, Yuan believes that AI could enhance Zoom’s broader suite of solutions, which includes things like an online whiteboard and collaborative docs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Today, I need a manually focus on all those products to get work done. Eventually, AI will help,” Yuan said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“By doing that, we do not need to work five days a week anymore, right?… Five years out, three days or four days [a week]. That’s a goal,” he said. &lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1137874452.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Zoom founder and CEO Eric Yuan believes that AI assistants will finally allow us to shorten our workweek. Speaking on stage at the TechCrunch Disrupt 2025 conference on Monday, Yuan discussed his videoconferencing product’s embrace of AI, which includes a “digital twin” feature where an AI avatar can speak for you. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Yuan began using his AI avatar in an earnings call with investors this year, demonstrating the technology’s potential and ability to push the “boundaries of communication,” he said.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At Disrupt, the exec emphasized spending a lot of time talking about AI and the right products to bring to market. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When asked about what he’s investing in, he responded, “AI, AI, and AI.” The technology is the subject of multi-hour strategy meetings, as Zoom believes in its potential to transform work.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Yuan also suggested there were many more use cases for AI companions, beyond just video conferencing stand-ins. He offered a potential future scenario where two business execs were negotiating a contract over Zoom. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Instead of being on a call for a long time, they could send their digital twins to work together on the plan first, Yuan said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He also spoke of how AI could assist with email, checking your messages for you, and help you figure out what was important and in need of a response. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plus, Yuan believes that AI could enhance Zoom’s broader suite of solutions, which includes things like an online whiteboard and collaborative docs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Today, I need a manually focus on all those products to get work done. Eventually, AI will help,” Yuan said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“By doing that, we do not need to work five days a week anymore, right?… Five years out, three days or four days [a week]. That’s a goal,” he said. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/</guid><pubDate>Tue, 28 Oct 2025 00:14:39 +0000</pubDate></item><item><title>[NEW] OpenAI offers free ChatGPT Go for one year to all users in India (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI is offering its ChatGPT Go plan available free of charge for one year to users in India who sign up during a limited promotional period starting November 4, as the company looks to expand in one of its top markets.&lt;/p&gt;
+&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will</guid><pubDate>Tue, 28 Oct 2025 04:00:00 +0000</pubDate></item><item><title>OpenAI offers free ChatGPT Go for one year to all users in India (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI is offering its ChatGPT Go plan available free of charge for one year to users in India who sign up during a limited promotional period starting November 4, as the company looks to expand in one of its top markets.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;On Tuesday, OpenAI announced the promotion but did not specify how long the offer would remain available. Existing ChatGPT Go subscribers in India will also be eligible for the free 12-month plan, the company said.&lt;/p&gt;
 
@@ -816,7 +52,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;OpenAI’s rivals, including Perplexity and Google, are also looking to tap into India’s large and youthful user base. Perplexity recently partnered with Airtel to offer free Perplexity Pro subscriptions to the telecom operator’s 360 million subscribers. Similarly, Google introduced a free one-year AI Pro plan for students in India.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;OpenAI is set to host its DevDay Exchange developer conference Bengaluru on November 4, where it’s expected to make India-specific announcements aimed at local developers and enterprises.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;OpenAI is set to host its DevDay Exchange developer conference Bengaluru on November 4, where it is expected to make India-specific announcements aimed at local developers and enterprises. India has emerged as one of the fastest-growing markets for ChatGPT, with millions of users engaging with the chatbot daily, the company said.&lt;/p&gt;
 
 &lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
 &lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;Excited for our first DevDay Exchange event in India 🇮🇳 on November 4. Ahead of that, we have some exciting updates coming for India users over the next couple of weeks. Stay tuned!&lt;/p&gt;— Nick Turley (@nickaturley) October 28, 2025&lt;/blockquote&gt;
@@ -857,8 +93,262 @@
 
 &lt;p class="wp-block-paragraph"&gt;OpenAI’s rivals, including Perplexity and Google, are also looking to tap into India’s large and youthful user base. Perplexity recently partnered with Airtel to offer free Perplexity Pro subscriptions to the telecom operator’s 360 million subscribers. Similarly, Google introduced a free one-year AI Pro plan for students in India.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;OpenAI is set to host its DevDay Exchange developer conference Bengaluru on November 4, where it’s expected to make India-specific announcements aimed at local developers and enterprises.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;OpenAI is set to host its DevDay Exchange developer conference Bengaluru on November 4, where it is expected to make India-specific announcements aimed at local developers and enterprises. India has emerged as one of the fastest-growing markets for ChatGPT, with millions of users engaging with the chatbot daily, the company said.&lt;/p&gt;
 
 &lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
 &lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;Excited for our first DevDay Exchange event in India 🇮🇳 on November 4. Ahead of that, we have some exciting updates coming for India users over the next couple of weeks. Stay tuned!&lt;/p&gt;— Nick Turley (@nickaturley) October 28, 2025&lt;/blockquote&gt;
-&lt;/div&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/</guid><pubDate>Tue, 28 Oct 2025 06:17:09 +0000</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/</guid><pubDate>Tue, 28 Oct 2025 06:17:09 +0000</pubDate></item><item><title>[NEW] An AI adoption riddle (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/10/28/1126687/an-ai-adoption-riddle/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/bubbles-gradient.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;A few weeks ago, I set out on what I thought would be a straightforward reporting journey.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;After years of momentum for AI—even if you didn't think it would be good for the world, you probably thought it was powerful enough to take seriously—hype for the technology had been slightly punctured. First there was the underwhelming release of GPT-5 in August. Then a report released two weeks later found that 95% of generative AI pilots were failing, which caused a brief stock market panic. I wanted to know: Which companies are spooked enough to scale back their AI spending?&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;I searched and searched for them. As I did, more news fueled the idea of an AI bubble that, if popped, would spell doom economy-wide. Stories spread about the circular nature of AI spending, layoffs, the inability of companies to articulate what exactly AI will do for them. Even the smartest people building modern AI systems were saying the tech has not progressed as much as its evangelists promised.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But after all my searching, companies that took these developments as a sign to &lt;em&gt;perhaps not&lt;/em&gt; go all in on AI were nowhere to be found. Or, at least, none that were willing to admit it. What gives?&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;There are several interpretations of this one reporter’s quest (which, for the record, I’m presenting as an anecdote and not a representation of the economy), but let’s start with the easy ones. First is that this is a huge score for the “AI is a bubble” believers. What is a bubble if not a situation where companies continue to spend relentlessly even in the face of worrying news? The other is that underneath the bad headlines, there’s not enough genuinely troubling news about AI to convince companies they should pivot.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt;&lt;p&gt;But it could also be that the unbelievable speed of AI progress and adoption has made me think industries are more sensitive to news than they perhaps should be. I spoke with Martha Gimbel, who leads the Yale Budget Lab and coauthored a report finding that AI has not yet changed anyone’s jobs. What I gathered is that Gimbel, like many economists, thinks on a longer time scale than anyone in the AI world is used to.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;“It would be historically shocking if a technology had had an impact as quickly as people thought that this one was going to,” she says. In other words, perhaps most of the economy is still figuring out what the hell AI even does, not deciding whether to abandon it.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The other reaction I heard—particularly from the consultant crowd—is that when executives hear that so many AI pilots are failing, they indeed take it very seriously. They’re just not reading it as a failure of the technology itself. They instead point to pilots not moving quickly enough, companies lacking the right data to build better AI, or a host of other strategic reasons.&lt;/p&gt;  &lt;p&gt;Even if there is incredible pressure, especially on public companies, to invest heavily in AI, a few have taken big swings on the technology only to pull back. The buy now, pay later company Klarna laid off staff and paused hiring in 2024, claiming it could use AI instead. Less than a year later it was hiring again, explaining that “AI gives us speed. Talent gives us empathy.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Drive-throughs, from McDonald’s to Taco Bell, ended pilots testing the use of AI voice assistants. The vast majority of Coca-Cola advertisements, according to experts I spoke with, are not made with generative AI, despite the company’s $1 billion promise.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;So for now, the question remains unanswered: Are there companies out there rethinking how much their bets on AI will pay off, or when? And if there are, what’s keeping them from talking out loud about it? (If you’re out there, email me!)&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/bubbles-gradient.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;A few weeks ago, I set out on what I thought would be a straightforward reporting journey.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;After years of momentum for AI—even if you didn't think it would be good for the world, you probably thought it was powerful enough to take seriously—hype for the technology had been slightly punctured. First there was the underwhelming release of GPT-5 in August. Then a report released two weeks later found that 95% of generative AI pilots were failing, which caused a brief stock market panic. I wanted to know: Which companies are spooked enough to scale back their AI spending?&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;I searched and searched for them. As I did, more news fueled the idea of an AI bubble that, if popped, would spell doom economy-wide. Stories spread about the circular nature of AI spending, layoffs, the inability of companies to articulate what exactly AI will do for them. Even the smartest people building modern AI systems were saying the tech has not progressed as much as its evangelists promised.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But after all my searching, companies that took these developments as a sign to &lt;em&gt;perhaps not&lt;/em&gt; go all in on AI were nowhere to be found. Or, at least, none that were willing to admit it. What gives?&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;There are several interpretations of this one reporter’s quest (which, for the record, I’m presenting as an anecdote and not a representation of the economy), but let’s start with the easy ones. First is that this is a huge score for the “AI is a bubble” believers. What is a bubble if not a situation where companies continue to spend relentlessly even in the face of worrying news? The other is that underneath the bad headlines, there’s not enough genuinely troubling news about AI to convince companies they should pivot.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt;&lt;p&gt;But it could also be that the unbelievable speed of AI progress and adoption has made me think industries are more sensitive to news than they perhaps should be. I spoke with Martha Gimbel, who leads the Yale Budget Lab and coauthored a report finding that AI has not yet changed anyone’s jobs. What I gathered is that Gimbel, like many economists, thinks on a longer time scale than anyone in the AI world is used to.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;“It would be historically shocking if a technology had had an impact as quickly as people thought that this one was going to,” she says. In other words, perhaps most of the economy is still figuring out what the hell AI even does, not deciding whether to abandon it.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The other reaction I heard—particularly from the consultant crowd—is that when executives hear that so many AI pilots are failing, they indeed take it very seriously. They’re just not reading it as a failure of the technology itself. They instead point to pilots not moving quickly enough, companies lacking the right data to build better AI, or a host of other strategic reasons.&lt;/p&gt;  &lt;p&gt;Even if there is incredible pressure, especially on public companies, to invest heavily in AI, a few have taken big swings on the technology only to pull back. The buy now, pay later company Klarna laid off staff and paused hiring in 2024, claiming it could use AI instead. Less than a year later it was hiring again, explaining that “AI gives us speed. Talent gives us empathy.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Drive-throughs, from McDonald’s to Taco Bell, ended pilots testing the use of AI voice assistants. The vast majority of Coca-Cola advertisements, according to experts I spoke with, are not made with generative AI, despite the company’s $1 billion promise.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;So for now, the question remains unanswered: Are there companies out there rethinking how much their bets on AI will pay off, or when? And if there are, what’s keeping them from talking out loud about it? (If you’re out there, email me!)&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/10/28/1126687/an-ai-adoption-riddle/</guid><pubDate>Tue, 28 Oct 2025 09:00:00 +0000</pubDate></item><item><title>[NEW] PayPal partners with OpenAI to let users pay for their shopping within ChatGPT (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/28/paypal-partners-with-openai-to-let-users-pay-for-their-shopping-within-chatgpt/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1231192043.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Paypal said on Tuesday that it is adopting a protocol in combination with OpenAI’s “Instant Checkout” feature to let users pay for their shopping directly within ChatGPT, starting in 2026.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Paypal is adopting the Agentic Commerce Protocol (ACP), an open-source specification developed by OpenAI that lets merchants make their products available within AI apps, consequently enabling users to shop using AI agents. Meanwhile OpenAI’s “Instant Checkout” feature, launched in September, lets users confirm their order, shipping, and payment details, and complete purchases without leaving ChatGPT.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Customers can use their Paypal wallets for checkout, which, the company said, would enable it to provide buyer and seller protection, as well as dispute resolution. The company is also providing technology to handle card payments from within ChatGPT using a separate payments API.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;And next year, merchants using Paypal products will have their products be discoverable on ChatGPT, starting with categories like apparel, fashion, beauty, home improvement and electronics. Merchants will not need to build any integrations, as PayPal will handle merchant routing and payments behind the scenes.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company said it is also launching an agentic commerce suite that would let merchants feature their catalogs within AI apps, accept payments on different AI apps, and get insights about consumer behavior.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;PayPal has been working to insert itself as a payments partner within various companies’ AI-enabled shopping experiences, particularly as people increasingly use AI apps to do their daily tasks. In May, the company teamed up with Perplexity to let users checkout within the AI search tool, and in September, Paypal said it was adopting Google’s Agent Payments Protocol to integrate its products within various Google products.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;PayPal said, apart from the partnership on commerce, the company is giving enterprise access to ChatGPT to all of its employees and allowing its engineers to make better use of OpenAI’s coding tools, Codex.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Hundreds of millions of people turn to ChatGPT each week for help with everyday tasks, including finding products they love, and over 400 million use PayPal to shop,” Alex Chriss, president and CEO of PayPal, said in a statement. “By partnering with OpenAI and adopting the Agentic Commerce Protocol, PayPal will power payments and commerce experiences that help people go from chat to checkout in just a few taps for our joint customer bases,” he added.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1231192043.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Paypal said on Tuesday that it is adopting a protocol in combination with OpenAI’s “Instant Checkout” feature to let users pay for their shopping directly within ChatGPT, starting in 2026.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Paypal is adopting the Agentic Commerce Protocol (ACP), an open-source specification developed by OpenAI that lets merchants make their products available within AI apps, consequently enabling users to shop using AI agents. Meanwhile OpenAI’s “Instant Checkout” feature, launched in September, lets users confirm their order, shipping, and payment details, and complete purchases without leaving ChatGPT.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Customers can use their Paypal wallets for checkout, which, the company said, would enable it to provide buyer and seller protection, as well as dispute resolution. The company is also providing technology to handle card payments from within ChatGPT using a separate payments API.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;And next year, merchants using Paypal products will have their products be discoverable on ChatGPT, starting with categories like apparel, fashion, beauty, home improvement and electronics. Merchants will not need to build any integrations, as PayPal will handle merchant routing and payments behind the scenes.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company said it is also launching an agentic commerce suite that would let merchants feature their catalogs within AI apps, accept payments on different AI apps, and get insights about consumer behavior.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;PayPal has been working to insert itself as a payments partner within various companies’ AI-enabled shopping experiences, particularly as people increasingly use AI apps to do their daily tasks. In May, the company teamed up with Perplexity to let users checkout within the AI search tool, and in September, Paypal said it was adopting Google’s Agent Payments Protocol to integrate its products within various Google products.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;PayPal said, apart from the partnership on commerce, the company is giving enterprise access to ChatGPT to all of its employees and allowing its engineers to make better use of OpenAI’s coding tools, Codex.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Hundreds of millions of people turn to ChatGPT each week for help with everyday tasks, including finding products they love, and over 400 million use PayPal to shop,” Alex Chriss, president and CEO of PayPal, said in a statement. “By partnering with OpenAI and adopting the Agentic Commerce Protocol, PayPal will power payments and commerce experiences that help people go from chat to checkout in just a few taps for our joint customer bases,” he added.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/28/paypal-partners-with-openai-to-let-users-pay-for-their-shopping-within-chatgpt/</guid><pubDate>Tue, 28 Oct 2025 10:47:43 +0000</pubDate></item><item><title>[NEW] “We will never build a sex robot,” says Mustafa Suleyman (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/10/28/1126781/we-will-never-build-a-sex-robot-says-mustafa-suleyman/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/Mustafa-Suleyman-Preferred-Headshot-Sept-2025.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Mustafa Suleyman, CEO of Microsoft AI, is trying to walk a fine line. On the one hand, he thinks that the industry is taking AI in a dangerous direction by building chatbots that present as human: He worries that people will be tricked into seeing life instead of lifelike behavior. In August, he published a much-discussed post on his personal blog that urged his peers to stop trying to make what he called “seemingly conscious artificial intelligence,” or SCAI.&lt;/p&gt;  &lt;p&gt;On the other hand, Suleyman runs a product shop that must compete with those peers. Last week, Microsoft announced a string of updates to its Copilot chatbot, designed to boost its appeal in a crowded market in which customers can pick and choose between a pantheon of rival bots that already includes ChatGPT, Perplexity, Gemini, Claude, DeepSeek, and more.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;I talked to Suleyman about the tension at play when it comes to designing our interactions with chatbots and his ultimate vision for what this new technology should be.&lt;/p&gt;  &lt;p&gt;One key Copilot update is a group-chat feature that lets multiple people talk to the chatbot at the same time. A big part of the idea seems to be to stop people from falling down a rabbit hole in a one-on-one conversation with a yes-man bot. Another feature, called Real Talk, lets people tailor how much Copilot pushes back on you, dialing down the sycophancy so that the chatbot challenges what you say more often.&lt;/p&gt; 
+ &lt;p&gt;Copilot also got a memory upgrade, so that it can now remember your upcoming events or long-term goals and bring up things that you told it in past conversations. And then there’s Mico, an animated yellow blob—a kind of Chatbot Clippy—that Microsoft hopes will make Copilot more accessible and engaging for new and younger users.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Microsoft says the updates were designed to make Copilot more expressive, engaging, and helpful. But I’m curious how far those features can be pushed without starting down the SCAI path that Suleyman has warned about.&amp;nbsp;&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;Suleyman’s concerns about SCAI come at a time when we are starting to hear more and more stories about people being led astray by chatbots that are too engaging, too expressive, too helpful. OpenAI is being sued by the parents of a teenager who they allege was talked into killing himself by ChatGPT. There’s even a growing scene that celebrates romantic relationships with chatbots.&lt;/p&gt;  &lt;p&gt;With all that in mind, I wanted to dig a bit deeper into Suleyman’s views. Because a couple of years ago he gave a TED Talk in which he told us that the best way to think about AI is as a new kind of digital species. Doesn’t that kind of hype feed the misperceptions Suleyman is now concerned about?&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;In our conversation, Suleyman told me what he was trying to get across in that TED Talk, why he really believes SCAI is a problem, and why Microsoft would never build sex robots (his words). He had a lot of answers, but he left me with more questions.&lt;/p&gt;  &lt;p&gt;Our conversation has been edited for length and clarity.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;In an ideal world, what kind of chatbot do you want to build? You’ve just launched a bunch of updates to Copilot. How do you get the balance right when you’re building a chatbot that has to compete in a market in which people seem to value humanlike interaction, but you also say you want to avoid seemingly conscious AI?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It’s a good question. With group chat, this will be the first time that a large group of people will be able to speak to an AI at the same time. It really is a way of emphasizing that AIs shouldn’t be drawing you out of the real world. They should be helping you to connect, to bring in your family, your friends, to have community groups, and so on.&lt;/p&gt;  &lt;p&gt;That is going to become a very significant differentiator over the next few years. My vision of AI has always been one where an AI is on your team, in your corner.&lt;/p&gt;  &lt;p&gt;This is a very simple, obvious statement, but it isn’t about exceeding and replacing humanity—it’s about serving us. That should be the test of technology at every step. Does it actually, you know, deliver on the quest of civilization, which is to make us smarter and happier and more productive and healthier and stuff like that?&lt;/p&gt; 
+
+ &lt;p&gt;So we’re just trying to build features that constantly remind us to ask that question, and remind our users to push us on that issue.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Last time we spoke&lt;/strong&gt;&lt;strong&gt;, you told me that you weren’t interested in making a chatbot that would role-play personalities. That’s not true of the wider industry. Elon Musk’s Grok is selling that kind of flirty experience. OpenAI has said it’s interested in exploring new adult interactions with ChatGPT. There’s a market for that. And yet this is something you’ll just stay clear of?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Yeah, we will never build sex robots. Sad in a way that we have to be so clear about that, but that’s just not our mission as a company. The joy of being at Microsoft is that for 50 years, the company has built, you know, software to empower people, to put people first.&lt;/p&gt;  &lt;p&gt;Sometimes, as a result, that means the company moves slower than other startups and is more deliberate and more careful. But I think that’s a feature, not a bug, in this age, when being attentive to potential side effects and longer-term consequences is really important.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;&lt;strong&gt;And that means what, exactly?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;We’re very clear on, you know, trying to create an AI that fosters a meaningful relationship. It’s not that it’s trying to be cold and anodyne—it cares about being fluid and lucid and kind. It definitely has some emotional intelligence.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;So where does it—where do you—draw those boundaries?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Our newest chat model, which is called Real Talk, is a little bit more sassy. It’s a bit more cheeky, it’s a bit more fun, it’s quite philosophical. It’ll happily talk about the big-picture questions, the meaning of life, and so on. But if you try and flirt with it, it’ll push back and it’ll be very clear—not in a judgmental way, but just, like: “Look, that’s not for me.”&lt;/p&gt; 
+ &lt;p&gt;There are other places where you can go to get that kind of experience, right? And I think that’s just a decision we’ve made as a company.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Is a no-flirting policy enough? Because if the idea is to stop people even imagining an entity, a consciousness, behind the interactions, you could still get that with a chatbot that wanted to keep things SFW. You know, I can imagine some people seeing something that’s not there even with a personality that’s saying, hey, let’s keep this professional.&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;Here’s a metaphor to try to make sense of it. We hold each other accountable in the workplace. There’s an entire architecture of boundary management, which essentially sculpts human behavior to fit a mold that’s functional and not irritating.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt; &lt;p&gt;The same is true in our personal lives. The way that you interact with your third cousin is very different to the way you interact with your sibling. There’s a lot to learn from how we manage boundaries in real human interactions.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_12"&gt; &lt;p&gt;It doesn’t have to be either a complete open book of emotional sensuality or availability—drawing people into a spiraled rabbit hole of intensity—or, like, a cold dry thing. There’s a huge spectrum in between, and the craft that we’re learning as an industry and as a species is to sculpt these attributes.&lt;/p&gt;  &lt;p&gt;And those attributes obviously reflect the values of the companies that design them. And I think that’s where Microsoft has a lot of strengths, because our values are pretty clear, and that’s what we’re standing behind.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;A lot of people seem to like personalities. Some of the backlash to GPT-5, for example, was because the previous model’s personality had been taken away. Was it a mistake for OpenAI to have put a strong personality there in the first place, to give people something that they then missed?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;No, personality is great. My point is that we’re trying to sculpt personality attributes in a more fine-grained way, right?&lt;/p&gt; 
+ &lt;p&gt;Like I said, Real Talk is a cool personality. It’s quite different to normal Copilot. We are also experimenting with Mico, which is this visual character, that, you know, people—some people—really love. It’s much more engaging. It’s easier to talk to about all kinds of emotional questions and stuff.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;I guess this is what I’m trying to get straight. Features like Mico are meant to make Copilot more engaging and nicer to use, but it seems to go against the idea of doing whatever you can to stop people thinking there’s something there that you are actually having a friendship with.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Yeah. I mean, it doesn’t stop you necessarily. People want to talk to somebody, or something, that they like. And we know that if your teacher is nice to you at school, you’re going to be more engaged. The same with your manager, the same with your loved ones. And so emotional intelligence has always been a critical part of the puzzle, so it’s not to say that we don’t want to pursue it.&lt;/p&gt;  &lt;p&gt;It’s just that the craft is in trying to find that boundary. And there are some things which we’re saying are just off the table, and there are other things which we’re going to be more experimental with. Like, certain people have complained that they don’t get enough pushback from Copilot—they want it to be more challenging. Other people aren’t looking for that kind of experience—they want it to be a basic information provider. The task for us is just learning to disentangle what type of experience to give to different people.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_14"&gt; &lt;p&gt;&lt;strong&gt;I know you’ve been thinking about how people engage with AI for some time. Was there an inciting incident that made you want to start this conversation in the industry about seemingly conscious AI?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I could see that there was a group of people emerging in the academic literature who were taking the question of moral consideration for artificial entities very seriously. And I think it’s very clear that if we start to do that, it would detract from the urgent need to protect the rights of many humans that already exist, let alone animals.&lt;/p&gt;  &lt;p&gt;If you grant AI rights, that implies—you know—fundamental autonomy, and it implies that it might have free will to make its own decisions about things. So I’m really trying to frame a counter to that, which is that it won’t ever have free will. It won’t ever have complete autonomy like another human being.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_16"&gt; &lt;p&gt;AI will be able to take actions on our behalf. But these models are working for us. You wouldn’t want a pack of, you know, wolves wandering around that weren’t tame and that had complete freedom to go and compete with us for resources and weren’t accountable to humans. I mean, most people would think that was a bad idea and that you would want to go and kill the wolves.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Okay. So the idea is to stop some movement that’s calling for AI welfare or rights before it even gets going, by making sure that we don’t build AI that appears to be conscious? What about not building that kind of AI because certain vulnerable people may be tricked by it in a way that may be harmful? I mean, those seem to be two different concerns.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I think the test is going to be in the kinds of features the different labs put out and in the types of personalities that they create. Then we’ll be able to see how that’s affecting human behavior.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;But is it a concern of yours that we are building a technology that might trick people into seeing something that isn’t there? I mean, people have claimed they’ve seen sentience inside far less sophisticated models than we have now. Or is that just something that some people will always do?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It’s possible. But my point is that a responsible developer has to do our best to try and detect these patterns emerging in people as quickly as possible and not take it for granted that people are going to be able to disentangle those kinds of experiences themselves.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_18"&gt;&lt;p&gt;&lt;strong&gt;When I read your post about seemingly conscious AI, I was struck by a line that says: “We must build AI for people; not to be a digital person.” It made me think of a TED Talk you gave last year where you say that the best way to think about AI is as a new kind of digital species. Can you help me understand why talking about this technology as a digital species isn’t a step down the path of thinking about AI models as digital persons or conscious entities?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I think the difference is that I’m trying to offer metaphors that make it easier for people to understand where things might be headed, and therefore how to avert that and how to control it.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Okay.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It’s not to say that we should do those things. It’s just pointing out that this is the emergence of a technology which is unique in human history. And if you just assume that it’s a tool or just a chatbot or a dumb— you know, I kind of wrote that TED Talk in the context of a lot of skepticism. And I think it’s important to be clear-eyed about what’s coming so that one can think about the right guardrails.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;And yet, if you’re telling me this technology is a new digital species, I have some sympathy for the people who say, well, then we need to consider welfare.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I wouldn’t. &lt;em&gt;[He starts laughing.]&lt;/em&gt; Just not in the slightest. No way. It’s not a direction that any of us want to go in.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;No, that’s not what I meant. I don’t think chatbots should have welfare. I’m saying I’d have some sympathy for where such people were coming from when they hear, you know, Mustafa Suleyman tell them that this thing he’s building was a new digital species. I’d understand why they might then say that they wanted to stand up for it. I’m saying the words we use matter, I guess.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;The rest of the TED Talk was all about how to contain AI and how not to let this species take over, right? That was the whole point of setting it up as, like, this is what's coming. I mean, that’s what my whole book [&lt;em&gt;The Coming Wave&lt;/em&gt;, published in 2023] was about—containment and alignment and stuff like that. There’s no point in pretending that it’s something that it’s not and then building guardrails and boundaries that don’t apply because you think it’s just a tool.&lt;/p&gt;  &lt;p&gt;Honestly, it does have the potential to recursively self-improve. It does have the potential to set its own goals. Those are quite profound things. No other technology we’ve ever invented has that. And so, yeah, I think that it is accurate to say that it’s like a digital species, a new digital species. That’s what we’re trying to restrict to make sure it’s always in service of people. That’s the target for containment.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/Mustafa-Suleyman-Preferred-Headshot-Sept-2025.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0"&gt; &lt;p&gt;Mustafa Suleyman, CEO of Microsoft AI, is trying to walk a fine line. On the one hand, he thinks that the industry is taking AI in a dangerous direction by building chatbots that present as human: He worries that people will be tricked into seeing life instead of lifelike behavior. In August, he published a much-discussed post on his personal blog that urged his peers to stop trying to make what he called “seemingly conscious artificial intelligence,” or SCAI.&lt;/p&gt;  &lt;p&gt;On the other hand, Suleyman runs a product shop that must compete with those peers. Last week, Microsoft announced a string of updates to its Copilot chatbot, designed to boost its appeal in a crowded market in which customers can pick and choose between a pantheon of rival bots that already includes ChatGPT, Perplexity, Gemini, Claude, DeepSeek, and more.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;I talked to Suleyman about the tension at play when it comes to designing our interactions with chatbots and his ultimate vision for what this new technology should be.&lt;/p&gt;  &lt;p&gt;One key Copilot update is a group-chat feature that lets multiple people talk to the chatbot at the same time. A big part of the idea seems to be to stop people from falling down a rabbit hole in a one-on-one conversation with a yes-man bot. Another feature, called Real Talk, lets people tailor how much Copilot pushes back on you, dialing down the sycophancy so that the chatbot challenges what you say more often.&lt;/p&gt; 
+ &lt;p&gt;Copilot also got a memory upgrade, so that it can now remember your upcoming events or long-term goals and bring up things that you told it in past conversations. And then there’s Mico, an animated yellow blob—a kind of Chatbot Clippy—that Microsoft hopes will make Copilot more accessible and engaging for new and younger users.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Microsoft says the updates were designed to make Copilot more expressive, engaging, and helpful. But I’m curious how far those features can be pushed without starting down the SCAI path that Suleyman has warned about.&amp;nbsp;&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;Suleyman’s concerns about SCAI come at a time when we are starting to hear more and more stories about people being led astray by chatbots that are too engaging, too expressive, too helpful. OpenAI is being sued by the parents of a teenager who they allege was talked into killing himself by ChatGPT. There’s even a growing scene that celebrates romantic relationships with chatbots.&lt;/p&gt;  &lt;p&gt;With all that in mind, I wanted to dig a bit deeper into Suleyman’s views. Because a couple of years ago he gave a TED Talk in which he told us that the best way to think about AI is as a new kind of digital species. Doesn’t that kind of hype feed the misperceptions Suleyman is now concerned about?&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;In our conversation, Suleyman told me what he was trying to get across in that TED Talk, why he really believes SCAI is a problem, and why Microsoft would never build sex robots (his words). He had a lot of answers, but he left me with more questions.&lt;/p&gt;  &lt;p&gt;Our conversation has been edited for length and clarity.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;In an ideal world, what kind of chatbot do you want to build? You’ve just launched a bunch of updates to Copilot. How do you get the balance right when you’re building a chatbot that has to compete in a market in which people seem to value humanlike interaction, but you also say you want to avoid seemingly conscious AI?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It’s a good question. With group chat, this will be the first time that a large group of people will be able to speak to an AI at the same time. It really is a way of emphasizing that AIs shouldn’t be drawing you out of the real world. They should be helping you to connect, to bring in your family, your friends, to have community groups, and so on.&lt;/p&gt;  &lt;p&gt;That is going to become a very significant differentiator over the next few years. My vision of AI has always been one where an AI is on your team, in your corner.&lt;/p&gt;  &lt;p&gt;This is a very simple, obvious statement, but it isn’t about exceeding and replacing humanity—it’s about serving us. That should be the test of technology at every step. Does it actually, you know, deliver on the quest of civilization, which is to make us smarter and happier and more productive and healthier and stuff like that?&lt;/p&gt; 
+
+ &lt;p&gt;So we’re just trying to build features that constantly remind us to ask that question, and remind our users to push us on that issue.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Last time we spoke&lt;/strong&gt;&lt;strong&gt;, you told me that you weren’t interested in making a chatbot that would role-play personalities. That’s not true of the wider industry. Elon Musk’s Grok is selling that kind of flirty experience. OpenAI has said it’s interested in exploring new adult interactions with ChatGPT. There’s a market for that. And yet this is something you’ll just stay clear of?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Yeah, we will never build sex robots. Sad in a way that we have to be so clear about that, but that’s just not our mission as a company. The joy of being at Microsoft is that for 50 years, the company has built, you know, software to empower people, to put people first.&lt;/p&gt;  &lt;p&gt;Sometimes, as a result, that means the company moves slower than other startups and is more deliberate and more careful. But I think that’s a feature, not a bug, in this age, when being attentive to potential side effects and longer-term consequences is really important.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;&lt;strong&gt;And that means what, exactly?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;We’re very clear on, you know, trying to create an AI that fosters a meaningful relationship. It’s not that it’s trying to be cold and anodyne—it cares about being fluid and lucid and kind. It definitely has some emotional intelligence.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;So where does it—where do you—draw those boundaries?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Our newest chat model, which is called Real Talk, is a little bit more sassy. It’s a bit more cheeky, it’s a bit more fun, it’s quite philosophical. It’ll happily talk about the big-picture questions, the meaning of life, and so on. But if you try and flirt with it, it’ll push back and it’ll be very clear—not in a judgmental way, but just, like: “Look, that’s not for me.”&lt;/p&gt; 
+ &lt;p&gt;There are other places where you can go to get that kind of experience, right? And I think that’s just a decision we’ve made as a company.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Is a no-flirting policy enough? Because if the idea is to stop people even imagining an entity, a consciousness, behind the interactions, you could still get that with a chatbot that wanted to keep things SFW. You know, I can imagine some people seeing something that’s not there even with a personality that’s saying, hey, let’s keep this professional.&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;Here’s a metaphor to try to make sense of it. We hold each other accountable in the workplace. There’s an entire architecture of boundary management, which essentially sculpts human behavior to fit a mold that’s functional and not irritating.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt; &lt;p&gt;The same is true in our personal lives. The way that you interact with your third cousin is very different to the way you interact with your sibling. There’s a lot to learn from how we manage boundaries in real human interactions.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_12"&gt; &lt;p&gt;It doesn’t have to be either a complete open book of emotional sensuality or availability—drawing people into a spiraled rabbit hole of intensity—or, like, a cold dry thing. There’s a huge spectrum in between, and the craft that we’re learning as an industry and as a species is to sculpt these attributes.&lt;/p&gt;  &lt;p&gt;And those attributes obviously reflect the values of the companies that design them. And I think that’s where Microsoft has a lot of strengths, because our values are pretty clear, and that’s what we’re standing behind.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;A lot of people seem to like personalities. Some of the backlash to GPT-5, for example, was because the previous model’s personality had been taken away. Was it a mistake for OpenAI to have put a strong personality there in the first place, to give people something that they then missed?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;No, personality is great. My point is that we’re trying to sculpt personality attributes in a more fine-grained way, right?&lt;/p&gt; 
+ &lt;p&gt;Like I said, Real Talk is a cool personality. It’s quite different to normal Copilot. We are also experimenting with Mico, which is this visual character, that, you know, people—some people—really love. It’s much more engaging. It’s easier to talk to about all kinds of emotional questions and stuff.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;I guess this is what I’m trying to get straight. Features like Mico are meant to make Copilot more engaging and nicer to use, but it seems to go against the idea of doing whatever you can to stop people thinking there’s something there that you are actually having a friendship with.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Yeah. I mean, it doesn’t stop you necessarily. People want to talk to somebody, or something, that they like. And we know that if your teacher is nice to you at school, you’re going to be more engaged. The same with your manager, the same with your loved ones. And so emotional intelligence has always been a critical part of the puzzle, so it’s not to say that we don’t want to pursue it.&lt;/p&gt;  &lt;p&gt;It’s just that the craft is in trying to find that boundary. And there are some things which we’re saying are just off the table, and there are other things which we’re going to be more experimental with. Like, certain people have complained that they don’t get enough pushback from Copilot—they want it to be more challenging. Other people aren’t looking for that kind of experience—they want it to be a basic information provider. The task for us is just learning to disentangle what type of experience to give to different people.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_14"&gt; &lt;p&gt;&lt;strong&gt;I know you’ve been thinking about how people engage with AI for some time. Was there an inciting incident that made you want to start this conversation in the industry about seemingly conscious AI?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I could see that there was a group of people emerging in the academic literature who were taking the question of moral consideration for artificial entities very seriously. And I think it’s very clear that if we start to do that, it would detract from the urgent need to protect the rights of many humans that already exist, let alone animals.&lt;/p&gt;  &lt;p&gt;If you grant AI rights, that implies—you know—fundamental autonomy, and it implies that it might have free will to make its own decisions about things. So I’m really trying to frame a counter to that, which is that it won’t ever have free will. It won’t ever have complete autonomy like another human being.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_16"&gt; &lt;p&gt;AI will be able to take actions on our behalf. But these models are working for us. You wouldn’t want a pack of, you know, wolves wandering around that weren’t tame and that had complete freedom to go and compete with us for resources and weren’t accountable to humans. I mean, most people would think that was a bad idea and that you would want to go and kill the wolves.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Okay. So the idea is to stop some movement that’s calling for AI welfare or rights before it even gets going, by making sure that we don’t build AI that appears to be conscious? What about not building that kind of AI because certain vulnerable people may be tricked by it in a way that may be harmful? I mean, those seem to be two different concerns.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I think the test is going to be in the kinds of features the different labs put out and in the types of personalities that they create. Then we’ll be able to see how that’s affecting human behavior.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;But is it a concern of yours that we are building a technology that might trick people into seeing something that isn’t there? I mean, people have claimed they’ve seen sentience inside far less sophisticated models than we have now. Or is that just something that some people will always do?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It’s possible. But my point is that a responsible developer has to do our best to try and detect these patterns emerging in people as quickly as possible and not take it for granted that people are going to be able to disentangle those kinds of experiences themselves.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_18"&gt;&lt;p&gt;&lt;strong&gt;When I read your post about seemingly conscious AI, I was struck by a line that says: “We must build AI for people; not to be a digital person.” It made me think of a TED Talk you gave last year where you say that the best way to think about AI is as a new kind of digital species. Can you help me understand why talking about this technology as a digital species isn’t a step down the path of thinking about AI models as digital persons or conscious entities?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I think the difference is that I’m trying to offer metaphors that make it easier for people to understand where things might be headed, and therefore how to avert that and how to control it.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Okay.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It’s not to say that we should do those things. It’s just pointing out that this is the emergence of a technology which is unique in human history. And if you just assume that it’s a tool or just a chatbot or a dumb— you know, I kind of wrote that TED Talk in the context of a lot of skepticism. And I think it’s important to be clear-eyed about what’s coming so that one can think about the right guardrails.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;And yet, if you’re telling me this technology is a new digital species, I have some sympathy for the people who say, well, then we need to consider welfare.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I wouldn’t. &lt;em&gt;[He starts laughing.]&lt;/em&gt; Just not in the slightest. No way. It’s not a direction that any of us want to go in.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;No, that’s not what I meant. I don’t think chatbots should have welfare. I’m saying I’d have some sympathy for where such people were coming from when they hear, you know, Mustafa Suleyman tell them that this thing he’s building was a new digital species. I’d understand why they might then say that they wanted to stand up for it. I’m saying the words we use matter, I guess.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;The rest of the TED Talk was all about how to contain AI and how not to let this species take over, right? That was the whole point of setting it up as, like, this is what's coming. I mean, that’s what my whole book [&lt;em&gt;The Coming Wave&lt;/em&gt;, published in 2023] was about—containment and alignment and stuff like that. There’s no point in pretending that it’s something that it’s not and then building guardrails and boundaries that don’t apply because you think it’s just a tool.&lt;/p&gt;  &lt;p&gt;Honestly, it does have the potential to recursively self-improve. It does have the potential to set its own goals. Those are quite profound things. No other technology we’ve ever invented has that. And so, yeah, I think that it is accurate to say that it’s like a digital species, a new digital species. That’s what we’re trying to restrict to make sure it’s always in service of people. That’s the target for containment.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/10/28/1126781/we-will-never-build-a-sex-robot-says-mustafa-suleyman/</guid><pubDate>Tue, 28 Oct 2025 11:07:39 +0000</pubDate></item><item><title>[NEW] Adobe launches AI assistants for Express and Photoshop (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/28/adobe-launches-ai-assistants-for-express-and-photoshop/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Adobe today released new AI assistants Creative Cloud products, Express and Photoshop, that can help users with image creation and editing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Most companies like to put AI assistants into a sidebar in their products to grab on-screen context. But for Express, Adobe has created a new mode that lets you use text prompts to create new images and designs. You can switch on the assistant mode to use AI prompts and then switch back to use editing tools and controls that are available in Express in the current version.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, the new Photoshop assistant, which is in closed beta testing, lives in the sidebar. Adobe claims the assistant can understand different layers and help you automatically select objects and create masks. Adobe added that users can ask the assistant to complete repetitive tasks such as removing backgrounds or changing colors.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062943" height="383" src="https://techcrunch.com/wp-content/uploads/2025/10/PhotoshopAIAssistant.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Adobe’s VP of generative AI, Alexandru Costin, told TechCrunch that the company decided to build a different mode for its AI assistant in Express to target students and professionals who use the app. The company wants to see if users can achieve what they want to do without having to switch back to the traditional interface, he explained.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We think this approach of switching between two modes, where you get the best of both worlds, is gonna make the technology both accessible and controllable,” Costin said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company said it is also experimenting with a new type of assistant, dubbed “Project Moonlight,” that can coordinate with different assistants from other Adobe tools, and connect to a creator’s social channels to better understand their style. Adobe said the product is in the early stages of development and is in private beta.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="An illustrative image showing prototypes of Adobe's new project of cross-app assistant is a system that gets data from all of its apps. " class="wp-image-3062944" height="383" src="https://techcrunch.com/wp-content/uploads/2025/10/ProjectMoonlight.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company said it is also exploring a way to connect Adobe Express with ChatGPT using OpenAI’s app integrations API to let users create designs directly in ChatGPT.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Adobe also announced a new set of AI features for its Creative Cloud apps. Photoshop users can now choose third-party models, like Google’s Gemini 2.5 flash and Black Forest Labs’ FLUX.1 Kontext, for the generative fill feature, which can remove objects or extend images. The company is also adding an AI-powered object mask in its video editing app, Premiere Pro, to let users easily identify and select objects or people to add effects or adjust colors.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Adobe today released new AI assistants Creative Cloud products, Express and Photoshop, that can help users with image creation and editing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Most companies like to put AI assistants into a sidebar in their products to grab on-screen context. But for Express, Adobe has created a new mode that lets you use text prompts to create new images and designs. You can switch on the assistant mode to use AI prompts and then switch back to use editing tools and controls that are available in Express in the current version.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, the new Photoshop assistant, which is in closed beta testing, lives in the sidebar. Adobe claims the assistant can understand different layers and help you automatically select objects and create masks. Adobe added that users can ask the assistant to complete repetitive tasks such as removing backgrounds or changing colors.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062943" height="383" src="https://techcrunch.com/wp-content/uploads/2025/10/PhotoshopAIAssistant.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Adobe’s VP of generative AI, Alexandru Costin, told TechCrunch that the company decided to build a different mode for its AI assistant in Express to target students and professionals who use the app. The company wants to see if users can achieve what they want to do without having to switch back to the traditional interface, he explained.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We think this approach of switching between two modes, where you get the best of both worlds, is gonna make the technology both accessible and controllable,” Costin said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company said it is also experimenting with a new type of assistant, dubbed “Project Moonlight,” that can coordinate with different assistants from other Adobe tools, and connect to a creator’s social channels to better understand their style. Adobe said the product is in the early stages of development and is in private beta.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="An illustrative image showing prototypes of Adobe's new project of cross-app assistant is a system that gets data from all of its apps. " class="wp-image-3062944" height="383" src="https://techcrunch.com/wp-content/uploads/2025/10/ProjectMoonlight.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company said it is also exploring a way to connect Adobe Express with ChatGPT using OpenAI’s app integrations API to let users create designs directly in ChatGPT.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Adobe also announced a new set of AI features for its Creative Cloud apps. Photoshop users can now choose third-party models, like Google’s Gemini 2.5 flash and Black Forest Labs’ FLUX.1 Kontext, for the generative fill feature, which can remove objects or extend images. The company is also adding an AI-powered object mask in its video editing app, Premiere Pro, to let users easily identify and select objects or people to add effects or adjust colors.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/28/adobe-launches-ai-assistants-for-express-and-photoshop/</guid><pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate></item><item><title>[NEW] Adobe Firefly Image 5 brings support for layers, will let creators make custom models (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Adobe said on Tuesday that it is launching the latest iteration of its image generation model, Firefly Image 5. The company is also adding more features to the Firefly website, support for more third-party models, the ability to generate speech and soundtracks. Notably, the update allows artists to come up with their own image models using their existing art.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Image 5 model can now work at native resolutions of up to 4 megapixels, a massive increase from the previous gen model, which could natively generate images at 1 megapixels but then would upscale them to 4 megapixels. The new model is also better at rendering humans, the company said.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter"&gt;&lt;img alt="alt" class="wp-image-3062893" height="2048" src="https://techcrunch.com/wp-content/uploads/2025/10/FireflyImageModel5.jpeg?w=680" width="3840" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Image 5 also enables layered and prompt-based editing — the model treats different objects as layers and allows you to edit them using prompts, or use tools like resize and rotate. The company said it makes sure that when you edit these layers, the image’s details and integrity are not compromised.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Adobe’s Firefly site has supported third-party models from AI labs like OpenAI, Google, Runway, Topaz, and Flu to augment its appeal to its creative customer base, and now the company is taking that a step further by letting users  create custom models based on their art style. Currently in a closed beta, this feature lets users drag and drop assets, such as images, illustrations and sketches, to create a custom image model based on their style.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company is also adding some new features to its Firefly website, which was redesigned earlier this year. The site now lets you use the prompt box to switch between generating images or videos, choose which AI model you want to work with, change aspect ratios, and more. The site’s home page now features your files and recent generation history, and you also get shortcuts to other Adobe apps (these were previously housed in a menu).&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Adobe has also redesigned the video generation and editing tool to support layers and timeline-based editing. This design change is currently only available in a private beta, and will be rolled out to users eventually.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062895" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/VideoEditor.jpg?w=544" width="544" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Firefly is also getting two new audio features: Users can now employ AI prompts to generate entire soundtracks and speech — using models from ElevenLabs — for videos. There’s also a new way to easily come up with prompts: just add keywords and sections by selecting words from a word cloud.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062894" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/GenerateSoundtrack.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As its competitors like Canva add AI to their platforms, Adobe is trying to cater to new-age creators who are increasingly using AI in their workflows. “We’re thinking of the target audience for Firefly as what we call creators or next-generation creative professionals. I think there are these emergent creatives that are GenAI-oriented. They love to use GenAI in all their workloads,” Alexandru Costin, the company’s VP of generative AI, told TechCrunch over a call.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;He added that with Firefly, the company now has more freedom to add new features and play around with the interface as it doesn’t have to adhere to the muscle memory of creative professionals who might be used to certain workflows in Adobe’s existing Creative Cloud tools.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Adobe said on Tuesday that it is launching the latest iteration of its image generation model, Firefly Image 5. The company is also adding more features to the Firefly website, support for more third-party models, the ability to generate speech and soundtracks. Notably, the update allows artists to come up with their own image models using their existing art.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Image 5 model can now work at native resolutions of up to 4 megapixels, a massive increase from the previous gen model, which could natively generate images at 1 megapixels but then would upscale them to 4 megapixels. The new model is also better at rendering humans, the company said.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter"&gt;&lt;img alt="alt" class="wp-image-3062893" height="2048" src="https://techcrunch.com/wp-content/uploads/2025/10/FireflyImageModel5.jpeg?w=680" width="3840" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Image 5 also enables layered and prompt-based editing — the model treats different objects as layers and allows you to edit them using prompts, or use tools like resize and rotate. The company said it makes sure that when you edit these layers, the image’s details and integrity are not compromised.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Adobe’s Firefly site has supported third-party models from AI labs like OpenAI, Google, Runway, Topaz, and Flu to augment its appeal to its creative customer base, and now the company is taking that a step further by letting users  create custom models based on their art style. Currently in a closed beta, this feature lets users drag and drop assets, such as images, illustrations and sketches, to create a custom image model based on their style.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company is also adding some new features to its Firefly website, which was redesigned earlier this year. The site now lets you use the prompt box to switch between generating images or videos, choose which AI model you want to work with, change aspect ratios, and more. The site’s home page now features your files and recent generation history, and you also get shortcuts to other Adobe apps (these were previously housed in a menu).&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Adobe has also redesigned the video generation and editing tool to support layers and timeline-based editing. This design change is currently only available in a private beta, and will be rolled out to users eventually.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062895" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/VideoEditor.jpg?w=544" width="544" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Firefly is also getting two new audio features: Users can now employ AI prompts to generate entire soundtracks and speech — using models from ElevenLabs — for videos. There’s also a new way to easily come up with prompts: just add keywords and sections by selecting words from a word cloud.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 27-29, 2025&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3062894" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/GenerateSoundtrack.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image credits: Adobe&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As its competitors like Canva add AI to their platforms, Adobe is trying to cater to new-age creators who are increasingly using AI in their workflows. “We’re thinking of the target audience for Firefly as what we call creators or next-generation creative professionals. I think there are these emergent creatives that are GenAI-oriented. They love to use GenAI in all their workloads,” Alexandru Costin, the company’s VP of generative AI, told TechCrunch over a call.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;He added that with Firefly, the company now has more freedom to add new features and play around with the interface as it doesn’t have to adhere to the muscle memory of creative professionals who might be used to certain workflows in Adobe’s existing Creative Cloud tools.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/</guid><pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate></item></channel></rss>
