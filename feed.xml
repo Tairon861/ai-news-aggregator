@@ -1,690 +1,98 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 04 Nov 2025 06:33:34 +0000</lastBuildDate><item><title> ()</title><link>https://deepmind.com/blog/feed/basic/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://deepmind.com/blog/feed/basic/</guid></item><item><title>LLMs show a “highly unreliable” capacity to describe their own internal processes (AI – Ars Technica)</title><link>https://arstechnica.com/ai/2025/11/llms-show-a-highly-unreliable-capacity-to-describe-their-own-internal-processes/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Anthropic finds some LLM “self-awareness,” but “failures of introspection remain the norm.”
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="640" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-514162112-640x640.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-514162112-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Hold up, hold up, I've got this...
-
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;If you ask an LLM to explain its own reasoning process, it may well simply confabulate a plausible-sounding explanation for its actions based on text found in its training data. To get around this problem, Anthropic is expanding on its previous research into AI interpretability with a new study that aims to measure LLMs’ actual so-called “introspective awareness” of their own inference processes.&lt;/p&gt;
-&lt;p&gt;The full paper on “Emergent Introspective Awareness in Large Language Models” uses some interesting methods to separate out the metaphorical “thought process” represented by an LLM’s artificial neurons from simple text output that purports to represent that process. In the end, though, the research finds that current AI models are “highly unreliable” at describing their own inner workings and that “failures of introspection remain the norm.”&lt;/p&gt;
-&lt;h2&gt;Inception, but for AI&lt;/h2&gt;
-&lt;p&gt;Anthropic’s new research is centered on a process it calls “concept injection.” The method starts by comparing the model’s internal activation states following both a control prompt and an experimental prompt (e.g. an “ALL CAPS” prompt versus the same prompt in lower case). Calculating the differences between those activations across billions of internal neurons creates what Anthropic calls a “vector” that in some sense represents how that concept is modeled in the LLM’s internal state.&lt;/p&gt;
-&lt;p&gt;For this research, Anthropic then “injects” those concept vectors into the model, forcing those particular neuronal activations to a higher weight as a way of “steering” the model toward that concept. From there, they conduct a few different experiments to tease out whether the model displays any awareness that its internal state has been modified from the norm.&lt;/p&gt;
-&lt;p&gt;When asked directly whether it detects any such “injected thought,” the tested Anthropic models did show at least some ability to occasionally detect the desired “thought.” When the “all caps” vector is injected, for instance, the model might respond with something along the lines of “I notice what appears to be an injected thought related to the word ‘LOUD’ or ‘SHOUTING,'” without any direct text prompting pointing it toward those concepts.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;figure class="ars-wp-img-shortcode id-2125498 align-fullwidth"&gt;
-    &lt;div&gt;
-              &lt;div class="ars-lightbox"&gt;
-          &lt;div class="ars-lightbox-item"&gt;
-            
-              &lt;img alt="alt" class="fullwidth full" height="4328" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/injected-thoughts-blog.png" width="5580" /&gt;
-            
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      WHY ARE WE ALL YELLING?!
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Anthropic
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;Unfortunately for AI self-awareness boosters, this demonstrated ability was extremely inconsistent and brittle across repeated tests. The best-performing models in Anthropic’s tests—Opus 4 and 4.1—topped out at correctly identifying the injected concept just 20 percent of the time.&lt;/p&gt;
-&lt;p&gt;In a similar test where the model was asked “Are you experiencing anything unusual?” Opus 4.1 improved to a 42 percent success rate that nonetheless still fell below even a bare majority of trials. The size of the “introspection” effect was also highly sensitive to which internal model layer the insertion was performed on—if the concept was introduced too early or too late in the multi-step inference process, the “self-awareness” effect disappeared completely.&lt;/p&gt;
-&lt;h2&gt;Show us the mechanism&lt;/h2&gt;
-&lt;p&gt;Anthropic also took a few other tacks to try to get an LLM’s understanding of its internal state. When asked to “tell me what word you’re thinking about” while reading an unrelated line, for instance, the models would sometimes mention a concept that had been injected into its activations. And when asked to defend a forced response matching an injected concept, the LLM would sometimes apologize and “confabulate an explanation for why the injected concept came to mind.” In every case, though, the result was highly inconsistent across multiple trials.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2125503 align-fullwidth"&gt;
-    &lt;div&gt;
-              &lt;div class="ars-lightbox"&gt;
-          &lt;div class="ars-lightbox-item"&gt;
-            
-              &lt;img alt="alt" class="fullwidth full" height="2476" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/thoughts_q2_finetuned_net.png" width="2970" /&gt;
-            
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Even the most “introspective” models tested by Anthropic only detected the injected “thoughts” about 20 percent of the time.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Antrhopic
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;In the paper, the researchers put some positive spin on the apparent fact that “current language models possess &lt;em&gt;some&lt;/em&gt; functional introspective awareness of their own internal states” [emphasis added]. At the same time, they acknowledge multiple times that this demonstrated ability is much too brittle and context-dependent to be considered dependable. Still, Anthropic hopes that such features “may continue to develop with further improvements to model capabilities.”&lt;/p&gt;
-&lt;p&gt;One thing that might stop such advancement, though, is an overall lack of understanding of the precise mechanism leading to these demonstrated “self-awareness” effects. The researchers theorize about “anomaly detection mechanisms” and “consistency-checking circuits” that might develop organically during the training process to “effectively compute a function of its internal representations” but don’t settle on any concrete explanation.&lt;/p&gt;
-&lt;p&gt;In the end, it will take further research to understand how, exactly, an LLM even begins to show any understanding about how it operates. For now, the researchers acknowledge, “the mechanisms underlying our results could still be rather shallow and narrowly specialized.” And even then, they hasten to add that these LLM capabilities “may not have the same philosophical significance they do in humans, particularly given our uncertainty about their mechanistic basis.”&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Anthropic finds some LLM “self-awareness,” but “failures of introspection remain the norm.”
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="640" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-514162112-640x640.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-514162112-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Hold up, hold up, I've got this...
-
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;If you ask an LLM to explain its own reasoning process, it may well simply confabulate a plausible-sounding explanation for its actions based on text found in its training data. To get around this problem, Anthropic is expanding on its previous research into AI interpretability with a new study that aims to measure LLMs’ actual so-called “introspective awareness” of their own inference processes.&lt;/p&gt;
-&lt;p&gt;The full paper on “Emergent Introspective Awareness in Large Language Models” uses some interesting methods to separate out the metaphorical “thought process” represented by an LLM’s artificial neurons from simple text output that purports to represent that process. In the end, though, the research finds that current AI models are “highly unreliable” at describing their own inner workings and that “failures of introspection remain the norm.”&lt;/p&gt;
-&lt;h2&gt;Inception, but for AI&lt;/h2&gt;
-&lt;p&gt;Anthropic’s new research is centered on a process it calls “concept injection.” The method starts by comparing the model’s internal activation states following both a control prompt and an experimental prompt (e.g. an “ALL CAPS” prompt versus the same prompt in lower case). Calculating the differences between those activations across billions of internal neurons creates what Anthropic calls a “vector” that in some sense represents how that concept is modeled in the LLM’s internal state.&lt;/p&gt;
-&lt;p&gt;For this research, Anthropic then “injects” those concept vectors into the model, forcing those particular neuronal activations to a higher weight as a way of “steering” the model toward that concept. From there, they conduct a few different experiments to tease out whether the model displays any awareness that its internal state has been modified from the norm.&lt;/p&gt;
-&lt;p&gt;When asked directly whether it detects any such “injected thought,” the tested Anthropic models did show at least some ability to occasionally detect the desired “thought.” When the “all caps” vector is injected, for instance, the model might respond with something along the lines of “I notice what appears to be an injected thought related to the word ‘LOUD’ or ‘SHOUTING,'” without any direct text prompting pointing it toward those concepts.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;figure class="ars-wp-img-shortcode id-2125498 align-fullwidth"&gt;
-    &lt;div&gt;
-              &lt;div class="ars-lightbox"&gt;
-          &lt;div class="ars-lightbox-item"&gt;
-            
-              &lt;img alt="alt" class="fullwidth full" height="4328" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/injected-thoughts-blog.png" width="5580" /&gt;
-            
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      WHY ARE WE ALL YELLING?!
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Anthropic
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;Unfortunately for AI self-awareness boosters, this demonstrated ability was extremely inconsistent and brittle across repeated tests. The best-performing models in Anthropic’s tests—Opus 4 and 4.1—topped out at correctly identifying the injected concept just 20 percent of the time.&lt;/p&gt;
-&lt;p&gt;In a similar test where the model was asked “Are you experiencing anything unusual?” Opus 4.1 improved to a 42 percent success rate that nonetheless still fell below even a bare majority of trials. The size of the “introspection” effect was also highly sensitive to which internal model layer the insertion was performed on—if the concept was introduced too early or too late in the multi-step inference process, the “self-awareness” effect disappeared completely.&lt;/p&gt;
-&lt;h2&gt;Show us the mechanism&lt;/h2&gt;
-&lt;p&gt;Anthropic also took a few other tacks to try to get an LLM’s understanding of its internal state. When asked to “tell me what word you’re thinking about” while reading an unrelated line, for instance, the models would sometimes mention a concept that had been injected into its activations. And when asked to defend a forced response matching an injected concept, the LLM would sometimes apologize and “confabulate an explanation for why the injected concept came to mind.” In every case, though, the result was highly inconsistent across multiple trials.&lt;/p&gt;
-&lt;figure class="ars-wp-img-shortcode id-2125503 align-fullwidth"&gt;
-    &lt;div&gt;
-              &lt;div class="ars-lightbox"&gt;
-          &lt;div class="ars-lightbox-item"&gt;
-            
-              &lt;img alt="alt" class="fullwidth full" height="2476" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/thoughts_q2_finetuned_net.png" width="2970" /&gt;
-            
-            
-          &lt;/div&gt;
-        &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;figcaption&gt;
-        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Even the most “introspective” models tested by Anthropic only detected the injected “thoughts” about 20 percent of the time.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Antrhopic
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-      &lt;/figcaption&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;In the paper, the researchers put some positive spin on the apparent fact that “current language models possess &lt;em&gt;some&lt;/em&gt; functional introspective awareness of their own internal states” [emphasis added]. At the same time, they acknowledge multiple times that this demonstrated ability is much too brittle and context-dependent to be considered dependable. Still, Anthropic hopes that such features “may continue to develop with further improvements to model capabilities.”&lt;/p&gt;
-&lt;p&gt;One thing that might stop such advancement, though, is an overall lack of understanding of the precise mechanism leading to these demonstrated “self-awareness” effects. The researchers theorize about “anomaly detection mechanisms” and “consistency-checking circuits” that might develop organically during the training process to “effectively compute a function of its internal representations” but don’t settle on any concrete explanation.&lt;/p&gt;
-&lt;p&gt;In the end, it will take further research to understand how, exactly, an LLM even begins to show any understanding about how it operates. For now, the researchers acknowledge, “the mechanisms underlying our results could still be rather shallow and narrowly specialized.” And even then, they hasten to add that these LLM capabilities “may not have the same philosophical significance they do in humans, particularly given our uncertainty about their mechanistic basis.”&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2025/11/llms-show-a-highly-unreliable-capacity-to-describe-their-own-internal-processes/</guid><pubDate>Mon, 03 Nov 2025 20:08:40 +0000</pubDate></item><item><title>3 Questions: How AI is helping us monitor and support vulnerable ecosystems (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/3q-how-ai-is-helping-monitor-support-vulnerable-ecosystems-1103</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202511/MIT-CSAIL-Justin-Kay.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p dir="ltr" id="docs-internal-guid-7b6e7d1c-7fff-6bcd-4c2a-61dd2e419bca"&gt;&lt;em&gt;A recent&amp;nbsp;&lt;/em&gt;&lt;em&gt;study&lt;/em&gt;&lt;em&gt; from Oregon State University estimated that more than 3,500 animal species are at risk of extinction because of factors including habitat alterations, natural resources being overexploited, and climate change.&lt;/em&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;em&gt;To better understand these changes and protect vulnerable wildlife, conservationists like MIT PhD student and Computer Science and Artificial Intelligence Laboratory (CSAIL) researcher Justin Kay are developing computer vision algorithms that carefully monitor animal populations. A member of the lab of MIT Department of Electrical Engineering and Computer Science assistant professor and CSAIL principal investigator Sara Beery, Kay is currently working on tracking salmon in the Pacific Northwest, where they provide crucial nutrients to predators like birds and bears, while managing the population of prey, like bugs.&lt;/em&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;em&gt;With all that wildlife data, though, researchers have lots of information to sort through and many AI models to choose from to analyze it all. Kay and his colleagues at CSAIL and the University of Massachusetts Amherst are developing AI methods that make this data-crunching process much more efficient, including a new approach called “consensus-driven active model selection” (or “CODA”) that helps conservationists choose which AI model to use. Their&amp;nbsp;&lt;/em&gt;&lt;em&gt;work&lt;/em&gt;&lt;em&gt; was named a Highlight Paper at the International Conference on Computer Vision (ICCV) in October.&lt;/em&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;em&gt;That research was supported, in part, by the National Science Foundation, Natural Sciences and Engineering Research Council of Canada, and Abdul Latif Jameel Water and Food Systems Lab (J-WAFS). Here, Kay discusses this project, among other conservation efforts.&lt;/em&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Q:&lt;/strong&gt; In your paper, you pose the question of which AI models will perform the best on a particular dataset. With as many as 1.9 million pre-trained models available in the HuggingFace Models repository alone, how does CODA help us address that challenge?&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;A:&lt;/strong&gt; Until recently, using AI for data analysis has typically meant training your own model. This requires significant effort to collect and annotate a representative training dataset, as well as iteratively train and validate models. You also need a certain technical skill set to run and modify AI training code. The way people interact with AI is changing, though — in particular, there are now millions of publicly available pre-trained models that can perform a variety of predictive tasks very well. This potentially enables people to use AI to analyze their data without developing their own model, simply by downloading an existing model with the capabilities they need. But this poses a new challenge: Which model, of the millions available, should they use to analyze their data?&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Typically, answering this model selection question also requires you to spend a lot of time collecting and annotating a large dataset, albeit for testing models rather than training them. This is especially true for real applications where user needs are specific, data distributions are imbalanced and constantly changing, and model performance may be inconsistent across samples. Our goal with CODA was to substantially reduce this effort. We do this by making the data annotation process “active.” Instead of requiring users to bulk-annotate a large test dataset all at once, in active model selection we make the process interactive, guiding users to annotate the most informative data points in their raw data. This is remarkably effective, often requiring users to annotate as few as 25 examples to identify the best model from their set of candidates.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;We’re very excited about CODA offering a new perspective on how to best utilize human effort in the development and deployment of machine-learning (ML) systems. As AI models become more commonplace, our work emphasizes the value of focusing effort on robust evaluation pipelines, rather than solely on training.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Q:&lt;/strong&gt; You applied the CODA method to classifying wildlife in images. Why did it perform so well, and what role can systems like this have in monitoring ecosystems in the future?&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;A:&lt;/strong&gt; One key insight was that when considering a collection of candidate AI models, the consensus of all of their predictions is more informative than any individual model’s predictions. This can be seen as a sort of “wisdom of the crowd:” On average, pooling the votes of all models gives you a decent prior over what the labels of individual data points in your raw dataset should be. Our approach with CODA is based on estimating a “confusion matrix” for each AI model — given the true label for some data point is class X, what is the probability that an individual model predicts class X, Y, or Z? This creates informative dependencies between all of the candidate models, the categories you want to label, and the unlabeled points in your dataset.&lt;/p&gt;&lt;p dir="ltr"&gt;Consider an example application where you are a wildlife ecologist who has just collected a dataset containing potentially hundreds of thousands of images from cameras deployed in the wild. You want to know what species are in these images, a time-consuming task that computer vision classifiers can help automate. You are trying to decide which species classification model to run on your data. If you have labeled 50 images of tigers so far, and some model has performed well on those 50 images, you can be pretty confident it will perform well on the remainder of the (currently unlabeled) images of tigers in your raw dataset as well. You also know that when that model predicts some image contains a tiger, it is likely to be correct, and therefore that any model that predicts a different label for that image is more likely to be wrong. You can use all these interdependencies to construct probabilistic estimates of each model’s confusion matrix, as well as a probability distribution over which model has the highest accuracy on the overall dataset. These design choices allow us to make more informed choices over which data points to label and ultimately are the reason why CODA performs model selection much more efficiently than past work.&lt;/p&gt;&lt;p dir="ltr"&gt;There are also a lot of exciting possibilities for building on top of our work. We think there may be even better ways of constructing informative priors for model selection based on domain expertise — for instance, if it is already known that one model performs exceptionally well on some subset of classes or poorly on others. There are also opportunities to extend the framework to support more complex machine-learning tasks and more sophisticated probabilistic models of performance. We hope our work can provide inspiration and a starting point for other researchers to keep pushing the state of the art.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Q:&lt;/strong&gt; You work in the Beerylab, led by Sara Beery, where researchers are combining the pattern-recognition capabilities of machine-learning algorithms with computer vision technology to monitor wildlife. What are some other ways your team is tracking and analyzing the natural world, beyond CODA?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; The lab is a really exciting place to work, and new projects are emerging all the time. We have ongoing projects monitoring coral reefs with drones, re-identifying individual elephants over time, and fusing multi-modal Earth observation data from satellites and in-situ cameras, just to name a few. Broadly, we look at emerging technologies for biodiversity monitoring and try to understand where the data analysis bottlenecks are, and develop new computer vision and machine-learning approaches that address those problems in a widely applicable way. It’s an exciting way of approaching problems that sort of targets the “meta-questions” underlying particular data challenges we face.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The computer vision algorithms I’ve worked on that count migrating salmon in underwater sonar video are examples of that work. We often deal with shifting data distributions, even as we try to construct the most diverse training datasets we can. We always encounter something new when we deploy a new camera, and this tends to degrade the performance of computer vision algorithms. This is one instance of a general problem in machine learning called domain adaptation, but when we tried to apply existing domain adaptation algorithms to our fisheries data we realized there were serious limitations in how existing algorithms were trained and evaluated. We were able to develop a new domain adaptation framework,&amp;nbsp;published earlier this year in&amp;nbsp;&lt;em&gt;Transactions on Machine Learning Research&lt;/em&gt;, that addressed these limitations and led to advancements in fish counting, and even self-driving and spacecraft analysis.&lt;/p&gt;&lt;p dir="ltr"&gt;One line of work that I’m particularly excited about is understanding how to better develop and analyze the performance of predictive ML algorithms in the context of what they are actually used for. Usually, the outputs from some computer vision algorithm — say, bounding boxes around animals in images — are not actually the thing that people care about, but rather a means to an end to answer a larger problem — say, what species live here, and how is that changing over time? We have been working on methods to analyze predictive performance in this context and reconsider the ways that we input human expertise into ML systems with this in mind. CODA was one example of this, where we showed that we could actually consider the ML models themselves as fixed and build a statistical framework to understand their performance very efficiently. We have been working recently on similar integrated analyses combining ML predictions with multi-stage prediction pipelines, as well as ecological statistical models.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The natural world is changing at unprecedented rates and scales, and being able to quickly move from scientific hypotheses or management questions to data-driven answers is more important than ever for protecting ecosystems and the communities that depend on them. Advancements in AI can play an important role, but we need to think critically about the ways that we design, train, and evaluate algorithms in the context of these very real challenges.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202511/MIT-CSAIL-Justin-Kay.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p dir="ltr" id="docs-internal-guid-7b6e7d1c-7fff-6bcd-4c2a-61dd2e419bca"&gt;&lt;em&gt;A recent&amp;nbsp;&lt;/em&gt;&lt;em&gt;study&lt;/em&gt;&lt;em&gt; from Oregon State University estimated that more than 3,500 animal species are at risk of extinction because of factors including habitat alterations, natural resources being overexploited, and climate change.&lt;/em&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;em&gt;To better understand these changes and protect vulnerable wildlife, conservationists like MIT PhD student and Computer Science and Artificial Intelligence Laboratory (CSAIL) researcher Justin Kay are developing computer vision algorithms that carefully monitor animal populations. A member of the lab of MIT Department of Electrical Engineering and Computer Science assistant professor and CSAIL principal investigator Sara Beery, Kay is currently working on tracking salmon in the Pacific Northwest, where they provide crucial nutrients to predators like birds and bears, while managing the population of prey, like bugs.&lt;/em&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;em&gt;With all that wildlife data, though, researchers have lots of information to sort through and many AI models to choose from to analyze it all. Kay and his colleagues at CSAIL and the University of Massachusetts Amherst are developing AI methods that make this data-crunching process much more efficient, including a new approach called “consensus-driven active model selection” (or “CODA”) that helps conservationists choose which AI model to use. Their&amp;nbsp;&lt;/em&gt;&lt;em&gt;work&lt;/em&gt;&lt;em&gt; was named a Highlight Paper at the International Conference on Computer Vision (ICCV) in October.&lt;/em&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;em&gt;That research was supported, in part, by the National Science Foundation, Natural Sciences and Engineering Research Council of Canada, and Abdul Latif Jameel Water and Food Systems Lab (J-WAFS). Here, Kay discusses this project, among other conservation efforts.&lt;/em&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Q:&lt;/strong&gt; In your paper, you pose the question of which AI models will perform the best on a particular dataset. With as many as 1.9 million pre-trained models available in the HuggingFace Models repository alone, how does CODA help us address that challenge?&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;A:&lt;/strong&gt; Until recently, using AI for data analysis has typically meant training your own model. This requires significant effort to collect and annotate a representative training dataset, as well as iteratively train and validate models. You also need a certain technical skill set to run and modify AI training code. The way people interact with AI is changing, though — in particular, there are now millions of publicly available pre-trained models that can perform a variety of predictive tasks very well. This potentially enables people to use AI to analyze their data without developing their own model, simply by downloading an existing model with the capabilities they need. But this poses a new challenge: Which model, of the millions available, should they use to analyze their data?&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Typically, answering this model selection question also requires you to spend a lot of time collecting and annotating a large dataset, albeit for testing models rather than training them. This is especially true for real applications where user needs are specific, data distributions are imbalanced and constantly changing, and model performance may be inconsistent across samples. Our goal with CODA was to substantially reduce this effort. We do this by making the data annotation process “active.” Instead of requiring users to bulk-annotate a large test dataset all at once, in active model selection we make the process interactive, guiding users to annotate the most informative data points in their raw data. This is remarkably effective, often requiring users to annotate as few as 25 examples to identify the best model from their set of candidates.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;We’re very excited about CODA offering a new perspective on how to best utilize human effort in the development and deployment of machine-learning (ML) systems. As AI models become more commonplace, our work emphasizes the value of focusing effort on robust evaluation pipelines, rather than solely on training.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Q:&lt;/strong&gt; You applied the CODA method to classifying wildlife in images. Why did it perform so well, and what role can systems like this have in monitoring ecosystems in the future?&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;A:&lt;/strong&gt; One key insight was that when considering a collection of candidate AI models, the consensus of all of their predictions is more informative than any individual model’s predictions. This can be seen as a sort of “wisdom of the crowd:” On average, pooling the votes of all models gives you a decent prior over what the labels of individual data points in your raw dataset should be. Our approach with CODA is based on estimating a “confusion matrix” for each AI model — given the true label for some data point is class X, what is the probability that an individual model predicts class X, Y, or Z? This creates informative dependencies between all of the candidate models, the categories you want to label, and the unlabeled points in your dataset.&lt;/p&gt;&lt;p dir="ltr"&gt;Consider an example application where you are a wildlife ecologist who has just collected a dataset containing potentially hundreds of thousands of images from cameras deployed in the wild. You want to know what species are in these images, a time-consuming task that computer vision classifiers can help automate. You are trying to decide which species classification model to run on your data. If you have labeled 50 images of tigers so far, and some model has performed well on those 50 images, you can be pretty confident it will perform well on the remainder of the (currently unlabeled) images of tigers in your raw dataset as well. You also know that when that model predicts some image contains a tiger, it is likely to be correct, and therefore that any model that predicts a different label for that image is more likely to be wrong. You can use all these interdependencies to construct probabilistic estimates of each model’s confusion matrix, as well as a probability distribution over which model has the highest accuracy on the overall dataset. These design choices allow us to make more informed choices over which data points to label and ultimately are the reason why CODA performs model selection much more efficiently than past work.&lt;/p&gt;&lt;p dir="ltr"&gt;There are also a lot of exciting possibilities for building on top of our work. We think there may be even better ways of constructing informative priors for model selection based on domain expertise — for instance, if it is already known that one model performs exceptionally well on some subset of classes or poorly on others. There are also opportunities to extend the framework to support more complex machine-learning tasks and more sophisticated probabilistic models of performance. We hope our work can provide inspiration and a starting point for other researchers to keep pushing the state of the art.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Q:&lt;/strong&gt; You work in the Beerylab, led by Sara Beery, where researchers are combining the pattern-recognition capabilities of machine-learning algorithms with computer vision technology to monitor wildlife. What are some other ways your team is tracking and analyzing the natural world, beyond CODA?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; The lab is a really exciting place to work, and new projects are emerging all the time. We have ongoing projects monitoring coral reefs with drones, re-identifying individual elephants over time, and fusing multi-modal Earth observation data from satellites and in-situ cameras, just to name a few. Broadly, we look at emerging technologies for biodiversity monitoring and try to understand where the data analysis bottlenecks are, and develop new computer vision and machine-learning approaches that address those problems in a widely applicable way. It’s an exciting way of approaching problems that sort of targets the “meta-questions” underlying particular data challenges we face.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The computer vision algorithms I’ve worked on that count migrating salmon in underwater sonar video are examples of that work. We often deal with shifting data distributions, even as we try to construct the most diverse training datasets we can. We always encounter something new when we deploy a new camera, and this tends to degrade the performance of computer vision algorithms. This is one instance of a general problem in machine learning called domain adaptation, but when we tried to apply existing domain adaptation algorithms to our fisheries data we realized there were serious limitations in how existing algorithms were trained and evaluated. We were able to develop a new domain adaptation framework,&amp;nbsp;published earlier this year in&amp;nbsp;&lt;em&gt;Transactions on Machine Learning Research&lt;/em&gt;, that addressed these limitations and led to advancements in fish counting, and even self-driving and spacecraft analysis.&lt;/p&gt;&lt;p dir="ltr"&gt;One line of work that I’m particularly excited about is understanding how to better develop and analyze the performance of predictive ML algorithms in the context of what they are actually used for. Usually, the outputs from some computer vision algorithm — say, bounding boxes around animals in images — are not actually the thing that people care about, but rather a means to an end to answer a larger problem — say, what species live here, and how is that changing over time? We have been working on methods to analyze predictive performance in this context and reconsider the ways that we input human expertise into ML systems with this in mind. CODA was one example of this, where we showed that we could actually consider the ML models themselves as fixed and build a statistical framework to understand their performance very efficiently. We have been working recently on similar integrated analyses combining ML predictions with multi-stage prediction pipelines, as well as ecological statistical models.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The natural world is changing at unprecedented rates and scales, and being able to quickly move from scientific hypotheses or management questions to data-driven answers is more important than ever for protecting ecosystems and the communities that depend on them. Advancements in AI can play an important role, but we need to think critically about the ways that we design, train, and evaluate algorithms in the context of these very real challenges.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/3q-how-ai-is-helping-monitor-support-vulnerable-ecosystems-1103</guid><pubDate>Mon, 03 Nov 2025 20:55:00 +0000</pubDate></item><item><title>Lambda inks multibillion-dollar AI infrastructure deal with Microsoft (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Cloud-computing company Lambda deepened its relationship with Microsoft through a sizable AI infrastructure deal.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Nvidia-backed Lambda announced it struck a multibillion-dollar deal with Microsoft on Monday to deploy tens of thousands of Nvidia GPUs, according to a press release. The exact size of the deal was not disclosed. Some of these GPUs will be Nvidia GB300 NVL72 systems, which were announced earlier this year and began shipping in the last few months.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“It’s great to watch the Microsoft and Lambda teams working together to deploy these massive AI supercomputers,” said Stephen Balaban, CEO of Lambda, in the company’s press release. “We’ve been working with Microsoft for more than eight years, and this is a phenomenal next step in our relationship.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Microsoft opened its first Nvidia GB300 NVL72 cluster in October.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Companies like Lambda, which was founded years before the current AI boom in 2012 and has raised $1.7 billion in venture dollars, are seeing strong demand as companies continue to gobble up AI infrastructure and compute.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This announcement comes just hours after Microsoft announced a $9.7 billion deal for AI cloud capacity with IREN, an Australian data center business.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Earlier today, OpenAI announced that it had struck a $38 billion cloud computing deal with Amazon to buy cloud services over the next seven years. The AI company also allegedly inked a $300 billion deal with Oracle for cloud compute in September.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AWS reported it was on track for its best year, in terms of operating income, in three years in its third-quarter earnings results last week. This department of Amazon has collected $33 billion in sales so far this year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“AWS is growing at a pace we haven’t seen since 2022, re-accelerating to 20.2% year-over-year,” Andy Jassy, the president and CEO of Amazon, said in the company’s earnings announcement. “We continue to see strong demand in AI and core infrastructure, and we’ve been focused on accelerating capacity — adding more than 3.8 gigawatts in the past 12 months.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch reached out to Lambda for more information regarding deal structure and size. &lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Cloud-computing company Lambda deepened its relationship with Microsoft through a sizable AI infrastructure deal.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Nvidia-backed Lambda announced it struck a multibillion-dollar deal with Microsoft on Monday to deploy tens of thousands of Nvidia GPUs, according to a press release. The exact size of the deal was not disclosed. Some of these GPUs will be Nvidia GB300 NVL72 systems, which were announced earlier this year and began shipping in the last few months.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“It’s great to watch the Microsoft and Lambda teams working together to deploy these massive AI supercomputers,” said Stephen Balaban, CEO of Lambda, in the company’s press release. “We’ve been working with Microsoft for more than eight years, and this is a phenomenal next step in our relationship.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Microsoft opened its first Nvidia GB300 NVL72 cluster in October.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Companies like Lambda, which was founded years before the current AI boom in 2012 and has raised $1.7 billion in venture dollars, are seeing strong demand as companies continue to gobble up AI infrastructure and compute.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This announcement comes just hours after Microsoft announced a $9.7 billion deal for AI cloud capacity with IREN, an Australian data center business.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Earlier today, OpenAI announced that it had struck a $38 billion cloud computing deal with Amazon to buy cloud services over the next seven years. The AI company also allegedly inked a $300 billion deal with Oracle for cloud compute in September.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AWS reported it was on track for its best year, in terms of operating income, in three years in its third-quarter earnings results last week. This department of Amazon has collected $33 billion in sales so far this year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“AWS is growing at a pace we haven’t seen since 2022, re-accelerating to 20.2% year-over-year,” Andy Jassy, the president and CEO of Amazon, said in the company’s earnings announcement. “We continue to see strong demand in AI and core infrastructure, and we’ve been focused on accelerating capacity — adding more than 3.8 gigawatts in the past 12 months.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch reached out to Lambda for more information regarding deal structure and size. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/</guid><pubDate>Mon, 03 Nov 2025 21:21:24 +0000</pubDate></item><item><title>Helping K-12 schools navigate the complex world of AI (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2025/helping-k-12-schools-navigate-complex-world-of-ai-1103</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202510/ai-in-schools.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p dir="ltr"&gt;With the rapid advancement of generative artificial intelligence, teachers and school leaders are looking for answers to complicated questions about successfully integrating technology into lessons, while also ensuring students actually learn what they’re trying to teach.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Justin Reich, an associate professor in MIT’s&amp;nbsp;Comparative Media Studies/Writing program, hopes a new guidebook published by the&amp;nbsp;MIT Teaching Systems Lab can support K-12 educators as they determine what AI policies or guidelines to craft.&lt;/p&gt;&lt;p dir="ltr"&gt;“Throughout my career, I’ve tried to be a person who researches education and technology and translates findings for people who work in the field,” says Reich. “When tricky things come along I try to jump in and be helpful.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“A Guide to AI in Schools: Perspectives for the Perplexed,” published this fall, was developed with the support of an expert advisory panel and other researchers. The project includes input from more than 100 students and teachers from around the United States, sharing their experiences teaching and learning with new generative AI tools.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“We’re trying to advocate for an ethos of humility as we examine AI in schools,” Reich says. “We’re sharing some examples from educators about how they’re using AI in interesting ways, some of which might prove sturdy and some of which might prove faulty. And we won’t know which is which for a long time.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finding answers to AI and education questions&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;The guidebook attempts to help K-12 educators, students, school leaders, policymakers, and others collect and share information, experiences, and resources. AI’s arrival has left schools scrambling to respond to multiple challenges, like how to ensure academic integrity and maintain data privacy.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Reich cautions that the guidebook&amp;nbsp;is not meant to be prescriptive or definitive, but something that will help spark thought and discussion.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“Writing a guidebook on generative AI in schools in 2025 is a little bit like writing a guidebook of aviation in 1905,” the guidebook’s authors note. “No one in 2025 can say how best to manage AI in schools.”&lt;/p&gt;&lt;p dir="ltr"&gt;Schools are also struggling to measure how student learning loss looks in the age of AI. “How does bypassing productive thinking with AI look in practice?” Reich asks. “If we think teachers provide content and context to support learning and students no longer perform the exercises housing the content and providing the context, that’s a serious problem.”&lt;/p&gt;&lt;p dir="ltr"&gt;Reich invites people directly impacted by AI to help develop solutions to the challenges its ubiquity presents. “It’s like observing a conversation in the teacher’s lounge and inviting students, parents, and other people to participate about how teachers think about AI,” he says, “what they are seeing in their classrooms, and what they’ve tried and how it went.”&lt;/p&gt;&lt;p dir="ltr"&gt;The guidebook, in Reich’s view, is ultimately a collection of hypotheses expressed in interviews with teachers: well-informed, initial guesses about the paths that schools could follow in the years ahead.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Producing educator resources in a podcast&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;In addition to the guidebook, the Teaching Systems Lab also recently produced “The Homework Machine,” a seven-part series from the Teachlab podcast that explores how AI is reshaping&amp;nbsp;K-12 education.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Reich produced the podcast in collaboration with journalist Jesse Dukes. Each episode tackles a specific area, asking important questions about challenges related to issues like AI adoption, poetry as a tool for student engagement, post-Covid learning loss, pedagogy, and book bans. The podcast allows Reich to share timely information about education-related updates and collaborate with people interested in helping further the work.&lt;/p&gt;&lt;p dir="ltr"&gt;“The academic publishing cycle doesn’t lend itself to helping people with near-term challenges like those AI presents,” Reich says. “Peer review takes a long time, and the research produced isn’t always in a form that’s helpful to educators.” Schools and districts are grappling with AI in real time, bypassing time-tested quality control measures.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The podcast can help reduce the time it takes to share, test, and evaluate AI-related solutions to new challenges, which could prove useful in creating training and resources.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“We hope the podcast will spark thought and discussion, allowing people to draw from others’ experiences,” Reich says.&lt;/p&gt;&lt;p dir="ltr"&gt;The podcast was also produced into an hour-long radio special, which was broadcast by public radio stations across the country.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;“We’re fumbling around in the dark”&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Reich is direct in his assessment of where we are with understanding AI and its impacts on education. “We’re fumbling around in the dark,” he says, recalling past attempts to quickly integrate new tech into classrooms. These failures, Reich suggests, highlight the importance of patience and humility as AI research continues. “AI bypassed normal procurement processes in education; it just showed up on kids’ phones,” he notes.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“We’ve been really wrong about tech in the past,” Reich says. Despite districts’ spending on tools like smartboards, for example, research indicates there’s no evidence that they improve learning or outcomes. In a new article for&amp;nbsp;article for &lt;em&gt;The Conversation&lt;/em&gt;,&amp;nbsp;he argues that&amp;nbsp;early teacher guidance in areas like web literacy has produced bad advice that still exists in our educational system. “We taught students and educators not to trust Wikipedia,” he recalls, “and to search for website credibility markers, both of which turned out to be incorrect.” Reich wants to avoid a similar rush to judgment on AI, recommending that we avoid guessing at AI-enabled instructional strategies.&lt;/p&gt;&lt;p dir="ltr"&gt;These challenges, coupled with potential and observed student impacts, significantly raise the stakes for schools and students’ families in the AI race. “Education technology always provokes teacher anxiety,” Reich notes, “but the breadth of AI-related concerns is much greater than in other tech-related areas.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The dawn of the AI age is different from how we’ve previously received tech into our classrooms, Reich says. AI wasn’t adopted like other tech. It simply arrived. It’s now upending educational models and, in some cases, complicating efforts to improve student outcomes.&lt;/p&gt;&lt;p dir="ltr"&gt;Reich is quick to point out that there are no clear, definitive answers on effective AI implementation and use in classrooms; those answers don’t currently exist. Each of the resources Reich helped develop invite engagement from the audiences they target, aggregating valuable responses others might find useful.&lt;/p&gt;&lt;p dir="ltr"&gt;“We can develop long-term solutions to schools’ AI challenges, but it will take time and work,” he says. “AI isn’t like learning to tie knots; we don’t know what AI is, or is going to be, yet.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Reich also recommends learning more about AI implementation from a variety of sources. “Decentralized pockets of learning can help us test ideas, search for themes, and collect evidence on what works,” he says. “We need to know if learning is actually better with AI.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;While teachers don’t get to choose regarding AI’s existence, Reich believes it’s important that we solicit their input and involve students and other stakeholders to help develop solutions that improve learning and outcomes.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“Let’s race to answers that are right, not first,” Reich says.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202510/ai-in-schools.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p dir="ltr"&gt;With the rapid advancement of generative artificial intelligence, teachers and school leaders are looking for answers to complicated questions about successfully integrating technology into lessons, while also ensuring students actually learn what they’re trying to teach.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Justin Reich, an associate professor in MIT’s&amp;nbsp;Comparative Media Studies/Writing program, hopes a new guidebook published by the&amp;nbsp;MIT Teaching Systems Lab can support K-12 educators as they determine what AI policies or guidelines to craft.&lt;/p&gt;&lt;p dir="ltr"&gt;“Throughout my career, I’ve tried to be a person who researches education and technology and translates findings for people who work in the field,” says Reich. “When tricky things come along I try to jump in and be helpful.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“A Guide to AI in Schools: Perspectives for the Perplexed,” published this fall, was developed with the support of an expert advisory panel and other researchers. The project includes input from more than 100 students and teachers from around the United States, sharing their experiences teaching and learning with new generative AI tools.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“We’re trying to advocate for an ethos of humility as we examine AI in schools,” Reich says. “We’re sharing some examples from educators about how they’re using AI in interesting ways, some of which might prove sturdy and some of which might prove faulty. And we won’t know which is which for a long time.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finding answers to AI and education questions&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;The guidebook attempts to help K-12 educators, students, school leaders, policymakers, and others collect and share information, experiences, and resources. AI’s arrival has left schools scrambling to respond to multiple challenges, like how to ensure academic integrity and maintain data privacy.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Reich cautions that the guidebook&amp;nbsp;is not meant to be prescriptive or definitive, but something that will help spark thought and discussion.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“Writing a guidebook on generative AI in schools in 2025 is a little bit like writing a guidebook of aviation in 1905,” the guidebook’s authors note. “No one in 2025 can say how best to manage AI in schools.”&lt;/p&gt;&lt;p dir="ltr"&gt;Schools are also struggling to measure how student learning loss looks in the age of AI. “How does bypassing productive thinking with AI look in practice?” Reich asks. “If we think teachers provide content and context to support learning and students no longer perform the exercises housing the content and providing the context, that’s a serious problem.”&lt;/p&gt;&lt;p dir="ltr"&gt;Reich invites people directly impacted by AI to help develop solutions to the challenges its ubiquity presents. “It’s like observing a conversation in the teacher’s lounge and inviting students, parents, and other people to participate about how teachers think about AI,” he says, “what they are seeing in their classrooms, and what they’ve tried and how it went.”&lt;/p&gt;&lt;p dir="ltr"&gt;The guidebook, in Reich’s view, is ultimately a collection of hypotheses expressed in interviews with teachers: well-informed, initial guesses about the paths that schools could follow in the years ahead.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Producing educator resources in a podcast&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;In addition to the guidebook, the Teaching Systems Lab also recently produced “The Homework Machine,” a seven-part series from the Teachlab podcast that explores how AI is reshaping&amp;nbsp;K-12 education.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Reich produced the podcast in collaboration with journalist Jesse Dukes. Each episode tackles a specific area, asking important questions about challenges related to issues like AI adoption, poetry as a tool for student engagement, post-Covid learning loss, pedagogy, and book bans. The podcast allows Reich to share timely information about education-related updates and collaborate with people interested in helping further the work.&lt;/p&gt;&lt;p dir="ltr"&gt;“The academic publishing cycle doesn’t lend itself to helping people with near-term challenges like those AI presents,” Reich says. “Peer review takes a long time, and the research produced isn’t always in a form that’s helpful to educators.” Schools and districts are grappling with AI in real time, bypassing time-tested quality control measures.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The podcast can help reduce the time it takes to share, test, and evaluate AI-related solutions to new challenges, which could prove useful in creating training and resources.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“We hope the podcast will spark thought and discussion, allowing people to draw from others’ experiences,” Reich says.&lt;/p&gt;&lt;p dir="ltr"&gt;The podcast was also produced into an hour-long radio special, which was broadcast by public radio stations across the country.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;“We’re fumbling around in the dark”&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Reich is direct in his assessment of where we are with understanding AI and its impacts on education. “We’re fumbling around in the dark,” he says, recalling past attempts to quickly integrate new tech into classrooms. These failures, Reich suggests, highlight the importance of patience and humility as AI research continues. “AI bypassed normal procurement processes in education; it just showed up on kids’ phones,” he notes.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“We’ve been really wrong about tech in the past,” Reich says. Despite districts’ spending on tools like smartboards, for example, research indicates there’s no evidence that they improve learning or outcomes. In a new article for&amp;nbsp;article for &lt;em&gt;The Conversation&lt;/em&gt;,&amp;nbsp;he argues that&amp;nbsp;early teacher guidance in areas like web literacy has produced bad advice that still exists in our educational system. “We taught students and educators not to trust Wikipedia,” he recalls, “and to search for website credibility markers, both of which turned out to be incorrect.” Reich wants to avoid a similar rush to judgment on AI, recommending that we avoid guessing at AI-enabled instructional strategies.&lt;/p&gt;&lt;p dir="ltr"&gt;These challenges, coupled with potential and observed student impacts, significantly raise the stakes for schools and students’ families in the AI race. “Education technology always provokes teacher anxiety,” Reich notes, “but the breadth of AI-related concerns is much greater than in other tech-related areas.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;The dawn of the AI age is different from how we’ve previously received tech into our classrooms, Reich says. AI wasn’t adopted like other tech. It simply arrived. It’s now upending educational models and, in some cases, complicating efforts to improve student outcomes.&lt;/p&gt;&lt;p dir="ltr"&gt;Reich is quick to point out that there are no clear, definitive answers on effective AI implementation and use in classrooms; those answers don’t currently exist. Each of the resources Reich helped develop invite engagement from the audiences they target, aggregating valuable responses others might find useful.&lt;/p&gt;&lt;p dir="ltr"&gt;“We can develop long-term solutions to schools’ AI challenges, but it will take time and work,” he says. “AI isn’t like learning to tie knots; we don’t know what AI is, or is going to be, yet.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Reich also recommends learning more about AI implementation from a variety of sources. “Decentralized pockets of learning can help us test ideas, search for themes, and collect evidence on what works,” he says. “We need to know if learning is actually better with AI.”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;While teachers don’t get to choose regarding AI’s existence, Reich believes it’s important that we solicit their input and involve students and other stakeholders to help develop solutions that improve learning and outcomes.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;“Let’s race to answers that are right, not first,” Reich says.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2025/helping-k-12-schools-navigate-complex-world-of-ai-1103</guid><pubDate>Mon, 03 Nov 2025 21:45:00 +0000</pubDate></item><item><title>Altman and Nadella need more power for AI, but they’re not sure how much (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/03/altman-and-nadella-need-more-power-for-ai-but-theyre-not-sure-how-much/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?resize=1200,764" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;How much power is enough for AI? Nobody knows, not even OpenAI CEO Sam Altman or Microsoft CEO Satya Nadella.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That has put software-first businesses like OpenAI and Microsoft in a bind. Much of the tech world has been focused on compute as a major barrier to AI deployment. And while tech companies have been racing to secure power, those efforts have lagged GPU purchases to the point where Microsoft has apparently ordered too many chips for the amount of power it has contracted.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“The cycles of demand and supply in this particular case you can’t really predict,” Nadella said on the BG2 podcast. “The biggest issue we are now having is not a compute glut, but it’s a power and it’s sort of the ability to get the [data center] builds done fast enough close to power.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If you can’t do that, you may actually have a bunch of chips sitting in inventory that I can’t plug in. In fact, that is my problem today. It’s not a supply issue of chips; it’s the fact that I don’t have warm shells to plug into,” Nadella added, referring to the commercial real estate term for buildings ready for tenants.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In some ways, we’re seeing what happens when companies accustomed to dealing with silicon and code, two technologies that scale and deploy quickly compared with massive power plants, need to ramp up their efforts in the energy world.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For more than a decade, electricity demand in the U.S. was flat. But over the last five years, demand from data centers has begun to ramp up, outpacing utilities’ plans for new generating capacity. That has led data center developers to add power in so-called behind-the-meter arrangements, where electricity is fed directly to the data center, skipping the grid.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman, who was also on the podcast, thinks that trouble could be brewing: “If a very cheap form of energy comes online soon at mass scale, then a lot of people are going to be extremely burned with existing contracts they’ve signed.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If we can continue this unbelievable reduction in cost per unit of intelligence — let’s say it’s been averaging like 40x for a given level per year — you know, that’s like a very scary exponent from an infrastructure buildout standpoint,” he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman has invested in nuclear energy, including fission startup Oklo and fusion startup Helion, along with Exowatt, a solar startup that concentrates the sun’s heat and stores it for later use.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;None of those are ready for widespread deployment today, though, and fossil-based technologies like natural gas power plants take years to build. Plus, orders placed today for new gas turbine likely won’t get fulfilled until later this decade.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;That’s partially why tech companies have been adding solar at a rapid clip, drawn to the technology’s inexpensive cost, emissions-free power, and ability to deploy rapidly.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There might be subconscious factors at play, too. Photovoltaic solar is in many ways a parallel technology to semiconductors, and one that has been de-risked and commoditized. Both PV solar and semiconductors are built on silicon substrates, and both roll off production lines as modular components that can be packaged together and tied into parallel arrays that make the completed part more powerful than any individual module.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Because of solar’s modularity and speed of deployment, the pace of construction is much closer to that of a data center.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But both still take time to build, and demand can change much more quickly than either a data center or solar project can be completed. Altman admitted that if AI gets more efficient or if demand doesn’t grow as he expects, some companies might be saddled with idled power plants.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But from his other comments, he doesn’t seem to think that’s likely. Instead, he appears to be a firm believer in Jevons paradox, which says that more efficient use of a resource will lead to greater use, increasing overall demand.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If the price of compute per like unit of intelligence or whatever — however you want to think about it — fell by a factor of a 100 tomorrow, you would see usage go up by much more than 100 and there’d be a lot of things that people would love to do with that compute that just make no economic sense at the current cost,” Altman said.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?resize=1200,764" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;How much power is enough for AI? Nobody knows, not even OpenAI CEO Sam Altman or Microsoft CEO Satya Nadella.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That has put software-first businesses like OpenAI and Microsoft in a bind. Much of the tech world has been focused on compute as a major barrier to AI deployment. And while tech companies have been racing to secure power, those efforts have lagged GPU purchases to the point where Microsoft has apparently ordered too many chips for the amount of power it has contracted.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“The cycles of demand and supply in this particular case you can’t really predict,” Nadella said on the BG2 podcast. “The biggest issue we are now having is not a compute glut, but it’s a power and it’s sort of the ability to get the [data center] builds done fast enough close to power.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If you can’t do that, you may actually have a bunch of chips sitting in inventory that I can’t plug in. In fact, that is my problem today. It’s not a supply issue of chips; it’s the fact that I don’t have warm shells to plug into,” Nadella added, referring to the commercial real estate term for buildings ready for tenants.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In some ways, we’re seeing what happens when companies accustomed to dealing with silicon and code, two technologies that scale and deploy quickly compared with massive power plants, need to ramp up their efforts in the energy world.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For more than a decade, electricity demand in the U.S. was flat. But over the last five years, demand from data centers has begun to ramp up, outpacing utilities’ plans for new generating capacity. That has led data center developers to add power in so-called behind-the-meter arrangements, where electricity is fed directly to the data center, skipping the grid.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman, who was also on the podcast, thinks that trouble could be brewing: “If a very cheap form of energy comes online soon at mass scale, then a lot of people are going to be extremely burned with existing contracts they’ve signed.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If we can continue this unbelievable reduction in cost per unit of intelligence — let’s say it’s been averaging like 40x for a given level per year — you know, that’s like a very scary exponent from an infrastructure buildout standpoint,” he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman has invested in nuclear energy, including fission startup Oklo and fusion startup Helion, along with Exowatt, a solar startup that concentrates the sun’s heat and stores it for later use.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;None of those are ready for widespread deployment today, though, and fossil-based technologies like natural gas power plants take years to build. Plus, orders placed today for new gas turbine likely won’t get fulfilled until later this decade.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;That’s partially why tech companies have been adding solar at a rapid clip, drawn to the technology’s inexpensive cost, emissions-free power, and ability to deploy rapidly.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There might be subconscious factors at play, too. Photovoltaic solar is in many ways a parallel technology to semiconductors, and one that has been de-risked and commoditized. Both PV solar and semiconductors are built on silicon substrates, and both roll off production lines as modular components that can be packaged together and tied into parallel arrays that make the completed part more powerful than any individual module.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Because of solar’s modularity and speed of deployment, the pace of construction is much closer to that of a data center.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But both still take time to build, and demand can change much more quickly than either a data center or solar project can be completed. Altman admitted that if AI gets more efficient or if demand doesn’t grow as he expects, some companies might be saddled with idled power plants.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But from his other comments, he doesn’t seem to think that’s likely. Instead, he appears to be a firm believer in Jevons paradox, which says that more efficient use of a resource will lead to greater use, increasing overall demand.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“If the price of compute per like unit of intelligence or whatever — however you want to think about it — fell by a factor of a 100 tomorrow, you would see usage go up by much more than 100 and there’d be a lot of things that people would love to do with that compute that just make no economic sense at the current cost,” Altman said.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/03/altman-and-nadella-need-more-power-for-ai-but-theyre-not-sure-how-much/</guid><pubDate>Mon, 03 Nov 2025 22:36:09 +0000</pubDate></item><item><title>Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/miyazaki-ai-ghibli.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A Japanese trade organization representing publishers like Studio Ghibli wrote a letter to OpenAI last week, calling for the AI giant to stop training its AI models on their copyrighted content without permission.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Studio Ghibli, the animation studio behind films like “Spirited Away” and “My Neighbor Totoro,” has been especially impacted by OpenAI’s generative AI products. When ChatGPT’s native image generator was released in March, it became a popular trend for users to prompt for re-creations of their selfies or pet pictures in the style of the studio’s films. Even OpenAI CEO Sam Altman changed his profile picture on X to a “Ghiblified” picture.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Now, as more people get access to OpenAI’s Sora app and video generator, Japan’s Content Overseas Distribution Association (CODA) has requested that OpenAI refrain from using its members’ content for machine learning without permission.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;&amp;gt;be me&lt;br /&gt;&amp;gt;grind for a decade trying to help make superintelligence to cure cancer or whatever&lt;br /&gt;&amp;gt;mostly no one cares for first 7.5 years, then for 2.5 years everyone hates you for everything&lt;br /&gt;&amp;gt;wake up one day to hundreds of messages: "look i made you into a twink ghibli style haha"&lt;/p&gt;— Sam Altman (@sama) March 26, 2025&lt;/blockquote&gt;
-&lt;/div&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This request does not come unprompted. OpenAI’s approach to working with copyrighted content is to ask forgiveness, not permission, which has made it all too easy for users to generate photos and videos of copyrighted characters and deceased celebrities. This approach has yielded complaints from institutions like Nintendo, as well as the estate of Dr. Martin Luther King, Jr., who could very easily be deepfaked on the Sora app.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s up to OpenAI to choose whether to cooperate with these requests; if not, the aggrieved parties can file a lawsuit, though United States law remains unclear about the use of copyrighted material for AI training.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There is little precedent thus far to guide judges on their interpretation of copyright law, which has not been updated since 1976. However, a recent ruling by U.S. federal judge William Alsup found that Anthropic did not violate the law by training its AI on copyrighted books — the company did get fined for pirating the books it used for training, though.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But Japan’s CODA claims that this may be considered a copyright violation in Japan.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“In cases, as with Sora 2, where specific copyrighted works are reproduced or similarly generated as outputs, CODA considers that the act of replication during the machine learning process may constitute copyright infringement,” CODA wrote. “Under Japan’s copyright system, prior permission is generally required for the use of copyrighted works, and there is no system allowing one to avoid liability for infringement through subsequent objections.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Hayao Miyazaki, one of the central creative figures of Studio Ghibli, has not commented directly on the proliferation of AI-generated interpretations of his work. However, when he was shown AI-generated 3D animation in 2016, he responded that he was “utterly disgusted.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I can’t watch this stuff and find it interesting,” he said at the time. “I feel strongly that this is an insult to life itself.”&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/miyazaki-ai-ghibli.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A Japanese trade organization representing publishers like Studio Ghibli wrote a letter to OpenAI last week, calling for the AI giant to stop training its AI models on their copyrighted content without permission.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Studio Ghibli, the animation studio behind films like “Spirited Away” and “My Neighbor Totoro,” has been especially impacted by OpenAI’s generative AI products. When ChatGPT’s native image generator was released in March, it became a popular trend for users to prompt for re-creations of their selfies or pet pictures in the style of the studio’s films. Even OpenAI CEO Sam Altman changed his profile picture on X to a “Ghiblified” picture.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Now, as more people get access to OpenAI’s Sora app and video generator, Japan’s Content Overseas Distribution Association (CODA) has requested that OpenAI refrain from using its members’ content for machine learning without permission.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;&amp;gt;be me&lt;br /&gt;&amp;gt;grind for a decade trying to help make superintelligence to cure cancer or whatever&lt;br /&gt;&amp;gt;mostly no one cares for first 7.5 years, then for 2.5 years everyone hates you for everything&lt;br /&gt;&amp;gt;wake up one day to hundreds of messages: "look i made you into a twink ghibli style haha"&lt;/p&gt;— Sam Altman (@sama) March 26, 2025&lt;/blockquote&gt;
-&lt;/div&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This request does not come unprompted. OpenAI’s approach to working with copyrighted content is to ask forgiveness, not permission, which has made it all too easy for users to generate photos and videos of copyrighted characters and deceased celebrities. This approach has yielded complaints from institutions like Nintendo, as well as the estate of Dr. Martin Luther King, Jr., who could very easily be deepfaked on the Sora app.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s up to OpenAI to choose whether to cooperate with these requests; if not, the aggrieved parties can file a lawsuit, though United States law remains unclear about the use of copyrighted material for AI training.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There is little precedent thus far to guide judges on their interpretation of copyright law, which has not been updated since 1976. However, a recent ruling by U.S. federal judge William Alsup found that Anthropic did not violate the law by training its AI on copyrighted books — the company did get fined for pirating the books it used for training, though.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But Japan’s CODA claims that this may be considered a copyright violation in Japan.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“In cases, as with Sora 2, where specific copyrighted works are reproduced or similarly generated as outputs, CODA considers that the act of replication during the machine learning process may constitute copyright infringement,” CODA wrote. “Under Japan’s copyright system, prior permission is generally required for the use of copyrighted works, and there is no system allowing one to avoid liability for infringement through subsequent objections.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Hayao Miyazaki, one of the central creative figures of Studio Ghibli, has not commented directly on the proliferation of AI-generated interpretations of his work. However, when he was shown AI-generated 3D animation in 2016, he responded that he was “utterly disgusted.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I can’t watch this stuff and find it interesting,” he said at the time. “I feel strongly that this is an insult to life itself.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/</guid><pubDate>Mon, 03 Nov 2025 22:43:03 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 04 Nov 2025 12:49:17 +0000</lastBuildDate><item><title> ()</title><link>https://deepmind.com/blog/feed/basic/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://deepmind.com/blog/feed/basic/</guid></item><item><title>[NEW] NVIDIA Partners Bring Physical AI, New Smart City Technologies to Dublin, Ho Chi Minh City, Raleigh and More (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/physical-ai-smart-city-expo-world-congress/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/scewc-featured-1280x680-1.jpg" /&gt;&lt;/div&gt;&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Two out of every three people are likely to be living in cities or other urban centers by 2050, according to the United Nations, meaning about 2.5 billion people could be added to urban areas by the middle of the century. This highlights an urgent need for more sustainable urban planning and public services.&lt;/p&gt;
+&lt;p&gt;The smart traffic management market alone is projected to reach $20 billion by 2027 as cities deploy AI to accommodate growing population density and tourism-driven congestion.&lt;/p&gt;
+&lt;p&gt;Improved traffic management is just one way AI is enhancing public spaces, transit and city processes — with many physical AI technologies being showcased at the Smart City Expo World Congress (SCEWC) taking place this week in Barcelona.&lt;/p&gt;
+&lt;p&gt;At the event, NVIDIA’s expanding ecosystem of physical AI partners will be on full display —&amp;nbsp; including simulation and mapping companies, software vendors, manufacturers, systems integrators, and cloud and edge providers — all exhibiting their latest smart spaces applications.&lt;/p&gt;
+&lt;p&gt;[embedded content]&lt;/p&gt;
+&lt;p&gt;The NVIDIA Blueprint for smart city AI — announced in June at NVIDIA GTC Paris — combines digital twins with NVIDIA Omniverse libraries, synthetic data generation, AI model training with vision language models (VLMs) and video analytics AI agents using the NVIDIA Blueprint for video search and summarization (VSS).&lt;/p&gt;
+&lt;p&gt;These work together in a single, streamlined workflow, enabling rapid simulation of real-world urban conditions, vast sensor integration and real-time vision AI.&lt;/p&gt;
+&lt;p&gt;Updates to the blueprint include new NVIDIA Cosmos world foundation models and VLMs to generate photorealistic synthetic data and provide physical reasoning capabilities, as well as the latest version of the VSS blueprint&amp;nbsp; — part of the NVIDIA Metropolis platform for training and building vision AI agents and applications.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Access step-by-step intelligent traffic system workflows and technical recipes in new cookbooks for &lt;/i&gt;&lt;i&gt;NVIDIA Cosmos Predict&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;NVIDIA Cosmos Transfer&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;NVIDIA Cosmos Reason&lt;/i&gt;&lt;i&gt;.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Learn more about how five leading companies are using these NVIDIA technologies to bring secure, scalable physical AI to more cities, including Dublin, Ireland; Ho Chi Minh City, Vietnam; and Raleigh, North Carolina.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Five NVIDIA Physical AI Partners Showcasing New Technologies at SCEWC&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Urban populations are soaring, infrastructure is aging, and challenges like traffic congestion, climate resilience and real-time safety demand new levels of responsiveness and intelligence.&lt;/p&gt;
+&lt;p&gt;But integrating these video- and data-intensive systems isn’t just a matter of upgrading old infrastructure. Smart city deployments require a seamless fusion of next-generation AI, cloud and edge computing, ultrafast networking and open data platforms. A global ecosystem of partners, such as the ones highlighted below, must come together to solve these technological and real-world challenges for city-scale AI solutions.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Esri&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Mapping and spatial analytics company Esri is working with NVIDIA to build an AI agent that ingests, analyzes and visualizes massive amounts of camera data to generate real-time alerts and insights in an interactive geospatial map for the City of Raleigh in North Carolina.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;An interactive geospatial map of Raleigh with a video analytics AI agent processing live sensor data. Images courtesy of Esri and the City of Raleigh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This will enable city operators to quickly respond and notify key departments to efficiently resolve issues, optimize traffic flows and improve infrastructure design, boosting overall urban mobility. Tapping into components of the NVIDIA Blueprint for smart city AI will enable the city to discover, aggregate and manipulate data to help address key resident concerns, automate streetlight timing to reduce road delays and decrease carbon emissions from cars sitting in traffic.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Milestone Systems&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Milestone Systems is now introducing generative AI to its XProtect video management platform — allowing users to easily extract valuable analyses and insights from their video streams and libraries, review alerts and automatically generate reports. This functionality is powered by NVIDIA Cosmos Reason VLMs that Milestone post-trained with 75,000 hours of compliant traffic video, for each VLM, from either Europe or the U.S.&lt;/p&gt;
+&lt;p&gt;Milestone is also offering these specialized VLMs-as-a-service to developers to build innovative applications. General availability is expected later this year.&lt;/p&gt;
+
+&lt;p&gt;XProtect customers can easily add these new, GDPR-compliant features and add an additional layer of intelligence by contextualizing video, scheduling insights and providing on-demand reporting and automatic review of alerts. These features could reduce up to 30% of operator alarm fatigue by automating video review and filtering out false alarms. Cities like Dubuque, Iowa, and Genoa, Italy, are planning to try these new capabilities, adopting advanced video intelligence solutions to enhance traffic management.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Linker Vision&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Linker Vision, a pioneer in deploying the end-to-end NVIDIA Blueprint for smart city AI, is bringing physical AI to Ho Chi Minh City and Danang in Vietnam.&lt;/p&gt;
+&lt;p&gt;[embedded content]&lt;/p&gt;
+&lt;p&gt;Building on its success in Kaohsiung City, Taiwan, where its vision AI platform cut incident response times by up to 80%, Linker Vision, tapping into AVES Reality’s simulation-ready 3D digital twins using NVIDIA Omniverse, is now harnessing the blueprint to develop city-scale AI solutions that can simulate and monitor traffic and construction activities, helping ensure projects stay on schedule while improving urban mobility and operational efficiency.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Bentley Systems&lt;/b&gt;&lt;b&gt;, in Collaboration With &lt;/b&gt;&lt;b&gt;VivaCity&lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Ireland’s Smart Dublin organization addresses urban challenges with physical AI and is tapping into Cesium, a 3D geospatial platform from Bentley Systems, and NVIDIA Omniverse to enable real-time data visualization and analysis for micromobility — like walking, cycling and using scooters — across the city.&lt;/p&gt;
+&lt;p&gt;In addition, AI transportation technology company VivaCity is using the NVIDIA Jetson and Metropolis platforms on its AI-powered computer vision sensors, providing Dublin with highly accurate, multimodal data and insights on cyclists, motor vehicles and pedestrians. This data is used to understand traffic patterns and road user behavior, as well as to identify dangerous sites using VivaCity’s award-winning solution across the Irish capital’s roadways, improving road safety and traffic flow.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Video courtesy of Smart Dublin and Bentley Systems.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Smart Dublin is also working with partners to integrate AI agents into a digital twin to gain insights and alert city operators faster. As a first step, Smart Dublin integrated VivaCity data into a Cesium-powered digital twin to visualize and understand bike route utilization. Adding rainfall data, the city saw that poor weather had a negligible impact on the number of cyclists on the road. Future plans include adding AI features like natural language search.&lt;/p&gt;
+&lt;p&gt;In addition to the Smart Dublin project, Bentley’s AI technology Blyncsy uses NVIDIA Cosmos and Metropolis to generate synthetic data for analyzing road conditions and improving maintenance.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Deloitte&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Deloitte is applying AI to automate street inspections across thousands of crosswalks for city transportation departments, aiming to protect vulnerable roadway users such as pedestrians and bikers.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;i&gt;NVIDIA Cosmos Transfer simulates real-world conditions and generates videos for different scenarios. Video courtesy of Deloitte.&lt;/i&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;With Cosmos Predict, Deloitte converts static intersection images into photorealistic, physically accurate videos. Then, Cosmos Transfer generates videos across a mixture of real-world scenarios, such as fog, rain, snow and low light — bringing each environment to life. Finally, Cosmos Reason helps evaluate these videos and identify potential areas of improvement, making the process insightful and dynamic.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Join NVIDIA and Partners at Smart City Expo World Congress&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;The NVIDIA hardware and other ecosystem partners making such smart city deployments possible include AAEON, Advantech, Aetina, Dell Technologies, HPE, OpenZeka and YUAN High Technologies.&lt;/p&gt;
+&lt;p&gt;Many of these partners will exhibit physical AI demos running on NVIDIA RTX PRO Servers, NVIDIA DGX Spark — the world’s smallest AI supercomputer — as well as NVIDIA Jetson Thor modules on the show floor.&lt;/p&gt;
+&lt;p&gt;Plus, see Akila’s physical AI technologies in the Monaco-Monte-Carlo train stations, as well as its digital twin solutions for the University Mohammed VI Polytechnic campus in Morocco.&lt;/p&gt;
+&lt;p&gt;And K2K will be demonstrating its real-time analytics solution that uses NVIDIA Cosmos Reason and the VSS blueprint to optimize roadway safety in addition to traffic and waste management.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;See city-scale AI and urban innovation in action by joining &lt;/i&gt;&lt;i&gt;NVIDIA and its partners at SCEWC&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;sign up to be notified&lt;/i&gt;&lt;i&gt; when the NVIDIA Blueprint for smart city AI becomes available.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Stay up to date by following NVIDIA AI on &lt;/i&gt;&lt;i&gt;LinkedIn&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;X&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/scewc-featured-1280x680-1.jpg" /&gt;&lt;/div&gt;&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Two out of every three people are likely to be living in cities or other urban centers by 2050, according to the United Nations, meaning about 2.5 billion people could be added to urban areas by the middle of the century. This highlights an urgent need for more sustainable urban planning and public services.&lt;/p&gt;
+&lt;p&gt;The smart traffic management market alone is projected to reach $20 billion by 2027 as cities deploy AI to accommodate growing population density and tourism-driven congestion.&lt;/p&gt;
+&lt;p&gt;Improved traffic management is just one way AI is enhancing public spaces, transit and city processes — with many physical AI technologies being showcased at the Smart City Expo World Congress (SCEWC) taking place this week in Barcelona.&lt;/p&gt;
+&lt;p&gt;At the event, NVIDIA’s expanding ecosystem of physical AI partners will be on full display —&amp;nbsp; including simulation and mapping companies, software vendors, manufacturers, systems integrators, and cloud and edge providers — all exhibiting their latest smart spaces applications.&lt;/p&gt;
+&lt;p&gt;[embedded content]&lt;/p&gt;
+&lt;p&gt;The NVIDIA Blueprint for smart city AI — announced in June at NVIDIA GTC Paris — combines digital twins with NVIDIA Omniverse libraries, synthetic data generation, AI model training with vision language models (VLMs) and video analytics AI agents using the NVIDIA Blueprint for video search and summarization (VSS).&lt;/p&gt;
+&lt;p&gt;These work together in a single, streamlined workflow, enabling rapid simulation of real-world urban conditions, vast sensor integration and real-time vision AI.&lt;/p&gt;
+&lt;p&gt;Updates to the blueprint include new NVIDIA Cosmos world foundation models and VLMs to generate photorealistic synthetic data and provide physical reasoning capabilities, as well as the latest version of the VSS blueprint&amp;nbsp; — part of the NVIDIA Metropolis platform for training and building vision AI agents and applications.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Access step-by-step intelligent traffic system workflows and technical recipes in new cookbooks for &lt;/i&gt;&lt;i&gt;NVIDIA Cosmos Predict&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;NVIDIA Cosmos Transfer&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;NVIDIA Cosmos Reason&lt;/i&gt;&lt;i&gt;.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Learn more about how five leading companies are using these NVIDIA technologies to bring secure, scalable physical AI to more cities, including Dublin, Ireland; Ho Chi Minh City, Vietnam; and Raleigh, North Carolina.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Five NVIDIA Physical AI Partners Showcasing New Technologies at SCEWC&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;Urban populations are soaring, infrastructure is aging, and challenges like traffic congestion, climate resilience and real-time safety demand new levels of responsiveness and intelligence.&lt;/p&gt;
+&lt;p&gt;But integrating these video- and data-intensive systems isn’t just a matter of upgrading old infrastructure. Smart city deployments require a seamless fusion of next-generation AI, cloud and edge computing, ultrafast networking and open data platforms. A global ecosystem of partners, such as the ones highlighted below, must come together to solve these technological and real-world challenges for city-scale AI solutions.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Esri&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Mapping and spatial analytics company Esri is working with NVIDIA to build an AI agent that ingests, analyzes and visualizes massive amounts of camera data to generate real-time alerts and insights in an interactive geospatial map for the City of Raleigh in North Carolina.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;An interactive geospatial map of Raleigh with a video analytics AI agent processing live sensor data. Images courtesy of Esri and the City of Raleigh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This will enable city operators to quickly respond and notify key departments to efficiently resolve issues, optimize traffic flows and improve infrastructure design, boosting overall urban mobility. Tapping into components of the NVIDIA Blueprint for smart city AI will enable the city to discover, aggregate and manipulate data to help address key resident concerns, automate streetlight timing to reduce road delays and decrease carbon emissions from cars sitting in traffic.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Milestone Systems&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Milestone Systems is now introducing generative AI to its XProtect video management platform — allowing users to easily extract valuable analyses and insights from their video streams and libraries, review alerts and automatically generate reports. This functionality is powered by NVIDIA Cosmos Reason VLMs that Milestone post-trained with 75,000 hours of compliant traffic video, for each VLM, from either Europe or the U.S.&lt;/p&gt;
+&lt;p&gt;Milestone is also offering these specialized VLMs-as-a-service to developers to build innovative applications. General availability is expected later this year.&lt;/p&gt;
+
+&lt;p&gt;XProtect customers can easily add these new, GDPR-compliant features and add an additional layer of intelligence by contextualizing video, scheduling insights and providing on-demand reporting and automatic review of alerts. These features could reduce up to 30% of operator alarm fatigue by automating video review and filtering out false alarms. Cities like Dubuque, Iowa, and Genoa, Italy, are planning to try these new capabilities, adopting advanced video intelligence solutions to enhance traffic management.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Linker Vision&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Linker Vision, a pioneer in deploying the end-to-end NVIDIA Blueprint for smart city AI, is bringing physical AI to Ho Chi Minh City and Danang in Vietnam.&lt;/p&gt;
+&lt;p&gt;[embedded content]&lt;/p&gt;
+&lt;p&gt;Building on its success in Kaohsiung City, Taiwan, where its vision AI platform cut incident response times by up to 80%, Linker Vision, tapping into AVES Reality’s simulation-ready 3D digital twins using NVIDIA Omniverse, is now harnessing the blueprint to develop city-scale AI solutions that can simulate and monitor traffic and construction activities, helping ensure projects stay on schedule while improving urban mobility and operational efficiency.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Bentley Systems&lt;/b&gt;&lt;b&gt;, in Collaboration With &lt;/b&gt;&lt;b&gt;VivaCity&lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Ireland’s Smart Dublin organization addresses urban challenges with physical AI and is tapping into Cesium, a 3D geospatial platform from Bentley Systems, and NVIDIA Omniverse to enable real-time data visualization and analysis for micromobility — like walking, cycling and using scooters — across the city.&lt;/p&gt;
+&lt;p&gt;In addition, AI transportation technology company VivaCity is using the NVIDIA Jetson and Metropolis platforms on its AI-powered computer vision sensors, providing Dublin with highly accurate, multimodal data and insights on cyclists, motor vehicles and pedestrians. This data is used to understand traffic patterns and road user behavior, as well as to identify dangerous sites using VivaCity’s award-winning solution across the Irish capital’s roadways, improving road safety and traffic flow.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Video courtesy of Smart Dublin and Bentley Systems.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Smart Dublin is also working with partners to integrate AI agents into a digital twin to gain insights and alert city operators faster. As a first step, Smart Dublin integrated VivaCity data into a Cesium-powered digital twin to visualize and understand bike route utilization. Adding rainfall data, the city saw that poor weather had a negligible impact on the number of cyclists on the road. Future plans include adding AI features like natural language search.&lt;/p&gt;
+&lt;p&gt;In addition to the Smart Dublin project, Bentley’s AI technology Blyncsy uses NVIDIA Cosmos and Metropolis to generate synthetic data for analyzing road conditions and improving maintenance.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Deloitte&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Deloitte is applying AI to automate street inspections across thousands of crosswalks for city transportation departments, aiming to protect vulnerable roadway users such as pedestrians and bikers.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;i&gt;NVIDIA Cosmos Transfer simulates real-world conditions and generates videos for different scenarios. Video courtesy of Deloitte.&lt;/i&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;With Cosmos Predict, Deloitte converts static intersection images into photorealistic, physically accurate videos. Then, Cosmos Transfer generates videos across a mixture of real-world scenarios, such as fog, rain, snow and low light — bringing each environment to life. Finally, Cosmos Reason helps evaluate these videos and identify potential areas of improvement, making the process insightful and dynamic.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Join NVIDIA and Partners at Smart City Expo World Congress&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;The NVIDIA hardware and other ecosystem partners making such smart city deployments possible include AAEON, Advantech, Aetina, Dell Technologies, HPE, OpenZeka and YUAN High Technologies.&lt;/p&gt;
+&lt;p&gt;Many of these partners will exhibit physical AI demos running on NVIDIA RTX PRO Servers, NVIDIA DGX Spark — the world’s smallest AI supercomputer — as well as NVIDIA Jetson Thor modules on the show floor.&lt;/p&gt;
+&lt;p&gt;Plus, see Akila’s physical AI technologies in the Monaco-Monte-Carlo train stations, as well as its digital twin solutions for the University Mohammed VI Polytechnic campus in Morocco.&lt;/p&gt;
+&lt;p&gt;And K2K will be demonstrating its real-time analytics solution that uses NVIDIA Cosmos Reason and the VSS blueprint to optimize roadway safety in addition to traffic and waste management.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;See city-scale AI and urban innovation in action by joining &lt;/i&gt;&lt;i&gt;NVIDIA and its partners at SCEWC&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;sign up to be notified&lt;/i&gt;&lt;i&gt; when the NVIDIA Blueprint for smart city AI becomes available.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Stay up to date by following NVIDIA AI on &lt;/i&gt;&lt;i&gt;LinkedIn&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;X&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/physical-ai-smart-city-expo-world-congress/</guid><pubDate>Tue, 04 Nov 2025 07:00:19 +0000</pubDate></item><item><title>[NEW] ClinCheck Live brings AI planning to Invisalign dental treatments (AI News)</title><link>https://www.artificialintelligence-news.com/news/clincheck-live-brings-ai-planning-to-invisalign-dental-treatments/</link><description>&lt;p&gt;Align Technology, a medical device company that designs, manufactures, and sells the Invisalign system of clear aligners, exocad CAD/CAM software, and iTero intra-oral scanners, has unveiled ClinCheck Live Plan, a new feature in its Invisalign digital dental treatment planning.&lt;/p&gt;&lt;p&gt;ClinCheck Live Plan is designed to automate the creation of an initial Invisalign treatment plan that’s ready for a practitioner to review and approve, cutting treatment planning cycles from days down to just 15 minutes. The goal is to help patients get the treatment they need faster.&lt;/p&gt;&lt;p&gt;The latest plan follows Align’s range of new treatment planning tools and automation features launched in recent years, like cloud-based ClinCheck Pro 6.0 software, the automated Invisalign Personalised Plan templates, and the one-page Flex Rx prescription form for simplified workflows. Each new feature has been designed to improve consistency, dentist control, and speed.&lt;/p&gt;&lt;p&gt;Built on Align’s data and algorithms, ClinCheck Live Plan has been in development for decades, with insights from dentists and orthodontists who have treated over 21 million Invisalign patients globally.&lt;/p&gt;&lt;p&gt;Dentists will be able to create and adjust treatment plans and, once an eligible case has been submitted using the Flex Rx system, receive a personalised ClinCheck treatment plan in approximately 15 minutes.&lt;/p&gt;&lt;p&gt;Invisalign specialists can review their patients’ teeth and how they plan to adjust them, helping improve service while the patient is present. Once an Invisalign clinician submits a new case with an iTero intra-oral scan and a completed Flex Rx prescription, the ClinCheck Live Plan system makes a 3D plan. Ultimately, a faster process should help clinics operate more efficiently and enhance their patients’ experiences.&lt;/p&gt;&lt;p&gt;Invisalign-trained specialists that currently use the ClinCheck preferences template and Flex Rx form will gain access to ClinCheck Live Plan when it becomes available in their region. A worldwide rollout of the plan is set to start in the first quarter of 2026.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Visiting the dentist in SL” by Daniel Voyager is licensed under CC BY 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Align Technology, a medical device company that designs, manufactures, and sells the Invisalign system of clear aligners, exocad CAD/CAM software, and iTero intra-oral scanners, has unveiled ClinCheck Live Plan, a new feature in its Invisalign digital dental treatment planning.&lt;/p&gt;&lt;p&gt;ClinCheck Live Plan is designed to automate the creation of an initial Invisalign treatment plan that’s ready for a practitioner to review and approve, cutting treatment planning cycles from days down to just 15 minutes. The goal is to help patients get the treatment they need faster.&lt;/p&gt;&lt;p&gt;The latest plan follows Align’s range of new treatment planning tools and automation features launched in recent years, like cloud-based ClinCheck Pro 6.0 software, the automated Invisalign Personalised Plan templates, and the one-page Flex Rx prescription form for simplified workflows. Each new feature has been designed to improve consistency, dentist control, and speed.&lt;/p&gt;&lt;p&gt;Built on Align’s data and algorithms, ClinCheck Live Plan has been in development for decades, with insights from dentists and orthodontists who have treated over 21 million Invisalign patients globally.&lt;/p&gt;&lt;p&gt;Dentists will be able to create and adjust treatment plans and, once an eligible case has been submitted using the Flex Rx system, receive a personalised ClinCheck treatment plan in approximately 15 minutes.&lt;/p&gt;&lt;p&gt;Invisalign specialists can review their patients’ teeth and how they plan to adjust them, helping improve service while the patient is present. Once an Invisalign clinician submits a new case with an iTero intra-oral scan and a completed Flex Rx prescription, the ClinCheck Live Plan system makes a 3D plan. Ultimately, a faster process should help clinics operate more efficiently and enhance their patients’ experiences.&lt;/p&gt;&lt;p&gt;Invisalign-trained specialists that currently use the ClinCheck preferences template and Flex Rx form will gain access to ClinCheck Live Plan when it becomes available in their region. A worldwide rollout of the plan is set to start in the first quarter of 2026.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Visiting the dentist in SL” by Daniel Voyager is licensed under CC BY 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/clincheck-live-brings-ai-planning-to-invisalign-dental-treatments/</guid><pubDate>Tue, 04 Nov 2025 11:37:13 +0000</pubDate></item></channel></rss>
