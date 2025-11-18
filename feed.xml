@@ -1,779 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 18 Nov 2025 01:45:34 +0000</lastBuildDate><item><title> ()</title><link>https://deepmind.com/blog/feed/basic/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://deepmind.com/blog/feed/basic/</guid></item><item><title>MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/Runlayer-Team.jpg?resize=1200,686" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;On Monday, a new Model Context Protocol security startup called Runlayer launched out of stealth with $11 million in seed funding from Khosla Ventures’ Keith Rabois and Felicis.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It was created by third-time founder Andrew Berman (previous companies: baby-monitor maker Nanit and an AI video conferencing tool, Vowel, that sold to Zapier in 2024).&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In the four months since Runlayer launched its product in stealth, it has signed dozens of customers, including eight unicorns or public companies like Gusto, dbt Labs, Instacart, and Opendoor, it says.&amp;nbsp;It also nabbed David Soria Parra, the lead creator of MCP, as an angel and advisor, Berman tells TechCrunch.&amp;nbsp;(Parra did not respond to our request for comment.)&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Parra’s team at Anthropic launched the protocol in November 2024 as an open source project. MCP has since become the de facto standard for allowing AI agents to connect with the data and systems they need to work independently. It allows agents to access data, move it, alter it, and execute business processes without human oversight.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The protocol is now supported by every major model maker including OpenAI, Microsoft, AWS, and Google, as well as thousands of tech and enterprise companies; just to name a few: Atlassian, Asana, Stripe, Block, and others ranging from banks to consumer goods manufacturers.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Everyone talks about AI,” Berman, Runlayer’s CEO, told TechCrunch, “but AI is really only as useful as the tools and the resources it has access to.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The problem is, the MCP protocol itself doesn’t include much security out of the box, so many MCP implementations have already been found to be vulnerable in a variety of ways.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The poster children are probably GitHub and Asana. In May, researchers at Invariant Labs discovered a prompt injection vulnerability in MCP servers that allowed them to grab data from private GitHub repositories (ones that shouldn’t have been accessible to the public).&amp;nbsp;Asana discovered and fixed a vulnerability in its MCP server in June that could have exposed customer data. There have since been many more types of attacks found to work on common MCP server setups.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As you might expect, such security issues have given rise to numerous MCP security products, including products from big-name companies like Cloudflare, Docker, and Wiz — as well as a host of startups tackling more specific products.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The most common type of MCP security product these days is a gateway, essentially a security layer for identifying the agents and controlling their access to apps.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Runlayer plans to stand out in this crowded market by being an all-in-one security tool that combines a gateway with features like threat detection that analyzes every MCP request; observability that watched all agentic activity across all MCP servers that IT has permitted; enterprise development where IT can build custom AI automations for enterprise users; and detailed permissions that work with existing identity providers like Okta and Entra.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Like other competitors, such as open source Obot, Runlayer business users are presented with an Okta-like catalog of the pre-vetted MCP servers that their IT will allow agents to access.&amp;nbsp;Runlayer matches the agents’ app permissions to the human users’ permissions. For instance, some people might have read-only access to financial systems, some write access (the ability to change the data). Others have no access at all.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Berman believes Runlayer stands out from the crowd, not just with the breadth of the product, but because of the team’s experience. He founded the startup because, after selling Vowel to Zapier, he became the director of Zapier’s AI, and built one of the first MCP servers, working closely at the time with OpenAI and Anthropic, he said.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What are the problems that we saw with the protocol? One, it was the security risk because it was adopted so quickly,” he said. There were “blind spots” in areas like observability and audits, that make it risky for enterprises to roll out to users.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So in August, “we left our jobs. We signed up David Soria Parra, the creator of the spec, and in four months, we’ve signed up eight unicorns,” he said of himself and his co-founders from Zapier Tal Peretz and Vitor Balocco.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other advisors and investors in the company, Berman says, include head of security at Cursor Travis McPeak, and founder of Neon Nikita Shamgunov.&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/Runlayer-Team.jpg?resize=1200,686" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;On Monday, a new Model Context Protocol security startup called Runlayer launched out of stealth with $11 million in seed funding from Khosla Ventures’ Keith Rabois and Felicis.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It was created by third-time founder Andrew Berman (previous companies: baby-monitor maker Nanit and an AI video conferencing tool, Vowel, that sold to Zapier in 2024).&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In the four months since Runlayer launched its product in stealth, it has signed dozens of customers, including eight unicorns or public companies like Gusto, dbt Labs, Instacart, and Opendoor, it says.&amp;nbsp;It also nabbed David Soria Parra, the lead creator of MCP, as an angel and advisor, Berman tells TechCrunch.&amp;nbsp;(Parra did not respond to our request for comment.)&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Parra’s team at Anthropic launched the protocol in November 2024 as an open source project. MCP has since become the de facto standard for allowing AI agents to connect with the data and systems they need to work independently. It allows agents to access data, move it, alter it, and execute business processes without human oversight.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The protocol is now supported by every major model maker including OpenAI, Microsoft, AWS, and Google, as well as thousands of tech and enterprise companies; just to name a few: Atlassian, Asana, Stripe, Block, and others ranging from banks to consumer goods manufacturers.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Everyone talks about AI,” Berman, Runlayer’s CEO, told TechCrunch, “but AI is really only as useful as the tools and the resources it has access to.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The problem is, the MCP protocol itself doesn’t include much security out of the box, so many MCP implementations have already been found to be vulnerable in a variety of ways.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The poster children are probably GitHub and Asana. In May, researchers at Invariant Labs discovered a prompt injection vulnerability in MCP servers that allowed them to grab data from private GitHub repositories (ones that shouldn’t have been accessible to the public).&amp;nbsp;Asana discovered and fixed a vulnerability in its MCP server in June that could have exposed customer data. There have since been many more types of attacks found to work on common MCP server setups.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As you might expect, such security issues have given rise to numerous MCP security products, including products from big-name companies like Cloudflare, Docker, and Wiz — as well as a host of startups tackling more specific products.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The most common type of MCP security product these days is a gateway, essentially a security layer for identifying the agents and controlling their access to apps.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Runlayer plans to stand out in this crowded market by being an all-in-one security tool that combines a gateway with features like threat detection that analyzes every MCP request; observability that watched all agentic activity across all MCP servers that IT has permitted; enterprise development where IT can build custom AI automations for enterprise users; and detailed permissions that work with existing identity providers like Okta and Entra.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Like other competitors, such as open source Obot, Runlayer business users are presented with an Okta-like catalog of the pre-vetted MCP servers that their IT will allow agents to access.&amp;nbsp;Runlayer matches the agents’ app permissions to the human users’ permissions. For instance, some people might have read-only access to financial systems, some write access (the ability to change the data). Others have no access at all.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Berman believes Runlayer stands out from the crowd, not just with the breadth of the product, but because of the team’s experience. He founded the startup because, after selling Vowel to Zapier, he became the director of Zapier’s AI, and built one of the first MCP servers, working closely at the time with OpenAI and Anthropic, he said.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What are the problems that we saw with the protocol? One, it was the security risk because it was adopted so quickly,” he said. There were “blind spots” in areas like observability and audits, that make it risky for enterprises to roll out to users.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So in August, “we left our jobs. We signed up David Soria Parra, the creator of the spec, and in four months, we’ve signed up eight unicorns,” he said of himself and his co-founders from Zapier Tal Peretz and Vitor Balocco.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other advisors and investors in the company, Berman says, include head of security at Cursor Travis McPeak, and founder of Neon Nikita Shamgunov.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/</guid><pubDate>Mon, 17 Nov 2025 14:00:00 +0000</pubDate></item><item><title>Luminal raises $5.3 million to build a better GPU code framework (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/Studio-Session-71723.jpeg?resize=800,1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Three years ago, Luminal co-founder Joe Fioti was working on chip design at Intel when he came to a realization. While he was working on making the best chips he could, the more important bottleneck was in software.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“You can make the best hardware on earth, but if it’s hard for developers to use, they’re just not going to use it,” he told me.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Now, he’s started a company that focuses entirely on that problem. On Monday, Luminal announced $5.3 million in seed funding, in a round led by Felicis Ventures with angel investment from Paul Graham, Guillermo Rauch, and Ben Porterfield.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Fioti’s co-founders, Jake Stevens and Matthew Gunton, come from Apple and Amazon, respectively, and the company was part of Y Combinator’s Summer 2025 batch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Luminal’s core business is simple: the company sells compute, just like neo-cloud companies like Coreweave or Lambda Labs. But where those companies focus on GPUs, Luminal has focused on optimization techniques that let the company squeeze more compute out of the infrastructure it has. In particular, the company focuses on optimizing the compiler that sits between written code and the GPU hardware — the same developer systems that caused Fioti so many headaches in his previous job.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At the moment, the industry’s leading compiler is Nvidia’s CUDA system — an underrated element in the company’s runaway success. But many elements of CUDA are open-source, and Luminal is betting that, with many in the industry still scrambling for GPUs, there will be a lot of value to be gained in building out the rest of the stack.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s part of a growing cohort of inference-optimization startups, which have grown more valuable as companies look for faster and cheaper ways to run their models. Inference providers like Baseten and Together AI have long specialized in optimization, and smaller companies like Tensormesh and Clarifai are now popping up to focus on more specific technical tricks.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Luminal and other members of the cohort will face stiff competition from optimization teams at major labs, which have the benefit of optimizing for a single family of models. Working for clients, Luminal has to adapt to whatever model comes their way. But even with the risk of being out-gunned by the hyperscalers, Fioti says the market is growing fast enough that he’s not worried.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It is always going to be possible to spend six months hand tuning a model architecture on a given hardware, and you’re probably going to beat any sorts of, any sort of compiler performance,” Fioti says. “But our big bet is that anything short of that, the all-purpose use case is still very economically valuable.”&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/Studio-Session-71723.jpeg?resize=800,1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Three years ago, Luminal co-founder Joe Fioti was working on chip design at Intel when he came to a realization. While he was working on making the best chips he could, the more important bottleneck was in software.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“You can make the best hardware on earth, but if it’s hard for developers to use, they’re just not going to use it,” he told me.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Now, he’s started a company that focuses entirely on that problem. On Monday, Luminal announced $5.3 million in seed funding, in a round led by Felicis Ventures with angel investment from Paul Graham, Guillermo Rauch, and Ben Porterfield.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Fioti’s co-founders, Jake Stevens and Matthew Gunton, come from Apple and Amazon, respectively, and the company was part of Y Combinator’s Summer 2025 batch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Luminal’s core business is simple: the company sells compute, just like neo-cloud companies like Coreweave or Lambda Labs. But where those companies focus on GPUs, Luminal has focused on optimization techniques that let the company squeeze more compute out of the infrastructure it has. In particular, the company focuses on optimizing the compiler that sits between written code and the GPU hardware — the same developer systems that caused Fioti so many headaches in his previous job.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At the moment, the industry’s leading compiler is Nvidia’s CUDA system — an underrated element in the company’s runaway success. But many elements of CUDA are open-source, and Luminal is betting that, with many in the industry still scrambling for GPUs, there will be a lot of value to be gained in building out the rest of the stack.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s part of a growing cohort of inference-optimization startups, which have grown more valuable as companies look for faster and cheaper ways to run their models. Inference providers like Baseten and Together AI have long specialized in optimization, and smaller companies like Tensormesh and Clarifai are now popping up to focus on more specific technical tricks.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Luminal and other members of the cohort will face stiff competition from optimization teams at major labs, which have the benefit of optimizing for a single family of models. Working for clients, Luminal has to adapt to whatever model comes their way. But even with the risk of being out-gunned by the hyperscalers, Fioti says the market is growing fast enough that he’s not worried.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It is always going to be possible to spend six months hand tuning a model architecture on a given hardware, and you’re probably going to beat any sorts of, any sort of compiler performance,” Fioti says. “But our big bet is that anything short of that, the all-purpose use case is still very economically valuable.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/</guid><pubDate>Mon, 17 Nov 2025 14:03:33 +0000</pubDate></item><item><title>Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Amazon’s founder Jeff Bezos seems to be getting his hands dirty once again: The billionaire is partly backing a new AI startup called Project Prometheus that has raised $6.2 billion in funding, and will take on duties as co-chief executive of the new venture, The New York Times reported, citing several sources familiar with the project.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bezos will share the position with Vik Bajaj, who previously led and co-founded Google’s life sciences division. Bajaj also co-founded Verily, a biotech startup owned by Alphabet, and is the co-founder of Foresite Labs, an AI-focused affiliate of investment firm Foresite Capital, though the report notes he recently left the firm to start Prometheus, the report said.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Bezos would be returning to operations for the first time since he stepped away from Amazon in 2021.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;According to the NYT, the startup is going to build AI products for engineering and manufacturing in various fields like computers, aerospace, and automobiles. Project Prometheus is focused on “AI for the physical economy,” per its LinkedIn page, and the report noted that its work will resemble that of Periodic Labs, which is building technology to speed up scientific research by simulating the physical world to train AI models.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company already has almost 100 staff, including researchers from AI firms like Meta, OpenAI, and Google DeepMind, the report said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Amazon and Bajaj did not immediately respond to a request for comment. &lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Amazon’s founder Jeff Bezos seems to be getting his hands dirty once again: The billionaire is partly backing a new AI startup called Project Prometheus that has raised $6.2 billion in funding, and will take on duties as co-chief executive of the new venture, The New York Times reported, citing several sources familiar with the project.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bezos will share the position with Vik Bajaj, who previously led and co-founded Google’s life sciences division. Bajaj also co-founded Verily, a biotech startup owned by Alphabet, and is the co-founder of Foresite Labs, an AI-focused affiliate of investment firm Foresite Capital, though the report notes he recently left the firm to start Prometheus, the report said.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Bezos would be returning to operations for the first time since he stepped away from Amazon in 2021.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;According to the NYT, the startup is going to build AI products for engineering and manufacturing in various fields like computers, aerospace, and automobiles. Project Prometheus is focused on “AI for the physical economy,” per its LinkedIn page, and the report noted that its work will resemble that of Periodic Labs, which is building technology to speed up scientific research by simulating the physical world to train AI models.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company already has almost 100 staff, including researchers from AI firms like Meta, OpenAI, and Google DeepMind, the report said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Amazon and Bajaj did not immediately respond to a request for comment. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/</guid><pubDate>Mon, 17 Nov 2025 14:33:30 +0000</pubDate></item><item><title>PowerLattice attracts investment from ex-Intel CEO Pat Gelsinger for its power-saving chiplet (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/17/powerlattice-attracts-investment-from-ex-intel-ceo-pat-gelsinger-for-its-power-saving-chiplet/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/Chiplet-on-finger-for-scale.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;If you pay attention to what the biggest tech companies are saying about AI demand, you’ll notice a common thread: they’re running short of compute capacity. That means the large language models underpinning AI products today need even more data centers to be trained and for inferencing, and therefore, they need more power. Against that backdrop, energy efficiency has suddenly become a critical priority for semiconductor manufacturers. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;PowerLattice, a startup founded by veteran electrical engineers from Qualcomm, NUVIA, and Intel in 2023, claims to have developed a groundbreaking approach that reduces the power needs of computer chips by more than 50%. On Monday, the startup emerged from stealth with a $25 million Series A funding round led by Playground Global and Celesta Capital, bringing its total funding to $31 million.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“This is the hard stuff: How do you get power into the device? There are very few teams and people that can do it,” said Pat Gelsinger, general partner at Playground Global. “We have assembled what I’d argue is the dream team of power delivery.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As the former CEO of Intel, Gelsinger carries significant authority in the semiconductor world, which makes his participation a powerful stamp of approval for PowerLattice.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In fact, when the startup’s CEO Dr. Peng Zou and its founding team pitched their idea at Playground’s offices in March, they were so star-struck by Gelsinger’s fame that they asked him for a selfie, Gelsinger told TechCrunch. The admiration proved mutual, as Gelsinger came away genuinely impressed with PowerLattice’s technology.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The startup’s tech sounds simple in concept: a tiny power delivery chiplet that’s designed to bring power closer to the processor, significantly minimizing energy loss.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Two years in, PowerLattice has already achieved its first key milestone: Its first batch of chiplets is being produced by TSMC, in partnership with an unnamed manufacturer that is testing the startup’s functionality, Gelsinger said.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beyond its initial customer, the startup plans to make its product available for testing by other customers in the first half of 2026. The trials should prove instructive, given that PowerLattice’s potential customer set includes major chip manufacturers Nvidia, Broadcom, and AMD, as well as specialized AI chip developers, such as Cerberus, Grok, and Playground-backed startups d-Matrix and NextSilicon.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Although every chip company has internal teams working on improving energy efficiency, Gelsinger hopes that PowerLattice’s innovative approach will pique their interest.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“They may say, ‘I’m going to take some volume to this approach, some volume to my more traditional approach’,” he said. “But we think our ability to capture meaningful share will quickly emerge.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;PowerLattice is not the only startup attempting to help chip manufacturers address the energy problem. The company would compete most closely with Empower Semiconductor, a startup that raised a $140 million Series D, led by Fidelity Management &amp;amp; Research Company, in September.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;However, Gelsinger is certain that PowerLattice’s 50% energy efficiency gain is an “extraordinary” result, and he expects the company to soon raise a much larger funding round to fund production.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The idea is bold, the benefits are large, and I expect others will be saying, ‘That’s a great idea. Let me try as well,’” Gelsinger said.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/Chiplet-on-finger-for-scale.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;If you pay attention to what the biggest tech companies are saying about AI demand, you’ll notice a common thread: they’re running short of compute capacity. That means the large language models underpinning AI products today need even more data centers to be trained and for inferencing, and therefore, they need more power. Against that backdrop, energy efficiency has suddenly become a critical priority for semiconductor manufacturers. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;PowerLattice, a startup founded by veteran electrical engineers from Qualcomm, NUVIA, and Intel in 2023, claims to have developed a groundbreaking approach that reduces the power needs of computer chips by more than 50%. On Monday, the startup emerged from stealth with a $25 million Series A funding round led by Playground Global and Celesta Capital, bringing its total funding to $31 million.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“This is the hard stuff: How do you get power into the device? There are very few teams and people that can do it,” said Pat Gelsinger, general partner at Playground Global. “We have assembled what I’d argue is the dream team of power delivery.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As the former CEO of Intel, Gelsinger carries significant authority in the semiconductor world, which makes his participation a powerful stamp of approval for PowerLattice.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In fact, when the startup’s CEO Dr. Peng Zou and its founding team pitched their idea at Playground’s offices in March, they were so star-struck by Gelsinger’s fame that they asked him for a selfie, Gelsinger told TechCrunch. The admiration proved mutual, as Gelsinger came away genuinely impressed with PowerLattice’s technology.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The startup’s tech sounds simple in concept: a tiny power delivery chiplet that’s designed to bring power closer to the processor, significantly minimizing energy loss.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Two years in, PowerLattice has already achieved its first key milestone: Its first batch of chiplets is being produced by TSMC, in partnership with an unnamed manufacturer that is testing the startup’s functionality, Gelsinger said.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beyond its initial customer, the startup plans to make its product available for testing by other customers in the first half of 2026. The trials should prove instructive, given that PowerLattice’s potential customer set includes major chip manufacturers Nvidia, Broadcom, and AMD, as well as specialized AI chip developers, such as Cerberus, Grok, and Playground-backed startups d-Matrix and NextSilicon.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Although every chip company has internal teams working on improving energy efficiency, Gelsinger hopes that PowerLattice’s innovative approach will pique their interest.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“They may say, ‘I’m going to take some volume to this approach, some volume to my more traditional approach’,” he said. “But we think our ability to capture meaningful share will quickly emerge.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;PowerLattice is not the only startup attempting to help chip manufacturers address the energy problem. The company would compete most closely with Empower Semiconductor, a startup that raised a $140 million Series D, led by Fidelity Management &amp;amp; Research Company, in September.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;However, Gelsinger is certain that PowerLattice’s 50% energy efficiency gain is an “extraordinary” result, and he expects the company to soon raise a much larger funding round to fund production.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The idea is bold, the benefits are large, and I expect others will be saying, ‘That’s a great idea. Let me try as well,’” Gelsinger said.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/17/powerlattice-attracts-investment-from-ex-intel-ceo-pat-gelsinger-for-its-power-saving-chiplet/</guid><pubDate>Mon, 17 Nov 2025 15:08:23 +0000</pubDate></item><item><title>Quantitative finance experts believe graduates ill-equipped for AI future (AI News)</title><link>https://www.artificialintelligence-news.com/news/quantitative-finance-experts-believe-graduates-ill-equipped-for-ai-future/</link><description>&lt;p&gt;New insight from the CQF Institute, a worldwide network for quantitative finance professionals (quants), reveals that fewer than one in ten specialists believe new graduates possess the AI and machine learning skills necessary to succeed in the industry. This highlights a growing issue in quantitative finance: a lack of human understanding and fluency in the language of machines.&lt;/p&gt;&lt;p&gt;The CQF survey underscores a serious shortage of skills among those working in or entering the quantitative finance sector. As AI becomes increasingly important for success, it’s a worrying trend. Experts say the industry must close this skills gap through improved education, training, and upskilling initiatives.&lt;/p&gt;&lt;p&gt;AI adoption is increasing. Despite the limited understanding of AI and machine learning, the survey found that 83% of respondents use or develop AI tools, with 31% using machine learning and AI. Popular tools include ChatGPT (31%), Microsoft/GitHub Copilot (17%), and Gemini/Bard (15%), while 18% use deep learning. A significant 54% of quants use these tools daily.&lt;/p&gt;&lt;p&gt;Thirty percent of quants use generative AI for coding and debugging, 21% for market sentiment analysis and research, and 20% for generating reports. AI and machine learning have become influential in key quantitative finance areas. For example, 26% harness AI for research/alpha generation, 19% for algorithmic trading, and 17% for risk management.&lt;/p&gt;&lt;p&gt;Forty-four percent of respondents reported substantial productivity improvements thanks to AI, while 25% said they save over ten hours weekly with AI-assisted processes.&lt;/p&gt;&lt;p&gt;Challenges remain, however. According to the report, 16% of respondents have regulatory concerns, 17% worry about computer costs, and model explainability – understanding how AI reaches conclusions – is the number one barrier, with 41% reporting it as a key concern.&lt;/p&gt;&lt;p&gt;Formal AI training is also a challenge, as just 14% of firms offer such programmes and workforce development. Consequently, only 9% of new graduates are considered “AI-ready.”&lt;/p&gt;&lt;p&gt;Dr.Randeep Gug, Managing Director of the CQF Institute, emphasises the importance of equipping graduates with the skills to use AI effectively.&lt;/p&gt;&lt;p&gt;“Our future professionals must hit the ground running and know when an AI tool truly adds value.”&lt;/p&gt;&lt;p&gt;Nevertheless, momentum exists despite these obstacles. Twenty-five percent of firms have established formal AI strategies, 24% are developing plans, and 23% anticipate increases to budgets to support company infrastructure over the next year.&lt;/p&gt;&lt;p&gt;The future of quantitative finance will likely depend more on human collaboration with technology than on traditional mathematical expertise. While the industry faces challenges, the key to overcoming them is for humans to be prepared and skilled enough to implement these tools effectively.&lt;/p&gt;&lt;p&gt;Dr.Gug concluded, “Embracing ongoing education and innovative technologies are important to shape the future of quantitative finance.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “In Quantity” by MTSOfan is licensed under CC BY-NC-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;New insight from the CQF Institute, a worldwide network for quantitative finance professionals (quants), reveals that fewer than one in ten specialists believe new graduates possess the AI and machine learning skills necessary to succeed in the industry. This highlights a growing issue in quantitative finance: a lack of human understanding and fluency in the language of machines.&lt;/p&gt;&lt;p&gt;The CQF survey underscores a serious shortage of skills among those working in or entering the quantitative finance sector. As AI becomes increasingly important for success, it’s a worrying trend. Experts say the industry must close this skills gap through improved education, training, and upskilling initiatives.&lt;/p&gt;&lt;p&gt;AI adoption is increasing. Despite the limited understanding of AI and machine learning, the survey found that 83% of respondents use or develop AI tools, with 31% using machine learning and AI. Popular tools include ChatGPT (31%), Microsoft/GitHub Copilot (17%), and Gemini/Bard (15%), while 18% use deep learning. A significant 54% of quants use these tools daily.&lt;/p&gt;&lt;p&gt;Thirty percent of quants use generative AI for coding and debugging, 21% for market sentiment analysis and research, and 20% for generating reports. AI and machine learning have become influential in key quantitative finance areas. For example, 26% harness AI for research/alpha generation, 19% for algorithmic trading, and 17% for risk management.&lt;/p&gt;&lt;p&gt;Forty-four percent of respondents reported substantial productivity improvements thanks to AI, while 25% said they save over ten hours weekly with AI-assisted processes.&lt;/p&gt;&lt;p&gt;Challenges remain, however. According to the report, 16% of respondents have regulatory concerns, 17% worry about computer costs, and model explainability – understanding how AI reaches conclusions – is the number one barrier, with 41% reporting it as a key concern.&lt;/p&gt;&lt;p&gt;Formal AI training is also a challenge, as just 14% of firms offer such programmes and workforce development. Consequently, only 9% of new graduates are considered “AI-ready.”&lt;/p&gt;&lt;p&gt;Dr.Randeep Gug, Managing Director of the CQF Institute, emphasises the importance of equipping graduates with the skills to use AI effectively.&lt;/p&gt;&lt;p&gt;“Our future professionals must hit the ground running and know when an AI tool truly adds value.”&lt;/p&gt;&lt;p&gt;Nevertheless, momentum exists despite these obstacles. Twenty-five percent of firms have established formal AI strategies, 24% are developing plans, and 23% anticipate increases to budgets to support company infrastructure over the next year.&lt;/p&gt;&lt;p&gt;The future of quantitative finance will likely depend more on human collaboration with technology than on traditional mathematical expertise. While the industry faces challenges, the key to overcoming them is for humans to be prepared and skilled enough to implement these tools effectively.&lt;/p&gt;&lt;p&gt;Dr.Gug concluded, “Embracing ongoing education and innovative technologies are important to shape the future of quantitative finance.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “In Quantity” by MTSOfan is licensed under CC BY-NC-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/quantitative-finance-experts-believe-graduates-ill-equipped-for-ai-future/</guid><pubDate>Mon, 17 Nov 2025 15:13:57 +0000</pubDate></item><item><title>How Levi Strauss is using AI for its DTC-first business model (AI News)</title><link>https://www.artificialintelligence-news.com/news/how-levi-strauss-is-using-ai-for-dtc-first-business-model/</link><description>&lt;p&gt;In its pursuit of a direct-to-consumer (DTC) first business model, Levi Strauss is weaving AI and cloud platforms into its core operations.&lt;/p&gt;&lt;p&gt;The nearly 175-year-old apparel company is leveraging Microsoft technologies to modernise its consumer experiences and improve internal productivity. Levi Strauss’ approach provides a case study for other enterprises in using a unified technology stack to address a specific commercial objective.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-ai-superagent-a-unified-front-end-for-operations-at-levi-strauss"&gt;AI ‘superagent’: A unified front-end for operations at Levi Strauss&lt;/h3&gt;&lt;p&gt;A central component of this initiative is the development of agentic AI solutions. Levi Strauss is deploying an Azure-native “orchestrator agent” embedded within Microsoft Teams, which functions as a “superagent”.&lt;/p&gt;&lt;p&gt;This agent serves as a single conversational portal for employees across corporate, retail, and warehouse environments. Operationally, it fields employee questions and routes them to specialist behind-the-scenes subagents, some of which are already deployed. This points toward a consolidation of employee-facing tools; instead of training staff on multiple applications, the agent provides a single interface to streamline workflows.&lt;/p&gt;&lt;p&gt;This AI-centric business model is part of a wider goal outlined by Jason Gowans, Chief Digital and Technology Officer at Levi Strauss &amp;amp; Co.&lt;/p&gt;&lt;p&gt;“We’re rewiring Levi Strauss &amp;amp; Co to be a DTC-first, fan-obsessed retailer making every interaction faster, smarter, and more personal,” said Gowans. “AI sits at the center of that pivot—fueling innovation, elevating employee creativity, unlocking productivity, and helping us deliver the connected, memorable experiences that keep our fans returning again and again.”&lt;/p&gt;&lt;p&gt;This focus on productivity extends to the developer side. Teams are using GitHub Copilot for key projects involving quality engineering and release management. At the same time, other employees are being equipped with Microsoft Surface Copilot+ PCs. Employee feedback indicates these devices have led to improvements in speed and data handling, with features like the Copilot key reducing time spent searching for information.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-foundational-cloud-and-security-posture"&gt;The foundational cloud and security posture&lt;/h3&gt;&lt;p&gt;Levi Strauss’ AI implementation rests on prerequisite infrastructure work. For business leaders, this highlights that advanced AI models require a consolidated cloud environment.&lt;/p&gt;&lt;p&gt;As part of its broader digital efforts, Levi Strauss is relying on Microsoft Azure, having moved application workloads from its on-premises data centres. The company used Azure Migrate and GitHub Copilot to plan and execute the consolidation of its private data centre environment.&lt;/p&gt;&lt;p&gt;This cloud foundation is also central to the company’s security posture. Levi Strauss is leveraging Azure AI Foundry and Semantic Kernel to build intelligent automation capabilities.&lt;/p&gt;&lt;p&gt;Security is being integrated into the AI framework itself and the tools are being used to power security agents and policy orchestration; a method that allows Levi Strauss to maintain a zero-trust security model while continuing to scale its AI-driven initiatives across global operations.&lt;/p&gt;&lt;p&gt;To manage the new hardware endpoints, the company is also using Microsoft Intune for zero-touch device onboarding and application deployment.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-leveraging-the-full-ai-ecosystem-to-pivot-business-model"&gt;Leveraging the full AI ecosystem to pivot business model&lt;/h3&gt;&lt;p&gt;Levi Strauss’ initiative demonstrates an ecosystem-based approach to adopting AI. Rather than a piecemeal rollout of individual tools, the company is integrating AI agents, developer tools, and new hardware on top of a common cloud platform.&lt;/p&gt;&lt;p&gt;Keith Mercier, VP of Worldwide Retail and Consumer Goods Industry at Microsoft, noted that Levi Strauss “exemplifies how iconic brands can reinvent themselves with cloud and AI technologies.”&lt;/p&gt;&lt;p&gt;For other enterprises, the Levi Strauss case study serves as a blueprint for linking AI and foundational cloud migration directly to high-value outcomes like the pivot to a DTC business model.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;IBM: Data silos are holding back enterprise AI&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-110599" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-6.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;In its pursuit of a direct-to-consumer (DTC) first business model, Levi Strauss is weaving AI and cloud platforms into its core operations.&lt;/p&gt;&lt;p&gt;The nearly 175-year-old apparel company is leveraging Microsoft technologies to modernise its consumer experiences and improve internal productivity. Levi Strauss’ approach provides a case study for other enterprises in using a unified technology stack to address a specific commercial objective.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-ai-superagent-a-unified-front-end-for-operations-at-levi-strauss"&gt;AI ‘superagent’: A unified front-end for operations at Levi Strauss&lt;/h3&gt;&lt;p&gt;A central component of this initiative is the development of agentic AI solutions. Levi Strauss is deploying an Azure-native “orchestrator agent” embedded within Microsoft Teams, which functions as a “superagent”.&lt;/p&gt;&lt;p&gt;This agent serves as a single conversational portal for employees across corporate, retail, and warehouse environments. Operationally, it fields employee questions and routes them to specialist behind-the-scenes subagents, some of which are already deployed. This points toward a consolidation of employee-facing tools; instead of training staff on multiple applications, the agent provides a single interface to streamline workflows.&lt;/p&gt;&lt;p&gt;This AI-centric business model is part of a wider goal outlined by Jason Gowans, Chief Digital and Technology Officer at Levi Strauss &amp;amp; Co.&lt;/p&gt;&lt;p&gt;“We’re rewiring Levi Strauss &amp;amp; Co to be a DTC-first, fan-obsessed retailer making every interaction faster, smarter, and more personal,” said Gowans. “AI sits at the center of that pivot—fueling innovation, elevating employee creativity, unlocking productivity, and helping us deliver the connected, memorable experiences that keep our fans returning again and again.”&lt;/p&gt;&lt;p&gt;This focus on productivity extends to the developer side. Teams are using GitHub Copilot for key projects involving quality engineering and release management. At the same time, other employees are being equipped with Microsoft Surface Copilot+ PCs. Employee feedback indicates these devices have led to improvements in speed and data handling, with features like the Copilot key reducing time spent searching for information.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-foundational-cloud-and-security-posture"&gt;The foundational cloud and security posture&lt;/h3&gt;&lt;p&gt;Levi Strauss’ AI implementation rests on prerequisite infrastructure work. For business leaders, this highlights that advanced AI models require a consolidated cloud environment.&lt;/p&gt;&lt;p&gt;As part of its broader digital efforts, Levi Strauss is relying on Microsoft Azure, having moved application workloads from its on-premises data centres. The company used Azure Migrate and GitHub Copilot to plan and execute the consolidation of its private data centre environment.&lt;/p&gt;&lt;p&gt;This cloud foundation is also central to the company’s security posture. Levi Strauss is leveraging Azure AI Foundry and Semantic Kernel to build intelligent automation capabilities.&lt;/p&gt;&lt;p&gt;Security is being integrated into the AI framework itself and the tools are being used to power security agents and policy orchestration; a method that allows Levi Strauss to maintain a zero-trust security model while continuing to scale its AI-driven initiatives across global operations.&lt;/p&gt;&lt;p&gt;To manage the new hardware endpoints, the company is also using Microsoft Intune for zero-touch device onboarding and application deployment.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-leveraging-the-full-ai-ecosystem-to-pivot-business-model"&gt;Leveraging the full AI ecosystem to pivot business model&lt;/h3&gt;&lt;p&gt;Levi Strauss’ initiative demonstrates an ecosystem-based approach to adopting AI. Rather than a piecemeal rollout of individual tools, the company is integrating AI agents, developer tools, and new hardware on top of a common cloud platform.&lt;/p&gt;&lt;p&gt;Keith Mercier, VP of Worldwide Retail and Consumer Goods Industry at Microsoft, noted that Levi Strauss “exemplifies how iconic brands can reinvent themselves with cloud and AI technologies.”&lt;/p&gt;&lt;p&gt;For other enterprises, the Levi Strauss case study serves as a blueprint for linking AI and foundational cloud migration directly to high-value outcomes like the pivot to a DTC business model.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;IBM: Data silos are holding back enterprise AI&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-110599" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-6.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/how-levi-strauss-is-using-ai-for-dtc-first-business-model/</guid><pubDate>Mon, 17 Nov 2025 15:34:20 +0000</pubDate></item><item><title>Local AI models: How to keep control of the bidstream without losing your data (AI News)</title><link>https://www.artificialintelligence-news.com/news/local-ai-models-how-to-keep-control-of-the-bidstream-without-losing-your-data/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/growtika-nGoCBxiaRO0-unsplash-scaled.jpg" /&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;Author: Olga Zharuk, CPO, Teqblaze&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When it comes to applying AI in programmatic, two things matter most: performance and data security. I’ve seen too many internal security audits flag third-party AI services as exposure points. Granting third-party AI agents access to proprietary bidstream data introduces unnecessary exposure that many organisations are no longer willing to accept.&lt;/p&gt;&lt;p&gt;That’s why many teams shift to embedded AI agents: local models that operate entirely in your environment. No data leaves your perimeter. No blind spots in the audit trail. You retain full control over how models behave – and more importantly, what they see.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-risks-associated-with-external-ai-use"&gt;Risks associated with external AI use&lt;/h3&gt;&lt;p&gt;Every time performance or user-level data leaves your infrastructure for inference, you introduce risk. Not theoretical – operational. In recent security audits, we’ve seen cases where external AI vendors log request-level signals under the pretext of optimisation. That includes proprietary bid strategies, contextual targeting signals, and in some cases, metadata with identifiable traces. The isn’t just a privacy concern – it’s a loss of control.&lt;/p&gt;&lt;p&gt;Public bid requests are one thing. However, any performance data, tuning variables, and internal outcomes you share is proprietary data. Sharing it with third-party models, especially those hosted in extra-EEA cloud environments, creates gaps in both visibility and compliance. Under regulations like GDPR and CPRA/CCPA, even “pseudonymous” data can trigger legal exposure if transferred improperly or used beyond its declared purpose.&lt;/p&gt;&lt;p&gt;For example, a model hosted on an external endpoint receives a call to assess a bid opportunity. Alongside the call, payloads may include price floors, win/loss outcomes, or tuning variables. The values, often embedded in headers or JSON payloads, may be logged for debugging or model improvement and retained beyond a single session, depending on vendor policy. Black-box AI models compound the issue. When vendors don’t disclose inference logic or model behaviour, you’re left without the ability to audit, debug, or even explain how decisions are made. That’s a liability – both technically and legally.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-local-ai-a-strategic-shift-for-programmatic-control"&gt;Local AI: A strategic shift for programmatic control&lt;/h3&gt;&lt;p&gt;The shift toward local AI is not merely a defensive move to address privacy regulations – it is an opportunity to redesign how data workflows and decisioning logic are controlled in programmatic platforms. Embedded inference keeps both input and output logic fully controlled – something centralised AI models take away.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-control-over-data"&gt;Control over data&lt;/h3&gt;&lt;p&gt;Owning the stack means having full control over the data workflow – from deciding which bidstream fields are exposed to models, to setting TTL for training datasets, and defining retention or deletion rules. The enables teams to run AI models without external constraints and experiment with advanced setups tailored to specific business needs.&lt;/p&gt;&lt;p&gt;For example, a DSP can restrict sensitive geolocation data while still using generalized insights for campaign optimisation. Selective control is harder to guarantee once data leaves the platform’s boundary.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-auditable-model-behaviour"&gt;Auditable model behaviour&lt;/h3&gt;&lt;p&gt;External AI models often offer limited visibility into how bidding decisions are made. Using a local model allows organisations to audit their behaviour, test its accuracy against their own KPIs, and fine-tune its parameters to meet specific yield, pacing, or performance targets. The level of auditability strengthens trust in the supply chain. Publishers can verify and demonstrate that inventory enrichment follows consistent, verifiable standards. The gives buyers higher confidence in inventory quality, reduces spend on invalid traffic, and minimises fraud exposure.&lt;/p&gt;&lt;p&gt;Alignment with data privacy requirements&lt;br /&gt;Local inference keeps all data in your infrastructure, under your governance. That control is essential for complying with any local laws and privacy requirements in regions. Signals like IP addresses or device IDs can be processed on-site, without ever leaving your environment – reducing exposure while preserving signal quality &lt;strong&gt;with appropriate legal basis and safeguards&lt;/strong&gt;.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-practical-applications-of-local-ai-in-programmatic"&gt;Practical applications of local AI in programmatic&lt;/h3&gt;&lt;p&gt;In addition to protecting bidstream data, local AI improves decisioning efficiency and quality in the programmatic chain without increasing data exposure.&lt;/p&gt;&lt;p&gt;Bidstream enrichment&lt;br /&gt;Local AI can classify page or app taxonomy, analyse referrer signals, and enrich bid requests with contextual metadata in real time. For example, models can calculate visit frequency or recency scores and pass them as additional request parameters for DSP optimisation. The accelerates decision latency and improves contextual accuracy – without exposing raw user data to third parties.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-pricing-optimisation"&gt;Pricing optimisation&lt;/h3&gt;&lt;p&gt;Since ad tech is dynamic, pricing models must continuously adapt to short-term shifts in demand and supply. Rule-based approaches often react more slowly to changes compared to ML-driven repricing models. Local AI can detect emerging traffic patterns and adjust the bid floor or dynamic price recommendations accordingly.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-fraud-detection"&gt;Fraud detection&lt;/h3&gt;&lt;p&gt;Local AI detects anomalies pre-auction – like randomized IP pools, suspicious user agent patterns, or sudden deviations in win rate – and flags them for mitigation. For example, it can flag mismatches between request volume and impression rate, or abrupt win-rate drops inconsistent with supply or demand shifts.The does not replace dedicated fraud scanners, but augments them with local anomaly detection and monitoring, without requiring external data sharing.&lt;/p&gt;&lt;p&gt;The are just a few of the most visible applications – local AI also enables tasks like signals deduplication, ID bridging, frequency modeling, inventory quality scoring, and supply path analysis, all benefiting from secure, real-time execution at the edge.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-balancing-control-and-performance-with-local-ai"&gt;Balancing control and performance with local AI&lt;/h3&gt;&lt;p&gt;Running AI models in your own infrastructure ensures privacy and governance without sacrificing optimisation potential. local AI moves decision-making closer to the data layer, making it auditable, region-compliant, and fully under platform control.&lt;/p&gt;&lt;p&gt;Competitive advantage isn’t about the fastest models, but about models that balance speed with data stewardship and transparency. The approach defines the next phase of programmatic evolution – intelligence that remains close to the data, aligned with business KPIs and regulatory frameworks.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Author: Olga Zharuk, CPO, Teqblaze&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Image source: Unsplash&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/growtika-nGoCBxiaRO0-unsplash-scaled.jpg" /&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;Author: Olga Zharuk, CPO, Teqblaze&lt;/em&gt;&lt;/p&gt;&lt;p&gt;When it comes to applying AI in programmatic, two things matter most: performance and data security. I’ve seen too many internal security audits flag third-party AI services as exposure points. Granting third-party AI agents access to proprietary bidstream data introduces unnecessary exposure that many organisations are no longer willing to accept.&lt;/p&gt;&lt;p&gt;That’s why many teams shift to embedded AI agents: local models that operate entirely in your environment. No data leaves your perimeter. No blind spots in the audit trail. You retain full control over how models behave – and more importantly, what they see.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-risks-associated-with-external-ai-use"&gt;Risks associated with external AI use&lt;/h3&gt;&lt;p&gt;Every time performance or user-level data leaves your infrastructure for inference, you introduce risk. Not theoretical – operational. In recent security audits, we’ve seen cases where external AI vendors log request-level signals under the pretext of optimisation. That includes proprietary bid strategies, contextual targeting signals, and in some cases, metadata with identifiable traces. The isn’t just a privacy concern – it’s a loss of control.&lt;/p&gt;&lt;p&gt;Public bid requests are one thing. However, any performance data, tuning variables, and internal outcomes you share is proprietary data. Sharing it with third-party models, especially those hosted in extra-EEA cloud environments, creates gaps in both visibility and compliance. Under regulations like GDPR and CPRA/CCPA, even “pseudonymous” data can trigger legal exposure if transferred improperly or used beyond its declared purpose.&lt;/p&gt;&lt;p&gt;For example, a model hosted on an external endpoint receives a call to assess a bid opportunity. Alongside the call, payloads may include price floors, win/loss outcomes, or tuning variables. The values, often embedded in headers or JSON payloads, may be logged for debugging or model improvement and retained beyond a single session, depending on vendor policy. Black-box AI models compound the issue. When vendors don’t disclose inference logic or model behaviour, you’re left without the ability to audit, debug, or even explain how decisions are made. That’s a liability – both technically and legally.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-local-ai-a-strategic-shift-for-programmatic-control"&gt;Local AI: A strategic shift for programmatic control&lt;/h3&gt;&lt;p&gt;The shift toward local AI is not merely a defensive move to address privacy regulations – it is an opportunity to redesign how data workflows and decisioning logic are controlled in programmatic platforms. Embedded inference keeps both input and output logic fully controlled – something centralised AI models take away.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-control-over-data"&gt;Control over data&lt;/h3&gt;&lt;p&gt;Owning the stack means having full control over the data workflow – from deciding which bidstream fields are exposed to models, to setting TTL for training datasets, and defining retention or deletion rules. The enables teams to run AI models without external constraints and experiment with advanced setups tailored to specific business needs.&lt;/p&gt;&lt;p&gt;For example, a DSP can restrict sensitive geolocation data while still using generalized insights for campaign optimisation. Selective control is harder to guarantee once data leaves the platform’s boundary.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-auditable-model-behaviour"&gt;Auditable model behaviour&lt;/h3&gt;&lt;p&gt;External AI models often offer limited visibility into how bidding decisions are made. Using a local model allows organisations to audit their behaviour, test its accuracy against their own KPIs, and fine-tune its parameters to meet specific yield, pacing, or performance targets. The level of auditability strengthens trust in the supply chain. Publishers can verify and demonstrate that inventory enrichment follows consistent, verifiable standards. The gives buyers higher confidence in inventory quality, reduces spend on invalid traffic, and minimises fraud exposure.&lt;/p&gt;&lt;p&gt;Alignment with data privacy requirements&lt;br /&gt;Local inference keeps all data in your infrastructure, under your governance. That control is essential for complying with any local laws and privacy requirements in regions. Signals like IP addresses or device IDs can be processed on-site, without ever leaving your environment – reducing exposure while preserving signal quality &lt;strong&gt;with appropriate legal basis and safeguards&lt;/strong&gt;.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-practical-applications-of-local-ai-in-programmatic"&gt;Practical applications of local AI in programmatic&lt;/h3&gt;&lt;p&gt;In addition to protecting bidstream data, local AI improves decisioning efficiency and quality in the programmatic chain without increasing data exposure.&lt;/p&gt;&lt;p&gt;Bidstream enrichment&lt;br /&gt;Local AI can classify page or app taxonomy, analyse referrer signals, and enrich bid requests with contextual metadata in real time. For example, models can calculate visit frequency or recency scores and pass them as additional request parameters for DSP optimisation. The accelerates decision latency and improves contextual accuracy – without exposing raw user data to third parties.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-pricing-optimisation"&gt;Pricing optimisation&lt;/h3&gt;&lt;p&gt;Since ad tech is dynamic, pricing models must continuously adapt to short-term shifts in demand and supply. Rule-based approaches often react more slowly to changes compared to ML-driven repricing models. Local AI can detect emerging traffic patterns and adjust the bid floor or dynamic price recommendations accordingly.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-fraud-detection"&gt;Fraud detection&lt;/h3&gt;&lt;p&gt;Local AI detects anomalies pre-auction – like randomized IP pools, suspicious user agent patterns, or sudden deviations in win rate – and flags them for mitigation. For example, it can flag mismatches between request volume and impression rate, or abrupt win-rate drops inconsistent with supply or demand shifts.The does not replace dedicated fraud scanners, but augments them with local anomaly detection and monitoring, without requiring external data sharing.&lt;/p&gt;&lt;p&gt;The are just a few of the most visible applications – local AI also enables tasks like signals deduplication, ID bridging, frequency modeling, inventory quality scoring, and supply path analysis, all benefiting from secure, real-time execution at the edge.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-balancing-control-and-performance-with-local-ai"&gt;Balancing control and performance with local AI&lt;/h3&gt;&lt;p&gt;Running AI models in your own infrastructure ensures privacy and governance without sacrificing optimisation potential. local AI moves decision-making closer to the data layer, making it auditable, region-compliant, and fully under platform control.&lt;/p&gt;&lt;p&gt;Competitive advantage isn’t about the fastest models, but about models that balance speed with data stewardship and transparency. The approach defines the next phase of programmatic evolution – intelligence that remains close to the data, aligned with business KPIs and regulatory frameworks.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Author: Olga Zharuk, CPO, Teqblaze&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Image source: Unsplash&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/local-ai-models-how-to-keep-control-of-the-bidstream-without-losing-your-data/</guid><pubDate>Mon, 17 Nov 2025 15:39:19 +0000</pubDate></item><item><title>The State of AI: How war will be changed forever (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2025/11/17/1127514/the-state-of-ai-the-new-rules-of-war/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;strong&gt;Welcome back to &lt;em&gt;The State of AI&lt;/em&gt;, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;In this conversation, Helen Warrell, &lt;em&gt;FT&lt;/em&gt; investigations reporter and former defense and security editor, and James O’Donnell, &lt;em&gt;MIT Technology Review&lt;/em&gt;’s senior AI reporter, consider the ethical quandaries and financial incentives around AI’s use by the military.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-1127512" src="https://wp.technologyreview.com/wp-content/uploads/2025/11/MITTR_FT_small.png?w=1135" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;Helen Warrell, &lt;/strong&gt;&lt;strong&gt;&lt;em&gt;FT&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt; investigations reporter&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It is July 2027, and China is on the brink of invading Taiwan. Autonomous drones with AI targeting capabilities are primed to overpower the island’s air defenses as a series of crippling AI-generated cyberattacks cut off energy supplies and key communications. In the meantime, a vast disinformation campaign enacted by an AI-powered pro-Chinese meme farm spreads across global social media, deadening the outcry at Beijing’s act of aggression.&lt;/p&gt; 
- &lt;p&gt;Scenarios such as this have brought dystopian horror to the debate about the use of AI in warfare. Military commanders hope for a digitally enhanced force that is faster and more accurate than human-directed combat. But there are fears that as AI assumes an increasingly central role, these same commanders will lose control of a conflict that escalates too quickly and lacks ethical or legal oversight. Henry Kissinger, the former US secretary of state, spent his final years warning about the coming catastrophe of AI-driven warfare.&lt;/p&gt;  &lt;p&gt;Grasping and mitigating these risks is the military priority—some would say the “Oppenheimer moment”—of our age. One emerging consensus in the West is that decisions around the deployment of nuclear weapons should not be outsourced to AI. UN secretary-general António Guterres has gone further, calling for an outright ban on fully autonomous lethal weapons systems. It is essential that regulation keep pace with evolving technology. But in the sci-fi-fueled excitement, it is easy to lose track of what is actually possible. As researchers at Harvard’s Belfer Center point out, AI optimists often underestimate the challenges of fielding fully autonomous weapon systems. It is entirely possible that the capabilities of AI in combat are being overhyped.&lt;/p&gt; 
- &lt;p&gt;Anthony King, Director of the Strategy and Security Institute at the University of Exeter and a key proponent of this argument, suggests that rather than replacing humans, AI will be used to improve military insight. Even if the character of war is changing and remote technology is refining weapon systems, he insists, “the complete automation of war itself is simply an illusion.”&lt;/p&gt;  &lt;p&gt;Of the three current military use cases of AI, none involves full autonomy. It is being developed for planning and logistics, cyber warfare (in sabotage, espionage, hacking, and information operations; and—most controversially—for weapons targeting, an application already in use on the battlefields of Ukraine and Gaza. Kyiv’s troops use AI software to direct drones able to evade Russian jammers as they close in on sensitive sites. The Israel Defense Forces have developed an AI-assisted decision support system known as Lavender, which has helped identify around 37,000 potential human targets within Gaza.&amp;nbsp;&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Helen Warrell and James O'Donnell" class="wp-image-1126829" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/FT_TR_Newsletter-Episode-03.jpg?w=2731" /&gt;&lt;div class="image-credit"&gt;FT/MIT TECHNOLOGY REVIEW | ADOBE STOCK&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;There is clearly a danger that the Lavender database replicates the biases of the data it is trained on. But military personnel carry biases too. One Israeli intelligence officer who used Lavender claimed to have more faith in the fairness of a “statistical mechanism” than that of a grieving soldier.&lt;/p&gt;  &lt;p&gt;Tech optimists designing AI weapons even deny that specific new controls are needed to control their capabilities. Keith Dear, a former UK military officer who now runs the strategic forecasting company Cassi AI, says existing laws are more than sufficient: “You make sure there’s nothing in the training data that might cause the system to go rogue … when you are confident you deploy it—and you, the human commander, are responsible for anything they might do that goes wrong.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;It is an intriguing thought that some of the fear and shock about use of AI in war may come from those who are unfamiliar with brutal but realistic military norms. What do you think, James? Is some opposition to AI in warfare less about the use of autonomous systems and really an argument against war itself?&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;James O’Donnell replies: &lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Hi Helen,&amp;nbsp;&lt;/p&gt;  &lt;p&gt;One thing I’ve noticed is that there’s been a drastic shift in attitudes of AI companies regarding military applications of their products. In the beginning of 2024, OpenAI unambiguously forbade the use of its tools for warfare, but by the end of the year, it had signed an agreement with Anduril to help it take down drones on the battlefield.&amp;nbsp;&lt;/p&gt; 
-
- &lt;p&gt;This step—not a fully autonomous weapon, to be sure, but very much a battlefield application of AI—marked a drastic change in how much tech companies could publicly link themselves with defense.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;What happened along the way? For one thing, it’s the hype. We’re told AI will not just bring superintelligence and scientific discovery but also make warfare sharper, more accurate and calculated, less prone to human fallibility. I spoke with US Marines, for example, who tested a type of AI while patrolling the South Pacific that was advertised to analyze foreign intelligence faster than a human could.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div class="whyItMatters__container--08c53dd3bc9bd04e1e42e5f7ca641ab2"&gt;&lt;div class="whyItMatters__header--19f7f372f181cc6d4c06bc7362a44382"&gt;&lt;div class="whyItMatters__title--4af28c786a2bc93df05db111c6c30618"&gt;&lt;span class="whyItMatters__askAi--577f5fe6f54de43e37258d0f2aff4394"&gt;Ask AI&lt;/span&gt;&lt;div&gt;&lt;span class="whyItMatters__whyItMattersTitle--a3694998bb578e159bbd16690b8da390"&gt;Why it matters to you?&lt;/span&gt;&lt;span class="whyItMatters__betaBadge--9e84228b864d33d5b55479433fc91b8a"&gt;BETA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="whyItMatters__description--e1334886c092fa469388d7a24e1e1a55"&gt;&lt;span class="initial-description"&gt;Here’s why this story might matter to you, according to AI. This is a beta feature and AI hallucinates—it might get weird&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="whyItMatters__questionContainer--ec1159210954852b9178c549600959a0"&gt;&lt;div&gt;&lt;button class="whyItMatters__actionButton--674934b6df433ac81e613372979cdb6c" type="button"&gt;Tell me why it matters&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;Secondly, money talks. OpenAI and others need to start recouping some of the unimaginable amounts of cash they’re spending on training and running these models. And few have deeper pockets than the Pentagon. And Europe’s defense heads seem keen to splash the cash too. Meanwhile, the amount of venture capital funding for defense tech this year has already doubled the total for all of 2024, as VCs hope to cash in on militaries’ newfound willingness to buy from startups.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;I do think the opposition to AI warfare falls into a few camps, one of which simply rejects the idea that more precise targeting (if it’s &lt;em&gt;actually &lt;/em&gt;more precise at all) will mean fewer casualties rather than just more war. Consider the first era of drone warfare in Afghanistan. As drone strikes became cheaper to implement, can we really say it reduced carnage? Instead, did it merely enable more destruction per dollar?&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;But the second camp of criticism (and now I’m finally getting to your question) comes from people who are well versed in the realities of war but have very specific complaints about the technology’s fundamental limitations. Missy Cummings, for example, is a former fighter pilot for the US Navy who is now a professor of engineering and computer science at George Mason University. She has been outspoken in her belief that large language models, specifically, are prone to make huge mistakes in military settings.&lt;/p&gt;  &lt;p&gt;The typical response to this complaint is that AI’s outputs are human-checked. But if an AI model relies on thousands of inputs for its conclusion, can that conclusion really be checked by one person?&lt;/p&gt;  &lt;p&gt;Tech companies are making extraordinarily big promises about what AI can do in these high-stakes applications, all while pressure to implement them is sky high. For me, this means it’s time for more skepticism, not less.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Helen responds:&lt;/strong&gt;&lt;/p&gt; 
- &lt;p&gt;Hi James,&amp;nbsp;&lt;/p&gt;  &lt;p&gt;We should definitely continue to question the safety of AI warfare systems and the oversight to which they’re subjected—and hold political leaders to account in this area. I am suggesting that we also apply some skepticism to what you rightly describe as the “extraordinarily big promises” made by some companies about what AI might be able to achieve on the battlefield.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;There will be both opportunities and hazards in what the military is being offered by a relatively nascent (though booming) defense tech scene. The danger is that in the speed and secrecy of an arms race in AI weapons, these emerging capabilities may not receive the scrutiny and debate they desperately need.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;strong&gt;Welcome back to &lt;em&gt;The State of AI&lt;/em&gt;, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;In this conversation, Helen Warrell, &lt;em&gt;FT&lt;/em&gt; investigations reporter and former defense and security editor, and James O’Donnell, &lt;em&gt;MIT Technology Review&lt;/em&gt;’s senior AI reporter, consider the ethical quandaries and financial incentives around AI’s use by the military.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-1127512" src="https://wp.technologyreview.com/wp-content/uploads/2025/11/MITTR_FT_small.png?w=1135" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;Helen Warrell, &lt;/strong&gt;&lt;strong&gt;&lt;em&gt;FT&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt; investigations reporter&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;It is July 2027, and China is on the brink of invading Taiwan. Autonomous drones with AI targeting capabilities are primed to overpower the island’s air defenses as a series of crippling AI-generated cyberattacks cut off energy supplies and key communications. In the meantime, a vast disinformation campaign enacted by an AI-powered pro-Chinese meme farm spreads across global social media, deadening the outcry at Beijing’s act of aggression.&lt;/p&gt; 
- &lt;p&gt;Scenarios such as this have brought dystopian horror to the debate about the use of AI in warfare. Military commanders hope for a digitally enhanced force that is faster and more accurate than human-directed combat. But there are fears that as AI assumes an increasingly central role, these same commanders will lose control of a conflict that escalates too quickly and lacks ethical or legal oversight. Henry Kissinger, the former US secretary of state, spent his final years warning about the coming catastrophe of AI-driven warfare.&lt;/p&gt;  &lt;p&gt;Grasping and mitigating these risks is the military priority—some would say the “Oppenheimer moment”—of our age. One emerging consensus in the West is that decisions around the deployment of nuclear weapons should not be outsourced to AI. UN secretary-general António Guterres has gone further, calling for an outright ban on fully autonomous lethal weapons systems. It is essential that regulation keep pace with evolving technology. But in the sci-fi-fueled excitement, it is easy to lose track of what is actually possible. As researchers at Harvard’s Belfer Center point out, AI optimists often underestimate the challenges of fielding fully autonomous weapon systems. It is entirely possible that the capabilities of AI in combat are being overhyped.&lt;/p&gt; 
- &lt;p&gt;Anthony King, Director of the Strategy and Security Institute at the University of Exeter and a key proponent of this argument, suggests that rather than replacing humans, AI will be used to improve military insight. Even if the character of war is changing and remote technology is refining weapon systems, he insists, “the complete automation of war itself is simply an illusion.”&lt;/p&gt;  &lt;p&gt;Of the three current military use cases of AI, none involves full autonomy. It is being developed for planning and logistics, cyber warfare (in sabotage, espionage, hacking, and information operations; and—most controversially—for weapons targeting, an application already in use on the battlefields of Ukraine and Gaza. Kyiv’s troops use AI software to direct drones able to evade Russian jammers as they close in on sensitive sites. The Israel Defense Forces have developed an AI-assisted decision support system known as Lavender, which has helped identify around 37,000 potential human targets within Gaza.&amp;nbsp;&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="Helen Warrell and James O'Donnell" class="wp-image-1126829" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/FT_TR_Newsletter-Episode-03.jpg?w=2731" /&gt;&lt;div class="image-credit"&gt;FT/MIT TECHNOLOGY REVIEW | ADOBE STOCK&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;p&gt;There is clearly a danger that the Lavender database replicates the biases of the data it is trained on. But military personnel carry biases too. One Israeli intelligence officer who used Lavender claimed to have more faith in the fairness of a “statistical mechanism” than that of a grieving soldier.&lt;/p&gt;  &lt;p&gt;Tech optimists designing AI weapons even deny that specific new controls are needed to control their capabilities. Keith Dear, a former UK military officer who now runs the strategic forecasting company Cassi AI, says existing laws are more than sufficient: “You make sure there’s nothing in the training data that might cause the system to go rogue … when you are confident you deploy it—and you, the human commander, are responsible for anything they might do that goes wrong.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;It is an intriguing thought that some of the fear and shock about use of AI in war may come from those who are unfamiliar with brutal but realistic military norms. What do you think, James? Is some opposition to AI in warfare less about the use of autonomous systems and really an argument against war itself?&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;James O’Donnell replies: &lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Hi Helen,&amp;nbsp;&lt;/p&gt;  &lt;p&gt;One thing I’ve noticed is that there’s been a drastic shift in attitudes of AI companies regarding military applications of their products. In the beginning of 2024, OpenAI unambiguously forbade the use of its tools for warfare, but by the end of the year, it had signed an agreement with Anduril to help it take down drones on the battlefield.&amp;nbsp;&lt;/p&gt; 
-
- &lt;p&gt;This step—not a fully autonomous weapon, to be sure, but very much a battlefield application of AI—marked a drastic change in how much tech companies could publicly link themselves with defense.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;What happened along the way? For one thing, it’s the hype. We’re told AI will not just bring superintelligence and scientific discovery but also make warfare sharper, more accurate and calculated, less prone to human fallibility. I spoke with US Marines, for example, who tested a type of AI while patrolling the South Pacific that was advertised to analyze foreign intelligence faster than a human could.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div class="whyItMatters__container--08c53dd3bc9bd04e1e42e5f7ca641ab2"&gt;&lt;div class="whyItMatters__header--19f7f372f181cc6d4c06bc7362a44382"&gt;&lt;div class="whyItMatters__title--4af28c786a2bc93df05db111c6c30618"&gt;&lt;span class="whyItMatters__askAi--577f5fe6f54de43e37258d0f2aff4394"&gt;Ask AI&lt;/span&gt;&lt;div&gt;&lt;span class="whyItMatters__whyItMattersTitle--a3694998bb578e159bbd16690b8da390"&gt;Why it matters to you?&lt;/span&gt;&lt;span class="whyItMatters__betaBadge--9e84228b864d33d5b55479433fc91b8a"&gt;BETA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="whyItMatters__description--e1334886c092fa469388d7a24e1e1a55"&gt;&lt;span class="initial-description"&gt;Here’s why this story might matter to you, according to AI. This is a beta feature and AI hallucinates—it might get weird&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="whyItMatters__questionContainer--ec1159210954852b9178c549600959a0"&gt;&lt;div&gt;&lt;button class="whyItMatters__actionButton--674934b6df433ac81e613372979cdb6c" type="button"&gt;Tell me why it matters&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;Secondly, money talks. OpenAI and others need to start recouping some of the unimaginable amounts of cash they’re spending on training and running these models. And few have deeper pockets than the Pentagon. And Europe’s defense heads seem keen to splash the cash too. Meanwhile, the amount of venture capital funding for defense tech this year has already doubled the total for all of 2024, as VCs hope to cash in on militaries’ newfound willingness to buy from startups.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;I do think the opposition to AI warfare falls into a few camps, one of which simply rejects the idea that more precise targeting (if it’s &lt;em&gt;actually &lt;/em&gt;more precise at all) will mean fewer casualties rather than just more war. Consider the first era of drone warfare in Afghanistan. As drone strikes became cheaper to implement, can we really say it reduced carnage? Instead, did it merely enable more destruction per dollar?&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;But the second camp of criticism (and now I’m finally getting to your question) comes from people who are well versed in the realities of war but have very specific complaints about the technology’s fundamental limitations. Missy Cummings, for example, is a former fighter pilot for the US Navy who is now a professor of engineering and computer science at George Mason University. She has been outspoken in her belief that large language models, specifically, are prone to make huge mistakes in military settings.&lt;/p&gt;  &lt;p&gt;The typical response to this complaint is that AI’s outputs are human-checked. But if an AI model relies on thousands of inputs for its conclusion, can that conclusion really be checked by one person?&lt;/p&gt;  &lt;p&gt;Tech companies are making extraordinarily big promises about what AI can do in these high-stakes applications, all while pressure to implement them is sky high. For me, this means it’s time for more skepticism, not less.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Helen responds:&lt;/strong&gt;&lt;/p&gt; 
- &lt;p&gt;Hi James,&amp;nbsp;&lt;/p&gt;  &lt;p&gt;We should definitely continue to question the safety of AI warfare systems and the oversight to which they’re subjected—and hold political leaders to account in this area. I am suggesting that we also apply some skepticism to what you rightly describe as the “extraordinarily big promises” made by some companies about what AI might be able to achieve on the battlefield.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;There will be both opportunities and hazards in what the military is being offered by a relatively nascent (though booming) defense tech scene. The danger is that in the speed and secrecy of an arms race in AI weapons, these emerging capabilities may not receive the scrutiny and debate they desperately need.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/11/17/1127514/the-state-of-ai-the-new-rules-of-war/</guid><pubDate>Mon, 17 Nov 2025 16:30:00 +0000</pubDate></item><item><title>Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet (AI – Ars Technica)</title><link>https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Company falls more than rivals over its borrowing and reliance on OpenAI contracts.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/ftcms-be6a4489-97ce-470a-a1da-64bd738029c8-640x360.jpeg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/ftcms-be6a4489-97ce-470a-a1da-64bd738029c8-1152x648.jpeg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          FT montage/Bloomberg/Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Oracle has been hit harder than Big Tech rivals in the recent sell-off of tech stocks and bonds, as its vast borrowing to fund a pivot to artificial intelligence unnerved Wall Street.&lt;/p&gt;
-&lt;p&gt;The US software group founded by Larry Ellison has made a dramatic entrance to the AI race, committing to spend hundreds of billions of dollars in the next few years on chips and data centers—largely as part of deals to supply computing capacity to OpenAI, the maker of ChatGPT.&lt;/p&gt;
-&lt;p&gt;The speed and scale of its moves have unsettled some investors at a time when markets are keenly focused on the spending of so-called hyperscalers—big tech companies building vast data centers.&lt;/p&gt;
-&lt;p&gt;Oracle shares are down 25 percent in the past month, nearly twice the fall of the next worst-performing hyperscaler, Meta.&lt;/p&gt;
-&lt;p&gt;The slide has reversed more than $250 billion of gains in its market value when the Texas-based group disclosed its deals with OpenAI in September. A Financial Times index tracking the price of Oracle’s debt has fallen about 6 percent since mid-September, significantly worse than any of its major peers.&lt;/p&gt;
-&lt;p&gt;Oracle has prompted particular concern because the group shifted from business software to cloud computing later than its rivals. Its strategy has become more focused on an all-out bet on AI, pinned largely to the success of OpenAI.&lt;/p&gt;
-&lt;p&gt;“This is a completely different business model to what investors prize in cloud services,” said Alex Haissl at Rothschild &amp;amp; Co Redburn. “The deals look fantastic when you look at the revenue figures, but they are very capital-intensive so create very little value.”&lt;/p&gt;
-&lt;p&gt;Investors are concerned about lofty valuations and huge capital expenditure by a few large tech groups that could backfire if a handful of lossmaking AI start-ups such as OpenAI and Anthropic fail to deliver on their promises for the technology.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Oracle shares fell 4.2 percent on Thursday as the NASDAQ tumbled 2.3 percent—the latest in a series of sell-offs led by tech stocks. The stock recovered some of those losses on Friday.&lt;/p&gt;&lt;figure class="ars-wp-img-shortcode id-2127786 align-fullwidth"&gt;
-    &lt;div&gt;
-                        &lt;img alt="alt" class="fullwidth full" height="2153" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/oracle-ft-chart1.png" width="1455" /&gt;
-                  &lt;/div&gt;
-      &lt;/figure&gt;
-&lt;figure class="ars-wp-img-shortcode id-2127785 align-fullwidth"&gt;
-    &lt;div&gt;
-                        &lt;img alt="alt" class="fullwidth full" height="2153" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/oracle-ft-chart-2.png" width="1455" /&gt;
-                  &lt;/div&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;Oracle has said its deals with OpenAI would generate $300 billion of revenue between 2027 and 2032.&lt;/p&gt;
-&lt;p&gt;Its executives say the rewards will justify the risks due to intense and accelerating AI demand, which far exceeds existing supplies of computing power. Its shares are still up 30 percent this year.&lt;/p&gt;
-&lt;p&gt;Oracle’s infrastructure business is forecast to increase revenues by more than 10 times by 2029, according to estimates compiled by S&amp;amp;P Visible Alpha. And the bulk of Wall Street analysts are bullish on its stock.&lt;/p&gt;
-&lt;p&gt;But Oracle has been aggressive in tapping debt markets to rapidly build its capacity.&lt;/p&gt;
-&lt;p&gt;The group has about $96 billion of long-term debt, up from $75 billion a year ago, according to Bloomberg data. Morgan Stanley forecasts this will soar to about $290 billion by 2028. Oracle sold $18 billion of bonds in September and is in talks to raise $38 billion in debt financing through a number of US banks.&lt;/p&gt;
-&lt;p&gt;Ellison “is now way off the reservation in terms of how he’s spending,” said a short seller who has long tracked Oracle’s stock but does not have an active bet against it. “The market is clearly saying it is no longer interested in companies burning endless cash on AI.”&lt;/p&gt;
-&lt;p&gt;Barclays analysts this week downgraded their rating of Oracle’s debt from market neutral to underweight, warning that its large expenses on AI infrastructure had outpaced its free cash flow.&lt;/p&gt;
-&lt;p&gt;Credit rating agency Moody’s has also flagged up significant risks due to Oracle relying on a small number of AI companies. S&amp;amp;P Global warned that a third of Oracle’s revenues will be tied to a single customer by 2028, referring to its reliance on OpenAI.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;“That is a huge liability and credit risk for Oracle. Your main customer, biggest customer by far, is a venture capital-funded start-up,” said Andrew Chang, a director at S&amp;amp;P Global.&lt;/p&gt;
-&lt;p&gt;OpenAI faces questions about how it plans to meet its commitments to spend $1.4 trillion on AI infrastructure over the next eight years. It has struck deals with several Big Tech groups, including Oracle’s rivals.&lt;/p&gt;&lt;figure class="ars-wp-img-shortcode id-2127784 align-fullwidth"&gt;
-    &lt;div&gt;
-                        &lt;img alt="alt" class="fullwidth full" height="1050" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/hyperscalers-ft-chart.png" width="1450" /&gt;
-                  &lt;/div&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;Of the five hyperscalers—which include Amazon, Google, Microsoft, and Meta—Oracle is the only one with negative free cash flow. Its debt-to-equity ratio has surged to 500 percent, far higher than Amazon’s 50 percent and Microsoft’s 30 percent, according to JPMorgan.&lt;/p&gt;
-&lt;p&gt;While all five companies have seen their cash-to-assets ratios decline significantly in recent years amid a boom in spending, Oracle’s is by far the lowest, JPMorgan found.&lt;/p&gt;
-&lt;p&gt;JPMorgan analysts noted a “tension between [Oracle’s] aggressive AI build-out ambitions and the limits of its investment-grade balance sheet.”&lt;/p&gt;
-&lt;p&gt;Analysts have also noted that Oracle’s data center leases are for much longer than its contracts to sell capacity to OpenAI.&lt;/p&gt;
-&lt;p&gt;Oracle has signed at least five long-term lease agreements for US data centers that will ultimately be used by OpenAI, resulting in $100 billion of off-balance-sheet lease commitments. The sites are at varying levels of construction, with some not expected to break ground until next year.&lt;/p&gt;
-&lt;p&gt;Safra Catz, Oracle’s sole chief executive from 2019 until she stepped down in September, resisted expanding its cloud business because of the vast expenses required. She was replaced by co-CEOs Clay Magouyrk and Mike Sicilia as part of the pivot by Oracle to a new era focused on AI.&lt;/p&gt;
-&lt;p&gt;Catz, who is now executive vice-chair of Oracle’s board, has exercised stock options and sold $2.5 billion of its shares this year, according to US regulatory filings. She had announced plans to exercise her stock options at the end of 2024.&lt;br /&gt;
-&lt;em&gt;© 2025 The Financial Times Ltd. All rights reserved. Not to be redistributed, copied, or modified in any way.&lt;/em&gt;&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Company falls more than rivals over its borrowing and reliance on OpenAI contracts.
-      &lt;/p&gt;
-
-      
-    &lt;/div&gt;
-
-    &lt;div class="min-h-1 mt-4 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/ftcms-be6a4489-97ce-470a-a1da-64bd738029c8-640x360.jpeg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/ftcms-be6a4489-97ce-470a-a1da-64bd738029c8-1152x648.jpeg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          FT montage/Bloomberg/Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Oracle has been hit harder than Big Tech rivals in the recent sell-off of tech stocks and bonds, as its vast borrowing to fund a pivot to artificial intelligence unnerved Wall Street.&lt;/p&gt;
-&lt;p&gt;The US software group founded by Larry Ellison has made a dramatic entrance to the AI race, committing to spend hundreds of billions of dollars in the next few years on chips and data centers—largely as part of deals to supply computing capacity to OpenAI, the maker of ChatGPT.&lt;/p&gt;
-&lt;p&gt;The speed and scale of its moves have unsettled some investors at a time when markets are keenly focused on the spending of so-called hyperscalers—big tech companies building vast data centers.&lt;/p&gt;
-&lt;p&gt;Oracle shares are down 25 percent in the past month, nearly twice the fall of the next worst-performing hyperscaler, Meta.&lt;/p&gt;
-&lt;p&gt;The slide has reversed more than $250 billion of gains in its market value when the Texas-based group disclosed its deals with OpenAI in September. A Financial Times index tracking the price of Oracle’s debt has fallen about 6 percent since mid-September, significantly worse than any of its major peers.&lt;/p&gt;
-&lt;p&gt;Oracle has prompted particular concern because the group shifted from business software to cloud computing later than its rivals. Its strategy has become more focused on an all-out bet on AI, pinned largely to the success of OpenAI.&lt;/p&gt;
-&lt;p&gt;“This is a completely different business model to what investors prize in cloud services,” said Alex Haissl at Rothschild &amp;amp; Co Redburn. “The deals look fantastic when you look at the revenue figures, but they are very capital-intensive so create very little value.”&lt;/p&gt;
-&lt;p&gt;Investors are concerned about lofty valuations and huge capital expenditure by a few large tech groups that could backfire if a handful of lossmaking AI start-ups such as OpenAI and Anthropic fail to deliver on their promises for the technology.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Oracle shares fell 4.2 percent on Thursday as the NASDAQ tumbled 2.3 percent—the latest in a series of sell-offs led by tech stocks. The stock recovered some of those losses on Friday.&lt;/p&gt;&lt;figure class="ars-wp-img-shortcode id-2127786 align-fullwidth"&gt;
-    &lt;div&gt;
-                        &lt;img alt="alt" class="fullwidth full" height="2153" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/oracle-ft-chart1.png" width="1455" /&gt;
-                  &lt;/div&gt;
-      &lt;/figure&gt;
-&lt;figure class="ars-wp-img-shortcode id-2127785 align-fullwidth"&gt;
-    &lt;div&gt;
-                        &lt;img alt="alt" class="fullwidth full" height="2153" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/oracle-ft-chart-2.png" width="1455" /&gt;
-                  &lt;/div&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;Oracle has said its deals with OpenAI would generate $300 billion of revenue between 2027 and 2032.&lt;/p&gt;
-&lt;p&gt;Its executives say the rewards will justify the risks due to intense and accelerating AI demand, which far exceeds existing supplies of computing power. Its shares are still up 30 percent this year.&lt;/p&gt;
-&lt;p&gt;Oracle’s infrastructure business is forecast to increase revenues by more than 10 times by 2029, according to estimates compiled by S&amp;amp;P Visible Alpha. And the bulk of Wall Street analysts are bullish on its stock.&lt;/p&gt;
-&lt;p&gt;But Oracle has been aggressive in tapping debt markets to rapidly build its capacity.&lt;/p&gt;
-&lt;p&gt;The group has about $96 billion of long-term debt, up from $75 billion a year ago, according to Bloomberg data. Morgan Stanley forecasts this will soar to about $290 billion by 2028. Oracle sold $18 billion of bonds in September and is in talks to raise $38 billion in debt financing through a number of US banks.&lt;/p&gt;
-&lt;p&gt;Ellison “is now way off the reservation in terms of how he’s spending,” said a short seller who has long tracked Oracle’s stock but does not have an active bet against it. “The market is clearly saying it is no longer interested in companies burning endless cash on AI.”&lt;/p&gt;
-&lt;p&gt;Barclays analysts this week downgraded their rating of Oracle’s debt from market neutral to underweight, warning that its large expenses on AI infrastructure had outpaced its free cash flow.&lt;/p&gt;
-&lt;p&gt;Credit rating agency Moody’s has also flagged up significant risks due to Oracle relying on a small number of AI companies. S&amp;amp;P Global warned that a third of Oracle’s revenues will be tied to a single customer by 2028, referring to its reliance on OpenAI.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-          
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;“That is a huge liability and credit risk for Oracle. Your main customer, biggest customer by far, is a venture capital-funded start-up,” said Andrew Chang, a director at S&amp;amp;P Global.&lt;/p&gt;
-&lt;p&gt;OpenAI faces questions about how it plans to meet its commitments to spend $1.4 trillion on AI infrastructure over the next eight years. It has struck deals with several Big Tech groups, including Oracle’s rivals.&lt;/p&gt;&lt;figure class="ars-wp-img-shortcode id-2127784 align-fullwidth"&gt;
-    &lt;div&gt;
-                        &lt;img alt="alt" class="fullwidth full" height="1050" src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/hyperscalers-ft-chart.png" width="1450" /&gt;
-                  &lt;/div&gt;
-      &lt;/figure&gt;
-
-&lt;p&gt;Of the five hyperscalers—which include Amazon, Google, Microsoft, and Meta—Oracle is the only one with negative free cash flow. Its debt-to-equity ratio has surged to 500 percent, far higher than Amazon’s 50 percent and Microsoft’s 30 percent, according to JPMorgan.&lt;/p&gt;
-&lt;p&gt;While all five companies have seen their cash-to-assets ratios decline significantly in recent years amid a boom in spending, Oracle’s is by far the lowest, JPMorgan found.&lt;/p&gt;
-&lt;p&gt;JPMorgan analysts noted a “tension between [Oracle’s] aggressive AI build-out ambitions and the limits of its investment-grade balance sheet.”&lt;/p&gt;
-&lt;p&gt;Analysts have also noted that Oracle’s data center leases are for much longer than its contracts to sell capacity to OpenAI.&lt;/p&gt;
-&lt;p&gt;Oracle has signed at least five long-term lease agreements for US data centers that will ultimately be used by OpenAI, resulting in $100 billion of off-balance-sheet lease commitments. The sites are at varying levels of construction, with some not expected to break ground until next year.&lt;/p&gt;
-&lt;p&gt;Safra Catz, Oracle’s sole chief executive from 2019 until she stepped down in September, resisted expanding its cloud business because of the vast expenses required. She was replaced by co-CEOs Clay Magouyrk and Mike Sicilia as part of the pivot by Oracle to a new era focused on AI.&lt;/p&gt;
-&lt;p&gt;Catz, who is now executive vice-chair of Oracle’s board, has exercised stock options and sold $2.5 billion of its shares this year, according to US regulatory filings. She had announced plans to exercise her stock options at the end of 2024.&lt;br /&gt;
-&lt;em&gt;© 2025 The Financial Times Ltd. All rights reserved. Not to be redistributed, copied, or modified in any way.&lt;/em&gt;&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-        &lt;div class="ad-wrapper-inner"&gt;
-            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-              &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/</guid><pubDate>Mon, 17 Nov 2025 16:41:05 +0000</pubDate></item><item><title>Google rolls out its AI ‘Flight Deals’ tool globally, adds new travel features in Search (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/17/google-rolls-out-its-ai-flight-deals-tool-globally-adds-new-travel-features-in-search/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google is rolling out new AI-powered features to book and plan travel in Search, the company announced on Monday. The tech giant is expanding availability for its AI-powered “Flight Deals” tool, adding the ability for users to organize travel plans with its “Canvas” tool in AI Mode, and launching agentic booking capabilities to more people.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Google first launched Flight Deals back in August in the U.S., Canada, and India. Now, the company is expanding the AI-powered search tool within Google Flights globally to help people quickly find affordable destinations.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;To get started, users need to describe where, when, and how they want to travel. Flight Deals will then use AI to display the best bargains available. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Flight Deals is now rolling out to more than 200 countries and territories worldwide, including the U.K., France, Germany, Mexico, Brazil, Indonesia, Japan, and Korea. The tool is also getting support for more than 60 languages.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3068346" height="378" src="https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-10.00.32-AM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As for the new AI Mode features, Google says users can now use the built-in Canvas tool to create travel plans. Canvas, which first launched as a way to build study plans and organize information over multiple sessions in a side panel, can now help users plan their upcoming trips.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Users need to tell AI mode what type of trip they’re looking for and then select the “Create with Canvas” option. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Right away, you’ll get a plan in the Canvas side panel that brings together real-time Search data for flights and hotels, details from Google Maps like photos and reviews and relevant information from sites across the web,” Google explained in a blog post. “You’ll find suggestions that fit your criteria, like hotel comparisons based on pricing and amenities or ideas for restaurants and activities optimized by travel time from where you’re staying.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Users can then ask follow-up questions and get help with tradeoffs, like choosing a hotel that’s closer to a brunch place you want to try but a bit farther from the hiking trails you want to explore.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3068347" height="381" src="https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-10.01.35-AM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Travel planning with Canvas is available on desktop in the U.S. for users who are opted into the AI Mode experiment in Labs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Additionally, Google announced that it’s bringing AI Mode’s agentic capabilities to more people. Earlier this year, Google announced that users who were opted into Labs could now get help with booking restaurant reservations, event tickets, and beauty and wellness appointments in AI Mode. Now, the company is making this capability available to all U.S. users. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Users can request dinner reservations based on multiple preferences, such as party size, date, time, location, and preferred cuisine. AI Mode will then search across different reservation platforms to find real-time availability for restaurants that match the inquiry. It then surfaces a curated list of options to choose from.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the future, Google says it will make it possible to finish booking flights and hotels directly in AI Mode. Users will be able to describe what they’re looking for and then compare different flights or hotels and browse information like schedules, prices, room photos, amenities, and reviews. &lt;br /&gt;&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google is rolling out new AI-powered features to book and plan travel in Search, the company announced on Monday. The tech giant is expanding availability for its AI-powered “Flight Deals” tool, adding the ability for users to organize travel plans with its “Canvas” tool in AI Mode, and launching agentic booking capabilities to more people.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Google first launched Flight Deals back in August in the U.S., Canada, and India. Now, the company is expanding the AI-powered search tool within Google Flights globally to help people quickly find affordable destinations.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;To get started, users need to describe where, when, and how they want to travel. Flight Deals will then use AI to display the best bargains available. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Flight Deals is now rolling out to more than 200 countries and territories worldwide, including the U.K., France, Germany, Mexico, Brazil, Indonesia, Japan, and Korea. The tool is also getting support for more than 60 languages.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3068346" height="378" src="https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-10.00.32-AM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As for the new AI Mode features, Google says users can now use the built-in Canvas tool to create travel plans. Canvas, which first launched as a way to build study plans and organize information over multiple sessions in a side panel, can now help users plan their upcoming trips.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Users need to tell AI mode what type of trip they’re looking for and then select the “Create with Canvas” option. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Right away, you’ll get a plan in the Canvas side panel that brings together real-time Search data for flights and hotels, details from Google Maps like photos and reviews and relevant information from sites across the web,” Google explained in a blog post. “You’ll find suggestions that fit your criteria, like hotel comparisons based on pricing and amenities or ideas for restaurants and activities optimized by travel time from where you’re staying.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Users can then ask follow-up questions and get help with tradeoffs, like choosing a hotel that’s closer to a brunch place you want to try but a bit farther from the hiking trails you want to explore.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3068347" height="381" src="https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-10.01.35-AM.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Google&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Travel planning with Canvas is available on desktop in the U.S. for users who are opted into the AI Mode experiment in Labs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Additionally, Google announced that it’s bringing AI Mode’s agentic capabilities to more people. Earlier this year, Google announced that users who were opted into Labs could now get help with booking restaurant reservations, event tickets, and beauty and wellness appointments in AI Mode. Now, the company is making this capability available to all U.S. users. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Users can request dinner reservations based on multiple preferences, such as party size, date, time, location, and preferred cuisine. AI Mode will then search across different reservation platforms to find real-time availability for restaurants that match the inquiry. It then surfaces a curated list of options to choose from.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the future, Google says it will make it possible to finish booking flights and hotels directly in AI Mode. Users will be able to describe what they’re looking for and then compare different flights or hotels and browse information like schedules, prices, room photos, amenities, and reviews. &lt;br /&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/17/google-rolls-out-its-ai-flight-deals-tool-globally-adds-new-travel-features-in-search/</guid><pubDate>Mon, 17 Nov 2025 17:00:00 +0000</pubDate></item><item><title>[NEW] One Giant Leap for AI Physics: NVIDIA Apollo Unveiled as Open Model Family for Scientific Simulation (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/apollo-open-models/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/SC25-Apollo.jpg" /&gt;&lt;/div&gt;&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;NVIDIA Apollo — a family of open models for accelerating industrial and computational engineering — was introduced today at the SC25 conference in St. Louis.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 18 Nov 2025 06:33:18 +0000</lastBuildDate><item><title> ()</title><link>https://deepmind.com/blog/feed/basic/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://deepmind.com/blog/feed/basic/</guid></item><item><title>One Giant Leap for AI Physics: NVIDIA Apollo Unveiled as Open Model Family for Scientific Simulation (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/apollo-open-models/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/SC25-Apollo.jpg" /&gt;&lt;/div&gt;&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;NVIDIA Apollo — a family of open models for accelerating industrial and computational engineering — was introduced today at the SC25 conference in St. Louis.&lt;/p&gt;
 &lt;p&gt;Accelerated by NVIDIA AI infrastructure, the new AI physics models will enable developers to integrate real-time capabilities into their simulation software across a broad range of industries.&lt;/p&gt;
 &lt;p&gt;The NVIDIA Apollo family will include physics-optimized models — each developed for scalability, performance and accuracy — for fields including:&lt;/p&gt;
 &lt;ul&gt;
@@ -831,7 +57,7 @@
 &lt;p&gt;&lt;i&gt;See &lt;/i&gt;&lt;i&gt;notice&lt;/i&gt;&lt;i&gt; regarding software product information.&lt;/i&gt;&lt;/p&gt;
 
 		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/apollo-open-models/</guid><pubDate>Mon, 17 Nov 2025 22:30:25 +0000</pubDate></item><item><title>[NEW] NVIDIA Accelerated Computing Enables Scientific Breakthroughs for Materials Discovery (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/ai-science-materials-discovery-sc25/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;To power future technologies including liquid-cooled data centers, high-resolution digital displays and long-lasting batteries, scientists are searching for novel chemicals and materials optimized for factors like energy use, durability and efficacy.&lt;/p&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/apollo-open-models/</guid><pubDate>Mon, 17 Nov 2025 22:30:25 +0000</pubDate></item><item><title>NVIDIA Accelerated Computing Enables Scientific Breakthroughs for Materials Discovery (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/ai-science-materials-discovery-sc25/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;To power future technologies including liquid-cooled data centers, high-resolution digital displays and long-lasting batteries, scientists are searching for novel chemicals and materials optimized for factors like energy use, durability and efficacy.&lt;/p&gt;
 &lt;p&gt;New NVIDIA-accelerated data processing pipelines and AI microservices unveiled at the SC25 conference in St. Louis are advancing chemistry and material science to support this research, with potential applications in industries such as aerospace, energy and manufacturing.&lt;/p&gt;
 &lt;p&gt;A demo in the NVIDIA booth showcases work by the U.S. Department of Energy’s Brookhaven National Laboratory using the NVIDIA Holoscan AI sensor processing platform to visualize materials at under 10 nanometer-resolution.&lt;/p&gt;
 &lt;p&gt;Another demo highlights a pair of microservices coming to NVIDIA NIM that will provide efficient, high-throughput simulations for batched conformer search and batched molecular dynamics — processes necessary to predict and simulate the properties of materials at an atomic level. The NIM microservices are part of NVIDIA ALCHEMI, a suite of microservices and toolkits for chemistry and materials science.&lt;/p&gt;
@@ -901,7 +127,7 @@
 &lt;p&gt;&lt;i&gt;See &lt;/i&gt;&lt;i&gt;notice&lt;/i&gt;&lt;i&gt; regarding software product information.&lt;/i&gt;&lt;/p&gt;
 
 		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-science-materials-discovery-sc25/</guid><pubDate>Mon, 17 Nov 2025 22:30:54 +0000</pubDate></item><item><title>[NEW] NVIDIA Accelerates AI for Over 80 New Science Systems Worldwide (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/sc25-new-science-systems-worldwide/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Across quantum physics, digital biology and climate research, the world’s researchers are harnessing a universal scientific instrument to chart new frontiers of discovery: accelerated computing.&lt;/p&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-science-materials-discovery-sc25/</guid><pubDate>Mon, 17 Nov 2025 22:30:54 +0000</pubDate></item><item><title>NVIDIA Accelerates AI for Over 80 New Science Systems Worldwide (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/sc25-new-science-systems-worldwide/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Across quantum physics, digital biology and climate research, the world’s researchers are harnessing a universal scientific instrument to chart new frontiers of discovery: accelerated computing.&lt;/p&gt;
 &lt;p&gt;At this week’s SC25 conference in St. Louis, Missouri, NVIDIA announced that over 80 new scientific systems powered by the NVIDIA accelerated computing platform have been unveiled around the globe in the last year, contributing to a combined total of 4,500 exaflops of AI performance.&lt;/p&gt;
 &lt;p&gt;Newest among them is America’s largest academic supercomputer: the 300-petaflop Horizon system at the Texas Advanced Computing Center (TACC).&lt;/p&gt;
 &lt;p&gt;Slated to be powered by NVIDIA GB200 NVL4 and NVIDIA Vera CPU servers, interconnected with NVIDIA Quantum-X800 InfiniBand networking, Horizon is set to accelerate breakthroughs in science and engineering when it comes online in 2026, offering the nation’s research community unprecedented computing capabilities for discovery and innovation.&lt;/p&gt;
@@ -1003,10 +229,16 @@
 &lt;p&gt;&lt;i&gt;Read more about &lt;/i&gt;&lt;i&gt;NVIDIA-accelerated supercomputing&lt;/i&gt;&lt;i&gt; and watch the &lt;/i&gt;&lt;i&gt;SC25 fireside chat by Ian Buck&lt;/i&gt;&lt;i&gt;, vice president of hyperscale and high-performance computing at NVIDIA.&lt;/i&gt;&lt;/p&gt;
 
 		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/sc25-new-science-systems-worldwide/</guid><pubDate>Mon, 17 Nov 2025 22:30:57 +0000</pubDate></item><item><title>[NEW] Accelerated Computing, Networking Drive Supercomputing in Age of AI (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/accelerated-computing-networking-supercomputing-ai/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;At SC25, NVIDIA unveiled advances across NVIDIA BlueField DPUs, next-generation networking, quantum computing, national research, AI physics and more — as accelerated systems drive the next chapter in AI supercomputing.&lt;/p&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/sc25-new-science-systems-worldwide/</guid><pubDate>Mon, 17 Nov 2025 22:30:57 +0000</pubDate></item><item><title>Accelerated Computing, Networking Drive Supercomputing in Age of AI (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/accelerated-computing-networking-supercomputing-ai/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;At SC25, NVIDIA unveiled advances across NVIDIA BlueField DPUs, next-generation networking, quantum computing, national research, AI physics and more — as accelerated systems drive the next chapter in AI supercomputing.&lt;/p&gt;
 &lt;figure class="wp-caption aligncenter" id="attachment_87508"&gt;&lt;img alt="alt" class="wp-image-87508 size-large" height="1120" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/SC25-Fireside-Chat-DEBM5955-1680x1120.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87508"&gt;Ian Buck, vice president and general manager of accelerated computing at NVIDIA, delivered a special address at SC25.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;NVIDIA also highlighted storage innovations powered by the NVIDIA BlueField-4 data processing unit, part of the full-stack BlueField platform that accelerates gigascale AI infrastructure.&lt;/p&gt;
 &lt;p&gt;More details also came on NVIDIA Quantum-X Photonics InfiniBand CPO networking switches — enabling AI factories to drastically reduce energy consumption and operational costs — including that TACC, Lambda and CoreWeave plan to integrate them.&lt;/p&gt;
+&lt;p&gt;And NVIDIA founder and CEO Jensen Huang made a surprise appearance at the St. Louis event, making a few remarks about NVIDIA’s supercomputing news to the crowd at SC25.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="aligncenter wp-image-87600 size-large" height="1120" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/SC25-DGX-Spark_Giveaway-DEB15704-1680x1120.jpg" width="1680" /&gt;&lt;/p&gt;
+&lt;p&gt;“The big news this year is Grace Blackwell, and you might have seen the production of our second-generation Grace platform, called GB300, is going incredibly,” Huang said. “We are, basically, manufacturing supercomputers like chiclets.”&lt;/p&gt;
+&lt;p&gt;He also came bearing gifts of the most compact supercomputers on the planet: NVIDIA DGX Spark AI supercomputers.&lt;/p&gt;
+&lt;p&gt;“So this is the DGX Spark. And apparently several of you — 10 of you — are going to win one of these,” he said. “Tell me this isn’t gonna look great under a Christmas tree.”&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="aligncenter size-large wp-image-87604" height="945" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/SC25-DGX-Spark-Giveaway-blog-1920x1080-4511950-02-1680x945.jpg" width="1680" /&gt;&lt;/p&gt;
 &lt;p&gt;Last month, NVIDIA began shipping DGX Spark, the world’s smallest AI supercomputer. DGX Spark packs a petaflop of AI performance and 128GB of unified memory into a desktop form factor, enabling developers to run inference on models up to 200 billion parameters and fine-tune models locally. Built on the Grace Blackwell architecture, it integrates NVIDIA GPUs, CPUs, networking, CUDA libraries and the full NVIDIA AI software stack.&lt;/p&gt;
 &lt;p&gt;DGX Spark’s unified memory and NVIDIA NVLink-C2C deliver 5x the bandwidth of PCIe Gen5, enabling faster GPU-CPU data exchange. This boosts training efficiency for large models, reduces latency and supports seamless fine-tuning workflows — all within a desktop form factor.&lt;/p&gt;
 &lt;h2&gt;&lt;b&gt;NVIDIA Apollo Unveiled as Latest Open Model Family for AI Physics&lt;/b&gt;&lt;/h2&gt;
@@ -1087,6 +319,12 @@
 &lt;figure class="wp-caption aligncenter" id="attachment_87508"&gt;&lt;img alt="alt" class="wp-image-87508 size-large" height="1120" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/SC25-Fireside-Chat-DEBM5955-1680x1120.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87508"&gt;Ian Buck, vice president and general manager of accelerated computing at NVIDIA, delivered a special address at SC25.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;NVIDIA also highlighted storage innovations powered by the NVIDIA BlueField-4 data processing unit, part of the full-stack BlueField platform that accelerates gigascale AI infrastructure.&lt;/p&gt;
 &lt;p&gt;More details also came on NVIDIA Quantum-X Photonics InfiniBand CPO networking switches — enabling AI factories to drastically reduce energy consumption and operational costs — including that TACC, Lambda and CoreWeave plan to integrate them.&lt;/p&gt;
+&lt;p&gt;And NVIDIA founder and CEO Jensen Huang made a surprise appearance at the St. Louis event, making a few remarks about NVIDIA’s supercomputing news to the crowd at SC25.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="aligncenter wp-image-87600 size-large" height="1120" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/SC25-DGX-Spark_Giveaway-DEB15704-1680x1120.jpg" width="1680" /&gt;&lt;/p&gt;
+&lt;p&gt;“The big news this year is Grace Blackwell, and you might have seen the production of our second-generation Grace platform, called GB300, is going incredibly,” Huang said. “We are, basically, manufacturing supercomputers like chiclets.”&lt;/p&gt;
+&lt;p&gt;He also came bearing gifts of the most compact supercomputers on the planet: NVIDIA DGX Spark AI supercomputers.&lt;/p&gt;
+&lt;p&gt;“So this is the DGX Spark. And apparently several of you — 10 of you — are going to win one of these,” he said. “Tell me this isn’t gonna look great under a Christmas tree.”&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="aligncenter size-large wp-image-87604" height="945" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/SC25-DGX-Spark-Giveaway-blog-1920x1080-4511950-02-1680x945.jpg" width="1680" /&gt;&lt;/p&gt;
 &lt;p&gt;Last month, NVIDIA began shipping DGX Spark, the world’s smallest AI supercomputer. DGX Spark packs a petaflop of AI performance and 128GB of unified memory into a desktop form factor, enabling developers to run inference on models up to 200 billion parameters and fine-tune models locally. Built on the Grace Blackwell architecture, it integrates NVIDIA GPUs, CPUs, networking, CUDA libraries and the full NVIDIA AI software stack.&lt;/p&gt;
 &lt;p&gt;DGX Spark’s unified memory and NVIDIA NVLink-C2C deliver 5x the bandwidth of PCIe Gen5, enabling faster GPU-CPU data exchange. This boosts training efficiency for large models, reduces latency and supports seamless fine-tuning workflows — all within a desktop form factor.&lt;/p&gt;
 &lt;h2&gt;&lt;b&gt;NVIDIA Apollo Unveiled as Latest Open Model Family for AI Physics&lt;/b&gt;&lt;/h2&gt;
@@ -1163,7 +401,7 @@
 &lt;p&gt;DPS also extends beyond the data center. With grid-facing APIs, it supports automated load shedding and demand response, helping utilities stabilize the grid during peak events. The result is a resilient, grid-interactive AI factory that turns every watt into measurable progress.&lt;/p&gt;
 
 		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/accelerated-computing-networking-supercomputing-ai/</guid><pubDate>Mon, 17 Nov 2025 22:31:55 +0000</pubDate></item><item><title>[NEW] With a new company, Jeff Bezos will become a CEO again (AI – Ars Technica)</title><link>https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/</link><description>&lt;header&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/accelerated-computing-networking-supercomputing-ai/</guid><pubDate>Mon, 17 Nov 2025 22:31:55 +0000</pubDate></item><item><title>With a new company, Jeff Bezos will become a CEO again (AI – Ars Technica)</title><link>https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 dark:bg-gray-700 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -1421,7 +659,7 @@
         &lt;/div&gt;
     &lt;/div&gt;
               &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/</guid><pubDate>Mon, 17 Nov 2025 22:50:21 +0000</pubDate></item><item><title>[NEW] a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/IMG_9933.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A pro-AI super PAC backed by Andreessen Horowitz and OpenAI President Greg Brockman has chosen New York Assembly member Alex Bores — and his congressional bid — as its first target.&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/</guid><pubDate>Mon, 17 Nov 2025 22:50:21 +0000</pubDate></item><item><title>a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/IMG_9933.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A pro-AI super PAC backed by Andreessen Horowitz and OpenAI President Greg Brockman has chosen New York Assembly member Alex Bores — and his congressional bid — as its first target.&amp;nbsp;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The PAC, dubbed Leading the Future, formed in August with a more than $100 million commitment to support policymakers with a light-touch — or a no-touch — approach to AI regulation. And that means going after policymakers who want to regulate AI.&amp;nbsp;The super PAC has backing from a number of other prominent leaders in tech, including Palantir co-founder&amp;nbsp;and 8VC managing partner Joe Lonsdale as well as AI search engine Perplexity.&lt;/p&gt;
 
@@ -1531,4 +769,182 @@
 
 &lt;p class="wp-block-paragraph"&gt;Bores emphasized that AI regulation isn’t meant to limit innovation, and that he has rejected bills that he thinks would have unintended consequences for the industry.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Having basic rules of the road, literal or metaphorical, is actually a very pro-innovation stance if done well,” Bores said. “I fundamentally believe that the AI that wins is going to be the AI that is trustworthy. And the pushback from industry to say that government has no role in establishing that trust is one that I think you’re seeing people reject at every level.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/</guid><pubDate>Tue, 18 Nov 2025 00:32:50 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;“Having basic rules of the road, literal or metaphorical, is actually a very pro-innovation stance if done well,” Bores said. “I fundamentally believe that the AI that wins is going to be the AI that is trustworthy. And the pushback from industry to say that government has no role in establishing that trust is one that I think you’re seeing people reject at every level.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/</guid><pubDate>Tue, 18 Nov 2025 00:32:50 +0000</pubDate></item><item><title>[NEW] The Great Flip: How Accelerated Computing Redefined Scientific Systems — and What Comes Next (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/accelerated-scientific-systems/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;It used to be that computing power trickled down from hulking supercomputers to the chips in our pockets.&lt;/p&gt;
+&lt;p&gt;Over the past 15 years, innovation has changed course: GPUs, born from gaming and scaled through accelerated computing, have surged upstream to remake supercomputing and carry the AI revolution to scientific computing’s most rarefied systems.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="wp-image-87559 size-full aligncenter" height="1102" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/image-1.png" width="1816" /&gt;&lt;br /&gt;JUPITER at Forschungszentrum Jülich is the emblem of this new era.&lt;/p&gt;
+&lt;p&gt;Not only is it among the most efficient supercomputers — producing 63.3 gigaflops per watt — but it’s also a powerhouse for AI, delivering 116 AI exaflops, up from 92 at ISC High Performance 2025.&lt;/p&gt;
+&lt;p&gt;This is the “flip” in action. In 2019, nearly 70% of the TOP100 high-performance computing systems were CPU-only. Today, that number has plunged below 15%, with 88 of the TOP100 systems accelerated — and 80% of those powered by NVIDIA GPUs.&lt;/p&gt;
+&lt;p&gt;Across the broader TOP500, 388 systems, 78%, now use NVIDIA technology, including 218 GPU-accelerated systems (up 34 systems year over year) and 362 systems connected by high-performance NVIDIA networking. The trend is unmistakable: accelerated computing has become the standard.&lt;/p&gt;
+&lt;p&gt;But the real revolution is in AI performance. With architectures like NVIDIA Hopper and Blackwell and systems like JUPITER, researchers now have access to orders of magnitude more AI compute than ever.&lt;/p&gt;
+&lt;p&gt;AI FLOPS have become the new yardstick, enabling breakthroughs in climate modeling, drug discovery and quantum simulation — problems that demand both scale and efficiency.&lt;/p&gt;
+&lt;p&gt;At SC16, years before today’s generative AI wave, NVIDIA founder and CEO Jensen Huang saw what was coming. He predicted that AI would soon reshape the world’s most powerful computing systems.&lt;/p&gt;
+&lt;p&gt;“Several years ago, deep learning came along, like Thor’s hammer falling from the sky, and gave us an incredibly powerful tool to solve some of the most difficult problems in the world,” Huang declared.&lt;/p&gt;
+&lt;figure class="wp-caption alignleft" id="attachment_87563"&gt;&lt;img alt="alt" class="wp-image-87563 size-full" height="312" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/Picture1.jpg" width="468" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87563"&gt;At SC16, Huang explained how AI would reshape the world’s most powerful scientific computing systems.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The math behind computing power consumption had already made the shift to GPUs inevitable.&lt;/p&gt;
+&lt;p&gt;But it was the AI revolution, ignited by the NVIDIA CUDA-X computing platform built on those GPUs, that extended the capabilities of these machines dramatically.&lt;/p&gt;
+&lt;p&gt;Suddenly, supercomputers could deliver meaningful science at double precision (FP64) as well as at mixed precision (FP32, FP16) and even at ultra-efficient formats like INT8 and beyond — the backbone of modern AI.&lt;/p&gt;
+&lt;p&gt;This flexibility allowed researchers to stretch power budgets further than ever to run larger, more complex simulations and train deeper neural networks, all while maximizing performance per watt.&lt;/p&gt;
+&lt;p&gt;But even before AI took hold, the raw numbers had already forced the issue. Power budgets don’t negotiate. Supercomputer researchers — inside NVIDIA and across the community — were coming to grips with the road ahead, and it was paved with GPUs.&lt;/p&gt;
+&lt;p&gt;To reach exascale without a Hoover Dam‑sized electric bill, researchers needed acceleration. GPUs delivered far more operations per watt than CPUs. That was the pre‑AI tell of what was to come, and that’s why when the AI boom hit, large-scale GPU systems already had momentum.&lt;/p&gt;
+&lt;p&gt;The seeds were planted with Titan in 2012 at the Oak Ridge National Laboratory, one of the first major U.S. systems to pair CPUs with GPUs at unprecedented scale — showing how hierarchical parallelism could unlock huge application gains.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In Europe in 2013, Piz Daint set a new bar for both performance and efficiency, then proved the point where it matters: real applications like COSMO forecasting for weather prediction.&lt;/p&gt;
+&lt;p&gt;By 2017, the inflection was undeniable. Summit at Oak Ridge National Laboratory and Sierra at Lawrence Livermore Laboratory ushered in a new standard for leadership‑class systems: acceleration first. They didn’t just run faster; they changed the questions science could ask for climate modeling, genomics, materials and more.&lt;/p&gt;
+&lt;p&gt;These systems are able to do much more with much less. On the Green500 list of the most efficient systems, the top eight are NVIDIA‑accelerated, with NVIDIA Quantum InfiniBand connecting 7 of the Top 10.&lt;/p&gt;
+&lt;p&gt;But the story behind these headline numbers is how AI capabilities have become the yardstick: JUPITER delivers 116 AI exaflops alongside 1 EF FP64 — a clear signal of how science now blends simulation and AI.&lt;br /&gt;Power efficiency didn’t just make exascale attainable; it made AI at exascale practical. And once science had AI at scale, the curve bent sharply upward.&lt;/p&gt;
+&lt;h2&gt;What It Means Next&lt;/h2&gt;
+&lt;p&gt;This isn’t just about benchmarks. It’s about real science:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Faster, more accurate weather and climate models&lt;/li&gt;
+&lt;li&gt;Breakthroughs in drug discovery and genomics&lt;/li&gt;
+&lt;li&gt;Simulations of fusion reactors and quantum systems&lt;/li&gt;
+&lt;li&gt;New frontiers in AI-driven research across every discipline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The shift started as a power-efficiency imperative, became an architectural advantage and has matured into a scientific superpower: simulation and AI, together, at unprecedented scale.&lt;/p&gt;
+&lt;p&gt;It starts with scientific computing. Now, the rest of computing will follow.&lt;/p&gt;
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</description><content:encoded>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;It used to be that computing power trickled down from hulking supercomputers to the chips in our pockets.&lt;/p&gt;
+&lt;p&gt;Over the past 15 years, innovation has changed course: GPUs, born from gaming and scaled through accelerated computing, have surged upstream to remake supercomputing and carry the AI revolution to scientific computing’s most rarefied systems.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="wp-image-87559 size-full aligncenter" height="1102" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/image-1.png" width="1816" /&gt;&lt;br /&gt;JUPITER at Forschungszentrum Jülich is the emblem of this new era.&lt;/p&gt;
+&lt;p&gt;Not only is it among the most efficient supercomputers — producing 63.3 gigaflops per watt — but it’s also a powerhouse for AI, delivering 116 AI exaflops, up from 92 at ISC High Performance 2025.&lt;/p&gt;
+&lt;p&gt;This is the “flip” in action. In 2019, nearly 70% of the TOP100 high-performance computing systems were CPU-only. Today, that number has plunged below 15%, with 88 of the TOP100 systems accelerated — and 80% of those powered by NVIDIA GPUs.&lt;/p&gt;
+&lt;p&gt;Across the broader TOP500, 388 systems, 78%, now use NVIDIA technology, including 218 GPU-accelerated systems (up 34 systems year over year) and 362 systems connected by high-performance NVIDIA networking. The trend is unmistakable: accelerated computing has become the standard.&lt;/p&gt;
+&lt;p&gt;But the real revolution is in AI performance. With architectures like NVIDIA Hopper and Blackwell and systems like JUPITER, researchers now have access to orders of magnitude more AI compute than ever.&lt;/p&gt;
+&lt;p&gt;AI FLOPS have become the new yardstick, enabling breakthroughs in climate modeling, drug discovery and quantum simulation — problems that demand both scale and efficiency.&lt;/p&gt;
+&lt;p&gt;At SC16, years before today’s generative AI wave, NVIDIA founder and CEO Jensen Huang saw what was coming. He predicted that AI would soon reshape the world’s most powerful computing systems.&lt;/p&gt;
+&lt;p&gt;“Several years ago, deep learning came along, like Thor’s hammer falling from the sky, and gave us an incredibly powerful tool to solve some of the most difficult problems in the world,” Huang declared.&lt;/p&gt;
+&lt;figure class="wp-caption alignleft" id="attachment_87563"&gt;&lt;img alt="alt" class="wp-image-87563 size-full" height="312" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/Picture1.jpg" width="468" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87563"&gt;At SC16, Huang explained how AI would reshape the world’s most powerful scientific computing systems.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The math behind computing power consumption had already made the shift to GPUs inevitable.&lt;/p&gt;
+&lt;p&gt;But it was the AI revolution, ignited by the NVIDIA CUDA-X computing platform built on those GPUs, that extended the capabilities of these machines dramatically.&lt;/p&gt;
+&lt;p&gt;Suddenly, supercomputers could deliver meaningful science at double precision (FP64) as well as at mixed precision (FP32, FP16) and even at ultra-efficient formats like INT8 and beyond — the backbone of modern AI.&lt;/p&gt;
+&lt;p&gt;This flexibility allowed researchers to stretch power budgets further than ever to run larger, more complex simulations and train deeper neural networks, all while maximizing performance per watt.&lt;/p&gt;
+&lt;p&gt;But even before AI took hold, the raw numbers had already forced the issue. Power budgets don’t negotiate. Supercomputer researchers — inside NVIDIA and across the community — were coming to grips with the road ahead, and it was paved with GPUs.&lt;/p&gt;
+&lt;p&gt;To reach exascale without a Hoover Dam‑sized electric bill, researchers needed acceleration. GPUs delivered far more operations per watt than CPUs. That was the pre‑AI tell of what was to come, and that’s why when the AI boom hit, large-scale GPU systems already had momentum.&lt;/p&gt;
+&lt;p&gt;The seeds were planted with Titan in 2012 at the Oak Ridge National Laboratory, one of the first major U.S. systems to pair CPUs with GPUs at unprecedented scale — showing how hierarchical parallelism could unlock huge application gains.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In Europe in 2013, Piz Daint set a new bar for both performance and efficiency, then proved the point where it matters: real applications like COSMO forecasting for weather prediction.&lt;/p&gt;
+&lt;p&gt;By 2017, the inflection was undeniable. Summit at Oak Ridge National Laboratory and Sierra at Lawrence Livermore Laboratory ushered in a new standard for leadership‑class systems: acceleration first. They didn’t just run faster; they changed the questions science could ask for climate modeling, genomics, materials and more.&lt;/p&gt;
+&lt;p&gt;These systems are able to do much more with much less. On the Green500 list of the most efficient systems, the top eight are NVIDIA‑accelerated, with NVIDIA Quantum InfiniBand connecting 7 of the Top 10.&lt;/p&gt;
+&lt;p&gt;But the story behind these headline numbers is how AI capabilities have become the yardstick: JUPITER delivers 116 AI exaflops alongside 1 EF FP64 — a clear signal of how science now blends simulation and AI.&lt;br /&gt;Power efficiency didn’t just make exascale attainable; it made AI at exascale practical. And once science had AI at scale, the curve bent sharply upward.&lt;/p&gt;
+&lt;h2&gt;What It Means Next&lt;/h2&gt;
+&lt;p&gt;This isn’t just about benchmarks. It’s about real science:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Faster, more accurate weather and climate models&lt;/li&gt;
+&lt;li&gt;Breakthroughs in drug discovery and genomics&lt;/li&gt;
+&lt;li&gt;Simulations of fusion reactors and quantum systems&lt;/li&gt;
+&lt;li&gt;New frontiers in AI-driven research across every discipline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The shift started as a power-efficiency imperative, became an architectural advantage and has matured into a scientific superpower: simulation and AI, together, at unprecedented scale.&lt;/p&gt;
+&lt;p&gt;It starts with scientific computing. Now, the rest of computing will follow.&lt;/p&gt;
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/accelerated-scientific-systems/</guid><pubDate>Tue, 18 Nov 2025 01:53:30 +0000</pubDate></item><item><title>[NEW] As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/a5fadec4-271b-4ce6-bdd2-504484c36964.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;With consumers increasingly asking questions of ChatGPT — not Google — product discovery is changing. And the promise to give brands visibility and control over this fast-growing search channel has made Peec AI one of Europe’s hottest startups.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Just four months after its Seed round led by 20VC, the Berlin-based startup has raised a $21 million Series A led by European VC firm Singular. CEO Marius Meiners declined to disclose the valuation, but said it had tripled and was now above $100 million.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This comes after Peec AI grew its annual recurring revenue to more than $4 million in only ten months since its launch, attracting 1,300 companies and agencies to its platform.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These customers use Peec AI to monitor how their brands appear in AI-powered searches. But beyond analytics on visibility and ranking, Peec AI also tracks sentiment — and which sources shape these answers.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These insights are what make Generative Engine Optimization (GEO) possible — a way for marketing teams to optimize their brand’s presence in AI search results, similar to how SEO works for traditional search engines. With this promise, the startup says it is now adding some 300 customers a month, and its new funding will accelerate this growth while also supporting expansion plans.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Thanks to its new round, which was also backed by Antler, Combination VC, identity.vc, and S20, the startup plans to hire some 40 people in the next six months. These roles are mostly based in Berlin, where Meiners met his two cofounders in Antler’s Winter 2024 cohort: Tobias Siwonia is now Peec AI’s CTO, and Daniel Drabo is its CRO.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Expanding fast and being visible may be key to winning in an emerging category that could soon become crowded, with competitors already including New York-based Profound and Austrian startup OtterlyAI.&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To help attract more talent, the 20-person startup is currently advertising itself on large outdoor ads throughout Germany’s capital city. But beyond its Berlin plans, Meiners told TechCrunch that Peec AI also plans to open a sales-focused office in New York City in the second quarter of next year.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As more GEO-focused tools become available, and SEO dashboards add AI tracking capabilities, Peec AI hopes to differentiate itself by offering marketing teams a dashboard that expands in scope while remaining simple to use, despite the fast-changing nature of AI searches.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Instead of revolving around keywords like SEO tools, Peec AI’s dashboard centers on prompts for which brands would like to show up well in search results. Customers can track up to 25 prompts for €75 per month ($87), increasing to 100 prompts for €169 per month ($196). Both plans offer free trials, unlike its enterprise offering, which starts from €424 per month ($493).&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;To make these insights actionable, the dashboard also suggests actions that can improve visibility and positive sentiment. For instance, its home page suggests that a company that wants to be the answer to a query on “the best CRMs for fast-growing companies” may want to “join r/CRM subreddit discussions” on Reddit.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This recommendation also relates to the “source insights” that are at the core of Peec AI and could guide the content strategy of its users. The startup observed that mentions in tier 1 media outlets don’t give more visibility than articles by lesser-known publications whose headlines are closer to the original question — for instance, on “the best healthcare investors in Berlin.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Companies that already use its tools include Axel Springer, Chanel, n8n, ElevenLabs, TUI, and more, as AI searches gain ground across sectors, both for B2C and for B2B searches. However, users also turn to ChatGPT and the like for many other tasks and requests, which means that the startup has to cut through noise behind the scenes.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To achieve this, Peec AI bought raw datasets of these requests, but that’s just the beginning. &lt;em&gt;“&lt;/em&gt;We have to filter all these out to really get the questions that people ask around brands or purchases and products and services,” Meiners said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For all the simplicity on the outside, that proprietary data pipeline may be the key to Peec AI’s success. This also serves as a reminder that the AI value chain is not only about models and that the AI application layer and underlying data have become a prime territory for European startups, now including Peec AI.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/a5fadec4-271b-4ce6-bdd2-504484c36964.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;With consumers increasingly asking questions of ChatGPT — not Google — product discovery is changing. And the promise to give brands visibility and control over this fast-growing search channel has made Peec AI one of Europe’s hottest startups.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Just four months after its Seed round led by 20VC, the Berlin-based startup has raised a $21 million Series A led by European VC firm Singular. CEO Marius Meiners declined to disclose the valuation, but said it had tripled and was now above $100 million.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This comes after Peec AI grew its annual recurring revenue to more than $4 million in only ten months since its launch, attracting 1,300 companies and agencies to its platform.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These customers use Peec AI to monitor how their brands appear in AI-powered searches. But beyond analytics on visibility and ranking, Peec AI also tracks sentiment — and which sources shape these answers.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These insights are what make Generative Engine Optimization (GEO) possible — a way for marketing teams to optimize their brand’s presence in AI search results, similar to how SEO works for traditional search engines. With this promise, the startup says it is now adding some 300 customers a month, and its new funding will accelerate this growth while also supporting expansion plans.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Thanks to its new round, which was also backed by Antler, Combination VC, identity.vc, and S20, the startup plans to hire some 40 people in the next six months. These roles are mostly based in Berlin, where Meiners met his two cofounders in Antler’s Winter 2024 cohort: Tobias Siwonia is now Peec AI’s CTO, and Daniel Drabo is its CRO.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Expanding fast and being visible may be key to winning in an emerging category that could soon become crowded, with competitors already including New York-based Profound and Austrian startup OtterlyAI.&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To help attract more talent, the 20-person startup is currently advertising itself on large outdoor ads throughout Germany’s capital city. But beyond its Berlin plans, Meiners told TechCrunch that Peec AI also plans to open a sales-focused office in New York City in the second quarter of next year.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As more GEO-focused tools become available, and SEO dashboards add AI tracking capabilities, Peec AI hopes to differentiate itself by offering marketing teams a dashboard that expands in scope while remaining simple to use, despite the fast-changing nature of AI searches.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Instead of revolving around keywords like SEO tools, Peec AI’s dashboard centers on prompts for which brands would like to show up well in search results. Customers can track up to 25 prompts for €75 per month ($87), increasing to 100 prompts for €169 per month ($196). Both plans offer free trials, unlike its enterprise offering, which starts from €424 per month ($493).&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;To make these insights actionable, the dashboard also suggests actions that can improve visibility and positive sentiment. For instance, its home page suggests that a company that wants to be the answer to a query on “the best CRMs for fast-growing companies” may want to “join r/CRM subreddit discussions” on Reddit.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This recommendation also relates to the “source insights” that are at the core of Peec AI and could guide the content strategy of its users. The startup observed that mentions in tier 1 media outlets don’t give more visibility than articles by lesser-known publications whose headlines are closer to the original question — for instance, on “the best healthcare investors in Berlin.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Companies that already use its tools include Axel Springer, Chanel, n8n, ElevenLabs, TUI, and more, as AI searches gain ground across sectors, both for B2C and for B2B searches. However, users also turn to ChatGPT and the like for many other tasks and requests, which means that the startup has to cut through noise behind the scenes.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To achieve this, Peec AI bought raw datasets of these requests, but that’s just the beginning. &lt;em&gt;“&lt;/em&gt;We have to filter all these out to really get the questions that people ask around brands or purchases and products and services,” Meiners said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For all the simplicity on the outside, that proprietary data pipeline may be the key to Peec AI’s success. This also serves as a reminder that the AI value chain is not only about models and that the AI application layer and underlying data have become a prime territory for European startups, now including Peec AI.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/</guid><pubDate>Tue, 18 Nov 2025 05:10:17 +0000</pubDate></item></channel></rss>
