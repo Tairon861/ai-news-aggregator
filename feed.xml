@@ -1,7 +1,809 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 27 Nov 2025 12:47:57 +0000</lastBuildDate><item><title> ()</title><link>https://deepmind.com/blog/feed/basic/</link><description>[unable to retrieve full-text content]</description><content:encoded>[unable to retrieve full-text content]</content:encoded><guid isPermaLink="false">https://deepmind.com/blog/feed/basic/</guid></item><item><title>[NEW] Edge AI inside the human body: Cochlear’s machine learning implant breakthrough (AI News)</title><link>https://www.artificialintelligence-news.com/news/edge-ai-medical-devices-cochlear-implants/</link><description>&lt;p&gt;The next frontier for edge AI medical devices isn’t wearables or bedside monitors—it’s inside the human body itself. Cochlear’s newly launched&amp;nbsp;Nucleus Nexa System&amp;nbsp;represents the first cochlear implant capable of running machine learning algorithms while managing extreme power constraints, storing&amp;nbsp;personalised data on-device, and receiving over-the-air firmware updates to improve its AI models over time.&lt;/p&gt;&lt;p&gt;For AI practitioners, the technical challenge is staggering: build a decision-tree model that classifies five distinct auditory environments in real time, optimise it to run on a device with&amp;nbsp;a&amp;nbsp;minimal power budget that must last decades, and do it all while directly interfacing with human neural tissue.&lt;/p&gt;&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-110944" height="683" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/20251113-Cochlear-30-Years-Anniversary_Press-2-1024x683.jpg" width="1024" /&gt;&lt;/figure&gt;&lt;h3 class="wp-block-heading" id="h-decision-trees-meet-ultra-low-power-computing"&gt;Decision trees meet ultra-low power computing&lt;/h3&gt;&lt;p&gt;At the core of the system’s intelligence lies SCAN 2, an environmental classifier that analyses incoming audio and categorises it as Speech, Speech in Noise, Noise, Music, or Quiet.&lt;/p&gt;&lt;p&gt;“These classifications are then input to a decision tree, which is a type of machine learning model,” explains Jan Janssen, Cochlear’s Global CTO, in an exclusive interview with&amp;nbsp;&lt;em&gt;AI News&lt;/em&gt;. “This decision is used to adjust sound processing settings for that situation, which adapts the electrical signals sent to the implant.”&lt;/p&gt;&lt;p&gt;The model runs on the external sound processor, but here’s where it gets interesting: the implant itself participates in the intelligence through Dynamic Power Management. Data and power are interleaved between the processor and implant via an enhanced RF link, allowing the chipset to optimise power efficiency based on the ML model’s environmental classifications.&lt;/p&gt;&lt;p&gt;This isn’t just smart power management—it’s edge AI medical devices solving one of the hardest problems in implantable computing: how do you keep a device operational for 40+ years when you can’t replace its battery?&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-spatial-intelligence-layer"&gt;The spatial intelligence layer&lt;/h3&gt;&lt;p&gt;Beyond environmental classification, the system employs ForwardFocus, a spatial noise algorithm that uses inputs from two omnidirectional microphones to create target and noise spatial patterns. The algorithm assumes target signals originate from the front while noise comes from the sides or behind, then applies spatial filtering to attenuate background interference.&lt;/p&gt;&lt;p&gt;What makes this noteworthy from an AI perspective is the automation layer. ForwardFocus can operate autonomously, removing cognitive load from users navigating complex auditory scenes. The decision to activate spatial filtering happens algorithmically based on environmental analysis—no user intervention required.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-upgradeability-the-medical-device-ai-paradigm-shift"&gt;Upgradeability: The medical device AI paradigm shift&lt;/h3&gt;&lt;p&gt;Here’s the breakthrough that separates this from previous-generation implants: upgradeable firmware in the implanted device itself. Historically, once a cochlear implant was surgically placed, its capabilities were frozen. New signal processing algorithms, improved ML models, better noise reduction—none of it could benefit existing patients.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-large"&gt;&lt;img alt="alt" class="wp-image-110945" height="683" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/20251113-Cochlear-30-Years-Anniversary_Press-7-1024x683.jpg" width="1024" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;&lt;strong&gt;Jan Janssen, Chief Technology Officer, Cochlear Limited&lt;/strong&gt;&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;The Nucleus Nexa Implant changes that equation. Using Cochlear’s proprietary short-range RF link, audiologists can deliver firmware updates through the external processor to the implant. Security relies on physical constraints—the limited transmission range and low power output require proximity during updates—combined with protocol-level safeguards.&lt;/p&gt;&lt;p&gt;“With the smart implants, we actually keep a copy [of the user’s personalised hearing map] on the implant,” Janssen explained. “So you lose this [external processor], we can send you a blank processor and put it on—it retrieves the map from the implant.”&lt;/p&gt;&lt;p&gt;The implant stores up to four unique maps in its internal memory. From an AI deployment perspective, this solves a critical challenge: how do you maintain personalised model parameters when hardware components fail or get replaced?&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-decision-trees-to-deep-neural-networks"&gt;From decision trees to deep neural networks&lt;/h3&gt;&lt;p&gt;Cochlear’s current implementation uses decision tree models for environmental classification—a pragmatic choice given power constraints and interpretability requirements for medical devices. But Janssen outlined where the technology is headed: “Artificial intelligence through deep neural networks—a complex form of machine learning—in the future may provide further improvement in hearing in noisy situations.”&lt;/p&gt;&lt;p&gt;The company is also exploring AI applications beyond signal processing. “Cochlear is investigating the use of artificial intelligence and connectivity to automate routine check-ups and reduce lifetime care costs,” Janssen noted.&lt;/p&gt;&lt;p&gt;This points to a broader trajectory for edge AI medical devices: from reactive signal processing to predictive health monitoring, from manual clinical adjustments to autonomous optimisation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-edge-ai-constraint-problem"&gt;The Edge AI constraint problem&lt;/h3&gt;&lt;p&gt;What makes this deployment fascinating from an ML engineering standpoint is the constraint stack:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Power&lt;/strong&gt;: The device must run for decades on minimal energy, with battery life measured in full days despite continuous audio processing and wireless transmission.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Latency:&amp;nbsp;&lt;/strong&gt;Audio processing happens in real-time with imperceptible delay—users can’t tolerate lag between speech and neural stimulation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Safety&lt;/strong&gt;: This is a life-critical medical device directly stimulating neural tissue. Model failures aren’t just inconvenient—they impact quality of life.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Upgradeability:&lt;/strong&gt;&amp;nbsp;The implant must support model improvements over 40+ years without hardware replacement.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Privacy:&amp;nbsp;&lt;/strong&gt;Health data processing happens on-device, with Cochlear applying rigorous de-identification before any data enters their Real-World Evidence program for model training across their 500,000+ patient dataset.&lt;/p&gt;&lt;p&gt;These constraints force architectural decisions you don’t face when deploying ML models in the cloud or even on smartphones. Every milliwatt matters. Every algorithm must be validated for medical safety. Every firmware update must be bulletproof.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-beyond-bluetooth-the-connected-implant-future"&gt;Beyond Bluetooth: The connected implant future&lt;/h3&gt;&lt;p&gt;Looking ahead, Cochlear is implementing Bluetooth LE Audio and Auracast broadcast audio capabilities—both requiring future firmware updates to the implant. These protocols offer better audio quality than traditional Bluetooth while reducing power consumption, but more importantly, they position the implant as a node in broader assistive listening networks.&lt;/p&gt;&lt;p&gt;Auracast broadcast audio allows direct connection to audio streams in public venues, airports, and gyms—transforming the implant from an isolated medical device into a connected edge AI medical device participating in ambient computing environments.&lt;/p&gt;&lt;p&gt;The longer-term vision includes totally implantable devices with integrated microphones and batteries, eliminating external components entirely.&amp;nbsp;At that point, you’re talking about fully autonomous AI systems operating inside the human body—adjusting to environments, optimising power,&amp;nbsp;streaming&amp;nbsp;connectivity, all without user interaction.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-medical-device-ai-blueprint"&gt;The medical device AI blueprint&lt;/h3&gt;&lt;p&gt;Cochlear’s deployment offers a blueprint for edge AI medical devices facing similar constraints: start with interpretable models like decision trees, optimise aggressively for power, build in upgradeability from day one, and architect for the 40-year horizon rather than the typical 2-3 year consumer device cycle.&lt;/p&gt;&lt;p&gt;As Janssen noted, the smart implant launching today “is actually the first step to an even smarter implant.” For an industry built on rapid iteration and continuous deployment, adapting to decade-long product lifecycles while maintaining AI advancement represents a fascinating engineering challenge.&lt;/p&gt;&lt;p&gt;The question isn’t whether AI will transform medical devices—Cochlear’s deployment proves it already has. The question is how quickly other manufacturers can solve the constraint problem and bring similarly intelligent systems to market.&lt;/p&gt;&lt;p&gt;For 546 million people with hearing loss in the Western Pacific Region alone, the pace of that innovation will determine whether AI in medicine remains a prototype story or becomes standard of care.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Cochlear)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: FDA AI deployment: Innovation vs oversight in drug regulation&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image"&gt;&lt;img alt="alt" class="wp-image-110938" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-17.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;The next frontier for edge AI medical devices isn’t wearables or bedside monitors—it’s inside the human body itself. Cochlear’s newly launched&amp;nbsp;Nucleus Nexa System&amp;nbsp;represents the first cochlear implant capable of running machine learning algorithms while managing extreme power constraints, storing&amp;nbsp;personalised data on-device, and receiving over-the-air firmware updates to improve its AI models over time.&lt;/p&gt;&lt;p&gt;For AI practitioners, the technical challenge is staggering: build a decision-tree model that classifies five distinct auditory environments in real time, optimise it to run on a device with&amp;nbsp;a&amp;nbsp;minimal power budget that must last decades, and do it all while directly interfacing with human neural tissue.&lt;/p&gt;&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-110944" height="683" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/20251113-Cochlear-30-Years-Anniversary_Press-2-1024x683.jpg" width="1024" /&gt;&lt;/figure&gt;&lt;h3 class="wp-block-heading" id="h-decision-trees-meet-ultra-low-power-computing"&gt;Decision trees meet ultra-low power computing&lt;/h3&gt;&lt;p&gt;At the core of the system’s intelligence lies SCAN 2, an environmental classifier that analyses incoming audio and categorises it as Speech, Speech in Noise, Noise, Music, or Quiet.&lt;/p&gt;&lt;p&gt;“These classifications are then input to a decision tree, which is a type of machine learning model,” explains Jan Janssen, Cochlear’s Global CTO, in an exclusive interview with&amp;nbsp;&lt;em&gt;AI News&lt;/em&gt;. “This decision is used to adjust sound processing settings for that situation, which adapts the electrical signals sent to the implant.”&lt;/p&gt;&lt;p&gt;The model runs on the external sound processor, but here’s where it gets interesting: the implant itself participates in the intelligence through Dynamic Power Management. Data and power are interleaved between the processor and implant via an enhanced RF link, allowing the chipset to optimise power efficiency based on the ML model’s environmental classifications.&lt;/p&gt;&lt;p&gt;This isn’t just smart power management—it’s edge AI medical devices solving one of the hardest problems in implantable computing: how do you keep a device operational for 40+ years when you can’t replace its battery?&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-spatial-intelligence-layer"&gt;The spatial intelligence layer&lt;/h3&gt;&lt;p&gt;Beyond environmental classification, the system employs ForwardFocus, a spatial noise algorithm that uses inputs from two omnidirectional microphones to create target and noise spatial patterns. The algorithm assumes target signals originate from the front while noise comes from the sides or behind, then applies spatial filtering to attenuate background interference.&lt;/p&gt;&lt;p&gt;What makes this noteworthy from an AI perspective is the automation layer. ForwardFocus can operate autonomously, removing cognitive load from users navigating complex auditory scenes. The decision to activate spatial filtering happens algorithmically based on environmental analysis—no user intervention required.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-upgradeability-the-medical-device-ai-paradigm-shift"&gt;Upgradeability: The medical device AI paradigm shift&lt;/h3&gt;&lt;p&gt;Here’s the breakthrough that separates this from previous-generation implants: upgradeable firmware in the implanted device itself. Historically, once a cochlear implant was surgically placed, its capabilities were frozen. New signal processing algorithms, improved ML models, better noise reduction—none of it could benefit existing patients.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-large"&gt;&lt;img alt="alt" class="wp-image-110945" height="683" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/20251113-Cochlear-30-Years-Anniversary_Press-7-1024x683.jpg" width="1024" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;&lt;strong&gt;Jan Janssen, Chief Technology Officer, Cochlear Limited&lt;/strong&gt;&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;The Nucleus Nexa Implant changes that equation. Using Cochlear’s proprietary short-range RF link, audiologists can deliver firmware updates through the external processor to the implant. Security relies on physical constraints—the limited transmission range and low power output require proximity during updates—combined with protocol-level safeguards.&lt;/p&gt;&lt;p&gt;“With the smart implants, we actually keep a copy [of the user’s personalised hearing map] on the implant,” Janssen explained. “So you lose this [external processor], we can send you a blank processor and put it on—it retrieves the map from the implant.”&lt;/p&gt;&lt;p&gt;The implant stores up to four unique maps in its internal memory. From an AI deployment perspective, this solves a critical challenge: how do you maintain personalised model parameters when hardware components fail or get replaced?&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-decision-trees-to-deep-neural-networks"&gt;From decision trees to deep neural networks&lt;/h3&gt;&lt;p&gt;Cochlear’s current implementation uses decision tree models for environmental classification—a pragmatic choice given power constraints and interpretability requirements for medical devices. But Janssen outlined where the technology is headed: “Artificial intelligence through deep neural networks—a complex form of machine learning—in the future may provide further improvement in hearing in noisy situations.”&lt;/p&gt;&lt;p&gt;The company is also exploring AI applications beyond signal processing. “Cochlear is investigating the use of artificial intelligence and connectivity to automate routine check-ups and reduce lifetime care costs,” Janssen noted.&lt;/p&gt;&lt;p&gt;This points to a broader trajectory for edge AI medical devices: from reactive signal processing to predictive health monitoring, from manual clinical adjustments to autonomous optimisation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-edge-ai-constraint-problem"&gt;The Edge AI constraint problem&lt;/h3&gt;&lt;p&gt;What makes this deployment fascinating from an ML engineering standpoint is the constraint stack:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Power&lt;/strong&gt;: The device must run for decades on minimal energy, with battery life measured in full days despite continuous audio processing and wireless transmission.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Latency:&amp;nbsp;&lt;/strong&gt;Audio processing happens in real-time with imperceptible delay—users can’t tolerate lag between speech and neural stimulation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Safety&lt;/strong&gt;: This is a life-critical medical device directly stimulating neural tissue. Model failures aren’t just inconvenient—they impact quality of life.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Upgradeability:&lt;/strong&gt;&amp;nbsp;The implant must support model improvements over 40+ years without hardware replacement.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Privacy:&amp;nbsp;&lt;/strong&gt;Health data processing happens on-device, with Cochlear applying rigorous de-identification before any data enters their Real-World Evidence program for model training across their 500,000+ patient dataset.&lt;/p&gt;&lt;p&gt;These constraints force architectural decisions you don’t face when deploying ML models in the cloud or even on smartphones. Every milliwatt matters. Every algorithm must be validated for medical safety. Every firmware update must be bulletproof.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-beyond-bluetooth-the-connected-implant-future"&gt;Beyond Bluetooth: The connected implant future&lt;/h3&gt;&lt;p&gt;Looking ahead, Cochlear is implementing Bluetooth LE Audio and Auracast broadcast audio capabilities—both requiring future firmware updates to the implant. These protocols offer better audio quality than traditional Bluetooth while reducing power consumption, but more importantly, they position the implant as a node in broader assistive listening networks.&lt;/p&gt;&lt;p&gt;Auracast broadcast audio allows direct connection to audio streams in public venues, airports, and gyms—transforming the implant from an isolated medical device into a connected edge AI medical device participating in ambient computing environments.&lt;/p&gt;&lt;p&gt;The longer-term vision includes totally implantable devices with integrated microphones and batteries, eliminating external components entirely.&amp;nbsp;At that point, you’re talking about fully autonomous AI systems operating inside the human body—adjusting to environments, optimising power,&amp;nbsp;streaming&amp;nbsp;connectivity, all without user interaction.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-medical-device-ai-blueprint"&gt;The medical device AI blueprint&lt;/h3&gt;&lt;p&gt;Cochlear’s deployment offers a blueprint for edge AI medical devices facing similar constraints: start with interpretable models like decision trees, optimise aggressively for power, build in upgradeability from day one, and architect for the 40-year horizon rather than the typical 2-3 year consumer device cycle.&lt;/p&gt;&lt;p&gt;As Janssen noted, the smart implant launching today “is actually the first step to an even smarter implant.” For an industry built on rapid iteration and continuous deployment, adapting to decade-long product lifecycles while maintaining AI advancement represents a fascinating engineering challenge.&lt;/p&gt;&lt;p&gt;The question isn’t whether AI will transform medical devices—Cochlear’s deployment proves it already has. The question is how quickly other manufacturers can solve the constraint problem and bring similarly intelligent systems to market.&lt;/p&gt;&lt;p&gt;For 546 million people with hearing loss in the Western Pacific Region alone, the pace of that innovation will determine whether AI in medicine remains a prototype story or becomes standard of care.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Cochlear)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: FDA AI deployment: Innovation vs oversight in drug regulation&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image"&gt;&lt;img alt="alt" class="wp-image-110938" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-17.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/edge-ai-medical-devices-cochlear-implants/</guid><pubDate>Thu, 27 Nov 2025 09:00:00 +0000</pubDate></item><item><title>[NEW] Moving toward LessOps with VMware-to-cloud migrations (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/11/27/1128465/moving-toward-lessops-with-vmware-to-cloud-migrations/</link><description>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;Cognizant&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;Today’s IT leaders face competing mandates to do more (“make us an ‘AI-first’ enterprise—yesterday”) with less (“no new hires for at least the next six months”).&lt;/p&gt;  &lt;p&gt;VMware has become a focal point of these dueling directives. It remains central to enterprise IT, with 80% of organizations using VMware infrastructure products. But shifting licensing models are prompting teams to reconsider how they manage and scale these workloads, often on tighter budgets.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1128467" src="https://wp.technologyreview.com/wp-content/uploads/2025/11/Cognizant-Landing-Page-Card-1.png" /&gt;&lt;/figure&gt;    &lt;p&gt;For many organizations, the path forward involves adopting a LessOps model, an operational strategy that makes hybrid environments manageable without increasing headcount. This operational philosophy minimizes human intervention through extensive automation and selfservice capabilities while maintaining governance and compliance.&lt;/p&gt;  &lt;p&gt;In practice, VMware-to-cloud migrations create a “two birds, one stone” opportunity. They present a practical moment to codify the automation and governance practices LessOps depends on—laying the groundwork for a leaner, more resilient IT operating model.&lt;/p&gt; 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 27 Nov 2025 18:30:56 +0000</lastBuildDate><item><title>Google DeepMind (Google DeepMind)</title><link>https://deepmind.com/blog/feed/basic/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://lh3.googleusercontent.com/9pd-ekE9IkXLNhoDGTFIrrP_ADecW6W00EYibC_f0RARMQ6oB2hIubzUWn_b0CThN5NjoFkxrE3eamY7eEeN-mT0cVV5k2XNxHAgFZuEdQ=w1200-h630-n-nu" /&gt;&lt;/div&gt;
+    
+      
+      
+      
+      
+        
+        
+          
+          
+          
+          
+          
+          
+          
+          
+        
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        
+          
+        
+        
+        
+        
+          
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+      
+    
+    
+      Google DeepMind
+    
+    
+      &lt;!-- Google Tag Manager --&gt;
+      
+      &lt;!-- End Google Tag Manager --&gt;
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+    
+      
+
+
+
+  
+    
+    
+  
+
+
+  
+
+
+
+    
+    
+      
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+
+
+  
+    &lt;hr class="divider" /&gt;
+
+  
+    
+
+
+
+
+  &lt;section class="grid section-default spacer-block-md-bottom section-padding-top " id="news"&gt;
+    &lt;div class="grid__inner grid__column--span-12"&gt;
+      
+        
+      
+      
+        
+
+&lt;div class="news-group-section container spacer-block-none-bottom"&gt;
+  
+    &lt;div class="news-group__wrapper grid"&gt;
+      
+      &lt;div class="news-group__featured-wrapper featured-column grid__column--span-4-xs grid__column--span-4-sm grid__column--span-8-md grid__column--span-6-lg"&gt;
+        &lt;div class="news-group__featured-inner"&gt;
+          
+            &lt;div class="feature-wrapper active"&gt;
+              
+
+
+
+&lt;article class="card card-blog card--large_text_media"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-4 card__title"&gt;Introducing Nano Banana Pro&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+      &lt;div class="news-group__article-wrapper article-column grid__column--span-4-xs grid__column--span-4-sm grid__column--span-4-md grid__column--span-6-lg"&gt;
+        
+          
+            
+            
+
+
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;AlphaFold: Five years of impact&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;Revealing a key protein behind heart disease&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;Breeding healthier and stronger honeybees&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;Start building with Gemini 3&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;How we’re bringing AI image verification to the Gemini app&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;Build with Nano Banana Pro, our Gemini 3 Pro Image model&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+
+
+
+          
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+      
+    &lt;/div&gt;
+  &lt;/section&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://lh3.googleusercontent.com/9pd-ekE9IkXLNhoDGTFIrrP_ADecW6W00EYibC_f0RARMQ6oB2hIubzUWn_b0CThN5NjoFkxrE3eamY7eEeN-mT0cVV5k2XNxHAgFZuEdQ=w1200-h630-n-nu" /&gt;&lt;/div&gt;
+    
+      
+      
+      
+      
+        
+        
+          
+          
+          
+          
+          
+          
+          
+          
+        
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        
+          
+        
+        
+        
+        
+          
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+      
+    
+    
+      Google DeepMind
+    
+    
+      &lt;!-- Google Tag Manager --&gt;
+      
+      &lt;!-- End Google Tag Manager --&gt;
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+    
+      
+
+
+
+  
+    
+    
+  
+
+
+  
+
+
+
+    
+    
+      
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+
+
+  
+    &lt;hr class="divider" /&gt;
+
+  
+    
+
+
+
+
+  &lt;section class="grid section-default spacer-block-md-bottom section-padding-top " id="news"&gt;
+    &lt;div class="grid__inner grid__column--span-12"&gt;
+      
+        
+      
+      
+        
+
+&lt;div class="news-group-section container spacer-block-none-bottom"&gt;
+  
+    &lt;div class="news-group__wrapper grid"&gt;
+      
+      &lt;div class="news-group__featured-wrapper featured-column grid__column--span-4-xs grid__column--span-4-sm grid__column--span-8-md grid__column--span-6-lg"&gt;
+        &lt;div class="news-group__featured-inner"&gt;
+          
+            &lt;div class="feature-wrapper active"&gt;
+              
+
+
+
+&lt;article class="card card-blog card--large_text_media"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-4 card__title"&gt;Introducing Nano Banana Pro&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+      
+      &lt;div class="news-group__article-wrapper article-column grid__column--span-4-xs grid__column--span-4-sm grid__column--span-4-md grid__column--span-6-lg"&gt;
+        
+          
+            
+            
+
+
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;AlphaFold: Five years of impact&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;Revealing a key protein behind heart disease&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;Breeding healthier and stronger honeybees&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;Start building with Gemini 3&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;How we’re bringing AI image verification to the Gemini app&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+    &lt;div class="grid__column--span-4-xs "&gt;
+      
+
+
+
+&lt;article class="card card-blog card--small_h"&gt;
+  &lt;div class="card__inner"&gt;
+    &lt;div class="card__content"&gt;
+      &lt;h3 class="heading-6 card__title"&gt;Build with Nano Banana Pro, our Gemini 3 Pro Image model&lt;/h3&gt;
+      
+
+
+
+    &lt;/div&gt;
+    
+      
+        
+  
+    
+    
+    
+  
+
+
+      
+    
+  &lt;/div&gt;
+&lt;/article&gt;
+
+    &lt;/div&gt;
+  
+
+
+
+          
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+      
+    &lt;/div&gt;
+  &lt;/section&gt;</content:encoded><guid isPermaLink="false">https://deepmind.com/blog/feed/basic/</guid></item><item><title>Edge AI inside the human body: Cochlear’s machine learning implant breakthrough (AI News)</title><link>https://www.artificialintelligence-news.com/news/edge-ai-medical-devices-cochlear-implants/</link><description>&lt;p&gt;The next frontier for edge AI medical devices isn’t wearables or bedside monitors—it’s inside the human body itself. Cochlear’s newly launched&amp;nbsp;Nucleus Nexa System&amp;nbsp;represents the first cochlear implant capable of running machine learning algorithms while managing extreme power constraints, storing&amp;nbsp;personalised data on-device, and receiving over-the-air firmware updates to improve its AI models over time.&lt;/p&gt;&lt;p&gt;For AI practitioners, the technical challenge is staggering: build a decision-tree model that classifies five distinct auditory environments in real time, optimise it to run on a device with&amp;nbsp;a&amp;nbsp;minimal power budget that must last decades, and do it all while directly interfacing with human neural tissue.&lt;/p&gt;&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-110944" height="683" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/20251113-Cochlear-30-Years-Anniversary_Press-2-1024x683.jpg" width="1024" /&gt;&lt;/figure&gt;&lt;h3 class="wp-block-heading" id="h-decision-trees-meet-ultra-low-power-computing"&gt;Decision trees meet ultra-low power computing&lt;/h3&gt;&lt;p&gt;At the core of the system’s intelligence lies SCAN 2, an environmental classifier that analyses incoming audio and categorises it as Speech, Speech in Noise, Noise, Music, or Quiet.&lt;/p&gt;&lt;p&gt;“These classifications are then input to a decision tree, which is a type of machine learning model,” explains Jan Janssen, Cochlear’s Global CTO, in an exclusive interview with&amp;nbsp;&lt;em&gt;AI News&lt;/em&gt;. “This decision is used to adjust sound processing settings for that situation, which adapts the electrical signals sent to the implant.”&lt;/p&gt;&lt;p&gt;The model runs on the external sound processor, but here’s where it gets interesting: the implant itself participates in the intelligence through Dynamic Power Management. Data and power are interleaved between the processor and implant via an enhanced RF link, allowing the chipset to optimise power efficiency based on the ML model’s environmental classifications.&lt;/p&gt;&lt;p&gt;This isn’t just smart power management—it’s edge AI medical devices solving one of the hardest problems in implantable computing: how do you keep a device operational for 40+ years when you can’t replace its battery?&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-spatial-intelligence-layer"&gt;The spatial intelligence layer&lt;/h3&gt;&lt;p&gt;Beyond environmental classification, the system employs ForwardFocus, a spatial noise algorithm that uses inputs from two omnidirectional microphones to create target and noise spatial patterns. The algorithm assumes target signals originate from the front while noise comes from the sides or behind, then applies spatial filtering to attenuate background interference.&lt;/p&gt;&lt;p&gt;What makes this noteworthy from an AI perspective is the automation layer. ForwardFocus can operate autonomously, removing cognitive load from users navigating complex auditory scenes. The decision to activate spatial filtering happens algorithmically based on environmental analysis—no user intervention required.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-upgradeability-the-medical-device-ai-paradigm-shift"&gt;Upgradeability: The medical device AI paradigm shift&lt;/h3&gt;&lt;p&gt;Here’s the breakthrough that separates this from previous-generation implants: upgradeable firmware in the implanted device itself. Historically, once a cochlear implant was surgically placed, its capabilities were frozen. New signal processing algorithms, improved ML models, better noise reduction—none of it could benefit existing patients.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-large"&gt;&lt;img alt="alt" class="wp-image-110945" height="683" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/20251113-Cochlear-30-Years-Anniversary_Press-7-1024x683.jpg" width="1024" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;&lt;strong&gt;Jan Janssen, Chief Technology Officer, Cochlear Limited&lt;/strong&gt;&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;The Nucleus Nexa Implant changes that equation. Using Cochlear’s proprietary short-range RF link, audiologists can deliver firmware updates through the external processor to the implant. Security relies on physical constraints—the limited transmission range and low power output require proximity during updates—combined with protocol-level safeguards.&lt;/p&gt;&lt;p&gt;“With the smart implants, we actually keep a copy [of the user’s personalised hearing map] on the implant,” Janssen explained. “So you lose this [external processor], we can send you a blank processor and put it on—it retrieves the map from the implant.”&lt;/p&gt;&lt;p&gt;The implant stores up to four unique maps in its internal memory. From an AI deployment perspective, this solves a critical challenge: how do you maintain personalised model parameters when hardware components fail or get replaced?&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-decision-trees-to-deep-neural-networks"&gt;From decision trees to deep neural networks&lt;/h3&gt;&lt;p&gt;Cochlear’s current implementation uses decision tree models for environmental classification—a pragmatic choice given power constraints and interpretability requirements for medical devices. But Janssen outlined where the technology is headed: “Artificial intelligence through deep neural networks—a complex form of machine learning—in the future may provide further improvement in hearing in noisy situations.”&lt;/p&gt;&lt;p&gt;The company is also exploring AI applications beyond signal processing. “Cochlear is investigating the use of artificial intelligence and connectivity to automate routine check-ups and reduce lifetime care costs,” Janssen noted.&lt;/p&gt;&lt;p&gt;This points to a broader trajectory for edge AI medical devices: from reactive signal processing to predictive health monitoring, from manual clinical adjustments to autonomous optimisation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-edge-ai-constraint-problem"&gt;The Edge AI constraint problem&lt;/h3&gt;&lt;p&gt;What makes this deployment fascinating from an ML engineering standpoint is the constraint stack:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Power&lt;/strong&gt;: The device must run for decades on minimal energy, with battery life measured in full days despite continuous audio processing and wireless transmission.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Latency:&amp;nbsp;&lt;/strong&gt;Audio processing happens in real-time with imperceptible delay—users can’t tolerate lag between speech and neural stimulation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Safety&lt;/strong&gt;: This is a life-critical medical device directly stimulating neural tissue. Model failures aren’t just inconvenient—they impact quality of life.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Upgradeability:&lt;/strong&gt;&amp;nbsp;The implant must support model improvements over 40+ years without hardware replacement.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Privacy:&amp;nbsp;&lt;/strong&gt;Health data processing happens on-device, with Cochlear applying rigorous de-identification before any data enters their Real-World Evidence program for model training across their 500,000+ patient dataset.&lt;/p&gt;&lt;p&gt;These constraints force architectural decisions you don’t face when deploying ML models in the cloud or even on smartphones. Every milliwatt matters. Every algorithm must be validated for medical safety. Every firmware update must be bulletproof.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-beyond-bluetooth-the-connected-implant-future"&gt;Beyond Bluetooth: The connected implant future&lt;/h3&gt;&lt;p&gt;Looking ahead, Cochlear is implementing Bluetooth LE Audio and Auracast broadcast audio capabilities—both requiring future firmware updates to the implant. These protocols offer better audio quality than traditional Bluetooth while reducing power consumption, but more importantly, they position the implant as a node in broader assistive listening networks.&lt;/p&gt;&lt;p&gt;Auracast broadcast audio allows direct connection to audio streams in public venues, airports, and gyms—transforming the implant from an isolated medical device into a connected edge AI medical device participating in ambient computing environments.&lt;/p&gt;&lt;p&gt;The longer-term vision includes totally implantable devices with integrated microphones and batteries, eliminating external components entirely.&amp;nbsp;At that point, you’re talking about fully autonomous AI systems operating inside the human body—adjusting to environments, optimising power,&amp;nbsp;streaming&amp;nbsp;connectivity, all without user interaction.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-medical-device-ai-blueprint"&gt;The medical device AI blueprint&lt;/h3&gt;&lt;p&gt;Cochlear’s deployment offers a blueprint for edge AI medical devices facing similar constraints: start with interpretable models like decision trees, optimise aggressively for power, build in upgradeability from day one, and architect for the 40-year horizon rather than the typical 2-3 year consumer device cycle.&lt;/p&gt;&lt;p&gt;As Janssen noted, the smart implant launching today “is actually the first step to an even smarter implant.” For an industry built on rapid iteration and continuous deployment, adapting to decade-long product lifecycles while maintaining AI advancement represents a fascinating engineering challenge.&lt;/p&gt;&lt;p&gt;The question isn’t whether AI will transform medical devices—Cochlear’s deployment proves it already has. The question is how quickly other manufacturers can solve the constraint problem and bring similarly intelligent systems to market.&lt;/p&gt;&lt;p&gt;For 546 million people with hearing loss in the Western Pacific Region alone, the pace of that innovation will determine whether AI in medicine remains a prototype story or becomes standard of care.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Cochlear)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: FDA AI deployment: Innovation vs oversight in drug regulation&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image"&gt;&lt;img alt="alt" class="wp-image-110938" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-17.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;The next frontier for edge AI medical devices isn’t wearables or bedside monitors—it’s inside the human body itself. Cochlear’s newly launched&amp;nbsp;Nucleus Nexa System&amp;nbsp;represents the first cochlear implant capable of running machine learning algorithms while managing extreme power constraints, storing&amp;nbsp;personalised data on-device, and receiving over-the-air firmware updates to improve its AI models over time.&lt;/p&gt;&lt;p&gt;For AI practitioners, the technical challenge is staggering: build a decision-tree model that classifies five distinct auditory environments in real time, optimise it to run on a device with&amp;nbsp;a&amp;nbsp;minimal power budget that must last decades, and do it all while directly interfacing with human neural tissue.&lt;/p&gt;&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-110944" height="683" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/20251113-Cochlear-30-Years-Anniversary_Press-2-1024x683.jpg" width="1024" /&gt;&lt;/figure&gt;&lt;h3 class="wp-block-heading" id="h-decision-trees-meet-ultra-low-power-computing"&gt;Decision trees meet ultra-low power computing&lt;/h3&gt;&lt;p&gt;At the core of the system’s intelligence lies SCAN 2, an environmental classifier that analyses incoming audio and categorises it as Speech, Speech in Noise, Noise, Music, or Quiet.&lt;/p&gt;&lt;p&gt;“These classifications are then input to a decision tree, which is a type of machine learning model,” explains Jan Janssen, Cochlear’s Global CTO, in an exclusive interview with&amp;nbsp;&lt;em&gt;AI News&lt;/em&gt;. “This decision is used to adjust sound processing settings for that situation, which adapts the electrical signals sent to the implant.”&lt;/p&gt;&lt;p&gt;The model runs on the external sound processor, but here’s where it gets interesting: the implant itself participates in the intelligence through Dynamic Power Management. Data and power are interleaved between the processor and implant via an enhanced RF link, allowing the chipset to optimise power efficiency based on the ML model’s environmental classifications.&lt;/p&gt;&lt;p&gt;This isn’t just smart power management—it’s edge AI medical devices solving one of the hardest problems in implantable computing: how do you keep a device operational for 40+ years when you can’t replace its battery?&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-spatial-intelligence-layer"&gt;The spatial intelligence layer&lt;/h3&gt;&lt;p&gt;Beyond environmental classification, the system employs ForwardFocus, a spatial noise algorithm that uses inputs from two omnidirectional microphones to create target and noise spatial patterns. The algorithm assumes target signals originate from the front while noise comes from the sides or behind, then applies spatial filtering to attenuate background interference.&lt;/p&gt;&lt;p&gt;What makes this noteworthy from an AI perspective is the automation layer. ForwardFocus can operate autonomously, removing cognitive load from users navigating complex auditory scenes. The decision to activate spatial filtering happens algorithmically based on environmental analysis—no user intervention required.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-upgradeability-the-medical-device-ai-paradigm-shift"&gt;Upgradeability: The medical device AI paradigm shift&lt;/h3&gt;&lt;p&gt;Here’s the breakthrough that separates this from previous-generation implants: upgradeable firmware in the implanted device itself. Historically, once a cochlear implant was surgically placed, its capabilities were frozen. New signal processing algorithms, improved ML models, better noise reduction—none of it could benefit existing patients.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-large"&gt;&lt;img alt="alt" class="wp-image-110945" height="683" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/20251113-Cochlear-30-Years-Anniversary_Press-7-1024x683.jpg" width="1024" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;&lt;strong&gt;Jan Janssen, Chief Technology Officer, Cochlear Limited&lt;/strong&gt;&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;The Nucleus Nexa Implant changes that equation. Using Cochlear’s proprietary short-range RF link, audiologists can deliver firmware updates through the external processor to the implant. Security relies on physical constraints—the limited transmission range and low power output require proximity during updates—combined with protocol-level safeguards.&lt;/p&gt;&lt;p&gt;“With the smart implants, we actually keep a copy [of the user’s personalised hearing map] on the implant,” Janssen explained. “So you lose this [external processor], we can send you a blank processor and put it on—it retrieves the map from the implant.”&lt;/p&gt;&lt;p&gt;The implant stores up to four unique maps in its internal memory. From an AI deployment perspective, this solves a critical challenge: how do you maintain personalised model parameters when hardware components fail or get replaced?&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-decision-trees-to-deep-neural-networks"&gt;From decision trees to deep neural networks&lt;/h3&gt;&lt;p&gt;Cochlear’s current implementation uses decision tree models for environmental classification—a pragmatic choice given power constraints and interpretability requirements for medical devices. But Janssen outlined where the technology is headed: “Artificial intelligence through deep neural networks—a complex form of machine learning—in the future may provide further improvement in hearing in noisy situations.”&lt;/p&gt;&lt;p&gt;The company is also exploring AI applications beyond signal processing. “Cochlear is investigating the use of artificial intelligence and connectivity to automate routine check-ups and reduce lifetime care costs,” Janssen noted.&lt;/p&gt;&lt;p&gt;This points to a broader trajectory for edge AI medical devices: from reactive signal processing to predictive health monitoring, from manual clinical adjustments to autonomous optimisation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-edge-ai-constraint-problem"&gt;The Edge AI constraint problem&lt;/h3&gt;&lt;p&gt;What makes this deployment fascinating from an ML engineering standpoint is the constraint stack:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Power&lt;/strong&gt;: The device must run for decades on minimal energy, with battery life measured in full days despite continuous audio processing and wireless transmission.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Latency:&amp;nbsp;&lt;/strong&gt;Audio processing happens in real-time with imperceptible delay—users can’t tolerate lag between speech and neural stimulation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Safety&lt;/strong&gt;: This is a life-critical medical device directly stimulating neural tissue. Model failures aren’t just inconvenient—they impact quality of life.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Upgradeability:&lt;/strong&gt;&amp;nbsp;The implant must support model improvements over 40+ years without hardware replacement.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Privacy:&amp;nbsp;&lt;/strong&gt;Health data processing happens on-device, with Cochlear applying rigorous de-identification before any data enters their Real-World Evidence program for model training across their 500,000+ patient dataset.&lt;/p&gt;&lt;p&gt;These constraints force architectural decisions you don’t face when deploying ML models in the cloud or even on smartphones. Every milliwatt matters. Every algorithm must be validated for medical safety. Every firmware update must be bulletproof.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-beyond-bluetooth-the-connected-implant-future"&gt;Beyond Bluetooth: The connected implant future&lt;/h3&gt;&lt;p&gt;Looking ahead, Cochlear is implementing Bluetooth LE Audio and Auracast broadcast audio capabilities—both requiring future firmware updates to the implant. These protocols offer better audio quality than traditional Bluetooth while reducing power consumption, but more importantly, they position the implant as a node in broader assistive listening networks.&lt;/p&gt;&lt;p&gt;Auracast broadcast audio allows direct connection to audio streams in public venues, airports, and gyms—transforming the implant from an isolated medical device into a connected edge AI medical device participating in ambient computing environments.&lt;/p&gt;&lt;p&gt;The longer-term vision includes totally implantable devices with integrated microphones and batteries, eliminating external components entirely.&amp;nbsp;At that point, you’re talking about fully autonomous AI systems operating inside the human body—adjusting to environments, optimising power,&amp;nbsp;streaming&amp;nbsp;connectivity, all without user interaction.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-medical-device-ai-blueprint"&gt;The medical device AI blueprint&lt;/h3&gt;&lt;p&gt;Cochlear’s deployment offers a blueprint for edge AI medical devices facing similar constraints: start with interpretable models like decision trees, optimise aggressively for power, build in upgradeability from day one, and architect for the 40-year horizon rather than the typical 2-3 year consumer device cycle.&lt;/p&gt;&lt;p&gt;As Janssen noted, the smart implant launching today “is actually the first step to an even smarter implant.” For an industry built on rapid iteration and continuous deployment, adapting to decade-long product lifecycles while maintaining AI advancement represents a fascinating engineering challenge.&lt;/p&gt;&lt;p&gt;The question isn’t whether AI will transform medical devices—Cochlear’s deployment proves it already has. The question is how quickly other manufacturers can solve the constraint problem and bring similarly intelligent systems to market.&lt;/p&gt;&lt;p&gt;For 546 million people with hearing loss in the Western Pacific Region alone, the pace of that innovation will determine whether AI in medicine remains a prototype story or becomes standard of care.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Cochlear)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: FDA AI deployment: Innovation vs oversight in drug regulation&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image"&gt;&lt;img alt="alt" class="wp-image-110938" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-17.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/edge-ai-medical-devices-cochlear-implants/</guid><pubDate>Thu, 27 Nov 2025 09:00:00 +0000</pubDate></item><item><title>Moving toward LessOps with VMware-to-cloud migrations (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/11/27/1128465/moving-toward-lessops-with-vmware-to-cloud-migrations/</link><description>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;Cognizant&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;Today’s IT leaders face competing mandates to do more (“make us an ‘AI-first’ enterprise—yesterday”) with less (“no new hires for at least the next six months”).&lt;/p&gt;  &lt;p&gt;VMware has become a focal point of these dueling directives. It remains central to enterprise IT, with 80% of organizations using VMware infrastructure products. But shifting licensing models are prompting teams to reconsider how they manage and scale these workloads, often on tighter budgets.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1128467" src="https://wp.technologyreview.com/wp-content/uploads/2025/11/Cognizant-Landing-Page-Card-1.png" /&gt;&lt;/figure&gt;    &lt;p&gt;For many organizations, the path forward involves adopting a LessOps model, an operational strategy that makes hybrid environments manageable without increasing headcount. This operational philosophy minimizes human intervention through extensive automation and selfservice capabilities while maintaining governance and compliance.&lt;/p&gt;  &lt;p&gt;In practice, VMware-to-cloud migrations create a “two birds, one stone” opportunity. They present a practical moment to codify the automation and governance practices LessOps depends on—laying the groundwork for a leaner, more resilient IT operating model.&lt;/p&gt; 
  &lt;p&gt;Download the full article.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff.&lt;/em&gt; &lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;Cognizant&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;Today’s IT leaders face competing mandates to do more (“make us an ‘AI-first’ enterprise—yesterday”) with less (“no new hires for at least the next six months”).&lt;/p&gt;  &lt;p&gt;VMware has become a focal point of these dueling directives. It remains central to enterprise IT, with 80% of organizations using VMware infrastructure products. But shifting licensing models are prompting teams to reconsider how they manage and scale these workloads, often on tighter budgets.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1128467" src="https://wp.technologyreview.com/wp-content/uploads/2025/11/Cognizant-Landing-Page-Card-1.png" /&gt;&lt;/figure&gt;    &lt;p&gt;For many organizations, the path forward involves adopting a LessOps model, an operational strategy that makes hybrid environments manageable without increasing headcount. This operational philosophy minimizes human intervention through extensive automation and selfservice capabilities while maintaining governance and compliance.&lt;/p&gt;  &lt;p&gt;In practice, VMware-to-cloud migrations create a “two birds, one stone” opportunity. They present a practical moment to codify the automation and governance practices LessOps depends on—laying the groundwork for a leaner, more resilient IT operating model.&lt;/p&gt; 
- &lt;p&gt;Download the full article.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff.&lt;/em&gt; &lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/11/27/1128465/moving-toward-lessops-with-vmware-to-cloud-migrations/</guid><pubDate>Thu, 27 Nov 2025 10:47:24 +0000</pubDate></item><item><title>[NEW] This year’s UN climate talks avoided fossil fuels, again (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/11/GettyImages-1303511343.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;If we didn’t have pictures and videos, I almost wouldn’t believe the imagery that came out of this year’s UN climate talks.&lt;/p&gt;  &lt;p&gt;Over the past few weeks in Belem, Brazil, attendees dealt with oppressive heat and flooding, and at one point a literal fire broke out, delaying negotiations. The symbolism was almost too much to bear.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;While many, including the president of Brazil, framed this year’s conference as one of action, the talks ended with a watered-down agreement. The final draft doesn’t even include the phrase “fossil fuels.”&lt;/p&gt;  &lt;p&gt;As emissions and global temperatures reach record highs again this year, I’m left wondering: Why is it so hard to formally acknowledge what’s causing the problem?&lt;/p&gt; 
+ &lt;p&gt;Download the full article.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff.&lt;/em&gt; &lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/11/27/1128465/moving-toward-lessops-with-vmware-to-cloud-migrations/</guid><pubDate>Thu, 27 Nov 2025 10:47:24 +0000</pubDate></item><item><title>This year’s UN climate talks avoided fossil fuels, again (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/11/GettyImages-1303511343.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;If we didn’t have pictures and videos, I almost wouldn’t believe the imagery that came out of this year’s UN climate talks.&lt;/p&gt;  &lt;p&gt;Over the past few weeks in Belem, Brazil, attendees dealt with oppressive heat and flooding, and at one point a literal fire broke out, delaying negotiations. The symbolism was almost too much to bear.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;While many, including the president of Brazil, framed this year’s conference as one of action, the talks ended with a watered-down agreement. The final draft doesn’t even include the phrase “fossil fuels.”&lt;/p&gt;  &lt;p&gt;As emissions and global temperatures reach record highs again this year, I’m left wondering: Why is it so hard to formally acknowledge what’s causing the problem?&lt;/p&gt; 
  &lt;p&gt;This is the 30th time that leaders have gathered for the Conference of the Parties, or COP, an annual UN conference focused on climate change. COP30 also marks 10 years since the gathering that produced the Paris Agreement, in which world powers committed to limiting global warming to “well below” 2.0 °C above preindustrial levels, with a goal of staying below the 1.5 °C mark. (That’s 3.6 °F and 2.7 °F, respectively, for my fellow Americans.)&lt;/p&gt;  &lt;p&gt;Before the conference kicked off this year, host country Brazil’s president, Luiz Inácio Lula da Silva, cast this as the “implementation COP” and called for negotiators to focus on action, and specifically to deliver a road map for a global transition away from fossil fuels.&lt;/p&gt; 
  &lt;p&gt;The science is clear—burning fossil fuels emits greenhouse gases and drives climate change. Reports have shown that meeting the goal of limiting warming to 1.5 °C would require stopping new fossil-fuel exploration and development.&lt;/p&gt;  &lt;p&gt;The problem is, “fossil fuels” might as well be a curse word at global climate negotiations. Two years ago, fights over how to address fossil fuels brought talks at COP28 to a standstill. (It’s worth noting that the conference was hosted in Dubai in the UAE, and the leader was literally the head of the country’s national oil company.)&lt;/p&gt;  &lt;p&gt;The agreement in Dubai ended up including a line that called on countries to transition away from fossil fuels in energy systems. It was short of what many advocates wanted, which was a more explicit call to phase out fossil fuels entirely. But it was still hailed as a win. As I wrote at the time: “The bar is truly on the floor.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;And yet this year, it seems we’ve dug into the basement.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;At one point about 80 countries, a little under half of those present, demanded a concrete plan to move away from fossil fuels.&lt;/p&gt;  &lt;p&gt;But oil producers like Saudi Arabia were insistent that fossil fuels not be singled out. Other countries, including some in Africa and Asia, also made a very fair point: Western nations like the US have burned the most fossil fuels and benefited from it economically. This contingent maintains that legacy polluters have a unique responsibility to finance the transition for less wealthy and developing nations rather than simply barring them from taking the same development route.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The US, by the way, didn’t send a formal delegation to the talks, for the first time in 30 years. But the absence spoke volumes. In a statement to the &lt;em&gt;New York Times&lt;/em&gt; that sidestepped the COP talks, White House spokesperson Taylor Rogers said that president Trump had “set a strong example for the rest of the world” by pursuing new fossil-fuel development.&lt;/p&gt;  &lt;p&gt;To sum up: Some countries are economically dependent on fossil fuels, some don’t want to stop depending on fossil fuels without incentives from other countries, and the current US administration would rather keep using fossil fuels than switch to other energy sources.&amp;nbsp;&lt;/p&gt; 
 
@@ -9,4 +811,108 @@
  &lt;p&gt;This is the 30th time that leaders have gathered for the Conference of the Parties, or COP, an annual UN conference focused on climate change. COP30 also marks 10 years since the gathering that produced the Paris Agreement, in which world powers committed to limiting global warming to “well below” 2.0 °C above preindustrial levels, with a goal of staying below the 1.5 °C mark. (That’s 3.6 °F and 2.7 °F, respectively, for my fellow Americans.)&lt;/p&gt;  &lt;p&gt;Before the conference kicked off this year, host country Brazil’s president, Luiz Inácio Lula da Silva, cast this as the “implementation COP” and called for negotiators to focus on action, and specifically to deliver a road map for a global transition away from fossil fuels.&lt;/p&gt; 
  &lt;p&gt;The science is clear—burning fossil fuels emits greenhouse gases and drives climate change. Reports have shown that meeting the goal of limiting warming to 1.5 °C would require stopping new fossil-fuel exploration and development.&lt;/p&gt;  &lt;p&gt;The problem is, “fossil fuels” might as well be a curse word at global climate negotiations. Two years ago, fights over how to address fossil fuels brought talks at COP28 to a standstill. (It’s worth noting that the conference was hosted in Dubai in the UAE, and the leader was literally the head of the country’s national oil company.)&lt;/p&gt;  &lt;p&gt;The agreement in Dubai ended up including a line that called on countries to transition away from fossil fuels in energy systems. It was short of what many advocates wanted, which was a more explicit call to phase out fossil fuels entirely. But it was still hailed as a win. As I wrote at the time: “The bar is truly on the floor.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;And yet this year, it seems we’ve dug into the basement.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;At one point about 80 countries, a little under half of those present, demanded a concrete plan to move away from fossil fuels.&lt;/p&gt;  &lt;p&gt;But oil producers like Saudi Arabia were insistent that fossil fuels not be singled out. Other countries, including some in Africa and Asia, also made a very fair point: Western nations like the US have burned the most fossil fuels and benefited from it economically. This contingent maintains that legacy polluters have a unique responsibility to finance the transition for less wealthy and developing nations rather than simply barring them from taking the same development route.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The US, by the way, didn’t send a formal delegation to the talks, for the first time in 30 years. But the absence spoke volumes. In a statement to the &lt;em&gt;New York Times&lt;/em&gt; that sidestepped the COP talks, White House spokesperson Taylor Rogers said that president Trump had “set a strong example for the rest of the world” by pursuing new fossil-fuel development.&lt;/p&gt;  &lt;p&gt;To sum up: Some countries are economically dependent on fossil fuels, some don’t want to stop depending on fossil fuels without incentives from other countries, and the current US administration would rather keep using fossil fuels than switch to other energy sources.&amp;nbsp;&lt;/p&gt; 
 
- &lt;p&gt;All those factors combined help explain why, in its final form, COP30’s agreement doesn’t name fossil fuels at all. Instead, there’s a vague line that leaders should take into account the decisions made in Dubai, and an acknowledgement that the “global transition towards low greenhouse-gas emissions and climate-resilient development is irreversible and the trend of the future.”&lt;/p&gt;  &lt;p&gt;Hopefully, that’s true. But it’s concerning that even on the world’s biggest stage, naming what we’re supposed to be transitioning away from and putting together any sort of plan to actually do it seems to be impossible.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This article is from The Spark,&amp;nbsp;&lt;/em&gt;MIT Technology Review&lt;em&gt;’s weekly climate newsletter. To receive it in your inbox every Wednesday,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/</guid><pubDate>Thu, 27 Nov 2025 11:00:00 +0000</pubDate></item></channel></rss>
+ &lt;p&gt;All those factors combined help explain why, in its final form, COP30’s agreement doesn’t name fossil fuels at all. Instead, there’s a vague line that leaders should take into account the decisions made in Dubai, and an acknowledgement that the “global transition towards low greenhouse-gas emissions and climate-resilient development is irreversible and the trend of the future.”&lt;/p&gt;  &lt;p&gt;Hopefully, that’s true. But it’s concerning that even on the world’s biggest stage, naming what we’re supposed to be transitioning away from and putting together any sort of plan to actually do it seems to be impossible.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This article is from The Spark,&amp;nbsp;&lt;/em&gt;MIT Technology Review&lt;em&gt;’s weekly climate newsletter. To receive it in your inbox every Wednesday,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/</guid><pubDate>Thu, 27 Nov 2025 11:00:00 +0000</pubDate></item><item><title>[NEW] The Download: the fossil fuel elephant in the room, and better tests for endometriosis (MIT Technology Review)</title><link>https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;This year’s UN climate talks avoided fossil fuels, again&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Over the past few weeks in Belem, Brazil, attendees of this year’s UN climate talks dealt with oppressive heat and flooding, and at one point a literal fire broke out, delaying negotiations. The symbolism was almost too much to bear.&lt;/p&gt;  &lt;p&gt;While many, including the president of Brazil, framed this year’s conference as one of action, the talks ended with a watered-down agreement. The final draft doesn’t even include the phrase “fossil fuels.”&lt;/p&gt; 
+ &lt;p&gt;As emissions and global temperatures reach record highs again this year, I’m left wondering: Why is it so hard to formally acknowledge what’s causing the problem?&lt;/p&gt;&lt;p&gt;&lt;em&gt;—Casey Crownhart&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, &lt;/strong&gt;&lt;strong&gt;sign up here&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;New noninvasive endometriosis tests are on the rise&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Endometriosis inflicts debilitating pain and heavy bleeding on more than 11% of reproductive-­age women in the United States. Diagnosis takes nearly 10 years on average, partly because half the cases don’t show up on scans, and surgery is required to obtain tissue samples.&lt;/p&gt;  &lt;p&gt;But a new generation of noninvasive tests are emerging that could help accelerate diagnosis and improve management of this poorly understood condition.&lt;strong&gt; &lt;/strong&gt;Read the full story.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;—Colleen de Bellefonds&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This story is from the &lt;/strong&gt;&lt;strong&gt;last print issue&lt;/strong&gt;&lt;strong&gt; of MIT Technology Review magazine, which is full of fascinating stories about the body. If you haven’t already, &lt;/strong&gt;&lt;strong&gt;subscribe now&lt;/strong&gt;&lt;strong&gt; to receive future issues once they land.&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; 
+
+ &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 OpenAI claims a teenager circumvented its safety features before ending his life&lt;/strong&gt;&lt;br /&gt;It says ChatGPT directed Adam Raine to seek help more than 100 times. (TechCrunch)&lt;br /&gt;+ &lt;em&gt;OpenAI is strongly refuting the idea it’s liable for the 16-year old’s death. &lt;/em&gt;(NBC News)&lt;br /&gt;+ &lt;em&gt;The looming crackdown on AI companionship. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;2 The CDC’s new deputy director prefers natural immunity to vaccines&lt;/strong&gt;&lt;br /&gt;And he wasn’t even the worst choice among those considered for the role. (Ars Technica)&lt;br /&gt;+ &lt;em&gt;Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 An MIT study says AI could already replace 12% of the US workforce&lt;/strong&gt;&lt;br /&gt;Researchers drew that conclusion after simulating a digital twin of the US labor market. (CNBC)&lt;br /&gt;+ &lt;em&gt;Separate research suggests it could replace 3 million jobs in the UK, too. &lt;/em&gt;(The Guardian)&lt;br /&gt;+ &lt;em&gt;AI usage looks unlikely to keep climbing. &lt;/em&gt;(Economist $)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;4 An Italian defense group has created an AI-powered air shield system&lt;/strong&gt;&lt;br /&gt;It claims the system allows defenders to generate dome-style missile shields. (FT $)&lt;br /&gt;+ &lt;em&gt;Why Trump’s “golden dome” missile defense idea is another ripped straight from the movies. &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;5 The EU is considering a ban on social media for under-16s&lt;br /&gt;Following in Australia’s footsteps, whose own ban comes into power next month. (Politico)&lt;br /&gt;+ &lt;em&gt;The European Parliament wants parents to decide on access. &lt;/em&gt;(The Guardian)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;6 Why do so many astronauts keep getting stuck in space?&lt;br /&gt;America, Russia and now China have had to contend with this situation. (WP $)&lt;br /&gt;+ &lt;em&gt;A rescue craft for three stranded Chinese astronauts has successfully reached them. &lt;/em&gt;(The Register)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;7 Uploading pictures of your hotel room could help trafficking victims&lt;br /&gt;&lt;/strong&gt;A new app uses computer vision to determine where pictures of generic-looking rooms were taken. (IEEE Spectrum)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 This browser tool turns back the clock to a pre-AI slop web&lt;/strong&gt;&lt;br /&gt;Back to the golden age of pre-November 30 2022. (404 Media)&lt;br /&gt;+ &lt;em&gt;The White House’s slop posts are shockingly bad. &lt;/em&gt;(NY Mag $)&lt;br /&gt;+ &lt;em&gt;Animated neo-Nazi propaganda is freely available on X. &lt;/em&gt;(The Atlantic $)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 Grok’s “epic roasts” are as tragic as you’d expect&lt;/strong&gt;&lt;br /&gt;Test it out at parties at your own peril. (Wired $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;10 Startup founders dread explaining their jobs at Thanksgiving 🍗&lt;/strong&gt;&lt;br /&gt;Yes Grandma, I work with computers. (Insider $)&lt;/p&gt; 
+   &lt;p&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“AI cannot ever replace the unique gift that you are to the world.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—Pope Leo XIV warns students about the dangers of over-relying on AI, New York Magazine reports.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1128508" src="https://wp.technologyreview.com/wp-content/uploads/2025/11/image_f43898.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;Why we should thank pigeons for our AI breakthroughs&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;People looking for precursors to artificial intelligence often point to science fiction or thought experiments like the Turing test. But an equally important, if surprising and less appreciated, forerunner is American psychologist B.F. Skinner’s research with pigeons in the middle of the 20th century.&lt;/p&gt;&lt;p&gt;Skinner believed that association—learning, through trial and error, to link an action with a punishment or reward—was the building block of every behavior, not just in pigeons but in all living organisms, including human beings.&lt;/p&gt;&lt;p&gt;His “behaviorist” theories fell out of favor in the 1960s but were taken up by computer scientists who eventually provided the foundation for many of the leading AI tools. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Ben Crair&lt;/em&gt;&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ I hope you had a happy, err, Green Wednesday if you partook this year.&lt;br /&gt;+ Here how to help an endangered species from the comfort of your own home.&lt;br /&gt;+ Polly wants to FaceTime—now! 📱🦜(thanks Alice!)&lt;br /&gt;+ I need Macaulay Culkin’s idea for another Home Alone sequel to get greenlit, stat.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;This year’s UN climate talks avoided fossil fuels, again&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Over the past few weeks in Belem, Brazil, attendees of this year’s UN climate talks dealt with oppressive heat and flooding, and at one point a literal fire broke out, delaying negotiations. The symbolism was almost too much to bear.&lt;/p&gt;  &lt;p&gt;While many, including the president of Brazil, framed this year’s conference as one of action, the talks ended with a watered-down agreement. The final draft doesn’t even include the phrase “fossil fuels.”&lt;/p&gt; 
+ &lt;p&gt;As emissions and global temperatures reach record highs again this year, I’m left wondering: Why is it so hard to formally acknowledge what’s causing the problem?&lt;/p&gt;&lt;p&gt;&lt;em&gt;—Casey Crownhart&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, &lt;/strong&gt;&lt;strong&gt;sign up here&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;New noninvasive endometriosis tests are on the rise&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Endometriosis inflicts debilitating pain and heavy bleeding on more than 11% of reproductive-­age women in the United States. Diagnosis takes nearly 10 years on average, partly because half the cases don’t show up on scans, and surgery is required to obtain tissue samples.&lt;/p&gt;  &lt;p&gt;But a new generation of noninvasive tests are emerging that could help accelerate diagnosis and improve management of this poorly understood condition.&lt;strong&gt; &lt;/strong&gt;Read the full story.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;—Colleen de Bellefonds&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This story is from the &lt;/strong&gt;&lt;strong&gt;last print issue&lt;/strong&gt;&lt;strong&gt; of MIT Technology Review magazine, which is full of fascinating stories about the body. If you haven’t already, &lt;/strong&gt;&lt;strong&gt;subscribe now&lt;/strong&gt;&lt;strong&gt; to receive future issues once they land.&lt;/strong&gt;&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; 
+
+ &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 OpenAI claims a teenager circumvented its safety features before ending his life&lt;/strong&gt;&lt;br /&gt;It says ChatGPT directed Adam Raine to seek help more than 100 times. (TechCrunch)&lt;br /&gt;+ &lt;em&gt;OpenAI is strongly refuting the idea it’s liable for the 16-year old’s death. &lt;/em&gt;(NBC News)&lt;br /&gt;+ &lt;em&gt;The looming crackdown on AI companionship. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;2 The CDC’s new deputy director prefers natural immunity to vaccines&lt;/strong&gt;&lt;br /&gt;And he wasn’t even the worst choice among those considered for the role. (Ars Technica)&lt;br /&gt;+ &lt;em&gt;Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 An MIT study says AI could already replace 12% of the US workforce&lt;/strong&gt;&lt;br /&gt;Researchers drew that conclusion after simulating a digital twin of the US labor market. (CNBC)&lt;br /&gt;+ &lt;em&gt;Separate research suggests it could replace 3 million jobs in the UK, too. &lt;/em&gt;(The Guardian)&lt;br /&gt;+ &lt;em&gt;AI usage looks unlikely to keep climbing. &lt;/em&gt;(Economist $)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;4 An Italian defense group has created an AI-powered air shield system&lt;/strong&gt;&lt;br /&gt;It claims the system allows defenders to generate dome-style missile shields. (FT $)&lt;br /&gt;+ &lt;em&gt;Why Trump’s “golden dome” missile defense idea is another ripped straight from the movies. &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;5 The EU is considering a ban on social media for under-16s&lt;br /&gt;Following in Australia’s footsteps, whose own ban comes into power next month. (Politico)&lt;br /&gt;+ &lt;em&gt;The European Parliament wants parents to decide on access. &lt;/em&gt;(The Guardian)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;6 Why do so many astronauts keep getting stuck in space?&lt;br /&gt;America, Russia and now China have had to contend with this situation. (WP $)&lt;br /&gt;+ &lt;em&gt;A rescue craft for three stranded Chinese astronauts has successfully reached them. &lt;/em&gt;(The Register)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;7 Uploading pictures of your hotel room could help trafficking victims&lt;br /&gt;&lt;/strong&gt;A new app uses computer vision to determine where pictures of generic-looking rooms were taken. (IEEE Spectrum)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;8 This browser tool turns back the clock to a pre-AI slop web&lt;/strong&gt;&lt;br /&gt;Back to the golden age of pre-November 30 2022. (404 Media)&lt;br /&gt;+ &lt;em&gt;The White House’s slop posts are shockingly bad. &lt;/em&gt;(NY Mag $)&lt;br /&gt;+ &lt;em&gt;Animated neo-Nazi propaganda is freely available on X. &lt;/em&gt;(The Atlantic $)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 Grok’s “epic roasts” are as tragic as you’d expect&lt;/strong&gt;&lt;br /&gt;Test it out at parties at your own peril. (Wired $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;10 Startup founders dread explaining their jobs at Thanksgiving 🍗&lt;/strong&gt;&lt;br /&gt;Yes Grandma, I work with computers. (Insider $)&lt;/p&gt; 
+   &lt;p&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“AI cannot ever replace the unique gift that you are to the world.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—Pope Leo XIV warns students about the dangers of over-relying on AI, New York Magazine reports.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1128508" src="https://wp.technologyreview.com/wp-content/uploads/2025/11/image_f43898.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;Why we should thank pigeons for our AI breakthroughs&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;People looking for precursors to artificial intelligence often point to science fiction or thought experiments like the Turing test. But an equally important, if surprising and less appreciated, forerunner is American psychologist B.F. Skinner’s research with pigeons in the middle of the 20th century.&lt;/p&gt;&lt;p&gt;Skinner believed that association—learning, through trial and error, to link an action with a punishment or reward—was the building block of every behavior, not just in pigeons but in all living organisms, including human beings.&lt;/p&gt;&lt;p&gt;His “behaviorist” theories fell out of favor in the 1960s but were taken up by computer scientists who eventually provided the foundation for many of the leading AI tools. Read the full story.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Ben Crair&lt;/em&gt;&lt;/p&gt; 
+   &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;We can still have nice things&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;A place for comfort, fun and distraction to brighten up your day. (Got any ideas? &lt;/em&gt;&lt;em&gt;Drop me a line&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;skeet 'em at me&lt;/em&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;+ I hope you had a happy, err, Green Wednesday if you partook this year.&lt;br /&gt;+ Here how to help an endangered species from the comfort of your own home.&lt;br /&gt;+ Polly wants to FaceTime—now! 📱🦜(thanks Alice!)&lt;br /&gt;+ I need Macaulay Culkin’s idea for another Home Alone sequel to get greenlit, stat.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/</guid><pubDate>Thu, 27 Nov 2025 13:10:00 +0000</pubDate></item><item><title>[NEW] How the MCP spec update boosts security as infrastructure scales (AI News)</title><link>https://www.artificialintelligence-news.com/news/how-the-mcp-spec-update-boosts-security-as-infrastructure-scales/</link><description>&lt;p&gt;The latest MCP spec update fortifies enterprise infrastructure with tighter security, moving AI agents from pilot to production.&lt;/p&gt;&lt;p&gt;Marking its first year, the Anthropic-created open-source project released a revised spec this week aimed at the operational headaches keeping generative AI agents stuck in pilot mode. Backed by Amazon Web Services (AWS), Microsoft, and Google Cloud, the update adds support for long-running workflows and tighter security controls.&lt;/p&gt;&lt;p&gt;The market is drifting away from fragile, bespoke integrations. For enterprises, this is a chance to deploy agentic AI that can read and write to corporate data stores without incurring massive technical debt.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-mcp-advances-from-developer-curiosity-to-practical-infrastructure"&gt;MCP advances from ‘developer curiosity’ to practical infrastructure&lt;/h3&gt;&lt;p&gt;The narrative has shifted from experimental chatbots to structural integration. Since September, the registry has expanded by 407 percent, now housing nearly two thousand servers.&lt;/p&gt;&lt;p&gt;“A year on from Anthropic’s launch of the Model Context Protocol, MCP has gone from a developer curiosity to a practical way to connect AI to the systems where work and data live,” says Satyajith Mundakkal, Global CTO at Hexaware, following this latest spec update.&lt;/p&gt;&lt;p&gt;Microsoft has already “signaled the shift by adding native MCP support to Windows 11,” effectively moving the standard directly into the operating system layer.&lt;/p&gt;&lt;p&gt;This software standardisation arrives alongside an aggressive hardware scale-up. Mundakkal highlights the “unprecedented infrastructure build-out,” citing OpenAI’s multi-gigawatt ‘Stargate’ programme. “These are clear signals that AI capabilities, and the data they depend on, are scaling fast,” he says.&lt;/p&gt;&lt;p&gt;MCP is the plumbing feeding these massive compute resources. As Mundakkal puts it: “AI is only as good as the data it can reach safely.”&lt;/p&gt;&lt;p&gt;Until now, hooking an LLM into a database was mostly synchronous. That works for a chatbot checking the weather, but it fails when migrating a codebase or analysing healthcare records.&lt;/p&gt;&lt;p&gt;The new ‘Tasks’ feature changes this (SEP-1686). It gives servers a standard way to track work, allowing clients to poll for status or cancel jobs if things go sideways. Ops teams automating infrastructure migration need agents that can run for hours without timing out. Supporting states like &lt;em&gt;working&lt;/em&gt; or &lt;em&gt;input_required&lt;/em&gt; finally brings resilience to agentic workflows.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-mcp-spec-update-improves-security"&gt;MCP spec update improves security&lt;/h3&gt;&lt;p&gt;For CISOs especially, AI agents often look like a massive and uncontrolled attack surface. The risks are already visible; “security researchers even found approximately 1,800 MCP servers exposed on the public internet by mid-2025,” implying that private infrastructure adoption is significantly wider.&lt;/p&gt;&lt;p&gt;“Done poorly,” Mundakkal warns, “[MCP] becomes integration sprawl and a bigger attack surface.”&lt;/p&gt;&lt;p&gt;To address this, the maintainers tackled the friction of Dynamic Client Registration (DCR). The fix is URL-based client registration (SEP-991), where clients provide a unique ID pointing to a self-managed metadata document to cut the admin bottleneck.&lt;/p&gt;&lt;p&gt;Then there’s ‘URL Mode Elicitation’ (SEP-1036). It allows a server – handling payments, for instance – to bounce a user to a secure browser window for credentials. The agent never sees the password; it just gets the token. It keeps the core credentials isolated, a non-negotiable for PCI compliance.&lt;/p&gt;&lt;p&gt;Harish Peri, SVP at Okta, believes this brings the “necessary oversight and access control to build a secure and open AI ecosystem.”&lt;/p&gt;&lt;p&gt;One feature as part of the spec update for MCP infrastructure has somewhat flown under the radar: ‘Sampling with Tools’ (SEP-1577). Servers used to be passive data fetchers; now they can run their own loops using the client’s tokens. Imagine a “research server” spawning sub-agents to scour documents and synthesise a report. No custom client code required—it simply moves the reasoning closer to the data.&lt;/p&gt;&lt;p&gt;However, wiring these connections is only step one. Mayur Upadhyaya, CEO at APIContext, argues that “the first year of MCP adoption has shown that enterprise AI doesn’t begin with rewrites, it begins with exposure.”&lt;/p&gt;&lt;p&gt;But visibility is the next hurdle. “The next wave will be about visibility: enterprises will need to monitor MCP uptime and validate authentication flows just as rigorously as they monitor APIs today,” Upadhyaya explains.&lt;/p&gt;&lt;p&gt;MCP’s roadmap reflects this, with updates targeting better “reliability and observability” for debugging. If you treat MCP servers as “set and forget,” you’re asking for trouble. Mundakkal agrees, noting the lesson from year one is to “pair MCP with strong identity, RBAC, and observability from day one.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-star-studded-industry-line-up-adopting-mcp-for-infrastructure"&gt;Star-studded industry line-up adopting MCP for infrastructure&lt;/h3&gt;&lt;p&gt;A protocol is only as good as who uses it. In a year since the original spec’s release, MCP hit nearly two thousand servers. Microsoft is using it to bridge GitHub, Azure, and M365. AWS is baking it into Bedrock. Google Cloud supports it across Gemini.&lt;/p&gt;&lt;p&gt;This reduces vendor lock-in. A Postgres connector built for MCP should theoretically work across Gemini, ChatGPT, or an internal Anthropic agent without a rewrite.&lt;/p&gt;&lt;p&gt;The “plumbing” phase of Generative AI is settling down, and open standards are winning the debate on connectivity. Technology leaders should look to audit internal APIs for MCP readiness – focusing on exposure rather than rewrites – and verify that the new URL-based registration fits current IAM frameworks.&lt;/p&gt;&lt;p&gt;Monitoring protocols must also be established immediately. While the latest MCP spec update is backward compatible with existing infrastructure; the new features are the only way to bring agents into regulated, mission-relevant workflows and ensure security.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Adversarial learning breakthrough enables real-time AI security&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-110949" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-18.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;The latest MCP spec update fortifies enterprise infrastructure with tighter security, moving AI agents from pilot to production.&lt;/p&gt;&lt;p&gt;Marking its first year, the Anthropic-created open-source project released a revised spec this week aimed at the operational headaches keeping generative AI agents stuck in pilot mode. Backed by Amazon Web Services (AWS), Microsoft, and Google Cloud, the update adds support for long-running workflows and tighter security controls.&lt;/p&gt;&lt;p&gt;The market is drifting away from fragile, bespoke integrations. For enterprises, this is a chance to deploy agentic AI that can read and write to corporate data stores without incurring massive technical debt.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-mcp-advances-from-developer-curiosity-to-practical-infrastructure"&gt;MCP advances from ‘developer curiosity’ to practical infrastructure&lt;/h3&gt;&lt;p&gt;The narrative has shifted from experimental chatbots to structural integration. Since September, the registry has expanded by 407 percent, now housing nearly two thousand servers.&lt;/p&gt;&lt;p&gt;“A year on from Anthropic’s launch of the Model Context Protocol, MCP has gone from a developer curiosity to a practical way to connect AI to the systems where work and data live,” says Satyajith Mundakkal, Global CTO at Hexaware, following this latest spec update.&lt;/p&gt;&lt;p&gt;Microsoft has already “signaled the shift by adding native MCP support to Windows 11,” effectively moving the standard directly into the operating system layer.&lt;/p&gt;&lt;p&gt;This software standardisation arrives alongside an aggressive hardware scale-up. Mundakkal highlights the “unprecedented infrastructure build-out,” citing OpenAI’s multi-gigawatt ‘Stargate’ programme. “These are clear signals that AI capabilities, and the data they depend on, are scaling fast,” he says.&lt;/p&gt;&lt;p&gt;MCP is the plumbing feeding these massive compute resources. As Mundakkal puts it: “AI is only as good as the data it can reach safely.”&lt;/p&gt;&lt;p&gt;Until now, hooking an LLM into a database was mostly synchronous. That works for a chatbot checking the weather, but it fails when migrating a codebase or analysing healthcare records.&lt;/p&gt;&lt;p&gt;The new ‘Tasks’ feature changes this (SEP-1686). It gives servers a standard way to track work, allowing clients to poll for status or cancel jobs if things go sideways. Ops teams automating infrastructure migration need agents that can run for hours without timing out. Supporting states like &lt;em&gt;working&lt;/em&gt; or &lt;em&gt;input_required&lt;/em&gt; finally brings resilience to agentic workflows.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-mcp-spec-update-improves-security"&gt;MCP spec update improves security&lt;/h3&gt;&lt;p&gt;For CISOs especially, AI agents often look like a massive and uncontrolled attack surface. The risks are already visible; “security researchers even found approximately 1,800 MCP servers exposed on the public internet by mid-2025,” implying that private infrastructure adoption is significantly wider.&lt;/p&gt;&lt;p&gt;“Done poorly,” Mundakkal warns, “[MCP] becomes integration sprawl and a bigger attack surface.”&lt;/p&gt;&lt;p&gt;To address this, the maintainers tackled the friction of Dynamic Client Registration (DCR). The fix is URL-based client registration (SEP-991), where clients provide a unique ID pointing to a self-managed metadata document to cut the admin bottleneck.&lt;/p&gt;&lt;p&gt;Then there’s ‘URL Mode Elicitation’ (SEP-1036). It allows a server – handling payments, for instance – to bounce a user to a secure browser window for credentials. The agent never sees the password; it just gets the token. It keeps the core credentials isolated, a non-negotiable for PCI compliance.&lt;/p&gt;&lt;p&gt;Harish Peri, SVP at Okta, believes this brings the “necessary oversight and access control to build a secure and open AI ecosystem.”&lt;/p&gt;&lt;p&gt;One feature as part of the spec update for MCP infrastructure has somewhat flown under the radar: ‘Sampling with Tools’ (SEP-1577). Servers used to be passive data fetchers; now they can run their own loops using the client’s tokens. Imagine a “research server” spawning sub-agents to scour documents and synthesise a report. No custom client code required—it simply moves the reasoning closer to the data.&lt;/p&gt;&lt;p&gt;However, wiring these connections is only step one. Mayur Upadhyaya, CEO at APIContext, argues that “the first year of MCP adoption has shown that enterprise AI doesn’t begin with rewrites, it begins with exposure.”&lt;/p&gt;&lt;p&gt;But visibility is the next hurdle. “The next wave will be about visibility: enterprises will need to monitor MCP uptime and validate authentication flows just as rigorously as they monitor APIs today,” Upadhyaya explains.&lt;/p&gt;&lt;p&gt;MCP’s roadmap reflects this, with updates targeting better “reliability and observability” for debugging. If you treat MCP servers as “set and forget,” you’re asking for trouble. Mundakkal agrees, noting the lesson from year one is to “pair MCP with strong identity, RBAC, and observability from day one.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-star-studded-industry-line-up-adopting-mcp-for-infrastructure"&gt;Star-studded industry line-up adopting MCP for infrastructure&lt;/h3&gt;&lt;p&gt;A protocol is only as good as who uses it. In a year since the original spec’s release, MCP hit nearly two thousand servers. Microsoft is using it to bridge GitHub, Azure, and M365. AWS is baking it into Bedrock. Google Cloud supports it across Gemini.&lt;/p&gt;&lt;p&gt;This reduces vendor lock-in. A Postgres connector built for MCP should theoretically work across Gemini, ChatGPT, or an internal Anthropic agent without a rewrite.&lt;/p&gt;&lt;p&gt;The “plumbing” phase of Generative AI is settling down, and open standards are winning the debate on connectivity. Technology leaders should look to audit internal APIs for MCP readiness – focusing on exposure rather than rewrites – and verify that the new URL-based registration fits current IAM frameworks.&lt;/p&gt;&lt;p&gt;Monitoring protocols must also be established immediately. While the latest MCP spec update is backward compatible with existing infrastructure; the new features are the only way to bring agents into regulated, mission-relevant workflows and ensure security.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;Adversarial learning breakthrough enables real-time AI security&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-110949" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-18.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/how-the-mcp-spec-update-boosts-security-as-infrastructure-scales/</guid><pubDate>Thu, 27 Nov 2025 13:34:34 +0000</pubDate></item><item><title>[NEW] The Ultimate Black Friday Deal Is Here (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2025/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Black Friday is leveling up. Get ready to score one of the biggest deals of the season — 50% off the first three months of a new GeForce NOW Ultimate membership. That’s GeForce RTX 5080-class power in the cloud for half the price.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_87891"&gt;&lt;img alt="The fully completed Ultimate upgrade on GeForce NOW" class="size-large wp-image-87891" height="945" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/GFN_Thursday-Blackwell_Map-1680x945.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87891"&gt;&lt;em&gt;The completed Ultimate upgrade.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The NVIDIA Blackwell RTX upgrade is now fully live across all servers — including in Stockholm, the final region to receive the upgrade — bringing even faster performance and lower latency to more members.&lt;/p&gt;
+&lt;p&gt;To celebrate this milestone, Ultimate members can claim a &lt;i&gt;Battlefield 6&lt;/i&gt; reward to show off in style.&lt;/p&gt;
+&lt;p&gt;Kick off a gaming-filled weekend with seven new titles joining the GeForce NOW library.&lt;/p&gt;
+&lt;p&gt;And the GeForce NOW Community Video Contest continues. Submit epic gameplay moments or share what makes streaming with GeForce NOW special for a chance to win Ultimate day passes or even a full year of Ultimate access. Keep those clips rolling — there’s still time to enter and level up chances to win.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Black Friday, GFN Thursday&lt;/b&gt;&lt;/h2&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_87894"&gt;&lt;img alt="Black Friday Product Matrix" class="size-large wp-image-87894" height="891" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/GFN_Thursday-Black_Friday_Ultimate_Sale-1680x891.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87894"&gt;&lt;em&gt;Green is the new black.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The Ultimate Black Friday Sale is the perfect time to upgrade to peak cloud performance, with Blackwell RTX now live worldwide. Through Sunday, Nov. 30, the first three months of an Ultimate membership are 50% off.&lt;/p&gt;
+&lt;p&gt;An Ultimate membership delivers GeForce RTX 5080-class power from the cloud, powering the fastest frame rates, ultrasmooth gameplay and breathtaking visuals with NVIDIA DLSS 4 technology. With cinematic-quality streaming up to 5K 120 frames per second, every session plays out with premium precision.&lt;/p&gt;
+&lt;p&gt;Top titles like &lt;i&gt;Battlefield 6&lt;/i&gt;, &lt;i&gt;Borderlands 4&lt;/i&gt; and &lt;i&gt;Outer Worlds 2 &lt;/i&gt;shine with GeForce RTX 50 Series performance. From explosive action to expansive worlds, Ultimate transforms every adventure into a showpiece.&lt;/p&gt;
+&lt;p&gt;The Ultimate Black Friday Sale — available in the U.S., Mexico and Japan — ends at the end of this week. Take advantage now for epic savings and next-level performance.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Built for Victors&lt;/b&gt;&lt;/h2&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_87897"&gt;&lt;img alt="Battlefield 6 reward on GeForce NOW" class="size-large wp-image-87897" height="840" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/GFN_Thursday-Battlefield_6_Reward-1680x840.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87897"&gt;&lt;em&gt;Dominate the battlefield.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Ultimate members will turn heads in &lt;i&gt;Battlefield 6&lt;/i&gt; with a new free reward: an in-game weapon skin for the Marksman SVK-8.6 DMR, forged for those who thrive where chaos reigns.&lt;/p&gt;
+&lt;p&gt;The fight takes on new style with a skin that means business, featuring battle-scarred alloy, digital accents and just enough swagger to stir envy among any squad. This weapon skin stands ready for gamers who lock in on victory, even as the odds explode around them.&lt;/p&gt;
+&lt;p&gt;The limited-time reward is available through Friday, Dec. 26. Ultimate members can sign in to GeForce NOW and claim an edge in the midst of chaos.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Zoom to New Games&lt;/b&gt;&lt;/h2&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_87900"&gt;&lt;img alt="Project Motor Racing on GeForce NOW" class="size-large wp-image-87900" height="840" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/GFN_Thursday-Project_Motor_Racing-1680x840.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87900"&gt;&lt;em&gt;Born to push the limits.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;i&gt;Project Motor Racing&lt;/i&gt; is an ambitious racing simulation game that captures the intensity and challenge of professional motorsport, featuring a wide selection of meticulously recreated cars and global circuits.&lt;/p&gt;
+&lt;p&gt;Designed for both seasoned sim racers and newcomers, it offers deep single-player career modes and robust online competition, all built around immersive physics, dynamic weather and a dedication to authenticity. Every race is a fresh test of skill, with relentless attention to detail and a vibrant, competitive racing community.&lt;/p&gt;
+&lt;p&gt;Check out this week’s new games here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;Of Ash and Steel &lt;/i&gt;(New release on Steam, Nov. 24, GeForce RTX 5080-ready)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Kill It With Fire &lt;/i&gt;(Xbox, available on PC Game Pass, Nov. 25)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Project Motor Racing &lt;/i&gt;(New release on Steam, Nov. 25)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Brotato &lt;/i&gt;(Steam)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Cricket 26 &lt;/i&gt;(Steam)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;GODBREAKERS &lt;/i&gt;(Steam)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Zero Hour&lt;/i&gt; (Epic Games Store)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And another GeForce RTX 5080-ready game atop this week’s addition &lt;i&gt;Of Ash and Steel&lt;/i&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Phasmaphobia (Steam)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Launch dates shared on GFN Thursdays reflect release dates for new titles, which will arrive on GeForce NOW within the following week.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Before digging into a gaming weekend, check out the question below. Post answers on X or in the comments below.&lt;/p&gt;
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p dir="ltr" lang="en"&gt;So, here's the deal. Literally. 💸💸&lt;/p&gt;
+&lt;p&gt;The Ultimate Black Friday deal is live!&lt;/p&gt;
+&lt;p&gt;GO 🏃‍♂️‍➡️ https://t.co/mMt5aYmSsH #GeForceSeason pic.twitter.com/idnvq6VBlO&lt;/p&gt;
+&lt;p&gt;— 🌩️ NVIDIA GeForce NOW (@NVIDIAGFN) November 25, 2025&lt;/p&gt;&lt;/blockquote&gt;
+
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</description><content:encoded>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;Black Friday is leveling up. Get ready to score one of the biggest deals of the season — 50% off the first three months of a new GeForce NOW Ultimate membership. That’s GeForce RTX 5080-class power in the cloud for half the price.&lt;/p&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_87891"&gt;&lt;img alt="The fully completed Ultimate upgrade on GeForce NOW" class="size-large wp-image-87891" height="945" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/GFN_Thursday-Blackwell_Map-1680x945.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87891"&gt;&lt;em&gt;The completed Ultimate upgrade.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The NVIDIA Blackwell RTX upgrade is now fully live across all servers — including in Stockholm, the final region to receive the upgrade — bringing even faster performance and lower latency to more members.&lt;/p&gt;
+&lt;p&gt;To celebrate this milestone, Ultimate members can claim a &lt;i&gt;Battlefield 6&lt;/i&gt; reward to show off in style.&lt;/p&gt;
+&lt;p&gt;Kick off a gaming-filled weekend with seven new titles joining the GeForce NOW library.&lt;/p&gt;
+&lt;p&gt;And the GeForce NOW Community Video Contest continues. Submit epic gameplay moments or share what makes streaming with GeForce NOW special for a chance to win Ultimate day passes or even a full year of Ultimate access. Keep those clips rolling — there’s still time to enter and level up chances to win.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Black Friday, GFN Thursday&lt;/b&gt;&lt;/h2&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_87894"&gt;&lt;img alt="Black Friday Product Matrix" class="size-large wp-image-87894" height="891" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/GFN_Thursday-Black_Friday_Ultimate_Sale-1680x891.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87894"&gt;&lt;em&gt;Green is the new black.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The Ultimate Black Friday Sale is the perfect time to upgrade to peak cloud performance, with Blackwell RTX now live worldwide. Through Sunday, Nov. 30, the first three months of an Ultimate membership are 50% off.&lt;/p&gt;
+&lt;p&gt;An Ultimate membership delivers GeForce RTX 5080-class power from the cloud, powering the fastest frame rates, ultrasmooth gameplay and breathtaking visuals with NVIDIA DLSS 4 technology. With cinematic-quality streaming up to 5K 120 frames per second, every session plays out with premium precision.&lt;/p&gt;
+&lt;p&gt;Top titles like &lt;i&gt;Battlefield 6&lt;/i&gt;, &lt;i&gt;Borderlands 4&lt;/i&gt; and &lt;i&gt;Outer Worlds 2 &lt;/i&gt;shine with GeForce RTX 50 Series performance. From explosive action to expansive worlds, Ultimate transforms every adventure into a showpiece.&lt;/p&gt;
+&lt;p&gt;The Ultimate Black Friday Sale — available in the U.S., Mexico and Japan — ends at the end of this week. Take advantage now for epic savings and next-level performance.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Built for Victors&lt;/b&gt;&lt;/h2&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_87897"&gt;&lt;img alt="Battlefield 6 reward on GeForce NOW" class="size-large wp-image-87897" height="840" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/GFN_Thursday-Battlefield_6_Reward-1680x840.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87897"&gt;&lt;em&gt;Dominate the battlefield.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Ultimate members will turn heads in &lt;i&gt;Battlefield 6&lt;/i&gt; with a new free reward: an in-game weapon skin for the Marksman SVK-8.6 DMR, forged for those who thrive where chaos reigns.&lt;/p&gt;
+&lt;p&gt;The fight takes on new style with a skin that means business, featuring battle-scarred alloy, digital accents and just enough swagger to stir envy among any squad. This weapon skin stands ready for gamers who lock in on victory, even as the odds explode around them.&lt;/p&gt;
+&lt;p&gt;The limited-time reward is available through Friday, Dec. 26. Ultimate members can sign in to GeForce NOW and claim an edge in the midst of chaos.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Zoom to New Games&lt;/b&gt;&lt;/h2&gt;
+&lt;figure class="wp-caption aligncenter" id="attachment_87900"&gt;&lt;img alt="Project Motor Racing on GeForce NOW" class="size-large wp-image-87900" height="840" src="https://blogs.nvidia.com/wp-content/uploads/2025/11/GFN_Thursday-Project_Motor_Racing-1680x840.jpg" width="1680" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-87900"&gt;&lt;em&gt;Born to push the limits.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;i&gt;Project Motor Racing&lt;/i&gt; is an ambitious racing simulation game that captures the intensity and challenge of professional motorsport, featuring a wide selection of meticulously recreated cars and global circuits.&lt;/p&gt;
+&lt;p&gt;Designed for both seasoned sim racers and newcomers, it offers deep single-player career modes and robust online competition, all built around immersive physics, dynamic weather and a dedication to authenticity. Every race is a fresh test of skill, with relentless attention to detail and a vibrant, competitive racing community.&lt;/p&gt;
+&lt;p&gt;Check out this week’s new games here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;Of Ash and Steel &lt;/i&gt;(New release on Steam, Nov. 24, GeForce RTX 5080-ready)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Kill It With Fire &lt;/i&gt;(Xbox, available on PC Game Pass, Nov. 25)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Project Motor Racing &lt;/i&gt;(New release on Steam, Nov. 25)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Brotato &lt;/i&gt;(Steam)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Cricket 26 &lt;/i&gt;(Steam)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;GODBREAKERS &lt;/i&gt;(Steam)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Zero Hour&lt;/i&gt; (Epic Games Store)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And another GeForce RTX 5080-ready game atop this week’s addition &lt;i&gt;Of Ash and Steel&lt;/i&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Phasmaphobia (Steam)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Launch dates shared on GFN Thursdays reflect release dates for new titles, which will arrive on GeForce NOW within the following week.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Before digging into a gaming weekend, check out the question below. Post answers on X or in the comments below.&lt;/p&gt;
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p dir="ltr" lang="en"&gt;So, here's the deal. Literally. 💸💸&lt;/p&gt;
+&lt;p&gt;The Ultimate Black Friday deal is live!&lt;/p&gt;
+&lt;p&gt;GO 🏃‍♂️‍➡️ https://t.co/mMt5aYmSsH #GeForceSeason pic.twitter.com/idnvq6VBlO&lt;/p&gt;
+&lt;p&gt;— 🌩️ NVIDIA GeForce NOW (@NVIDIAGFN) November 25, 2025&lt;/p&gt;&lt;/blockquote&gt;
+
+
+		&lt;footer class="entry-footer  " id="post-footer"&gt;
+					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2025/</guid><pubDate>Thu, 27 Nov 2025 14:00:37 +0000</pubDate></item><item><title>[NEW] SAP outlines new approach to European AI and cloud sovereignty (AI News)</title><link>https://www.artificialintelligence-news.com/news/sap-outlines-new-approach-to-european-ai-and-cloud-sovereignty/</link><description>&lt;p&gt;SAP is moving its sovereignty plans forward with EU AI Cloud, a setup meant to bring its past efforts under one approach. The goal is simple: give organisations in Europe more choice and more control over how they run AI and cloud services.&lt;/p&gt;&lt;p&gt;Some may prefer SAP’s own data centres, some may use trusted European providers, and others may want everything managed on-site. EU AI Cloud is built to support those different needs while keeping data inside the region and in line with EU rules.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-strengthening-ai-sovereignty-across-europe"&gt;&lt;strong&gt;Strengthening AI sovereignty across Europe&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;SAP is also working with Cohere to bring new agent-style and multimodal AI tools to customers through Cohere North. These models will be available through SAP Business Technology Platform (SAP BTP), giving industries with strict data residency needs a way to build production-ready AI into everyday operations. The two companies say the goal is to help enterprises find better insights, improve decision support, and automate complex tasks without giving up control over compliance or performance.&lt;/p&gt;&lt;p&gt;As Cohere’s team put it, their work with SAP is meant to keep advanced AI accessible to organisations that cannot move data outside Europe.&lt;/p&gt;&lt;p&gt;SAP is building EU AI Cloud with help from a range of European and global partners. Models and applications from Cohere, Mistral AI, OpenAI, and others are integrated directly into SAP BTP, giving customers a clearer path to build, deploy, and scale AI applications. Companies can access partner tools as SaaS, PaaS, or IaaS and choose where to run them: on SAP infrastructure or on approved European partners.&lt;/p&gt;&lt;p&gt;The aim is to give enterprises and public sector groups access to modern AI tools while staying within European standards for security, data protection, and sovereignty.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-deployment-choices-tied-to-different-security-needs"&gt;Deployment choices tied to different security needs&lt;/h3&gt;&lt;p&gt;EU AI Cloud works through SAP Sovereign Cloud, which lets customers pick the level of control they want across the stack—from infrastructure to applications. AI models run on SAP’s cloud infrastructure and SAP BTP in European data centres, which keeps operations separate from US hyperscalers.&lt;/p&gt;&lt;p&gt;Here are the deployment options:&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;SAP Sovereign Cloud on SAP Cloud Infrastructure (EU)&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;SAP’s IaaS is based on open-source tools and runs inside SAP’s European data centre network. Data stays within the EU to support compliance with regional data protection rules.&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;SAP Sovereign Cloud On-Site&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Infrastructure is managed by SAP but housed in a customer’s chosen data centre. This setup offers the highest level of control over data, operations, and legal requirements while keeping access to SAP’s cloud architecture.&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;Selected hyperscalers by market&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Some customers may still run SAP commercial SaaS on global cloud providers. When they do, they can add sovereignty features based on regional needs.&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;Delos Cloud&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A sovereign cloud service in Germany designed for the public sector. It supports local rules and is built to help government organisations modernise their digital systems.&lt;/p&gt;&lt;p&gt;EU AI Cloud gives organisations in Europe more choice in how they run AI and cloud workloads while keeping control of their data. The mix of deployment options, partner models, and sovereign design aims to support companies that face strict rules around privacy, storage, and operational oversight.&lt;/p&gt;&lt;p&gt;For enterprises and public bodies that need AI systems built around local requirements, SAP’s approach offers a way to use advanced tools without giving up the safeguards they rely on.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Antoine Schibler)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: Adversarial learning breakthrough enables real-time AI security&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-110949" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-18.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;SAP is moving its sovereignty plans forward with EU AI Cloud, a setup meant to bring its past efforts under one approach. The goal is simple: give organisations in Europe more choice and more control over how they run AI and cloud services.&lt;/p&gt;&lt;p&gt;Some may prefer SAP’s own data centres, some may use trusted European providers, and others may want everything managed on-site. EU AI Cloud is built to support those different needs while keeping data inside the region and in line with EU rules.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-strengthening-ai-sovereignty-across-europe"&gt;&lt;strong&gt;Strengthening AI sovereignty across Europe&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;SAP is also working with Cohere to bring new agent-style and multimodal AI tools to customers through Cohere North. These models will be available through SAP Business Technology Platform (SAP BTP), giving industries with strict data residency needs a way to build production-ready AI into everyday operations. The two companies say the goal is to help enterprises find better insights, improve decision support, and automate complex tasks without giving up control over compliance or performance.&lt;/p&gt;&lt;p&gt;As Cohere’s team put it, their work with SAP is meant to keep advanced AI accessible to organisations that cannot move data outside Europe.&lt;/p&gt;&lt;p&gt;SAP is building EU AI Cloud with help from a range of European and global partners. Models and applications from Cohere, Mistral AI, OpenAI, and others are integrated directly into SAP BTP, giving customers a clearer path to build, deploy, and scale AI applications. Companies can access partner tools as SaaS, PaaS, or IaaS and choose where to run them: on SAP infrastructure or on approved European partners.&lt;/p&gt;&lt;p&gt;The aim is to give enterprises and public sector groups access to modern AI tools while staying within European standards for security, data protection, and sovereignty.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-deployment-choices-tied-to-different-security-needs"&gt;Deployment choices tied to different security needs&lt;/h3&gt;&lt;p&gt;EU AI Cloud works through SAP Sovereign Cloud, which lets customers pick the level of control they want across the stack—from infrastructure to applications. AI models run on SAP’s cloud infrastructure and SAP BTP in European data centres, which keeps operations separate from US hyperscalers.&lt;/p&gt;&lt;p&gt;Here are the deployment options:&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;SAP Sovereign Cloud on SAP Cloud Infrastructure (EU)&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;SAP’s IaaS is based on open-source tools and runs inside SAP’s European data centre network. Data stays within the EU to support compliance with regional data protection rules.&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;SAP Sovereign Cloud On-Site&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Infrastructure is managed by SAP but housed in a customer’s chosen data centre. This setup offers the highest level of control over data, operations, and legal requirements while keeping access to SAP’s cloud architecture.&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;Selected hyperscalers by market&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Some customers may still run SAP commercial SaaS on global cloud providers. When they do, they can add sovereignty features based on regional needs.&lt;/p&gt;&lt;ul class="wp-block-list"&gt;&lt;li&gt;&lt;strong&gt;Delos Cloud&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A sovereign cloud service in Germany designed for the public sector. It supports local rules and is built to help government organisations modernise their digital systems.&lt;/p&gt;&lt;p&gt;EU AI Cloud gives organisations in Europe more choice in how they run AI and cloud workloads while keeping control of their data. The mix of deployment options, partner models, and sovereign design aims to support companies that face strict rules around privacy, storage, and operational oversight.&lt;/p&gt;&lt;p&gt;For enterprises and public bodies that need AI systems built around local requirements, SAP’s approach offers a way to use advanced tools without giving up the safeguards they rely on.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Antoine Schibler)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: Adversarial learning breakthrough enables real-time AI security&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-110949" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-18.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/sap-outlines-new-approach-to-european-ai-and-cloud-sovereignty/</guid><pubDate>Thu, 27 Nov 2025 14:06:00 +0000</pubDate></item></channel></rss>
