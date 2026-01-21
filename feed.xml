@@ -1,429 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 21 Jan 2026 01:59:43 +0000</lastBuildDate><item><title>The era of agentic chaos and how data will save us (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/</link><description>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;Provided by&lt;/span&gt;&lt;span class="sponsoredModule__name--dbd90349922f15155a4c483b397356c2"&gt;Reltio&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt;   &lt;p&gt;AI agents are moving beyond coding assistants and customer service chatbots into the operational core of the enterprise. The ROI is promising, but autonomy without alignment is a recipe for chaos. Business leaders need to lay the essential foundations now.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1131198" src="https://wp.technologyreview.com/wp-content/uploads/2026/01/Reltio-iStock-2237209743-crop.png" /&gt;&lt;/figure&gt;    &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The agent explosion is coming&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Agents are independently handling end-to-end processes across lead generation, supply chain optimization, customer support, and financial reconciliation. A mid-sized organization could easily run 4,000 agents, each making decisions that affect revenue, compliance, and customer experience.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;The transformation toward an agent-driven enterprise is inevitable. The economic benefits are too significant to ignore, and the potential is becoming a reality faster than most predicted. The problem? Most businesses and their underlying infrastructure are not prepared for this shift. Early adopters have found unlocking AI initiatives at scale to be extremely challenging.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The reliability gap that’s holding AI back&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Companies are investing heavily in AI, but the returns aren't materializing. According to recent research from Boston Consulting Group, 60% of companies report minimal revenue and cost gains despite substantial investment. However, the leaders reported they achieved five times the revenue increases and three times the cost reductions. Clearly, there is a massive premium for being a leader.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;What separates the leaders from the pack isn't how much they're spending or which models they're using. Before scaling AI deployment, these “future-built” companies put critical data infrastructure capabilities in place. They invested in the foundational work that enables AI to function reliably.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;A framework for agent reliability: The four quadrants&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;To understand how and where enterprise AI can fail, consider four critical quadrants: models, tools, context, and governance.&lt;/p&gt;  &lt;p&gt;Take a simple example: an agent that orders you pizza. The model interprets your request ("get me a pizza"). The tool executes the action (calling the Domino's or Pizza Hut API). Context provides personalization (you tend to order pepperoni on Friday nights at 7pm). Governance validates the outcome (did the pizza actually arrive?).&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Each dimension represents a potential failure point:&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;ul class="wp-block-list"&gt; &lt;li&gt;&lt;strong&gt;Models:&lt;/strong&gt; The underlying AI systems that interpret prompts, generate responses, and make predictions&lt;/li&gt;    &lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; The integration layer that connects AI to enterprise systems, such as APIs, protocols, and connectors&amp;nbsp;&lt;/li&gt;    &lt;li&gt;&lt;strong&gt;Context:&lt;/strong&gt; Before making decisions, information agents need to understand the full business picture, including customer histories, product catalogs, and supply chain networks&lt;/li&gt;    &lt;li&gt;&lt;strong&gt;Governance:&lt;/strong&gt; The policies, controls, and processes that ensure data quality, security, and compliance&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;This framework helps diagnose where reliability gaps emerge. When an enterprise agent fails, which quadrant is the problem? Is the model misunderstanding intent? Are the tools unavailable or broken? Is the context incomplete or contradictory? Or is there no mechanism to verify that the agent did what it was supposed to do?&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Why this is a data problem, not a model problem&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;The temptation is to think that reliability will simply improve as models improve. Yet, model capability is advancing exponentially. The cost of inference has dropped nearly 900 times in three years, hallucination rates are on the decline, and AI’s capacity to perform long tasks doubles every six months.&lt;/p&gt;  &lt;p&gt;Tooling is also accelerating. Integration frameworks like the Model Context Protocol (MCP) make it dramatically easier to connect agents with enterprise systems and APIs.&lt;/p&gt;  &lt;p&gt;If models are powerful and tools are maturing, then what is holding back adoption?&lt;/p&gt; 
-
- &lt;p&gt;To borrow from James Carville, “It is the data, stupid.” The root cause of most misbehaving agents is misaligned, inconsistent, or incomplete data.&lt;/p&gt;  &lt;p&gt;Enterprises have accumulated data debt over decades. Acquisitions, custom systems, departmental tools, and shadow IT have left data scattered across silos that rarely agree. Support systems do not match what is in marketing systems. Supplier data is duplicated across finance, procurement, and logistics. Locations have multiple representations depending on the source.&lt;/p&gt;  &lt;p&gt;Drop a few agents into this environment, and they will perform wonderfully at first, because each one is given a curated set of systems to call. Add more agents and the cracks grow, as each one builds its own fragment of truth.&lt;/p&gt;  &lt;p&gt;This dynamic has played out before. When business intelligence became self-serve, everyone started creating dashboards. Productivity soared, reports failed to match. Now imagine that phenomenon not in static dashboards, but in AI agents that can take action. With agents, data inconsistency produces real business consequences, not just debates among departments.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Companies that build unified context and robust governance can deploy thousands of agents with confidence, knowing they'll work together coherently and comply with business rules. Companies that skip this foundational work will watch their agents produce contradictory results, violate policies, and ultimately erode trust faster than they create value.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Leverage agentic AI without the chaos&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;The question for enterprises centers on organizational readiness. Will your company prepare the data foundation needed to make agent transformation work? Or will you spend years debugging agents, one issue at a time, forever chasing problems that originate in infrastructure you never built?&lt;/p&gt;  &lt;p&gt;Autonomous agents are already transforming how work gets done. But the enterprise will only experience the upside if those systems operate from the same truth. This ensures that when agents reason, plan, and act, they do so based on accurate, consistent, and up-to-date information.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The companies generating value from AI today have built on fit-for-purpose data foundations. They recognized early that in an agentic world, data functions as essential infrastructure. A solid data foundation is what turns experimentation into dependable operations.&lt;/p&gt; 
- &lt;p&gt;At Reltio, the focus is on building that foundation. The Reltio data management platform unifies core data from across the enterprise, giving every agent immediate access to the same business context. This unified approach enables enterprises to move faster, act smarter, and unlock the full value of AI.&lt;/p&gt;  &lt;p&gt;Agents will define the future of the enterprise. Context intelligence will determine who leads it.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;For leaders navigating this next wave of transformation, see Relatio’s practical guide:&lt;/em&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;em&gt;Unlocking Agentic AI: A Business Playbook for Data Readiness.&lt;/em&gt;&lt;em&gt; Get your copy now to learn how real-time context becomes the decisive advantage in the age of intelligence.&amp;nbsp;&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;Provided by&lt;/span&gt;&lt;span class="sponsoredModule__name--dbd90349922f15155a4c483b397356c2"&gt;Reltio&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt;   &lt;p&gt;AI agents are moving beyond coding assistants and customer service chatbots into the operational core of the enterprise. The ROI is promising, but autonomy without alignment is a recipe for chaos. Business leaders need to lay the essential foundations now.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1131198" src="https://wp.technologyreview.com/wp-content/uploads/2026/01/Reltio-iStock-2237209743-crop.png" /&gt;&lt;/figure&gt;    &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The agent explosion is coming&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Agents are independently handling end-to-end processes across lead generation, supply chain optimization, customer support, and financial reconciliation. A mid-sized organization could easily run 4,000 agents, each making decisions that affect revenue, compliance, and customer experience.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;The transformation toward an agent-driven enterprise is inevitable. The economic benefits are too significant to ignore, and the potential is becoming a reality faster than most predicted. The problem? Most businesses and their underlying infrastructure are not prepared for this shift. Early adopters have found unlocking AI initiatives at scale to be extremely challenging.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The reliability gap that’s holding AI back&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Companies are investing heavily in AI, but the returns aren't materializing. According to recent research from Boston Consulting Group, 60% of companies report minimal revenue and cost gains despite substantial investment. However, the leaders reported they achieved five times the revenue increases and three times the cost reductions. Clearly, there is a massive premium for being a leader.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;What separates the leaders from the pack isn't how much they're spending or which models they're using. Before scaling AI deployment, these “future-built” companies put critical data infrastructure capabilities in place. They invested in the foundational work that enables AI to function reliably.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;A framework for agent reliability: The four quadrants&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;To understand how and where enterprise AI can fail, consider four critical quadrants: models, tools, context, and governance.&lt;/p&gt;  &lt;p&gt;Take a simple example: an agent that orders you pizza. The model interprets your request ("get me a pizza"). The tool executes the action (calling the Domino's or Pizza Hut API). Context provides personalization (you tend to order pepperoni on Friday nights at 7pm). Governance validates the outcome (did the pizza actually arrive?).&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Each dimension represents a potential failure point:&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;ul class="wp-block-list"&gt; &lt;li&gt;&lt;strong&gt;Models:&lt;/strong&gt; The underlying AI systems that interpret prompts, generate responses, and make predictions&lt;/li&gt;    &lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; The integration layer that connects AI to enterprise systems, such as APIs, protocols, and connectors&amp;nbsp;&lt;/li&gt;    &lt;li&gt;&lt;strong&gt;Context:&lt;/strong&gt; Before making decisions, information agents need to understand the full business picture, including customer histories, product catalogs, and supply chain networks&lt;/li&gt;    &lt;li&gt;&lt;strong&gt;Governance:&lt;/strong&gt; The policies, controls, and processes that ensure data quality, security, and compliance&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;This framework helps diagnose where reliability gaps emerge. When an enterprise agent fails, which quadrant is the problem? Is the model misunderstanding intent? Are the tools unavailable or broken? Is the context incomplete or contradictory? Or is there no mechanism to verify that the agent did what it was supposed to do?&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Why this is a data problem, not a model problem&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;The temptation is to think that reliability will simply improve as models improve. Yet, model capability is advancing exponentially. The cost of inference has dropped nearly 900 times in three years, hallucination rates are on the decline, and AI’s capacity to perform long tasks doubles every six months.&lt;/p&gt;  &lt;p&gt;Tooling is also accelerating. Integration frameworks like the Model Context Protocol (MCP) make it dramatically easier to connect agents with enterprise systems and APIs.&lt;/p&gt;  &lt;p&gt;If models are powerful and tools are maturing, then what is holding back adoption?&lt;/p&gt; 
-
- &lt;p&gt;To borrow from James Carville, “It is the data, stupid.” The root cause of most misbehaving agents is misaligned, inconsistent, or incomplete data.&lt;/p&gt;  &lt;p&gt;Enterprises have accumulated data debt over decades. Acquisitions, custom systems, departmental tools, and shadow IT have left data scattered across silos that rarely agree. Support systems do not match what is in marketing systems. Supplier data is duplicated across finance, procurement, and logistics. Locations have multiple representations depending on the source.&lt;/p&gt;  &lt;p&gt;Drop a few agents into this environment, and they will perform wonderfully at first, because each one is given a curated set of systems to call. Add more agents and the cracks grow, as each one builds its own fragment of truth.&lt;/p&gt;  &lt;p&gt;This dynamic has played out before. When business intelligence became self-serve, everyone started creating dashboards. Productivity soared, reports failed to match. Now imagine that phenomenon not in static dashboards, but in AI agents that can take action. With agents, data inconsistency produces real business consequences, not just debates among departments.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Companies that build unified context and robust governance can deploy thousands of agents with confidence, knowing they'll work together coherently and comply with business rules. Companies that skip this foundational work will watch their agents produce contradictory results, violate policies, and ultimately erode trust faster than they create value.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Leverage agentic AI without the chaos&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;The question for enterprises centers on organizational readiness. Will your company prepare the data foundation needed to make agent transformation work? Or will you spend years debugging agents, one issue at a time, forever chasing problems that originate in infrastructure you never built?&lt;/p&gt;  &lt;p&gt;Autonomous agents are already transforming how work gets done. But the enterprise will only experience the upside if those systems operate from the same truth. This ensures that when agents reason, plan, and act, they do so based on accurate, consistent, and up-to-date information.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The companies generating value from AI today have built on fit-for-purpose data foundations. They recognized early that in an agentic world, data functions as essential infrastructure. A solid data foundation is what turns experimentation into dependable operations.&lt;/p&gt; 
- &lt;p&gt;At Reltio, the focus is on building that foundation. The Reltio data management platform unifies core data from across the enterprise, giving every agent immediate access to the same business context. This unified approach enables enterprises to move faster, act smarter, and unlock the full value of AI.&lt;/p&gt;  &lt;p&gt;Agents will define the future of the enterprise. Context intelligence will determine who leads it.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;For leaders navigating this next wave of transformation, see Relatio’s practical guide:&lt;/em&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;em&gt;Unlocking Agentic AI: A Business Playbook for Data Readiness.&lt;/em&gt;&lt;em&gt; Get your copy now to learn how real-time context becomes the decisive advantage in the age of intelligence.&amp;nbsp;&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/</guid><pubDate>Tue, 20 Jan 2026 15:00:00 +0000</pubDate></item><item><title>Humans&amp;, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/humans.png?resize=1200,633" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Humans&amp;amp;, a startup with a philosophy that AI should empower people rather than replace them, has raised $480 million in seed funding at a $4.48 billion valuation, reports The New York Times. Investors in the round include&amp;nbsp;chipmaker Nvidia, Amazon founder Jeff Bezos, and VC firms SV Angel, GV, and Laurene Powell Jobs’ firm Emerson Collective.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The megadeal for the three-month-old company follows a trend of investors throwing money at startups founded by breakaways of major AI labs. Humans&amp;amp;’s founders include Andi Peng, a former Anthropic researcher who worked on reinforcement learning and post-training of Claude 3.5 through 4.5; Georges Harik, Google’s seventh employee, who helped build its first advertising systems; Eric Zelikman and Yuchen He, two former xAI researchers who helped develop the Grok chatbot; and Noah Goodman, a Stanford professor of psychology and computer science.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company’s 20-odd employees also come from OpenAI, Meta, Reflection, AI2, and MIT, according to the company. The startup aims to use software to help people collaborate with each other — think an AI version of an instant messaging app. One of their goals is to use existing AI techniques to train AI in new ways, like programming chatbots to request information from the user and store it for later use.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In order to build AI that serves “as a deeper connective tissue that strengthens organizations and communities,” Humans&amp;amp; hopes to rethink “how we train models at scale and how people interact with AI,” per the company’s web page. The startup cited a need for innovations in “long-horizon and multi-agent reinforcement learning, memory, and user understanding,” as well as a tightly integrated focus on both science and product development.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch has reached out for comment.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Humans&amp;amp; seed round, while enormous, is far from an outlier in the current AI funding environment. The largest seed round in history, for now, belongs to Thinking Machines Lab, which raised $2 billion last July at a $12 billion valuation, led by Andreessen Horowitz. Founded by former OpenAI CTO Mira Murati alongside top researchers from Meta and Google, the company initially attracted enormous enthusiasm, though the departure of half of the company’s founding team across recent months suggests that massive capital and pedigree don’t guarantee immediate success.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other notable mega-seed rounds include Unconventional AI’s $475 million raise in December at a $4.5 billion valuation — the company, founded by former Databricks AI head Naveen Rao, is developing energy-efficient neuromorphic computing systems — and Lila Sciences’ $200 million seed round last March for its autonomous AI-powered laboratory platform.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;LMArena, the AI model benchmarking platform that spun out of UC Berkeley, similarly bolted out of the gate as a commercial venture, raising $100 million at a $600 million valuation last May. Earlier this month, the three-year-old outfit announced a $150 million Series A round at a post-money valuation of $1.7 billion.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/humans.png?resize=1200,633" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Humans&amp;amp;, a startup with a philosophy that AI should empower people rather than replace them, has raised $480 million in seed funding at a $4.48 billion valuation, reports The New York Times. Investors in the round include&amp;nbsp;chipmaker Nvidia, Amazon founder Jeff Bezos, and VC firms SV Angel, GV, and Laurene Powell Jobs’ firm Emerson Collective.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The megadeal for the three-month-old company follows a trend of investors throwing money at startups founded by breakaways of major AI labs. Humans&amp;amp;’s founders include Andi Peng, a former Anthropic researcher who worked on reinforcement learning and post-training of Claude 3.5 through 4.5; Georges Harik, Google’s seventh employee, who helped build its first advertising systems; Eric Zelikman and Yuchen He, two former xAI researchers who helped develop the Grok chatbot; and Noah Goodman, a Stanford professor of psychology and computer science.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company’s 20-odd employees also come from OpenAI, Meta, Reflection, AI2, and MIT, according to the company. The startup aims to use software to help people collaborate with each other — think an AI version of an instant messaging app. One of their goals is to use existing AI techniques to train AI in new ways, like programming chatbots to request information from the user and store it for later use.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In order to build AI that serves “as a deeper connective tissue that strengthens organizations and communities,” Humans&amp;amp; hopes to rethink “how we train models at scale and how people interact with AI,” per the company’s web page. The startup cited a need for innovations in “long-horizon and multi-agent reinforcement learning, memory, and user understanding,” as well as a tightly integrated focus on both science and product development.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch has reached out for comment.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Humans&amp;amp; seed round, while enormous, is far from an outlier in the current AI funding environment. The largest seed round in history, for now, belongs to Thinking Machines Lab, which raised $2 billion last July at a $12 billion valuation, led by Andreessen Horowitz. Founded by former OpenAI CTO Mira Murati alongside top researchers from Meta and Google, the company initially attracted enormous enthusiasm, though the departure of half of the company’s founding team across recent months suggests that massive capital and pedigree don’t guarantee immediate success.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other notable mega-seed rounds include Unconventional AI’s $475 million raise in December at a $4.5 billion valuation — the company, founded by former Databricks AI head Naveen Rao, is developing energy-efficient neuromorphic computing systems — and Lila Sciences’ $200 million seed round last March for its autonomous AI-powered laboratory platform.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;LMArena, the AI model benchmarking platform that spun out of UC Berkeley, similarly bolted out of the gate as a commercial venture, raising $100 million at a $600 million valuation last May. Earlier this month, the three-year-old outfit announced a $150 million Series A round at a post-money valuation of $1.7 billion.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/</guid><pubDate>Tue, 20 Jan 2026 16:00:57 +0000</pubDate></item><item><title>Reimagining ERP for the agentic AI era (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/</link><description>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;&lt;span class="sponsoredModule__name--dbd90349922f15155a4c483b397356c2"&gt;Rimini Street&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;The story of enterprise resource planning (ERP) is really a story of businesses learning to organize themselves around the latest, greatest technology of the times. In the 1960s through the ’80s, mainframes, material requirements planning (MRP), and manufacturing resource planning (MRP II) brought core business data from file cabinets to centralized systems. Client-server architectures defined the ’80s and ’90s, taking digitization mainstream during the internet’s infancy. And in the 21st century, as work moved beyond the desktop, SaaS and cloud ushered in flexible access and elastic infrastructure.&lt;/p&gt;  &lt;figure class="wp-block-image alignright size-large"&gt;&lt;img alt="alt" class="wp-image-1130037" height="2000" src="https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT_Riminity_2025_CoverV10_121525.png?w=1555" width="1555" /&gt;&lt;/figure&gt;  &lt;p&gt;The rise of composability and agentic AI marks yet another dawn—and an apt one for the nascent intelligence age. Composable architectures let organizations assemble capabilities from multiple systems in a mix-and-match fashion, so they can swap vendor gridlock for an à la carte portfolio of fit-for-purpose modules. On top of that architectural shift, agentic AI enables coordination across systems that weren’t originally designed to talk to one another.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt;  &lt;p&gt;Early indicators suggest that AI-enabled ERP will yield meaningful performance gains: One 2024 study found that organizations implementing AI-driven ERP solutions stand to gain around a 30% boost in user satisfaction and a 25% lift in productivity; another suggested that AI-driven ERP can lead to processing time savings of up to 45%, as well as improvements in decision accuracy to the tune of 60%.&lt;/p&gt;  &lt;p&gt;These dual advancements address long-standing gaps that previous ERP eras fell short of delivering: freedom to innovate outside of vendor roadmaps, capacity for rapid iteration, and true interoperability across all critical functions. This shift signals the end of monolithic dependency as well as a once-in-a-generation opportunity for early movers to gain a competitive edge.&lt;/p&gt; 
- &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1130683" src="https://wp.technologyreview.com/wp-content/uploads/2026/01/MITTR-RIminiStSocials_V2EricHelmer.png" /&gt;&lt;/figure&gt;  &lt;p&gt;Key takeaways include:&lt;/p&gt;  &lt;ul class="wp-block-list"&gt; &lt;li&gt;Enterprises are moving away from monolithic ERP vendor upgrades in favor of modular architectures that allow them to change or modernize components independently while keeping a stable core for essential transactions.&lt;/li&gt;    &lt;li&gt;Agentic AI is a timely complement to composability, functioning as a UX and orchestration layer that can coordinate workflows across disparate systems and turn multi-step processes into automated, cross-platform operations.&lt;/li&gt;    &lt;li&gt;These dual shifts are finally enabling technology architecture to organize around the business, instead of the business around the ERP. Companies can modernize by reconfiguring and extending what they already have, rather than relying on ERP-centric upgrades.&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;&lt;em&gt;Download the report.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;&lt;span class="sponsoredModule__name--dbd90349922f15155a4c483b397356c2"&gt;Rimini Street&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;The story of enterprise resource planning (ERP) is really a story of businesses learning to organize themselves around the latest, greatest technology of the times. In the 1960s through the ’80s, mainframes, material requirements planning (MRP), and manufacturing resource planning (MRP II) brought core business data from file cabinets to centralized systems. Client-server architectures defined the ’80s and ’90s, taking digitization mainstream during the internet’s infancy. And in the 21st century, as work moved beyond the desktop, SaaS and cloud ushered in flexible access and elastic infrastructure.&lt;/p&gt;  &lt;figure class="wp-block-image alignright size-large"&gt;&lt;img alt="alt" class="wp-image-1130037" height="2000" src="https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT_Riminity_2025_CoverV10_121525.png?w=1555" width="1555" /&gt;&lt;/figure&gt;  &lt;p&gt;The rise of composability and agentic AI marks yet another dawn—and an apt one for the nascent intelligence age. Composable architectures let organizations assemble capabilities from multiple systems in a mix-and-match fashion, so they can swap vendor gridlock for an à la carte portfolio of fit-for-purpose modules. On top of that architectural shift, agentic AI enables coordination across systems that weren’t originally designed to talk to one another.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt;  &lt;p&gt;Early indicators suggest that AI-enabled ERP will yield meaningful performance gains: One 2024 study found that organizations implementing AI-driven ERP solutions stand to gain around a 30% boost in user satisfaction and a 25% lift in productivity; another suggested that AI-driven ERP can lead to processing time savings of up to 45%, as well as improvements in decision accuracy to the tune of 60%.&lt;/p&gt;  &lt;p&gt;These dual advancements address long-standing gaps that previous ERP eras fell short of delivering: freedom to innovate outside of vendor roadmaps, capacity for rapid iteration, and true interoperability across all critical functions. This shift signals the end of monolithic dependency as well as a once-in-a-generation opportunity for early movers to gain a competitive edge.&lt;/p&gt; 
- &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1130683" src="https://wp.technologyreview.com/wp-content/uploads/2026/01/MITTR-RIminiStSocials_V2EricHelmer.png" /&gt;&lt;/figure&gt;  &lt;p&gt;Key takeaways include:&lt;/p&gt;  &lt;ul class="wp-block-list"&gt; &lt;li&gt;Enterprises are moving away from monolithic ERP vendor upgrades in favor of modular architectures that allow them to change or modernize components independently while keeping a stable core for essential transactions.&lt;/li&gt;    &lt;li&gt;Agentic AI is a timely complement to composability, functioning as a UX and orchestration layer that can coordinate workflows across disparate systems and turn multi-step processes into automated, cross-platform operations.&lt;/li&gt;    &lt;li&gt;These dual shifts are finally enabling technology architecture to organize around the business, instead of the business around the ERP. Companies can modernize by reconfiguring and extending what they already have, rather than relying on ERP-centric upgrades.&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;&lt;em&gt;Download the report.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/</guid><pubDate>Tue, 20 Jan 2026 16:14:14 +0000</pubDate></item><item><title>Multimodal reinforcement learning with agentic verifier for AI agents (Microsoft Research)</title><link>https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/</link><description>&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Diagram showing visual, audio, and document icons feeding into a central network icon of connected people, which then leads to a checkmark symbol, all on a blue‑to‑purple gradient background." class="wp-image-1160195" height="788" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Argos-BlogHeroFeature-1400x788-1.jpg" width="1400" /&gt;&lt;/figure&gt;
-
-
-
-&lt;div class="wp-block-msr-immersive-section alignfull row wp-block-msr-immersive-section"&gt;
-	
-	&lt;div class="container"&gt;
-		&lt;div class="wp-block-msr-immersive-section__inner wp-block-msr-immersive-section__inner--narrow"&gt;
-			&lt;div class="wp-block-columns mb-10 pb-1 pr-1 is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex"&gt;
-&lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
-&lt;h2 class="wp-block-heading h3" id="at-a-glance"&gt;At a glance&lt;/h2&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Today’s multimodal AI systems&amp;nbsp;can&amp;nbsp;give&amp;nbsp;answers that sound right but&amp;nbsp;may not be&amp;nbsp;grounded in what they&amp;nbsp;actually&amp;nbsp;observe&amp;nbsp;over time, leading to unpredictable errors and safety risks in real-world settings.&lt;/li&gt;
-
-
-
-&lt;li&gt;Argos is a verification framework for multimodal reinforcement learning that trains models by rewarding not just correct answers, but correct answers grounded in visual and temporal evidence, using automated verification rather than human labeling.&amp;nbsp;It selects the appropriate specialized tools for each answer&amp;nbsp;based on what needs to be verified.&amp;nbsp;&lt;/li&gt;
-
-
-
-&lt;li&gt;Models trained with Argos show stronger spatial reasoning, far fewer visual hallucinations, more stable learning dynamics, and better performance on robotics and real-world tasks while requiring fewer training samples.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;		&lt;/div&gt;
-	&lt;/div&gt;
-
-	&lt;/div&gt;
-
-
-
-&lt;p&gt;Over the past few years, AI systems have become much better at discerning images, generating language, and performing tasks within physical and virtual environments. Yet they still fail in ways that are hard to predict and even harder to fix. A robot might try to grasp a tool when the object is visibly blocked, or a visual assistant integrated into smart glasses might describe objects that aren’t actually present.&lt;/p&gt;
-
-
-
-&lt;p&gt;These errors often arise because today’s multimodal agents are trained to generate outputs that are plausible rather than grounded in the actual information they receive from their environment. As a result, a model’s output can seem correct while relying on incorrect information. As AI systems are increasingly used to navigate 3D spaces and make decisions in real-world settings, this gap can be a safety and reliability concern.&lt;/p&gt;
-
-
-
-&lt;p&gt;To tackle this challenge, we posed the question: How can we train AI agents to generate correct answers and take appropriate actions for the right reasons so that their behavior is reliable even as the environment or tasks change?&lt;/p&gt;
-
-
-
-
-	&lt;div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide"&gt;
-		
-
-		&lt;p class="msr-promo__label text-gray-800 text-center text-uppercase"&gt;
-		&lt;span class="px-4 bg-white display-inline-block font-weight-semibold small"&gt;Spotlight: Event Series&lt;/span&gt;
-	&lt;/p&gt;
-	
-	&lt;div class="row pt-3 pb-4 align-items-center"&gt;
-						
-			
-			&lt;div class="msr-promo__content p-3 px-5 col-12 col-md"&gt;
-
-									&lt;h2 class="h4"&gt;Microsoft Research Forum&lt;/h2&gt;
-				
-								&lt;p class="large" id="microsoft-research-forum"&gt;Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.&lt;/p&gt;
-				
-								
-							&lt;/div&gt;&lt;!--/.msr-promo__content--&gt;
-	&lt;/div&gt;&lt;!--/.msr-promo__inner-wrap--&gt;
-&lt;span class="sr-only" id="label-external-link"&gt;Opens in a new tab&lt;/span&gt;&lt;!-- promos injected --&gt;	&lt;/div&gt;&lt;!--/.msr-promo--&gt;
-	&lt;p&gt;Argos represents a novel answer to this challenge. It’s an agentic verification framework designed to improve the reliability of reinforcement learning in multimodal models.&amp;nbsp;Reinforcement learning is a training method where AI models learn by receiving rewards for desired behaviors and penalties for undesired ones, gradually improving their performance through trial and error.&lt;/p&gt;
-
-
-
-&lt;p&gt;Rather than rewarding only correct behaviors, Argos evaluates &lt;em&gt;how&lt;/em&gt; those behaviors were produced. It draws on a pool of larger, more capable teacher models and rule-based checks to verify two things: first, that the objects and events a model references actually exist in its input, and second, that the model’s reasoning aligns with what it observes. Argos rewards the model when both conditions are met. In practice, these rewards help curate high-quality training data and guide the model’s further training.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="how-argos-works"&gt;How Argos works&lt;strong&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-
-
-&lt;p&gt;Argos functions as a verification layer on top of an existing multimodal model. Given an image or video, a task or query, and information about the model’s reasoning and output, Argos identifies where the model indicates objects are located in the image, when it indicates events occur in a video, and what action or answer it produces.&lt;/p&gt;
-
-
-
-&lt;p&gt;Argos then applies specialized tools tailored to the specific content to evaluate and score three aspects of the model’s output. It checks whether the answer is correct, whether referenced objects and events appear at the indicated locations and times, and whether the reasoning is consistent with the visual evidence and the answer (Figure 1).&lt;/p&gt;
-
-
-
-&lt;p&gt;These scores are combined using a gated aggregation function, a method that dynamically adjusts the importance of different scores. It emphasizes reasoning checks only when the final output is correct. This design prevents unreliable feedback from dominating training and produces a stable reward signal for&amp;nbsp;reinforcement learning.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 1 shows an overview of Argos, an agentic verifier for multimodal reinforcement learning and its downstream applications. The left half of the figure illustrates Argos verifying model responses to visual questions. The left example counts dogs in an image, with red dots marking the referenced dogs and a visual grounding score; another example shows a bathroom scene where the agent reasons whether it can open the door, with an accuracy score. Below these, a blue bar titled “Argos verifier” feeds into icons representing multiple tools, including Grounding DINO, SAM-2, a pointing-hand evaluator, string matching, and a language model score, where their outputs combine into grounding and accuracy scores. The right half of the figure depicts three categories of downstream tasks powered by this supervision: robotic manipulation (a robot arm interacting with objects on a table), high-level task planning and completion (placing toilet paper on the back of a toilet and putting a bowl on a coffee table), and spatial reasoning (answering a viewpoint-based navigation question using room images). The overall message is that dense, grounded verification enables stronger agent performance on complex, real-world tasks." class="wp-image-1160145" height="1255" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos_agentic_verifier-scaled.jpg" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;Figure 1. Argos selects different specialized tools to verify and score the accuracy of referenced points and events in the agent’s reasoning.&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="using-argos-to-curate-data-for-supervised-fine-tuning"&gt;Using Argos to curate data for supervised fine-tuning&lt;/h2&gt;
-
-
-
-&lt;p&gt;Argos also helps curate high-quality training data to provide the model with a strong foundation in grounded reasoning. Before the reinforcement learning stage begins, Argos uses a multi-stage process to generate data that is explicitly tied to visual locations and time intervals.&lt;/p&gt;
-
-
-
-&lt;p&gt;In the first stage, Argos identifies the objects, actions, and events that are relevant to a task and links them to specific locations in images or specific moments in videos. These references are overlaid on images and selected video frames. Next, a reasoning model generates step-by-step explanations that refer to these visual locations and time spans.&lt;/p&gt;
-
-
-
-&lt;p&gt;Finally, Argos evaluates each generated example for accuracy and visual grounding, filtering out low-quality training data and retaining only data that is both correct and well-grounded in visual input. The resulting dataset is then used in an initial training phase, where the model learns to generate reasoning steps before producing its final output. This process is illustrated in Figure 2.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 2 illustrates the Argos scoring pipeline for both images and videos. On the left, two examples show an image of a living room and a short video clip, each paired with a question and a free-form model response (e.g., estimating the distance between two lamps, or describing why a person failed to pour oil). In the middle, an “Agentic Verifier” column parses each response into structured elements: spatial 2D points indicating the referenced object and pixel coordinates, temporal segments for the relevant video frames, a reasoning-quality panel that combines the image/video, question, and response, and a final-answer panel comparing the predicted answer to ground truth. Below, a row of teacher models and scoring functions, such as Grounding DINO, SAM-2, a pointing-hand metric, string matching, relative accuracy, and a language model score, take these extracted elements as input to produce separate scores. On the right, arrows labeled “Action” and “Score” show how the verifier adaptively selects which teachers to call and then aggregates their outputs via a gated aggregation function into a single reward signal for training. " class="wp-image-1160147" height="450" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/data-curation-animation-gif.gif" width="800" /&gt;&lt;figcaption class="wp-element-caption"&gt;Figure 2. Argos generates step-by-step reasoning grounded in image locations and video timestamps then filters out low-quality training data.&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="evaluation"&gt;Evaluation&lt;/h2&gt;
-
-
-
-&lt;p&gt;Building on this foundation in grounded reasoning, we further trained the model using reinforcement learning guided by Argos and evaluated its performance across a range of benchmarks. On spatial reasoning tasks, the Argos-trained model outperformed both the base model Qwen2.5-VL-7B and the stronger Video-R1 baseline across challenging 3D scenarios and multi-view tasks. Models trained with Argos also showed a substantial reduction of hallucinations compared with both standard chain-of-thought prompting and reinforcement learning baselines.&lt;/p&gt;
-
-
-
-&lt;p&gt;Finally, we evaluated the model in robotics and other real-world task settings, focusing on high-level planning and fine-grained control. Models trained with Argos performed better on complex, multi-step tasks. Notably, these improvements were achieved using fewer training samples than existing approaches, highlighting the importance of reward design in producing more capable and data-efficient agents. Figure 3 illustrates some of these findings.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 3 shows two side-by-side line charts comparing an Agentic model (dashed line) that uses the Argos verifier with a Non-Agentic model (solid line) trained only with an outcome reward. The left plot, “Response Accuary,” tracks response accuracy versus RL step (0, 5, 10, 15). Both models start near 0.54 accuracy, but the Agentic curve slightly rises and then stays roughly flat, while the Non-agentic curve steadily declines to about 0.50. The right plot, “Visual Grounding Acc,” shows visual grounding accuracy over the same steps: the Agentic curve increases monotonically from about 0.39 to just above 0.5, whereas the Non-Agentic curve initially rises slightly and then drops sharply to about 0.1. Together, the plots illustrate that Argos stabilizes answer accuracy and significantly improves visual grounding, while the non-agentic model’s performance and grounding collapse over training." class="wp-image-1160369" height="406" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos-blog_fig3.png" width="1331" /&gt;&lt;figcaption class="wp-element-caption"&gt;Figure 3.&amp;nbsp;Performance of&amp;nbsp;Argos&amp;nbsp;compared with&amp;nbsp;baseline models&amp;nbsp;on the task of visual hallucination detection&amp;nbsp;(left)&amp;nbsp;and&amp;nbsp;embodied&amp;nbsp;task planning and completion&amp;nbsp;(right).&amp;nbsp;&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h3 class="wp-block-heading" id="how-argos-shapes-reinforcement-learning"&gt;How Argos shapes reinforcement learning&lt;/h3&gt;
-
-
-
-&lt;p&gt;To understand how Argos affects learning, we took the same vision-language model that had been trained on our curated dataset and fine-tuned it using&amp;nbsp;reinforcement learning in two different ways. In one approach, Argos was an agentic verifier, checking the correctness of outputs and the quality of reasoning. In the other, the model received feedback only on whether its answers were correct.&lt;/p&gt;
-
-
-
-&lt;p&gt;We evaluated both versions on 1,500 samples from a new dataset and tracked their performance throughout the learning process (Figure 4). Although they started at similar levels, the model without Argos quickly got worse. Its accuracy steadily declined, and it increasingly gave answers that ignored what was in the videos. It learned to game the system by producing answers that seemed correct without grounding them in visual evidence.&lt;/p&gt;
-
-
-
-&lt;p&gt;The model trained with Argos showed the opposite pattern. Accuracy improved steadily, and the model became better at linking its reasoning to what appeared in the videos. This difference highlights the value of verification: when training rewards both correct outputs and sound reasoning based on visual and temporal evidence, models learn to be more reliable rather than simply finding shortcuts to high scores.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 4 shows two side-by-side line charts comparing an Agentic model (dashed line) that uses the Argos verifier with a Non-Agentic model (solid line) trained only with an outcome reward. The left plot, “Response Accuary,” tracks response accuracy versus RL step (0, 5, 10, 15). Both models start near 0.54 accuracy, but the Agentic curve slightly rises and then stays roughly flat, while the Non-agentic curve steadily declines to about 0.50. The right plot, “Visual Grounding Acc,” shows visual grounding accuracy over the same steps: the Agentic curve increases monotonically from about 0.39 to just above 0.5, whereas the Non-Agentic curve initially rises slightly and then drops sharply to about 0.1. Together, the plots illustrate that Argos stabilizes answer accuracy and significantly improves visual grounding, while the non-agentic model’s performance and grounding collapse over training. " class="wp-image-1160428" height="550" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/evaluation-fig4-final.jpg" width="1996" /&gt;&lt;figcaption class="wp-element-caption"&gt;Figure 4.&amp;nbsp;Comparison of&amp;nbsp;response accuracy changes with and without Argos&amp;nbsp;across&amp;nbsp;two model versions&amp;nbsp;(left) and&amp;nbsp;differences in&amp;nbsp;visual grounding accuracy&amp;nbsp;over training for both&amp;nbsp;versions&amp;nbsp;(right).&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="potential-impact-and-looking-forward"&gt;Potential impact and looking forward&lt;/h2&gt;
-
-
-
-&lt;p&gt;This research points toward a different way of building AI agents for real-world applications. Rather than fixing errors after they occur, it focuses on training agents to systematically anchor their reasoning in what they actually receive as input throughout the training process.&lt;/p&gt;
-
-
-
-&lt;p&gt;The potential applications span many domains. A visual assistant for a self-driving car that verifies what’s actually in an image is less likely to report phantom obstacles. A system that automates digital tasks and checks each action against what’s displayed on the screen is less likely to click the wrong button.&lt;/p&gt;
-
-
-
-&lt;p&gt;As AI systems move beyond research labs into homes, factories, and offices, reliable reasoning becomes essential for safety and trust. Argos represents an early example of verification systems that evolve alongside the AI models they supervise. Future verifiers could be tailored for specific fields like medical imaging, industrial simulations, and business analytics. As more advanced models and richer data sources become available, researchers can use them to improve these verification systems, providing even better guidance during training and further reducing hallucinations.&lt;/p&gt;
-
-
-
-&lt;p&gt;We hope that this research helps move the field toward AI systems that are both capable and interpretable: agents that can explain their decisions, point to the evidence behind them, and be trained to adhere to real-world requirements and values.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-video aligncenter"&gt;&lt;video controls="controls" height="1076" poster="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos.png" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos-demo-video.mp4" width="1920"&gt;&lt;/video&gt;&lt;/figure&gt;
-&lt;span class="sr-only" id="label-external-link"&gt;Opens in a new tab&lt;/span&gt;&lt;!-- promos injected --&gt;</description><content:encoded>&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Diagram showing visual, audio, and document icons feeding into a central network icon of connected people, which then leads to a checkmark symbol, all on a blue‑to‑purple gradient background." class="wp-image-1160195" height="788" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Argos-BlogHeroFeature-1400x788-1.jpg" width="1400" /&gt;&lt;/figure&gt;
-
-
-
-&lt;div class="wp-block-msr-immersive-section alignfull row wp-block-msr-immersive-section"&gt;
-	
-	&lt;div class="container"&gt;
-		&lt;div class="wp-block-msr-immersive-section__inner wp-block-msr-immersive-section__inner--narrow"&gt;
-			&lt;div class="wp-block-columns mb-10 pb-1 pr-1 is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex"&gt;
-&lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
-&lt;h2 class="wp-block-heading h3" id="at-a-glance"&gt;At a glance&lt;/h2&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Today’s multimodal AI systems&amp;nbsp;can&amp;nbsp;give&amp;nbsp;answers that sound right but&amp;nbsp;may not be&amp;nbsp;grounded in what they&amp;nbsp;actually&amp;nbsp;observe&amp;nbsp;over time, leading to unpredictable errors and safety risks in real-world settings.&lt;/li&gt;
-
-
-
-&lt;li&gt;Argos is a verification framework for multimodal reinforcement learning that trains models by rewarding not just correct answers, but correct answers grounded in visual and temporal evidence, using automated verification rather than human labeling.&amp;nbsp;It selects the appropriate specialized tools for each answer&amp;nbsp;based on what needs to be verified.&amp;nbsp;&lt;/li&gt;
-
-
-
-&lt;li&gt;Models trained with Argos show stronger spatial reasoning, far fewer visual hallucinations, more stable learning dynamics, and better performance on robotics and real-world tasks while requiring fewer training samples.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;		&lt;/div&gt;
-	&lt;/div&gt;
-
-	&lt;/div&gt;
-
-
-
-&lt;p&gt;Over the past few years, AI systems have become much better at discerning images, generating language, and performing tasks within physical and virtual environments. Yet they still fail in ways that are hard to predict and even harder to fix. A robot might try to grasp a tool when the object is visibly blocked, or a visual assistant integrated into smart glasses might describe objects that aren’t actually present.&lt;/p&gt;
-
-
-
-&lt;p&gt;These errors often arise because today’s multimodal agents are trained to generate outputs that are plausible rather than grounded in the actual information they receive from their environment. As a result, a model’s output can seem correct while relying on incorrect information. As AI systems are increasingly used to navigate 3D spaces and make decisions in real-world settings, this gap can be a safety and reliability concern.&lt;/p&gt;
-
-
-
-&lt;p&gt;To tackle this challenge, we posed the question: How can we train AI agents to generate correct answers and take appropriate actions for the right reasons so that their behavior is reliable even as the environment or tasks change?&lt;/p&gt;
-
-
-
-
-	&lt;div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide"&gt;
-		
-
-		&lt;p class="msr-promo__label text-gray-800 text-center text-uppercase"&gt;
-		&lt;span class="px-4 bg-white display-inline-block font-weight-semibold small"&gt;Spotlight: Event Series&lt;/span&gt;
-	&lt;/p&gt;
-	
-	&lt;div class="row pt-3 pb-4 align-items-center"&gt;
-						
-			
-			&lt;div class="msr-promo__content p-3 px-5 col-12 col-md"&gt;
-
-									&lt;h2 class="h4"&gt;Microsoft Research Forum&lt;/h2&gt;
-				
-								&lt;p class="large" id="microsoft-research-forum"&gt;Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.&lt;/p&gt;
-				
-								
-							&lt;/div&gt;&lt;!--/.msr-promo__content--&gt;
-	&lt;/div&gt;&lt;!--/.msr-promo__inner-wrap--&gt;
-&lt;span class="sr-only" id="label-external-link"&gt;Opens in a new tab&lt;/span&gt;&lt;!-- promos injected --&gt;	&lt;/div&gt;&lt;!--/.msr-promo--&gt;
-	&lt;p&gt;Argos represents a novel answer to this challenge. It’s an agentic verification framework designed to improve the reliability of reinforcement learning in multimodal models.&amp;nbsp;Reinforcement learning is a training method where AI models learn by receiving rewards for desired behaviors and penalties for undesired ones, gradually improving their performance through trial and error.&lt;/p&gt;
-
-
-
-&lt;p&gt;Rather than rewarding only correct behaviors, Argos evaluates &lt;em&gt;how&lt;/em&gt; those behaviors were produced. It draws on a pool of larger, more capable teacher models and rule-based checks to verify two things: first, that the objects and events a model references actually exist in its input, and second, that the model’s reasoning aligns with what it observes. Argos rewards the model when both conditions are met. In practice, these rewards help curate high-quality training data and guide the model’s further training.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="how-argos-works"&gt;How Argos works&lt;strong&gt;&lt;/strong&gt;&lt;/h2&gt;
-
-
-
-&lt;p&gt;Argos functions as a verification layer on top of an existing multimodal model. Given an image or video, a task or query, and information about the model’s reasoning and output, Argos identifies where the model indicates objects are located in the image, when it indicates events occur in a video, and what action or answer it produces.&lt;/p&gt;
-
-
-
-&lt;p&gt;Argos then applies specialized tools tailored to the specific content to evaluate and score three aspects of the model’s output. It checks whether the answer is correct, whether referenced objects and events appear at the indicated locations and times, and whether the reasoning is consistent with the visual evidence and the answer (Figure 1).&lt;/p&gt;
-
-
-
-&lt;p&gt;These scores are combined using a gated aggregation function, a method that dynamically adjusts the importance of different scores. It emphasizes reasoning checks only when the final output is correct. This design prevents unreliable feedback from dominating training and produces a stable reward signal for&amp;nbsp;reinforcement learning.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 1 shows an overview of Argos, an agentic verifier for multimodal reinforcement learning and its downstream applications. The left half of the figure illustrates Argos verifying model responses to visual questions. The left example counts dogs in an image, with red dots marking the referenced dogs and a visual grounding score; another example shows a bathroom scene where the agent reasons whether it can open the door, with an accuracy score. Below these, a blue bar titled “Argos verifier” feeds into icons representing multiple tools, including Grounding DINO, SAM-2, a pointing-hand evaluator, string matching, and a language model score, where their outputs combine into grounding and accuracy scores. The right half of the figure depicts three categories of downstream tasks powered by this supervision: robotic manipulation (a robot arm interacting with objects on a table), high-level task planning and completion (placing toilet paper on the back of a toilet and putting a bowl on a coffee table), and spatial reasoning (answering a viewpoint-based navigation question using room images). The overall message is that dense, grounded verification enables stronger agent performance on complex, real-world tasks." class="wp-image-1160145" height="1255" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos_agentic_verifier-scaled.jpg" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;Figure 1. Argos selects different specialized tools to verify and score the accuracy of referenced points and events in the agent’s reasoning.&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="using-argos-to-curate-data-for-supervised-fine-tuning"&gt;Using Argos to curate data for supervised fine-tuning&lt;/h2&gt;
-
-
-
-&lt;p&gt;Argos also helps curate high-quality training data to provide the model with a strong foundation in grounded reasoning. Before the reinforcement learning stage begins, Argos uses a multi-stage process to generate data that is explicitly tied to visual locations and time intervals.&lt;/p&gt;
-
-
-
-&lt;p&gt;In the first stage, Argos identifies the objects, actions, and events that are relevant to a task and links them to specific locations in images or specific moments in videos. These references are overlaid on images and selected video frames. Next, a reasoning model generates step-by-step explanations that refer to these visual locations and time spans.&lt;/p&gt;
-
-
-
-&lt;p&gt;Finally, Argos evaluates each generated example for accuracy and visual grounding, filtering out low-quality training data and retaining only data that is both correct and well-grounded in visual input. The resulting dataset is then used in an initial training phase, where the model learns to generate reasoning steps before producing its final output. This process is illustrated in Figure 2.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 2 illustrates the Argos scoring pipeline for both images and videos. On the left, two examples show an image of a living room and a short video clip, each paired with a question and a free-form model response (e.g., estimating the distance between two lamps, or describing why a person failed to pour oil). In the middle, an “Agentic Verifier” column parses each response into structured elements: spatial 2D points indicating the referenced object and pixel coordinates, temporal segments for the relevant video frames, a reasoning-quality panel that combines the image/video, question, and response, and a final-answer panel comparing the predicted answer to ground truth. Below, a row of teacher models and scoring functions, such as Grounding DINO, SAM-2, a pointing-hand metric, string matching, relative accuracy, and a language model score, take these extracted elements as input to produce separate scores. On the right, arrows labeled “Action” and “Score” show how the verifier adaptively selects which teachers to call and then aggregates their outputs via a gated aggregation function into a single reward signal for training. " class="wp-image-1160147" height="450" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/data-curation-animation-gif.gif" width="800" /&gt;&lt;figcaption class="wp-element-caption"&gt;Figure 2. Argos generates step-by-step reasoning grounded in image locations and video timestamps then filters out low-quality training data.&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="evaluation"&gt;Evaluation&lt;/h2&gt;
-
-
-
-&lt;p&gt;Building on this foundation in grounded reasoning, we further trained the model using reinforcement learning guided by Argos and evaluated its performance across a range of benchmarks. On spatial reasoning tasks, the Argos-trained model outperformed both the base model Qwen2.5-VL-7B and the stronger Video-R1 baseline across challenging 3D scenarios and multi-view tasks. Models trained with Argos also showed a substantial reduction of hallucinations compared with both standard chain-of-thought prompting and reinforcement learning baselines.&lt;/p&gt;
-
-
-
-&lt;p&gt;Finally, we evaluated the model in robotics and other real-world task settings, focusing on high-level planning and fine-grained control. Models trained with Argos performed better on complex, multi-step tasks. Notably, these improvements were achieved using fewer training samples than existing approaches, highlighting the importance of reward design in producing more capable and data-efficient agents. Figure 3 illustrates some of these findings.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 3 shows two side-by-side line charts comparing an Agentic model (dashed line) that uses the Argos verifier with a Non-Agentic model (solid line) trained only with an outcome reward. The left plot, “Response Accuary,” tracks response accuracy versus RL step (0, 5, 10, 15). Both models start near 0.54 accuracy, but the Agentic curve slightly rises and then stays roughly flat, while the Non-agentic curve steadily declines to about 0.50. The right plot, “Visual Grounding Acc,” shows visual grounding accuracy over the same steps: the Agentic curve increases monotonically from about 0.39 to just above 0.5, whereas the Non-Agentic curve initially rises slightly and then drops sharply to about 0.1. Together, the plots illustrate that Argos stabilizes answer accuracy and significantly improves visual grounding, while the non-agentic model’s performance and grounding collapse over training." class="wp-image-1160369" height="406" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos-blog_fig3.png" width="1331" /&gt;&lt;figcaption class="wp-element-caption"&gt;Figure 3.&amp;nbsp;Performance of&amp;nbsp;Argos&amp;nbsp;compared with&amp;nbsp;baseline models&amp;nbsp;on the task of visual hallucination detection&amp;nbsp;(left)&amp;nbsp;and&amp;nbsp;embodied&amp;nbsp;task planning and completion&amp;nbsp;(right).&amp;nbsp;&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h3 class="wp-block-heading" id="how-argos-shapes-reinforcement-learning"&gt;How Argos shapes reinforcement learning&lt;/h3&gt;
-
-
-
-&lt;p&gt;To understand how Argos affects learning, we took the same vision-language model that had been trained on our curated dataset and fine-tuned it using&amp;nbsp;reinforcement learning in two different ways. In one approach, Argos was an agentic verifier, checking the correctness of outputs and the quality of reasoning. In the other, the model received feedback only on whether its answers were correct.&lt;/p&gt;
-
-
-
-&lt;p&gt;We evaluated both versions on 1,500 samples from a new dataset and tracked their performance throughout the learning process (Figure 4). Although they started at similar levels, the model without Argos quickly got worse. Its accuracy steadily declined, and it increasingly gave answers that ignored what was in the videos. It learned to game the system by producing answers that seemed correct without grounding them in visual evidence.&lt;/p&gt;
-
-
-
-&lt;p&gt;The model trained with Argos showed the opposite pattern. Accuracy improved steadily, and the model became better at linking its reasoning to what appeared in the videos. This difference highlights the value of verification: when training rewards both correct outputs and sound reasoning based on visual and temporal evidence, models learn to be more reliable rather than simply finding shortcuts to high scores.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 4 shows two side-by-side line charts comparing an Agentic model (dashed line) that uses the Argos verifier with a Non-Agentic model (solid line) trained only with an outcome reward. The left plot, “Response Accuary,” tracks response accuracy versus RL step (0, 5, 10, 15). Both models start near 0.54 accuracy, but the Agentic curve slightly rises and then stays roughly flat, while the Non-agentic curve steadily declines to about 0.50. The right plot, “Visual Grounding Acc,” shows visual grounding accuracy over the same steps: the Agentic curve increases monotonically from about 0.39 to just above 0.5, whereas the Non-Agentic curve initially rises slightly and then drops sharply to about 0.1. Together, the plots illustrate that Argos stabilizes answer accuracy and significantly improves visual grounding, while the non-agentic model’s performance and grounding collapse over training. " class="wp-image-1160428" height="550" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/evaluation-fig4-final.jpg" width="1996" /&gt;&lt;figcaption class="wp-element-caption"&gt;Figure 4.&amp;nbsp;Comparison of&amp;nbsp;response accuracy changes with and without Argos&amp;nbsp;across&amp;nbsp;two model versions&amp;nbsp;(left) and&amp;nbsp;differences in&amp;nbsp;visual grounding accuracy&amp;nbsp;over training for both&amp;nbsp;versions&amp;nbsp;(right).&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading" id="potential-impact-and-looking-forward"&gt;Potential impact and looking forward&lt;/h2&gt;
-
-
-
-&lt;p&gt;This research points toward a different way of building AI agents for real-world applications. Rather than fixing errors after they occur, it focuses on training agents to systematically anchor their reasoning in what they actually receive as input throughout the training process.&lt;/p&gt;
-
-
-
-&lt;p&gt;The potential applications span many domains. A visual assistant for a self-driving car that verifies what’s actually in an image is less likely to report phantom obstacles. A system that automates digital tasks and checks each action against what’s displayed on the screen is less likely to click the wrong button.&lt;/p&gt;
-
-
-
-&lt;p&gt;As AI systems move beyond research labs into homes, factories, and offices, reliable reasoning becomes essential for safety and trust. Argos represents an early example of verification systems that evolve alongside the AI models they supervise. Future verifiers could be tailored for specific fields like medical imaging, industrial simulations, and business analytics. As more advanced models and richer data sources become available, researchers can use them to improve these verification systems, providing even better guidance during training and further reducing hallucinations.&lt;/p&gt;
-
-
-
-&lt;p&gt;We hope that this research helps move the field toward AI systems that are both capable and interpretable: agents that can explain their decisions, point to the evidence behind them, and be trained to adhere to real-world requirements and values.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-video aligncenter"&gt;&lt;video controls="controls" height="1076" poster="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos.png" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos-demo-video.mp4" width="1920"&gt;&lt;/video&gt;&lt;/figure&gt;
-&lt;span class="sr-only" id="label-external-link"&gt;Opens in a new tab&lt;/span&gt;&lt;!-- promos injected --&gt;</content:encoded><guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/</guid><pubDate>Tue, 20 Jan 2026 17:00:00 +0000</pubDate></item><item><title>[NEW] Why it’s critical to move beyond overly aggregated machine-learning metrics (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202601/mit-lids-Ghassemi.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 21 Jan 2026 06:40:26 +0000</lastBuildDate><item><title>Why it’s critical to move beyond overly aggregated machine-learning metrics (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202601/mit-lids-Ghassemi.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
             &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
           
 
@@ -437,7 +13,7 @@
             &lt;p&gt;MIT researchers have identified significant examples of machine-learning model failure when those models are applied to data other than what they were trained on, raising questions about the need to test whenever a model is deployed in a new setting.&lt;/p&gt;&lt;p&gt;“We demonstrate that even when you train models on large amounts of data, and choose the best average model, in a new setting this ‘best model’ could be the worst model for 6-75 percent of the new data,” says Marzyeh Ghassemi, an associate professor in MIT’s Department of Electrical Engineering and Computer Science (EECS), a member of the Institute for Medical Engineering and Science, and principal investigator at the Laboratory for Information and Decision Systems.&lt;/p&gt;&lt;p&gt;In a paper that was presented at the Neural Information Processing Systems (NeurIPS 2025) conference in December, the researchers point out that models trained to effectively diagnose illness in chest X-rays at one hospital, for example, may be considered effective in a different hospital, on average. The researchers’ performance assessment, however, revealed that some of the best-performing models at the first hospital were the worst-performing on up to 75 percent of patients at the second hospital, even though when all patients are aggregated in the second hospital, high average performance hides this failure.&lt;/p&gt;&lt;p&gt;Their findings demonstrate that although spurious correlations — a simple example of which is when a machine-learning system, not having “seen” many cows pictured at the beach, classifies a photo of a beach-going cow as an orca simply because of its background — are thought to be mitigated by just improving model performance on observed data, they actually still occur and remain a risk to a model’s trustworthiness in new settings. In many instances — including areas examined by the researchers such as chest X-rays, cancer histopathology images, and hate speech detection — such spurious correlations are much harder to detect.&lt;/p&gt;&lt;p&gt;In the case of a medical diagnosis model trained on chest X-rays, for example, the model may have learned to correlate a specific and irrelevant marking on one hospital’s X-rays with a certain pathology. At another hospital where the marking is not used, that pathology could be missed.&lt;/p&gt;&lt;p&gt;Previous research by Ghassemi’s group has shown that models can spuriously correlate such factors as age, gender, and race with medical findings. If, for instance, a model has been trained on more older people’s chest X-rays that have pneumonia and hasn’t “seen” as many X-rays belonging to younger people, it might predict that only older patients have pneumonia.&lt;/p&gt;&lt;p&gt;“We want models to learn how to look at the anatomical features of the patient and then make a decision based on that,” says Olawale Salaudeen, an MIT postdoc and the lead author of the paper, “but really anything that’s in the data that’s correlated with a decision can be used by the model. And those correlations might not actually be robust with changes in the environment, making the model predictions unreliable sources of decision-making.”&lt;/p&gt;&lt;p&gt;Spurious correlations contribute to the risks of biased decision-making. In the NeurIPS conference paper, the researchers showed that, for example, chest X-ray models that improved overall diagnosis performance actually performed worse on patients with pleural conditions or enlarged cardiomediastinum, meaning enlargement of the heart or central chest cavity.&lt;/p&gt;&lt;p&gt;Other authors of the paper included PhD students Haoran Zhang and Kumail Alhamoud, EECS Assistant Professor Sara Beery, and Ghassemi.&lt;/p&gt;&lt;p&gt;While previous work has generally accepted that models ordered best-to-worst by performance will preserve that order when applied in new settings, called accuracy-on-the-line, the researchers were able to demonstrate examples of when the best-performing models in one setting were the worst-performing in another.&lt;/p&gt;&lt;p&gt;Salaudeen devised an algorithm called OODSelect to find examples where accuracy-on-the-line was broken. Basically, he trained thousands of models using in-distribution data, meaning the data were from the first setting, and calculated their accuracy. Then he applied the models to the data from the second setting. When those with the highest accuracy on the first-setting data were wrong when applied to a large percentage of examples in the second setting, this identified the problem subsets, or sub-populations. Salaudeen also emphasizes the dangers of aggregate statistics for evaluation, which can obscure more granular and consequential information about model performance.&lt;/p&gt;&lt;p&gt;In the course of their work, the researchers separated out the “most miscalculated examples” so as not to conflate spurious correlations within a dataset with situations that are simply difficult to classify.&lt;/p&gt;&lt;p&gt;The NeurIPS paper releases the researchers’ code and some identified subsets for future work.&lt;/p&gt;&lt;p&gt;Once a hospital, or any organization employing machine learning, identifies subsets on which a model is performing poorly, that information can be used to improve the model for its particular task and setting. The researchers recommend that future work adopt OODSelect in order to highlight targets for evaluation and design approaches to improving performance more consistently.&lt;/p&gt;&lt;p&gt;“We hope the released code and OODSelect subsets become a steppingstone,” the researchers write, “toward benchmarks and models that confront the adverse effects of spurious correlations.”&lt;/p&gt;        
 
       &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120</guid><pubDate>Tue, 20 Jan 2026 21:30:00 +0000</pubDate></item><item><title>[NEW] Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/tesla-phone-app.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk said over the long weekend that Tesla aims to restart work on Dojo3, the electric vehicle company’s previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”&lt;/p&gt;
+        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120</guid><pubDate>Tue, 20 Jan 2026 21:30:00 +0000</pubDate></item><item><title>Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/tesla-phone-app.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk said over the long weekend that Tesla aims to restart work on Dojo3, the electric vehicle company’s previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The move comes five months after Tesla effectively shut down its Dojo effort. The company disbanded the team behind its Dojo supercomputer following the departure of Dojo lead Peter Bannon. Around 20 Dojo workers also left to join DensityAI, a new AI infrastructure startup founded by former Dojo head Ganesh Venkataramanan and ex-Tesla employees Bill Chang and Ben Floering.&lt;/p&gt;
 
@@ -531,7 +107,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Still, there are many roadblocks to making AI data centers in space a possibility, not least the challenge of cooling high-power compute in a vacuum. Musk’s comments of Tesla building “space-based AI compute” fit a familiar pattern: float an idea that sounds far-fetched, then try to brute-force it into reality.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/</guid><pubDate>Tue, 20 Jan 2026 22:10:41 +0000</pubDate></item><item><title>[NEW] In an effort to protect young users, ChatGPT will now predict how old you are (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;As concern for AI’s impact on young people continues to mount, OpenAI has introduced an “age prediction” feature into ChatGPT that is designed to help identify minors and put sensible content constraints on their conversations.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Still, there are many roadblocks to making AI data centers in space a possibility, not least the challenge of cooling high-power compute in a vacuum. Musk’s comments of Tesla building “space-based AI compute” fit a familiar pattern: float an idea that sounds far-fetched, then try to brute-force it into reality.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/</guid><pubDate>Tue, 20 Jan 2026 22:10:41 +0000</pubDate></item><item><title>In an effort to protect young users, ChatGPT will now predict how old you are (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;As concern for AI’s impact on young people continues to mount, OpenAI has introduced an “age prediction” feature into ChatGPT that is designed to help identify minors and put sensible content constraints on their conversations.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;OpenAI has been heavily criticized in recent years for the impacts that ChatGPT can have on children. A number of teen suicides have been linked to the chatbot, and, like other AI vendors, OpenAI has also been criticized for allowing ChatGPT to discuss sexual topics with young users. Last April, the company was forced to address a bug that allowed its chatbot to generate erotica for users who were under the age of 18.&lt;/p&gt;
 
@@ -559,7 +135,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;Those “signals” include things like the user’s stated age, the length of time an account has existed, and the times of day that the account is usually active, the company said. The company already has content filters designed to weed out discussions of sex, violence, and other potentially problematic topics for users who are under age 18. If the age prediction mechanism identifies an account as under 18, those filters are automatically applied.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;If a user is mistakenly designated as underage, there is a way for them to reestablish their “adult” account. They can submit a selfie to OpenAI’s ID verification partner Persona, OpenAI says.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/</guid><pubDate>Tue, 20 Jan 2026 23:29:56 +0000</pubDate></item><item><title>[NEW] Anthropic’s CEO stuns Davos with Nvidia criticism (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last week, after reversing an earlier ban, the U.S. administration officially approved the sale of Nvidia’s H200 chips, along with a chip line by AMD, to approved Chinese customers. Maybe they aren’t these chipmakers’ shiniest, most advanced chips, but they’re high-performance processors used for AI, making the export controversial. And at the World Economic Forum in Davos on Tuesday, Anthropic CEO Dario Amodei unloaded on both the administration and the chip companies over the decision.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;If a user is mistakenly designated as underage, there is a way for them to reestablish their “adult” account. They can submit a selfie to OpenAI’s ID verification partner Persona, OpenAI says.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/</guid><pubDate>Tue, 20 Jan 2026 23:29:56 +0000</pubDate></item><item><title>Anthropic’s CEO stuns Davos with Nvidia criticism (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last week, after reversing an earlier ban, the U.S. administration officially approved the sale of Nvidia’s H200 chips, along with a chip line by AMD, to approved Chinese customers. Maybe they aren’t these chipmakers’ shiniest, most advanced chips, but they’re high-performance processors used for AI, making the export controversial. And at the World Economic Forum in Davos on Tuesday, Anthropic CEO Dario Amodei unloaded on both the administration and the chip companies over the decision.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The criticism was particularly notable because one of those chipmakers, Nvidia, is a major partner and investor in Anthropic.&lt;/p&gt;
 
@@ -653,4 +229,516 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;But what’s perhaps most remarkable is that Amodei could sit onstage at Davos, drop a bomb like that, and walk away to some other gathering without fear that he just adversely impacted his business. News cycles move on, sure. Anthropic is also on solid footing right now. But it does feel that the AI race has grown so existential in the minds of its leaders that the usual constraints — investor relations, strategic partnerships, diplomatic niceties — don’t apply anymore. Amodei isn’t concerned about what he can and can’t say. More than anything else he said on that stage, that fearlessness is worth paying attention to.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</guid><pubDate>Wed, 21 Jan 2026 01:39:58 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;But what’s perhaps most remarkable is that Amodei could sit onstage at Davos, drop a bomb like that, and walk away to some other gathering without fear that he just adversely impacted his business. News cycles move on, sure. Anthropic is also on solid footing right now. But it does feel that the AI race has grown so existential in the minds of its leaders that the usual constraints — investor relations, strategic partnerships, diplomatic niceties — don’t apply anymore. Amodei isn’t concerned about what he can and can’t say. More than anything else he said on that stage, that fearlessness is worth paying attention to.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</guid><pubDate>Wed, 21 Jan 2026 01:39:58 +0000</pubDate></item><item><title>[NEW] Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Industry reports and the growth of voice model companies in the Indian market suggest that there is a growing demand for voice AI solutions in the country. Voice is a popular medium for communication among people and businesses in India. That’s why enterprises and startups are eager to use voice AI to be more efficient at customer support, sales, customer acquisition, hiring, and training.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But recognizing market demand is one thing — proving businesses will pay is another. Y Combinator rejected the application from Bolna, a voice orchestration startup built by Maitreya Wagh and Prateek Sachan, five times before finally accepting it into the fall 2025 batch, skeptical that the founders could turn interest into revenue.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“When we were applying for Y Combinator, the feedback we got was, ‘great to see that you have a product that can create realistic voice agents, but Indian enterprises are not going to pay, and you are not going to make money out of this,’” Wagh told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The startup applied with the same idea for the fall batch but was able to show it had revenue of more than $25,000 coming in every month for the last few months. At that time, the company was running $100 pilots to help users build voice agents. Now the startup is pricing those pilots at $500.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The momentum has continued. The startup said on Tuesday that it has raised a $6.3 million seed round led by General Catalyst, with participation from Y Combinator, Blume Ventures, Orange Collective, Pioneer Fund, Transpose Capital, and Eight Capital. The round also includes individual investors, including Aarthi Ramamurthy, Arpan Sheth, Sriwatsan Krishnan, Ravi Iyer, and Taro Fukuyama.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-the-product-and-customers"&gt;The product and customers&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Bolna is building an orchestration layer — essentially a platform that connects and manages different AI voice technologies — akin to startups like Vapi, LiveKit, and VoiceRun, to suit the idiosyncrasies of interactions in India, including noise cancellation, getting verification on the caller ID platform Truecaller, and handling mixed languages.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Feature-wise, the company has built specific nuances for Indian users, such as speaking numbers in English regardless of the core language, or allowing for keypad input for longer inputs.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3083843" height="387" src="https://techcrunch.com/wp-content/uploads/2026/01/Bolna-UI.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Bolna&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Wagh noted that the key differentiation of Bolna is that it makes it easy for users to build voice agents by just describing them, even if they don’t know much about the underlying technology, and start using them for calls. The company said that 75% of its revenue is coming from self-serve customers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;He also said that because Bolna is an orchestration layer, it doesn’t depend on a single model, so enterprises can easily switch when there is a better model available.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Our platform allows customers to switch models easily or even use different models for different locales to get the best out of them. An orchestration layer is necessary for enterprises to ensure they are getting the best models because one model can be better today and another one can be better tomorrow,” Wagh said.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The company has a range of clients, including car reselling platform Spinny, on-demand house-help startup Snabbit, beverage companies, and dating apps. Most of these are small to midsize businesses that use Bolna’s self-serve platform.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Separately, Bolna is pursuing large enterprise deals. For these large enterprises and custom implementations, Bolna has a team of forward-deployed engineers — specialists who work directly with clients on-site or closely with their teams. The startup has signed two large enterprises as paying customers and has four more in the pilot stage. Currently, Bolna employs nine forward-deployed engineers and is adding two to three people to that team every month to support this enterprise push.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Bolna has seen steady growth in both call volumes and revenue. It say it’s now handling over 200,000 calls per day and on the verge of crossing $700,000 in annual recurring revenue (ARR). The company noted that while 60% to 70% of call volume is in English or Hindi, other regional languages are steadily rising.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Akarsh Shrivastava, who is part of the investment team at General Catalyst, said that the firm found Bolna impressive because its orchestration layer is flexible for various kinds of customers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Bolna allows you the freedom to choose any model and has a stack behind it to mold it according to your requirement. It’s a good option for people who want to own some part of the stack, want flexibility in model picking, and want to be able to maintain those products themselves,” Shrivastava told TechCrunch over a call.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Industry reports and the growth of voice model companies in the Indian market suggest that there is a growing demand for voice AI solutions in the country. Voice is a popular medium for communication among people and businesses in India. That’s why enterprises and startups are eager to use voice AI to be more efficient at customer support, sales, customer acquisition, hiring, and training.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But recognizing market demand is one thing — proving businesses will pay is another. Y Combinator rejected the application from Bolna, a voice orchestration startup built by Maitreya Wagh and Prateek Sachan, five times before finally accepting it into the fall 2025 batch, skeptical that the founders could turn interest into revenue.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“When we were applying for Y Combinator, the feedback we got was, ‘great to see that you have a product that can create realistic voice agents, but Indian enterprises are not going to pay, and you are not going to make money out of this,’” Wagh told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The startup applied with the same idea for the fall batch but was able to show it had revenue of more than $25,000 coming in every month for the last few months. At that time, the company was running $100 pilots to help users build voice agents. Now the startup is pricing those pilots at $500.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The momentum has continued. The startup said on Tuesday that it has raised a $6.3 million seed round led by General Catalyst, with participation from Y Combinator, Blume Ventures, Orange Collective, Pioneer Fund, Transpose Capital, and Eight Capital. The round also includes individual investors, including Aarthi Ramamurthy, Arpan Sheth, Sriwatsan Krishnan, Ravi Iyer, and Taro Fukuyama.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-the-product-and-customers"&gt;The product and customers&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Bolna is building an orchestration layer — essentially a platform that connects and manages different AI voice technologies — akin to startups like Vapi, LiveKit, and VoiceRun, to suit the idiosyncrasies of interactions in India, including noise cancellation, getting verification on the caller ID platform Truecaller, and handling mixed languages.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Feature-wise, the company has built specific nuances for Indian users, such as speaking numbers in English regardless of the core language, or allowing for keypad input for longer inputs.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3083843" height="387" src="https://techcrunch.com/wp-content/uploads/2026/01/Bolna-UI.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Bolna&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Wagh noted that the key differentiation of Bolna is that it makes it easy for users to build voice agents by just describing them, even if they don’t know much about the underlying technology, and start using them for calls. The company said that 75% of its revenue is coming from self-serve customers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;He also said that because Bolna is an orchestration layer, it doesn’t depend on a single model, so enterprises can easily switch when there is a better model available.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Our platform allows customers to switch models easily or even use different models for different locales to get the best out of them. An orchestration layer is necessary for enterprises to ensure they are getting the best models because one model can be better today and another one can be better tomorrow,” Wagh said.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The company has a range of clients, including car reselling platform Spinny, on-demand house-help startup Snabbit, beverage companies, and dating apps. Most of these are small to midsize businesses that use Bolna’s self-serve platform.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Separately, Bolna is pursuing large enterprise deals. For these large enterprises and custom implementations, Bolna has a team of forward-deployed engineers — specialists who work directly with clients on-site or closely with their teams. The startup has signed two large enterprises as paying customers and has four more in the pilot stage. Currently, Bolna employs nine forward-deployed engineers and is adding two to three people to that team every month to support this enterprise push.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Bolna has seen steady growth in both call volumes and revenue. It say it’s now handling over 200,000 calls per day and on the verge of crossing $700,000 in annual recurring revenue (ARR). The company noted that while 60% to 70% of call volume is in English or Hindi, other regional languages are steadily rising.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Akarsh Shrivastava, who is part of the investment team at General Catalyst, said that the firm found Bolna impressive because its orchestration layer is flexible for various kinds of customers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Bolna allows you the freedom to choose any model and has a stack behind it to mold it according to your requirement. It’s a good option for people who want to own some part of the stack, want flexibility in model picking, and want to be able to maintain those products themselves,” Shrivastava told TechCrunch over a call.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/</guid><pubDate>Wed, 21 Jan 2026 02:00:00 +0000</pubDate></item><item><title>[NEW] AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality (Hugging Face - Blog)</title><link>https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face</link><description>&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
+
+&lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Zhou's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://huggingface.co/avatars/e2c7242c5a17937275077b1ee1394644.svg" /&gt;
+				&lt;/span&gt;
+	&lt;/span&gt;
+
+				
+			&lt;/div&gt;&lt;/div&gt;
+	&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+					
+
+					&lt;!-- HTML_TAG_START --&gt;
+&lt;strong&gt;AssetOpsBench&lt;/strong&gt; is a comprehensive benchmark and evaluation system with six qualitative dimensions that bridges the gap for agentic AI in domain-specific settings, starting with industrial Asset Lifecycle Management.
+&lt;div align="center"&gt;
+  
+    &lt;img alt="AssetOpsBench logo" src="https://cdn-uploads.huggingface.co/production/uploads/64c47f731d44fc06afc80953/1MyQgdHfeaZGtK37dbYuz.png" width="40%" /&gt;
+  
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Introduction
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;While existing AI benchmarks excel at isolated tasks such as coding or web navigation, they often fail to capture the complexity of real-world industrial operations. To bridge this gap, we introduce &lt;strong&gt;AssetOpsBench&lt;/strong&gt;, a framework specifically designed to evaluate agent performance across six critical dimensions of industrial applications. Unlike traditional benchmarks, AssetOpsBench emphasizes the need for &lt;strong&gt;multi-agent&lt;/strong&gt; coordination—moving beyond `lone wolf' models to systems that can handle complex failure modes, integrate multiple data streams, and manage intricate work orders. By focusing on these high-stakes, multi-agent dynamics, the benchmark ensures that AI agents are assessed on their ability to navigate the nuances and safety-critical demands of a true industrial environment.&lt;/p&gt;
+&lt;p&gt;AssetOpsBench is built for asset operations such as chillers and air handling units. It comprises:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2.3M&lt;/strong&gt; sensor telemetry points&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;140+&lt;/strong&gt; curated scenarios across 4 agents&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4.2K&lt;/strong&gt; work orders for diverse scenarios&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;53&lt;/strong&gt; structured failure modes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Experts helped curate &lt;strong&gt;150+&lt;/strong&gt; scenarios. Each scenario includes metadata: task type, output format, category, and sub-agents. The tasks designed span across:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Anomaly detection&lt;/strong&gt; in sensor streams&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Failure mode reasoning&lt;/strong&gt; and diagnostics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KPI forecasting&lt;/strong&gt; and analysis  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Work order&lt;/strong&gt; summarization and prioritization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Evaluation Framework and Overall Feedback
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;AssetOpsBench evaluates agentic systems across six qualitative dimensions designed to reflect real operational constraints in industrial asset management. Rather than optimizing for a single success metric, the benchmark emphasizes decision trace quality, evidence grounding, failure awareness, and actionability under incomplete and noisy data.&lt;/p&gt;
+&lt;p&gt;Each agent run is scored across six criteria:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Task Completion&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Retrieval Accuracy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Result Verification&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sequence Correctness&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clarity and Justification&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hallucination rate&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Across early evaluations, we observe that many general-purpose agents perform well on surface-level reasoning but struggle with sustained multi-step coordination involving work orders, failure semantics, and temporal dependencies. Agents that explicitly model operational context and uncertainty tend to produce more stable and interpretable trajectories, even when final task completion is partial.&lt;/p&gt;
+&lt;p&gt;This feedback-oriented evaluation is intentional: in industrial settings, understanding why an agent fails is often more valuable than a binary success signal.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Failure Modes in Industrial Agentic Workflows
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;A central contribution of AssetOpsBench is the explicit treatment of &lt;strong&gt;failure modes&lt;/strong&gt; as first-class evaluation signals in agentic industrial workflows. Rather than treating failure as a binary outcome, AssetOpsBench analyzes full multi-agent execution trajectories to identify &lt;em&gt;where&lt;/em&gt;, &lt;em&gt;how&lt;/em&gt;, and &lt;em&gt;why&lt;/em&gt; agent behavior breaks down under realistic operational constraints.&lt;/p&gt;
+&lt;p&gt;Failure analysis in AssetOpsBench is implemented through a dedicated trajectory-level pipeline (&lt;strong&gt;TrajFM&lt;/strong&gt;), which combines LLM-based reasoning with statistical clustering to surface interpretable failure patterns from agent execution traces. This pipeline operates in three stages: (1) trajectory-level failure extraction using an LLM-guided diagnostic prompt, (2) embedding-based clustering to group recurring failure patterns, and (3) analysis and visualization to support developer feedback and iteration.&lt;/p&gt;
+&lt;p&gt;Across industrial scenarios, recurrent failure modes include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Misalignment between sensor telemetry, alerts, and historical work orders  &lt;/li&gt;
+&lt;li&gt;Overconfident conclusions drawn under missing, delayed, or insufficient evidence  &lt;/li&gt;
+&lt;li&gt;Inconsistent aggregation of heterogeneous data modalities across agents  &lt;/li&gt;
+&lt;li&gt;Premature action selection without adequate verification or validation steps  &lt;/li&gt;
+&lt;li&gt;Breakdowns in multi-agent coordination, such as ignored inputs or action–reasoning mismatches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Importantly, AssetOpsBench does not rely solely on a fixed, hand-crafted failure taxonomy. While a structured set of predefined failure categories (e.g., verification errors, step repetition, role violations) is used for consistency, the system is explicitly designed to &lt;strong&gt;discover new failure patterns&lt;/strong&gt; that emerge in practice. Additional failure modes identified by the LLM are embedded and clustered automatically, allowing the taxonomy to evolve as new agent designs and behaviors are evaluated.&lt;/p&gt;
+&lt;p&gt;To preserve industrial confidentiality, raw execution traces are never exposed. Instead, agents receive aggregated scores across six evaluation dimensions together with clustered failure-mode summaries that explain &lt;em&gt;why&lt;/em&gt; an agent failed, without revealing sensitive data or intermediate reasoning steps. This feedback-driven design enables developers to diagnose weaknesses, refine agent workflows, and iteratively resubmit improved agents.&lt;/p&gt;
+&lt;p&gt;This failure-aware evaluation reflects the realities of industrial asset management, where cautious, degradation-aware reasoning—and the ability to recognize uncertainty, defer action, or escalate appropriately—is often preferable to aggressive but brittle automation.&lt;/p&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Submit an Agent for Evaluation
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;AssetOpsBench-Live is designed as an open, competition-ready benchmark, and we welcome submissions of agent implementations from the community. Agents are evaluated in a controlled, privacy-preserving environment that reflects real industrial asset management constraints.&lt;/p&gt;
+&lt;p&gt;To submit an agent, developers first validate their implementation locally using a provided simulated environment, which includes representative sensor data, work orders, alerts, and failure-mode catalogs. Agents are then containerized and submitted for remote execution on hidden evaluation scenarios.&lt;/p&gt;
+&lt;p&gt;Submitted agents are evaluated across six qualitative dimensions—task completion, accuracy, result verification, action sequencing, clarity, and hallucination—using a consistent, reproducible evaluation protocol. Execution traces are not exposed; instead, participants receive aggregated scores and structured failure-mode feedback that highlights where and why an agent’s reasoning or coordination broke down.&lt;/p&gt;
+&lt;p&gt;This feedback-driven evaluation loop enables iterative improvement: developers can diagnose failure patterns, refine agent design or workflow structure, and resubmit updated agents for further evaluation. Both planning-focused and execution-focused agents are supported, allowing researchers and practitioners to explore diverse agentic designs within the same benchmark framework.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Experiment and Observations
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;We performed a community evaluation where we tested two tracks: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Planning-oriented&lt;/strong&gt; multi-agent orchestration &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Execution-oriented&lt;/strong&gt; dynamic multi-agent workflow.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Across 225 users and 300+ agents and leading open source models, here are the observations:&lt;/p&gt;
+&lt;div class="max-w-full overflow-auto"&gt;
+	&lt;table&gt;
+		&lt;thead&gt;&lt;tr&gt;
+&lt;th align="left"&gt;Model Family&lt;/th&gt;
+&lt;th align="center"&gt;Best Planning Score&lt;/th&gt;
+&lt;th align="center"&gt;Best Execution Score&lt;/th&gt;
+&lt;th align="left"&gt;Key Limitation&lt;/th&gt;
+&lt;/tr&gt;
+
+		&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;td align="left"&gt;&lt;strong&gt;GPT-4.1&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="center"&gt;68.2&lt;/td&gt;
+&lt;td align="center"&gt;72.4&lt;/td&gt;
+&lt;td align="left"&gt;Hallucinated completion on complex workflows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;strong&gt;Mistral-Large&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="center"&gt;64.7&lt;/td&gt;
+&lt;td align="center"&gt;69.1&lt;/td&gt;
+&lt;td align="left"&gt;Struggled with multi-hop tool sequences&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;strong&gt;LLaMA-4 Maverick&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="center"&gt;66.0&lt;/td&gt;
+&lt;td align="center"&gt;70.8&lt;/td&gt;
+&lt;td align="left"&gt;Missed clarifying questions (fixable)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;strong&gt;LLaMA-3-70B&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="center"&gt;52.3&lt;/td&gt;
+&lt;td align="center"&gt;58.9&lt;/td&gt;
+&lt;td align="left"&gt;Collapsed under multi-agent coordination&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+	&lt;/table&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; None of the models could pass our evaluation criteria benchmark and get 85 points, which is the threshold for deployment readiness.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Distribution of Failures
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Across 881 agent execution traces, failure distribution was as follows: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ineffective Error Recovery:&lt;/strong&gt; 31.2%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Overstated Completion:&lt;/strong&gt; 23.8%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Formatting Issues:&lt;/strong&gt; 21.4%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unhandled Tool Errors:&lt;/strong&gt; 10.3%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ignored Feedback:&lt;/strong&gt; 8.0%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other:&lt;/strong&gt; 5.3%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beyond this, 185 traces had one new failure pattern and 164 had multiple novel failures.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Key Error Findings
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;"Sounds Right, Is Wrong":&lt;/strong&gt; Agents claim to have completed tasks (23.8%) and output success even after unsuccessful failure recovery (31.2%). AssetOps benchmarking is important to uncover this so that operators do not act upon incorrect information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tool Usage:&lt;/strong&gt; This is the biggest differentiator between high and low performing agents, with top agents having 94% tool accuracy compared to 61% of low performers. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-agent Multiplies Failures:&lt;/strong&gt; Task accuracy between single agent (68%) vs multi-agent (47%) shows the complexity multi-agent brings with context loss, asynchronous issues, and cascaded failures. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Domain Knowledge:&lt;/strong&gt; Agents with access to failure mode databases and maintenance manuals performed better. However, RAG knowledge wasn’t always used correctly, suggesting a need for structured reasoning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ambiguity:&lt;/strong&gt; Missing sensors, conflicting logs, and vague operator descriptions caused the success rate to drop 34%. Agents must have clarification strategies embedded.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Where to get started?
+	&lt;/span&gt;
+&lt;/h2&gt;
+
+&lt;!-- HTML_TAG_END --&gt;</description><content:encoded>&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
+
+&lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Zhou's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://huggingface.co/avatars/e2c7242c5a17937275077b1ee1394644.svg" /&gt;
+				&lt;/span&gt;
+	&lt;/span&gt;
+
+				
+			&lt;/div&gt;&lt;/div&gt;
+	&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+					
+
+					&lt;!-- HTML_TAG_START --&gt;
+&lt;strong&gt;AssetOpsBench&lt;/strong&gt; is a comprehensive benchmark and evaluation system with six qualitative dimensions that bridges the gap for agentic AI in domain-specific settings, starting with industrial Asset Lifecycle Management.
+&lt;div align="center"&gt;
+  
+    &lt;img alt="AssetOpsBench logo" src="https://cdn-uploads.huggingface.co/production/uploads/64c47f731d44fc06afc80953/1MyQgdHfeaZGtK37dbYuz.png" width="40%" /&gt;
+  
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Introduction
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;While existing AI benchmarks excel at isolated tasks such as coding or web navigation, they often fail to capture the complexity of real-world industrial operations. To bridge this gap, we introduce &lt;strong&gt;AssetOpsBench&lt;/strong&gt;, a framework specifically designed to evaluate agent performance across six critical dimensions of industrial applications. Unlike traditional benchmarks, AssetOpsBench emphasizes the need for &lt;strong&gt;multi-agent&lt;/strong&gt; coordination—moving beyond `lone wolf' models to systems that can handle complex failure modes, integrate multiple data streams, and manage intricate work orders. By focusing on these high-stakes, multi-agent dynamics, the benchmark ensures that AI agents are assessed on their ability to navigate the nuances and safety-critical demands of a true industrial environment.&lt;/p&gt;
+&lt;p&gt;AssetOpsBench is built for asset operations such as chillers and air handling units. It comprises:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2.3M&lt;/strong&gt; sensor telemetry points&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;140+&lt;/strong&gt; curated scenarios across 4 agents&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4.2K&lt;/strong&gt; work orders for diverse scenarios&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;53&lt;/strong&gt; structured failure modes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Experts helped curate &lt;strong&gt;150+&lt;/strong&gt; scenarios. Each scenario includes metadata: task type, output format, category, and sub-agents. The tasks designed span across:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Anomaly detection&lt;/strong&gt; in sensor streams&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Failure mode reasoning&lt;/strong&gt; and diagnostics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KPI forecasting&lt;/strong&gt; and analysis  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Work order&lt;/strong&gt; summarization and prioritization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Evaluation Framework and Overall Feedback
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;AssetOpsBench evaluates agentic systems across six qualitative dimensions designed to reflect real operational constraints in industrial asset management. Rather than optimizing for a single success metric, the benchmark emphasizes decision trace quality, evidence grounding, failure awareness, and actionability under incomplete and noisy data.&lt;/p&gt;
+&lt;p&gt;Each agent run is scored across six criteria:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Task Completion&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Retrieval Accuracy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Result Verification&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sequence Correctness&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clarity and Justification&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hallucination rate&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Across early evaluations, we observe that many general-purpose agents perform well on surface-level reasoning but struggle with sustained multi-step coordination involving work orders, failure semantics, and temporal dependencies. Agents that explicitly model operational context and uncertainty tend to produce more stable and interpretable trajectories, even when final task completion is partial.&lt;/p&gt;
+&lt;p&gt;This feedback-oriented evaluation is intentional: in industrial settings, understanding why an agent fails is often more valuable than a binary success signal.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Failure Modes in Industrial Agentic Workflows
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;A central contribution of AssetOpsBench is the explicit treatment of &lt;strong&gt;failure modes&lt;/strong&gt; as first-class evaluation signals in agentic industrial workflows. Rather than treating failure as a binary outcome, AssetOpsBench analyzes full multi-agent execution trajectories to identify &lt;em&gt;where&lt;/em&gt;, &lt;em&gt;how&lt;/em&gt;, and &lt;em&gt;why&lt;/em&gt; agent behavior breaks down under realistic operational constraints.&lt;/p&gt;
+&lt;p&gt;Failure analysis in AssetOpsBench is implemented through a dedicated trajectory-level pipeline (&lt;strong&gt;TrajFM&lt;/strong&gt;), which combines LLM-based reasoning with statistical clustering to surface interpretable failure patterns from agent execution traces. This pipeline operates in three stages: (1) trajectory-level failure extraction using an LLM-guided diagnostic prompt, (2) embedding-based clustering to group recurring failure patterns, and (3) analysis and visualization to support developer feedback and iteration.&lt;/p&gt;
+&lt;p&gt;Across industrial scenarios, recurrent failure modes include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Misalignment between sensor telemetry, alerts, and historical work orders  &lt;/li&gt;
+&lt;li&gt;Overconfident conclusions drawn under missing, delayed, or insufficient evidence  &lt;/li&gt;
+&lt;li&gt;Inconsistent aggregation of heterogeneous data modalities across agents  &lt;/li&gt;
+&lt;li&gt;Premature action selection without adequate verification or validation steps  &lt;/li&gt;
+&lt;li&gt;Breakdowns in multi-agent coordination, such as ignored inputs or action–reasoning mismatches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Importantly, AssetOpsBench does not rely solely on a fixed, hand-crafted failure taxonomy. While a structured set of predefined failure categories (e.g., verification errors, step repetition, role violations) is used for consistency, the system is explicitly designed to &lt;strong&gt;discover new failure patterns&lt;/strong&gt; that emerge in practice. Additional failure modes identified by the LLM are embedded and clustered automatically, allowing the taxonomy to evolve as new agent designs and behaviors are evaluated.&lt;/p&gt;
+&lt;p&gt;To preserve industrial confidentiality, raw execution traces are never exposed. Instead, agents receive aggregated scores across six evaluation dimensions together with clustered failure-mode summaries that explain &lt;em&gt;why&lt;/em&gt; an agent failed, without revealing sensitive data or intermediate reasoning steps. This feedback-driven design enables developers to diagnose weaknesses, refine agent workflows, and iteratively resubmit improved agents.&lt;/p&gt;
+&lt;p&gt;This failure-aware evaluation reflects the realities of industrial asset management, where cautious, degradation-aware reasoning—and the ability to recognize uncertainty, defer action, or escalate appropriately—is often preferable to aggressive but brittle automation.&lt;/p&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Submit an Agent for Evaluation
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;AssetOpsBench-Live is designed as an open, competition-ready benchmark, and we welcome submissions of agent implementations from the community. Agents are evaluated in a controlled, privacy-preserving environment that reflects real industrial asset management constraints.&lt;/p&gt;
+&lt;p&gt;To submit an agent, developers first validate their implementation locally using a provided simulated environment, which includes representative sensor data, work orders, alerts, and failure-mode catalogs. Agents are then containerized and submitted for remote execution on hidden evaluation scenarios.&lt;/p&gt;
+&lt;p&gt;Submitted agents are evaluated across six qualitative dimensions—task completion, accuracy, result verification, action sequencing, clarity, and hallucination—using a consistent, reproducible evaluation protocol. Execution traces are not exposed; instead, participants receive aggregated scores and structured failure-mode feedback that highlights where and why an agent’s reasoning or coordination broke down.&lt;/p&gt;
+&lt;p&gt;This feedback-driven evaluation loop enables iterative improvement: developers can diagnose failure patterns, refine agent design or workflow structure, and resubmit updated agents for further evaluation. Both planning-focused and execution-focused agents are supported, allowing researchers and practitioners to explore diverse agentic designs within the same benchmark framework.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Experiment and Observations
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;We performed a community evaluation where we tested two tracks: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Planning-oriented&lt;/strong&gt; multi-agent orchestration &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Execution-oriented&lt;/strong&gt; dynamic multi-agent workflow.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Across 225 users and 300+ agents and leading open source models, here are the observations:&lt;/p&gt;
+&lt;div class="max-w-full overflow-auto"&gt;
+	&lt;table&gt;
+		&lt;thead&gt;&lt;tr&gt;
+&lt;th align="left"&gt;Model Family&lt;/th&gt;
+&lt;th align="center"&gt;Best Planning Score&lt;/th&gt;
+&lt;th align="center"&gt;Best Execution Score&lt;/th&gt;
+&lt;th align="left"&gt;Key Limitation&lt;/th&gt;
+&lt;/tr&gt;
+
+		&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;td align="left"&gt;&lt;strong&gt;GPT-4.1&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="center"&gt;68.2&lt;/td&gt;
+&lt;td align="center"&gt;72.4&lt;/td&gt;
+&lt;td align="left"&gt;Hallucinated completion on complex workflows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;strong&gt;Mistral-Large&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="center"&gt;64.7&lt;/td&gt;
+&lt;td align="center"&gt;69.1&lt;/td&gt;
+&lt;td align="left"&gt;Struggled with multi-hop tool sequences&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;strong&gt;LLaMA-4 Maverick&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="center"&gt;66.0&lt;/td&gt;
+&lt;td align="center"&gt;70.8&lt;/td&gt;
+&lt;td align="left"&gt;Missed clarifying questions (fixable)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;strong&gt;LLaMA-3-70B&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="center"&gt;52.3&lt;/td&gt;
+&lt;td align="center"&gt;58.9&lt;/td&gt;
+&lt;td align="left"&gt;Collapsed under multi-agent coordination&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+	&lt;/table&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; None of the models could pass our evaluation criteria benchmark and get 85 points, which is the threshold for deployment readiness.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Distribution of Failures
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Across 881 agent execution traces, failure distribution was as follows: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ineffective Error Recovery:&lt;/strong&gt; 31.2%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Overstated Completion:&lt;/strong&gt; 23.8%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Formatting Issues:&lt;/strong&gt; 21.4%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unhandled Tool Errors:&lt;/strong&gt; 10.3%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ignored Feedback:&lt;/strong&gt; 8.0%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other:&lt;/strong&gt; 5.3%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beyond this, 185 traces had one new failure pattern and 164 had multiple novel failures.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Key Error Findings
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;"Sounds Right, Is Wrong":&lt;/strong&gt; Agents claim to have completed tasks (23.8%) and output success even after unsuccessful failure recovery (31.2%). AssetOps benchmarking is important to uncover this so that operators do not act upon incorrect information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tool Usage:&lt;/strong&gt; This is the biggest differentiator between high and low performing agents, with top agents having 94% tool accuracy compared to 61% of low performers. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-agent Multiplies Failures:&lt;/strong&gt; Task accuracy between single agent (68%) vs multi-agent (47%) shows the complexity multi-agent brings with context loss, asynchronous issues, and cascaded failures. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Domain Knowledge:&lt;/strong&gt; Agents with access to failure mode databases and maintenance manuals performed better. However, RAG knowledge wasn’t always used correctly, suggesting a need for structured reasoning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ambiguity:&lt;/strong&gt; Missing sensors, conflicting logs, and vague operator descriptions caused the success rate to drop 34%. Agents must have clarification strategies embedded.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-center"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Where to get started?
+	&lt;/span&gt;
+&lt;/h2&gt;
+
+&lt;!-- HTML_TAG_END --&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face</guid><pubDate>Wed, 21 Jan 2026 06:25:31 +0000</pubDate></item></channel></rss>
