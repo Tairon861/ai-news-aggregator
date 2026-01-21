@@ -1,141 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 21 Jan 2026 06:40:26 +0000</lastBuildDate><item><title>Why it’s critical to move beyond overly aggregated machine-learning metrics (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202601/mit-lids-Ghassemi.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;MIT researchers have identified significant examples of machine-learning model failure when those models are applied to data other than what they were trained on, raising questions about the need to test whenever a model is deployed in a new setting.&lt;/p&gt;&lt;p&gt;“We demonstrate that even when you train models on large amounts of data, and choose the best average model, in a new setting this ‘best model’ could be the worst model for 6-75 percent of the new data,” says Marzyeh Ghassemi, an associate professor in MIT’s Department of Electrical Engineering and Computer Science (EECS), a member of the Institute for Medical Engineering and Science, and principal investigator at the Laboratory for Information and Decision Systems.&lt;/p&gt;&lt;p&gt;In a paper that was presented at the Neural Information Processing Systems (NeurIPS 2025) conference in December, the researchers point out that models trained to effectively diagnose illness in chest X-rays at one hospital, for example, may be considered effective in a different hospital, on average. The researchers’ performance assessment, however, revealed that some of the best-performing models at the first hospital were the worst-performing on up to 75 percent of patients at the second hospital, even though when all patients are aggregated in the second hospital, high average performance hides this failure.&lt;/p&gt;&lt;p&gt;Their findings demonstrate that although spurious correlations — a simple example of which is when a machine-learning system, not having “seen” many cows pictured at the beach, classifies a photo of a beach-going cow as an orca simply because of its background — are thought to be mitigated by just improving model performance on observed data, they actually still occur and remain a risk to a model’s trustworthiness in new settings. In many instances — including areas examined by the researchers such as chest X-rays, cancer histopathology images, and hate speech detection — such spurious correlations are much harder to detect.&lt;/p&gt;&lt;p&gt;In the case of a medical diagnosis model trained on chest X-rays, for example, the model may have learned to correlate a specific and irrelevant marking on one hospital’s X-rays with a certain pathology. At another hospital where the marking is not used, that pathology could be missed.&lt;/p&gt;&lt;p&gt;Previous research by Ghassemi’s group has shown that models can spuriously correlate such factors as age, gender, and race with medical findings. If, for instance, a model has been trained on more older people’s chest X-rays that have pneumonia and hasn’t “seen” as many X-rays belonging to younger people, it might predict that only older patients have pneumonia.&lt;/p&gt;&lt;p&gt;“We want models to learn how to look at the anatomical features of the patient and then make a decision based on that,” says Olawale Salaudeen, an MIT postdoc and the lead author of the paper, “but really anything that’s in the data that’s correlated with a decision can be used by the model. And those correlations might not actually be robust with changes in the environment, making the model predictions unreliable sources of decision-making.”&lt;/p&gt;&lt;p&gt;Spurious correlations contribute to the risks of biased decision-making. In the NeurIPS conference paper, the researchers showed that, for example, chest X-ray models that improved overall diagnosis performance actually performed worse on patients with pleural conditions or enlarged cardiomediastinum, meaning enlargement of the heart or central chest cavity.&lt;/p&gt;&lt;p&gt;Other authors of the paper included PhD students Haoran Zhang and Kumail Alhamoud, EECS Assistant Professor Sara Beery, and Ghassemi.&lt;/p&gt;&lt;p&gt;While previous work has generally accepted that models ordered best-to-worst by performance will preserve that order when applied in new settings, called accuracy-on-the-line, the researchers were able to demonstrate examples of when the best-performing models in one setting were the worst-performing in another.&lt;/p&gt;&lt;p&gt;Salaudeen devised an algorithm called OODSelect to find examples where accuracy-on-the-line was broken. Basically, he trained thousands of models using in-distribution data, meaning the data were from the first setting, and calculated their accuracy. Then he applied the models to the data from the second setting. When those with the highest accuracy on the first-setting data were wrong when applied to a large percentage of examples in the second setting, this identified the problem subsets, or sub-populations. Salaudeen also emphasizes the dangers of aggregate statistics for evaluation, which can obscure more granular and consequential information about model performance.&lt;/p&gt;&lt;p&gt;In the course of their work, the researchers separated out the “most miscalculated examples” so as not to conflate spurious correlations within a dataset with situations that are simply difficult to classify.&lt;/p&gt;&lt;p&gt;The NeurIPS paper releases the researchers’ code and some identified subsets for future work.&lt;/p&gt;&lt;p&gt;Once a hospital, or any organization employing machine learning, identifies subsets on which a model is performing poorly, that information can be used to improve the model for its particular task and setting. The researchers recommend that future work adopt OODSelect in order to highlight targets for evaluation and design approaches to improving performance more consistently.&lt;/p&gt;&lt;p&gt;“We hope the released code and OODSelect subsets become a steppingstone,” the researchers write, “toward benchmarks and models that confront the adverse effects of spurious correlations.”&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202601/mit-lids-Ghassemi.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;MIT researchers have identified significant examples of machine-learning model failure when those models are applied to data other than what they were trained on, raising questions about the need to test whenever a model is deployed in a new setting.&lt;/p&gt;&lt;p&gt;“We demonstrate that even when you train models on large amounts of data, and choose the best average model, in a new setting this ‘best model’ could be the worst model for 6-75 percent of the new data,” says Marzyeh Ghassemi, an associate professor in MIT’s Department of Electrical Engineering and Computer Science (EECS), a member of the Institute for Medical Engineering and Science, and principal investigator at the Laboratory for Information and Decision Systems.&lt;/p&gt;&lt;p&gt;In a paper that was presented at the Neural Information Processing Systems (NeurIPS 2025) conference in December, the researchers point out that models trained to effectively diagnose illness in chest X-rays at one hospital, for example, may be considered effective in a different hospital, on average. The researchers’ performance assessment, however, revealed that some of the best-performing models at the first hospital were the worst-performing on up to 75 percent of patients at the second hospital, even though when all patients are aggregated in the second hospital, high average performance hides this failure.&lt;/p&gt;&lt;p&gt;Their findings demonstrate that although spurious correlations — a simple example of which is when a machine-learning system, not having “seen” many cows pictured at the beach, classifies a photo of a beach-going cow as an orca simply because of its background — are thought to be mitigated by just improving model performance on observed data, they actually still occur and remain a risk to a model’s trustworthiness in new settings. In many instances — including areas examined by the researchers such as chest X-rays, cancer histopathology images, and hate speech detection — such spurious correlations are much harder to detect.&lt;/p&gt;&lt;p&gt;In the case of a medical diagnosis model trained on chest X-rays, for example, the model may have learned to correlate a specific and irrelevant marking on one hospital’s X-rays with a certain pathology. At another hospital where the marking is not used, that pathology could be missed.&lt;/p&gt;&lt;p&gt;Previous research by Ghassemi’s group has shown that models can spuriously correlate such factors as age, gender, and race with medical findings. If, for instance, a model has been trained on more older people’s chest X-rays that have pneumonia and hasn’t “seen” as many X-rays belonging to younger people, it might predict that only older patients have pneumonia.&lt;/p&gt;&lt;p&gt;“We want models to learn how to look at the anatomical features of the patient and then make a decision based on that,” says Olawale Salaudeen, an MIT postdoc and the lead author of the paper, “but really anything that’s in the data that’s correlated with a decision can be used by the model. And those correlations might not actually be robust with changes in the environment, making the model predictions unreliable sources of decision-making.”&lt;/p&gt;&lt;p&gt;Spurious correlations contribute to the risks of biased decision-making. In the NeurIPS conference paper, the researchers showed that, for example, chest X-ray models that improved overall diagnosis performance actually performed worse on patients with pleural conditions or enlarged cardiomediastinum, meaning enlargement of the heart or central chest cavity.&lt;/p&gt;&lt;p&gt;Other authors of the paper included PhD students Haoran Zhang and Kumail Alhamoud, EECS Assistant Professor Sara Beery, and Ghassemi.&lt;/p&gt;&lt;p&gt;While previous work has generally accepted that models ordered best-to-worst by performance will preserve that order when applied in new settings, called accuracy-on-the-line, the researchers were able to demonstrate examples of when the best-performing models in one setting were the worst-performing in another.&lt;/p&gt;&lt;p&gt;Salaudeen devised an algorithm called OODSelect to find examples where accuracy-on-the-line was broken. Basically, he trained thousands of models using in-distribution data, meaning the data were from the first setting, and calculated their accuracy. Then he applied the models to the data from the second setting. When those with the highest accuracy on the first-setting data were wrong when applied to a large percentage of examples in the second setting, this identified the problem subsets, or sub-populations. Salaudeen also emphasizes the dangers of aggregate statistics for evaluation, which can obscure more granular and consequential information about model performance.&lt;/p&gt;&lt;p&gt;In the course of their work, the researchers separated out the “most miscalculated examples” so as not to conflate spurious correlations within a dataset with situations that are simply difficult to classify.&lt;/p&gt;&lt;p&gt;The NeurIPS paper releases the researchers’ code and some identified subsets for future work.&lt;/p&gt;&lt;p&gt;Once a hospital, or any organization employing machine learning, identifies subsets on which a model is performing poorly, that information can be used to improve the model for its particular task and setting. The researchers recommend that future work adopt OODSelect in order to highlight targets for evaluation and design approaches to improving performance more consistently.&lt;/p&gt;&lt;p&gt;“We hope the released code and OODSelect subsets become a steppingstone,” the researchers write, “toward benchmarks and models that confront the adverse effects of spurious correlations.”&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120</guid><pubDate>Tue, 20 Jan 2026 21:30:00 +0000</pubDate></item><item><title>Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/tesla-phone-app.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk said over the long weekend that Tesla aims to restart work on Dojo3, the electric vehicle company’s previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The move comes five months after Tesla effectively shut down its Dojo effort. The company disbanded the team behind its Dojo supercomputer following the departure of Dojo lead Peter Bannon. Around 20 Dojo workers also left to join DensityAI, a new AI infrastructure startup founded by former Dojo head Ganesh Venkataramanan and ex-Tesla employees Bill Chang and Ben Floering.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At the time of Dojo’s shutdown, Bloomberg reported Tesla planned to increase its reliance on Nvidia and other partners like AMD for compute and Samsung for chip manufacturing, rather than continue developing its own custom silicon. Musk’s latest comments suggest the strategy has shifted again.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The billionaire executive and Republican megadonor said in a post on X the decision to revive Dojo was based on the state of its in-house chip roadmap, noting that Tesla’s AI5 chip design was “in good shape.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Tesla’s AI5 chip, made by TSMC, was designed to power the automaker’s automated driving features and Optimus humanoid robots. Last summer, Tesla signed a $16.5 billion deal with Samsung to build its AI6 chips that promise to power Tesla vehicles and Optimus, as well as enable high-performance AI training in data centers.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“AI7/Dojo3 will be for space-based AI compute,” Musk said on Sunday, positioning the resurrected project as more of a moonshot.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To achieve that, Tesla is now gearing up to rebuild the team it dismantled months ago. Musk used the same post to recruit engineers directly, writing:&amp;nbsp;“If you’re interested in working on what will be the highest volume chips in the world, send a note to AI_Chips@Tesla.com with 3 bullet points on the toughest technical problems you’ve solved.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The timing of the announcement is notable. At CES 2026, Nvidia unveiled Alpamayo, an open source AI model for autonomous driving that directly challenges Tesla’s FSD software. Musk commented on X that solving the long tail of rare edge cases in driving is “super hard,” adding: “I honestly hope they succeed.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Musk and several other AI executives have argued the future of data centers may lie off-planet, since Earth’s power grids are already strained to the max. Axios recently reported Musk rival and OpenAI CEO Sam Altman is also excited by the prospect of putting data centers into orbit. Musk has an edge over his peers because he already controls the launch vehicles.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Per Axios, Musk plans to use SpaceX’s upcoming IPO to help finance his vision of using Starship to launch a constellation of compute satellites that can operate in constant sunlight, harvesting solar power 24/7.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Still, there are many roadblocks to making AI data centers in space a possibility, not least the challenge of cooling high-power compute in a vacuum. Musk’s comments of Tesla building “space-based AI compute” fit a familiar pattern: float an idea that sounds far-fetched, then try to brute-force it into reality.&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/04/tesla-phone-app.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk said over the long weekend that Tesla aims to restart work on Dojo3, the electric vehicle company’s previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The move comes five months after Tesla effectively shut down its Dojo effort. The company disbanded the team behind its Dojo supercomputer following the departure of Dojo lead Peter Bannon. Around 20 Dojo workers also left to join DensityAI, a new AI infrastructure startup founded by former Dojo head Ganesh Venkataramanan and ex-Tesla employees Bill Chang and Ben Floering.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At the time of Dojo’s shutdown, Bloomberg reported Tesla planned to increase its reliance on Nvidia and other partners like AMD for compute and Samsung for chip manufacturing, rather than continue developing its own custom silicon. Musk’s latest comments suggest the strategy has shifted again.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The billionaire executive and Republican megadonor said in a post on X the decision to revive Dojo was based on the state of its in-house chip roadmap, noting that Tesla’s AI5 chip design was “in good shape.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Tesla’s AI5 chip, made by TSMC, was designed to power the automaker’s automated driving features and Optimus humanoid robots. Last summer, Tesla signed a $16.5 billion deal with Samsung to build its AI6 chips that promise to power Tesla vehicles and Optimus, as well as enable high-performance AI training in data centers.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“AI7/Dojo3 will be for space-based AI compute,” Musk said on Sunday, positioning the resurrected project as more of a moonshot.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To achieve that, Tesla is now gearing up to rebuild the team it dismantled months ago. Musk used the same post to recruit engineers directly, writing:&amp;nbsp;“If you’re interested in working on what will be the highest volume chips in the world, send a note to AI_Chips@Tesla.com with 3 bullet points on the toughest technical problems you’ve solved.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The timing of the announcement is notable. At CES 2026, Nvidia unveiled Alpamayo, an open source AI model for autonomous driving that directly challenges Tesla’s FSD software. Musk commented on X that solving the long tail of rare edge cases in driving is “super hard,” adding: “I honestly hope they succeed.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Musk and several other AI executives have argued the future of data centers may lie off-planet, since Earth’s power grids are already strained to the max. Axios recently reported Musk rival and OpenAI CEO Sam Altman is also excited by the prospect of putting data centers into orbit. Musk has an edge over his peers because he already controls the launch vehicles.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Per Axios, Musk plans to use SpaceX’s upcoming IPO to help finance his vision of using Starship to launch a constellation of compute satellites that can operate in constant sunlight, harvesting solar power 24/7.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Still, there are many roadblocks to making AI data centers in space a possibility, not least the challenge of cooling high-power compute in a vacuum. Musk’s comments of Tesla building “space-based AI compute” fit a familiar pattern: float an idea that sounds far-fetched, then try to brute-force it into reality.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/</guid><pubDate>Tue, 20 Jan 2026 22:10:41 +0000</pubDate></item><item><title>In an effort to protect young users, ChatGPT will now predict how old you are (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;As concern for AI’s impact on young people continues to mount, OpenAI has introduced an “age prediction” feature into ChatGPT that is designed to help identify minors and put sensible content constraints on their conversations.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI has been heavily criticized in recent years for the impacts that ChatGPT can have on children. A number of teen suicides have been linked to the chatbot, and, like other AI vendors, OpenAI has also been criticized for allowing ChatGPT to discuss sexual topics with young users. Last April, the company was forced to address a bug that allowed its chatbot to generate erotica for users who were under the age of 18.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company has already been working on its underage user problem for some time, and its new “age prediction” feature merely adds to protections already in place. The new feature leverages an AI algorithm that assesses user accounts for particular “behavioral and account-level signals,” in an effort to identify young users, OpenAI said in a blog post Tuesday.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Those “signals” include things like the user’s stated age, the length of time an account has existed, and the times of day that the account is usually active, the company said. The company already has content filters designed to weed out discussions of sex, violence, and other potentially problematic topics for users who are under age 18. If the age prediction mechanism identifies an account as under 18, those filters are automatically applied.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If a user is mistakenly designated as underage, there is a way for them to reestablish their “adult” account. They can submit a selfie to OpenAI’s ID verification partner Persona, OpenAI says.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;As concern for AI’s impact on young people continues to mount, OpenAI has introduced an “age prediction” feature into ChatGPT that is designed to help identify minors and put sensible content constraints on their conversations.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI has been heavily criticized in recent years for the impacts that ChatGPT can have on children. A number of teen suicides have been linked to the chatbot, and, like other AI vendors, OpenAI has also been criticized for allowing ChatGPT to discuss sexual topics with young users. Last April, the company was forced to address a bug that allowed its chatbot to generate erotica for users who were under the age of 18.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company has already been working on its underage user problem for some time, and its new “age prediction” feature merely adds to protections already in place. The new feature leverages an AI algorithm that assesses user accounts for particular “behavioral and account-level signals,” in an effort to identify young users, OpenAI said in a blog post Tuesday.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Those “signals” include things like the user’s stated age, the length of time an account has existed, and the times of day that the account is usually active, the company said. The company already has content filters designed to weed out discussions of sex, violence, and other potentially problematic topics for users who are under age 18. If the age prediction mechanism identifies an account as under 18, those filters are automatically applied.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If a user is mistakenly designated as underage, there is a way for them to reestablish their “adult” account. They can submit a selfie to OpenAI’s ID verification partner Persona, OpenAI says.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/</guid><pubDate>Tue, 20 Jan 2026 23:29:56 +0000</pubDate></item><item><title>Anthropic’s CEO stuns Davos with Nvidia criticism (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last week, after reversing an earlier ban, the U.S. administration officially approved the sale of Nvidia’s H200 chips, along with a chip line by AMD, to approved Chinese customers. Maybe they aren’t these chipmakers’ shiniest, most advanced chips, but they’re high-performance processors used for AI, making the export controversial. And at the World Economic Forum in Davos on Tuesday, Anthropic CEO Dario Amodei unloaded on both the administration and the chip companies over the decision.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 21 Jan 2026 12:55:58 +0000</lastBuildDate><item><title>Anthropic’s CEO stuns Davos with Nvidia criticism (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last week, after reversing an earlier ban, the U.S. administration officially approved the sale of Nvidia’s H200 chips, along with a chip line by AMD, to approved Chinese customers. Maybe they aren’t these chipmakers’ shiniest, most advanced chips, but they’re high-performance processors used for AI, making the export controversial. And at the World Economic Forum in Davos on Tuesday, Anthropic CEO Dario Amodei unloaded on both the administration and the chip companies over the decision.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The criticism was particularly notable because one of those chipmakers, Nvidia, is a major partner and investor in Anthropic.&lt;/p&gt;
 
@@ -229,7 +93,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;But what’s perhaps most remarkable is that Amodei could sit onstage at Davos, drop a bomb like that, and walk away to some other gathering without fear that he just adversely impacted his business. News cycles move on, sure. Anthropic is also on solid footing right now. But it does feel that the AI race has grown so existential in the minds of its leaders that the usual constraints — investor relations, strategic partnerships, diplomatic niceties — don’t apply anymore. Amodei isn’t concerned about what he can and can’t say. More than anything else he said on that stage, that fearlessness is worth paying attention to.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</guid><pubDate>Wed, 21 Jan 2026 01:39:58 +0000</pubDate></item><item><title>[NEW] Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Industry reports and the growth of voice model companies in the Indian market suggest that there is a growing demand for voice AI solutions in the country. Voice is a popular medium for communication among people and businesses in India. That’s why enterprises and startups are eager to use voice AI to be more efficient at customer support, sales, customer acquisition, hiring, and training.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;But what’s perhaps most remarkable is that Amodei could sit onstage at Davos, drop a bomb like that, and walk away to some other gathering without fear that he just adversely impacted his business. News cycles move on, sure. Anthropic is also on solid footing right now. But it does feel that the AI race has grown so existential in the minds of its leaders that the usual constraints — investor relations, strategic partnerships, diplomatic niceties — don’t apply anymore. Amodei isn’t concerned about what he can and can’t say. More than anything else he said on that stage, that fearlessness is worth paying attention to.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/</guid><pubDate>Wed, 21 Jan 2026 01:39:58 +0000</pubDate></item><item><title>Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Industry reports and the growth of voice model companies in the Indian market suggest that there is a growing demand for voice AI solutions in the country. Voice is a popular medium for communication among people and businesses in India. That’s why enterprises and startups are eager to use voice AI to be more efficient at customer support, sales, customer acquisition, hiring, and training.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;But recognizing market demand is one thing — proving businesses will pay is another. Y Combinator rejected the application from Bolna, a voice orchestration startup built by Maitreya Wagh and Prateek Sachan, five times before finally accepting it into the fall 2025 batch, skeptical that the founders could turn interest into revenue.&lt;/p&gt;
 
@@ -347,7 +211,19 @@
 
 &lt;p class="wp-block-paragraph"&gt;Akarsh Shrivastava, who is part of the investment team at General Catalyst, said that the firm found Bolna impressive because its orchestration layer is flexible for various kinds of customers.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Bolna allows you the freedom to choose any model and has a stack behind it to mold it according to your requirement. It’s a good option for people who want to own some part of the stack, want flexibility in model picking, and want to be able to maintain those products themselves,” Shrivastava told TechCrunch over a call.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/</guid><pubDate>Wed, 21 Jan 2026 02:00:00 +0000</pubDate></item><item><title>[NEW] AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality (Hugging Face - Blog)</title><link>https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face</link><description>&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
+&lt;p class="wp-block-paragraph"&gt;“Bolna allows you the freedom to choose any model and has a stack behind it to mold it according to your requirement. It’s a good option for people who want to own some part of the stack, want flexibility in model picking, and want to be able to maintain those products themselves,” Shrivastava told TechCrunch over a call.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/</guid><pubDate>Wed, 21 Jan 2026 02:00:00 +0000</pubDate></item><item><title>AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality (Hugging Face - Blog)</title><link>https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face</link><description>&lt;div class="not-prose mb-6 font-sans lg:hidden"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="flex flex-wrap items-center gap-2.5 pt-1  z-1 lg:sticky lg:top-8"&gt;
+	
+
+
+	&lt;ul class="flex items-center  flex-row  text-base   "&gt;&lt;li class=" -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800" title="DhavalPatel"&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/UT2mHX2WuCm5Ws4rGKyCB.png" /&gt;
+					
+			&lt;/li&gt;
+
+		&lt;li class="text-xs text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300 order-last ml-3"&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+&lt;dialog class="shadow-alternate z-40 mx-4 my-auto h-fit select-text overflow-hidden rounded-xl bg-white max-sm:max-w-[calc(100dvw-2rem)] sm:mx-auto lg:mt-26 md:portrait:mt-30 xl:mt-30 2xl:mt-32 w-full sm:w-96 max-w-[calc(100%-4rem)] text-base not-prose"&gt;
+	&lt;/dialog&gt;&lt;/div&gt;&lt;/div&gt;
+					&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
 
 &lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Zhou's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://huggingface.co/avatars/e2c7242c5a17937275077b1ee1394644.svg" /&gt;
 				&lt;/span&gt;
@@ -544,7 +420,19 @@
 	&lt;/span&gt;
 &lt;/h2&gt;
 
-&lt;!-- HTML_TAG_END --&gt;</description><content:encoded>&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
+&lt;!-- HTML_TAG_END --&gt;</description><content:encoded>&lt;div class="not-prose mb-6 font-sans lg:hidden"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="flex flex-wrap items-center gap-2.5 pt-1  z-1 lg:sticky lg:top-8"&gt;
+	
+
+
+	&lt;ul class="flex items-center  flex-row  text-base   "&gt;&lt;li class=" -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800" title="DhavalPatel"&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/UT2mHX2WuCm5Ws4rGKyCB.png" /&gt;
+					
+			&lt;/li&gt;
+
+		&lt;li class="text-xs text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300 order-last ml-3"&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+&lt;dialog class="shadow-alternate z-40 mx-4 my-auto h-fit select-text overflow-hidden rounded-xl bg-white max-sm:max-w-[calc(100dvw-2rem)] sm:mx-auto lg:mt-26 md:portrait:mt-30 xl:mt-30 2xl:mt-32 w-full sm:w-96 max-w-[calc(100%-4rem)] text-base not-prose"&gt;
+	&lt;/dialog&gt;&lt;/div&gt;&lt;/div&gt;
+					&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
 
 &lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Zhou's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://huggingface.co/avatars/e2c7242c5a17937275077b1ee1394644.svg" /&gt;
 				&lt;/span&gt;
@@ -741,4 +629,534 @@
 	&lt;/span&gt;
 &lt;/h2&gt;
 
-&lt;!-- HTML_TAG_END --&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face</guid><pubDate>Wed, 21 Jan 2026 06:25:31 +0000</pubDate></item></channel></rss>
+&lt;!-- HTML_TAG_END --&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face</guid><pubDate>Wed, 21 Jan 2026 06:25:31 +0000</pubDate></item><item><title>[NEW] The quiet work behind Citi’s 4,000-person internal AI rollout (AI News)</title><link>https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/</link><description>&lt;p&gt;For many large companies, artificial intelligence still lives in side projects. Small teams test tools, run pilots, and present results that struggle to spread beyond a few departments. Citi has taken a different path, where instead of keeping AI limited to specialists, the bank has spent the past two years pushing the technology into daily work in the organisation.&lt;/p&gt;&lt;p&gt;That effort has resulted in an internal AI workforce of roughly 4,000 employees, drawn from roles that range from technology and operations to risk and customer support. The figure was first reported by &lt;em&gt;Business Insider&lt;/em&gt;, which detailed how Citi built its “AI Champions” and “AI Accelerators” programmes to encourage participation not central control.&lt;/p&gt;&lt;p&gt;The scale of integration is notable, as Citi employs around 182,000 people globally, and more than 70% of them now use firm-approved AI tools in some form, according to the same report. That level of use places Citi ahead of many peers that still restrict AI access to technical teams or innovation labs.&lt;/p&gt;&lt;h3&gt;From central pilots to team-level adoption&lt;/h3&gt;&lt;p&gt;Rather than start with tools, Citi focused on people. The bank invited employees to volunteer as AI Champions, giving them access to training, internal resources, and early versions of approved AI systems. The employees then supported colleagues in their own teams, acting as local points of contact not formal trainers.&lt;/p&gt;&lt;p&gt;The approach reflects a practical view of adoption. New tools often fail not because they lack features, but because staff do not know when or how to use them. By embedding support inside teams, Citi reduced the gap between experimentation and routine work.&lt;/p&gt;&lt;p&gt;Training played a central role. Employees could earn internal badges by completing courses or demonstrating how they used AI to improve their own tasks. The badges did not come with promotions or pay rises, but they helped create visibility and credibility in the organisation. According to &lt;em&gt;Business Insider&lt;/em&gt;, this peer-driven model helped AI spread faster than top-down mandates.&lt;/p&gt;&lt;h3&gt;Everyday use, with guardrails&lt;/h3&gt;&lt;p&gt;Citi’s leadership has framed the effort as a response to scale not novelty. With operations spanning retail banking, investment services, compliance, and customer support, small efficiency gains can add up quickly. AI tools are being used to summarise documents, draft internal notes, analyse data sets, and assist with software development. None of these uses are new on their own, but the difference lies in how they are applied.&lt;/p&gt;&lt;p&gt;The focus on everyday tasks also shapes Citi’s risk posture. The bank has limited employees to firm-approved tools, with guardrails around what data can be used and how outputs are handled. That constraint has slowed some experiments, but it has also made managers more comfortable allowing broader access. In regulated industries, trust often matters more than speed.&lt;/p&gt;&lt;h3&gt;What Citi’s approach shows about scaling AI&lt;/h3&gt;&lt;p&gt;The structure of Citi’s programme suggests a lesson for other large enterprises. AI adoption does not require every employee to become an expert. It requires enough people to understand the tools well enough to apply them responsibly and explain them to others. By training thousands instead of dozens, Citi reduced its reliance on a small group of specialists.&lt;/p&gt;&lt;p&gt;There is also a cultural signal at play. Encouraging employees from non-technical roles to participate sends a message that AI is not only for engineers or data scientists. It becomes part of how work gets done, similar to spreadsheets or presentation software in earlier decades.&lt;/p&gt;&lt;p&gt;That shift aligns with broader industry trends. Surveys from firms like McKinsey have shown that many companies struggle to move AI projects into production, often citing talent gaps and unclear ownership. Citi’s model sidesteps some of those issues by distributing ownership in teams, while keeping governance centralised.&lt;/p&gt;&lt;p&gt;Still, the approach is not without limits. Peer-led adoption depends on sustained interest, and not all teams move at the same pace. There is also the risk that informal support networks become uneven, with some groups benefiting more than others. Citi has tried to address this by rotating Champions and updating training content as tools change.&lt;/p&gt;&lt;p&gt;What stands out is the bank’s willingness to treat AI as infrastructure not innovation. Instead of asking whether AI could transform the business, Citi asked where it could remove friction from existing work. That framing makes progress easier to measure and reduces pressure to produce dramatic results.&lt;/p&gt;&lt;p&gt;The experience also challenges a common assumption that AI adoption must start at the top. Citi’s senior leadership supported the effort, but much of the momentum came from employees who volunteered time to learn and teach. In large organisations, that bottom-up energy can be hard to generate, yet it often determines whether new technology sticks.&lt;/p&gt;&lt;p&gt;As more companies move from pilots to production, Citi’s experiment offers a useful case study. It shows that scale does not come from buying more tools, but from helping people feel confident using the ones they already have. For enterprises wondering why AI progress feels slow, the answer may lie less in strategy decks and more in how work actually gets done, one team at a time.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Declan Sun)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: JPMorgan Chase treats AI spending as core infrastructure&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-111182" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/12/image-2.png" width="728" /&gt;&lt;/figure&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-111302" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/12/image-5.png" width="728" /&gt;&lt;/figure&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111551" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-2.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check outAI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. This comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;For many large companies, artificial intelligence still lives in side projects. Small teams test tools, run pilots, and present results that struggle to spread beyond a few departments. Citi has taken a different path, where instead of keeping AI limited to specialists, the bank has spent the past two years pushing the technology into daily work in the organisation.&lt;/p&gt;&lt;p&gt;That effort has resulted in an internal AI workforce of roughly 4,000 employees, drawn from roles that range from technology and operations to risk and customer support. The figure was first reported by &lt;em&gt;Business Insider&lt;/em&gt;, which detailed how Citi built its “AI Champions” and “AI Accelerators” programmes to encourage participation not central control.&lt;/p&gt;&lt;p&gt;The scale of integration is notable, as Citi employs around 182,000 people globally, and more than 70% of them now use firm-approved AI tools in some form, according to the same report. That level of use places Citi ahead of many peers that still restrict AI access to technical teams or innovation labs.&lt;/p&gt;&lt;h3&gt;From central pilots to team-level adoption&lt;/h3&gt;&lt;p&gt;Rather than start with tools, Citi focused on people. The bank invited employees to volunteer as AI Champions, giving them access to training, internal resources, and early versions of approved AI systems. The employees then supported colleagues in their own teams, acting as local points of contact not formal trainers.&lt;/p&gt;&lt;p&gt;The approach reflects a practical view of adoption. New tools often fail not because they lack features, but because staff do not know when or how to use them. By embedding support inside teams, Citi reduced the gap between experimentation and routine work.&lt;/p&gt;&lt;p&gt;Training played a central role. Employees could earn internal badges by completing courses or demonstrating how they used AI to improve their own tasks. The badges did not come with promotions or pay rises, but they helped create visibility and credibility in the organisation. According to &lt;em&gt;Business Insider&lt;/em&gt;, this peer-driven model helped AI spread faster than top-down mandates.&lt;/p&gt;&lt;h3&gt;Everyday use, with guardrails&lt;/h3&gt;&lt;p&gt;Citi’s leadership has framed the effort as a response to scale not novelty. With operations spanning retail banking, investment services, compliance, and customer support, small efficiency gains can add up quickly. AI tools are being used to summarise documents, draft internal notes, analyse data sets, and assist with software development. None of these uses are new on their own, but the difference lies in how they are applied.&lt;/p&gt;&lt;p&gt;The focus on everyday tasks also shapes Citi’s risk posture. The bank has limited employees to firm-approved tools, with guardrails around what data can be used and how outputs are handled. That constraint has slowed some experiments, but it has also made managers more comfortable allowing broader access. In regulated industries, trust often matters more than speed.&lt;/p&gt;&lt;h3&gt;What Citi’s approach shows about scaling AI&lt;/h3&gt;&lt;p&gt;The structure of Citi’s programme suggests a lesson for other large enterprises. AI adoption does not require every employee to become an expert. It requires enough people to understand the tools well enough to apply them responsibly and explain them to others. By training thousands instead of dozens, Citi reduced its reliance on a small group of specialists.&lt;/p&gt;&lt;p&gt;There is also a cultural signal at play. Encouraging employees from non-technical roles to participate sends a message that AI is not only for engineers or data scientists. It becomes part of how work gets done, similar to spreadsheets or presentation software in earlier decades.&lt;/p&gt;&lt;p&gt;That shift aligns with broader industry trends. Surveys from firms like McKinsey have shown that many companies struggle to move AI projects into production, often citing talent gaps and unclear ownership. Citi’s model sidesteps some of those issues by distributing ownership in teams, while keeping governance centralised.&lt;/p&gt;&lt;p&gt;Still, the approach is not without limits. Peer-led adoption depends on sustained interest, and not all teams move at the same pace. There is also the risk that informal support networks become uneven, with some groups benefiting more than others. Citi has tried to address this by rotating Champions and updating training content as tools change.&lt;/p&gt;&lt;p&gt;What stands out is the bank’s willingness to treat AI as infrastructure not innovation. Instead of asking whether AI could transform the business, Citi asked where it could remove friction from existing work. That framing makes progress easier to measure and reduces pressure to produce dramatic results.&lt;/p&gt;&lt;p&gt;The experience also challenges a common assumption that AI adoption must start at the top. Citi’s senior leadership supported the effort, but much of the momentum came from employees who volunteered time to learn and teach. In large organisations, that bottom-up energy can be hard to generate, yet it often determines whether new technology sticks.&lt;/p&gt;&lt;p&gt;As more companies move from pilots to production, Citi’s experiment offers a useful case study. It shows that scale does not come from buying more tools, but from helping people feel confident using the ones they already have. For enterprises wondering why AI progress feels slow, the answer may lie less in strategy decks and more in how work actually gets done, one team at a time.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Declan Sun)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: JPMorgan Chase treats AI spending as core infrastructure&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-111182" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/12/image-2.png" width="728" /&gt;&lt;/figure&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-111302" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/12/image-5.png" width="728" /&gt;&lt;/figure&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111551" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-2.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check outAI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. This comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/</guid><pubDate>Wed, 21 Jan 2026 10:00:00 +0000</pubDate></item><item><title>[NEW] Balancing AI cost efficiency with data sovereignty (AI News)</title><link>https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/</link><description>&lt;p&gt;AI cost efficiency and data sovereignty are at odds, forcing a rethink of enterprise risk frameworks for global organisations.&lt;/p&gt;&lt;p&gt;For over a year, the generative AI narrative focused on a race for capability, often measuring success by parameter counts and flawed benchmark scores. Boardroom conversations, however, are undergoing a necessary correction.&lt;/p&gt;&lt;p&gt;While the allure of low-cost, high-performance models offers a tempting path to rapid innovation, the hidden liabilities associated with data residency and state influence are forcing a reassessment of vendor selection. China-based AI laboratory DeepSeek recently became a focal point for this industry-wide debate.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-full is-resized"&gt;&lt;img alt="Headshot of Bill Conner, former adviser to Interpol and GCHQ, and current CEO of Jitterbit." class="wp-image-111650" height="800" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-2.jpeg" width="800" /&gt;&lt;/figure&gt;&lt;p&gt;According to Bill Conner, former adviser to Interpol and GCHQ, and current CEO of Jitterbit, DeepSeek’s initial reception was positive because it challenged the status quo by demonstrating that “high-performing large language models do not necessarily require Silicon Valley–scale budgets.”&lt;/p&gt;&lt;p&gt;For businesses looking to trim the immense costs associated with generative AI pilots, this efficiency was understandably attractive. Conner observes that these “reported low training costs undeniably reignited industry conversations around efficiency, optimisation, and ‘good enough’ AI.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-ai-and-data-sovereignty-risks"&gt;AI and data sovereignty risks&lt;/h3&gt;&lt;p&gt;Enthusiasm for cut-price performance has collided with geopolitical realities. Operational efficiency cannot be decoupled from data security, particularly when that data fuels models hosted in jurisdictions with different legal frameworks regarding privacy and state access.&lt;/p&gt;&lt;p&gt;Recent disclosures regarding DeepSeek have altered the math for Western enterprises. Conner highlights “recent US government revelations indicating DeepSeek is not only storing data in China but actively sharing it with state intelligence services.”&lt;/p&gt;&lt;p&gt;This disclosure moves the issue beyond standard GDPR or CCPA compliance. The “risk profile escalates beyond typical privacy concerns into the realm of national security.”&lt;/p&gt;&lt;p&gt;For enterprise leaders, this presents a specific hazard. LLM integration is rarely a standalone event; it involves connecting the model to proprietary data lakes, customer information systems, and intellectual property repositories. If the underlying AI model possesses a “back door” or obliges data sharing with a foreign intelligence apparatus, sovereignty is eliminated and the enterprise effectively bypasses its own security perimeter and erases any cost efficiency benefits.&lt;/p&gt;&lt;p&gt;Conner warns that “DeepSeek’s entanglement with military procurement networks and alleged export control evasion tactics should serve as a critical warning sign for CEOs, CIOs, and risk officers alike.” Utilising such technology could inadvertently entangle a company in sanctions violations or supply chain compromises.&lt;/p&gt;&lt;p&gt;Success is no longer just about code generation or document summaries; it is about the provider’s legal and ethical framework. Especially in industries like finance, healthcare, and defence, tolerance for ambiguity regarding data lineage is zero.&lt;/p&gt;&lt;p&gt;Technical teams may prioritise AI performance benchmarks and ease of integration during the proof-of-concept phase, potentially overlooking the geopolitical provenance of the tool and the need for data sovereignty. Risk officers and CIOs must enforce a governance layer that interrogates the “who” and “where” of the model, not just the “what.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-governance-over-ai-cost-efficiency"&gt;Governance over AI cost efficiency&lt;/h3&gt;&lt;p&gt;Deciding to adopt or ban a specific AI model is a matter of corporate responsibility. Shareholders and customers expect that their data remains secure and used solely for intended business purposes.&lt;/p&gt;&lt;p&gt;Conner frames this explicitly for Western leadership, stating that “for Western CEOs, CIOs, and risk officers, this is not a question of model performance or cost efficiency.” Instead, “it is a governance, accountability, and fiduciary responsibility issue.”&lt;/p&gt;&lt;p&gt;Enterprises “cannot justify integrating a system where data residency, usage intent, and state influence are fundamentally opaque.” This opacity creates an unacceptable liability. Even if a model offers 95 percent of a competitor’s performance at half the cost, the potential for regulatory fines, reputational damage, and loss of intellectual property erases those savings instantly.&lt;/p&gt;&lt;p&gt;The DeepSeek case study serves as a prompt to audit current AI supply chains. Leaders must ensure they have full visibility into where model inference occurs and who holds the keys to the underlying data.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As the market for generative AI matures, trust, transparency, and data sovereignty will likely outweigh the appeal of raw cost efficiency.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;SAP and Fresenius to build sovereign AI backbone for healthcare&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111551" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-2.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;AI cost efficiency and data sovereignty are at odds, forcing a rethink of enterprise risk frameworks for global organisations.&lt;/p&gt;&lt;p&gt;For over a year, the generative AI narrative focused on a race for capability, often measuring success by parameter counts and flawed benchmark scores. Boardroom conversations, however, are undergoing a necessary correction.&lt;/p&gt;&lt;p&gt;While the allure of low-cost, high-performance models offers a tempting path to rapid innovation, the hidden liabilities associated with data residency and state influence are forcing a reassessment of vendor selection. China-based AI laboratory DeepSeek recently became a focal point for this industry-wide debate.&lt;/p&gt;&lt;figure class="wp-block-image alignleft size-full is-resized"&gt;&lt;img alt="Headshot of Bill Conner, former adviser to Interpol and GCHQ, and current CEO of Jitterbit." class="wp-image-111650" height="800" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-2.jpeg" width="800" /&gt;&lt;/figure&gt;&lt;p&gt;According to Bill Conner, former adviser to Interpol and GCHQ, and current CEO of Jitterbit, DeepSeek’s initial reception was positive because it challenged the status quo by demonstrating that “high-performing large language models do not necessarily require Silicon Valley–scale budgets.”&lt;/p&gt;&lt;p&gt;For businesses looking to trim the immense costs associated with generative AI pilots, this efficiency was understandably attractive. Conner observes that these “reported low training costs undeniably reignited industry conversations around efficiency, optimisation, and ‘good enough’ AI.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-ai-and-data-sovereignty-risks"&gt;AI and data sovereignty risks&lt;/h3&gt;&lt;p&gt;Enthusiasm for cut-price performance has collided with geopolitical realities. Operational efficiency cannot be decoupled from data security, particularly when that data fuels models hosted in jurisdictions with different legal frameworks regarding privacy and state access.&lt;/p&gt;&lt;p&gt;Recent disclosures regarding DeepSeek have altered the math for Western enterprises. Conner highlights “recent US government revelations indicating DeepSeek is not only storing data in China but actively sharing it with state intelligence services.”&lt;/p&gt;&lt;p&gt;This disclosure moves the issue beyond standard GDPR or CCPA compliance. The “risk profile escalates beyond typical privacy concerns into the realm of national security.”&lt;/p&gt;&lt;p&gt;For enterprise leaders, this presents a specific hazard. LLM integration is rarely a standalone event; it involves connecting the model to proprietary data lakes, customer information systems, and intellectual property repositories. If the underlying AI model possesses a “back door” or obliges data sharing with a foreign intelligence apparatus, sovereignty is eliminated and the enterprise effectively bypasses its own security perimeter and erases any cost efficiency benefits.&lt;/p&gt;&lt;p&gt;Conner warns that “DeepSeek’s entanglement with military procurement networks and alleged export control evasion tactics should serve as a critical warning sign for CEOs, CIOs, and risk officers alike.” Utilising such technology could inadvertently entangle a company in sanctions violations or supply chain compromises.&lt;/p&gt;&lt;p&gt;Success is no longer just about code generation or document summaries; it is about the provider’s legal and ethical framework. Especially in industries like finance, healthcare, and defence, tolerance for ambiguity regarding data lineage is zero.&lt;/p&gt;&lt;p&gt;Technical teams may prioritise AI performance benchmarks and ease of integration during the proof-of-concept phase, potentially overlooking the geopolitical provenance of the tool and the need for data sovereignty. Risk officers and CIOs must enforce a governance layer that interrogates the “who” and “where” of the model, not just the “what.”&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-governance-over-ai-cost-efficiency"&gt;Governance over AI cost efficiency&lt;/h3&gt;&lt;p&gt;Deciding to adopt or ban a specific AI model is a matter of corporate responsibility. Shareholders and customers expect that their data remains secure and used solely for intended business purposes.&lt;/p&gt;&lt;p&gt;Conner frames this explicitly for Western leadership, stating that “for Western CEOs, CIOs, and risk officers, this is not a question of model performance or cost efficiency.” Instead, “it is a governance, accountability, and fiduciary responsibility issue.”&lt;/p&gt;&lt;p&gt;Enterprises “cannot justify integrating a system where data residency, usage intent, and state influence are fundamentally opaque.” This opacity creates an unacceptable liability. Even if a model offers 95 percent of a competitor’s performance at half the cost, the potential for regulatory fines, reputational damage, and loss of intellectual property erases those savings instantly.&lt;/p&gt;&lt;p&gt;The DeepSeek case study serves as a prompt to audit current AI supply chains. Leaders must ensure they have full visibility into where model inference occurs and who holds the keys to the underlying data.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As the market for generative AI matures, trust, transparency, and data sovereignty will likely outweigh the appeal of raw cost efficiency.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;SAP and Fresenius to build sovereign AI backbone for healthcare&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111551" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-2.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/</guid><pubDate>Wed, 21 Jan 2026 10:51:23 +0000</pubDate></item><item><title>[NEW] All anyone wants to talk about at Davos is AI and Donald Trump (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/01/AP26021276226747.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This story first appeared in The Debrief, our subscriber-only newsletter about the biggest news in tech&amp;nbsp;by Mat Honan, Editor in Chief. Subscribe to read the next edition as soon as it lands. &lt;/em&gt;&lt;/p&gt;  &lt;p&gt;Hello from the World Economic Forum annual meeting in Davos, Switzerland. I’ve been here for two days now, attending meetings, speaking on panels, and basically trying to talk to anyone I can. And as far as I can tell, the only things anyone wants to talk about are AI, and Trump.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Davos is physically defined by the Congress Center, where the official WEF sessions take place, and the Promenade, a street running through the center of the town lined with various “houses”—mostly retailers that are temporarily converted into meeting hubs for various corporate or national sponsors. So there is a Ukraine House, a Brazil House, Saudi House, and yes, a USA House (more on that tomorrow). There are a handful of media houses from the likes of CNBC and The Wall Street Journal. Some houses are devoted to specific topics, for example there’s one for science and another for AI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But like everything else in 2026, the Promenade is dominated by tech companies. At one point I realized that literally everything I could see, in a spot where the road bends a bit, was a tech company house. Palantir, Workday, Infosys, Cloudflare,&amp;nbsp;C3.ai. Maybe this should go without saying, but their presence, both in the houses and on the various stages and parties and platforms here at the World Economic Forum, really drove home to me how utterly and completely tech has captured the global economy.&amp;nbsp;&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;While the houses host events and serve as networking hubs, the big show is inside the Congress Center. On Tuesday morning, I kicked off my official Davos experience there by moderating a panel with the CEOs of Accenture, Aramco, Royal Philips and Visa. The topic was scaling up AI within organizations. All of these leaders represented companies that have gone from pilot projects to large internal implementations. It was, for me, a fascinating conversation. You can&amp;nbsp;watch the whole thing here, but my takeaway was that while there are plenty of stories about AI being overhyped (including from us), it is certainly having substantive effects at large companies.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Aramco CEO Amin Nasser, for example, described how that company has found $3-5 billion in cost savings by improving the efficiency of its operations. Royal Philips CEO Roy Jakobs described how it was allowing healthcare practitioners to spend more time with patients by doing things such as automated note-taking. (This really resonated with me as my wife is a pediatrics nurse, and for decades now I’ve heard her talk about how much of her time is devoted to charting.) And Visa CEO Ryan McInerney talked about that company’s push into agentic commerce and the way that will play out for consumers, small businesses, and the global payments industry.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;To elaborate a little on that point, McInerney painted a picture of commerce where agents won’t just shop for things you ask them to, which will be basically step one, but will eventually be able to shop for things based on your preferences and previous spending patterns. This could be your regular grocery shopping, or even a vacation getaway. That’s going to require a lot of trust and authentication to protect both merchants and consumers, but it is clear that the steps into agentic commerce we saw in 2025 were just baby ones. There are much bigger ones coming for 2026. (Coincidentally, I had a discussion with a senior executive from Mastercard on Monday, who made several of the same points.)&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But the thing that really resonated with me from the panel was something Accenture CEO Julie Sweet—who has a view not only of her own large org but across a spectrum of companies—said: “It’s hard to trust something until you understand it.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;I felt like that neatly summed up where we are as a society with AI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Clearly other people feel the same. Before the official start of the conference I was at AI House for a panel. The place was packed. There was a consistent, massive line to get in, and once inside I literally had to muscle my way through the crowd.&amp;nbsp;Everyone wanted to get in. Everyone wanted to talk about AI.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;(A quick aside on what I was doing there: I sat on a panel on “Creativity and Identity in the Age of Memes and Deepfakes” led by Atlantic CEO Nicholas Thompson, featuring the artist Emi Kusano who works with AI, and Duncan Crabtree-Ireland, the chief negotiator for SAG-AFTRA, who has been at the center over a lot of the debates about AI in the film and gaming industries. I’m not going to spend much time describing it because I’m already running long, but it was a rip-roarer of a panel.&amp;nbsp;Check it out.)&lt;/p&gt;  &lt;p&gt;And, okay. Sigh. Donald Trump.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The President is due here Wednesday, amid threats of seizing Greenland and fears that he’s about to permanently fracture the NATO alliance. While AI is all over the stages, Trump is dominating all the side conversations. There are lots of little jokes. Nervous laughter. Outright anger. Fear in the eyes. It’s wild.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;These conversations are also starting to spill out into the public conversations. Just after my panel on Tuesday, I headed to a pavilion outside the main hall in the Congress Center. I saw someone coming down the stairs with a small entourage, who was suddenly mobbed by cameras and phones.&amp;nbsp;&lt;/p&gt; 
+
+ &lt;p&gt;Moments earlier in the same spot, the press had been surrounding David Beckham, shouting questions at him. So I was primed for it to be another celebrity – after all captains of industry were everywhere you looked. I mean, I had just bumped into Eric Schmidt, who was literally standing in line in front of me at the coffee bar. Davos is weird.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But in fact, it was Gavin Newsom, the governor of California who is increasingly seen as the leading voice of the Democratic opposition to President Trump, and a likely contender, or even frontrunner, in the race to replace him. Because I live in San Francisco I’ve encountered Newsom many times, dating back to his early days as a city supervisor before he was even mayor. I’ve rarely, rarely, seen him quite so worked up as he was on Tuesday.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Among other things, he called Trump a narcissist who follows “the law of the jungle, the rule of Don” and compared him to a T-Rex, saying “you mate with him or he devours you.” And he was just as harsh on the world leaders, many of whom are gathered in Davos, calling them “pathetic” and saying he should have brought knee pads for them.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Yikes.&lt;/p&gt;  &lt;p&gt;There was more of this sentiment, if in more measured tones, from Canadian Prime Minister Mark Carney during&amp;nbsp;his address at Davos. While I missed his remarks, they had people talking. “If we're not at the table, we're on the menu,” he argued.&amp;nbsp;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/01/AP26021276226747.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This story first appeared in The Debrief, our subscriber-only newsletter about the biggest news in tech&amp;nbsp;by Mat Honan, Editor in Chief. Subscribe to read the next edition as soon as it lands. &lt;/em&gt;&lt;/p&gt;  &lt;p&gt;Hello from the World Economic Forum annual meeting in Davos, Switzerland. I’ve been here for two days now, attending meetings, speaking on panels, and basically trying to talk to anyone I can. And as far as I can tell, the only things anyone wants to talk about are AI, and Trump.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Davos is physically defined by the Congress Center, where the official WEF sessions take place, and the Promenade, a street running through the center of the town lined with various “houses”—mostly retailers that are temporarily converted into meeting hubs for various corporate or national sponsors. So there is a Ukraine House, a Brazil House, Saudi House, and yes, a USA House (more on that tomorrow). There are a handful of media houses from the likes of CNBC and The Wall Street Journal. Some houses are devoted to specific topics, for example there’s one for science and another for AI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But like everything else in 2026, the Promenade is dominated by tech companies. At one point I realized that literally everything I could see, in a spot where the road bends a bit, was a tech company house. Palantir, Workday, Infosys, Cloudflare,&amp;nbsp;C3.ai. Maybe this should go without saying, but their presence, both in the houses and on the various stages and parties and platforms here at the World Economic Forum, really drove home to me how utterly and completely tech has captured the global economy.&amp;nbsp;&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;While the houses host events and serve as networking hubs, the big show is inside the Congress Center. On Tuesday morning, I kicked off my official Davos experience there by moderating a panel with the CEOs of Accenture, Aramco, Royal Philips and Visa. The topic was scaling up AI within organizations. All of these leaders represented companies that have gone from pilot projects to large internal implementations. It was, for me, a fascinating conversation. You can&amp;nbsp;watch the whole thing here, but my takeaway was that while there are plenty of stories about AI being overhyped (including from us), it is certainly having substantive effects at large companies.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Aramco CEO Amin Nasser, for example, described how that company has found $3-5 billion in cost savings by improving the efficiency of its operations. Royal Philips CEO Roy Jakobs described how it was allowing healthcare practitioners to spend more time with patients by doing things such as automated note-taking. (This really resonated with me as my wife is a pediatrics nurse, and for decades now I’ve heard her talk about how much of her time is devoted to charting.) And Visa CEO Ryan McInerney talked about that company’s push into agentic commerce and the way that will play out for consumers, small businesses, and the global payments industry.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;To elaborate a little on that point, McInerney painted a picture of commerce where agents won’t just shop for things you ask them to, which will be basically step one, but will eventually be able to shop for things based on your preferences and previous spending patterns. This could be your regular grocery shopping, or even a vacation getaway. That’s going to require a lot of trust and authentication to protect both merchants and consumers, but it is clear that the steps into agentic commerce we saw in 2025 were just baby ones. There are much bigger ones coming for 2026. (Coincidentally, I had a discussion with a senior executive from Mastercard on Monday, who made several of the same points.)&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But the thing that really resonated with me from the panel was something Accenture CEO Julie Sweet—who has a view not only of her own large org but across a spectrum of companies—said: “It’s hard to trust something until you understand it.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;I felt like that neatly summed up where we are as a society with AI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Clearly other people feel the same. Before the official start of the conference I was at AI House for a panel. The place was packed. There was a consistent, massive line to get in, and once inside I literally had to muscle my way through the crowd.&amp;nbsp;Everyone wanted to get in. Everyone wanted to talk about AI.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;(A quick aside on what I was doing there: I sat on a panel on “Creativity and Identity in the Age of Memes and Deepfakes” led by Atlantic CEO Nicholas Thompson, featuring the artist Emi Kusano who works with AI, and Duncan Crabtree-Ireland, the chief negotiator for SAG-AFTRA, who has been at the center over a lot of the debates about AI in the film and gaming industries. I’m not going to spend much time describing it because I’m already running long, but it was a rip-roarer of a panel.&amp;nbsp;Check it out.)&lt;/p&gt;  &lt;p&gt;And, okay. Sigh. Donald Trump.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The President is due here Wednesday, amid threats of seizing Greenland and fears that he’s about to permanently fracture the NATO alliance. While AI is all over the stages, Trump is dominating all the side conversations. There are lots of little jokes. Nervous laughter. Outright anger. Fear in the eyes. It’s wild.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;These conversations are also starting to spill out into the public conversations. Just after my panel on Tuesday, I headed to a pavilion outside the main hall in the Congress Center. I saw someone coming down the stairs with a small entourage, who was suddenly mobbed by cameras and phones.&amp;nbsp;&lt;/p&gt; 
+
+ &lt;p&gt;Moments earlier in the same spot, the press had been surrounding David Beckham, shouting questions at him. So I was primed for it to be another celebrity – after all captains of industry were everywhere you looked. I mean, I had just bumped into Eric Schmidt, who was literally standing in line in front of me at the coffee bar. Davos is weird.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But in fact, it was Gavin Newsom, the governor of California who is increasingly seen as the leading voice of the Democratic opposition to President Trump, and a likely contender, or even frontrunner, in the race to replace him. Because I live in San Francisco I’ve encountered Newsom many times, dating back to his early days as a city supervisor before he was even mayor. I’ve rarely, rarely, seen him quite so worked up as he was on Tuesday.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Among other things, he called Trump a narcissist who follows “the law of the jungle, the rule of Don” and compared him to a T-Rex, saying “you mate with him or he devours you.” And he was just as harsh on the world leaders, many of whom are gathered in Davos, calling them “pathetic” and saying he should have brought knee pads for them.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Yikes.&lt;/p&gt;  &lt;p&gt;There was more of this sentiment, if in more measured tones, from Canadian Prime Minister Mark Carney during&amp;nbsp;his address at Davos. While I missed his remarks, they had people talking. “If we're not at the table, we're on the menu,” he argued.&amp;nbsp;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/</guid><pubDate>Wed, 21 Jan 2026 11:20:51 +0000</pubDate></item><item><title>[NEW] Consumers spent more on mobile apps than games in 2025, driven by AI app adoption (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In 2025, consumers spent more money on non-game mobile apps than they did on games for the first time, according to the findings from market intelligence firm Sensor Tower’s annual “State of Mobile” report. While this milestone had been seen in particular markets, like the U.S., or during certain quarters, 2025 marked the first time it occurred globally. Worldwide, consumers spent approximately $85 billion on apps last year, representing a 21% year-over-year increase. The figure was also nearly 2.8x the amount spent just five years ago.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084021" height="543" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.31.01-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Generative AI, a defining trend over the past year, led the revenue growth, as in-app purchase revenue in this category more than tripled to top $5 billion in 2025. Downloads of AI apps also grew, doubling year-over-year to reach 3.8 billion. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084018" height="280" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.33.06-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The segment’s growth can be attributed to several factors. For one, the popularity of AI assistants among consumers was a large driver, with all of the top 10 apps by downloads being AI assistants. This group was led by OpenAI’s ChatGPT, Google Gemini, and DeepSeek. ChatGPT alone generated $3.4 billion in global in-app purchase (IAP) revenue — a figure that we reported on late last year.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084015" height="581" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.37.10-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In 2025, consumers spent 48 billion hours in generative AI apps, or 3.6x the total time spent in 2024 and 10x the level seen in 2023. Session volume, meaning the number of times users opened and used an app, topped one trillion in 2025. Of note, this figure was growing faster than downloads, suggesting that existing users were deepening their engagement faster than the apps were adding new users.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084016" height="582" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.36.58-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Another factor driving AI app revenue and adoption is that big tech companies like Google, Microsoft, and X have been heavily investing in their AI assistants to challenge ChatGPT. Over the past year, they’ve been rolling out new capabilities at a rapid pace, improving in areas like coding assistance, content generation, reasoning, task execution, accuracy, and more. The report specifically called out improvements in image and video generation, like ChatGPT’s GPT-4o image generation model released in March, and Google’s Nano Banana.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Among the top AI publishers, OpenAI and DeepSeek accounted for nearly 50% of global downloads, up from 21% in 2024. Meanwhile, big tech publishers grew their share of the market from 14% to nearly 30% during this same time, crowding out earlier ChatGPT competitors like Nova, Codeway, and Chat Smith. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084014" height="305" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.37.39-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The report also highlighted the role that mobile plays in connecting users to generative AI services. Sensor Tower estimates that the total audience for AI assistants topped 200 million in the U.S. by year-end, and more than half (110M) were accessing the assistants exclusively on mobile devices. In 2024, for comparison, only around 13 million users were mobile-only.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Beyond assistants, other popular AI apps included the AI music generation app Suno; ByteDance’s text-to-video app, Jimeng AI; and AI companion apps like Character.ai and PolyBuzz.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Mobile apps topped games in consumer spending in 2025, driven by AI revenue. " class="wp-image-3084019" height="588" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.31.56-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;However, AI wasn’t the only revenue driver last year, Sensor Tower found. Other apps, including those in categories like social media, video streaming, and productivity, also helped fuel the growth, the report noted. For instance, consumers spent an average of 90 minutes per day on social media apps, totaling nearly 2.5 trillion hours, up 5% year-over-year.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In 2025, consumers spent more money on non-game mobile apps than they did on games for the first time, according to the findings from market intelligence firm Sensor Tower’s annual “State of Mobile” report. While this milestone had been seen in particular markets, like the U.S., or during certain quarters, 2025 marked the first time it occurred globally. Worldwide, consumers spent approximately $85 billion on apps last year, representing a 21% year-over-year increase. The figure was also nearly 2.8x the amount spent just five years ago.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084021" height="543" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.31.01-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Generative AI, a defining trend over the past year, led the revenue growth, as in-app purchase revenue in this category more than tripled to top $5 billion in 2025. Downloads of AI apps also grew, doubling year-over-year to reach 3.8 billion. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084018" height="280" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.33.06-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The segment’s growth can be attributed to several factors. For one, the popularity of AI assistants among consumers was a large driver, with all of the top 10 apps by downloads being AI assistants. This group was led by OpenAI’s ChatGPT, Google Gemini, and DeepSeek. ChatGPT alone generated $3.4 billion in global in-app purchase (IAP) revenue — a figure that we reported on late last year.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084015" height="581" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.37.10-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In 2025, consumers spent 48 billion hours in generative AI apps, or 3.6x the total time spent in 2024 and 10x the level seen in 2023. Session volume, meaning the number of times users opened and used an app, topped one trillion in 2025. Of note, this figure was growing faster than downloads, suggesting that existing users were deepening their engagement faster than the apps were adding new users.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084016" height="582" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.36.58-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Another factor driving AI app revenue and adoption is that big tech companies like Google, Microsoft, and X have been heavily investing in their AI assistants to challenge ChatGPT. Over the past year, they’ve been rolling out new capabilities at a rapid pace, improving in areas like coding assistance, content generation, reasoning, task execution, accuracy, and more. The report specifically called out improvements in image and video generation, like ChatGPT’s GPT-4o image generation model released in March, and Google’s Nano Banana.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Among the top AI publishers, OpenAI and DeepSeek accounted for nearly 50% of global downloads, up from 21% in 2024. Meanwhile, big tech publishers grew their share of the market from 14% to nearly 30% during this same time, crowding out earlier ChatGPT competitors like Nova, Codeway, and Chat Smith. &lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084014" height="305" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.37.39-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The report also highlighted the role that mobile plays in connecting users to generative AI services. Sensor Tower estimates that the total audience for AI assistants topped 200 million in the U.S. by year-end, and more than half (110M) were accessing the assistants exclusively on mobile devices. In 2024, for comparison, only around 13 million users were mobile-only.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Beyond assistants, other popular AI apps included the AI music generation app Suno; ByteDance’s text-to-video app, Jimeng AI; and AI companion apps like Character.ai and PolyBuzz.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Mobile apps topped games in consumer spending in 2025, driven by AI revenue. " class="wp-image-3084019" height="588" src="https://techcrunch.com/wp-content/uploads/2026/01/Sensor-Tower-State-of-Mobile-2026-2.31.56-PM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Sensor Tower&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;However, AI wasn’t the only revenue driver last year, Sensor Tower found. Other apps, including those in categories like social media, video streaming, and productivity, also helped fuel the growth, the report noted. For instance, consumers spent an average of 90 minutes per day on social media apps, totaling nearly 2.5 trillion hours, up 5% year-over-year.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/</guid><pubDate>Wed, 21 Jan 2026 11:30:00 +0000</pubDate></item><item><title>[NEW] Language learning marketplace Preply’s unicorn status embodies Ukrainian resilience (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/Preply-CEO-Kirill-Bigai.jpg?resize=1200,890" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Language learning marketplace Preply is now valued at $1.2 billion after raising a $150 million Series D round that marks a new chapter for the 14-year-old company, whose previous backers include Horizon Capital, Hoxton Ventures, Owl Ventures and Techstars Berlin.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While Preply has been connecting language learners with tutors since 2013, it has now been EBITDA profitable for twelve months. Not coincidentally, it has also ramped up AI integration to support its 100,000 tutors and continue scaling.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;That’s a fine line — Duolingo faced backlash after declaring it would become an “AI-first company,” and tutors have been a key differentiator for Preply. The company is adamant it won’t replace them — but AI can also bring consistency to a model that relies on self-employed instructors. The future of learning “is going to be human-guided and amplified by AI,” Preply CEO Kirill Bigai told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;According to Bigai, Preply already applies AI to features such as lesson summaries and homework, but also to match learners to tutors that best fit their needs. To further develop these capabilities, he said Preply is now hiring AI talent across its four offices — Barcelona, London and New York but also Kyiv, which the company hasn’t left despite the Russian invasion.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Although Preply is headquartered in the U.S., where it got its first start, Bigai and his cofounders are Ukrainian and the company has been very actively supporting their home country. They have been doing that in several ways since the war started, including as an employer. “We are very committed [to the] Ukrainian office,” said Bigai.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Out of Preply’s 750 employees, approximately 150 people work from Kyiv, despite Russian strikes regularly forcing them into shelters and causing power outages that have made the current freezing winter particularly challenging. “Our office has different generators so we have electricity, Internet, and the office is warm and it’s open 24/7 so any Ukrainian team member can come to the office at any time,” Bigai said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These employees may be grateful to Preply — but Bigai is grateful to them and has deep admiration for his people. “Ukrainians are going through very challenging times, and it builds a significant resilience and creativity,” he said. Having to adapt to the reality and uncertainty of war also transformed Preply. “I think the fact that the company went through this experience — and how so many people helped other people — made us stronger, more resilient, more creative,” he added.&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;With its new funding, the edtech company has now joined the growing cohort of unicorns with Ukrainian roots, including Fintech-IT Group and Grammarly. But it may also follow in the footsteps of Airbnb, whose former CFO Laurence Tosi led the Series D through his growth equity firm, WestCap. While Bigai said Preply has no timeline or concrete IPO plans yet, he noted WestCap’s “phenomenal experience in [taking] companies public, which is one of the things that we will continue to think about.”&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/Preply-CEO-Kirill-Bigai.jpg?resize=1200,890" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Language learning marketplace Preply is now valued at $1.2 billion after raising a $150 million Series D round that marks a new chapter for the 14-year-old company, whose previous backers include Horizon Capital, Hoxton Ventures, Owl Ventures and Techstars Berlin.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While Preply has been connecting language learners with tutors since 2013, it has now been EBITDA profitable for twelve months. Not coincidentally, it has also ramped up AI integration to support its 100,000 tutors and continue scaling.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;That’s a fine line — Duolingo faced backlash after declaring it would become an “AI-first company,” and tutors have been a key differentiator for Preply. The company is adamant it won’t replace them — but AI can also bring consistency to a model that relies on self-employed instructors. The future of learning “is going to be human-guided and amplified by AI,” Preply CEO Kirill Bigai told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;According to Bigai, Preply already applies AI to features such as lesson summaries and homework, but also to match learners to tutors that best fit their needs. To further develop these capabilities, he said Preply is now hiring AI talent across its four offices — Barcelona, London and New York but also Kyiv, which the company hasn’t left despite the Russian invasion.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Although Preply is headquartered in the U.S., where it got its first start, Bigai and his cofounders are Ukrainian and the company has been very actively supporting their home country. They have been doing that in several ways since the war started, including as an employer. “We are very committed [to the] Ukrainian office,” said Bigai.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Out of Preply’s 750 employees, approximately 150 people work from Kyiv, despite Russian strikes regularly forcing them into shelters and causing power outages that have made the current freezing winter particularly challenging. “Our office has different generators so we have electricity, Internet, and the office is warm and it’s open 24/7 so any Ukrainian team member can come to the office at any time,” Bigai said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These employees may be grateful to Preply — but Bigai is grateful to them and has deep admiration for his people. “Ukrainians are going through very challenging times, and it builds a significant resilience and creativity,” he said. Having to adapt to the reality and uncertainty of war also transformed Preply. “I think the fact that the company went through this experience — and how so many people helped other people — made us stronger, more resilient, more creative,” he added.&amp;nbsp;&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;With its new funding, the edtech company has now joined the growing cohort of unicorns with Ukrainian roots, including Fintech-IT Group and Grammarly. But it may also follow in the footsteps of Airbnb, whose former CFO Laurence Tosi led the Series D through his growth equity firm, WestCap. While Bigai said Preply has no timeline or concrete IPO plans yet, he noted WestCap’s “phenomenal experience in [taking] companies public, which is one of the things that we will continue to think about.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/</guid><pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate></item><item><title>[NEW] Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them. (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        The web’s best guide to spotting AI writing has become a manual for hiding it.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Illustration of robot hands using a typewriter." class="absolute inset-0 w-full h-full object-cover hidden" height="169" src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-300x169.jpg" width="300" /&gt;
+                  &lt;img alt="Illustration of robot hands using a typewriter." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Getty Images
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;On Saturday, tech entrepreneur Siqi Chen released an open source plugin for Anthropic’s Claude Code AI assistant that instructs the AI model to stop writing like an AI model. Called “Humanizer,” the simple prompt plugin feeds Claude a list of 24 language and formatting patterns that Wikipedia editors have listed as chatbot giveaways. Chen published the plugin on GitHub, where it has picked up over 1,600 stars as of Monday.&lt;/p&gt;
+&lt;p&gt;“It’s really handy that Wikipedia went and collated a detailed list of ‘signs of AI writing,’” Chen wrote on X. “So much so that you can just tell your LLM to … not do that.”&lt;/p&gt;
+&lt;p&gt;The source material is a guide from WikiProject AI Cleanup, a group of Wikipedia editors who have been hunting AI-generated articles since late 2023. French Wikipedia editor Ilyas Lebleu founded the project. The volunteers have tagged over 500 articles for review and, in August 2025, published a formal list of the patterns they kept seeing.&lt;/p&gt;
+&lt;p&gt;Chen’s tool is a “skill file” for Claude Code, Anthropic’s terminal-based coding assistant, which involves a Markdown-formatted file that adds a list of written instructions (you can see them here) appended to the prompt fed into the large language model (LLM) that powers the assistant. Unlike a normal system prompt, for example, the skill information is formatted in a standardized way that Claude models are fine-tuned to interpret with more precision than a plain system prompt. (Custom skills require a paid Claude subscription with code execution turned on.)&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;But as with all AI prompts, language models don’t always perfectly follow skill files, so does the Humanizer actually work? In our limited testing, Chen’s skill file made the AI agent’s output sound less precise and more casual, but it could have some drawbacks: it won’t improve factuality and might harm coding ability.&lt;/p&gt;
+&lt;p&gt;In particular, some of Humanizer’s instructions might lead you astray depending on the task. For example, the Humanizer skill includes the line: “Have opinions. Don’t just report facts – react to them. ‘I genuinely don’t know how to feel about this’ is more human than neutrally listing pros and cons.” While being imperfect seems human, this kind of advice would probably not do you any favors if you were using Claude to write technical documentation.&lt;/p&gt;
+&lt;p&gt;Even with its drawbacks, it’s ironic that one of the web’s most referenced rule sets for detecting AI-assisted writing may help some people subvert it.&lt;/p&gt;
+&lt;h2&gt;Spotting the patterns&lt;/h2&gt;
+&lt;p&gt;So what does AI writing look like? The Wikipedia guide is specific with many examples, but we’ll give you just one here for brevity’s sake.&lt;/p&gt;
+&lt;p&gt;Some chatbots love to pump up their subjects with phrases like “marking a pivotal moment” or “stands as a testament to,” according to the guide. They write like tourism brochures, calling views “breathtaking” and describing towns as “nestled within” scenic regions. They tack “-ing” phrases onto the end of sentences to sound analytical: “symbolizing the region’s commitment to innovation.”&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;To work around those rules, the Humanizer skill tells Claude to replace inflated language with plain facts and offers this example transformation:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Before:&lt;/strong&gt; “The Statistical Institute of Catalonia was officially established in 1989, marking a pivotal moment in the evolution of regional statistics in Spain.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;After:&lt;/strong&gt; “The Statistical Institute of Catalonia was established in 1989 to collect and publish regional statistics.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Claude will read that and do its best as a pattern-matching machine to create an output that matches the context of the conversation or task at hand.&lt;/p&gt;
+&lt;h2&gt;An example of why AI writing detection fails&lt;/h2&gt;
+&lt;p&gt;Even with such a confident set of rules crafted by Wikipedia editors, we’ve previously written about why AI writing detectors don’t work reliably: There is nothing inherently unique about human writing that reliably differentiates it from LLM writing.&lt;/p&gt;
+&lt;p&gt;One reason is that even though most AI language models tend toward certain types of language, they can also be prompted to avoid them, as with the Humanizer skill. (Although sometimes it’s very difficult, as OpenAI found in its yearslong struggle against the em dash.)&lt;/p&gt;
+&lt;p&gt;Also, humans can write in chatbot-like ways. For example, this article likely contains some “AI-written traits” that trigger AI detectors even though it was written by a professional writer—especially if we use even a single em dash—because most LLMs picked up writing techniques from examples of professional writing scraped from the web.&lt;/p&gt;
+&lt;p&gt;Along those lines, the Wikipedia guide has a caveat worth noting: While the list points out some obvious tells of, say, unaltered ChatGPT usage, it’s still composed of observations, not ironclad rules. A 2025 preprint cited on the page found that heavy users of large language models correctly spot AI-generated articles about 90 percent of the time. That sounds great until you realize that 10 percent are false positives, which is enough to potentially throw out some quality writing in pursuit of detecting AI slop.&lt;/p&gt;
+&lt;p&gt;Taking a step back, that probably means AI detection work might need to go deeper than flagging particular phrasing and delve (see what I did there?) more into the substantive factual content of the work itself.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        The web’s best guide to spotting AI writing has become a manual for hiding it.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Illustration of robot hands using a typewriter." class="absolute inset-0 w-full h-full object-cover hidden" height="169" src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-300x169.jpg" width="300" /&gt;
+                  &lt;img alt="Illustration of robot hands using a typewriter." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Getty Images
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;On Saturday, tech entrepreneur Siqi Chen released an open source plugin for Anthropic’s Claude Code AI assistant that instructs the AI model to stop writing like an AI model. Called “Humanizer,” the simple prompt plugin feeds Claude a list of 24 language and formatting patterns that Wikipedia editors have listed as chatbot giveaways. Chen published the plugin on GitHub, where it has picked up over 1,600 stars as of Monday.&lt;/p&gt;
+&lt;p&gt;“It’s really handy that Wikipedia went and collated a detailed list of ‘signs of AI writing,’” Chen wrote on X. “So much so that you can just tell your LLM to … not do that.”&lt;/p&gt;
+&lt;p&gt;The source material is a guide from WikiProject AI Cleanup, a group of Wikipedia editors who have been hunting AI-generated articles since late 2023. French Wikipedia editor Ilyas Lebleu founded the project. The volunteers have tagged over 500 articles for review and, in August 2025, published a formal list of the patterns they kept seeing.&lt;/p&gt;
+&lt;p&gt;Chen’s tool is a “skill file” for Claude Code, Anthropic’s terminal-based coding assistant, which involves a Markdown-formatted file that adds a list of written instructions (you can see them here) appended to the prompt fed into the large language model (LLM) that powers the assistant. Unlike a normal system prompt, for example, the skill information is formatted in a standardized way that Claude models are fine-tuned to interpret with more precision than a plain system prompt. (Custom skills require a paid Claude subscription with code execution turned on.)&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;But as with all AI prompts, language models don’t always perfectly follow skill files, so does the Humanizer actually work? In our limited testing, Chen’s skill file made the AI agent’s output sound less precise and more casual, but it could have some drawbacks: it won’t improve factuality and might harm coding ability.&lt;/p&gt;
+&lt;p&gt;In particular, some of Humanizer’s instructions might lead you astray depending on the task. For example, the Humanizer skill includes the line: “Have opinions. Don’t just report facts – react to them. ‘I genuinely don’t know how to feel about this’ is more human than neutrally listing pros and cons.” While being imperfect seems human, this kind of advice would probably not do you any favors if you were using Claude to write technical documentation.&lt;/p&gt;
+&lt;p&gt;Even with its drawbacks, it’s ironic that one of the web’s most referenced rule sets for detecting AI-assisted writing may help some people subvert it.&lt;/p&gt;
+&lt;h2&gt;Spotting the patterns&lt;/h2&gt;
+&lt;p&gt;So what does AI writing look like? The Wikipedia guide is specific with many examples, but we’ll give you just one here for brevity’s sake.&lt;/p&gt;
+&lt;p&gt;Some chatbots love to pump up their subjects with phrases like “marking a pivotal moment” or “stands as a testament to,” according to the guide. They write like tourism brochures, calling views “breathtaking” and describing towns as “nestled within” scenic regions. They tack “-ing” phrases onto the end of sentences to sound analytical: “symbolizing the region’s commitment to innovation.”&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;To work around those rules, the Humanizer skill tells Claude to replace inflated language with plain facts and offers this example transformation:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Before:&lt;/strong&gt; “The Statistical Institute of Catalonia was officially established in 1989, marking a pivotal moment in the evolution of regional statistics in Spain.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;After:&lt;/strong&gt; “The Statistical Institute of Catalonia was established in 1989 to collect and publish regional statistics.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Claude will read that and do its best as a pattern-matching machine to create an output that matches the context of the conversation or task at hand.&lt;/p&gt;
+&lt;h2&gt;An example of why AI writing detection fails&lt;/h2&gt;
+&lt;p&gt;Even with such a confident set of rules crafted by Wikipedia editors, we’ve previously written about why AI writing detectors don’t work reliably: There is nothing inherently unique about human writing that reliably differentiates it from LLM writing.&lt;/p&gt;
+&lt;p&gt;One reason is that even though most AI language models tend toward certain types of language, they can also be prompted to avoid them, as with the Humanizer skill. (Although sometimes it’s very difficult, as OpenAI found in its yearslong struggle against the em dash.)&lt;/p&gt;
+&lt;p&gt;Also, humans can write in chatbot-like ways. For example, this article likely contains some “AI-written traits” that trigger AI detectors even though it was written by a professional writer—especially if we use even a single em dash—because most LLMs picked up writing techniques from examples of professional writing scraped from the web.&lt;/p&gt;
+&lt;p&gt;Along those lines, the Wikipedia guide has a caveat worth noting: While the list points out some obvious tells of, say, unaltered ChatGPT usage, it’s still composed of observations, not ironclad rules. A 2025 preprint cited on the page found that heavy users of large language models correctly spot AI-generated articles about 90 percent of the time. That sounds great until you realize that 10 percent are false positives, which is enough to potentially throw out some quality writing in pursuit of detecting AI slop.&lt;/p&gt;
+&lt;p&gt;Taking a step back, that probably means AI detection work might need to go deeper than flagging particular phrasing and delve (see what I did there?) more into the substantive factual content of the work itself.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/</guid><pubDate>Wed, 21 Jan 2026 12:15:23 +0000</pubDate></item></channel></rss>
