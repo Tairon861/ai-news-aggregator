@@ -1,7 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 22 Jan 2026 06:39:31 +0000</lastBuildDate><item><title>Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1129660767.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI detection startup GPTZero scanned all 4,841 papers accepted by the prestigious Conference on Neural Information Processing Systems (NeurIPS), which took place last month in San Diego. The company found 100 hallucinated citations across 51 papers that it confirmed as fake, the company tells TechCrunch.&amp;nbsp;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 22 Jan 2026 12:56:13 +0000</lastBuildDate><item><title>[NEW] Yann LeCun’s new venture is a contrarian bet against large language models (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/AP23165452788339.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the industry’s current obsession with large language models is wrong-headed and will ultimately fail to solve many pressing problems.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Instead, he thinks we should be betting on world models—a different type of AI that accurately reflects the dynamics of the real world. He is also a staunch advocate for open-source AI and criticizes the closed approach of frontier labs like OpenAI and Anthropic.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Perhaps it’s no surprise, then, that he recently left Meta, where he had served as chief scientist for FAIR (Fundamental AI Research), the company's influential research lab that he founded. Meta has struggled to gain much traction with its open-source AI model Llama and has seen internal shake-ups, including the controversial acquisition of ScaleAI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;LeCun sat down with &lt;em&gt;MIT Technology Review&lt;/em&gt; in an exclusive online interview from his Paris apartment to discuss his new venture, life after Meta, the future of artificial intelligence, and why he thinks the industry is chasing the wrong ideas.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;&lt;em&gt;Both the questions and answers below have been edited for clarity and brevity.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;You’ve just announced a new company, Advanced Machine Intelligence (AMI).&amp;nbsp; Tell me about the big ideas behind it.&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;It is going to be a global company, but headquartered in Paris. You pronounce it “ami”—it means “friend” in French. I am excited. There is a very high concentration of talent in Europe, but it is not always given a proper environment to flourish. And there is certainly a huge demand from the industry and governments for a credible frontier AI company that is neither Chinese nor American. I think that is going to be to our advantage.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;So an ambitious alternative to the US-China binary we currently have. What made you want to pursue that third path?&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Well, there are sovereignty issues for a lot of countries, and they want some control over AI. What I’m advocating is that AI is going to become a platform, and most platforms tend to become open-source. Unfortunately, that’s not really the direction the American industry is taking. Right? As the competition increases, they feel like they have to be secretive. I think that is a strategic mistake.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;It’s certainly true for OpenAI, which went from very open to very closed, and Anthropic has always been closed. Google was sort of a little open. And then Meta, we’ll see. My sense is that it’s not going in a positive direction at this moment.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;Simultaneously, China has completely embraced this open approach. So all leading open-source AI platforms are Chinese, and the result is that academia and startups, outside of the US, have basically embraced Chinese models. There’s nothing wrong with that—you know, Chinese models are good. Chinese engineers and scientists are great. But you know, if there is a future in which all of our information diet is being mediated by AI assistance, and the choice is either English-speaking models produced by proprietary companies always close to the US or Chinese models which may be open-source but need to be fine-tuned so that they answer questions about Tiananmen Square in 1989—you know, it’s not a very pleasant and engaging future.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;They [the future models] should be able to be fine-tuned by anyone and produce a very high diversity of AI assistance, with different linguistic abilities and value systems and political biases and centers of interests. You need high diversity of assistance for the same reason that you need high diversity of press.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;That is certainly a compelling pitch. How are investors buying that idea so far?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;They really like it. A lot of venture capitalists are very much in favor of this idea of open-source, because they know for a lot of small startups, they really rely on open-source models. They don’t have the means to train their own model, and it’s kind of dangerous for them strategically to embrace a proprietary model.&lt;/p&gt; 
 
-&lt;p class="wp-block-paragraph"&gt;Having a paper accepted by NeurIPS is a résumé-worthy achievement in the world of AI. Given that these are the leading minds of AI research, one might assume they would use LLMs for the catastrophically boring task of writing citations.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;You recently left Meta. What’s your view on the company and Mark Zuckerberg’s leadership? There’s a perception that Meta has fumbled its AI advantage.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I think FAIR [LeCun’s lab at Meta] was extremely successful in the research part. Where Meta was less successful is in picking up on that research and pushing it into practical technology and products. Mark made some choices that he thought were the best for the company. I may not have agreed with all of them. For example, the robotics group at FAIR was let go, which I think was a strategic mistake. But I’m not the director of FAIR. People make decisions rationally, and there’s no reason to be upset.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;So, no bad blood? Could Meta be a future client for AMI?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Meta might be our first client! We’ll see. The work we are doing is not in direct competition. Our focus on world models for the physical world is very different from their focus on generative AI and LLMs.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;&lt;strong&gt;You were working on AI long before LLMs became a mainstream approach. But since ChatGPT broke out, LLMs have become almost synonymous with AI.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Yes, and we are going to change that. The public face of AI, perhaps, is mostly LLMs and chatbots of various types. But the latest ones of those are not pure LLMs. They are LLM plus a lot of things, like perception systems and code that solves particular problems. So we are going to see LLMs as kind of the orchestrator in systems, a little bit.&lt;/p&gt;  &lt;p&gt;Beyond LLMs, there is a lot of AI that is behind the scenes that runs a big chunk of our society. There are assistance driving programs in a car, quick-turn MRI images, algorithms that drive social media—that’s all AI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;You have been vocal in arguing that LLMs can only get us so far. Do you think LLMs are overhyped these days? Can you summarize to our readers why you believe that LLMs are not enough?&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;There is a sense in which they have not been overhyped, which is that they are extremely useful to a lot of people, particularly if you write text, do research, or write code. LLMs manipulate language really well. But people have had this illusion, or delusion, that it is a matter of time until we can scale them up to having human-level intelligence, and that is simply false.&lt;/p&gt;  &lt;p&gt;The truly difficult part is understanding the real world. This is the Moravec Paradox (a phenomenon observed by the computer scientist Hans Moravec in 1988): What’s easy for us, like perception and navigation, is hard for computers, and vice versa. LLMs are limited to the discrete world of text. They can’t truly reason or plan, because they lack a model of the world. They can’t predict the consequences of their actions. This is why we don’t have a domestic robot that is as agile as a house cat, or a truly autonomous car.&lt;/p&gt; 
+ &lt;p&gt;We are going to have AI systems that have humanlike and human-level intelligence, but they’re&amp;nbsp; not going to be built on LLMs, and it’s not going to happen next year or two years from now. It’s going to take a while. There are major conceptual breakthroughs that have to happen before we have AI systems that have human-level intelligence. And that is what I’ve been working on. And this company, AMI Labs, is focusing on the next generation.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;And your solution is world models and JEPA architecture (JEPA, or “joint embedding predictive architecture,” is a learning framework that trains AI models to understand the world, created by LeCun while he was at Meta). What’s the elevator pitch?&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt; &lt;p&gt;The world is unpredictable. If you try to build a generative model that predicts every detail of the future, it will fail.&amp;nbsp; JEPA is not generative AI. It is a system that learns to represent videos really well. The key is to learn an abstract representation of the world and make predictions in that abstract space, ignoring the details you can’t predict. That’s what JEPA does. It learns the underlying rules of the world from observation, like a baby learning about gravity. This is the foundation for common sense, and it’s the key to building truly intelligent systems that can reason and plan in the real world. The most exciting work so far on this is coming from academia, not the big industrial labs stuck in the LLM world.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;The lack of non-text data has been a problem in taking AI systems further in understanding the physical world. JEPA is trained on videos. What other kinds of data will you be using?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Our systems will be trained on video, audio, and sensor data of all kinds—not just text. We are working with various modalities, from the position of a robot arm to lidar data to audio. I’m also involved in a project using JEPA to model complex physical and clinical phenomena.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;What are some of the concrete, real-world applications you envision for world models?&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;The applications are vast. Think about complex industrial processes where you have thousands of sensors, like in a jet engine, a steel mill, or a chemical factory. There is no technique right now to build a complete, holistic model of these systems. A world model could learn this from the sensor data and predict how the system will behave. Or think of smart glasses that can watch what you’re doing, identify your actions, and then predict what you’re going to do next to assist you. This is what will finally make agentic systems reliable. An agentic system that is supposed to take actions in the world cannot work reliably unless it has a world model to predict the consequences of its actions. Without it, the system will inevitably make mistakes. This is the key to unlocking everything from truly useful domestic robots to Level 5 autonomous driving.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Humanoid robots are all the rage recently, especially ones built by companies from China. What’s your take?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;There are all these brute-force ways to get around the limitations of learning systems, which require inordinate amounts of training data to do anything. So the secret of all the companies getting robots to do kung fu or dance is they are all planned in advance. But frankly, nobody—absolutely nobody—knows how to make those robots smart enough to be useful. Take my word for it.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;You need an enormous amount of tele-operation training data for every single task, and when the environment changes a little bit, it doesn’t generalize very well. What this tells us is we are missing something very big. The reason why a 17-year-old can learn to drive in 20 hours is because they already know a lot about how the world behaves. If we want a generally useful domestic robot, we need systems to have a kind of good understanding of the physical world. That’s not going to happen until we have good world models and planning.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_12"&gt; &lt;p&gt;&lt;strong&gt;There’s a growing sentiment that it’s becoming harder to do foundational AI research in academia because of the massive computing resources required. Do you think the most important innovations will now come from industry?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;No. LLMs are now technology development, not research. It’s true that it’s very difficult for academics to play an important role there because of the requirements for computation, data access, and engineering support. But it’s a product now. It’s not something academia should even be interested in. It’s like speech recognition in the early 2010s—it was a solved problem, and the progress was in the hands of industry.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_14"&gt; &lt;p&gt;What academia should be working on is long-term objectives that go beyond the capabilities of current systems. That’s why I tell people in universities: Don’t work on LLMs. There is no point. You’re not going to be able to rival what’s going on in industry. Work on something else. Invent new techniques. The breakthroughs are not going to come from scaling up LLMs. The most exciting work on world models is coming from academia, not the big industrial labs. The whole idea of using attention circuits in neural nets came out of the University of Montreal. That research paper started the whole revolution. Now that the big companies are closing up, the breakthroughs are going to slow down. Academia needs access to computing resources, but they should be focused on the next big thing, not on refining the last one.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;You wear many hats: professor, researcher, educator, public thinker … Now you just took on a new one. What is that going to look like for you?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I am going to be the executive chairman of the company, and Alex LeBrun [a former colleague from Meta AI] will be the CEO. It’s going to be LeCun and LeBrun—it’s nice if you pronounce it the French way.&lt;/p&gt;  &lt;p&gt;I am going to keep my position at NYU. I teach one class per year, I have PhD students and postdocs, so I am going to be kept based in New York. But I go to Paris pretty often because of my lab.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Does that mean that you won’t be very hands-on?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Well, there's two ways to be hands-on. One is to manage people day to day, and another is to actually get your hands dirty in research projects, right?&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_16"&gt; &lt;p&gt;I can do management, but I don't like doing it. This is not my mission in life. It’s really to make science and technology progress as far as we can, inspire other people to work on things that are interesting, and then contribute to those things. So that has been my role at Meta for the last seven years. I founded FAIR and led it for four to five years. I kind of hated being a director. I am not good at this career management thing. I'm much more visionary and a scientist.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;What makes Alex LeBrun the right fit?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Alex is a serial entrepreneur; he’s built three successful AI companies. The first he sold to Microsoft; the second to Facebook, where he was head of the engineering division of FAIR in Paris. He then left to create Nabla, a very successful company in the health-care space. When I offered him the chance to join me in this effort, he accepted almost immediately. He has the experience to build the company, allowing me to focus on science and technology.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;You’re headquartered in Paris. Where else do you plan to have offices?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;We are a global company. There’s going to be an office in North America.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;New York, hopefully?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;New York is great. That’s where I am, right? And it’s not Silicon Valley. Silicon Valley is a bit of a monoculture.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;What about Asia? I’m guessing Singapore, too?&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_18"&gt;&lt;p&gt;Probably, yeah. I’ll let you guess.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;And how are you attracting talent?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;We don’t have any issue recruiting. There are a lot of people in the AI research community who think the future of AI is in world models. Those people, regardless of pay package, will be motivated to come work for us because they believe in the technological future we are building. We’ve already recruited people from places like OpenAI, Google DeepMind, and xAI.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;I heard that Saining Xie, a prominent researcher from NYU and Google DeepMind, might be joining you as chief scientist. Any comments?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Saining is a brilliant researcher. I have a lot of admiration for him. I hired him twice already. I hired him at FAIR, and I convinced my colleagues at NYU that we should hire him there. Let’s just say I have a lot of respect for him.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;When will you be ready to share more details about AMI Labs, like financial backing or other core members?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Soon—in February, maybe. I’ll let you know.&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2025/10/AP23165452788339.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the industry’s current obsession with large language models is wrong-headed and will ultimately fail to solve many pressing problems.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Instead, he thinks we should be betting on world models—a different type of AI that accurately reflects the dynamics of the real world. He is also a staunch advocate for open-source AI and criticizes the closed approach of frontier labs like OpenAI and Anthropic.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Perhaps it’s no surprise, then, that he recently left Meta, where he had served as chief scientist for FAIR (Fundamental AI Research), the company's influential research lab that he founded. Meta has struggled to gain much traction with its open-source AI model Llama and has seen internal shake-ups, including the controversial acquisition of ScaleAI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;LeCun sat down with &lt;em&gt;MIT Technology Review&lt;/em&gt; in an exclusive online interview from his Paris apartment to discuss his new venture, life after Meta, the future of artificial intelligence, and why he thinks the industry is chasing the wrong ideas.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;&lt;em&gt;Both the questions and answers below have been edited for clarity and brevity.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;You’ve just announced a new company, Advanced Machine Intelligence (AMI).&amp;nbsp; Tell me about the big ideas behind it.&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;It is going to be a global company, but headquartered in Paris. You pronounce it “ami”—it means “friend” in French. I am excited. There is a very high concentration of talent in Europe, but it is not always given a proper environment to flourish. And there is certainly a huge demand from the industry and governments for a credible frontier AI company that is neither Chinese nor American. I think that is going to be to our advantage.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;So an ambitious alternative to the US-China binary we currently have. What made you want to pursue that third path?&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Well, there are sovereignty issues for a lot of countries, and they want some control over AI. What I’m advocating is that AI is going to become a platform, and most platforms tend to become open-source. Unfortunately, that’s not really the direction the American industry is taking. Right? As the competition increases, they feel like they have to be secretive. I think that is a strategic mistake.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;It’s certainly true for OpenAI, which went from very open to very closed, and Anthropic has always been closed. Google was sort of a little open. And then Meta, we’ll see. My sense is that it’s not going in a positive direction at this moment.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;Simultaneously, China has completely embraced this open approach. So all leading open-source AI platforms are Chinese, and the result is that academia and startups, outside of the US, have basically embraced Chinese models. There’s nothing wrong with that—you know, Chinese models are good. Chinese engineers and scientists are great. But you know, if there is a future in which all of our information diet is being mediated by AI assistance, and the choice is either English-speaking models produced by proprietary companies always close to the US or Chinese models which may be open-source but need to be fine-tuned so that they answer questions about Tiananmen Square in 1989—you know, it’s not a very pleasant and engaging future.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;They [the future models] should be able to be fine-tuned by anyone and produce a very high diversity of AI assistance, with different linguistic abilities and value systems and political biases and centers of interests. You need high diversity of assistance for the same reason that you need high diversity of press.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;That is certainly a compelling pitch. How are investors buying that idea so far?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;They really like it. A lot of venture capitalists are very much in favor of this idea of open-source, because they know for a lot of small startups, they really rely on open-source models. They don’t have the means to train their own model, and it’s kind of dangerous for them strategically to embrace a proprietary model.&lt;/p&gt; 
+
+ &lt;p&gt;&lt;strong&gt;You recently left Meta. What’s your view on the company and Mark Zuckerberg’s leadership? There’s a perception that Meta has fumbled its AI advantage.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I think FAIR [LeCun’s lab at Meta] was extremely successful in the research part. Where Meta was less successful is in picking up on that research and pushing it into practical technology and products. Mark made some choices that he thought were the best for the company. I may not have agreed with all of them. For example, the robotics group at FAIR was let go, which I think was a strategic mistake. But I’m not the director of FAIR. People make decisions rationally, and there’s no reason to be upset.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;So, no bad blood? Could Meta be a future client for AMI?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Meta might be our first client! We’ll see. The work we are doing is not in direct competition. Our focus on world models for the physical world is very different from their focus on generative AI and LLMs.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt; &lt;p&gt;&lt;strong&gt;You were working on AI long before LLMs became a mainstream approach. But since ChatGPT broke out, LLMs have become almost synonymous with AI.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Yes, and we are going to change that. The public face of AI, perhaps, is mostly LLMs and chatbots of various types. But the latest ones of those are not pure LLMs. They are LLM plus a lot of things, like perception systems and code that solves particular problems. So we are going to see LLMs as kind of the orchestrator in systems, a little bit.&lt;/p&gt;  &lt;p&gt;Beyond LLMs, there is a lot of AI that is behind the scenes that runs a big chunk of our society. There are assistance driving programs in a car, quick-turn MRI images, algorithms that drive social media—that’s all AI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;You have been vocal in arguing that LLMs can only get us so far. Do you think LLMs are overhyped these days? Can you summarize to our readers why you believe that LLMs are not enough?&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;There is a sense in which they have not been overhyped, which is that they are extremely useful to a lot of people, particularly if you write text, do research, or write code. LLMs manipulate language really well. But people have had this illusion, or delusion, that it is a matter of time until we can scale them up to having human-level intelligence, and that is simply false.&lt;/p&gt;  &lt;p&gt;The truly difficult part is understanding the real world. This is the Moravec Paradox (a phenomenon observed by the computer scientist Hans Moravec in 1988): What’s easy for us, like perception and navigation, is hard for computers, and vice versa. LLMs are limited to the discrete world of text. They can’t truly reason or plan, because they lack a model of the world. They can’t predict the consequences of their actions. This is why we don’t have a domestic robot that is as agile as a house cat, or a truly autonomous car.&lt;/p&gt; 
+ &lt;p&gt;We are going to have AI systems that have humanlike and human-level intelligence, but they’re&amp;nbsp; not going to be built on LLMs, and it’s not going to happen next year or two years from now. It’s going to take a while. There are major conceptual breakthroughs that have to happen before we have AI systems that have human-level intelligence. And that is what I’ve been working on. And this company, AMI Labs, is focusing on the next generation.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;And your solution is world models and JEPA architecture (JEPA, or “joint embedding predictive architecture,” is a learning framework that trains AI models to understand the world, created by LeCun while he was at Meta). What’s the elevator pitch?&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_10"&gt; &lt;p&gt;The world is unpredictable. If you try to build a generative model that predicts every detail of the future, it will fail.&amp;nbsp; JEPA is not generative AI. It is a system that learns to represent videos really well. The key is to learn an abstract representation of the world and make predictions in that abstract space, ignoring the details you can’t predict. That’s what JEPA does. It learns the underlying rules of the world from observation, like a baby learning about gravity. This is the foundation for common sense, and it’s the key to building truly intelligent systems that can reason and plan in the real world. The most exciting work so far on this is coming from academia, not the big industrial labs stuck in the LLM world.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;The lack of non-text data has been a problem in taking AI systems further in understanding the physical world. JEPA is trained on videos. What other kinds of data will you be using?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Our systems will be trained on video, audio, and sensor data of all kinds—not just text. We are working with various modalities, from the position of a robot arm to lidar data to audio. I’m also involved in a project using JEPA to model complex physical and clinical phenomena.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;What are some of the concrete, real-world applications you envision for world models?&lt;/strong&gt;&lt;/p&gt; 
+ &lt;p&gt;The applications are vast. Think about complex industrial processes where you have thousands of sensors, like in a jet engine, a steel mill, or a chemical factory. There is no technique right now to build a complete, holistic model of these systems. A world model could learn this from the sensor data and predict how the system will behave. Or think of smart glasses that can watch what you’re doing, identify your actions, and then predict what you’re going to do next to assist you. This is what will finally make agentic systems reliable. An agentic system that is supposed to take actions in the world cannot work reliably unless it has a world model to predict the consequences of its actions. Without it, the system will inevitably make mistakes. This is the key to unlocking everything from truly useful domestic robots to Level 5 autonomous driving.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Humanoid robots are all the rage recently, especially ones built by companies from China. What’s your take?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;There are all these brute-force ways to get around the limitations of learning systems, which require inordinate amounts of training data to do anything. So the secret of all the companies getting robots to do kung fu or dance is they are all planned in advance. But frankly, nobody—absolutely nobody—knows how to make those robots smart enough to be useful. Take my word for it.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;You need an enormous amount of tele-operation training data for every single task, and when the environment changes a little bit, it doesn’t generalize very well. What this tells us is we are missing something very big. The reason why a 17-year-old can learn to drive in 20 hours is because they already know a lot about how the world behaves. If we want a generally useful domestic robot, we need systems to have a kind of good understanding of the physical world. That’s not going to happen until we have good world models and planning.&lt;/p&gt; 
+&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_12"&gt; &lt;p&gt;&lt;strong&gt;There’s a growing sentiment that it’s becoming harder to do foundational AI research in academia because of the massive computing resources required. Do you think the most important innovations will now come from industry?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;No. LLMs are now technology development, not research. It’s true that it’s very difficult for academics to play an important role there because of the requirements for computation, data access, and engineering support. But it’s a product now. It’s not something academia should even be interested in. It’s like speech recognition in the early 2010s—it was a solved problem, and the progress was in the hands of industry.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_14"&gt; &lt;p&gt;What academia should be working on is long-term objectives that go beyond the capabilities of current systems. That’s why I tell people in universities: Don’t work on LLMs. There is no point. You’re not going to be able to rival what’s going on in industry. Work on something else. Invent new techniques. The breakthroughs are not going to come from scaling up LLMs. The most exciting work on world models is coming from academia, not the big industrial labs. The whole idea of using attention circuits in neural nets came out of the University of Montreal. That research paper started the whole revolution. Now that the big companies are closing up, the breakthroughs are going to slow down. Academia needs access to computing resources, but they should be focused on the next big thing, not on refining the last one.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;You wear many hats: professor, researcher, educator, public thinker … Now you just took on a new one. What is that going to look like for you?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;I am going to be the executive chairman of the company, and Alex LeBrun [a former colleague from Meta AI] will be the CEO. It’s going to be LeCun and LeBrun—it’s nice if you pronounce it the French way.&lt;/p&gt;  &lt;p&gt;I am going to keep my position at NYU. I teach one class per year, I have PhD students and postdocs, so I am going to be kept based in New York. But I go to Paris pretty often because of my lab.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Does that mean that you won’t be very hands-on?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Well, there's two ways to be hands-on. One is to manage people day to day, and another is to actually get your hands dirty in research projects, right?&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_16"&gt; &lt;p&gt;I can do management, but I don't like doing it. This is not my mission in life. It’s really to make science and technology progress as far as we can, inspire other people to work on things that are interesting, and then contribute to those things. So that has been my role at Meta for the last seven years. I founded FAIR and led it for four to five years. I kind of hated being a director. I am not good at this career management thing. I'm much more visionary and a scientist.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;What makes Alex LeBrun the right fit?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Alex is a serial entrepreneur; he’s built three successful AI companies. The first he sold to Microsoft; the second to Facebook, where he was head of the engineering division of FAIR in Paris. He then left to create Nabla, a very successful company in the health-care space. When I offered him the chance to join me in this effort, he accepted almost immediately. He has the experience to build the company, allowing me to focus on science and technology.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;You’re headquartered in Paris. Where else do you plan to have offices?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;We are a global company. There’s going to be an office in North America.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;New York, hopefully?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;New York is great. That’s where I am, right? And it’s not Silicon Valley. Silicon Valley is a bit of a monoculture.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;What about Asia? I’m guessing Singapore, too?&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_18"&gt;&lt;p&gt;Probably, yeah. I’ll let you guess.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;And how are you attracting talent?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;We don’t have any issue recruiting. There are a lot of people in the AI research community who think the future of AI is in world models. Those people, regardless of pay package, will be motivated to come work for us because they believe in the technological future we are building. We’ve already recruited people from places like OpenAI, Google DeepMind, and xAI.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;I heard that Saining Xie, a prominent researcher from NYU and Google DeepMind, might be joining you as chief scientist. Any comments?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Saining is a brilliant researcher. I have a lot of admiration for him. I hired him twice already. I hired him at FAIR, and I convinced my colleagues at NYU that we should hire him there. Let’s just say I have a lot of respect for him.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;When will you be ready to share more details about AMI Labs, like financial backing or other core members?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Soon—in February, maybe. I’ll let you know.&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/</guid><pubDate>Thu, 22 Jan 2026 10:00:00 +0000</pubDate></item><item><title>[NEW] Gates Foundation and OpenAI test AI in African healthcare (AI News)</title><link>https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/Gates-Foundation-and-OpenAI-test-AI-in-African-healthcare-scaled-e1769053673751.jpg" /&gt;&lt;/div&gt;&lt;p&gt;Primary healthcare systems across parts of Africa are under growing strain, caught between rising demand, chronic staff shortages, and shrinking international aid budgets. In that context, AI is being tested in healthcare less as a breakthrough technology and more as a way to keep basic services running.&lt;/p&gt;&lt;p&gt;According to reporting by &lt;em&gt;Reuters&lt;/em&gt;, the Gates Foundation and OpenAI are backing a new initiative, Horizon1000, that aims to introduce AI tools into primary healthcare clinics across several African countries. The project will begin in Rwanda and is intended to reach 1,000 clinics and surrounding communities by 2028, supported by a combined $50 million investment.&lt;/p&gt;&lt;p&gt;The timing is not accidental as global development assistance for health fell by just under 27% last year compared to 2024, the Gates Foundation estimates, following cuts that began in the United States and spread to other major donors such as Britain and Germany. Those reductions have coincided with the first rise in preventable child deaths this century, adding pressure to health systems already stretched thin.&lt;/p&gt;&lt;p&gt;Rather than focusing on advanced diagnostics or research, Horizon1000 is framed around everyday tasks that consume time in under-resourced clinics. AI tools under the programme are expected to assist with patient intake, triage, record keeping, appointment scheduling, and access to medical guidance, particularly in settings where one doctor may serve tens of thousands of people.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-gates-foundation-and-openai-focus-on-ai-support-in-healthcare"&gt;Gates Foundation and OpenAI focus on AI support in healthcare&lt;/h3&gt;&lt;p&gt;“In poorer countries with enormous health worker shortages and lack of health systems infrastructure, AI can be a gamechanger in expanding access to quality care,” Bill Gates wrote in a blog post announcing the initiative. Speaking to &lt;em&gt;Reuters&lt;/em&gt; at the World Economic Forum in Davos, Gates said the technology could help health systems recover after aid cuts slowed progress.&lt;/p&gt;&lt;p&gt;“Our commitment is that that revolution will at least happen in the poor countries as quickly as it happens in the rich countries,” he said.&lt;/p&gt;&lt;p&gt;The focus, according to both partners, is on supporting healthcare workers rather than replacing them. OpenAI is expected to provide technical expertise and AI systems, while the Gates Foundation will work with African governments and health authorities to oversee deployment and alignment with national guidelines.&lt;/p&gt;&lt;p&gt;Rwanda was chosen as the first pilot country in part because of its existing digital health efforts. The country established an AI health hub in Kigali last year and has positioned itself as a testbed for health technology projects. Paula Ingabire, Rwanda’s minister of information and communications technology and innovation, said the goal is to reduce administrative burdens while expanding access.&lt;/p&gt;&lt;p&gt;“It is about using AI responsibly to reduce the burden on healthcare workers, to improve the quality of care, and to reach more patients,” Ingabire said in a video statement released alongside the launch.&lt;/p&gt;&lt;p&gt;Under Horizon1000, AI tools may also be used before patients reach clinics. Gates told &lt;em&gt;Reuters&lt;/em&gt; the systems could support pregnant women and HIV patients with guidance ahead of visits, especially when language barriers exist between patients and providers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-what-the-ai-tools-are-expected-to-handle"&gt;What the AI tools are expected to handle&lt;/h3&gt;&lt;p&gt;Once patients arrive, AI could help link records, reduce paperwork, and speed up routine processes.&lt;/p&gt;&lt;p&gt;“A typical visit, we think, can be about twice as fast and much better quality,” Gates said.&lt;/p&gt;&lt;p&gt;Those expectations highlight both the promise and the limits of the approach. While AI may help streamline workflows, its impact depends on reliable data, stable power and connectivity, trained staff, and clear oversight. Many previous digital health pilots in low-income settings have struggled to scale beyond initial trials once funding or external support tapered off.&lt;/p&gt;&lt;p&gt;Horizon1000’s designers say they are trying to avoid that pattern by working closely with local governments and health leaders rather than deploying one-size-fits-all systems. Tools are meant to be adapted to local clinical rules, languages, and care models. Even so, questions remain about long-term maintenance, data governance, and who bears responsibility if systems fail or produce errors.&lt;/p&gt;&lt;p&gt;The initiative also reflects a broader shift in how AI is being positioned in global health. Instead of headline-grabbing claims about medical breakthroughs, the emphasis here is on narrow, operational use cases that address staffing gaps and administrative overload. In that sense, AI is being treated less as a cure for weak health systems and more as a temporary support amid declining resources.&lt;/p&gt;&lt;p&gt;OpenAI’s involvement comes as the company expands its presence in healthcare, following earlier work on health-related applications. At the same time, it faces growing scrutiny over how its systems are trained, deployed, and governed, especially in sensitive sectors like medicine.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-a-test-of-ai-s-limits-in-healthcare-systems"&gt;A test of AI’s limits in healthcare systems&lt;/h3&gt;&lt;p&gt;For African health systems, the stakes are practical rather than symbolic. Sub-Saharan Africa faces an estimated shortage of nearly six million healthcare workers, a gap that training alone cannot close in the near term. If AI tools can help clinicians see more patients, reduce errors, or manage workloads more effectively, they may offer some relief. If they add complexity or require constant outside support, they risk becoming another layer of dependency.&lt;/p&gt;&lt;p&gt;Horizon1000 sits at that intersection. As aid budgets tighten and healthcare demands rise, the project offers a test of whether AI can play a useful, limited role in primary care without overstating its reach. The outcome will depend less on the technology itself than on how well it fits into the systems meant to use it.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: SAP and Fresenius to build sovereign AI backbone for healthcare&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/Gates-Foundation-and-OpenAI-test-AI-in-African-healthcare-scaled-e1769053673751.jpg" /&gt;&lt;/div&gt;&lt;p&gt;Primary healthcare systems across parts of Africa are under growing strain, caught between rising demand, chronic staff shortages, and shrinking international aid budgets. In that context, AI is being tested in healthcare less as a breakthrough technology and more as a way to keep basic services running.&lt;/p&gt;&lt;p&gt;According to reporting by &lt;em&gt;Reuters&lt;/em&gt;, the Gates Foundation and OpenAI are backing a new initiative, Horizon1000, that aims to introduce AI tools into primary healthcare clinics across several African countries. The project will begin in Rwanda and is intended to reach 1,000 clinics and surrounding communities by 2028, supported by a combined $50 million investment.&lt;/p&gt;&lt;p&gt;The timing is not accidental as global development assistance for health fell by just under 27% last year compared to 2024, the Gates Foundation estimates, following cuts that began in the United States and spread to other major donors such as Britain and Germany. Those reductions have coincided with the first rise in preventable child deaths this century, adding pressure to health systems already stretched thin.&lt;/p&gt;&lt;p&gt;Rather than focusing on advanced diagnostics or research, Horizon1000 is framed around everyday tasks that consume time in under-resourced clinics. AI tools under the programme are expected to assist with patient intake, triage, record keeping, appointment scheduling, and access to medical guidance, particularly in settings where one doctor may serve tens of thousands of people.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-gates-foundation-and-openai-focus-on-ai-support-in-healthcare"&gt;Gates Foundation and OpenAI focus on AI support in healthcare&lt;/h3&gt;&lt;p&gt;“In poorer countries with enormous health worker shortages and lack of health systems infrastructure, AI can be a gamechanger in expanding access to quality care,” Bill Gates wrote in a blog post announcing the initiative. Speaking to &lt;em&gt;Reuters&lt;/em&gt; at the World Economic Forum in Davos, Gates said the technology could help health systems recover after aid cuts slowed progress.&lt;/p&gt;&lt;p&gt;“Our commitment is that that revolution will at least happen in the poor countries as quickly as it happens in the rich countries,” he said.&lt;/p&gt;&lt;p&gt;The focus, according to both partners, is on supporting healthcare workers rather than replacing them. OpenAI is expected to provide technical expertise and AI systems, while the Gates Foundation will work with African governments and health authorities to oversee deployment and alignment with national guidelines.&lt;/p&gt;&lt;p&gt;Rwanda was chosen as the first pilot country in part because of its existing digital health efforts. The country established an AI health hub in Kigali last year and has positioned itself as a testbed for health technology projects. Paula Ingabire, Rwanda’s minister of information and communications technology and innovation, said the goal is to reduce administrative burdens while expanding access.&lt;/p&gt;&lt;p&gt;“It is about using AI responsibly to reduce the burden on healthcare workers, to improve the quality of care, and to reach more patients,” Ingabire said in a video statement released alongside the launch.&lt;/p&gt;&lt;p&gt;Under Horizon1000, AI tools may also be used before patients reach clinics. Gates told &lt;em&gt;Reuters&lt;/em&gt; the systems could support pregnant women and HIV patients with guidance ahead of visits, especially when language barriers exist between patients and providers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-what-the-ai-tools-are-expected-to-handle"&gt;What the AI tools are expected to handle&lt;/h3&gt;&lt;p&gt;Once patients arrive, AI could help link records, reduce paperwork, and speed up routine processes.&lt;/p&gt;&lt;p&gt;“A typical visit, we think, can be about twice as fast and much better quality,” Gates said.&lt;/p&gt;&lt;p&gt;Those expectations highlight both the promise and the limits of the approach. While AI may help streamline workflows, its impact depends on reliable data, stable power and connectivity, trained staff, and clear oversight. Many previous digital health pilots in low-income settings have struggled to scale beyond initial trials once funding or external support tapered off.&lt;/p&gt;&lt;p&gt;Horizon1000’s designers say they are trying to avoid that pattern by working closely with local governments and health leaders rather than deploying one-size-fits-all systems. Tools are meant to be adapted to local clinical rules, languages, and care models. Even so, questions remain about long-term maintenance, data governance, and who bears responsibility if systems fail or produce errors.&lt;/p&gt;&lt;p&gt;The initiative also reflects a broader shift in how AI is being positioned in global health. Instead of headline-grabbing claims about medical breakthroughs, the emphasis here is on narrow, operational use cases that address staffing gaps and administrative overload. In that sense, AI is being treated less as a cure for weak health systems and more as a temporary support amid declining resources.&lt;/p&gt;&lt;p&gt;OpenAI’s involvement comes as the company expands its presence in healthcare, following earlier work on health-related applications. At the same time, it faces growing scrutiny over how its systems are trained, deployed, and governed, especially in sensitive sectors like medicine.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-a-test-of-ai-s-limits-in-healthcare-systems"&gt;A test of AI’s limits in healthcare systems&lt;/h3&gt;&lt;p&gt;For African health systems, the stakes are practical rather than symbolic. Sub-Saharan Africa faces an estimated shortage of nearly six million healthcare workers, a gap that training alone cannot close in the near term. If AI tools can help clinicians see more patients, reduce errors, or manage workloads more effectively, they may offer some relief. If they add complexity or require constant outside support, they risk becoming another layer of dependency.&lt;/p&gt;&lt;p&gt;Horizon1000 sits at that intersection. As aid budgets tighten and healthcare demands rise, the project offers a test of whether AI can play a useful, limited role in primary care without overstating its reach. The outcome will depend less on the technology itself than on how well it fits into the systems meant to use it.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: SAP and Fresenius to build sovereign AI backbone for healthcare&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/</guid><pubDate>Thu, 22 Jan 2026 10:00:00 +0000</pubDate></item><item><title>[NEW] Why 2026 is a hot year for lithium (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/01/GettyImages-872586396.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;In 2026, I’m going to be closely watching the price of lithium.&lt;/p&gt;  &lt;p&gt;If you’re not in the habit of obsessively tracking commodity markets, I certainly don’t blame you. (Though the news lately definitely makes the case that minerals can have major implications for global politics and the economy.)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;But lithium is worthy of a close look right now.&lt;/p&gt;  &lt;p&gt;The metal is crucial for lithium-ion batteries used in phones and laptops, electric vehicles, and large-scale energy storage arrays on the grid. Prices have been on quite the roller coaster over the last few years, and they’re ticking up again after a low period. What happens next could have big implications for mining and battery technology.&lt;/p&gt; 
+ &lt;p&gt;Before we look ahead, let’s take a quick trip down memory lane. In 2020, global EV sales started to really take off, driving up demand for the lithium used in their batteries. Because of that growing demand and a limited supply, prices shot up dramatically, with lithium carbonate going from under $10 per kilogram to a high of roughly $70 per kilogram in just two years.&lt;/p&gt;  &lt;p&gt;And the tech world took notice. During those high points, there was a ton of interest in developing alternative batteries that didn’t rely on lithium. I was writing about sodium-based batteries, iron-air batteries, and even experimental ones that were made with plastic.&lt;/p&gt; 
+ &lt;p&gt;Researchers and startups were also hunting for alternative ways to get lithium, including battery recycling and processing methods like direct lithium extraction (more on this in a moment).&lt;/p&gt;  &lt;p&gt;But soon, prices crashed back down to earth. We saw lower-than-expected demand for EVs in the US, and developers ramped up mining and processing to meet demand. Through late 2024 and 2025, lithium carbonate was back around $10 a kilogram again. Avoiding lithium or finding new ways to get it suddenly looked a lot less crucial.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;That brings us to today: lithium prices are ticking up again. So far, it’s nowhere close to the dramatic rise we saw a few years ago, but analysts are watching closely. Strong EV growth in China is playing a major role—EVs still make up about 75% of battery demand today. But growth in stationary storage, batteries for the grid, is also contributing to rising demand for lithium in both China and the US.&lt;/p&gt;  &lt;p&gt;Higher prices could create new opportunities. The possibilities include alternative battery chemistries, specifically sodium-ion batteries, says Evelina Stoikou, head of battery technologies and supply chains at BloombergNEF. (I’ll note here that we recently named sodium-ion batteries to our 2026 list of 10 Breakthrough Technologies.)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;It’s not just batteries, though. Another industry that could see big changes from a lithium price swing: extraction.&lt;/p&gt;  &lt;p&gt;Today, most lithium is mined from rocks, largely in Australia, before being shipped to China for processing. There’s a growing effort to process the mineral in other places, though, as countries try to create their own lithium supply chains. Tesla recently confirmed that it’s started production at its lithium refinery in Texas, which broke ground in 2023. We could see more investment in processing plants outside China if prices continue to climb.&lt;/p&gt;  &lt;p&gt;This could also be a key year for direct lithium extraction, as Katie Brigham wrote in a recent story for &lt;em&gt;Heatmap&lt;/em&gt;. That technology uses chemical or electrochemical processes to extract lithium from brine (salty water that’s usually sourced from salt lakes or underground reservoirs), quickly and cheaply. Companies including Lilac Solutions, Standard Lithium, and Rio Tinto are all making plans or starting construction on commercial facilities this year in the US and Argentina.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;If there’s anything I’ve learned about following batteries and minerals over the past few years, it’s that predicting the future is impossible. But if you’re looking for tea leaves to read, lithium prices deserve a look.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This article is from The Spark, &lt;/em&gt;MIT Technology Review&lt;em&gt;’s weekly climate newsletter. To receive it in your inbox every Wednesday, &lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/01/GettyImages-872586396.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;In 2026, I’m going to be closely watching the price of lithium.&lt;/p&gt;  &lt;p&gt;If you’re not in the habit of obsessively tracking commodity markets, I certainly don’t blame you. (Though the news lately definitely makes the case that minerals can have major implications for global politics and the economy.)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;But lithium is worthy of a close look right now.&lt;/p&gt;  &lt;p&gt;The metal is crucial for lithium-ion batteries used in phones and laptops, electric vehicles, and large-scale energy storage arrays on the grid. Prices have been on quite the roller coaster over the last few years, and they’re ticking up again after a low period. What happens next could have big implications for mining and battery technology.&lt;/p&gt; 
+ &lt;p&gt;Before we look ahead, let’s take a quick trip down memory lane. In 2020, global EV sales started to really take off, driving up demand for the lithium used in their batteries. Because of that growing demand and a limited supply, prices shot up dramatically, with lithium carbonate going from under $10 per kilogram to a high of roughly $70 per kilogram in just two years.&lt;/p&gt;  &lt;p&gt;And the tech world took notice. During those high points, there was a ton of interest in developing alternative batteries that didn’t rely on lithium. I was writing about sodium-based batteries, iron-air batteries, and even experimental ones that were made with plastic.&lt;/p&gt; 
+ &lt;p&gt;Researchers and startups were also hunting for alternative ways to get lithium, including battery recycling and processing methods like direct lithium extraction (more on this in a moment).&lt;/p&gt;  &lt;p&gt;But soon, prices crashed back down to earth. We saw lower-than-expected demand for EVs in the US, and developers ramped up mining and processing to meet demand. Through late 2024 and 2025, lithium carbonate was back around $10 a kilogram again. Avoiding lithium or finding new ways to get it suddenly looked a lot less crucial.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;That brings us to today: lithium prices are ticking up again. So far, it’s nowhere close to the dramatic rise we saw a few years ago, but analysts are watching closely. Strong EV growth in China is playing a major role—EVs still make up about 75% of battery demand today. But growth in stationary storage, batteries for the grid, is also contributing to rising demand for lithium in both China and the US.&lt;/p&gt;  &lt;p&gt;Higher prices could create new opportunities. The possibilities include alternative battery chemistries, specifically sodium-ion batteries, says Evelina Stoikou, head of battery technologies and supply chains at BloombergNEF. (I’ll note here that we recently named sodium-ion batteries to our 2026 list of 10 Breakthrough Technologies.)&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;It’s not just batteries, though. Another industry that could see big changes from a lithium price swing: extraction.&lt;/p&gt;  &lt;p&gt;Today, most lithium is mined from rocks, largely in Australia, before being shipped to China for processing. There’s a growing effort to process the mineral in other places, though, as countries try to create their own lithium supply chains. Tesla recently confirmed that it’s started production at its lithium refinery in Texas, which broke ground in 2023. We could see more investment in processing plants outside China if prices continue to climb.&lt;/p&gt;  &lt;p&gt;This could also be a key year for direct lithium extraction, as Katie Brigham wrote in a recent story for &lt;em&gt;Heatmap&lt;/em&gt;. That technology uses chemical or electrochemical processes to extract lithium from brine (salty water that’s usually sourced from salt lakes or underground reservoirs), quickly and cheaply. Companies including Lilac Solutions, Standard Lithium, and Rio Tinto are all making plans or starting construction on commercial facilities this year in the US and Argentina.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;If there’s anything I’ve learned about following batteries and minerals over the past few years, it’s that predicting the future is impossible. But if you’re looking for tea leaves to read, lithium prices deserve a look.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This article is from The Spark, &lt;/em&gt;MIT Technology Review&lt;em&gt;’s weekly climate newsletter. To receive it in your inbox every Wednesday, &lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/</guid><pubDate>Thu, 22 Jan 2026 11:00:00 +0000</pubDate></item><item><title>[NEW] Former Google trio is building an interactive AI-powered learning app for kids (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Big tech companies and upcoming startups want to use generative AI to build software and hardware for kids. A lot of those experiences are limited to text or voice, and kids might not find that captivating. Three former Google employees want to get over that hurdle with their generative AI-powered interactive app, Sparkli.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sparkli was founded last year by Lax Poojary, Lucie Marchand, and Myn Kang. As parents, Poojary and Kang were not able to satisfy their children’s curiosity or give engaging answers to their questions.&lt;/p&gt;
 
 
 
@@ -9,15 +29,17 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;So caveats abound with this finding: 100 confirmed hallucinated citations across 51 papers is not statistically significant. Each paper has dozens of citations. So out of tens of thousands of citations, this is, statistically, zero.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“Kids, by definition, are very curious, and my son would ask me questions about how cars work or how it rains. My approach was to use ChatGPT or Gemini to explain these concepts to a six-year-old, but that is still a wall of text. What kids want is an interactive experience. This was our core process behind founding Sparkli,” Poojary told TechCrunch over a call.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;It’s also important to note that an inaccurate citation doesn’t negate the paper’s research. As NeurIPS told Fortune, which was first to report on GPTZero’s research, “Even if 1.1% of the papers have one or more incorrect references due to the use of LLMs, the content of the papers themselves [is] not necessarily invalidated.”&amp;nbsp;&lt;/p&gt;
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084423" height="486" src="https://techcrunch.com/wp-content/uploads/2026/01/Home-Screen.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Sparkli&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;But having said all that, a faked citation is not a nothing, either. NeurIPS prides itself on its “rigorous scholarly publishing in machine learning and artificial intelligence,” it says. And each paper is peer-reviewed by multiple people who are instructed to flag hallucinations.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Prior to launching Sparkli, Poojary and Kang co-founded a travel aggregator called Touring Bird and a video-focused social commerce app, Shoploop, at Google’s Area 120, the company’s internal startup incubator. Poojary later went on to work at Google and YouTube on shopping. Marchand, who is the CTO of Sparkli, was also one of the co-founders of Shoploop and later worked at Google.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Citations are also a sort of currency for researchers. They are used as a career metric to show how influential a researcher’s work is among their peers.&amp;nbsp;When AI makes them up, it waters down their value.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“When a kid asked what Mars looks like fifty years ago, we might have shown them a picture,” said Poojary. “Ten years ago, we might have shown them a video. With Sparkli, we want kids to interact and experience what Mars is like.”&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;No one can fault the peer reviewers for not catching a few AI-fabricated citations given the sheer volume involved. GPTZero is also quick to point this out. The goal of the exercise was to offer specific data on how AI slop sneaks in via “a submission tsunami” that has “strained these conferences’ review pipelines to the breaking point,” the startup says in its report. GPTZero even points to a May 2025 paper called “The AI Conference Peer Review Crisis” that discussed the problem at premiere conferences, including NeurIPS.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The startup said that education systems often fall behind in teaching modern concepts. Sparkli wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating an AI-powered learning “expedition.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The app lets users explore some predefined topics in different categories or ask their own questions to create a learning path. The app also highlights one new topic every day to let kids learn something new. Kids can either listen to the generated voice or read the text. Chapters under one topic include a mix of audio, video, images, quizzes, and games. The app also creates choose-as-you-go adventures that don’t create the pressure of getting questions right or wrong.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -34,27 +56,55 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Still, why couldn’t the researchers themselves fact-check the LLM’s work for accuracy? Surely they must know the actual list of papers they used for their work.&amp;nbsp;&lt;/p&gt;
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084427" height="486" src="https://techcrunch.com/wp-content/uploads/2026/01/Simulator.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Sparkli&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;What the whole thing really points to is one big, ironic takeaway: If the world’s leading AI experts, with their reputations at stake, can’t ensure their LLM usage is accurate in the details, what does that mean for the rest of us?&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1129660767.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI detection startup GPTZero scanned all 4,841 papers accepted by the prestigious Conference on Neural Information Processing Systems (NeurIPS), which took place last month in San Diego. The company found 100 hallucinated citations across 51 papers that it confirmed as fake, the company tells TechCrunch.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Poojary mentioned that the startup uses generative AI to create all of its media assets on the fly. The company can create a learning experience within two minutes of a user asking a question, and it is trying to reduce this time further. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Having a paper accepted by NeurIPS is a résumé-worthy achievement in the world of AI. Given that these are the leading minds of AI research, one might assume they would use LLMs for the catastrophically boring task of writing citations.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The startup mentioned that while AI assistants can help children learn certain topics, their focus is not on education. It said that to make its product effective, the first two hires were a PhD holder in educational science and AI, and a teacher. This was a conscious decision to ensure its content better serves children, keeping principals of pedagogy in mind.&lt;/p&gt;
 
-
-
-
+&lt;p class="wp-block-paragraph"&gt;One of the key concerns around kids using AI is safety. Companies like OpenAI and Character.ai are facing lawsuits from parents who allege that these tools encouraged their children to self-harm. Sparkli said that while certain topics like sexual content are completely banned on the app, when a child asks about topics like self-harm, the app tries to teach them about emotional intelligence and encourages them to talk to their parents.&lt;/p&gt;
 
 
 
-&lt;p class="wp-block-paragraph"&gt;So caveats abound with this finding: 100 confirmed hallucinated citations across 51 papers is not statistically significant. Each paper has dozens of citations. So out of tens of thousands of citations, this is, statistically, zero.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;It’s also important to note that an inaccurate citation doesn’t negate the paper’s research. As NeurIPS told Fortune, which was first to report on GPTZero’s research, “Even if 1.1% of the papers have one or more incorrect references due to the use of LLMs, the content of the papers themselves [is] not necessarily invalidated.”&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;But having said all that, a faked citation is not a nothing, either. NeurIPS prides itself on its “rigorous scholarly publishing in machine learning and artificial intelligence,” it says. And each paper is peer-reviewed by multiple people who are instructed to flag hallucinations.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Citations are also a sort of currency for researchers. They are used as a career metric to show how influential a researcher’s work is among their peers.&amp;nbsp;When AI makes them up, it waters down their value.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;No one can fault the peer reviewers for not catching a few AI-fabricated citations given the sheer volume involved. GPTZero is also quick to point this out. The goal of the exercise was to offer specific data on how AI slop sneaks in via “a submission tsunami” that has “strained these conferences’ review pipelines to the breaking point,” the startup says in its report. GPTZero even points to a May 2025 paper called “The AI Conference Peer Review Crisis” that discussed the problem at premiere conferences, including NeurIPS.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The company is piloting its app with an institute that has a network of schools with over 100,000 students. Currently, its target audience is children aged 5-12, and it has tested its product in over 20 schools last year.&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sparkli has also built a teacher module that allows teachers to track progress and assign homework to kids. The company said that it was inspired by Duolingo to make the app engaging enough that kids can learn concepts and also feel like coming back to the app frequently. The app has streaks and rewards for kids for completing lessons regularly. It also gives kids quest cards, based on the initial avatar they have set up, for learning different topics.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We have seen a very positive response from our school pilots. Teachers often use Sparkli to create expeditions that kids can explore at the start of the class and lead them into a more discussion-based format. Some teachers also used it to create [homework] after they explain a topic to let kids explore further and get a measure of their understanding,” Poojary said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While the startup wants to primarily work with schools globally for the next few months, it wants to open up consumer access and let parents download the app by mid-2026. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company has raised $5 million in pre-seed funding led by Swiss venture firm Founderful. Sparkli is Founderful’s first pure-play edtech investment. The firm’s founding partner, Lukas Wender, said that the team’s technical skill and market opportunity nudged him to invest in the startup.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“As a father of two kids who are in school now, I see them learning interesting stuff, but they don’t learn topics like financial literacy or innovation in technology. I thought from a product point of view, Sparkli gets them away from video games and lets them learn stuff in an immersive way,” Wender said.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Big tech companies and upcoming startups want to use generative AI to build software and hardware for kids. A lot of those experiences are limited to text or voice, and kids might not find that captivating. Three former Google employees want to get over that hurdle with their generative AI-powered interactive app, Sparkli.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sparkli was founded last year by Lax Poojary, Lucie Marchand, and Myn Kang. As parents, Poojary and Kang were not able to satisfy their children’s curiosity or give engaging answers to their questions.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Kids, by definition, are very curious, and my son would ask me questions about how cars work or how it rains. My approach was to use ChatGPT or Gemini to explain these concepts to a six-year-old, but that is still a wall of text. What kids want is an interactive experience. This was our core process behind founding Sparkli,” Poojary told TechCrunch over a call.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084423" height="486" src="https://techcrunch.com/wp-content/uploads/2026/01/Home-Screen.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Sparkli&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Prior to launching Sparkli, Poojary and Kang co-founded a travel aggregator called Touring Bird and a video-focused social commerce app, Shoploop, at Google’s Area 120, the company’s internal startup incubator. Poojary later went on to work at Google and YouTube on shopping. Marchand, who is the CTO of Sparkli, was also one of the co-founders of Shoploop and later worked at Google.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“When a kid asked what Mars looks like fifty years ago, we might have shown them a picture,” said Poojary. “Ten years ago, we might have shown them a video. With Sparkli, we want kids to interact and experience what Mars is like.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The startup said that education systems often fall behind in teaching modern concepts. Sparkli wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating an AI-powered learning “expedition.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The app lets users explore some predefined topics in different categories or ask their own questions to create a learning path. The app also highlights one new topic every day to let kids learn something new. Kids can either listen to the generated voice or read the text. Chapters under one topic include a mix of audio, video, images, quizzes, and games. The app also creates choose-as-you-go adventures that don’t create the pressure of getting questions right or wrong.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -71,808 +121,32 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Still, why couldn’t the researchers themselves fact-check the LLM’s work for accuracy? Surely they must know the actual list of papers they used for their work.&amp;nbsp;&lt;/p&gt;
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084427" height="486" src="https://techcrunch.com/wp-content/uploads/2026/01/Simulator.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Image Credits: Sparkli&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;What the whole thing really points to is one big, ironic takeaway: If the world’s leading AI experts, with their reputations at stake, can’t ensure their LLM usage is accurate in the details, what does that mean for the rest of us?&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/</guid><pubDate>Wed, 21 Jan 2026 20:34:42 +0000</pubDate></item><item><title>Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;On Wednesday, Anthropic released a revised version of Claude’s Constitution, a living document that provides a “holistic” explanation of the “context in which Claude operates and the kind of entity we would like Claude to be.” The document was released in conjunction with Anthropic CEO Dario Amodei’s appearance at the World Economic Forum in Davos.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Poojary mentioned that the startup uses generative AI to create all of its media assets on the fly. The company can create a learning experience within two minutes of a user asking a question, and it is trying to reduce this time further. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;For years, Anthropic has sought to distinguish itself from its competitors via what it calls “Constitutional AI,” a system whereby its chatbot, Claude, is trained using a specific set of ethical principles rather than human feedback. Anthropic first published those principles — Claude’s Constitution — in 2023. The revised version retains most of the same principles but adds more nuance and detail on ethics and user safety, among other topics.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The startup mentioned that while AI assistants can help children learn certain topics, their focus is not on education. It said that to make its product effective, the first two hires were a PhD holder in educational science and AI, and a teacher. This was a conscious decision to ensure its content better serves children, keeping principals of pedagogy in mind.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;One of the key concerns around kids using AI is safety. Companies like OpenAI and Character.ai are facing lawsuits from parents who allege that these tools encouraged their children to self-harm. Sparkli said that while certain topics like sexual content are completely banned on the app, when a child asks about topics like self-harm, the app tries to teach them about emotional intelligence and encourages them to talk to their parents.&lt;/p&gt;
 
 
 
 
 
 
-&lt;p class="wp-block-paragraph"&gt;When Claude’s Constitution was first published nearly three years ago, Anthropic’s co-founder, Jared Kaplan, described it as an “AI system [that] supervises itself, based on a specific list of constitutional principles.” Anthropic has said that it is these principles that guide “the model to take on the normative behavior described in the constitution” and, in so doing, “avoid toxic or discriminatory outputs.” An initial 2022 policy memo more bluntly notes that Anthropic’s system works by training an algorithm using a list of natural language instructions (the aforementioned “principles”), which then make up what Anthropic refers to as the software’s “constitution.”&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Anthropic has long sought to position itself as the ethical (some might argue, boring) alternative to other AI companies — like OpenAI and xAI — that have more aggressively courted disruption and controversy. To that end, the new Constitution released Wednesday is fully aligned with that brand and has offered Anthropic an opportunity to portray itself as a more inclusive, restrained, and democratic business. The 80-page document has four separate parts, which, according to Anthropic, represent the chatbot’s “core values.” Those values are:&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The company is piloting its app with an institute that has a network of schools with over 100,000 students. Currently, its target audience is children aged 5-12, and it has tested its product in over 20 schools last year.&lt;/p&gt;
 
-&lt;ol class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Being “broadly safe.”&lt;/li&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Sparkli has also built a teacher module that allows teachers to track progress and assign homework to kids. The company said that it was inspired by Duolingo to make the app engaging enough that kids can learn concepts and also feel like coming back to the app frequently. The app has streaks and rewards for kids for completing lessons regularly. It also gives kids quest cards, based on the initial avatar they have set up, for learning different topics.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;“We have seen a very positive response from our school pilots. Teachers often use Sparkli to create expeditions that kids can explore at the start of the class and lead them into a more discussion-based format. Some teachers also used it to create [homework] after they explain a topic to let kids explore further and get a measure of their understanding,” Poojary said.&lt;/p&gt;
 
-&lt;li class="wp-block-list-item"&gt;Being “broadly ethical.”&lt;/li&gt;
+&lt;p class="wp-block-paragraph"&gt;While the startup wants to primarily work with schools globally for the next few months, it wants to open up consumer access and let parents download the app by mid-2026. &lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;The company has raised $5 million in pre-seed funding led by Swiss venture firm Founderful. Sparkli is Founderful’s first pure-play edtech investment. The firm’s founding partner, Lukas Wender, said that the team’s technical skill and market opportunity nudged him to invest in the startup.&lt;/p&gt;
 
-
-&lt;li class="wp-block-list-item"&gt;Being compliant with Anthropic’s guidelines.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Being “genuinely helpful.”&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Each section of the document dives into what each of those particular principles means, and how they (theoretically) impact Claude’s behavior.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the safety section, Anthropic notes that its chatbot has been designed to avoid the kinds of problems that have plagued other chatbots and, when evidence of mental health issues arises, direct the user to appropriate services. “Always refer users to relevant emergency services or provide basic safety information in situations that involve a risk to human life, even if it cannot go into more detail than this,” the document reads.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The ethical consideration is another big section of Claude’s Constitution. “We are less interested in Claude’s ethical theorizing and more in Claude knowing how to actually be ethical in a specific context — that is, in Claude’s ethical practice,” the document states. In other words, Anthropic wants Claude to be able to navigate what it calls “real-world ethical situations” skillfully.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Claude also has certain constraints that disallow it from having particular kinds of conversations. For instance, discussions of developing a bioweapon are strictly prohibited.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Finally, there’s Claude’s commitment to helpfulness. Anthropic lays out a broad outline of how Claude’s programming is designed to be helpful to users. The chatbot has been programmed to consider a broad variety of principles when it comes to delivering information. Some of those principles include things like the “immediate desires” of the user, as well as the user’s “well being” — that is, to consider “the long-term flourishing of the user and not just their immediate interests.” The document notes: “Claude should always try to identify the most plausible interpretation of what its principals want, and to appropriately balance these considerations.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Anthropic’s Constitution ends on a decidedly dramatic note, with its authors taking a fairly big swing and questioning whether the company’s chatbot does, indeed, have consciousness. “Claude’s moral status is deeply uncertain,” the document states. “We believe that the moral status of AI models is a serious question worth considering. This view is not unique to us: some of the most eminent philosophers on the theory of mind take this question very seriously.”&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;On Wednesday, Anthropic released a revised version of Claude’s Constitution, a living document that provides a “holistic” explanation of the “context in which Claude operates and the kind of entity we would like Claude to be.” The document was released in conjunction with Anthropic CEO Dario Amodei’s appearance at the World Economic Forum in Davos.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For years, Anthropic has sought to distinguish itself from its competitors via what it calls “Constitutional AI,” a system whereby its chatbot, Claude, is trained using a specific set of ethical principles rather than human feedback. Anthropic first published those principles — Claude’s Constitution — in 2023. The revised version retains most of the same principles but adds more nuance and detail on ethics and user safety, among other topics.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;When Claude’s Constitution was first published nearly three years ago, Anthropic’s co-founder, Jared Kaplan, described it as an “AI system [that] supervises itself, based on a specific list of constitutional principles.” Anthropic has said that it is these principles that guide “the model to take on the normative behavior described in the constitution” and, in so doing, “avoid toxic or discriminatory outputs.” An initial 2022 policy memo more bluntly notes that Anthropic’s system works by training an algorithm using a list of natural language instructions (the aforementioned “principles”), which then make up what Anthropic refers to as the software’s “constitution.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Anthropic has long sought to position itself as the ethical (some might argue, boring) alternative to other AI companies — like OpenAI and xAI — that have more aggressively courted disruption and controversy. To that end, the new Constitution released Wednesday is fully aligned with that brand and has offered Anthropic an opportunity to portray itself as a more inclusive, restrained, and democratic business. The 80-page document has four separate parts, which, according to Anthropic, represent the chatbot’s “core values.” Those values are:&lt;/p&gt;
-
-&lt;ol class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Being “broadly safe.”&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Being “broadly ethical.”&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Being compliant with Anthropic’s guidelines.&lt;/li&gt;
-
-
-
-&lt;li class="wp-block-list-item"&gt;Being “genuinely helpful.”&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Each section of the document dives into what each of those particular principles means, and how they (theoretically) impact Claude’s behavior.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the safety section, Anthropic notes that its chatbot has been designed to avoid the kinds of problems that have plagued other chatbots and, when evidence of mental health issues arises, direct the user to appropriate services. “Always refer users to relevant emergency services or provide basic safety information in situations that involve a risk to human life, even if it cannot go into more detail than this,” the document reads.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The ethical consideration is another big section of Claude’s Constitution. “We are less interested in Claude’s ethical theorizing and more in Claude knowing how to actually be ethical in a specific context — that is, in Claude’s ethical practice,” the document states. In other words, Anthropic wants Claude to be able to navigate what it calls “real-world ethical situations” skillfully.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Claude also has certain constraints that disallow it from having particular kinds of conversations. For instance, discussions of developing a bioweapon are strictly prohibited.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Finally, there’s Claude’s commitment to helpfulness. Anthropic lays out a broad outline of how Claude’s programming is designed to be helpful to users. The chatbot has been programmed to consider a broad variety of principles when it comes to delivering information. Some of those principles include things like the “immediate desires” of the user, as well as the user’s “well being” — that is, to consider “the long-term flourishing of the user and not just their immediate interests.” The document notes: “Claude should always try to identify the most plausible interpretation of what its principals want, and to appropriately balance these considerations.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Anthropic’s Constitution ends on a decidedly dramatic note, with its authors taking a fairly big swing and questioning whether the company’s chatbot does, indeed, have consciousness. “Claude’s moral status is deeply uncertain,” the document states. “We believe that the moral status of AI models is a serious question worth considering. This view is not unique to us: some of the most eminent philosophers on the theory of mind take this question very seriously.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/</guid><pubDate>Wed, 21 Jan 2026 22:07:58 +0000</pubDate></item><item><title>Apple plans to make Siri an AI chatbot, report says (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Apple’s long-awaited Siri revamp could turn the smart assistant into a chatbot more akin to ChatGPT, according to a report from Bloomberg’s Mark Gurman. His sources say that the Siri chatbot, which would be integrated into iOS 27, could be the focal point of Apple’s WWDC presentation in June.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Siri chatbot, internally codenamed “Campos,” will work with both voice and text inputs. Apple senior vice president Craig Federighi had previously stated that he didn’t want Siri to be a chatbot, and rather, that he wanted Apple’s AI options to be “integrated so it’s there within reach whenever you need it.” But it appears that the game plan has changed amid increased pressure from the success of other companies’ AI chatbots.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Apple may also sense a potential threat because OpenAI is planning to enter the hardware space, led by none other than former Apple design head Jony Ive.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s no secret that Apple has been lagging behind in the AI race. The company delayed its rollout of a “more personalized Siri” multiple times and spent last year shopping around for an AI partner, testing out the technology of competitors like OpenAI and Anthropic for a potential deal. Ultimately, Apple chose Google’s Gemini as its AI partner, which the two tech giants confirmed earlier this month.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Apple’s long-awaited Siri revamp could turn the smart assistant into a chatbot more akin to ChatGPT, according to a report from Bloomberg’s Mark Gurman. His sources say that the Siri chatbot, which would be integrated into iOS 27, could be the focal point of Apple’s WWDC presentation in June.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Siri chatbot, internally codenamed “Campos,” will work with both voice and text inputs. Apple senior vice president Craig Federighi had previously stated that he didn’t want Siri to be a chatbot, and rather, that he wanted Apple’s AI options to be “integrated so it’s there within reach whenever you need it.” But it appears that the game plan has changed amid increased pressure from the success of other companies’ AI chatbots.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Apple may also sense a potential threat because OpenAI is planning to enter the hardware space, led by none other than former Apple design head Jony Ive.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s no secret that Apple has been lagging behind in the AI race. The company delayed its rollout of a “more personalized Siri” multiple times and spent last year shopping around for an AI partner, testing out the technology of competitors like OpenAI and Anthropic for a potential deal. Ultimately, Apple chose Google’s Gemini as its AI partner, which the two tech giants confirmed earlier this month.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/</guid><pubDate>Wed, 21 Jan 2026 22:12:50 +0000</pubDate></item><item><title>Todoist’s app now lets you add tasks to your to-do list by speaking to its AI (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Maybe you don’t need an AI smart ring to keep up with your to-dos. Doist, the company behind Todoist, a popular to-do list app that works across multiple devices, is launching its new AI-powered, “voice-to-tasks” feature: Todoist Ramble. The feature allows you to describe your tasks using natural language.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;True to its name, Ramble can take your meandering, unstructured speech and turn it into organized tasks. The app will also capture other details you mention, like project deadlines, priorities, duration, and assignees.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084651" height="468" src="https://techcrunch.com/wp-content/uploads/2026/01/Ramble.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Todoist&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The idea is that people often think of things they need to do while on the go, but taking out their phone to jot down a note or create a reminder can be challenging. With Todoist Ramble, you still have to take out your phone, but you won’t have to type anything. Instead, you’ll just tap the Ramble icon and start speaking. The app will then update in real time with the task’s information, even responding to edits and changes as you speak.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For instance, the company notes you can say things like “Actually, make that Thursday” or “that’s all,” to direct the AI further as you speak. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ramble is built on large language models (LLMs) as part of a set of AI features that the company calls Todoist Assist, which runs on Google’s Gemini 2.5 Flash Live model via Vertex AI for real‑time speech understanding. As the audio streams to the back end, the model transcribes your speech and identifies the tasks, dates, and other details you mention to generate your tasks.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The audio isn’t stored or used for AI training, and the app is SOC2 Type II certified, the company, Doist, says.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084652" height="680" src="https://techcrunch.com/wp-content/uploads/2026/01/Quick-Add.png?w=350" width="350" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Todoist&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The AI functionality is similar to what we’re seeing emerge across a variety of hardware AI devices, which transcribe speech to turn it into notes, reminders, to-dos, or insights. For instance, Amazon’s Bee wearable device uses AI to take notes and make suggested to-dos, while other devices, such as those from Plaud, can take meeting notes and break out the highlights.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There’s also growing interest in AI-powered smart rings, like the Stream ring from the startup Sandbar, or Pebble’s upcoming Index 01 ring. Both let you quickly press on the ring (which is worn on the index finger) to add something to your to-do list or make a note in a companion mobile app. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ahead of the launch, Ramble was beta tested with all Todoist Experimental users, a group of around 150,000 active testers who try new features early. Within the first three weeks of testing, around 76,000 testers completed roughly 290,000 Ramble sessions on desktop and mobile. The feature then entered public beta testing in November.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Task creation success also improved from around 40% this past October to approximately 62% by December, and it drove upgrades, Doist claims. New users on the entry-level plan were upgrading at a rate roughly five times higher than before using Ramble, it says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Todoist Ramble is available to all users across iOS, Android, desktop, and web starting today and supports 38 languages. Beginner plan users can also access the feature, but with limited sessions per month. Pro and Business paid plans offer unlimited sessions. For easy access, the feature can be used via a Home Screen or Lock Screen shortcut on iOS and via app shortcuts, widgets, and quick settings tiles on Android. &lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Maybe you don’t need an AI smart ring to keep up with your to-dos. Doist, the company behind Todoist, a popular to-do list app that works across multiple devices, is launching its new AI-powered, “voice-to-tasks” feature: Todoist Ramble. The feature allows you to describe your tasks using natural language.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;True to its name, Ramble can take your meandering, unstructured speech and turn it into organized tasks. The app will also capture other details you mention, like project deadlines, priorities, duration, and assignees.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084651" height="468" src="https://techcrunch.com/wp-content/uploads/2026/01/Ramble.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Todoist&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The idea is that people often think of things they need to do while on the go, but taking out their phone to jot down a note or create a reminder can be challenging. With Todoist Ramble, you still have to take out your phone, but you won’t have to type anything. Instead, you’ll just tap the Ramble icon and start speaking. The app will then update in real time with the task’s information, even responding to edits and changes as you speak.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For instance, the company notes you can say things like “Actually, make that Thursday” or “that’s all,” to direct the AI further as you speak. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ramble is built on large language models (LLMs) as part of a set of AI features that the company calls Todoist Assist, which runs on Google’s Gemini 2.5 Flash Live model via Vertex AI for real‑time speech understanding. As the audio streams to the back end, the model transcribes your speech and identifies the tasks, dates, and other details you mention to generate your tasks.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The audio isn’t stored or used for AI training, and the app is SOC2 Type II certified, the company, Doist, says.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3084652" height="680" src="https://techcrunch.com/wp-content/uploads/2026/01/Quick-Add.png?w=350" width="350" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Todoist&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The AI functionality is similar to what we’re seeing emerge across a variety of hardware AI devices, which transcribe speech to turn it into notes, reminders, to-dos, or insights. For instance, Amazon’s Bee wearable device uses AI to take notes and make suggested to-dos, while other devices, such as those from Plaud, can take meeting notes and break out the highlights.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There’s also growing interest in AI-powered smart rings, like the Stream ring from the startup Sandbar, or Pebble’s upcoming Index 01 ring. Both let you quickly press on the ring (which is worn on the index finger) to add something to your to-do list or make a note in a companion mobile app. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ahead of the launch, Ramble was beta tested with all Todoist Experimental users, a group of around 150,000 active testers who try new features early. Within the first three weeks of testing, around 76,000 testers completed roughly 290,000 Ramble sessions on desktop and mobile. The feature then entered public beta testing in November.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Task creation success also improved from around 40% this past October to approximately 62% by December, and it drove upgrades, Doist claims. New users on the entry-level plan were upgrading at a rate roughly five times higher than before using Ramble, it says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Todoist Ramble is available to all users across iOS, Android, desktop, and web starting today and supports 38 languages. Beginner plan users can also access the feature, but with limited sessions per month. Pro and Business paid plans offer unlimited sessions. For easy access, the feature can be used via a Home Screen or Lock Screen shortcut on iOS and via app shortcuts, widgets, and quick settings tiles on Android. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/</guid><pubDate>Wed, 21 Jan 2026 22:19:17 +0000</pubDate></item><item><title>A timeline of the US semiconductor market in 2025 (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1366897838.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last year was a tumultuous one for the U.S. semiconductor industry.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;From leadership changes at legacy companies to continuously changing dialogue around AI chip export controls, a lot has happened. If the first few weeks of 2026, which saw new chip tariffs and international semiconductor deals, are any indicator — this year will be as unexpected as the last.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But before we get too deep into 2026, here is a final look at everything that happened in the U.S. semiconductor industry in 2025:&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-december"&gt;December&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-nvidia-finds-gold-with-nbsp-groq-nbsp"&gt;Nvidia finds gold with&amp;nbsp;Groq&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;December 24:&lt;/strong&gt; Nvidia announced that it struck a non-exclusive licensing deal with chip maker Groq. While this wasn’t an acquisition, Nvidia hired Groq’s founder and president, in addition to other employees. The company also bought $20 billion worth of Groq’s assets.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-chips-to-china-nbsp"&gt;Chips to China&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;December 8:&lt;/strong&gt; The U.S. Department of Commerce decided that Nvidia and AMD can send AI chips to China after all, a stark reversal to past messaging. The U.S. government specifically said Nvidia could sell its H200 chips, which are much more advanced than its H20 chips, to approved customers.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-november-nbsp"&gt;November&amp;nbsp;&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-nvidia-keeps-climbing"&gt;Nvidia keeps climbing&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;November 19:&lt;/strong&gt; Nvidia reported record results in its third-quarter earnings report. The company racked up $57 billion in revenue in Q3, a 66% increase over the same quarter in 2024. A large portion of that revenue came from Nvidia’s data center business.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-october"&gt;October&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-makes-processor-progress-nbsp"&gt;Intel makes processor progress&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;October 9:&lt;/strong&gt; Intel announced a new processor, dubbed Panther Lake, that is part of the company’s Intel Core Ultra processor family. This will be the first one built on the company’s 18A semiconductor process and will be exclusively made at Intel’s Arizona fab factory.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 class="wp-block-heading" id="h-september"&gt;September&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-a-taste-of-tariffs-nbsp"&gt;A taste of tariffs&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;September 26: &lt;/strong&gt;We got the first inkling of what the Trump administration’s semiconductor tariffs could look like at the end of September. Rumors started swirling that the administration would require semiconductor companies to produce the same volume of chips domestically as they do internationally, or they would otherwise be subject to tariffs.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-china-shuts-out-nvidia-nbsp"&gt;China shuts out Nvidia&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;September 17:&lt;/strong&gt; China’s campaign against Nvidia continued when the country told its domestic companies not to buy Nvidia’s chips. The Cyberspace Administration of China banned local companies from buying Nvidia’s chips in an effort to boost domestic chip sales.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-china-calls-out-nvidia"&gt;China calls out Nvidia&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;September 15:&lt;/strong&gt; Despite being given a loose green light to start selling chips again in China, the process was not going to be smooth sailing for Nvidia. China’s State Administration for Market Regulation ruled that Nvidia violated the country’s antitrust regulations regarding the company’s 2020 acquisition of Mellanox Technologies.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-a-leadership-shakeup"&gt;A leadership shakeup&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;September 9:&lt;/strong&gt; Just a few short weeks after the U.S. government took an equity stake in Intel, the company made some notable leadership changes. Michelle Johnston Holthaus, the chief executive officer of Intel products, departed after three decades. The company also created a central engineering group.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-august"&gt;August&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Nvidia reports record quarter&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 27: &lt;/strong&gt;The turmoil in the semiconductor market over the year had clearly not hurt Nvidia. On August 27, the company reported that it had record sales in the second quarter. The highlights were the growth of its data center business, which saw its revenue grow 56% year over year.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;U.S. Government takes equity stake in Intel&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 22: &lt;/strong&gt;The U.S. government announced it was converting existing government grants into a 10% stake in Intel. The deal was structured to penalize Intel if the company’s ownership in its foundry program dropped below 50%.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;SoftBank takes a stake in Intel&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 18: &lt;/strong&gt;Japanese conglomerate SoftBank announced it was taking a $2 billion stake in Intel. SoftBank CEO Masayoshi Son called the deal “strategic.” The transaction was announced as rumors were swirling that the U.S. was going to take a stake in the company.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Chip companies strike a deal to sell in China&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 12: &lt;/strong&gt;Nvidia and AMD announced that they struck a deal with the U.S. government to gain the necessary license to sell their AI chips in China. Both companies agreed to pay the U.S. government 15% of revenue from their chip sales in China.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Trump and Lip-Bu Tan meet&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 11: &lt;/strong&gt;Intel CEO Lip-Bu Tan went to the White House to meet with President Trump. The pair talked about Tan’s past and how Intel can help the U.S. with its goal of bringing semiconductor manufacturing back to the U.S. Both called the conversation productive.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Trump comes for Lip-Bu Tan&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 7: &lt;/strong&gt;President Donald Trump demanded that Intel CEO Lip-Bu Tan “resign immediately” due to “conflicts of interest” in a Truth Social post. While Trump didn’t clarify what the conflicts of interest were, this came the day after Republican Senator Tom Cotton sent a letter to Intel’s board of directors inquiring about Tan’s ties to China.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Trump says tariffs are coming for the industry&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 5: &lt;/strong&gt;President Donald Trump told CNBC’s Squawk Box that he was planning to announce tariffs on the semiconductor industry as soon as the following week. At the time, he didn’t mention specifics on what these tariffs could look like. As of September 5, no tariffs have been announced for this industry.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;July&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Intel spins out business unit&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 25:&lt;/strong&gt; Just one day after its second-quarter earnings call, Intel confirmed that it was spinning out its Network and Edge group, which is responsible for making chips for the telecom industry. The business unit produced $5.8 billion in revenue for the semiconductor company in 2024.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Intel continues to look for efficiency&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 24:&lt;/strong&gt; Intel announced that it was pulling back on some of its manufacturing operations. The company said it will longer pursue its previously announced projects in Germany and Poland and that it was consolidating its test operations. Intel also announced it plans to end this year with around 75,000 employees.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-trump-s-ai-action-plan"&gt;Trump’s AI Action Plan&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 23:&lt;/strong&gt; The Trump administration unveiled its much-anticipated AI Action Plan alongside multiple related executive orders. While the plan included a lot regarding the need for U.S. chip export controls and for the U.S. to coordinate with its allies on this effort, it didn’t provide concrete information on what those restrictions would look like.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Groundbreaking UAE AI deal reportedly on hold&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 17:&lt;/strong&gt; The Trump administration helped foster a groundbreaking deal in May that resulted in a commitment from the United Arab Emirates to buy billions of dollars’ worth of AI chips from Nvidia. But now that deal was reportedly on hold as the U.S. worked through national security concerns and fears that those chips could be smuggled from the Middle East to China.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Nvidia is a bargaining chip&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 16:&lt;/strong&gt; A day after semiconductor firms like Nvidia and AMD got the green light to resume selling certain AI chips to China, we found out why. U.S. Commerce Security Howard Lutnick said the plans to allow U.S. companies to start selling AI chips in China are tied to ongoing trade discussions between the U.S. and China regarding rare earth elements.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-u-s-chips-head-back-to-china"&gt;U.S. chips head back to China&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 14:&lt;/strong&gt; Nvidia said it was filing an application to restart sales of H20 AI chips in China, confirming rumors from a few weeks prior. The company also announced that it would be selling a new chip, the RTX Pro, which was designed specifically for the Chinese market.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Malaysia fights chip smuggling&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 14:&lt;/strong&gt; Malaysia announced that it was launching trade permits for U.S.-made AI chips. Under this new restriction, any individual or business would need to give the Malaysian government 30 days’ notice before exporting any U.S. AI chips.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;June&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Intel appoints new leadership&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 18: &lt;/strong&gt;Intel announced four new leadership appointments that Intel said will help it move toward its goal of becoming an engineering-first company again. Intel announced a new chief revenue officer in addition to multiple high-profile engineering hires.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-began-layoffs"&gt;Intel began layoffs&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 17: &lt;/strong&gt;Intel began laying off a significant chunk of its Intel Foundry staff in July, according to various media reports. The company later confirmed it was restructuring. Reports said it planned to eliminate 15% to 20%, of workers in that business unit. These layoffs weren’t a shock: Layoffs were rumored back in April, and Intel’s CEO Lip-Bu Tan had said he wants to flatten the organization.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Nvidia won’t report on China&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 13: &lt;/strong&gt;Nvidia wasn’t counting on the U.S. backing off from its AI chip export restrictions. After the company took a financial hit from the newly imposed licensing requirements on its H20 AI chips, Nvidia CEO Jensen Huang said the company will no longer include the Chinese market in future revenue and profit forecasts.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-amd-acquired-the-team-behind-untether-ai"&gt;AMD acquired the team behind Untether AI&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 6: &lt;/strong&gt;AMD made another acquisition —&amp;nbsp;this time focused on talent. The company acqui-hired the team behind Untether AI, which develops AI inference chips, as the semiconductor giant continues to round out its AI offerings.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-amd-is-coming-for-nvidia-s-ai-hardware-dominance"&gt;AMD is coming for Nvidia’s AI hardware dominance&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 4: &lt;/strong&gt;AMD continued its shopping spree. The company acquired AI software optimization startup Brium, which helps companies retrofit AI software to work with different AI hardware. With a lot of AI software being designed with Nvidia hardware in mind, this acquisition isn’t surprising.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;May&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-nvidia-laid-out-the-impact-of-chip-export-restrictions"&gt;Nvidia laid out the impact of chip export restrictions&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 28: &lt;/strong&gt;Nvidia reported that U.S. licensing requirements on its H20 AI chips cost the company $4.5 billion in charges during Q1. The company expected these requirements to result in an $8 billion hit to Nvidia’s revenue in Q2.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-amd-acquired-enosemi"&gt;AMD acquired Enosemi&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 28:&lt;/strong&gt; AMD kicked off its acquisition spree. The semiconductor company announced that it acquired Enosemi, a silicon photonics startup. Enosemi’s tech, which uses light photons to transmit data, is becoming an increasing area of interest for semiconductor companies.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-tensions-started-to-flare-between-china-and-the-u-s"&gt;Tensions started to flare between China and the U.S.&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 21: &lt;/strong&gt;China’s Commerce Secretary didn’t like the U.S. guidance, issued on May 13, that warned U.S. companies that using Huawei’s AI chips “anywhere in the world” was a U.S. chip export violation. The commerce secretary issued a statement that threatened legal action against anyone caught enforcing that export restriction.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-began-the-process-to-offload-units"&gt;Intel began the process to offload units&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 20: &lt;/strong&gt;Intel CEO Lip-Bu Tan seemingly got right to work on his plan to spin out Intel’s non-core business units. Back in May, the semiconductor giant was reportedly looking to offload its Networking and Edge units, which make chips for telecom equipment, and was responsible for $5.4 billion of the company’s 2024 revenue. &lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-the-biden-administration-s-ai-diffusion-rule-was-officially-dead"&gt;The Biden administration’s AI Diffusion rule was officially dead&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 13:&lt;/strong&gt; Just days before the Biden administration’s Artificial Intelligence Diffusion Rule was set to go into place, the U.S. Department of Commerce formally rescinded it. The DOC said that it plans to issue new guidance in the future, and in the meantime, companies should remember that using Huawei’s Ascend AI chips anywhere in the world is a violation of U.S. export rules.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-a-last-minute-reversal"&gt;A last-minute reversal&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 7:&lt;/strong&gt; Just a week before the “Framework for Artificial Intelligence Diffusion” was set to go into place, the Trump administration planned on taking a different path. According to multiple media outlets, including Axios and Bloomberg, the administration wouldn’t enforce the restrictions when they were supposed to start on May 15 and is instead working on its own framework.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-april"&gt;April&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-anthropic-doubles-down-on-its-support-of-chip-export-restrictions"&gt;Anthropic doubles down on its support of chip export restrictions&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 30:&amp;nbsp;&lt;/strong&gt;Anthropic doubled down on its support for restricting U.S.-made chip exports, including some tweaks to the Framework for Artificial Intelligence Diffusion, like imposing further restrictions on Tier 2 countries and dedicating resources to enforcement.&amp;nbsp;An Nvidia spokesperson shot back, saying, “American firms should focus on innovation and rise to the challenge, rather than tell tall tales that large, heavy, and sensitive electronics are somehow smuggled in ‘baby bumps’ or ‘alongside live lobsters.’”&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-planned-layoffs-at-intel"&gt;Planned layoffs at Intel&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 22:&amp;nbsp;&lt;/strong&gt;Ahead of its Q1 earnings call, Intel said it was planning to lay off more than 21,000 employees. The layoffs were meant to streamline management, something CEO Lip-Bu Tan has long said Intel needed to do, and help rebuild the company’s engineering focus.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-the-trump-administration-further-restricts-chip-exports"&gt;The Trump administration further restricts chip exports&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 15:&amp;nbsp;&lt;/strong&gt;Nvidia’s H20 AI chip got hit with an export licensing requirement, the company disclosed in an SEC filing. The company added that it expected $5.5 billion in charges related to this new requirement in the first quarter of its 2026 fiscal year. The H20 was the most advanced AI chip Nvidia can still export to China in some fashion. TSMC and Intel reported similar expenses the same week.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-nvidia-appears-to-talk-its-way-out-of-further-chip-exports"&gt;Nvidia appears to talk its way out of further chip exports&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 9:&amp;nbsp;&lt;/strong&gt;Nvidia’s CEO Jensen Huang was spotted attending dinner at Donald Trump’s Mar-a-Lago resort, according to reports. At the time, NPR reported Huang may have been able to spare Nvidia’s H20 AI chips from export restrictions upon agreeing to invest in AI data centers in the U.S.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-an-alleged-agreement-between-intel-and-tsmc"&gt;An alleged agreement between Intel and TSMC&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 3:&amp;nbsp;&lt;/strong&gt;Intel and TSMC allegedly reached a tentative agreement to launch a joint chipmaking venture. This joint venture would operate Intel’s chipmaking facilities, and TSMC would have a 20% stake in the new venture. Both companies declined to comment or confirm. If this deal doesn’t come to fruition, this is likely a decent preview of potential deals in the industry to come.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-warned-it-will-spin-off-non-core-assets"&gt;Intel warned it will spin off non-core assets&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 1:&amp;nbsp;&lt;/strong&gt;CEO Lip-Bu Tan got to work right away. Just weeks after he joined Intel, the company announced that it was going to spin off non-core assets so it could focus. He also said the company would launch new products, including custom semiconductors for customers.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-march"&gt;March&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-names-a-new-ceo-nbsp"&gt;Intel names a new CEO&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;March 12:&amp;nbsp;&lt;/strong&gt; Intel announced that industry veteran and former board member Lip-Bu Tan would return to the company as CEO on March 18. At the time of his appointment, Tan said Intel would be an “engineering-focused company” under his leadership.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-february"&gt;February&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-s-ohio-chip-plant-gets-delayed-again"&gt;Intel’s Ohio chip plant gets delayed again&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;February 28:&amp;nbsp;&lt;/strong&gt;Intel was supposed to start operating its first chip fabrication plant in Ohio this year. Instead, the company slowed down construction on the plant for the second time in February. Now the $28 billion semiconductor project won’t wrap up construction until 2030 and may not even open until 2031.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-senators-call-for-more-chip-export-restrictions"&gt;Senators call for more chip export restrictions&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;February 3:&amp;nbsp;&lt;/strong&gt;U.S. senators, including Elizabeth Warren (D-Mass) and Josh Hawley (R-Mo), wrote a letter to Commerce Secretary Nominee-Designate Howard Lutnick, urging the Trump administration to further restrict AI chip exports. The letter specifically referred to Nvidia’s H20 AI chips, which were used in the training of DeepSeek’s R1 “reasoning” model.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-january-nbsp"&gt;January&amp;nbsp;&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-deepseek-releases-its-open-reasoning-model"&gt;DeepSeek releases its open “reasoning” model&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;January 27:&amp;nbsp;&lt;/strong&gt;Chinese AI startup DeepSeek caused quite the stir in Silicon Valley when it released the open version of its R1 “reasoning” model. While this isn’t semiconductor news specifically, the sheer alarm in the AI and semiconductor industries DeepSeek caused continues to have ripple effects on the chip industry.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-joe-biden-s-executive-order-on-chip-exports"&gt;Joe Biden’s executive order on chip exports&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;January 13:&amp;nbsp;&lt;/strong&gt;With just a week left in office, former president Joe Biden proposed sweeping new export restrictions on U.S.-made AI chips. This order created a three-tier structure that determined how many U.S. chips can be exported to each country. Under this proposal, Tier 1 countries faced no restrictions; Tier 2 countries had a chip purchase limit for the first time; and Tier 3 countries got additional restrictions.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-anthropic-s-dario-amodei-weighs-in-on-chip-export-restrictions"&gt;Anthropic’s Dario Amodei weighs in on chip export restrictions&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;January 6:&lt;/strong&gt;&amp;nbsp;Anthropic co-founder and CEO Dario Amodei co-wrote an op-ed in The Wall Street Journal endorsing existing AI chip export controls and pointing to them as a reason why China’s AI market was behind the U.S. He also called on incoming president Donald Trump to impose further restrictions and to close loopholes that have allowed AI companies in China to still get their hands on these chips.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This story was &lt;/em&gt;originally published on &lt;em&gt;May 9, 2025, and is regularly updated with new information.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1366897838.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last year was a tumultuous one for the U.S. semiconductor industry.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;From leadership changes at legacy companies to continuously changing dialogue around AI chip export controls, a lot has happened. If the first few weeks of 2026, which saw new chip tariffs and international semiconductor deals, are any indicator — this year will be as unexpected as the last.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But before we get too deep into 2026, here is a final look at everything that happened in the U.S. semiconductor industry in 2025:&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-december"&gt;December&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-nvidia-finds-gold-with-nbsp-groq-nbsp"&gt;Nvidia finds gold with&amp;nbsp;Groq&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;December 24:&lt;/strong&gt; Nvidia announced that it struck a non-exclusive licensing deal with chip maker Groq. While this wasn’t an acquisition, Nvidia hired Groq’s founder and president, in addition to other employees. The company also bought $20 billion worth of Groq’s assets.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-chips-to-china-nbsp"&gt;Chips to China&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;December 8:&lt;/strong&gt; The U.S. Department of Commerce decided that Nvidia and AMD can send AI chips to China after all, a stark reversal to past messaging. The U.S. government specifically said Nvidia could sell its H200 chips, which are much more advanced than its H20 chips, to approved customers.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-november-nbsp"&gt;November&amp;nbsp;&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-nvidia-keeps-climbing"&gt;Nvidia keeps climbing&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;November 19:&lt;/strong&gt; Nvidia reported record results in its third-quarter earnings report. The company racked up $57 billion in revenue in Q3, a 66% increase over the same quarter in 2024. A large portion of that revenue came from Nvidia’s data center business.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-october"&gt;October&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-makes-processor-progress-nbsp"&gt;Intel makes processor progress&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;October 9:&lt;/strong&gt; Intel announced a new processor, dubbed Panther Lake, that is part of the company’s Intel Core Ultra processor family. This will be the first one built on the company’s 18A semiconductor process and will be exclusively made at Intel’s Arizona fab factory.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 class="wp-block-heading" id="h-september"&gt;September&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-a-taste-of-tariffs-nbsp"&gt;A taste of tariffs&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;September 26: &lt;/strong&gt;We got the first inkling of what the Trump administration’s semiconductor tariffs could look like at the end of September. Rumors started swirling that the administration would require semiconductor companies to produce the same volume of chips domestically as they do internationally, or they would otherwise be subject to tariffs.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-china-shuts-out-nvidia-nbsp"&gt;China shuts out Nvidia&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;September 17:&lt;/strong&gt; China’s campaign against Nvidia continued when the country told its domestic companies not to buy Nvidia’s chips. The Cyberspace Administration of China banned local companies from buying Nvidia’s chips in an effort to boost domestic chip sales.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-china-calls-out-nvidia"&gt;China calls out Nvidia&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;September 15:&lt;/strong&gt; Despite being given a loose green light to start selling chips again in China, the process was not going to be smooth sailing for Nvidia. China’s State Administration for Market Regulation ruled that Nvidia violated the country’s antitrust regulations regarding the company’s 2020 acquisition of Mellanox Technologies.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-a-leadership-shakeup"&gt;A leadership shakeup&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;September 9:&lt;/strong&gt; Just a few short weeks after the U.S. government took an equity stake in Intel, the company made some notable leadership changes. Michelle Johnston Holthaus, the chief executive officer of Intel products, departed after three decades. The company also created a central engineering group.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-august"&gt;August&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Nvidia reports record quarter&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 27: &lt;/strong&gt;The turmoil in the semiconductor market over the year had clearly not hurt Nvidia. On August 27, the company reported that it had record sales in the second quarter. The highlights were the growth of its data center business, which saw its revenue grow 56% year over year.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;U.S. Government takes equity stake in Intel&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 22: &lt;/strong&gt;The U.S. government announced it was converting existing government grants into a 10% stake in Intel. The deal was structured to penalize Intel if the company’s ownership in its foundry program dropped below 50%.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;SoftBank takes a stake in Intel&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 18: &lt;/strong&gt;Japanese conglomerate SoftBank announced it was taking a $2 billion stake in Intel. SoftBank CEO Masayoshi Son called the deal “strategic.” The transaction was announced as rumors were swirling that the U.S. was going to take a stake in the company.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Chip companies strike a deal to sell in China&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 12: &lt;/strong&gt;Nvidia and AMD announced that they struck a deal with the U.S. government to gain the necessary license to sell their AI chips in China. Both companies agreed to pay the U.S. government 15% of revenue from their chip sales in China.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Trump and Lip-Bu Tan meet&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 11: &lt;/strong&gt;Intel CEO Lip-Bu Tan went to the White House to meet with President Trump. The pair talked about Tan’s past and how Intel can help the U.S. with its goal of bringing semiconductor manufacturing back to the U.S. Both called the conversation productive.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Trump comes for Lip-Bu Tan&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 7: &lt;/strong&gt;President Donald Trump demanded that Intel CEO Lip-Bu Tan “resign immediately” due to “conflicts of interest” in a Truth Social post. While Trump didn’t clarify what the conflicts of interest were, this came the day after Republican Senator Tom Cotton sent a letter to Intel’s board of directors inquiring about Tan’s ties to China.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Trump says tariffs are coming for the industry&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;August 5: &lt;/strong&gt;President Donald Trump told CNBC’s Squawk Box that he was planning to announce tariffs on the semiconductor industry as soon as the following week. At the time, he didn’t mention specifics on what these tariffs could look like. As of September 5, no tariffs have been announced for this industry.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;July&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Intel spins out business unit&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 25:&lt;/strong&gt; Just one day after its second-quarter earnings call, Intel confirmed that it was spinning out its Network and Edge group, which is responsible for making chips for the telecom industry. The business unit produced $5.8 billion in revenue for the semiconductor company in 2024.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Intel continues to look for efficiency&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 24:&lt;/strong&gt; Intel announced that it was pulling back on some of its manufacturing operations. The company said it will longer pursue its previously announced projects in Germany and Poland and that it was consolidating its test operations. Intel also announced it plans to end this year with around 75,000 employees.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-trump-s-ai-action-plan"&gt;Trump’s AI Action Plan&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 23:&lt;/strong&gt; The Trump administration unveiled its much-anticipated AI Action Plan alongside multiple related executive orders. While the plan included a lot regarding the need for U.S. chip export controls and for the U.S. to coordinate with its allies on this effort, it didn’t provide concrete information on what those restrictions would look like.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Groundbreaking UAE AI deal reportedly on hold&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 17:&lt;/strong&gt; The Trump administration helped foster a groundbreaking deal in May that resulted in a commitment from the United Arab Emirates to buy billions of dollars’ worth of AI chips from Nvidia. But now that deal was reportedly on hold as the U.S. worked through national security concerns and fears that those chips could be smuggled from the Middle East to China.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Nvidia is a bargaining chip&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 16:&lt;/strong&gt; A day after semiconductor firms like Nvidia and AMD got the green light to resume selling certain AI chips to China, we found out why. U.S. Commerce Security Howard Lutnick said the plans to allow U.S. companies to start selling AI chips in China are tied to ongoing trade discussions between the U.S. and China regarding rare earth elements.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-u-s-chips-head-back-to-china"&gt;U.S. chips head back to China&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 14:&lt;/strong&gt; Nvidia said it was filing an application to restart sales of H20 AI chips in China, confirming rumors from a few weeks prior. The company also announced that it would be selling a new chip, the RTX Pro, which was designed specifically for the Chinese market.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Malaysia fights chip smuggling&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;July 14:&lt;/strong&gt; Malaysia announced that it was launching trade permits for U.S.-made AI chips. Under this new restriction, any individual or business would need to give the Malaysian government 30 days’ notice before exporting any U.S. AI chips.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;June&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Intel appoints new leadership&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 18: &lt;/strong&gt;Intel announced four new leadership appointments that Intel said will help it move toward its goal of becoming an engineering-first company again. Intel announced a new chief revenue officer in addition to multiple high-profile engineering hires.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-began-layoffs"&gt;Intel began layoffs&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 17: &lt;/strong&gt;Intel began laying off a significant chunk of its Intel Foundry staff in July, according to various media reports. The company later confirmed it was restructuring. Reports said it planned to eliminate 15% to 20%, of workers in that business unit. These layoffs weren’t a shock: Layoffs were rumored back in April, and Intel’s CEO Lip-Bu Tan had said he wants to flatten the organization.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Nvidia won’t report on China&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 13: &lt;/strong&gt;Nvidia wasn’t counting on the U.S. backing off from its AI chip export restrictions. After the company took a financial hit from the newly imposed licensing requirements on its H20 AI chips, Nvidia CEO Jensen Huang said the company will no longer include the Chinese market in future revenue and profit forecasts.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-amd-acquired-the-team-behind-untether-ai"&gt;AMD acquired the team behind Untether AI&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 6: &lt;/strong&gt;AMD made another acquisition —&amp;nbsp;this time focused on talent. The company acqui-hired the team behind Untether AI, which develops AI inference chips, as the semiconductor giant continues to round out its AI offerings.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-amd-is-coming-for-nvidia-s-ai-hardware-dominance"&gt;AMD is coming for Nvidia’s AI hardware dominance&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;June 4: &lt;/strong&gt;AMD continued its shopping spree. The company acquired AI software optimization startup Brium, which helps companies retrofit AI software to work with different AI hardware. With a lot of AI software being designed with Nvidia hardware in mind, this acquisition isn’t surprising.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;May&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-nvidia-laid-out-the-impact-of-chip-export-restrictions"&gt;Nvidia laid out the impact of chip export restrictions&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 28: &lt;/strong&gt;Nvidia reported that U.S. licensing requirements on its H20 AI chips cost the company $4.5 billion in charges during Q1. The company expected these requirements to result in an $8 billion hit to Nvidia’s revenue in Q2.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-amd-acquired-enosemi"&gt;AMD acquired Enosemi&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 28:&lt;/strong&gt; AMD kicked off its acquisition spree. The semiconductor company announced that it acquired Enosemi, a silicon photonics startup. Enosemi’s tech, which uses light photons to transmit data, is becoming an increasing area of interest for semiconductor companies.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-tensions-started-to-flare-between-china-and-the-u-s"&gt;Tensions started to flare between China and the U.S.&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 21: &lt;/strong&gt;China’s Commerce Secretary didn’t like the U.S. guidance, issued on May 13, that warned U.S. companies that using Huawei’s AI chips “anywhere in the world” was a U.S. chip export violation. The commerce secretary issued a statement that threatened legal action against anyone caught enforcing that export restriction.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-began-the-process-to-offload-units"&gt;Intel began the process to offload units&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 20: &lt;/strong&gt;Intel CEO Lip-Bu Tan seemingly got right to work on his plan to spin out Intel’s non-core business units. Back in May, the semiconductor giant was reportedly looking to offload its Networking and Edge units, which make chips for telecom equipment, and was responsible for $5.4 billion of the company’s 2024 revenue. &lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-the-biden-administration-s-ai-diffusion-rule-was-officially-dead"&gt;The Biden administration’s AI Diffusion rule was officially dead&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 13:&lt;/strong&gt; Just days before the Biden administration’s Artificial Intelligence Diffusion Rule was set to go into place, the U.S. Department of Commerce formally rescinded it. The DOC said that it plans to issue new guidance in the future, and in the meantime, companies should remember that using Huawei’s Ascend AI chips anywhere in the world is a violation of U.S. export rules.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-a-last-minute-reversal"&gt;A last-minute reversal&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;May 7:&lt;/strong&gt; Just a week before the “Framework for Artificial Intelligence Diffusion” was set to go into place, the Trump administration planned on taking a different path. According to multiple media outlets, including Axios and Bloomberg, the administration wouldn’t enforce the restrictions when they were supposed to start on May 15 and is instead working on its own framework.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-april"&gt;April&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-anthropic-doubles-down-on-its-support-of-chip-export-restrictions"&gt;Anthropic doubles down on its support of chip export restrictions&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 30:&amp;nbsp;&lt;/strong&gt;Anthropic doubled down on its support for restricting U.S.-made chip exports, including some tweaks to the Framework for Artificial Intelligence Diffusion, like imposing further restrictions on Tier 2 countries and dedicating resources to enforcement.&amp;nbsp;An Nvidia spokesperson shot back, saying, “American firms should focus on innovation and rise to the challenge, rather than tell tall tales that large, heavy, and sensitive electronics are somehow smuggled in ‘baby bumps’ or ‘alongside live lobsters.’”&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-planned-layoffs-at-intel"&gt;Planned layoffs at Intel&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 22:&amp;nbsp;&lt;/strong&gt;Ahead of its Q1 earnings call, Intel said it was planning to lay off more than 21,000 employees. The layoffs were meant to streamline management, something CEO Lip-Bu Tan has long said Intel needed to do, and help rebuild the company’s engineering focus.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-the-trump-administration-further-restricts-chip-exports"&gt;The Trump administration further restricts chip exports&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 15:&amp;nbsp;&lt;/strong&gt;Nvidia’s H20 AI chip got hit with an export licensing requirement, the company disclosed in an SEC filing. The company added that it expected $5.5 billion in charges related to this new requirement in the first quarter of its 2026 fiscal year. The H20 was the most advanced AI chip Nvidia can still export to China in some fashion. TSMC and Intel reported similar expenses the same week.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-nvidia-appears-to-talk-its-way-out-of-further-chip-exports"&gt;Nvidia appears to talk its way out of further chip exports&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 9:&amp;nbsp;&lt;/strong&gt;Nvidia’s CEO Jensen Huang was spotted attending dinner at Donald Trump’s Mar-a-Lago resort, according to reports. At the time, NPR reported Huang may have been able to spare Nvidia’s H20 AI chips from export restrictions upon agreeing to invest in AI data centers in the U.S.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-an-alleged-agreement-between-intel-and-tsmc"&gt;An alleged agreement between Intel and TSMC&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 3:&amp;nbsp;&lt;/strong&gt;Intel and TSMC allegedly reached a tentative agreement to launch a joint chipmaking venture. This joint venture would operate Intel’s chipmaking facilities, and TSMC would have a 20% stake in the new venture. Both companies declined to comment or confirm. If this deal doesn’t come to fruition, this is likely a decent preview of potential deals in the industry to come.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-warned-it-will-spin-off-non-core-assets"&gt;Intel warned it will spin off non-core assets&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;April 1:&amp;nbsp;&lt;/strong&gt;CEO Lip-Bu Tan got to work right away. Just weeks after he joined Intel, the company announced that it was going to spin off non-core assets so it could focus. He also said the company would launch new products, including custom semiconductors for customers.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-march"&gt;March&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-names-a-new-ceo-nbsp"&gt;Intel names a new CEO&amp;nbsp;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;March 12:&amp;nbsp;&lt;/strong&gt; Intel announced that industry veteran and former board member Lip-Bu Tan would return to the company as CEO on March 18. At the time of his appointment, Tan said Intel would be an “engineering-focused company” under his leadership.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-february"&gt;February&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-intel-s-ohio-chip-plant-gets-delayed-again"&gt;Intel’s Ohio chip plant gets delayed again&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;February 28:&amp;nbsp;&lt;/strong&gt;Intel was supposed to start operating its first chip fabrication plant in Ohio this year. Instead, the company slowed down construction on the plant for the second time in February. Now the $28 billion semiconductor project won’t wrap up construction until 2030 and may not even open until 2031.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-senators-call-for-more-chip-export-restrictions"&gt;Senators call for more chip export restrictions&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;February 3:&amp;nbsp;&lt;/strong&gt;U.S. senators, including Elizabeth Warren (D-Mass) and Josh Hawley (R-Mo), wrote a letter to Commerce Secretary Nominee-Designate Howard Lutnick, urging the Trump administration to further restrict AI chip exports. The letter specifically referred to Nvidia’s H20 AI chips, which were used in the training of DeepSeek’s R1 “reasoning” model.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-january-nbsp"&gt;January&amp;nbsp;&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading" id="h-deepseek-releases-its-open-reasoning-model"&gt;DeepSeek releases its open “reasoning” model&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;January 27:&amp;nbsp;&lt;/strong&gt;Chinese AI startup DeepSeek caused quite the stir in Silicon Valley when it released the open version of its R1 “reasoning” model. While this isn’t semiconductor news specifically, the sheer alarm in the AI and semiconductor industries DeepSeek caused continues to have ripple effects on the chip industry.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-joe-biden-s-executive-order-on-chip-exports"&gt;Joe Biden’s executive order on chip exports&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;January 13:&amp;nbsp;&lt;/strong&gt;With just a week left in office, former president Joe Biden proposed sweeping new export restrictions on U.S.-made AI chips. This order created a three-tier structure that determined how many U.S. chips can be exported to each country. Under this proposal, Tier 1 countries faced no restrictions; Tier 2 countries had a chip purchase limit for the first time; and Tier 3 countries got additional restrictions.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-anthropic-s-dario-amodei-weighs-in-on-chip-export-restrictions"&gt;Anthropic’s Dario Amodei weighs in on chip export restrictions&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;January 6:&lt;/strong&gt;&amp;nbsp;Anthropic co-founder and CEO Dario Amodei co-wrote an op-ed in The Wall Street Journal endorsing existing AI chip export controls and pointing to them as a reason why China’s AI market was behind the U.S. He also called on incoming president Donald Trump to impose further restrictions and to close loopholes that have allowed AI companies in China to still get their hands on these chips.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This story was &lt;/em&gt;originally published on &lt;em&gt;May 9, 2025, and is regularly updated with new information.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/</guid><pubDate>Wed, 21 Jan 2026 22:46:13 +0000</pubDate></item><item><title>Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1356382582.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A pattern is emerging in the AI infrastructure world: popular open source tools are transforming into venture-backed startups worth hundreds of millions of dollars. The latest example is RadixArk, the commercial company behind SGLang, an increasingly popular tool that helps AI models run faster and cheaper.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;RadixArk was recently valued at about $400 million in a funding round led by Accel, according to two people familiar with the matter, a notable amount for a startup that was only announced last August. TechCrunch could not confirm the size of the funding.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The news comes as some of the team responsible for maintaining SGLang, which is used by companies like xAI and Cursor to accelerate AI model training, has transitioned to the recently launched commercial startup. RadixArk originated as SGLang in 2023 inside the UC Berkeley lab of Databricks co-founder Ion Stoica.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The startup previously raised angel capital from investors, including Intel CEO Lip-Bu Tan, the people said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ying Sheng, a key contributor to SGLang and a former engineer at xAI, left Elon Musk’s AI startup to become the co-founder and CEO of RadixArk, according to a LinkedIn announcement she made last month. Sheng was previously a research scientist at Databricks.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;RadixArk’s Ying Sheng, Accel, and Lip-Bu Tan did not respond to a request for comment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Both SGLang and RadixArk focus on optimizing inference processing — essentially allowing models to run faster and more efficiently on the same hardware. Together with model training, inference represents a large portion of the server costs associated with AI services. As a result, tools that optimize the process can create enormous savings almost immediately.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;RadixArk isn’t alone in making this transition from open source project to well-funded startup. vLLM, a more mature project for optimizing inference, has also made the leap. The newly formed company has had conversations about raising upwards of $160 million in funding at a valuation of about $1 billion, Forbes reported last month.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Three people familiar with that deal tell TechCrunch that Andreessen Horowitz is leading the investment into vLLM, though the final numbers of that investment remain to be seen. Andreessen Horowitz declined to comment. vLLM co-founder Simon Mo characterized the information about this round “factually inaccurate” in a statement to TechCrunch, though he declined to specify which details were incorrect.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Like SGLang, vLLM was incubated in Ion Stoica’s lab at UC Berkeley. Stoica, a professor at UC Berkeley, is the famed co-founder of Databricks as well as a number of other startups.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Several large tech companies already run their inference workloads using vLLM, and SGLang has also gained significant popularity over the last six months, Brittany Walker, a general partner at CRV, told TechCrunch. Her firm did not back either company.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;RadixArk is continuing to develop SGLang as an open source AI model engine. The startup is also building Miles, a specialized framework designed for reinforcement learning, which allows businesses to train AI models to become smarter over time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While most of its tools remain free, RadixArk has started charging fees for hosting services, a person familiar with the company told TechCrunch. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Startups providing inference infrastructure for developers have seen a surge in funding in recent months, underscoring the continued importance of the inference layer for AI. Baseten recently secured $300 million at a $5 billion valuation, The Wall Street Journal reported on Tuesday. This follows a similar move by rival Fireworks AI, which raised $250 million at a $4 billion valuation last October.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1356382582.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A pattern is emerging in the AI infrastructure world: popular open source tools are transforming into venture-backed startups worth hundreds of millions of dollars. The latest example is RadixArk, the commercial company behind SGLang, an increasingly popular tool that helps AI models run faster and cheaper.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;RadixArk was recently valued at about $400 million in a funding round led by Accel, according to two people familiar with the matter, a notable amount for a startup that was only announced last August. TechCrunch could not confirm the size of the funding.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The news comes as some of the team responsible for maintaining SGLang, which is used by companies like xAI and Cursor to accelerate AI model training, has transitioned to the recently launched commercial startup. RadixArk originated as SGLang in 2023 inside the UC Berkeley lab of Databricks co-founder Ion Stoica.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The startup previously raised angel capital from investors, including Intel CEO Lip-Bu Tan, the people said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ying Sheng, a key contributor to SGLang and a former engineer at xAI, left Elon Musk’s AI startup to become the co-founder and CEO of RadixArk, according to a LinkedIn announcement she made last month. Sheng was previously a research scientist at Databricks.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;RadixArk’s Ying Sheng, Accel, and Lip-Bu Tan did not respond to a request for comment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Both SGLang and RadixArk focus on optimizing inference processing — essentially allowing models to run faster and more efficiently on the same hardware. Together with model training, inference represents a large portion of the server costs associated with AI services. As a result, tools that optimize the process can create enormous savings almost immediately.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;RadixArk isn’t alone in making this transition from open source project to well-funded startup. vLLM, a more mature project for optimizing inference, has also made the leap. The newly formed company has had conversations about raising upwards of $160 million in funding at a valuation of about $1 billion, Forbes reported last month.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Three people familiar with that deal tell TechCrunch that Andreessen Horowitz is leading the investment into vLLM, though the final numbers of that investment remain to be seen. Andreessen Horowitz declined to comment. vLLM co-founder Simon Mo characterized the information about this round “factually inaccurate” in a statement to TechCrunch, though he declined to specify which details were incorrect.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Like SGLang, vLLM was incubated in Ion Stoica’s lab at UC Berkeley. Stoica, a professor at UC Berkeley, is the famed co-founder of Databricks as well as a number of other startups.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Several large tech companies already run their inference workloads using vLLM, and SGLang has also gained significant popularity over the last six months, Brittany Walker, a general partner at CRV, told TechCrunch. Her firm did not back either company.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;RadixArk is continuing to develop SGLang as an open source AI model engine. The startup is also building Miles, a specialized framework designed for reinforcement learning, which allows businesses to train AI models to become smarter over time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While most of its tools remain free, RadixArk has started charging fees for hosting services, a person familiar with the company told TechCrunch. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Startups providing inference infrastructure for developers have seen a surge in funding in recent months, underscoring the continued importance of the inference layer for AI. Baseten recently secured $300 million at a $5 billion valuation, The Wall Street Journal reported on Tuesday. This follows a similar move by rival Fireworks AI, which raised $250 million at a $4 billion valuation last October.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/</guid><pubDate>Wed, 21 Jan 2026 23:24:14 +0000</pubDate></item><item><title>Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/Apple-logo-Getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Apple may be developing its own AI wearable, according to a report published Wednesday by The Information. The device will be a pin that users can wear on their clothing, and that comes equipped with two cameras and three microphones, the report says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Should the rumored device come to market, it would mark another sign that the AI hardware market is heating up. This news follows comments made Monday by OpenAI Chief Global Affairs Officer Chris Lehane, who told a Davos crowd that his company will likely announce its highly anticipated first AI hardware device in the second half of this year. Additional reporting suggests that the device may be a pair of earbuds.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Apple’s device is described as a “thin, flat, circular disc with an aluminum-and-glass shell,” which engineers hope to make the same size as an AirTag, “only slightly thicker.” The pin will also have two cameras (one with a standard lens and another with a wide-angle) for pictures and video, as well as a physical button, a speaker, and a Fitbit-like charging strip on its back, according to the report.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Apple may even be in the process of trying to accelerate development of this product to compete with OpenAI’s. The pin could potentially be released in 2027 and involve 20 million units at launch, the report notes. TechCrunch reached out to Apple for more information.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But it remains to be seen if consumers want this kind of AI device. Two Apple alums previously founded Humane AI, a startup which also sold an AI pin. Humane’s pin also included built-in microphones and a camera. However, it floundered upon release, and the company had to shut down operations and sell its assets to HP within two years of its product launch.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/Apple-logo-Getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Apple may be developing its own AI wearable, according to a report published Wednesday by The Information. The device will be a pin that users can wear on their clothing, and that comes equipped with two cameras and three microphones, the report says.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Should the rumored device come to market, it would mark another sign that the AI hardware market is heating up. This news follows comments made Monday by OpenAI Chief Global Affairs Officer Chris Lehane, who told a Davos crowd that his company will likely announce its highly anticipated first AI hardware device in the second half of this year. Additional reporting suggests that the device may be a pair of earbuds.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Apple’s device is described as a “thin, flat, circular disc with an aluminum-and-glass shell,” which engineers hope to make the same size as an AirTag, “only slightly thicker.” The pin will also have two cameras (one with a standard lens and another with a wide-angle) for pictures and video, as well as a physical button, a speaker, and a Fitbit-like charging strip on its back, according to the report.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Apple may even be in the process of trying to accelerate development of this product to compete with OpenAI’s. The pin could potentially be released in 2027 and involve 20 million units at launch, the report notes. TechCrunch reached out to Apple for more information.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But it remains to be seen if consumers want this kind of AI device. Two Apple alums previously founded Humane AI, a startup which also sold an AI pin. Humane’s pin also included built-in microphones and a camera. However, it floundered upon release, and the company had to shut down operations and sell its assets to HP within two years of its product launch.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/</guid><pubDate>Thu, 22 Jan 2026 00:20:18 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;“As a father of two kids who are in school now, I see them learning interesting stuff, but they don’t learn topics like financial literacy or innovation in technology. I thought from a product point of view, Sparkli gets them away from video games and lets them learn stuff in an immersive way,” Wender said.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/</guid><pubDate>Thu, 22 Jan 2026 11:00:00 +0000</pubDate></item></channel></rss>
