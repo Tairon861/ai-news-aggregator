@@ -1,469 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 24 Jan 2026 01:53:28 +0000</lastBuildDate><item><title>Anthropic’s usage stats paint a detailed picture of AI success (AI News)</title><link>https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/</link><description>&lt;p&gt;Anthropic’s Economic Index offers a look at how organisations and individuals are actually using large language models. The report contains the company’s analysis of a million consumer interactions on Claude.ai, plus a million enterprise API calls, all dated from November 2025. The report notes that its figures are based on observations, rather than, for example, a sample of business decision-makers or generic survey.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-limited-use-cases-dominate"&gt;Limited use cases dominate&lt;/h3&gt;&lt;p&gt;Use of Anthropic’s AI tends to cluster around a relatively small number of tasks, with the ten most frequently-performed tasks accounting for almost a quarter of consumer interactions, and nearly a third of enterprise API traffic. There’s a focus on the use of Claude for code creation and modification, as readers might expect.&lt;/p&gt;&lt;p&gt;This concentration of use of AI as a software development tool has remained fairly constant over time, suggesting that the model’s value is largely based around these types of tasks, with no emerging use of Claude for other purposes of any empirical significance. This suggests that broad, general rollouts of AI are less likely to be successful than those focused on tasks where large language models are proven to be effective.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-augmentation-outperforms-automation"&gt;Augmentation outperforms automation&lt;/h3&gt;&lt;p&gt;On consumer platforms, collaborative use – where users iterate on queries to the AI over the course of a virtual conversation – is more common than using the AI to produce automated workflows. Enterprise API usage shows the opposite, as businesses attempt to gain savings through automating tasks. However, while Claude succeeds on shorter tasks, the observed quality of outcomes declines the more complex the task (or series of tasks) is, and the longer the required ‘thinking time’ required.&lt;/p&gt;&lt;p&gt;This implies automation is most effective for routine, well-defined tasks that are simpler, require fewer logical steps, and where responses to queries can be quick. Tasks estimated to take humans several hours show significantly lower completion rates than shorter tasks. For longer tasks to succeed, users have to iterate and correct outputs.&lt;/p&gt;&lt;p&gt;Users breaking down large tasks into manageable steps and posing each separately (either interactively or via API) have improved success rates.&lt;/p&gt;&lt;p&gt;The company’s observations show most queries put to the LLMs are associated with white-collar roles (although poorer countries tend to use Claude in academic settings more commonly than, for instance, the US). For example, travel agents can lose complex planning tasks to the LLM and retain elements of their more transactional work, while some roles, such as property managers, show the opposite: routine administrative tasks can be handled by the AI, and tasks needing higher-judgement remain with the human professional..&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-productivity-gains-lessened-by-reliability"&gt;Productivity gains lessened by reliability&lt;/h3&gt;&lt;p&gt;The report notes that claims of AI boosting annual labour productivity by 1.8% (over a decade) are likely best to be reduced to 1-1.2%, due to the need to factor in extra labour and costs. While a 1% efficiency gain over a decade is still economically meaningful, the need for activities such as validation, error handling, and reworking will lower success rates and therefore there should be a similar adjustment in the minds of a business’s decision-makers.&lt;/p&gt;&lt;p&gt;Potential gains to an organisation deploying AI also depend on whether tasks given to the LLM complement or substitute work. In the latter case, the success of substituting an AI for tasks normally done by a human depends on how complex the work is.&lt;/p&gt;&lt;p&gt;It’s noteworthy that the report finds a near-perfect correlation between the sophistication of users’ prompts to the LLM and successful outcomes. Thus, how people use AI shapes what it delivers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-key-takeaways-for-leaders"&gt;Key takeaways for leaders&lt;/h3&gt;&lt;ul class="wp-block-list org-ul"&gt;&lt;li&gt;AI implementation delivers value fastest in specific, well-defined areas.&lt;/li&gt;&lt;li&gt;Complementary systems (AI+human) outperform full automation for complex work.&lt;/li&gt;&lt;li&gt;Reliability and necessary extra work ‘around’ the AI reduce predicted productivity gains.&lt;/li&gt;&lt;li&gt;Changes to workforces’ makeup depend on the mix of tasks and their complexity, not specific job roles.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;(Image source: “the virtual construction worker” by antjeverena is licensed under CC BY-NC-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;figure class="wp-block-image"&gt;&lt;img alt="alt" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Anthropic’s Economic Index offers a look at how organisations and individuals are actually using large language models. The report contains the company’s analysis of a million consumer interactions on Claude.ai, plus a million enterprise API calls, all dated from November 2025. The report notes that its figures are based on observations, rather than, for example, a sample of business decision-makers or generic survey.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-limited-use-cases-dominate"&gt;Limited use cases dominate&lt;/h3&gt;&lt;p&gt;Use of Anthropic’s AI tends to cluster around a relatively small number of tasks, with the ten most frequently-performed tasks accounting for almost a quarter of consumer interactions, and nearly a third of enterprise API traffic. There’s a focus on the use of Claude for code creation and modification, as readers might expect.&lt;/p&gt;&lt;p&gt;This concentration of use of AI as a software development tool has remained fairly constant over time, suggesting that the model’s value is largely based around these types of tasks, with no emerging use of Claude for other purposes of any empirical significance. This suggests that broad, general rollouts of AI are less likely to be successful than those focused on tasks where large language models are proven to be effective.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-augmentation-outperforms-automation"&gt;Augmentation outperforms automation&lt;/h3&gt;&lt;p&gt;On consumer platforms, collaborative use – where users iterate on queries to the AI over the course of a virtual conversation – is more common than using the AI to produce automated workflows. Enterprise API usage shows the opposite, as businesses attempt to gain savings through automating tasks. However, while Claude succeeds on shorter tasks, the observed quality of outcomes declines the more complex the task (or series of tasks) is, and the longer the required ‘thinking time’ required.&lt;/p&gt;&lt;p&gt;This implies automation is most effective for routine, well-defined tasks that are simpler, require fewer logical steps, and where responses to queries can be quick. Tasks estimated to take humans several hours show significantly lower completion rates than shorter tasks. For longer tasks to succeed, users have to iterate and correct outputs.&lt;/p&gt;&lt;p&gt;Users breaking down large tasks into manageable steps and posing each separately (either interactively or via API) have improved success rates.&lt;/p&gt;&lt;p&gt;The company’s observations show most queries put to the LLMs are associated with white-collar roles (although poorer countries tend to use Claude in academic settings more commonly than, for instance, the US). For example, travel agents can lose complex planning tasks to the LLM and retain elements of their more transactional work, while some roles, such as property managers, show the opposite: routine administrative tasks can be handled by the AI, and tasks needing higher-judgement remain with the human professional..&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-productivity-gains-lessened-by-reliability"&gt;Productivity gains lessened by reliability&lt;/h3&gt;&lt;p&gt;The report notes that claims of AI boosting annual labour productivity by 1.8% (over a decade) are likely best to be reduced to 1-1.2%, due to the need to factor in extra labour and costs. While a 1% efficiency gain over a decade is still economically meaningful, the need for activities such as validation, error handling, and reworking will lower success rates and therefore there should be a similar adjustment in the minds of a business’s decision-makers.&lt;/p&gt;&lt;p&gt;Potential gains to an organisation deploying AI also depend on whether tasks given to the LLM complement or substitute work. In the latter case, the success of substituting an AI for tasks normally done by a human depends on how complex the work is.&lt;/p&gt;&lt;p&gt;It’s noteworthy that the report finds a near-perfect correlation between the sophistication of users’ prompts to the LLM and successful outcomes. Thus, how people use AI shapes what it delivers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-key-takeaways-for-leaders"&gt;Key takeaways for leaders&lt;/h3&gt;&lt;ul class="wp-block-list org-ul"&gt;&lt;li&gt;AI implementation delivers value fastest in specific, well-defined areas.&lt;/li&gt;&lt;li&gt;Complementary systems (AI+human) outperform full automation for complex work.&lt;/li&gt;&lt;li&gt;Reliability and necessary extra work ‘around’ the AI reduce predicted productivity gains.&lt;/li&gt;&lt;li&gt;Changes to workforces’ makeup depend on the mix of tasks and their complexity, not specific job roles.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;(Image source: “the virtual construction worker” by antjeverena is licensed under CC BY-NC-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;figure class="wp-block-image"&gt;&lt;img alt="alt" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/</guid><pubDate>Fri, 23 Jan 2026 14:21:20 +0000</pubDate></item><item><title>Only 1 week left (or until the first 500 passes are gone): The first TechCrunch Disrupt 2026 ticket discount is ending (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/23/only-1-week-left-or-until-the-first-500-passes-are-gone-the-first-disrupt-2026-ticket-discount-is-ending/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Time flies — and so will these savings. The lowest ticket prices for&amp;nbsp;&lt;strong&gt;TechCrunch Disrupt 2026&lt;/strong&gt;, along with the exclusive&amp;nbsp;&lt;strong&gt;50% off plus-one pass&amp;nbsp;for the first 500 registrations&lt;/strong&gt;, are almost gone. If&amp;nbsp;you’ve&amp;nbsp;been eyeing which tech conferences to lock into your calendar this year, this is your moment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Register now&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;to&amp;nbsp;save up to $680 on your pass and get a second ticket at 50% off.&amp;nbsp;&lt;/strong&gt;This offer ends&amp;nbsp;next week on January 30, or once the first&amp;nbsp;500 tickets&amp;nbsp;are claimed — whichever comes first.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-why-disrupt-nbsp"&gt;Why Disrupt?&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;From&amp;nbsp;October 13–15, San Francisco’s Moscone West will become the global epicenter of tech.&amp;nbsp;&lt;strong&gt;Disrupt&lt;/strong&gt;&amp;nbsp;unites 10,000 founders, VCs, operators, and tech leaders for 200+ expert-led sessions featuring 250+ of the industry’s most influential voices.&amp;nbsp;Explore&amp;nbsp;what’s&amp;nbsp;next as 300+ startups debut their breakthroughs, experience the high-stakes energy of Startup Battlefield 200 — the iconic startup pitch competition — and tap into curated, high-impact networking with the leaders shaping the future of tech.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2024 Aravind Srinivas" class="wp-image-3051285" height="453" src="https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Past speakers have included some of the industry’s greatest minds:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;h2 class="wp-block-heading" id="h-enhance-your-disrupt-experience-with-curation"&gt;Enhance your Disrupt experience with curation&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;No matter your role in tech, Disrupt is built to deliver a more intentional, curated experience. Founders connect directly with investors. VCs cut through the noise to discover startups aligned with their investment goals. Tech operators exchange real-world insights on building and scaling what’s next. If&amp;nbsp;you’re&amp;nbsp;hands-on in tech, Disrupt was built with you in mind.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3063870" height="453" src="https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2025-day-2.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Slava Blazer Photography&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Explore all ticket options&lt;/strong&gt;&amp;nbsp;to&amp;nbsp;find the right fit for&amp;nbsp;you, your partner, and your team.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Founders and investors can unlock specialized passes designed to support your goals.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Founder Pass&lt;/strong&gt;:&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Get the tools, insights, and connections you need to accelerate your&amp;nbsp;startup’s&amp;nbsp;growth.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Investor Pass&lt;/strong&gt;:&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Access curated opportunities to connect with standout startups and expand your portfolio.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading" id="h-don-t-wait-until-all-the-first-500-plus-one-tickets-are-gone"&gt;Don’t&amp;nbsp;wait until all the first 500 plus-one tickets are gone&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;These early savings&amp;nbsp;won’t&amp;nbsp;stick around. Lock in your Disrupt ticket now to&amp;nbsp;&lt;strong&gt;save up to&amp;nbsp;$680&lt;/strong&gt;, and&amp;nbsp;bring a plus-one at&amp;nbsp;&lt;strong&gt;50% off&lt;/strong&gt;&amp;nbsp;while the first 500 discounted passes last.&amp;nbsp;Secure your spot before this offer disappears.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Register here&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Kevin A. Damoa, Founder &amp;amp; CEO, Glīd, Claire Kroft and Ankit Malhotra, winners of the Startup Battlefield 2025, pose onstage during day three of TechCrunch Disrupt 2025 at Moscone Center on October 29, 2025 in San Francisco, California." class="wp-image-3070746" height="453" src="https://techcrunch.com/wp-content/uploads/2025/11/54889393608_2493644601_o-2.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Time flies — and so will these savings. The lowest ticket prices for&amp;nbsp;&lt;strong&gt;TechCrunch Disrupt 2026&lt;/strong&gt;, along with the exclusive&amp;nbsp;&lt;strong&gt;50% off plus-one pass&amp;nbsp;for the first 500 registrations&lt;/strong&gt;, are almost gone. If&amp;nbsp;you’ve&amp;nbsp;been eyeing which tech conferences to lock into your calendar this year, this is your moment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Register now&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;to&amp;nbsp;save up to $680 on your pass and get a second ticket at 50% off.&amp;nbsp;&lt;/strong&gt;This offer ends&amp;nbsp;next week on January 30, or once the first&amp;nbsp;500 tickets&amp;nbsp;are claimed — whichever comes first.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-why-disrupt-nbsp"&gt;Why Disrupt?&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;From&amp;nbsp;October 13–15, San Francisco’s Moscone West will become the global epicenter of tech.&amp;nbsp;&lt;strong&gt;Disrupt&lt;/strong&gt;&amp;nbsp;unites 10,000 founders, VCs, operators, and tech leaders for 200+ expert-led sessions featuring 250+ of the industry’s most influential voices.&amp;nbsp;Explore&amp;nbsp;what’s&amp;nbsp;next as 300+ startups debut their breakthroughs, experience the high-stakes energy of Startup Battlefield 200 — the iconic startup pitch competition — and tap into curated, high-impact networking with the leaders shaping the future of tech.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2024 Aravind Srinivas" class="wp-image-3051285" height="453" src="https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Past speakers have included some of the industry’s greatest minds:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;h2 class="wp-block-heading" id="h-enhance-your-disrupt-experience-with-curation"&gt;Enhance your Disrupt experience with curation&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;No matter your role in tech, Disrupt is built to deliver a more intentional, curated experience. Founders connect directly with investors. VCs cut through the noise to discover startups aligned with their investment goals. Tech operators exchange real-world insights on building and scaling what’s next. If&amp;nbsp;you’re&amp;nbsp;hands-on in tech, Disrupt was built with you in mind.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3063870" height="453" src="https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2025-day-2.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Slava Blazer Photography&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Explore all ticket options&lt;/strong&gt;&amp;nbsp;to&amp;nbsp;find the right fit for&amp;nbsp;you, your partner, and your team.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Founders and investors can unlock specialized passes designed to support your goals.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Founder Pass&lt;/strong&gt;:&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Get the tools, insights, and connections you need to accelerate your&amp;nbsp;startup’s&amp;nbsp;growth.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;&lt;strong&gt;Investor Pass&lt;/strong&gt;:&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Access curated opportunities to connect with standout startups and expand your portfolio.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading" id="h-don-t-wait-until-all-the-first-500-plus-one-tickets-are-gone"&gt;Don’t&amp;nbsp;wait until all the first 500 plus-one tickets are gone&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;These early savings&amp;nbsp;won’t&amp;nbsp;stick around. Lock in your Disrupt ticket now to&amp;nbsp;&lt;strong&gt;save up to&amp;nbsp;$680&lt;/strong&gt;, and&amp;nbsp;bring a plus-one at&amp;nbsp;&lt;strong&gt;50% off&lt;/strong&gt;&amp;nbsp;while the first 500 discounted passes last.&amp;nbsp;Secure your spot before this offer disappears.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Register here&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Kevin A. Damoa, Founder &amp;amp; CEO, Glīd, Claire Kroft and Ankit Malhotra, winners of the Startup Battlefield 2025, pose onstage during day three of TechCrunch Disrupt 2025 at Moscone Center on October 29, 2025 in San Francisco, California." class="wp-image-3070746" height="453" src="https://techcrunch.com/wp-content/uploads/2025/11/54889393608_2493644601_o-2.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Kimberly White / Getty Images&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/23/only-1-week-left-or-until-the-first-500-passes-are-gone-the-first-disrupt-2026-ticket-discount-is-ending/</guid><pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate></item><item><title>OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379368.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI CEO Sam Altman is planning to visit India in mid-February, his first visit to the country in nearly a year, TechCrunch has learned. The visit comes as New Delhi prepares to host a major AI summit expected to draw top executives from Meta, Google, and Anthropic.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;India is hosting its first major AI event — the India AI Impact Summit 2026 — in New Delhi between February 16 and 20, bringing together global technology leaders, including Nvidia CEO Jensen Huang, Google CEO Sundar Pichai, and Anthropic CEO Dario Amodei alongside key Indian business figures like Reliance Industries chairman Mukesh Ambani, per the summit’s website. Altman is not currently listed as a confirmed attendee.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But TechCrunch has learned that OpenAI is separately planning to host closed-door meetings on the sidelines of the summit in New Delhi, where Altman is expected to be present. The company is also hosting an OpenAI event in New Delhi on February 19, with venture capitalists and industry executives invited, one person familiar with the matter said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman’s visit has not been publicly announced and plans could still change, the sources said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Several other U.S. companies are also planning side events around the summit week. Anthropic is hosting a developers’ day in Bengaluru on February 16, the company confirmed to TechCrunch. Nvidia is also set to hold an evening event in New Delhi during the summit week, people familiar with the plans told TechCrunch. (The GPU maker did not respond to requests for comment.) The cluster of events underscores how global AI firms are seeking to engage India’s enterprise customers, startup ecosystem, and developer community.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The trip would mark Altman’s first visit to India in nearly a year, after he traveled to the country in February 2025. Altman had previously said he planned to return later in 2025 following OpenAI’s August announcement of a New Delhi office, but that trip did not take place.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman’s visit also comes as India has emerged as a key growth market for American AI companies. In recent months, Anthropic announced an office in Bengaluru and named former Microsoft India managing director Irina Ghose as its local head, while Google and Perplexity have struck partnerships with Reliance Jio and Bharti Airtel, respectively, to bundle premium AI subscriptions for millions of telecom users.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI has been expanding its India presence in recent months, hiring across enterprise sales, technical deployment, and legal roles focused on AI regulation. The company is currently listing openings in New Delhi, Mumbai, and Bengaluru. India has emerged as ChatGPT’s biggest market by downloads and second largest by users. Still, OpenAI has faced challenges converting that demand into paid subscriptions, introducing a lower-priced “ChatGPT Go” plan last year priced under $5 and offering it free for a year to drive uptake.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman is expected to meet key tech executives, startup founders, and government officials during the trip, the sources said, as OpenAI looks to expand ChatGPT’s enterprise adoption while still broadening its reach as a mass-market product. The company has been engaging with multiple sectors in India, including education and media, the people added.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI is also looking at India as a potential base for infrastructure expansion, the sources said. Last year, both Google and Microsoft announced multibillion-dollar investments in India to expand their AI and cloud footprint. But India’s data-center ambitions face constraints, including uneven power availability, high energy costs, and water scarcity in several regions — factors that could slow the build-out of AI infrastructure and raise operating costs for cloud providers.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Still, the Indian government is hopeful that the upcoming summit will cement India’s status as a destination for large-scale AI investment. The country’s IT minister said in a recent interview that the event could help attract as much as $100 billion in investment. The federal government is also pushing domestic startups to build smaller models for local use cases, eventually reducing reliance on U.S.-based systems.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI, India’s IT ministry, and the AI summit’s organizers did not respond to requests for comment.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379368.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI CEO Sam Altman is planning to visit India in mid-February, his first visit to the country in nearly a year, TechCrunch has learned. The visit comes as New Delhi prepares to host a major AI summit expected to draw top executives from Meta, Google, and Anthropic.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;India is hosting its first major AI event — the India AI Impact Summit 2026 — in New Delhi between February 16 and 20, bringing together global technology leaders, including Nvidia CEO Jensen Huang, Google CEO Sundar Pichai, and Anthropic CEO Dario Amodei alongside key Indian business figures like Reliance Industries chairman Mukesh Ambani, per the summit’s website. Altman is not currently listed as a confirmed attendee.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But TechCrunch has learned that OpenAI is separately planning to host closed-door meetings on the sidelines of the summit in New Delhi, where Altman is expected to be present. The company is also hosting an OpenAI event in New Delhi on February 19, with venture capitalists and industry executives invited, one person familiar with the matter said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman’s visit has not been publicly announced and plans could still change, the sources said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Several other U.S. companies are also planning side events around the summit week. Anthropic is hosting a developers’ day in Bengaluru on February 16, the company confirmed to TechCrunch. Nvidia is also set to hold an evening event in New Delhi during the summit week, people familiar with the plans told TechCrunch. (The GPU maker did not respond to requests for comment.) The cluster of events underscores how global AI firms are seeking to engage India’s enterprise customers, startup ecosystem, and developer community.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The trip would mark Altman’s first visit to India in nearly a year, after he traveled to the country in February 2025. Altman had previously said he planned to return later in 2025 following OpenAI’s August announcement of a New Delhi office, but that trip did not take place.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman’s visit also comes as India has emerged as a key growth market for American AI companies. In recent months, Anthropic announced an office in Bengaluru and named former Microsoft India managing director Irina Ghose as its local head, while Google and Perplexity have struck partnerships with Reliance Jio and Bharti Airtel, respectively, to bundle premium AI subscriptions for millions of telecom users.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI has been expanding its India presence in recent months, hiring across enterprise sales, technical deployment, and legal roles focused on AI regulation. The company is currently listing openings in New Delhi, Mumbai, and Bengaluru. India has emerged as ChatGPT’s biggest market by downloads and second largest by users. Still, OpenAI has faced challenges converting that demand into paid subscriptions, introducing a lower-priced “ChatGPT Go” plan last year priced under $5 and offering it free for a year to drive uptake.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Altman is expected to meet key tech executives, startup founders, and government officials during the trip, the sources said, as OpenAI looks to expand ChatGPT’s enterprise adoption while still broadening its reach as a mass-market product. The company has been engaging with multiple sectors in India, including education and media, the people added.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI is also looking at India as a potential base for infrastructure expansion, the sources said. Last year, both Google and Microsoft announced multibillion-dollar investments in India to expand their AI and cloud footprint. But India’s data-center ambitions face constraints, including uneven power availability, high energy costs, and water scarcity in several regions — factors that could slow the build-out of AI infrastructure and raise operating costs for cloud providers.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Still, the Indian government is hopeful that the upcoming summit will cement India’s status as a destination for large-scale AI investment. The country’s IT minister said in a recent interview that the event could help attract as much as $100 billion in investment. The federal government is also pushing domestic startups to build smaller models for local use cases, eventually reducing reliance on U.S.-based systems.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI, India’s IT ministry, and the AI summit’s organizers did not respond to requests for comment.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/</guid><pubDate>Fri, 23 Jan 2026 15:30:09 +0000</pubDate></item><item><title>AI CEOs transformed Davos into a tech conference (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/ai-ceos-transformed-davos-into-a-tech-conference/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;The World Economic Forum’s annual meeting in Davos&amp;nbsp;felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.&amp;nbsp;AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs&amp;nbsp;weren’t&amp;nbsp;holding back. There was public criticism of trade policy, warnings about AI bubbles popping, and a lot of talk about what comes next for the industry.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Meanwhile, back in Silicon Valley, AI startup Humans&amp;amp;&amp;nbsp;raised a $480 million seed round&amp;nbsp;with no product&amp;nbsp;on the market, just a vision for “social intelligence” AI and a team of ex-Anthropic, Google, and&amp;nbsp;xAI&amp;nbsp;employees.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Today on TechCrunch’s&amp;nbsp;Equity&amp;nbsp;podcast, Kirsten Korosec, Anthony Ha, and Sean O’Kane discuss why raising hundreds of millions before building a product is&amp;nbsp;apparently the&amp;nbsp;new norm, which conversations took over Davos this week, and more.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear more from the week, including:&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Whether Meta’s 10% layoffs at Reality Labs means&amp;nbsp;the end for the metaverse, and&amp;nbsp;who’s&amp;nbsp;defending Meta’s VR investments&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-&lt;p class="has-text-align-left wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;The World Economic Forum’s annual meeting in Davos&amp;nbsp;felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.&amp;nbsp;AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs&amp;nbsp;weren’t&amp;nbsp;holding back. There was public criticism of trade policy, warnings about AI bubbles popping, and a lot of talk about what comes next for the industry.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Meanwhile, back in Silicon Valley, AI startup Humans&amp;amp;&amp;nbsp;raised a $480 million seed round&amp;nbsp;with no product&amp;nbsp;on the market, just a vision for “social intelligence” AI and a team of ex-Anthropic, Google, and&amp;nbsp;xAI&amp;nbsp;employees.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Today on TechCrunch’s&amp;nbsp;Equity&amp;nbsp;podcast, Kirsten Korosec, Anthony Ha, and Sean O’Kane discuss why raising hundreds of millions before building a product is&amp;nbsp;apparently the&amp;nbsp;new norm, which conversations took over Davos this week, and more.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear more from the week, including:&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Whether Meta’s 10% layoffs at Reality Labs means&amp;nbsp;the end for the metaverse, and&amp;nbsp;who’s&amp;nbsp;defending Meta’s VR investments&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-&lt;p class="has-text-align-left wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/ai-ceos-transformed-davos-into-a-tech-conference/</guid><pubDate>Fri, 23 Jan 2026 15:57:40 +0000</pubDate></item><item><title>Meta pauses teen access to AI characters ahead of new version (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Meta today said that it is pausing teens’ access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version of AI characters for teens, the company exclusively told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The move comes days before a case against Meta is set to go to trial in New Mexico, in which the company is accused of not making an effort to protect kids from sexual exploitation on its apps. Wired reported Thursday that Meta has sought to limit discovery related to social media’s impact on teen mental health.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In October, the company previewed parental controls for AI characters, allowing parents and guardians to monitor topics and block access to certain characters. Meta said parents would be able to completely turn off chats with AI characters. These features were set to release this year, but the company is now turning off AI characters altogether for teens while it updates the AI characters to a newer version.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta said that it heard from parents that they wanted more insights and control over their teens’ interactions with AI characters, which is why it decided to make these changes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company has been cracking down on teens’ access to AI content in its apps. Also in October, Meta rolled out parental control features on Instagram, focusing on tailoring the teen experience of interacting with AI on its apps. These features, which were inspired by the PG-13 movie rating, restricted teen access to certain topics like extreme violence, nudity, and graphic drug use.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3059397" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Meta-AI-Controls_Visual2-1.jpeg?w=383" width="383" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Meta’s previously previewed controls around AI characters.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Meta&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Starting in the coming weeks, teens will no longer be able to access AI characters across our apps until the updated experience is ready. This will apply to anyone who has given us a teen birthday, as well as people who claim to be adults but who we suspect are teens based on our age prediction technology,” the company said in an updated blog post. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta added that when it rolls out the new AI characters, they will have built-in parental controls. The company said that the new characters will give age-appropriate responses and will stick to topics like education, sport, and hobbies.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Social media companies are under heavy scrutiny from regulators. Apart from the aforementioned case in New Mexico, Meta is also facing a trial next week, where the platform is accused of causing social media addiction. CEO Mark Zuckerberg is expected to take the witness stand in that case once the trial begins.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Besides social platforms, AI companies have had to modify their experience for teens after facing lawsuits alleging to play a part in aiding self-harm. In October, Character.AI, the startup that allows users to chat with various AI avatars, disallowed open-ended conversations with chatbots for users who were under 18. In November, the startup said it would build interactive stories for kids. In the last few months, OpenAI added new teen safety rules for ChatGPT and started predicting a user’s age to apply content restrictions.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Correction: This post was updated to clarify the new version of AI characters will be accessible to everyone, not just teens, when it launches. It will include parental controls. &lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Meta today said that it is pausing teens’ access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version of AI characters for teens, the company exclusively told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The move comes days before a case against Meta is set to go to trial in New Mexico, in which the company is accused of not making an effort to protect kids from sexual exploitation on its apps. Wired reported Thursday that Meta has sought to limit discovery related to social media’s impact on teen mental health.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In October, the company previewed parental controls for AI characters, allowing parents and guardians to monitor topics and block access to certain characters. Meta said parents would be able to completely turn off chats with AI characters. These features were set to release this year, but the company is now turning off AI characters altogether for teens while it updates the AI characters to a newer version.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta said that it heard from parents that they wanted more insights and control over their teens’ interactions with AI characters, which is why it decided to make these changes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company has been cracking down on teens’ access to AI content in its apps. Also in October, Meta rolled out parental control features on Instagram, focusing on tailoring the teen experience of interacting with AI on its apps. These features, which were inspired by the PG-13 movie rating, restricted teen access to certain topics like extreme violence, nudity, and graphic drug use.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3059397" height="680" src="https://techcrunch.com/wp-content/uploads/2025/10/Meta-AI-Controls_Visual2-1.jpeg?w=383" width="383" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Meta’s previously previewed controls around AI characters.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Meta&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Starting in the coming weeks, teens will no longer be able to access AI characters across our apps until the updated experience is ready. This will apply to anyone who has given us a teen birthday, as well as people who claim to be adults but who we suspect are teens based on our age prediction technology,” the company said in an updated blog post. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Meta added that when it rolls out the new AI characters, they will have built-in parental controls. The company said that the new characters will give age-appropriate responses and will stick to topics like education, sport, and hobbies.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Social media companies are under heavy scrutiny from regulators. Apart from the aforementioned case in New Mexico, Meta is also facing a trial next week, where the platform is accused of causing social media addiction. CEO Mark Zuckerberg is expected to take the witness stand in that case once the trial begins.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Besides social platforms, AI companies have had to modify their experience for teens after facing lawsuits alleging to play a part in aiding self-harm. In October, Character.AI, the startup that allows users to chat with various AI avatars, disallowed open-ended conversations with chatbots for users who were under 18. In November, the startup said it would build interactive stories for kids. In the last few months, OpenAI added new teen safety rules for ChatGPT and started predicting a user’s age to apply content restrictions.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Correction: This post was updated to clarify the new version of AI characters will be accessible to everyone, not just teens, when it launches. It will include parental controls. &lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/</guid><pubDate>Fri, 23 Jan 2026 17:00:00 +0000</pubDate></item><item><title>Google Photos’ latest feature lets you meme yourself (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2020/08/Works-with-Google-Photos.jpg?resize=1200,500" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google Photos will now let you make memes with your own images. On Thursday, Google introduced a new generative AI-powered feature called “Me Meme,” which will allow you to combine a photo template and an image of yourself to generate an image of the meme.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The new feature, which will be first available to U.S.-based users, was originally spotted in development last October by the blog Android Authority. It was formally announced by Google via its Photos Community site on Thursday.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;According to Google, the feature is experimental, so generated images “may not perfectly match the original photo.” It suggests uploading well-lit, focused, and front-facing photos to get the best results.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The addition is meant to just be a fun way to explore your photos and experiment with Google’s Gemini AI technology, and specifically Nano Banana. Google’s popular AI image model powers other AI features in the Google Photos app, like the ability to re-create images in new styles, such as cartoons or paintings. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Though a fairly unserious addition, all things considered, these types of features help remind users to return to the Photos app whenever they want to play around with AI tools, rather than going to a competitor’s product.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plus, users tend to gravitate toward features that show themselves in AI edits, as OpenAI found with its successful launch of the Sora app, which lets you make AI videos that can include yourself and your friends. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Me Meme” isn’t fully rolled out, so you may not see it in your updated Google Photos app just yet. When available, it will appear under the “Create” tab, Google says. A rep for Google told TechCrunch the feature will reach U.S. iOS and Android users over the “coming weeks.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To use the feature, you’ll select a template or upload your own, then tap “add photo” and “Generate.” Google notes that more templates are being added over time. After the AI creates the image, you can save the photo, share it on other platforms, or tap “regenerate” to have it re-imagine the image a second time.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2020/08/Works-with-Google-Photos.jpg?resize=1200,500" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google Photos will now let you make memes with your own images. On Thursday, Google introduced a new generative AI-powered feature called “Me Meme,” which will allow you to combine a photo template and an image of yourself to generate an image of the meme.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The new feature, which will be first available to U.S.-based users, was originally spotted in development last October by the blog Android Authority. It was formally announced by Google via its Photos Community site on Thursday.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;According to Google, the feature is experimental, so generated images “may not perfectly match the original photo.” It suggests uploading well-lit, focused, and front-facing photos to get the best results.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The addition is meant to just be a fun way to explore your photos and experiment with Google’s Gemini AI technology, and specifically Nano Banana. Google’s popular AI image model powers other AI features in the Google Photos app, like the ability to re-create images in new styles, such as cartoons or paintings. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Though a fairly unserious addition, all things considered, these types of features help remind users to return to the Photos app whenever they want to play around with AI tools, rather than going to a competitor’s product.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plus, users tend to gravitate toward features that show themselves in AI edits, as OpenAI found with its successful launch of the Sora app, which lets you make AI videos that can include yourself and your friends. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Me Meme” isn’t fully rolled out, so you may not see it in your updated Google Photos app just yet. When available, it will appear under the “Create” tab, Google says. A rep for Google told TechCrunch the feature will reach U.S. iOS and Android users over the “coming weeks.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To use the feature, you’ll select a template or upload your own, then tap “add photo” and “Generate.” Google notes that more templates are being added over time. After the AI creates the image, you can save the photo, share it on other platforms, or tap “regenerate” to have it re-imagine the image a second time.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/</guid><pubDate>Fri, 23 Jan 2026 17:02:22 +0000</pubDate></item><item><title>Introducing GIST: The next stage in smart sampling (The latest research from Google)</title><link>https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h3 class="class"&gt;2. Approximating the independent set&lt;/h3&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;GIST then looks for the maximum-utility subset that can be chosen where no two points are connected in this graph: the classic maximum independent set problem. Imagine planning a dinner party where certain guests can’t sit together. Your goal is to invite the most interesting group of people possible, but you must follow one rule: no two people at the table can have a conflict. This is a massive puzzle because picking one guest might "block" you from inviting three other high-interest people. To find the best combination, you have to check an exponential number of groupings, which is why it is considered one of the hardest problems in computing.&lt;/p&gt;&lt;p&gt;Since the max independent set problem itself is NP-complete (meaning that it’s widely believed there does not exist an efficient algorithm to find the absolute “perfect” answer for a massive dataset) and admits no reasonable approximation algorithm, GIST uses a carefully constructed bicriteria greedy algorithm to approximate the solution efficiently. It iterates through many possible distance thresholds, solving the corresponding independent set problem and ultimately selecting the best solution found across all thresholds. For any minimum distance &lt;i&gt;d&lt;/i&gt; achieved by the optimum solution, GIST achieves a comparable utility to the optimum utility at distance threshold &lt;i&gt;d&lt;/i&gt;/2.&lt;/p&gt;&lt;p&gt;The bicriteria greedy algorithm acts like a systematic "tuning knob" that finds the right balance between data variety and value. Instead of guessing, it analyzes the actual distances between all data points to create a list of potential spacing rules. It then tests these rules one by one: for each rule, it "greedily" grabs the most valuable points it can find, provided they aren't too close to the points it has already picked. By running this process across every relevant distance and comparing the results, the algorithm identifies the specific "sweet spot" that captures the most useful information while ensuring the data is as spread out as possible.&lt;/p&gt;&lt;p&gt;By cleverly approximating a series of these maximum independent set problems, GIST manages to satisfy the utility goal while respecting the minimum diversity requirement.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h3 class="class"&gt;2. Approximating the independent set&lt;/h3&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;GIST then looks for the maximum-utility subset that can be chosen where no two points are connected in this graph: the classic maximum independent set problem. Imagine planning a dinner party where certain guests can’t sit together. Your goal is to invite the most interesting group of people possible, but you must follow one rule: no two people at the table can have a conflict. This is a massive puzzle because picking one guest might "block" you from inviting three other high-interest people. To find the best combination, you have to check an exponential number of groupings, which is why it is considered one of the hardest problems in computing.&lt;/p&gt;&lt;p&gt;Since the max independent set problem itself is NP-complete (meaning that it’s widely believed there does not exist an efficient algorithm to find the absolute “perfect” answer for a massive dataset) and admits no reasonable approximation algorithm, GIST uses a carefully constructed bicriteria greedy algorithm to approximate the solution efficiently. It iterates through many possible distance thresholds, solving the corresponding independent set problem and ultimately selecting the best solution found across all thresholds. For any minimum distance &lt;i&gt;d&lt;/i&gt; achieved by the optimum solution, GIST achieves a comparable utility to the optimum utility at distance threshold &lt;i&gt;d&lt;/i&gt;/2.&lt;/p&gt;&lt;p&gt;The bicriteria greedy algorithm acts like a systematic "tuning knob" that finds the right balance between data variety and value. Instead of guessing, it analyzes the actual distances between all data points to create a list of potential spacing rules. It then tests these rules one by one: for each rule, it "greedily" grabs the most valuable points it can find, provided they aren't too close to the points it has already picked. By running this process across every relevant distance and comparing the results, the algorithm identifies the specific "sweet spot" that captures the most useful information while ensuring the data is as spread out as possible.&lt;/p&gt;&lt;p&gt;By cleverly approximating a series of these maximum independent set problems, GIST manages to satisfy the utility goal while respecting the minimum diversity requirement.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/</guid><pubDate>Fri, 23 Jan 2026 17:46:00 +0000</pubDate></item><item><title>[NEW] How did Davos turn into a tech conference? (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div class="jwppp-video-box" id="jwppp-video-box-30855161"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 24 Jan 2026 06:35:41 +0000</lastBuildDate><item><title>How did Davos turn into a tech conference? (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div class="jwppp-video-box" id="jwppp-video-box-30855161"&gt;
 
 
 
@@ -503,7 +39,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/</guid><pubDate>Fri, 23 Jan 2026 20:00:00 +0000</pubDate></item><item><title>[NEW] Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2198379447.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Yann LeCun’s new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it. This week, the startup finally confirmed what it’s building — and several key details have been hiding in plain sight.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/</guid><pubDate>Fri, 23 Jan 2026 20:00:00 +0000</pubDate></item><item><title>Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2198379447.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Yann LeCun’s new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it. This week, the startup finally confirmed what it’s building — and several key details have been hiding in plain sight.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;On its newly launched website, the startup disclosed its plans to develop “world models” in order to “build intelligent systems that understand the real world.” The focus on world models was already hinted at by AMI’s name, which stands for Advanced Machine Intelligence, but it has now officially joined the ranks of the hottest AI research startups.&lt;/p&gt;
 
@@ -613,4 +149,78 @@
 
 &lt;p class="wp-block-paragraph"&gt;This means that the French-born researcher will remain based in New York, but he told the MIT Technology Review that AMI Labs “is going to be a global company [that’s] headquartered in Paris.” The news was welcomed by French President Emmanuel Macron, who expressed his pride that LeCun, who is also a Turing Prize winner, chose Paris. “We will do everything we can to ensure his success from France,” he said.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The startup will also have offices in Montreal, New York, and Singapore, but its decision to pick Paris for its headquarters will help consolidate Paris’ reputation as an AI hub, where it will join the ranks of H, Mistral AI and several international labs, including FAIR. It’s fitting, perhaps, that AMI is pronounced a-mee — like “ami” in French, which means “friend,” LeCun has pointed out.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/</guid><pubDate>Sat, 24 Jan 2026 00:04:45 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;The startup will also have offices in Montreal, New York, and Singapore, but its decision to pick Paris for its headquarters will help consolidate Paris’ reputation as an AI hub, where it will join the ranks of H, Mistral AI and several international labs, including FAIR. It’s fitting, perhaps, that AMI is pronounced a-mee — like “ami” in French, which means “friend,” LeCun has pointed out.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/</guid><pubDate>Sat, 24 Jan 2026 00:04:45 +0000</pubDate></item><item><title>[NEW] Legal AI giant Harvey acquires Hexus as competition heats up in legal tech (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Harvey, the high-flying legal AI startup, has acquired Hexus — a two-year-old startup that builds tools for creating product demos, videos, and guides — as the company continues its aggressive expansion amid fierce competition in the legal tech market.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the startup’s India-based engineers will come onboard once Harvey establishes a Bangalore office. Pratap adds that she will lead an engineering team focused on accelerating Harvey’s offerings for in-house legal departments.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“What we’re bringing to Harvey is deep experience building enterprise AI tools in adjacent problem spaces,” Pratap said. “This expertise helps Harvey move faster in a market that’s becoming increasingly competitive.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hexus had raised $1.6 million from Pear VC, Liquid 2 Ventures, and angel investors before the acquisition. While Pratap declined to share deal terms, she said the structure was aligned around “long-term team incentives.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The acquisition comes as Harvey looks to cement its position as one of AI’s hottest startups. The company confirmed last fall that it’s now valued at $8 billion after raising $160 million, bringing its funding across 2025 to $760 million. Andreessen Horowitz led that newest round, joined by new investors T. Rowe Price and WndrCo, alongside existing backers Sequoia Capital, Kleiner Perkins, Conviction, and angel investor Elad Gil. (It started the year with a $3 billion valuation after Sequoia led a $300 million Series D round in the company.)&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Harvey now claims more than 1,000 clients across 60 countries, including a majority of the top 10 U.S. law firms.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;When TechCrunch spoke with co-founder and CEO Winston Weinberg in November, he traced Harvey’s origin story back to a cold email sent to OpenAI CEO Sam Altman. Weinberg, then a first-year associate at O’Melveny &amp;amp; Myers, and co-founder Gabe Pereyra, a researcher who worked at Google DeepMind and Meta and was Weinberg’s roommate at the time, tested GPT-3 on landlord-tenant law questions from Reddit. When they showed the AI-generated answers to attorneys, two out of three said they’d send 86 of 100 responses with zero edits.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“That was the moment when we were like, wow, this entire industry can be transformed by this technology,” Weinberg said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;They emailed Altman on July 4, 2022, got on a call that same morning, and landed their first check from the OpenAI Startup Fund shortly after. According to Weinberg, the OpenAI Startup Fund remains Harvey’s second-largest investor.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Harvey, the high-flying legal AI startup, has acquired Hexus — a two-year-old startup that builds tools for creating product demos, videos, and guides — as the company continues its aggressive expansion amid fierce competition in the legal tech market.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the startup’s India-based engineers will come onboard once Harvey establishes a Bangalore office. Pratap adds that she will lead an engineering team focused on accelerating Harvey’s offerings for in-house legal departments.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“What we’re bringing to Harvey is deep experience building enterprise AI tools in adjacent problem spaces,” Pratap said. “This expertise helps Harvey move faster in a market that’s becoming increasingly competitive.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hexus had raised $1.6 million from Pear VC, Liquid 2 Ventures, and angel investors before the acquisition. While Pratap declined to share deal terms, she said the structure was aligned around “long-term team incentives.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The acquisition comes as Harvey looks to cement its position as one of AI’s hottest startups. The company confirmed last fall that it’s now valued at $8 billion after raising $160 million, bringing its funding across 2025 to $760 million. Andreessen Horowitz led that newest round, joined by new investors T. Rowe Price and WndrCo, alongside existing backers Sequoia Capital, Kleiner Perkins, Conviction, and angel investor Elad Gil. (It started the year with a $3 billion valuation after Sequoia led a $300 million Series D round in the company.)&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Harvey now claims more than 1,000 clients across 60 countries, including a majority of the top 10 U.S. law firms.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;When TechCrunch spoke with co-founder and CEO Winston Weinberg in November, he traced Harvey’s origin story back to a cold email sent to OpenAI CEO Sam Altman. Weinberg, then a first-year associate at O’Melveny &amp;amp; Myers, and co-founder Gabe Pereyra, a researcher who worked at Google DeepMind and Meta and was Weinberg’s roommate at the time, tested GPT-3 on landlord-tenant law questions from Reddit. When they showed the AI-generated answers to attorneys, two out of three said they’d send 86 of 100 responses with zero edits.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“That was the moment when we were like, wow, this entire industry can be transformed by this technology,” Weinberg said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;They emailed Altman on July 4, 2022, got on a call that same morning, and landed their first check from the OpenAI Startup Fund shortly after. According to Weinberg, the OpenAI Startup Fund remains Harvey’s second-largest investor.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/</guid><pubDate>Sat, 24 Jan 2026 05:27:22 +0000</pubDate></item></channel></rss>
