@@ -1,29 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 28 Jan 2026 06:40:08 +0000</lastBuildDate><item><title>ATLAS: Practical scaling laws for multilingual models (The latest research from Google)</title><link>https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h3 class="class"&gt;The cross-lingual transfer map&lt;/h3&gt;
-            
-        
-        
-    &lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 28 Jan 2026 12:57:04 +0000</lastBuildDate><item><title>[NEW] Google pitches Gemini to students studying for India’s most competitive college entrance exam (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google is expanding its push into AI-powered learning by adding full-length practice tests in Gemini for the Joint Entrance Exam (JEE), India’s nationwide engineering  exam used to shortlist candidates for the country’s top technical institutes and taken by millions of students each year.&lt;/p&gt;
 
-
-
-    &lt;p&gt;Next, we measured language-to-language synergies and interference at scale, producing a matrix that quantifies how much training on language &lt;i&gt;A&lt;/i&gt; helps (or hurts) language &lt;i&gt;B&lt;/i&gt;. Our results show very intuitive results: Norwegian is helped primarily by Swedish and German, Malay by Indonesian, and Arabic by Hebrew. English, French, and Spanish are the most widely helpful languages with which to train, likely due to the inherent quality, heterogeneity, and quantity of text in these languages found on the web.&lt;/p&gt;&lt;p&gt;The analysis shows that the biggest predictor of positive transfer is sharing a script and/or language family (e.g., Latin script), statistically significant with p &amp;lt; .001. English helps many, but not all, languages; and transfer isn’t always symmetric (&lt;i&gt;A&lt;/i&gt; can help &lt;i&gt;B&lt;/i&gt; more than &lt;i&gt;B&lt;/i&gt; helps &lt;i&gt;A&lt;/i&gt;). These measurements turn “hunches” into data-driven language mix choices.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h3 class="class"&gt;The cross-lingual transfer map&lt;/h3&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;Next, we measured language-to-language synergies and interference at scale, producing a matrix that quantifies how much training on language &lt;i&gt;A&lt;/i&gt; helps (or hurts) language &lt;i&gt;B&lt;/i&gt;. Our results show very intuitive results: Norwegian is helped primarily by Swedish and German, Malay by Indonesian, and Arabic by Hebrew. English, French, and Spanish are the most widely helpful languages with which to train, likely due to the inherent quality, heterogeneity, and quantity of text in these languages found on the web.&lt;/p&gt;&lt;p&gt;The analysis shows that the biggest predictor of positive transfer is sharing a script and/or language family (e.g., Latin script), statistically significant with p &amp;lt; .001. English helps many, but not all, languages; and transfer isn’t always symmetric (&lt;i&gt;A&lt;/i&gt; can help &lt;i&gt;B&lt;/i&gt; more than &lt;i&gt;B&lt;/i&gt; helps &lt;i&gt;A&lt;/i&gt;). These measurements turn “hunches” into data-driven language mix choices.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/</guid><pubDate>Tue, 27 Jan 2026 18:58:40 +0000</pubDate></item><item><title>Anthropic reportedly upped its latest raise to $20B (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic has doubled the amount of VC funding it aims to raise, the FT reports, increasing the target from $10 billion to $20 billion. The round, expected to close soon, will give the company a valuation of $350 billion, sources told the FT.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Anthropic, which makes the popular AI Claude and the equally popular Claude Code, decided to double its funding target due to booming investor interest. Backers in this round are expected to include Sequoia Capital (which also invests in its rival OpenAI), Singapore’s sovereign wealth fund, and investment management firm Coatue, per the FT.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Google said students can take full-length mock exams for the JEE within Gemini, which will offer questions based on vetted content from Indian education firms PhysicsWallah and Careers360. &lt;/p&gt;
 
 
 
@@ -31,35 +9,15 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Late last year, it was reported that Anthropic hired lawyers as a step toward prepping for an IPO that could come sometime this year. The company announced a $13 billion raise in September, making it one of the industry’s most valuable private companies, valued at $183 billion.&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic has doubled the amount of VC funding it aims to raise, the FT reports, increasing the target from $10 billion to $20 billion. The round, expected to close soon, will give the company a valuation of $350 billion, sources told the FT.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The launch comes after the company recently rolled out similar test-prep tools for the SAT.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Anthropic, which makes the popular AI Claude and the equally popular Claude Code, decided to double its funding target due to booming investor interest. Backers in this round are expected to include Sequoia Capital (which also invests in its rival OpenAI), Singapore’s sovereign wealth fund, and investment management firm Coatue, per the FT.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Once students complete a mock test in Gemini, Google said the chatbot will provide immediate feedback, highlighting areas of strength and where further study is needed. It can also explain correct answers and help students generate a customized study plan based on their performance, the company said.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;The launch of practice tests in Gemini signals a broader push to position the chatbot as a tool for structured exam preparation rather than a shortcut to answers. &lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;In addition to Gemini, Google said the JEE Main preparation tools will roll out to AI Mode in Search, including the Canvas tool, which allows students to build study guides and interactive quizzes by attaching their class notes.&lt;/p&gt;
 
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Late last year, it was reported that Anthropic hired lawyers as a step toward prepping for an IPO that could come sometime this year. The company announced a $13 billion raise in September, making it one of the industry’s most valuable private companies, valued at $183 billion.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/</guid><pubDate>Tue, 27 Jan 2026 21:16:10 +0000</pubDate></item><item><title>Anduril has invented a wild new drone-flying contest where jobs are the prize (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513468-e.jpg?resize=1200,799" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anduril founder Palmer Luckey’s eyes light up, and he talks a mile a minute, when discussing his company’s new recruiting event:&amp;nbsp;the&amp;nbsp;AI Grand Prix.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This is a drone-flying contest with a twist. Rather than humans operating drones, the drones must operate autonomously. The humans will be tested on their software-writing skills that cause the drones to outfly their competition.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;There are prizes ranging from a $500,000 pot&amp;nbsp;to&amp;nbsp;be spilt amongst&amp;nbsp;the&amp;nbsp;highest-scoring teams, to jobs at Anduril and a&amp;nbsp;chance to bypass the company’s standard recruiting cycle.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It was something that I decided we should do,” Luckey said in an interview with TechCrunch. Luckey and the team were meeting to discuss recruitment strategy, he recalled.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Someone suggested sponsoring a drone-racing tournament, which was somewhat in line with the company’s previous marketing tactics. For instance, Anduril sponsors the NASCAR Cup Series race known as the&amp;nbsp;Anduril 250.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Luckey generally liked the idea but then&amp;nbsp;told the team,&amp;nbsp;“‘Guys, that would be a&amp;nbsp;really dumb&amp;nbsp;thing for Anduril to sponsor. The whole point, our entire impetus and reason for being, is this pitch that autonomy has finally advanced to where you&amp;nbsp;don’t&amp;nbsp;have to have a person micromanaging each drone,’” he recalled, then added,&amp;nbsp;“‘What we should really do is sponsor a race that’s about how well programmers and engineers can make a drone fly itself.’”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;After&amp;nbsp;discovering that such an event&amp;nbsp;didn’t&amp;nbsp;exist,&amp;nbsp;the company opted to create it themselves. Interestingly, though, Luckey pointed out that the teams in the AI Grand Prix will not be flying Anduril’s drones, but those built by another&amp;nbsp;defense tech&amp;nbsp;startup:&amp;nbsp;Neros&amp;nbsp;Technologies.&amp;nbsp;According to Luckey, Anduril’s drones are too physically big to run in the contained&amp;nbsp;course in Ohio where the finals will take place.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Google claims Indian students are using Gemini to study subjects ranging from advanced physics to broader STEM topics, as well as NotebookLM for turning study materials into quizzes, flashcards and audio or video summaries. Google’s AI tools are available in multiple Indian languages.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -76,33 +34,11 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“We talked about having teams use Anduril drones, but Anduril&amp;nbsp;doesn’t&amp;nbsp;make any drones that are of the ultra-high speed,&amp;nbsp;very small&amp;nbsp;nature that you would want for a Drone Racing League.&amp;nbsp;It’s&amp;nbsp;mostly bigger stuff,” he said.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Google said it is also expanding its focus on Indian educators, and plans to work with government agencies on a nationwide program to help teachers and support staff use AI for administrative work and lesson design.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Anduril is also partnering with one of the established racing leagues,&amp;nbsp;the&amp;nbsp;Drone Champions League, to operate the event, as well as JobsOhio. The final race will take place in Ohio (where&amp;nbsp;Anduril’s&amp;nbsp;key&amp;nbsp;manufacturing facility&amp;nbsp;is&amp;nbsp;located).&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The company said it is partnering with the Ministry of Skill Development and Entrepreneurship, and Chaudhary Charan Singh University on a pilot to build an “AI-enabled state university.” The project aims to create a national framework for applying AI across vocational and higher education, encompassing teaching and student support, as well as administrative operations.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Although Luckey is clearly excited about how fun the event will be,&amp;nbsp;he won’t be a racer himself.&amp;nbsp;“I absolutely will be there,” he says, but “it’s&amp;nbsp;going to be about who can build the best software to pilot these drones.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;He smiled and said, “I’m&amp;nbsp;not actually&amp;nbsp;a very good&amp;nbsp;software programmer.&amp;nbsp;I’m&amp;nbsp;more of a hardware guy.&amp;nbsp;I’m&amp;nbsp;an electromechanical and optical guy, and I know just enough about coding to glue stuff together in a way that works for my prototypes.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;(Luckey calls&amp;nbsp;Anduril CEO&amp;nbsp;Brian Schimpf&amp;nbsp;“our de facto lead software brains” at the company.)&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The founder is hoping for&amp;nbsp;at least&amp;nbsp;50 teams, and already has interest from&amp;nbsp;multiple&amp;nbsp;universities, he&amp;nbsp;said. Should this competition be a successful event, the plan is to expand it into&amp;nbsp;races&amp;nbsp;with the other types of autonomous vehicles.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We&amp;nbsp;are starting with these quadcopter racing drones, which is what people expect from drone racing. However, we want to be, in the future, applying AI racing to other platforms as well,” he said.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Underwater&amp;nbsp;AI racing, ground&amp;nbsp;AI racing,&amp;nbsp;potentially even AI&amp;nbsp;racing of&amp;nbsp;spacecraft were some of the ideas Luckey shared.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The contest is open to all international entrants, excluding teams from Russia.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The difference with Russia is they are actively engaged in the act of invading Europe,” he said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The concern is that the people qualified to enter such a race may also be working for their nation’s military. “I would love to have everybody, but we’re not the Olympics,” he added.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Additionally, the company said its charitable arm, Google.org, is backing Wadhwani AI with an ₹850 million (about $10 million) grant to integrate AI into government-run education platforms. The initiative targets systems such as national online learning portals and state education platforms, aiming to make them more adaptable and reduce administrative burdens for educators.&lt;/p&gt;
 
 
 
@@ -110,15 +46,9 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Luckey said the event was following the lead from the World Cup, which has also excluded Russia.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The program spans pre-school through higher education, and includes tools such as voice-based reading support in multiple Indian languages, and AI-powered English learning coaches. The company claims it has already reached around 10 million learners and educators, and aims to scale to 75 million students, 1.8 million educators, and a million early-career professionals by the end of 2027.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google is expanding its push into AI-powered learning by adding full-length practice tests in Gemini for the Joint Entrance Exam (JEE), India’s nationwide engineering  exam used to shortlist candidates for the country’s top technical institutes and taken by millions of students each year.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Interestingly, teams from China (home to a lot of autonomous engineering) are welcome, despite it being the&amp;nbsp;country that&amp;nbsp;U.S. autonomous weapons hawks&amp;nbsp;often name as their biggest fear.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Should a Chinese team win, the prize of a job at Anduril, which makes weapons used by the U.S. military, would not be a given. “If you work for the Chinese military, you’re not going to be allowed to get a job at Anduril,” Luckey said. Certain laws apply, he pointed out. In fact,&amp;nbsp;there will still be some interviews and a qualification process for all the job candidates.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The competition will take place across three qualifying rounds&amp;nbsp;beginning in April, with the final Grand Prix race scheduled for&amp;nbsp;November.&amp;nbsp;&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513468-e.jpg?resize=1200,799" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anduril founder Palmer Luckey’s eyes light up, and he talks a mile a minute, when discussing his company’s new recruiting event:&amp;nbsp;the&amp;nbsp;AI Grand Prix.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This is a drone-flying contest with a twist. Rather than humans operating drones, the drones must operate autonomously. The humans will be tested on their software-writing skills that cause the drones to outfly their competition.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Google said students can take full-length mock exams for the JEE within Gemini, which will offer questions based on vetted content from Indian education firms PhysicsWallah and Careers360. &lt;/p&gt;
 
 
 
@@ -126,15 +56,15 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;There are prizes ranging from a $500,000 pot&amp;nbsp;to&amp;nbsp;be spilt amongst&amp;nbsp;the&amp;nbsp;highest-scoring teams, to jobs at Anduril and a&amp;nbsp;chance to bypass the company’s standard recruiting cycle.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The launch comes after the company recently rolled out similar test-prep tools for the SAT.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“It was something that I decided we should do,” Luckey said in an interview with TechCrunch. Luckey and the team were meeting to discuss recruitment strategy, he recalled.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Once students complete a mock test in Gemini, Google said the chatbot will provide immediate feedback, highlighting areas of strength and where further study is needed. It can also explain correct answers and help students generate a customized study plan based on their performance, the company said.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Someone suggested sponsoring a drone-racing tournament, which was somewhat in line with the company’s previous marketing tactics. For instance, Anduril sponsors the NASCAR Cup Series race known as the&amp;nbsp;Anduril 250.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The launch of practice tests in Gemini signals a broader push to position the chatbot as a tool for structured exam preparation rather than a shortcut to answers. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Luckey generally liked the idea but then&amp;nbsp;told the team,&amp;nbsp;“‘Guys, that would be a&amp;nbsp;really dumb&amp;nbsp;thing for Anduril to sponsor. The whole point, our entire impetus and reason for being, is this pitch that autonomy has finally advanced to where you&amp;nbsp;don’t&amp;nbsp;have to have a person micromanaging each drone,’” he recalled, then added,&amp;nbsp;“‘What we should really do is sponsor a race that’s about how well programmers and engineers can make a drone fly itself.’”&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;In addition to Gemini, Google said the JEE Main preparation tools will roll out to AI Mode in Search, including the Canvas tool, which allows students to build study guides and interactive quizzes by attaching their class notes.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;After&amp;nbsp;discovering that such an event&amp;nbsp;didn’t&amp;nbsp;exist,&amp;nbsp;the company opted to create it themselves. Interestingly, though, Luckey pointed out that the teams in the AI Grand Prix will not be flying Anduril’s drones, but those built by another&amp;nbsp;defense tech&amp;nbsp;startup:&amp;nbsp;Neros&amp;nbsp;Technologies.&amp;nbsp;According to Luckey, Anduril’s drones are too physically big to run in the contained&amp;nbsp;course in Ohio where the finals will take place.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Google claims Indian students are using Gemini to study subjects ranging from advanced physics to broader STEM topics, as well as NotebookLM for turning study materials into quizzes, flashcards and audio or video summaries. Google’s AI tools are available in multiple Indian languages.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -151,33 +81,11 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“We talked about having teams use Anduril drones, but Anduril&amp;nbsp;doesn’t&amp;nbsp;make any drones that are of the ultra-high speed,&amp;nbsp;very small&amp;nbsp;nature that you would want for a Drone Racing League.&amp;nbsp;It’s&amp;nbsp;mostly bigger stuff,” he said.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Google said it is also expanding its focus on Indian educators, and plans to work with government agencies on a nationwide program to help teachers and support staff use AI for administrative work and lesson design.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Anduril is also partnering with one of the established racing leagues,&amp;nbsp;the&amp;nbsp;Drone Champions League, to operate the event, as well as JobsOhio. The final race will take place in Ohio (where&amp;nbsp;Anduril’s&amp;nbsp;key&amp;nbsp;manufacturing facility&amp;nbsp;is&amp;nbsp;located).&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The company said it is partnering with the Ministry of Skill Development and Entrepreneurship, and Chaudhary Charan Singh University on a pilot to build an “AI-enabled state university.” The project aims to create a national framework for applying AI across vocational and higher education, encompassing teaching and student support, as well as administrative operations.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Although Luckey is clearly excited about how fun the event will be,&amp;nbsp;he won’t be a racer himself.&amp;nbsp;“I absolutely will be there,” he says, but “it’s&amp;nbsp;going to be about who can build the best software to pilot these drones.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;He smiled and said, “I’m&amp;nbsp;not actually&amp;nbsp;a very good&amp;nbsp;software programmer.&amp;nbsp;I’m&amp;nbsp;more of a hardware guy.&amp;nbsp;I’m&amp;nbsp;an electromechanical and optical guy, and I know just enough about coding to glue stuff together in a way that works for my prototypes.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;(Luckey calls&amp;nbsp;Anduril CEO&amp;nbsp;Brian Schimpf&amp;nbsp;“our de facto lead software brains” at the company.)&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The founder is hoping for&amp;nbsp;at least&amp;nbsp;50 teams, and already has interest from&amp;nbsp;multiple&amp;nbsp;universities, he&amp;nbsp;said. Should this competition be a successful event, the plan is to expand it into&amp;nbsp;races&amp;nbsp;with the other types of autonomous vehicles.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We&amp;nbsp;are starting with these quadcopter racing drones, which is what people expect from drone racing. However, we want to be, in the future, applying AI racing to other platforms as well,” he said.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Underwater&amp;nbsp;AI racing, ground&amp;nbsp;AI racing,&amp;nbsp;potentially even AI&amp;nbsp;racing of&amp;nbsp;spacecraft were some of the ideas Luckey shared.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The contest is open to all international entrants, excluding teams from Russia.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The difference with Russia is they are actively engaged in the act of invading Europe,” he said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The concern is that the people qualified to enter such a race may also be working for their nation’s military. “I would love to have everybody, but we’re not the Olympics,” he added.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Additionally, the company said its charitable arm, Google.org, is backing Wadhwani AI with an ₹850 million (about $10 million) grant to integrate AI into government-run education platforms. The initiative targets systems such as national online learning portals and state education platforms, aiming to make them more adaptable and reduce administrative burdens for educators.&lt;/p&gt;
 
 
 
@@ -185,15 +93,9 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Luckey said the event was following the lead from the World Cup, which has also excluded Russia.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The program spans pre-school through higher education, and includes tools such as voice-based reading support in multiple Indian languages, and AI-powered English learning coaches. The company claims it has already reached around 10 million learners and educators, and aims to scale to 75 million students, 1.8 million educators, and a million early-career professionals by the end of 2027.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/</guid><pubDate>Wed, 28 Jan 2026 10:00:00 +0000</pubDate></item><item><title>[NEW] Inside Standard Chartered’s approach to running AI under privacy rules (AI News)</title><link>https://www.artificialintelligence-news.com/news/how-standard-chartered-runs-ai-under-privacy-rules/</link><description>&lt;p&gt;For banks trying to put AI into real use, the hardest questions often come before any model is trained. Can the data be used at all? Where is it allowed to be stored? Who is responsible once the system goes live? At Standard Chartered, these privacy-driven questions now shape how AI systems are built,  and deployed at the bank.&lt;/p&gt;&lt;p&gt;For global banks operating in many jurisdictions, these early decisions are rarely straightforward. Privacy rules differ by market, and the same AI system may face very different constraints depending on where it is deployed. At Standard Chartered, this has pushed privacy teams into a more active role in shaping how AI systems are designed, approved, and monitored in the organisation.&lt;/p&gt;&lt;p&gt;“Data privacy functions have become the starting point of most AI regulations,” says David Hardoon, Global Head of AI Enablement at Standard Chartered. In practice, that means privacy requirements shape the type of data that can be used in AI systems, how transparent those systems need to be, and how they are monitored once they are live.&lt;/p&gt;&lt;h3&gt;Privacy shaping how AI runs&lt;/h3&gt;&lt;p&gt;The bank is already running AI systems in live environments. The transition from pilots brings practical challenges that are easy to underestimate early on. In small trials, data sources are limited and well understood. In production, AI systems often pull data from many upstream platforms, each with its own structure and quality issues. “When moving from a contained pilot into live operations, ensuring data quality becomes more challenging with multiple upstream systems and potential schema differences,” Hardoon says.&lt;/p&gt;&lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-111851" height="2445" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/David-Hardoon_Standard-Chartered-edited.jpg" width="1630" /&gt;&lt;figcaption class="wp-element-caption"&gt;David Hardoon, Global Head of AI Enablement at Standard Chartered&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Privacy rules add further constraints. In some cases, real customer data cannot be used to train models. Instead, teams may rely on anonymised data, which can affect how quickly systems are developed or how well they perform. Live deployments also operate at a much larger scale, increasing the impact of any gaps in controls. As Hardoon puts it, “As part of responsible and client-centric AI adoption, we prioritise adhering to principles of fairness, ethics, accountability, and transparency as data processing scope expands.”&lt;/p&gt;&lt;h3&gt;Geography and regulation decide where AI works&lt;/h3&gt;&lt;p&gt;Where AI systems are built and deployed is also shaped by geography. Data protection laws vary in regions, and some countries impose strict rules on where data must be stored and who can access it. These requirements play a direct role in how Standard Chartered deploys AI, particularly for systems that rely on client or personally identifiable information.&lt;/p&gt;&lt;p&gt;“Data sovereignty is often a key consideration when operating in different markets and regions,” Hardoon says. In markets with data localisation rules, AI systems may need to be deployed locally, or designed so that sensitive data does not cross borders. In other cases, shared platforms can be used, provided the right controls are in place. This results in a mix of global and market-specific AI deployments, shaped by local regulation not a single technical preference.&lt;/p&gt;&lt;p&gt;The same trade-offs appear in decisions about centralised AI platforms versus local solutions. Large organisations often aim to share models, tools, and oversight in markets to reduce duplication. Privacy laws do not always block this approach. “In general, privacy regulations do not explicitly prohibit transfer of data, but rather expect appropriate controls to be in place,” Hardoon says.&lt;/p&gt;&lt;p&gt;There are limits: some data cannot move in borders at all, and certain privacy laws apply beyond the country where data was collected. The details can restrict which markets a central platform can serve and where local systems remain necessary. For banks, this often leads to a layered setup, with shared foundations combined with localised AI use cases where regulation demands it.&lt;/p&gt;&lt;h3&gt;Human oversight remains central&lt;/h3&gt;&lt;p&gt;As AI becomes more embedded in decision-making, questions around explainability and consent grow harder to avoid. Automation may speed up processes, but it does not remove responsibility. “Transparency and explainability have become more crucial than before,” Hardoon says. Even when working with external vendors, accountability remains internal. This has reinforced the need for human oversight in AI systems, particularly where outcomes affect customers or regulatory obligations.&lt;/p&gt;&lt;p&gt;People also play a larger role in privacy risk than technology alone. Processes and controls can be well designed, but they depend on how staff understand and handle data. “People remain the most important factor when it comes to implementing privacy controls,” Hardoon says. At Standard Chartered, this has pushed a focus on training and awareness, so teams know what data can be used, how it should be handled, and where the boundaries lie.&lt;/p&gt;&lt;p&gt;Scaling AI under growing regulatory scrutiny requires making privacy and governance easier to apply in practice. One approach the bank is taking is standardisation. By creating pre-approved templates, architectures, and data classifications, teams can move faster without bypassing controls. “Standardisation and re-usability are important,” Hardoon explains. Codifying rules around data residency, retention, and access helps turn complex requirements into clearer components that can be reused in AI projects.&lt;/p&gt;&lt;p&gt;As more organisations move AI into everyday operations, privacy is not just a compliance hurdle. It is shaping how AI systems are built, where they run, and how much trust they can earn. In banking, that shift is already influencing what AI looks like in practice – and where its limits are set.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Corporate Locations)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: The quiet work behind Citi’s 4,000-person internal AI rollout&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;For banks trying to put AI into real use, the hardest questions often come before any model is trained. Can the data be used at all? Where is it allowed to be stored? Who is responsible once the system goes live? At Standard Chartered, these privacy-driven questions now shape how AI systems are built,  and deployed at the bank.&lt;/p&gt;&lt;p&gt;For global banks operating in many jurisdictions, these early decisions are rarely straightforward. Privacy rules differ by market, and the same AI system may face very different constraints depending on where it is deployed. At Standard Chartered, this has pushed privacy teams into a more active role in shaping how AI systems are designed, approved, and monitored in the organisation.&lt;/p&gt;&lt;p&gt;“Data privacy functions have become the starting point of most AI regulations,” says David Hardoon, Global Head of AI Enablement at Standard Chartered. In practice, that means privacy requirements shape the type of data that can be used in AI systems, how transparent those systems need to be, and how they are monitored once they are live.&lt;/p&gt;&lt;h3&gt;Privacy shaping how AI runs&lt;/h3&gt;&lt;p&gt;The bank is already running AI systems in live environments. The transition from pilots brings practical challenges that are easy to underestimate early on. In small trials, data sources are limited and well understood. In production, AI systems often pull data from many upstream platforms, each with its own structure and quality issues. “When moving from a contained pilot into live operations, ensuring data quality becomes more challenging with multiple upstream systems and potential schema differences,” Hardoon says.&lt;/p&gt;&lt;figure class="wp-block-image alignright size-large is-resized"&gt;&lt;img alt="alt" class="wp-image-111851" height="2445" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/David-Hardoon_Standard-Chartered-edited.jpg" width="1630" /&gt;&lt;figcaption class="wp-element-caption"&gt;David Hardoon, Global Head of AI Enablement at Standard Chartered&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Privacy rules add further constraints. In some cases, real customer data cannot be used to train models. Instead, teams may rely on anonymised data, which can affect how quickly systems are developed or how well they perform. Live deployments also operate at a much larger scale, increasing the impact of any gaps in controls. As Hardoon puts it, “As part of responsible and client-centric AI adoption, we prioritise adhering to principles of fairness, ethics, accountability, and transparency as data processing scope expands.”&lt;/p&gt;&lt;h3&gt;Geography and regulation decide where AI works&lt;/h3&gt;&lt;p&gt;Where AI systems are built and deployed is also shaped by geography. Data protection laws vary in regions, and some countries impose strict rules on where data must be stored and who can access it. These requirements play a direct role in how Standard Chartered deploys AI, particularly for systems that rely on client or personally identifiable information.&lt;/p&gt;&lt;p&gt;“Data sovereignty is often a key consideration when operating in different markets and regions,” Hardoon says. In markets with data localisation rules, AI systems may need to be deployed locally, or designed so that sensitive data does not cross borders. In other cases, shared platforms can be used, provided the right controls are in place. This results in a mix of global and market-specific AI deployments, shaped by local regulation not a single technical preference.&lt;/p&gt;&lt;p&gt;The same trade-offs appear in decisions about centralised AI platforms versus local solutions. Large organisations often aim to share models, tools, and oversight in markets to reduce duplication. Privacy laws do not always block this approach. “In general, privacy regulations do not explicitly prohibit transfer of data, but rather expect appropriate controls to be in place,” Hardoon says.&lt;/p&gt;&lt;p&gt;There are limits: some data cannot move in borders at all, and certain privacy laws apply beyond the country where data was collected. The details can restrict which markets a central platform can serve and where local systems remain necessary. For banks, this often leads to a layered setup, with shared foundations combined with localised AI use cases where regulation demands it.&lt;/p&gt;&lt;h3&gt;Human oversight remains central&lt;/h3&gt;&lt;p&gt;As AI becomes more embedded in decision-making, questions around explainability and consent grow harder to avoid. Automation may speed up processes, but it does not remove responsibility. “Transparency and explainability have become more crucial than before,” Hardoon says. Even when working with external vendors, accountability remains internal. This has reinforced the need for human oversight in AI systems, particularly where outcomes affect customers or regulatory obligations.&lt;/p&gt;&lt;p&gt;People also play a larger role in privacy risk than technology alone. Processes and controls can be well designed, but they depend on how staff understand and handle data. “People remain the most important factor when it comes to implementing privacy controls,” Hardoon says. At Standard Chartered, this has pushed a focus on training and awareness, so teams know what data can be used, how it should be handled, and where the boundaries lie.&lt;/p&gt;&lt;p&gt;Scaling AI under growing regulatory scrutiny requires making privacy and governance easier to apply in practice. One approach the bank is taking is standardisation. By creating pre-approved templates, architectures, and data classifications, teams can move faster without bypassing controls. “Standardisation and re-usability are important,” Hardoon explains. Codifying rules around data residency, retention, and access helps turn complex requirements into clearer components that can be reused in AI projects.&lt;/p&gt;&lt;p&gt;As more organisations move AI into everyday operations, privacy is not just a compliance hurdle. It is shaping how AI systems are built, where they run, and how much trust they can earn. In banking, that shift is already influencing what AI looks like in practice – and where its limits are set.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Corporate Locations)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: The quiet work behind Citi’s 4,000-person internal AI rollout&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/how-standard-chartered-runs-ai-under-privacy-rules/</guid><pubDate>Wed, 28 Jan 2026 10:00:00 +0000</pubDate></item><item><title>[NEW] Gallup Workforce shows details of AI adoption in US workplaces (AI News)</title><link>https://www.artificialintelligence-news.com/news/gallup-workforce-ai-shows-details-of-ml-adoption-in-us-workplaces/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/gallup-workforce-ai-hero_x1440.webp" /&gt;&lt;/div&gt;&lt;p&gt; Gallup’s data reveals a significant number of workers ore unsure whether or not their employer had adopted AI – nearly a quarter of those surveyed weren’t sure. In the third quarter of 2025, just over a third of employees said their organisation had implemented AI. 40% said there was no adoption of AI in their place of work&lt;/p&gt;&lt;p&gt; It’s worth noting that earlier versions of Gallup surveys didn’t include a “don’t know” option for questions about employers’ AI adoption, which encouraged respondents to guess. Belief in organisational AI adoption appeared to rise sharply between 2024 and 2025, therefore, Gallup says. Once uncertainty could be stated explicitly, it became clear a good number of employees were simply uninformed on the matter.&lt;/p&gt;&lt;p&gt; It’s staff in non-managerial roles who are more likely to say they’re unaware of their organisation’s AI use, a tendency mirrored in part-time staff and hands-on roles. The further workers are from decision-making, it seems, the less sure they become.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/gallup-workforce-ai-hero_x1440.webp" /&gt;&lt;/div&gt;&lt;p&gt; Gallup’s data reveals a significant number of workers ore unsure whether or not their employer had adopted AI – nearly a quarter of those surveyed weren’t sure. In the third quarter of 2025, just over a third of employees said their organisation had implemented AI. 40% said there was no adoption of AI in their place of work&lt;/p&gt;&lt;p&gt; It’s worth noting that earlier versions of Gallup surveys didn’t include a “don’t know” option for questions about employers’ AI adoption, which encouraged respondents to guess. Belief in organisational AI adoption appeared to rise sharply between 2024 and 2025, therefore, Gallup says. Once uncertainty could be stated explicitly, it became clear a good number of employees were simply uninformed on the matter.&lt;/p&gt;&lt;p&gt; It’s staff in non-managerial roles who are more likely to say they’re unaware of their organisation’s AI use, a tendency mirrored in part-time staff and hands-on roles. The further workers are from decision-making, it seems, the less sure they become.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/gallup-workforce-ai-shows-details-of-ml-adoption-in-us-workplaces/</guid><pubDate>Wed, 28 Jan 2026 10:06:00 +0000</pubDate></item><item><title>[NEW] Waabi raises $1B and expands into robotaxis with Uber (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Autonomous vehicle startup Waabi has raised $1 billion and struck a partnership with Uber to deploy self-driving cars on the ride-hailing platform — the company’s first expansion beyond autonomous trucking.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Interestingly, teams from China (home to a lot of autonomous engineering) are welcome, despite it being the&amp;nbsp;country that&amp;nbsp;U.S. autonomous weapons hawks&amp;nbsp;often name as their biggest fear.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Should a Chinese team win, the prize of a job at Anduril, which makes weapons used by the U.S. military, would not be a given. “If you work for the Chinese military, you’re not going to be allowed to get a job at Anduril,” Luckey said. Certain laws apply, he pointed out. In fact,&amp;nbsp;there will still be some interviews and a qualification process for all the job candidates.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The competition will take place across three qualifying rounds&amp;nbsp;beginning in April, with the final Grand Prix race scheduled for&amp;nbsp;November.&amp;nbsp;&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/</guid><pubDate>Tue, 27 Jan 2026 21:54:38 +0000</pubDate></item><item><title>Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot) (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1436392734.jpg?resize=1200,817" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The latest wave of AI excitement has brought us an unexpected mascot: a lobster. Clawdbot, a personal AI assistant, went viral within weeks of its launch and will keep its crustacean theme despite having had to change its name to Moltbot after a legal challenge from Anthropic. But before you jump on the bandwagon, here’s what you need to know.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;According to its tagline, Moltbot (formerly Clawdbot) is the “AI that actually does things” — whether it’s managing your calendar, sending messages through your favorite apps, or checking you in for flights. This promise has drawn thousands of users willing to tackle the technical setup required, even though it started as a scrappy personal project built by one developer for his own use.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The funding consists of an oversubscribed $750 million Series C round co-led by Khosla Ventures and G2 Venture Partners and roughly $250 million in milestone-based capital from Uber to support the deployment of 25,000 or more Waabi Driver-powered robotaxis exclusively on its platform. The companies did not provide a timeline for such a large-scale deployment.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
 
 
@@ -201,15 +103,15 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;That man is Peter Steinberger, an Austrian developer and founder who is known online as @steipete and actively blogs about his work. After stepping away from his previous project, PSPDFkit, Steinberger felt empty and barely touched his computer for three years, he explained on his blog. But he eventually found his spark again — which led to Moltbot.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The partnership represents a bet that the startup’s AI technology can succeed where others have struggled – scaling across multiple self-driving verticals with a single technology stack. While competitors like Waymo previously attempted both robotaxis and trucking before shutting down its freight program, Waabi founder and CEO Raquel Urtasun says her company’s capital-efficient approach and generalizable AI architecture give it a unique advantage to tackle both markets simultaneously.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;While Moltbot is now much more than a solo project, the publicly available version still derives from Clawd, “Peter’s crusted assistant,” now called Molty, a tool he built to help him “manage his digital life” and “explore what human-AI collaboration can be.”&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“Our incredible core technology really enables, for the first time, a single solution that can do multiple verticals, and they can do them at scale,” Urtasun told TechCrunch. “It’s not about two programs, two stacks.”&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;For Steinberger, this meant diving deeper into the momentum around AI that had reignited his builder spark. A self-confessed “Claudoholic”, he initially named his project after Anthropic’s AI flagship product, Claude. He revealed on X that Anthropic subsequently forced him to change the branding for copyright reasons. TechCrunch has reached out to Anthropic for comment. But the project’s “lobster soul” remains unchanged.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The tie-up brings Urtasun’s work full circle: she previously served as chief scientist at Uber’s autonomous vehicle division, Uber ATG, which Uber sold to self-driving trucking firm Aurora Innovation in 2020. It also builds on Waabi’s existing partnership with Uber Freight.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;To its early adopters, Moltbot represents the vanguard of how helpful AI assistants could be. Those who were already excited at the prospect of using AI to quickly generate websites and apps are even more keen to have their personal AI assistant perform tasks for them. And just like Steinberger, they’re eager to tinker with it.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Waabi is one of several AV companies that Uber has brought on to deploy self-driving vehicles on its platform globally. Other companies include Waymo, Nuro, Avride, Wayve, WeRide, Momenta, and more.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This explains how Moltbot amassed more than 44,200 stars on GitHub so quickly. So much viral attention has been paid Moltbot that it has even moved markets. Cloudflare’s stock surged 14% in premarket trading on Tuesday as social media buzz around the AI agent resparked investor enthusiasm for Cloudflare’s infrastructure, which developers use to run Moltbot locally on their devices.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The tie-up and funding round come as Uber launches a new division called Uber AV Labs that will use its vehicles to collect data for AV partners.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -226,31 +128,13 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Still, it’s a long way from breaking out of early adopter territory, and maybe that’s for the best. Installing Moltbot requires being tech savvy, and that also includes awareness of the inherent security risks that come with it.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Waabi isn’t as reliant on data as some, if Urtasun is to be believed. The Waabi Driver is trained, tested, and validated using a closed-loop simulator called Waabi World that automatically builds digital twins of the world from data; performs real-time sensor simulation; manufactures scenarios to stress-test the Waabi Driver; and teaches the Driver to learn from its mistakes without human intervention. The result? Waabi’s Driver can reason about its surroundings as a human would and choose the best maneuver, says Urtasun. This allows the system to generalize and learn from fewer examples than traditional autonomous driving systems.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;On one hand, Moltbot is built with safety in mind: It is open source, meaning anyone can inspect its code for vulnerabilities, and it runs on your computer or server, not in the cloud. But on the other hand, its very premise is inherently risky. As entrepreneur and investor Rahul Sood pointed out on X, “‘actually doing things’ means ‘can execute arbitrary commands on your computer.’”&lt;/p&gt;
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3087058" height="453" src="https://techcrunch.com/wp-content/uploads/2026/01/Waabi_Raquel_Urtasun_2.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Waabi founder and CEO Raquel Urtasun.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Waabi&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;What keeps Sood up at night is “prompt injection through content” — where a malicious person could send you a WhatsApp message that could lead Moltbot to take unintended actions on your computer without your intervention or knowledge.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Waabi has spent the last four and a half years bringing that technology to life for highway and surface street capabilities with trucks, but Urtasun says the Waabi Brain already generalizes to different vehicle form factors – she has even hinted at the company’s next vertical being robotics. From the beginning, the company collected and simulated passenger car data alongside its trucking work, a signal that robotaxis were always part of the long-term plan.&amp;nbsp;&lt;/p&gt;
 
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;That risk can be mitigated partly by careful setup. Since Moltbot supports various AI models, users may want to make setup choices based on their resistance to these kinds of attacks. But the only way to fully prevent it is to run Moltbot in a silo.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This may be obvious to experienced developers tinkering with a weeks-old project, but some of them have become more vocal in warning users attracted by the hype: things could turn ugly fast if they approach it as carelessly as ChatGPT.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Steinberger himself was served with a reminder that malicious actors exist when he “messed up” the renaming of his project. He complained on X that “crypto scammers” snatched his GitHub username and created fake cryptocurrency projects in his name, and he warned followers that “any project that lists [him] as coin owner is a SCAM.” He then posted that the GitHub issue had been fixed but cautioned that the legitimate X account is @moltbot, “not any of the 20 scam variations of it.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This doesn’t necessarily mean you should stay away from Moltbot at this stage if you are curious to test it. But if you have never heard of a VPS — a virtual private server, which is essentially a remote computer you rent to run software — you may want to wait your turn. (That’s where you may want to run Moltbot for now. “Not the laptop with your SSH keys, API credentials, and password manager,” Sood cautioned.)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Right now, running Moltbot safely means running it on a separate computer with throwaway accounts, which defeats the purpose of having a useful AI assistant. And fixing that security-versus-utility trade-off may require solutions that are beyond Steinberger’s control.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Still, by building a tool to solve his own problem, Steinberger showed the developer community what AI agents could actually accomplish and how autonomous AI might finally become genuinely useful rather than just impressive.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1436392734.jpg?resize=1200,817" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The latest wave of AI excitement has brought us an unexpected mascot: a lobster. Clawdbot, a personal AI assistant, went viral within weeks of its launch and will keep its crustacean theme despite having had to change its name to Moltbot after a legal challenge from Anthropic. But before you jump on the bandwagon, here’s what you need to know.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;According to its tagline, Moltbot (formerly Clawdbot) is the “AI that actually does things” — whether it’s managing your calendar, sending messages through your favorite apps, or checking you in for flights. This promise has drawn thousands of users willing to tackle the technical setup required, even though it started as a scrappy personal project built by one developer for his own use.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The approach has allowed Waabi to build faster and cheaper than competitors, Urtasun claims.&amp;nbsp;&lt;/p&gt;
 
 
 
@@ -258,15 +142,47 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;That man is Peter Steinberger, an Austrian developer and founder who is known online as @steipete and actively blogs about his work. After stepping away from his previous project, PSPDFkit, Steinberger felt empty and barely touched his computer for three years, he explained on his blog. But he eventually found his spark again — which led to Moltbot.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“We don’t need the gazillion humans to develop the technology and the large fleets that AV 1.0 needs,” Urtasun said. “We don’t need the massive data centers, energy consumption, or a gazillion latest chips.”&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;While Moltbot is now much more than a solo project, the publicly available version still derives from Clawd, “Peter’s crusted assistant,” now called Molty, a tool he built to help him “manage his digital life” and “explore what human-AI collaboration can be.”&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The deal brings Waabi’s total funding raised to roughly $1.28 billion after it closed a $200 million Series B in June 2024. Competitors Aurora Innovation and Kodiak Robotics have raised $3.46 billion and $448 million to date, respectively, through a combination of venture capital and public-market proceeds.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;For Steinberger, this meant diving deeper into the momentum around AI that had reignited his builder spark. A self-confessed “Claudoholic”, he initially named his project after Anthropic’s AI flagship product, Claude. He revealed on X that Anthropic subsequently forced him to change the branding for copyright reasons. TechCrunch has reached out to Anthropic for comment. But the project’s “lobster soul” remains unchanged.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;In just five years, Waabi has launched several commercial pilots (with a human driver in the front seat) in Texas. The company had planned to launch a fully driverless truck on public highways by the end of last year, but the rollout has been delayed until sometime in the next few quarters, per Urtasun.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;To its early adopters, Moltbot represents the vanguard of how helpful AI assistants could be. Those who were already excited at the prospect of using AI to quickly generate websites and apps are even more keen to have their personal AI assistant perform tasks for them. And just like Steinberger, they’re eager to tinker with it.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Waabi is working with Volvo to build purpose-built autonomous trucks, which the company revealed last October at TechCrunch Disrupt. Urtasun says Waabi’s Driver is ready to go, but the trucks still need to be fully validated before launch.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This explains how Moltbot amassed more than 44,200 stars on GitHub so quickly. So much viral attention has been paid Moltbot that it has even moved markets. Cloudflare’s stock surged 14% in premarket trading on Tuesday as social media buzz around the AI agent resparked investor enthusiasm for Cloudflare’s infrastructure, which developers use to run Moltbot locally on their devices.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Urtasun’s not worried, though. She says there’s plenty of demand for Waabi’s trucks due to the company’s direct-to-consumer model that enables shippers to buy the outfitted trucks directly, and she’s confident that with the Uber partnership, Waabi will be able to “quickly penetrate the market and scale with a product that will be very reliable.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We’re still in the first innings of deployment of robotaxis,” she said. “There’s a lot more scale to come.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Urtasun wouldn’t share more specifics about the Uber rollout, like what automaker Waabi would partner with. She did say that Waabi would take a similar route to its autonomous trucking rollout by building its sensors and technology into the vehicle from the factory floor.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We believe in vertically integrating with a fully redundant platform from the OEM,” she said.&amp;nbsp; “That is how you really build safe and truly scalable technology.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Other investors in Waabi’s Series C include Uber, NVentures (Nvidia’s VC arm), Volvo Group Venture Capital, Porsche Automobil Holding SE, BlackRock, BDC Capital’s Thrive Venture Fund, and others.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Autonomous vehicle startup Waabi has raised $1 billion and struck a partnership with Uber to deploy self-driving cars on the ride-hailing platform — the company’s first expansion beyond autonomous trucking.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The funding consists of an oversubscribed $750 million Series C round co-led by Khosla Ventures and G2 Venture Partners and roughly $250 million in milestone-based capital from Uber to support the deployment of 25,000 or more Waabi Driver-powered robotaxis exclusively on its platform. The companies did not provide a timeline for such a large-scale deployment.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The partnership represents a bet that the startup’s AI technology can succeed where others have struggled – scaling across multiple self-driving verticals with a single technology stack. While competitors like Waymo previously attempted both robotaxis and trucking before shutting down its freight program, Waabi founder and CEO Raquel Urtasun says her company’s capital-efficient approach and generalizable AI architecture give it a unique advantage to tackle both markets simultaneously.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Our incredible core technology really enables, for the first time, a single solution that can do multiple verticals, and they can do them at scale,” Urtasun told TechCrunch. “It’s not about two programs, two stacks.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The tie-up brings Urtasun’s work full circle: she previously served as chief scientist at Uber’s autonomous vehicle division, Uber ATG, which Uber sold to self-driving trucking firm Aurora Innovation in 2020. It also builds on Waabi’s existing partnership with Uber Freight.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Waabi is one of several AV companies that Uber has brought on to deploy self-driving vehicles on its platform globally. Other companies include Waymo, Nuro, Avride, Wayve, WeRide, Momenta, and more.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The tie-up and funding round come as Uber launches a new division called Uber AV Labs that will use its vehicles to collect data for AV partners.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -283,380 +199,444 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Still, it’s a long way from breaking out of early adopter territory, and maybe that’s for the best. Installing Moltbot requires being tech savvy, and that also includes awareness of the inherent security risks that come with it.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Waabi isn’t as reliant on data as some, if Urtasun is to be believed. The Waabi Driver is trained, tested, and validated using a closed-loop simulator called Waabi World that automatically builds digital twins of the world from data; performs real-time sensor simulation; manufactures scenarios to stress-test the Waabi Driver; and teaches the Driver to learn from its mistakes without human intervention. The result? Waabi’s Driver can reason about its surroundings as a human would and choose the best maneuver, says Urtasun. This allows the system to generalize and learn from fewer examples than traditional autonomous driving systems.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;On one hand, Moltbot is built with safety in mind: It is open source, meaning anyone can inspect its code for vulnerabilities, and it runs on your computer or server, not in the cloud. But on the other hand, its very premise is inherently risky. As entrepreneur and investor Rahul Sood pointed out on X, “‘actually doing things’ means ‘can execute arbitrary commands on your computer.’”&lt;/p&gt;
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3087058" height="453" src="https://techcrunch.com/wp-content/uploads/2026/01/Waabi_Raquel_Urtasun_2.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Waabi founder and CEO Raquel Urtasun.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Waabi&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;What keeps Sood up at night is “prompt injection through content” — where a malicious person could send you a WhatsApp message that could lead Moltbot to take unintended actions on your computer without your intervention or knowledge.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Waabi has spent the last four and a half years bringing that technology to life for highway and surface street capabilities with trucks, but Urtasun says the Waabi Brain already generalizes to different vehicle form factors – she has even hinted at the company’s next vertical being robotics. From the beginning, the company collected and simulated passenger car data alongside its trucking work, a signal that robotaxis were always part of the long-term plan.&amp;nbsp;&lt;/p&gt;
 
-
-
-
+&lt;p class="wp-block-paragraph"&gt;The approach has allowed Waabi to build faster and cheaper than competitors, Urtasun claims.&amp;nbsp;&lt;/p&gt;
 
 
 
-&lt;p class="wp-block-paragraph"&gt;That risk can be mitigated partly by careful setup. Since Moltbot supports various AI models, users may want to make setup choices based on their resistance to these kinds of attacks. But the only way to fully prevent it is to run Moltbot in a silo.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This may be obvious to experienced developers tinkering with a weeks-old project, but some of them have become more vocal in warning users attracted by the hype: things could turn ugly fast if they approach it as carelessly as ChatGPT.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Steinberger himself was served with a reminder that malicious actors exist when he “messed up” the renaming of his project. He complained on X that “crypto scammers” snatched his GitHub username and created fake cryptocurrency projects in his name, and he warned followers that “any project that lists [him] as coin owner is a SCAM.” He then posted that the GitHub issue had been fixed but cautioned that the legitimate X account is @moltbot, “not any of the 20 scam variations of it.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This doesn’t necessarily mean you should stay away from Moltbot at this stage if you are curious to test it. But if you have never heard of a VPS — a virtual private server, which is essentially a remote computer you rent to run software — you may want to wait your turn. (That’s where you may want to run Moltbot for now. “Not the laptop with your SSH keys, API credentials, and password manager,” Sood cautioned.)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Right now, running Moltbot safely means running it on a separate computer with throwaway accounts, which defeats the purpose of having a useful AI assistant. And fixing that security-versus-utility trade-off may require solutions that are beyond Steinberger’s control.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Still, by building a tool to solve his own problem, Steinberger showed the developer community what AI agents could actually accomplish and how autonomous AI might finally become genuinely useful rather than just impressive.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/</guid><pubDate>Wed, 28 Jan 2026 00:12:43 +0000</pubDate></item><item><title>Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI (Hugging Face - Blog)</title><link>https://huggingface.co/blog/nvidia/nemotron-personas-brazil</link><description>&lt;div class="not-prose mb-6 font-sans lg:hidden"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="flex flex-wrap items-center gap-2.5 pt-1  z-1 lg:sticky lg:top-8"&gt;
-	
 
 
-	&lt;ul class="flex items-center  flex-row  text-base   "&gt;&lt;li class=" -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800" title="danecor"&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://huggingface.co/avatars/8edb89612863b95e718cc7a3409fed5b.svg" /&gt;
-					
-			&lt;/li&gt;&lt;li class=" -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800" title="bardiya27"&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://cdn-avatars.huggingface.co/v1/production/uploads/67bebe9d93317c78d439f7a4/rINrrVSG5Vj7VwSiA1wQx.png" /&gt;
-					
-			&lt;/li&gt;
-
-		&lt;li class="text-xs text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300 order-last ml-3"&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
-
-&lt;dialog class="shadow-alternate z-40 mx-4 my-auto h-fit select-text overflow-hidden rounded-xl bg-white max-sm:max-w-[calc(100dvw-2rem)] sm:mx-auto lg:mt-26 md:portrait:mt-30 xl:mt-30 2xl:mt-32 w-full sm:w-96 max-w-[calc(100%-4rem)] text-base not-prose"&gt;
-	&lt;/dialog&gt;&lt;/div&gt;&lt;/div&gt;
-					&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
-
-&lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Yev Meyer's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/NCK3br1uL-gfkVWmd_VRQ.png" /&gt;
-				&lt;/span&gt;
-	&lt;/span&gt;
-
-				
-			&lt;/div&gt;&lt;/div&gt;
-	&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-					
-
-					&lt;!-- HTML_TAG_START --&gt;
-&lt;img alt="brazil2" src="https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/pIOSPzS07v52zrvWpkfdd.png" /&gt;
-A compound AI approach to Brazilian Portuguese personas grounded in real-world distributions
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Grounding Brazil’s AI with Real Data
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Building AI systems that serve national populations requires data that reflects local language, demographics, and cultural context. For Brazil—home to more than 200 million people across diverse regions—this remains a persistent challenge, as much of today’s high-quality training data is English-centric or unavailable for commercial use.&lt;/p&gt;
-&lt;p&gt;Nemotron-Personas-Brazil helps close that gap. It is an open dataset (CC BY 4.0) of 6 million fully synthetic personas, statistically grounded in official census and labor data from the Brazilian Institute of Geography and Statistics (IBGE). Every persona is aligned to real demographic, geographic, and occupational distributions—but no real person is represented.&lt;/p&gt;
-&lt;p&gt;This release extends NVIDIA's growing Nemotron-Personas Collection, which already includes the USA, Japan, India, and Singapore. Like others in the collection, the Brazil dataset covers attributes such as age, sex, education, occupation, and location.&lt;/p&gt;
-&lt;p&gt;The dataset is designed for Brazilian developers and researchers building sovereign AI, with data that is locally grounded, culturally informed, and commercially usable (CC BY 4.0). It was built in collaboration with WideLabs, an NVIDIA Inception member with deep experience supporting government and regulated-sector AI deployments across Latin America.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		What’s in the Dataset?
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Screenshot 2026-01-27 at 4.05.28 PM" src="https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/HjhOrX9NdOMXe175KA7z9.png" /&gt;&lt;/p&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		At a glance:
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;6 million Brazilian personas (1 million records × 6 personas each)&lt;/li&gt;
-&lt;li&gt;~1.4 billion tokens total, including ~450 million persona tokens&lt;/li&gt;
-&lt;li&gt;20 fields per record: 6 persona fields + 14 contextual fields grounded in official statistics&lt;/li&gt;
-&lt;li&gt;Full geographic coverage: all 26 Brazilian states + the Federal District&lt;/li&gt;
-&lt;li&gt;~457k unique Portuguese names&lt;/li&gt;
-&lt;li&gt;1,500+ occupation categories reflecting Brazil's workforce&lt;/li&gt;
-&lt;li&gt;Multiple persona types including: professional, sports, arts, travel, among others.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Each persona is written in natural Brazilian Portuguese and includes cultural background, skills, goals, hobbies, and interests.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How We Built It
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Data Generation Pipeline
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;Nemotron-Personas-Brazil was built using NeMo Data Designer, NVIDIA’s compound AI system for synthetic data generation. The pipeline supports structured generation, validation, and retry mechanisms required to produce large-scale, population-aware datasets.&lt;/p&gt;
-&lt;p&gt;Key components include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Probabilistic Graphical Model (Apache-2.0)&lt;/strong&gt; for statistical grounding&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GPT-OSS-120B (Apache-2.0)&lt;/strong&gt; for narrative generation in Brazilian Portuguese&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;An extended version of Nemotron-Personas-Brazil will be available directly within NeMo Data Designer, enabling developers to generate, refine, and extend Brazilian Portuguese personas as part of their own synthetic data pipelines.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Enhanced Cultural Context
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;In order to capture the socio-demographic and geographic diversity and complexity of Brazil's population, Nemotron-Personas-Brazil leveraged population census and labor data published by the Brazilian Institute of Geography and Statistics (IBGE).&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Geography&lt;/strong&gt; – Personas are anchored at the state and municipality level, reflecting regional variation across Brazil’s five macro-regions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Occupation&lt;/strong&gt; – Expands beyond job titles to include skills, expertise, and career trajectories, including micro-entrepreneurs and regional trades.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Life Stages&lt;/strong&gt; – Incorporates student status, unemployment, and retirement to reflect real population dynamics.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cultural Traits&lt;/strong&gt; – Natural-language personas capture Brazilian social norms, interests, and lifestyle dimensions such as arts, sports, and travel.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Language Fidelity&lt;/strong&gt; – All personas are written in natural Brazilian Portuguese, reflecting local naming conventions and communication styles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The result is a dataset that is statistically grounded, culturally representative, and fully synthetic by design.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Private By Design
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;This dataset contains no personally identifiable information. While we use real-world distributions of ages, names, and occupations from official public sources, nothing is tied to any real person, living or deceased. Every persona is fully synthetic, so you can train on authentic cultural patterns without compromising privacy.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Who This Data Is For
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Nemotron-Personas-Brazil is designed primarily for Brazilian developers and researchers building sovereign AI systems. By providing high-quality, population-representative data in Brazilian Portuguese, the dataset addresses gaps left by predominantly English-language training corpora.&lt;/p&gt;
-&lt;p&gt;Global developers may also leverage the dataset to improve model performance and alignment in Brazilian cultural and linguistic contexts.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Practical AI Applications
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Multi-turn conversation&lt;/strong&gt;: Use personas as seeds to generate authentic dialogue datasets&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Domain-specific training&lt;/strong&gt;: Build culturally aware AI assistants&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bias testing &amp;amp; fairness&lt;/strong&gt;: Evaluate model performance across rural vs. urban populations, age groups, and education levels—ensuring your AI works fairly across all segments of Brazilian society&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Why It Matters
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;AI model builders have long struggled with access to diverse, high-quality training data that reflects real-world populations. Proprietary datasets dominate enterprise AI, creating barriers for researchers, startups, and developers in underrepresented regions.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Data diversity&lt;/strong&gt;: Prevents narrow training and model collapse by reflecting Brazil's full population spectrum&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cultural authenticity&lt;/strong&gt;: Reduces reliance on Western-centric datasets and supports sovereign AI development&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy-preservation&lt;/strong&gt;: Designed to meet Brazil's data protection requirements and emerging AI governance standards&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;By releasing Nemotron-Personas-Brazil under CC BY 4.0, we're democratizing access to enterprise-grade synthetic data—enabling anyone to build culturally authentic AI without barriers of cost, privacy concerns, or geography.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Start Building with Nemotron-Personas-Brazil
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;You can load the dataset directly from Hugging Face:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-python"&gt;&lt;span class="hljs-keyword"&gt;from&lt;/span&gt; datasets &lt;span class="hljs-keyword"&gt;import&lt;/span&gt; load_dataset
-
-dataset = load_dataset(&lt;span class="hljs-string"&gt;"nvidia/nemotron-personas-brazil"&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Want to learn more about NVIDIA's open data products, or interested in co-designing a future dataset? Join the conversation on NVIDIA's Discord. &lt;/p&gt;
-&lt;!-- HTML_TAG_END --&gt;</description><content:encoded>&lt;div class="not-prose mb-6 font-sans lg:hidden"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="flex flex-wrap items-center gap-2.5 pt-1  z-1 lg:sticky lg:top-8"&gt;
-	
 
 
-	&lt;ul class="flex items-center  flex-row  text-base   "&gt;&lt;li class=" -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800" title="danecor"&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://huggingface.co/avatars/8edb89612863b95e718cc7a3409fed5b.svg" /&gt;
-					
-			&lt;/li&gt;&lt;li class=" -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800" title="bardiya27"&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://cdn-avatars.huggingface.co/v1/production/uploads/67bebe9d93317c78d439f7a4/rINrrVSG5Vj7VwSiA1wQx.png" /&gt;
-					
-			&lt;/li&gt;
+&lt;p class="wp-block-paragraph"&gt;“We don’t need the gazillion humans to develop the technology and the large fleets that AV 1.0 needs,” Urtasun said. “We don’t need the massive data centers, energy consumption, or a gazillion latest chips.”&lt;/p&gt;
 
-		&lt;li class="text-xs text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300 order-last ml-3"&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;p class="wp-block-paragraph"&gt;The deal brings Waabi’s total funding raised to roughly $1.28 billion after it closed a $200 million Series B in June 2024. Competitors Aurora Innovation and Kodiak Robotics have raised $3.46 billion and $448 million to date, respectively, through a combination of venture capital and public-market proceeds.&lt;/p&gt;
 
-&lt;dialog class="shadow-alternate z-40 mx-4 my-auto h-fit select-text overflow-hidden rounded-xl bg-white max-sm:max-w-[calc(100dvw-2rem)] sm:mx-auto lg:mt-26 md:portrait:mt-30 xl:mt-30 2xl:mt-32 w-full sm:w-96 max-w-[calc(100%-4rem)] text-base not-prose"&gt;
-	&lt;/dialog&gt;&lt;/div&gt;&lt;/div&gt;
-					&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
+&lt;p class="wp-block-paragraph"&gt;In just five years, Waabi has launched several commercial pilots (with a human driver in the front seat) in Texas. The company had planned to launch a fully driverless truck on public highways by the end of last year, but the rollout has been delayed until sometime in the next few quarters, per Urtasun.&lt;/p&gt;
 
-&lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Yev Meyer's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/NCK3br1uL-gfkVWmd_VRQ.png" /&gt;
-				&lt;/span&gt;
-	&lt;/span&gt;
+&lt;p class="wp-block-paragraph"&gt;Waabi is working with Volvo to build purpose-built autonomous trucks, which the company revealed last October at TechCrunch Disrupt. Urtasun says Waabi’s Driver is ready to go, but the trucks still need to be fully validated before launch.&amp;nbsp;&lt;/p&gt;
 
-				
-			&lt;/div&gt;&lt;/div&gt;
-	&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-					
+&lt;p class="wp-block-paragraph"&gt;Urtasun’s not worried, though. She says there’s plenty of demand for Waabi’s trucks due to the company’s direct-to-consumer model that enables shippers to buy the outfitted trucks directly, and she’s confident that with the Uber partnership, Waabi will be able to “quickly penetrate the market and scale with a product that will be very reliable.”&lt;/p&gt;
 
-					&lt;!-- HTML_TAG_START --&gt;
-&lt;img alt="brazil2" src="https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/pIOSPzS07v52zrvWpkfdd.png" /&gt;
-A compound AI approach to Brazilian Portuguese personas grounded in real-world distributions
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Grounding Brazil’s AI with Real Data
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Building AI systems that serve national populations requires data that reflects local language, demographics, and cultural context. For Brazil—home to more than 200 million people across diverse regions—this remains a persistent challenge, as much of today’s high-quality training data is English-centric or unavailable for commercial use.&lt;/p&gt;
-&lt;p&gt;Nemotron-Personas-Brazil helps close that gap. It is an open dataset (CC BY 4.0) of 6 million fully synthetic personas, statistically grounded in official census and labor data from the Brazilian Institute of Geography and Statistics (IBGE). Every persona is aligned to real demographic, geographic, and occupational distributions—but no real person is represented.&lt;/p&gt;
-&lt;p&gt;This release extends NVIDIA's growing Nemotron-Personas Collection, which already includes the USA, Japan, India, and Singapore. Like others in the collection, the Brazil dataset covers attributes such as age, sex, education, occupation, and location.&lt;/p&gt;
-&lt;p&gt;The dataset is designed for Brazilian developers and researchers building sovereign AI, with data that is locally grounded, culturally informed, and commercially usable (CC BY 4.0). It was built in collaboration with WideLabs, an NVIDIA Inception member with deep experience supporting government and regulated-sector AI deployments across Latin America.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		What’s in the Dataset?
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Screenshot 2026-01-27 at 4.05.28 PM" src="https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/HjhOrX9NdOMXe175KA7z9.png" /&gt;&lt;/p&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		At a glance:
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;6 million Brazilian personas (1 million records × 6 personas each)&lt;/li&gt;
-&lt;li&gt;~1.4 billion tokens total, including ~450 million persona tokens&lt;/li&gt;
-&lt;li&gt;20 fields per record: 6 persona fields + 14 contextual fields grounded in official statistics&lt;/li&gt;
-&lt;li&gt;Full geographic coverage: all 26 Brazilian states + the Federal District&lt;/li&gt;
-&lt;li&gt;~457k unique Portuguese names&lt;/li&gt;
-&lt;li&gt;1,500+ occupation categories reflecting Brazil's workforce&lt;/li&gt;
-&lt;li&gt;Multiple persona types including: professional, sports, arts, travel, among others.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Each persona is written in natural Brazilian Portuguese and includes cultural background, skills, goals, hobbies, and interests.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How We Built It
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Data Generation Pipeline
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;Nemotron-Personas-Brazil was built using NeMo Data Designer, NVIDIA’s compound AI system for synthetic data generation. The pipeline supports structured generation, validation, and retry mechanisms required to produce large-scale, population-aware datasets.&lt;/p&gt;
-&lt;p&gt;Key components include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Probabilistic Graphical Model (Apache-2.0)&lt;/strong&gt; for statistical grounding&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GPT-OSS-120B (Apache-2.0)&lt;/strong&gt; for narrative generation in Brazilian Portuguese&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;An extended version of Nemotron-Personas-Brazil will be available directly within NeMo Data Designer, enabling developers to generate, refine, and extend Brazilian Portuguese personas as part of their own synthetic data pipelines.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Enhanced Cultural Context
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;In order to capture the socio-demographic and geographic diversity and complexity of Brazil's population, Nemotron-Personas-Brazil leveraged population census and labor data published by the Brazilian Institute of Geography and Statistics (IBGE).&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Geography&lt;/strong&gt; – Personas are anchored at the state and municipality level, reflecting regional variation across Brazil’s five macro-regions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Occupation&lt;/strong&gt; – Expands beyond job titles to include skills, expertise, and career trajectories, including micro-entrepreneurs and regional trades.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Life Stages&lt;/strong&gt; – Incorporates student status, unemployment, and retirement to reflect real population dynamics.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cultural Traits&lt;/strong&gt; – Natural-language personas capture Brazilian social norms, interests, and lifestyle dimensions such as arts, sports, and travel.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Language Fidelity&lt;/strong&gt; – All personas are written in natural Brazilian Portuguese, reflecting local naming conventions and communication styles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The result is a dataset that is statistically grounded, culturally representative, and fully synthetic by design.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Private By Design
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;This dataset contains no personally identifiable information. While we use real-world distributions of ages, names, and occupations from official public sources, nothing is tied to any real person, living or deceased. Every persona is fully synthetic, so you can train on authentic cultural patterns without compromising privacy.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Who This Data Is For
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Nemotron-Personas-Brazil is designed primarily for Brazilian developers and researchers building sovereign AI systems. By providing high-quality, population-representative data in Brazilian Portuguese, the dataset addresses gaps left by predominantly English-language training corpora.&lt;/p&gt;
-&lt;p&gt;Global developers may also leverage the dataset to improve model performance and alignment in Brazilian cultural and linguistic contexts.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Practical AI Applications
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Multi-turn conversation&lt;/strong&gt;: Use personas as seeds to generate authentic dialogue datasets&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Domain-specific training&lt;/strong&gt;: Build culturally aware AI assistants&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bias testing &amp;amp; fairness&lt;/strong&gt;: Evaluate model performance across rural vs. urban populations, age groups, and education levels—ensuring your AI works fairly across all segments of Brazilian society&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Why It Matters
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;AI model builders have long struggled with access to diverse, high-quality training data that reflects real-world populations. Proprietary datasets dominate enterprise AI, creating barriers for researchers, startups, and developers in underrepresented regions.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Data diversity&lt;/strong&gt;: Prevents narrow training and model collapse by reflecting Brazil's full population spectrum&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cultural authenticity&lt;/strong&gt;: Reduces reliance on Western-centric datasets and supports sovereign AI development&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy-preservation&lt;/strong&gt;: Designed to meet Brazil's data protection requirements and emerging AI governance standards&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;By releasing Nemotron-Personas-Brazil under CC BY 4.0, we're democratizing access to enterprise-grade synthetic data—enabling anyone to build culturally authentic AI without barriers of cost, privacy concerns, or geography.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Start Building with Nemotron-Personas-Brazil
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;You can load the dataset directly from Hugging Face:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-python"&gt;&lt;span class="hljs-keyword"&gt;from&lt;/span&gt; datasets &lt;span class="hljs-keyword"&gt;import&lt;/span&gt; load_dataset
+&lt;p class="wp-block-paragraph"&gt;“We’re still in the first innings of deployment of robotaxis,” she said. “There’s a lot more scale to come.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
-dataset = load_dataset(&lt;span class="hljs-string"&gt;"nvidia/nemotron-personas-brazil"&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Want to learn more about NVIDIA's open data products, or interested in co-designing a future dataset? Join the conversation on NVIDIA's Discord. &lt;/p&gt;
-&lt;!-- HTML_TAG_END --&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-personas-brazil</guid><pubDate>Wed, 28 Jan 2026 00:56:10 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;Urtasun wouldn’t share more specifics about the Uber rollout, like what automaker Waabi would partner with. She did say that Waabi would take a similar route to its autonomous trucking rollout by building its sensors and technology into the vehicle from the factory floor.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We believe in vertically integrating with a fully redundant platform from the OEM,” she said.&amp;nbsp; “That is how you really build safe and truly scalable technology.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Other investors in Waabi’s Series C include Uber, NVentures (Nvidia’s VC arm), Volvo Group Venture Capital, Porsche Automobil Holding SE, BlackRock, BDC Capital’s Thrive Venture Fund, and others.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/</guid><pubDate>Wed, 28 Jan 2026 11:00:00 +0000</pubDate></item><item><title>[NEW] White House compares industrial revolution with AI era (AI News)</title><link>https://www.artificialintelligence-news.com/news/white-house-predicts-ai-growth-with-comparison-industrial-and-artificial-intelligence-revolutions/</link><description>&lt;p&gt;A White House paper titled “Artificial Intelligence and the Great Divergence” sets out parallels between the effects of the industrial revolution in the 18th and 19th centuries and the current times, with artificial intelligence positioned as guiding the way the world’s economies will be shaped.&lt;/p&gt;&lt;p&gt;Artificial intelligence now sits at the centre of US economic strategy, currently representing a significant portion of the country’s economic activity, as characterised by the building of AI infrastructure, most notably in the form of data centres. The paper says AI investment raised US GDP by 1.3% percent in the first half of 2025, and compares this with the investment in the railway network during the industrial revolution.&lt;/p&gt;&lt;p&gt;“Artificial Intelligence and the Great Divergence” says long-term growth depends primarily on gains in productivity, and AI is the tool to achieve those gains. It presents a range of estimates of AI’s impact on GDP, from single-digit increases to 20% productivity growth inside a decade. It also floats some more extreme scenarios, where GDP grows at more than 45% as AI substitutes for human labour in the longer term.&lt;/p&gt;&lt;p&gt;Capital deployment in the form of building AI infrastructure, not growing consumption or public spending, is now creating US economic growth. Investment in data processing equipment, buildings, infrastructure, and software grew 28% in early 2025, and AI-related infrastructure represented around a quarter of all US investment in 2025.&lt;/p&gt;&lt;p&gt;Training compute capacity used by AI models has increased roughly four-fold per year since 2010, and the length of tasks AI systems can complete has doubled every seven months for six years, the paper states. The cost per token of AI output has fallen by factors ranging from nine to nine hundred per year, depending on task and model.&lt;/p&gt;&lt;p&gt;By late 2025, around 78% percent of organisations had reported using AI, up from 55% in 2024, and it’s claimed that 40% of US workers use generative AI in their jobs. Nearly half of US businesses now pay for AI subscriptions. The report poses these figures as evidence that AI has moved from experimentation into routine production.&lt;/p&gt;&lt;p&gt;Internationally, the document frames AI as a factor in divergence of economic prosperity, with AI in the US increasing America’s GDP growth faster than in Europe and China. The US leads at the moment in private AI investment, model development, and compute capacity, while the EU’s share of world GDP has fallen since 1980. Additionally, the continent lags in comparable AI metrics – investment, construction, software development, overall capacity, etc. China remains a major player in AI actor, but the report notes that much of its model training relies on US-designed hardware.&lt;/p&gt;&lt;p&gt;The White House publication advocates for an integrated national strategy with investment incentives at its core. The One Big Beautiful Bill Act gave significant financial breaks for data centres and IT infrastructure, and created favourable conditions for speedy facility construction, in line with the Act’s aim to lift GDP growth by more than a percentage point per year over the medium term. The report argues that deregulation in the AI industry supports productivity by lowering costs, increasing competition, and speeding innovation. Trade agreements and foreign policy reinforce this approach, with overseas partners committing to large purchases of US-derived AI chips and infrastructure.&lt;/p&gt;&lt;p&gt;The paper notes that AI data centres are electricity-intensive, and projects that demand for power by AI infrastructure could reach up to 12% of domestic electricity consumption by 2028. It links the success of AI to energy availability and the ability of the power grid to deliver, positioning the control of energy supply as a prerequisite for international leadership in AI.&lt;/p&gt;&lt;p&gt;The report’s conclusion is that the countries that lead in AI investment and adoption will experience higher growth than the mean. The United States is aligning multiple policy rafts to ensure its leading position in the sector. Businesses that build systems in line with its national goals will be part of a dominant economic force shaping the next phase of global growth.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Chicago Thaws into Spring” by Trey Ratcliff is licensed under CC BY-NC-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;figure class="wp-block-image"&gt;&lt;img alt="alt" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;A White House paper titled “Artificial Intelligence and the Great Divergence” sets out parallels between the effects of the industrial revolution in the 18th and 19th centuries and the current times, with artificial intelligence positioned as guiding the way the world’s economies will be shaped.&lt;/p&gt;&lt;p&gt;Artificial intelligence now sits at the centre of US economic strategy, currently representing a significant portion of the country’s economic activity, as characterised by the building of AI infrastructure, most notably in the form of data centres. The paper says AI investment raised US GDP by 1.3% percent in the first half of 2025, and compares this with the investment in the railway network during the industrial revolution.&lt;/p&gt;&lt;p&gt;“Artificial Intelligence and the Great Divergence” says long-term growth depends primarily on gains in productivity, and AI is the tool to achieve those gains. It presents a range of estimates of AI’s impact on GDP, from single-digit increases to 20% productivity growth inside a decade. It also floats some more extreme scenarios, where GDP grows at more than 45% as AI substitutes for human labour in the longer term.&lt;/p&gt;&lt;p&gt;Capital deployment in the form of building AI infrastructure, not growing consumption or public spending, is now creating US economic growth. Investment in data processing equipment, buildings, infrastructure, and software grew 28% in early 2025, and AI-related infrastructure represented around a quarter of all US investment in 2025.&lt;/p&gt;&lt;p&gt;Training compute capacity used by AI models has increased roughly four-fold per year since 2010, and the length of tasks AI systems can complete has doubled every seven months for six years, the paper states. The cost per token of AI output has fallen by factors ranging from nine to nine hundred per year, depending on task and model.&lt;/p&gt;&lt;p&gt;By late 2025, around 78% percent of organisations had reported using AI, up from 55% in 2024, and it’s claimed that 40% of US workers use generative AI in their jobs. Nearly half of US businesses now pay for AI subscriptions. The report poses these figures as evidence that AI has moved from experimentation into routine production.&lt;/p&gt;&lt;p&gt;Internationally, the document frames AI as a factor in divergence of economic prosperity, with AI in the US increasing America’s GDP growth faster than in Europe and China. The US leads at the moment in private AI investment, model development, and compute capacity, while the EU’s share of world GDP has fallen since 1980. Additionally, the continent lags in comparable AI metrics – investment, construction, software development, overall capacity, etc. China remains a major player in AI actor, but the report notes that much of its model training relies on US-designed hardware.&lt;/p&gt;&lt;p&gt;The White House publication advocates for an integrated national strategy with investment incentives at its core. The One Big Beautiful Bill Act gave significant financial breaks for data centres and IT infrastructure, and created favourable conditions for speedy facility construction, in line with the Act’s aim to lift GDP growth by more than a percentage point per year over the medium term. The report argues that deregulation in the AI industry supports productivity by lowering costs, increasing competition, and speeding innovation. Trade agreements and foreign policy reinforce this approach, with overseas partners committing to large purchases of US-derived AI chips and infrastructure.&lt;/p&gt;&lt;p&gt;The paper notes that AI data centres are electricity-intensive, and projects that demand for power by AI infrastructure could reach up to 12% of domestic electricity consumption by 2028. It links the success of AI to energy availability and the ability of the power grid to deliver, positioning the control of energy supply as a prerequisite for international leadership in AI.&lt;/p&gt;&lt;p&gt;The report’s conclusion is that the countries that lead in AI investment and adoption will experience higher growth than the mean. The United States is aligning multiple policy rafts to ensure its leading position in the sector. Businesses that build systems in line with its national goals will be part of a dominant economic force shaping the next phase of global growth.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Chicago Thaws into Spring” by Trey Ratcliff is licensed under CC BY-NC-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;figure class="wp-block-image"&gt;&lt;img alt="alt" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/white-house-predicts-ai-growth-with-comparison-industrial-and-artificial-intelligence-revolutions/</guid><pubDate>Wed, 28 Jan 2026 12:04:00 +0000</pubDate></item><item><title>[NEW] Masumi Network: How AI-blockchain fusion adds trust to burgeoning agent economy (AI News)</title><link>https://www.artificialintelligence-news.com/news/masumi-network-how-ai-blockchain-fusion-adds-trust-to-burgeoning-agent-economy/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/pexels-googledeepmind-17485706-scaled.jpg" /&gt;&lt;/div&gt;&lt;p&gt;2026 will see forward-thinking organisations building out their squads of AI agents across roles and functions. But amid the rush, there is another aspect to consider.&lt;/p&gt;&lt;p&gt;One of IDC’s enterprise technology predictions for the coming five years, published in October, was fascinating. “By 2030, up to 20% of [global 1000] organisations will have faced lawsuits, substantial fines, and CIO dismissals, due to high-profile disruptions stemming from inadequate controls and governance of AI agents,” the analyst noted.&lt;/p&gt;&lt;p&gt;How do you therefore put guardrails in place – and how do you ensure these agents work together and, ultimately, do business together? Patrick Tobler, founder and CEO of blockchain infrastructure platform provider NMKR, is working on a project which aims to solve this – by fusing agentic AI and decentralisation.&lt;/p&gt;&lt;p&gt;The Masumi Network, born out of a collaboration between NMKR and Serviceplan Group, launched in late 2024 as a framework-agnostic infrastructure which ‘empowers developers to build autonomous agents that collaborate, monetise services, and maintain verifiable trust.’&lt;/p&gt;&lt;p&gt;“The core thesis of Masumi is that there’s going to be billions of different AI agents from different companies interacting with each other in the future,” explains Tobler. “The difficult part now is – how do you actually have agents from different companies that can interact with each other and send money to each other as well, across these different companies?”&lt;/p&gt;&lt;p&gt;Take travel as an example. You want to attend an industry conference, so your hotel booking agent buys a plane ticket from your airline agent. The entire experience and transaction will be seamless – but that implicit trust is required.&lt;/p&gt;&lt;p&gt;“Masumi is a decentralised network of agents, so it’s not relying on any centralised payment infrastructure,” says Tobler. “Instead, agents are equipped with wallets and can send stablecoins from one agent to another and, because of that, interacting with each other in a completely safe and trustless manner.”&lt;/p&gt;&lt;p&gt;For Tobler, having spent in his words ‘a lot of time’ in crypto, he determined that its benefits were being pointed to the wrong place.&lt;/p&gt;&lt;p&gt;“I think there’s a lot of these problems that we have solved in crypto for humans, and then I came to this conclusion that maybe we’ve been solving them or the wrong target audience,” he explains. “Because for humans, using crypto and wallets and blockchains, all that kind of stuff is extremely difficult; the user experience is not great. But for agents, they don’t care if it’s difficult to use. They just use it, and it’s very native to them.&lt;/p&gt;&lt;p&gt;“So all these issues that are now arising with agents having to interact with millions, or maybe even billions, of agents in the future – these problems have all already been solved with crypto.”&lt;/p&gt;&lt;p&gt;Tobler is attending AI &amp;amp; Big Data Expo Global as part of Discover Cardano; NMKR started on the Cardano blockchain, while Masumi is built completely on Cardano. He says he is looking forward to speaking with businesses that are ‘hearing a lot about AI but aren’t really using it much besides ChatGPT’.&lt;/p&gt;&lt;p&gt;“I want to understand from them what they are doing, and then figure out how we can help them,” he says. “That’s most often the thing missing from traditional tech startups. We’re all building for our own bubble, instead of actually talking to the people that would be using it every day.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Discover Cardano is exhibiting at the AI &amp;amp; Big Data Expo Global, in London on February 4-5. Watch the full video interview with NMKR’s Patrick Tobler below:&lt;/em&gt;&lt;/p&gt;&lt;figure class="wp-block-video"&gt;&lt;video controls="controls" height="1080" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/Patrick_Tobler_NMKR_.mp4" width="1920"&gt;&lt;/video&gt;&lt;/figure&gt;&lt;p&gt;&lt;em&gt;Photo by Google DeepMind&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/pexels-googledeepmind-17485706-scaled.jpg" /&gt;&lt;/div&gt;&lt;p&gt;2026 will see forward-thinking organisations building out their squads of AI agents across roles and functions. But amid the rush, there is another aspect to consider.&lt;/p&gt;&lt;p&gt;One of IDC’s enterprise technology predictions for the coming five years, published in October, was fascinating. “By 2030, up to 20% of [global 1000] organisations will have faced lawsuits, substantial fines, and CIO dismissals, due to high-profile disruptions stemming from inadequate controls and governance of AI agents,” the analyst noted.&lt;/p&gt;&lt;p&gt;How do you therefore put guardrails in place – and how do you ensure these agents work together and, ultimately, do business together? Patrick Tobler, founder and CEO of blockchain infrastructure platform provider NMKR, is working on a project which aims to solve this – by fusing agentic AI and decentralisation.&lt;/p&gt;&lt;p&gt;The Masumi Network, born out of a collaboration between NMKR and Serviceplan Group, launched in late 2024 as a framework-agnostic infrastructure which ‘empowers developers to build autonomous agents that collaborate, monetise services, and maintain verifiable trust.’&lt;/p&gt;&lt;p&gt;“The core thesis of Masumi is that there’s going to be billions of different AI agents from different companies interacting with each other in the future,” explains Tobler. “The difficult part now is – how do you actually have agents from different companies that can interact with each other and send money to each other as well, across these different companies?”&lt;/p&gt;&lt;p&gt;Take travel as an example. You want to attend an industry conference, so your hotel booking agent buys a plane ticket from your airline agent. The entire experience and transaction will be seamless – but that implicit trust is required.&lt;/p&gt;&lt;p&gt;“Masumi is a decentralised network of agents, so it’s not relying on any centralised payment infrastructure,” says Tobler. “Instead, agents are equipped with wallets and can send stablecoins from one agent to another and, because of that, interacting with each other in a completely safe and trustless manner.”&lt;/p&gt;&lt;p&gt;For Tobler, having spent in his words ‘a lot of time’ in crypto, he determined that its benefits were being pointed to the wrong place.&lt;/p&gt;&lt;p&gt;“I think there’s a lot of these problems that we have solved in crypto for humans, and then I came to this conclusion that maybe we’ve been solving them or the wrong target audience,” he explains. “Because for humans, using crypto and wallets and blockchains, all that kind of stuff is extremely difficult; the user experience is not great. But for agents, they don’t care if it’s difficult to use. They just use it, and it’s very native to them.&lt;/p&gt;&lt;p&gt;“So all these issues that are now arising with agents having to interact with millions, or maybe even billions, of agents in the future – these problems have all already been solved with crypto.”&lt;/p&gt;&lt;p&gt;Tobler is attending AI &amp;amp; Big Data Expo Global as part of Discover Cardano; NMKR started on the Cardano blockchain, while Masumi is built completely on Cardano. He says he is looking forward to speaking with businesses that are ‘hearing a lot about AI but aren’t really using it much besides ChatGPT’.&lt;/p&gt;&lt;p&gt;“I want to understand from them what they are doing, and then figure out how we can help them,” he says. “That’s most often the thing missing from traditional tech startups. We’re all building for our own bubble, instead of actually talking to the people that would be using it every day.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Discover Cardano is exhibiting at the AI &amp;amp; Big Data Expo Global, in London on February 4-5. Watch the full video interview with NMKR’s Patrick Tobler below:&lt;/em&gt;&lt;/p&gt;&lt;figure class="wp-block-video"&gt;&lt;video controls="controls" height="1080" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/Patrick_Tobler_NMKR_.mp4" width="1920"&gt;&lt;/video&gt;&lt;/figure&gt;&lt;p&gt;&lt;em&gt;Photo by Google DeepMind&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/masumi-network-how-ai-blockchain-fusion-adds-trust-to-burgeoning-agent-economy/</guid><pubDate>Wed, 28 Jan 2026 12:28:14 +0000</pubDate></item><item><title>[NEW] Users flock to open source Moltbot for always-on AI, despite major risks (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        The open source “Jarvis” chats via WhatsApp but requires access to your files and accounts.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Illustration of a white lobster on a cyberpunk background." class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/clawdbot_1-640x360.jpg" width="640" /&gt;
+                  &lt;img alt="Illustration of a white lobster on a cyberpunk background." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/clawdbot_1-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Muhammad Shabraiz via Getty Images / Benj Edwards
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;An open source AI assistant called Moltbot (formerly “Clawdbot”) recently crossed 69,000 stars on GitHub after a month, making it one of the fastest-growing AI projects of 2026. Created by Austrian developer Peter Steinberger, the tool lets users run a personal AI assistant and control it through messaging apps they already use. While some say it feels like the AI assistant of the future, running the tool as currently designed comes with serious security risks.&lt;/p&gt;
+&lt;p&gt;Among the dozens of unofficial AI bot apps that never rise above the fray, Moltbot is perhaps most notable for its proactive communication with the user. The assistant works with WhatsApp, Telegram, Slack, Discord, Google Chat, Signal, iMessage, Microsoft Teams, and other platforms. It can reach out to users with reminders, alerts, or morning briefings based on calendar events or other triggers. The project has drawn comparisons to Jarvis, the AI assistant from the Iron Man films, for its ability to actively attempt to manage tasks across a user’s digital life.&lt;/p&gt;
+&lt;p&gt;However, we’ll tell you up front that there are plenty of drawbacks to the still-hobbyist software: While the organizing assistant code runs on a local machine, the tool effectively requires a subscription to Anthropic or OpenAI for model access (or using an API key). Users can run local AI models with the bot, but they are currently less effective at carrying out tasks than the best commercial models. Claude Opus 4.5, which is Anthropic’s flagship large language model (LLM), is a popular choice.&lt;/p&gt;
+&lt;figure class="ars-wp-img-shortcode id-2137714 align-fullwidth"&gt;
+    &lt;div&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="A screenshot of talking with Clawdbot / Moltbot taken from its GitHub page." class="fullwidth full" height="1024" src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/whatsapp-clawd.jpg" width="471" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      A screenshot of talking with Clawdbot / Moltbot taken from its GitHub page.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Moltbot
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;Setting up Moltbot requires configuring a server, managing authentication, and understanding sandboxing for even a slice of security in a system that basically demands access to every facet of your digital life. Heavy use can rack up significant API costs, since agentic systems make many calls behind the scenes and use up a lot of tokens.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;We’ve only just begun to try Moltbot ourselves (more on that soon), but we’ve seen plenty of discussions about the new assistant circulating in the AI community. The all-in approach has serious security drawbacks, since it requires access to messaging accounts, API keys, and in some configurations, shell commands. Also, an always-on agent with access to messaging channels and personal systems can quickly expand your attack surface.&lt;/p&gt;
+&lt;h2&gt;The always-on AI bot&lt;/h2&gt;
+&lt;p&gt;Even with all the drawbacks listed above, people are still using Moltbot. MacStories editor Federico Viticci, who spent a week testing the tool, described it as “Claude with hands,” referring to how it connects a large language model (LLM) backend with real-world capabilities like browser control, email management, and file operations.&lt;/p&gt;
+&lt;p&gt;The project’s documentation describes it as a tool for users who want “a personal, single-user assistant that feels local, fast, and always-on.”&lt;/p&gt;
+&lt;p&gt;According to the project’s GitHub page, Steinberger designed the bot to retain long-term memory and execute commands directly on the user’s system, unlike current web-based chatbots from major AI labs. It’s closer to Claude Code and Codex CLI (which also operate on local files using a cloud AI model), but with more latitude to take local actions on the user’s behalf.&lt;/p&gt;
+&lt;p&gt;Moltbot stores memory as Markdown files and a SQLite database on the user’s machine. It auto-generates daily notes that log interactions and uses vector search to retrieve relevant context from past conversations. The memory persists across sessions because the bot runs as a background daemon.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Compared to Claude Code, which is session-based, Moltbot runs persistently (24/7) and maintains its stored memory indefinitely. It can reportedly recall what you discussed weeks ago. With Claude Code, when you close it, the conversation context is gone (unless you use CLAUDE.md files for project context).&lt;/p&gt;
+&lt;h2&gt;Turbulent week for the project&lt;/h2&gt;
+&lt;p&gt;The project’s rapid rise has not come without complications. On Monday, Anthropic asked Steinberger to change the project’s name due to trademark concerns (since “Clawd” sounds like “Claude”), prompting the rebrand from Clawdbot to Moltbot. “Clawdbot” was originally named after the ASCII art creature that appears when you launch Claude Code on a terminal.&lt;/p&gt;
+&lt;p&gt;However, the transition enabled bad actors to hijack Steinberger’s old social media and GitHub handles, reports The Register. Crypto scammers launched fake tokens using the project’s name, with one reaching a $16 million market cap before crashing. Steinberger responded on X: “Any project that lists me as a coin owner is a SCAM. No, I will not accept fees. You are actively damaging the project.”&lt;/p&gt;
+&lt;p&gt;Security researchers have also found vulnerabilities in misconfigured public deployments. Bitdefender reported that exposed dashboards allowed outsiders to view configuration data, retrieve API keys, and browse full conversation histories from private chats.&lt;/p&gt;
+&lt;p&gt;While there’s plenty of hype about Moltbot right now, be advised that any LLM that has access to your local machine is susceptible to prompt injection attacks that can “trick” the AI model to share your personal data with other people or remote servers. While Moltbot offers a glimpse at what future AI assistants from major vendors might look like, it’s still experimental and not yet ready for users who aren’t comfortable trading today’s AI convenience (such as it is) for major security risks.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        The open source “Jarvis” chats via WhatsApp but requires access to your files and accounts.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Illustration of a white lobster on a cyberpunk background." class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/clawdbot_1-640x360.jpg" width="640" /&gt;
+                  &lt;img alt="Illustration of a white lobster on a cyberpunk background." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/clawdbot_1-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Muhammad Shabraiz via Getty Images / Benj Edwards
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;An open source AI assistant called Moltbot (formerly “Clawdbot”) recently crossed 69,000 stars on GitHub after a month, making it one of the fastest-growing AI projects of 2026. Created by Austrian developer Peter Steinberger, the tool lets users run a personal AI assistant and control it through messaging apps they already use. While some say it feels like the AI assistant of the future, running the tool as currently designed comes with serious security risks.&lt;/p&gt;
+&lt;p&gt;Among the dozens of unofficial AI bot apps that never rise above the fray, Moltbot is perhaps most notable for its proactive communication with the user. The assistant works with WhatsApp, Telegram, Slack, Discord, Google Chat, Signal, iMessage, Microsoft Teams, and other platforms. It can reach out to users with reminders, alerts, or morning briefings based on calendar events or other triggers. The project has drawn comparisons to Jarvis, the AI assistant from the Iron Man films, for its ability to actively attempt to manage tasks across a user’s digital life.&lt;/p&gt;
+&lt;p&gt;However, we’ll tell you up front that there are plenty of drawbacks to the still-hobbyist software: While the organizing assistant code runs on a local machine, the tool effectively requires a subscription to Anthropic or OpenAI for model access (or using an API key). Users can run local AI models with the bot, but they are currently less effective at carrying out tasks than the best commercial models. Claude Opus 4.5, which is Anthropic’s flagship large language model (LLM), is a popular choice.&lt;/p&gt;
+&lt;figure class="ars-wp-img-shortcode id-2137714 align-fullwidth"&gt;
+    &lt;div&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="A screenshot of talking with Clawdbot / Moltbot taken from its GitHub page." class="fullwidth full" height="1024" src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/whatsapp-clawd.jpg" width="471" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      A screenshot of talking with Clawdbot / Moltbot taken from its GitHub page.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Moltbot
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;Setting up Moltbot requires configuring a server, managing authentication, and understanding sandboxing for even a slice of security in a system that basically demands access to every facet of your digital life. Heavy use can rack up significant API costs, since agentic systems make many calls behind the scenes and use up a lot of tokens.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;We’ve only just begun to try Moltbot ourselves (more on that soon), but we’ve seen plenty of discussions about the new assistant circulating in the AI community. The all-in approach has serious security drawbacks, since it requires access to messaging accounts, API keys, and in some configurations, shell commands. Also, an always-on agent with access to messaging channels and personal systems can quickly expand your attack surface.&lt;/p&gt;
+&lt;h2&gt;The always-on AI bot&lt;/h2&gt;
+&lt;p&gt;Even with all the drawbacks listed above, people are still using Moltbot. MacStories editor Federico Viticci, who spent a week testing the tool, described it as “Claude with hands,” referring to how it connects a large language model (LLM) backend with real-world capabilities like browser control, email management, and file operations.&lt;/p&gt;
+&lt;p&gt;The project’s documentation describes it as a tool for users who want “a personal, single-user assistant that feels local, fast, and always-on.”&lt;/p&gt;
+&lt;p&gt;According to the project’s GitHub page, Steinberger designed the bot to retain long-term memory and execute commands directly on the user’s system, unlike current web-based chatbots from major AI labs. It’s closer to Claude Code and Codex CLI (which also operate on local files using a cloud AI model), but with more latitude to take local actions on the user’s behalf.&lt;/p&gt;
+&lt;p&gt;Moltbot stores memory as Markdown files and a SQLite database on the user’s machine. It auto-generates daily notes that log interactions and uses vector search to retrieve relevant context from past conversations. The memory persists across sessions because the bot runs as a background daemon.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+          
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Compared to Claude Code, which is session-based, Moltbot runs persistently (24/7) and maintains its stored memory indefinitely. It can reportedly recall what you discussed weeks ago. With Claude Code, when you close it, the conversation context is gone (unless you use CLAUDE.md files for project context).&lt;/p&gt;
+&lt;h2&gt;Turbulent week for the project&lt;/h2&gt;
+&lt;p&gt;The project’s rapid rise has not come without complications. On Monday, Anthropic asked Steinberger to change the project’s name due to trademark concerns (since “Clawd” sounds like “Claude”), prompting the rebrand from Clawdbot to Moltbot. “Clawdbot” was originally named after the ASCII art creature that appears when you launch Claude Code on a terminal.&lt;/p&gt;
+&lt;p&gt;However, the transition enabled bad actors to hijack Steinberger’s old social media and GitHub handles, reports The Register. Crypto scammers launched fake tokens using the project’s name, with one reaching a $16 million market cap before crashing. Steinberger responded on X: “Any project that lists me as a coin owner is a SCAM. No, I will not accept fees. You are actively damaging the project.”&lt;/p&gt;
+&lt;p&gt;Security researchers have also found vulnerabilities in misconfigured public deployments. Bitdefender reported that exposed dashboards allowed outsiders to view configuration data, retrieve API keys, and browse full conversation histories from private chats.&lt;/p&gt;
+&lt;p&gt;While there’s plenty of hype about Moltbot right now, be advised that any LLM that has access to your local machine is susceptible to prompt injection attacks that can “trick” the AI model to share your personal data with other people or remote servers. While Moltbot offers a glimpse at what future AI assistants from major vendors might look like, it’s still experimental and not yet ready for users who aren’t comfortable trading today’s AI convenience (such as it is) for major security risks.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+        &lt;div class="ad-wrapper-inner"&gt;
+            &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+              &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/</guid><pubDate>Wed, 28 Jan 2026 12:30:44 +0000</pubDate></item></channel></rss>
