@@ -1,489 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 05 Feb 2026 02:23:52 +0000</lastBuildDate><item><title>Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model (Hugging Face - Blog)</title><link>https://huggingface.co/blog/nvidia/nemotron-colembed-v2</link><description>&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
-
-&lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Ronay Ak's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://huggingface.co/avatars/d9fa8404f258c96df1c500cffd10752f.svg" /&gt;
-				&lt;/span&gt;
-	&lt;/span&gt;
-
-				
-			&lt;/div&gt;&lt;/div&gt;
-	&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-					
-
-					&lt;!-- HTML_TAG_START --&gt;
-Modern search systems are increasingly designed to process heterogeneous document images that may contain text, tables, charts, figures, and other visual components. In this context, accurately retrieving relevant information across these diverse modalities is a central challenge. Multimodal embedding models built on top of foundational vision–language models (VLMs) map diverse content types into a shared representation space, enabling unified retrieval over text, images, and structured visual elements. Although encoding an entire query and candidate document into a single vector is a common practice—exemplified by our recently released commercial-ready Llama-Nemotron-Embed-VL-1B which prioritizes efficiency and low storage—there is an increasing research direction on multi-vector, late-interaction style embedding architectures which provide fine-grained multi-vector interaction between queries and documents. By enabling richer token representations, these models better capture more detailed semantic relationships, and they have shown higher accuracy performance on various (multimodal) benchmarks.
-&lt;p&gt;NVIDIA introduces the Nemotron ColEmbed V2 family, a set of late-interaction embedding models available in three sizes—3B, 4B, and 8B—designed for highly accurate multimodal retrieval. These models adopt a unified approach to text–image retrieval and achieve state-of-the-art performance on the ViDoRe V1, V2, and V3 benchmarks.&lt;/p&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Nemotron ColEmbed V2 Highlights (TL;DR)
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;The nemotron-colembed-vl-8b-v2, nemotron-colembed-vl-4b-v2 and llama-nemotron-colembed-vl-3b-v2 are state-of-the-art late interaction embedding models that rank 1st, 3rd and 6th—the highest ranked models in each weight class, as of Feb 3, 2026, on the ViDoRe V3 benchmark: a comprehensive evaluation of visual document retrieval for enterprise use-case benchmark. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="late_interaction" src="https://cdn-uploads.huggingface.co/production/uploads/6814af6d59c3d8d6f9b09f2b/A4KY3NSZrrxGEcO6mihU8.png" /&gt;&lt;/p&gt;
-&lt;p&gt;The late interaction mechanism introduced by ColBERT for multi-vector embedding matching has been extended in our work to a multimodal setting, enabling fine-grained interactions between query and document tokens, whether textual or visual. As illustrated in the figure, each query token embedding interacts with all document token embeddings via the &lt;code&gt;MaxSim&lt;/code&gt; operator, which selects the maximum similarity for each query token and then sums these maxima to produce the final relevance score. This approach requires storing the token embeddings for the entire document corpus, whether textual or visual, thereby increasing storage requirements. During inference, query token embeddings are computed and matched against the stored document embeddings using the same MaxSim operation. &lt;/p&gt;
-&lt;p&gt;Nemotron ColEmbed V2 family of models is intended for researchers exploring visual document retrieval applications where accuracy is paramount. This distinguishes it from our 1B single-vector model released last month, which was designed for commercial environments requiring minimal storage and high throughput. It is instrumental in multimodal RAG systems, where textual queries can be used to retrieve document images, such as pages, text, charts, tables, or infographics. The models output multi-vector embeddings for input queries and documents. Potential applications include multimedia search engines, cross-modal retrieval systems, and conversational AI with rich input understanding.&lt;/p&gt;
-&lt;p&gt;As a new benchmark, ViDoRe V3 is designed to set an industry standard for multi-modal enterprise document retrieval. It tackles a key challenge in production RAG systems: accurately extracting information from complex, visually-rich documents.  With its strong multi-modal document retrieval capability, the nemotron-colembed-vl-8b-v2 model ranks &lt;strong&gt;#1&lt;/strong&gt; on the ViDoRe V3 leaderboard, setting a new standard for accuracy.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Visual Document Retrieval benchmark (page retrieval) – Avg NDCG@10 on ViDoRe V3 public and private tasks.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Models’ Architecture
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;The llama-nemotron-colembed-vl-3b-v2 is a transformer-based multimodal embedding model built on top of a VLM based on google/siglip2-giant-opt-patch16-384 and meta-llama/Llama-3.2-3B.  The nemotron-colembed-vl-8b-v2 and nemotron-colembed-vl-4b-v2 multimodal encoder models were built from Qwen3-VL-8B-Instruct and Qwen3-VL-4B-Instruct, respectively. &lt;/p&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Architecture modifications:
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Our models use bi-directional self-attention instead of the original uni-directional causal self-attention from the LLM decoder models. This allows the model to learn rich representations from the whole input sequence.&lt;/li&gt;
-&lt;li&gt;ColBERT-style late interaction mechanism- for each input token, each model outputs an n-dimensional embedding vector of floating-point values, where n is determined by the model’s hidden size.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Training Methodology
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;The nemotron-colembed-vl-8b-v2, nemotron-colembed-vl-4b-v2 and llama-nemotron-colembed-vl-3b-v2 models were trained using a bi-encoder architecture, independently. This involves encoding a pair of sentences (for example, a query and a document) independently using the embedding model. Using contrastive learning, it is used to maximize the late interaction similarity between the query and the document that contains the answer, while minimizing the similarity between the query and sampled negative documents not useful to answer the question.&lt;/p&gt;
-&lt;p&gt;The llama-nemotron-colembed-vl-3b-v2 model was trained in a two-stage pipeline:  it was first fine-tuned with 12.5M textQA pairs, and subsequently fine-tuned with text–image pairs. The nemotron-colembed-vl-8b-v2,  nemotron-colembed-vl-4b-v2 models were fine-tuned using only text-image pairs (2nd stage).&lt;/p&gt;
-&lt;p&gt;Our training datasets contain both text-only and text-image pairs, and we apply hard negative mining following the positive-aware hard negative mining methods presented in the NV-Retriever paper to improve retrieval performance.&lt;/p&gt;
-&lt;p&gt;✨ &lt;strong&gt;Key Improvements over V1:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;⚗️ Advanced Model Merging: Utilizes post-training model merging to combine the strengths of multiple fine-tuned checkpoints. This delivers the accuracy stability of an ensemble without any additional inference latency.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;🌍 Enhanced Synthetic Data: We significantly enriched our training mixture with diverse multilingual synthetic data, improving semantic alignment across languages and complex document types.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="modelperfs_vidorev3" src="https://cdn-uploads.huggingface.co/production/uploads/6814af6d59c3d8d6f9b09f2b/J7JIKCDriMjztO1ULw0k3.png" /&gt;&lt;/p&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Start Building with Nemotron ColEmbed V2
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Nemotron ColEmbed V2 models mark a major step forward in high-accuracy text–image retrieval, delivering state-of-the-art results on the ViDoRe V1, V2, and  V3 benchmarks. The availability of 3B, 4B and 8B model variants further establishes a solid foundation for future research and advanced experimentation in multimodal retrieval applications.&lt;/p&gt;
-&lt;p&gt;Get started with Nemotron ColEmbed V2 models by downloading the models: nemotron-colembed-vl-8b-v2, nemotron-colembed-vl-4b-v2 and llama-nemotron-colembed-vl-3b-v2, available on Hugging Face. Learn more about the NVIDIA NeMo Retriever family of Nemotron RAG models on the product page, or access the microservice container from NVIDIA NGC. This is an excellent opportunity to explore state-of-the-art retrieval in your own applications and workflows.&lt;/p&gt;
-&lt;p&gt;Try NVIDIA Enterprise RAG Blueprint, using the Nemotron RAG models that are powered by the same tech behind our ViDoRe V3 winning. &lt;/p&gt;
-&lt;!-- HTML_TAG_END --&gt;</description><content:encoded>&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt;
-
-&lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Ronay Ak's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://huggingface.co/avatars/d9fa8404f258c96df1c500cffd10752f.svg" /&gt;
-				&lt;/span&gt;
-	&lt;/span&gt;
-
-				
-			&lt;/div&gt;&lt;/div&gt;
-	&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-					
-
-					&lt;!-- HTML_TAG_START --&gt;
-Modern search systems are increasingly designed to process heterogeneous document images that may contain text, tables, charts, figures, and other visual components. In this context, accurately retrieving relevant information across these diverse modalities is a central challenge. Multimodal embedding models built on top of foundational vision–language models (VLMs) map diverse content types into a shared representation space, enabling unified retrieval over text, images, and structured visual elements. Although encoding an entire query and candidate document into a single vector is a common practice—exemplified by our recently released commercial-ready Llama-Nemotron-Embed-VL-1B which prioritizes efficiency and low storage—there is an increasing research direction on multi-vector, late-interaction style embedding architectures which provide fine-grained multi-vector interaction between queries and documents. By enabling richer token representations, these models better capture more detailed semantic relationships, and they have shown higher accuracy performance on various (multimodal) benchmarks.
-&lt;p&gt;NVIDIA introduces the Nemotron ColEmbed V2 family, a set of late-interaction embedding models available in three sizes—3B, 4B, and 8B—designed for highly accurate multimodal retrieval. These models adopt a unified approach to text–image retrieval and achieve state-of-the-art performance on the ViDoRe V1, V2, and V3 benchmarks.&lt;/p&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Nemotron ColEmbed V2 Highlights (TL;DR)
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;The nemotron-colembed-vl-8b-v2, nemotron-colembed-vl-4b-v2 and llama-nemotron-colembed-vl-3b-v2 are state-of-the-art late interaction embedding models that rank 1st, 3rd and 6th—the highest ranked models in each weight class, as of Feb 3, 2026, on the ViDoRe V3 benchmark: a comprehensive evaluation of visual document retrieval for enterprise use-case benchmark. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="late_interaction" src="https://cdn-uploads.huggingface.co/production/uploads/6814af6d59c3d8d6f9b09f2b/A4KY3NSZrrxGEcO6mihU8.png" /&gt;&lt;/p&gt;
-&lt;p&gt;The late interaction mechanism introduced by ColBERT for multi-vector embedding matching has been extended in our work to a multimodal setting, enabling fine-grained interactions between query and document tokens, whether textual or visual. As illustrated in the figure, each query token embedding interacts with all document token embeddings via the &lt;code&gt;MaxSim&lt;/code&gt; operator, which selects the maximum similarity for each query token and then sums these maxima to produce the final relevance score. This approach requires storing the token embeddings for the entire document corpus, whether textual or visual, thereby increasing storage requirements. During inference, query token embeddings are computed and matched against the stored document embeddings using the same MaxSim operation. &lt;/p&gt;
-&lt;p&gt;Nemotron ColEmbed V2 family of models is intended for researchers exploring visual document retrieval applications where accuracy is paramount. This distinguishes it from our 1B single-vector model released last month, which was designed for commercial environments requiring minimal storage and high throughput. It is instrumental in multimodal RAG systems, where textual queries can be used to retrieve document images, such as pages, text, charts, tables, or infographics. The models output multi-vector embeddings for input queries and documents. Potential applications include multimedia search engines, cross-modal retrieval systems, and conversational AI with rich input understanding.&lt;/p&gt;
-&lt;p&gt;As a new benchmark, ViDoRe V3 is designed to set an industry standard for multi-modal enterprise document retrieval. It tackles a key challenge in production RAG systems: accurately extracting information from complex, visually-rich documents.  With its strong multi-modal document retrieval capability, the nemotron-colembed-vl-8b-v2 model ranks &lt;strong&gt;#1&lt;/strong&gt; on the ViDoRe V3 leaderboard, setting a new standard for accuracy.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Visual Document Retrieval benchmark (page retrieval) – Avg NDCG@10 on ViDoRe V3 public and private tasks.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Models’ Architecture
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;The llama-nemotron-colembed-vl-3b-v2 is a transformer-based multimodal embedding model built on top of a VLM based on google/siglip2-giant-opt-patch16-384 and meta-llama/Llama-3.2-3B.  The nemotron-colembed-vl-8b-v2 and nemotron-colembed-vl-4b-v2 multimodal encoder models were built from Qwen3-VL-8B-Instruct and Qwen3-VL-4B-Instruct, respectively. &lt;/p&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Architecture modifications:
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Our models use bi-directional self-attention instead of the original uni-directional causal self-attention from the LLM decoder models. This allows the model to learn rich representations from the whole input sequence.&lt;/li&gt;
-&lt;li&gt;ColBERT-style late interaction mechanism- for each input token, each model outputs an n-dimensional embedding vector of floating-point values, where n is determined by the model’s hidden size.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Training Methodology
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;The nemotron-colembed-vl-8b-v2, nemotron-colembed-vl-4b-v2 and llama-nemotron-colembed-vl-3b-v2 models were trained using a bi-encoder architecture, independently. This involves encoding a pair of sentences (for example, a query and a document) independently using the embedding model. Using contrastive learning, it is used to maximize the late interaction similarity between the query and the document that contains the answer, while minimizing the similarity between the query and sampled negative documents not useful to answer the question.&lt;/p&gt;
-&lt;p&gt;The llama-nemotron-colembed-vl-3b-v2 model was trained in a two-stage pipeline:  it was first fine-tuned with 12.5M textQA pairs, and subsequently fine-tuned with text–image pairs. The nemotron-colembed-vl-8b-v2,  nemotron-colembed-vl-4b-v2 models were fine-tuned using only text-image pairs (2nd stage).&lt;/p&gt;
-&lt;p&gt;Our training datasets contain both text-only and text-image pairs, and we apply hard negative mining following the positive-aware hard negative mining methods presented in the NV-Retriever paper to improve retrieval performance.&lt;/p&gt;
-&lt;p&gt;✨ &lt;strong&gt;Key Improvements over V1:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;⚗️ Advanced Model Merging: Utilizes post-training model merging to combine the strengths of multiple fine-tuned checkpoints. This delivers the accuracy stability of an ensemble without any additional inference latency.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;🌍 Enhanced Synthetic Data: We significantly enriched our training mixture with diverse multilingual synthetic data, improving semantic alignment across languages and complex document types.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="modelperfs_vidorev3" src="https://cdn-uploads.huggingface.co/production/uploads/6814af6d59c3d8d6f9b09f2b/J7JIKCDriMjztO1ULw0k3.png" /&gt;&lt;/p&gt;
-&lt;h2 class="relative group flex items-center"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Start Building with Nemotron ColEmbed V2
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Nemotron ColEmbed V2 models mark a major step forward in high-accuracy text–image retrieval, delivering state-of-the-art results on the ViDoRe V1, V2, and  V3 benchmarks. The availability of 3B, 4B and 8B model variants further establishes a solid foundation for future research and advanced experimentation in multimodal retrieval applications.&lt;/p&gt;
-&lt;p&gt;Get started with Nemotron ColEmbed V2 models by downloading the models: nemotron-colembed-vl-8b-v2, nemotron-colembed-vl-4b-v2 and llama-nemotron-colembed-vl-3b-v2, available on Hugging Face. Learn more about the NVIDIA NeMo Retriever family of Nemotron RAG models on the product page, or access the microservice container from NVIDIA NGC. This is an excellent opportunity to explore state-of-the-art retrieval in your own applications and workflows.&lt;/p&gt;
-&lt;p&gt;Try NVIDIA Enterprise RAG Blueprint, using the Nemotron RAG models that are powered by the same tech behind our ViDoRe V3 winning. &lt;/p&gt;
-&lt;!-- HTML_TAG_END --&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-colembed-v2</guid><pubDate>Wed, 04 Feb 2026 15:00:40 +0000</pubDate></item><item><title>[NEW] ​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy (The latest research from Google)</title><link>https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;h2&gt;The future of sequential attention&lt;/h2&gt;&lt;p&gt;As the increasing integration of AI models in science, engineering and business makes model efficiency more relevant than ever, model structure optimization is crucial for building highly effective yet efficient models. We have identified subset selection as a fundamental challenge related to model efficiency across various deep learning optimization tasks, and Sequential Attention has emerged as a pivotal technique for addressing these problems. Moving forward, we aim to extend the applications of subset selection to increasingly complex domains.&lt;/p&gt;&lt;h3&gt;Feature engineering with real constraints&lt;/h3&gt;&lt;p&gt;Sequential Attention has demonstrated significant quality gains and efficiency savings in optimizing the feature embedding layer in large embedding models (LEMs) used in recommender systems. These models typically have a large number of heterogeneous features with large embedding tables, and so the tasks of feature selection/pruning, feature cross search and embedding dimension optimization are highly impactful. In the future, we would like to allow these feature engineering tasks to take real inference constraints into account, enabling fully automated, continual feature engineering.&lt;/p&gt;&lt;h3&gt;Large language model (LLM) pruning&lt;/h3&gt;&lt;p&gt;The SequentialAttention++ paradigm is a promising direction for LLM pruning. By applying this framework we can enforce structured sparsity (e.g., block sparsity), prune redundant attention heads, embedding dimensions or entire transformer blocks, and significantly reduce model footprint and inference latency while preserving predictive performance.&lt;/p&gt;&lt;h3&gt;Drug discovery and genomics&lt;/h3&gt;&lt;p&gt;Feature selection is vital in the biological sciences. Sequential Attention can be adapted to efficiently extract influential genetic or chemical features from high-dimensional datasets, enhancing both the interpretability and accuracy of models in drug discovery and personalized medicine.&lt;/p&gt;&lt;p&gt;Current research focuses on scaling Sequential Attention to handle massive datasets and highly complex architectures more efficiently. Furthermore, ongoing efforts seek to identify superior pruned model structures and extend rigorous mathematical guarantees to real-world deep learning applications, solidifying the framework’s reliability across industries.&lt;/p&gt;&lt;p&gt;Subset selection is a core problem central to multiple optimization tasks in deep learning, while Sequential Attention is a key technique to solve these problems. In the future, we will explore more applications of subset selection to solve more challenging problems in broader domains&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;h2&gt;The future of sequential attention&lt;/h2&gt;&lt;p&gt;As the increasing integration of AI models in science, engineering and business makes model efficiency more relevant than ever, model structure optimization is crucial for building highly effective yet efficient models. We have identified subset selection as a fundamental challenge related to model efficiency across various deep learning optimization tasks, and Sequential Attention has emerged as a pivotal technique for addressing these problems. Moving forward, we aim to extend the applications of subset selection to increasingly complex domains.&lt;/p&gt;&lt;h3&gt;Feature engineering with real constraints&lt;/h3&gt;&lt;p&gt;Sequential Attention has demonstrated significant quality gains and efficiency savings in optimizing the feature embedding layer in large embedding models (LEMs) used in recommender systems. These models typically have a large number of heterogeneous features with large embedding tables, and so the tasks of feature selection/pruning, feature cross search and embedding dimension optimization are highly impactful. In the future, we would like to allow these feature engineering tasks to take real inference constraints into account, enabling fully automated, continual feature engineering.&lt;/p&gt;&lt;h3&gt;Large language model (LLM) pruning&lt;/h3&gt;&lt;p&gt;The SequentialAttention++ paradigm is a promising direction for LLM pruning. By applying this framework we can enforce structured sparsity (e.g., block sparsity), prune redundant attention heads, embedding dimensions or entire transformer blocks, and significantly reduce model footprint and inference latency while preserving predictive performance.&lt;/p&gt;&lt;h3&gt;Drug discovery and genomics&lt;/h3&gt;&lt;p&gt;Feature selection is vital in the biological sciences. Sequential Attention can be adapted to efficiently extract influential genetic or chemical features from high-dimensional datasets, enhancing both the interpretability and accuracy of models in drug discovery and personalized medicine.&lt;/p&gt;&lt;p&gt;Current research focuses on scaling Sequential Attention to handle massive datasets and highly complex architectures more efficiently. Furthermore, ongoing efforts seek to identify superior pruned model structures and extend rigorous mathematical guarantees to real-world deep learning applications, solidifying the framework’s reliability across industries.&lt;/p&gt;&lt;p&gt;Subset selection is a core problem central to multiple optimization tasks in deep learning, while Sequential Attention is a key technique to solve these problems. In the future, we will explore more applications of subset selection to solve more challenging problems in broader domains&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/</guid><pubDate>Wed, 04 Feb 2026 15:14:00 +0000</pubDate></item><item><title>Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing/</link><description>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;&lt;i&gt;Editor’s note: This post is part of the &lt;/i&gt;&lt;i&gt;Nemotron Labs&lt;/i&gt;&lt;i&gt; blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver value in production — from transparent research copilots to scalable AI agents.&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;Businesses today face the challenge of uncovering valuable insights buried within a wide variety of documents — including reports, presentations, PDFs, web pages and spreadsheets.&lt;/p&gt;
-&lt;p&gt;Often, teams piece together insights by manually reviewing files, copying data into spreadsheets, building dashboards and using basic search or template-based optical character recognition (OCR) tools that often miss important details in complex media.&lt;/p&gt;
-&lt;p&gt;Intelligent document processing is an AI-powered workflow that automatically reads, understands and extracts insights from documents. It interprets rich formats inside those documents — including tables, charts, images and text — using AI agents and techniques like retrieval-augmented generation (RAG) to turn the multimodal content into insights that other multi-agent systems and people can easily use.&lt;/p&gt;
-&lt;p&gt;With NVIDIA Nemotron open models and GPU-accelerated libraries, organizations can build AI-powered document intelligence systems for research, financial services, legal workflows and more.&lt;/p&gt;
-&lt;p&gt;These open models, datasets and training recipes have powered strong results on leaderboards such as MTEB, MMTEB and ViDoRe V3, benchmarks for evaluating multilingual and multimodal retrieval models. Teams can choose from among the best models for tasks like search and question answering.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;How Document Processing Streamlines Business Intelligence&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Document intelligence systems that can pull meaning from complex layouts, scale to huge file libraries and show exactly where an answer came from are incredibly useful in high-stakes environments. These systems:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Understand rich document content&lt;/b&gt;, moving beyond simple text scraping to capture information from charts, tables, figures and mixed-language pages and treating documents as a human would by recognizing structure, relationships and context​​.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Handle large quantities of shifting data&lt;/b&gt;, ingesting and processing massive collections of documents in parallel, and keeping knowledge bases continuously up to date.​​&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Find exactly what users need&lt;/b&gt;, helping AI agents pinpoint the most relevant passages, tables or paragraphs to a query so they can respond with precision and accuracy.​​&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Show the evidence behind answers&lt;/b&gt; by providing citations to specific pages or charts so teams can gain transparency and auditability, which is critical in regulated industries.​​&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-medium wp-image-89600" height="384" src="https://blogs.nvidia.com/wp-content/uploads/2026/02/nemotron-labs-infographic-960x384.jpg" width="960" /&gt;&lt;/p&gt;
-&lt;p&gt;The result is a shift from static document archives to living knowledge systems that directly power business intelligence, customer experiences and operational workflows.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Document Intelligence at Work&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Intelligent document processing systems built on NVIDIA Nemotron RAG models, Nemotron Parse and accelerated computing are already reshaping how organizations across industries gain insights from their documents.​​&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Justt: AI-Native Chargeback Management and Dispute Optimization&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;In financial services, payment disputes create significant revenue loss and operational complexity for merchants, largely because the evidence needed to handle them lives in unstructured formats. Transaction logs, customer communications and policy documents are often fragmented across systems and difficult to process at scale, making dispute handling slow, manual and costly.&lt;/p&gt;
-&lt;p&gt;Justt.ai provides an AI-driven platform that automates the full chargeback lifecycle at scale. The platform connects directly to payment service providers and merchant data sources to ingest transaction data, customer interactions and policies, then automatically assembles dispute-specific evidence that aligns with card network and issuer requirements.&lt;/p&gt;
-&lt;p&gt;The platform’s AI-powered dispute optimization, powered by Nemotron Parse, applies predictive analytics to determine which chargebacks to fight or accept, and how to optimize each response for maximum net recovery. Leading hospitality operators like HEI Hotels &amp;amp; Resorts use the platform to automate dispute handling across their properties, recapturing revenue while maintaining guest relationships.&lt;/p&gt;
-&lt;p&gt;By pairing document-centric intelligence with decision automation, merchants can recapture a significant portion of revenue lost to illegitimate chargebacks while reducing manual review effort.​&lt;/p&gt;
-&lt;p&gt;Read about how Justt’s chargeback management tool autonomously processes financial data to handle disputes for merchants.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Docusign: Scaling Agreement Intelligence&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Docusign is the global leader in Intelligent Agreement Management, handling millions of transactions every day for more than 1.8 million customers and over 1 billion users.&lt;/p&gt;
-&lt;p&gt;Agreements are the foundation of every business, but the critical information they contain are often buried inside pages of documents. To surface the information, Docusign needed high-fidelity extraction of tables, text and metadata from complex documents like PDFs so organizations could understand and act on obligations, risks and opportunities faster.&lt;/p&gt;
-&lt;p&gt;Docusign is evaluating Nemotron Parse for deeper contract understanding at scale. Running on NVIDIA GPUs, the model combines advanced AI with layout detection and OCR. The system can reliably interpret complex tables and reconstruct tables with required information. This reduces the need for manual corrections and helps ensure that even the most complex contracts are processed with the speed and accuracy their customers expect.&lt;/p&gt;
-&lt;p&gt;With this foundation, Docusign will transform agreement repositories into structured data that powers contract search, analysis and AI-driven workflows — turning agreements into business assets that help organizations and their teams improve visibility, reduce risk and make faster decisions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Edison Scientific: Research Across Massive Literature Scale&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Edison Scientific’s Kosmos AI Scientist helps researchers navigate complex scientific landscapes to synthesize literature, identify connections and surface evidence.​&lt;/p&gt;
-&lt;p&gt;Edison needed a way to rapidly and accurately extract structured information from large volumes of PDFs, including equations, tables and figures that traditional information parsing methods often mishandle.​&lt;/p&gt;
-&lt;p&gt;By integrating the NVIDIA Nemotron Parse model into its PaperQA pipeline, Edison can decompose research papers, index key concepts and ground responses in specific passages, improving both throughput and answer quality for scientists.​​ This approach turns a sprawling research corpus into an interactive, queryable knowledge engine that accelerates hypothesis generation and literature review.​&lt;/p&gt;
-&lt;p&gt;The high efficiency of Nemotron Parse enables cost-efficient serving at scale, allowing Edison’s team to unlock the whole multimodal pipeline.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Designing an Intelligent Document Processing Application With NVIDIA Technologies&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;A robust, domain-specific document intelligence pipeline requires technologies that can handle data extraction, embedding and reranking, while keeping the data secure and compliant with regulations.​​&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Extraction:&lt;/b&gt; Nemotron extraction and OCR models rapidly ingest multimodal PDFs, text, tables, graphs and images to convert them into structured, machine-readable content while preserving layout and semantics.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Embedding:&lt;/b&gt; Nemotron embedding models convert passages, entities and visual elements into vector representations tuned for document retrieval, enabling semantically accurate search.​​&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Reranking:&lt;/b&gt; Nemotron reranking models evaluate candidate passages to ensure the most relevant content is surfaced as context for large language models (LLMs), improving answer fidelity and reducing hallucinations.​​&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Parsing:&lt;/b&gt; Nemotron Parse models decipher document semantics to extract text and tables with precise spatial grounding and correct reading flow. Overcoming layout variability, they turn unstructured documents into actionable data that enhances the accuracy of LLMs and agentic workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;These capabilities are packaged as NVIDIA NIM microservices and foundation models that run efficiently on NVIDIA GPUs, allowing teams to scale from proof of concept to production while keeping sensitive data within their chosen cloud or data center environment.&lt;/p&gt;
-&lt;p&gt;The most effective AI systems use a mix of frontier models and open source models like NVIDIA Nemotron, with an LLM router analyzing each task and automatically selecting the model best suited for it. This approach keeps performance strong while managing computing costs and improving efficiency.&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;Get Started With NVIDIA Nemotron&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;Access a step-by-step tutorial on how to build a document processing pipeline with RAG capabilities. Explore how Nemotron RAG can power specialized agents tailored for different industries.​&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;Plus, experiment with Nemotron RAG models and the NVIDIA NeMo Retriever open library, available on GitHub and Hugging Face, as well as Nemotron Parse on Hugging Face.&lt;/p&gt;
-&lt;p&gt;Join the community of developers building with the NVIDIA Blueprint for Enterprise RAG — trusted by a dozen industry-leading AI Data Platform providers and available now on build.nvidia.com, GitHub and the NGC catalog.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Stay up to date on agentic AI, &lt;/i&gt;&lt;i&gt;NVIDIA Nemotron&lt;/i&gt;&lt;i&gt; and more by subscribing to &lt;/i&gt;&lt;i&gt;NVIDIA AI news&lt;/i&gt;&lt;i&gt;,&lt;/i&gt;&lt;i&gt; joining the community&lt;/i&gt;&lt;i&gt; and following NVIDIA AI on &lt;/i&gt;&lt;i&gt;LinkedIn&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;X&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;i&gt;.&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Explore &lt;/i&gt;&lt;i&gt;self-paced video tutorials and livestreams&lt;/i&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
-
-		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</description><content:encoded>&lt;span class="bsf-rt-reading-time"&gt;&lt;span class="bsf-rt-display-label"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-time"&gt;&lt;/span&gt; &lt;span class="bsf-rt-display-postfix"&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;&lt;i&gt;Editor’s note: This post is part of the &lt;/i&gt;&lt;i&gt;Nemotron Labs&lt;/i&gt;&lt;i&gt; blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver value in production — from transparent research copilots to scalable AI agents.&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;Businesses today face the challenge of uncovering valuable insights buried within a wide variety of documents — including reports, presentations, PDFs, web pages and spreadsheets.&lt;/p&gt;
-&lt;p&gt;Often, teams piece together insights by manually reviewing files, copying data into spreadsheets, building dashboards and using basic search or template-based optical character recognition (OCR) tools that often miss important details in complex media.&lt;/p&gt;
-&lt;p&gt;Intelligent document processing is an AI-powered workflow that automatically reads, understands and extracts insights from documents. It interprets rich formats inside those documents — including tables, charts, images and text — using AI agents and techniques like retrieval-augmented generation (RAG) to turn the multimodal content into insights that other multi-agent systems and people can easily use.&lt;/p&gt;
-&lt;p&gt;With NVIDIA Nemotron open models and GPU-accelerated libraries, organizations can build AI-powered document intelligence systems for research, financial services, legal workflows and more.&lt;/p&gt;
-&lt;p&gt;These open models, datasets and training recipes have powered strong results on leaderboards such as MTEB, MMTEB and ViDoRe V3, benchmarks for evaluating multilingual and multimodal retrieval models. Teams can choose from among the best models for tasks like search and question answering.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;How Document Processing Streamlines Business Intelligence&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Document intelligence systems that can pull meaning from complex layouts, scale to huge file libraries and show exactly where an answer came from are incredibly useful in high-stakes environments. These systems:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Understand rich document content&lt;/b&gt;, moving beyond simple text scraping to capture information from charts, tables, figures and mixed-language pages and treating documents as a human would by recognizing structure, relationships and context​​.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Handle large quantities of shifting data&lt;/b&gt;, ingesting and processing massive collections of documents in parallel, and keeping knowledge bases continuously up to date.​​&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Find exactly what users need&lt;/b&gt;, helping AI agents pinpoint the most relevant passages, tables or paragraphs to a query so they can respond with precision and accuracy.​​&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Show the evidence behind answers&lt;/b&gt; by providing citations to specific pages or charts so teams can gain transparency and auditability, which is critical in regulated industries.​​&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-medium wp-image-89600" height="384" src="https://blogs.nvidia.com/wp-content/uploads/2026/02/nemotron-labs-infographic-960x384.jpg" width="960" /&gt;&lt;/p&gt;
-&lt;p&gt;The result is a shift from static document archives to living knowledge systems that directly power business intelligence, customer experiences and operational workflows.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Document Intelligence at Work&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Intelligent document processing systems built on NVIDIA Nemotron RAG models, Nemotron Parse and accelerated computing are already reshaping how organizations across industries gain insights from their documents.​​&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Justt: AI-Native Chargeback Management and Dispute Optimization&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;In financial services, payment disputes create significant revenue loss and operational complexity for merchants, largely because the evidence needed to handle them lives in unstructured formats. Transaction logs, customer communications and policy documents are often fragmented across systems and difficult to process at scale, making dispute handling slow, manual and costly.&lt;/p&gt;
-&lt;p&gt;Justt.ai provides an AI-driven platform that automates the full chargeback lifecycle at scale. The platform connects directly to payment service providers and merchant data sources to ingest transaction data, customer interactions and policies, then automatically assembles dispute-specific evidence that aligns with card network and issuer requirements.&lt;/p&gt;
-&lt;p&gt;The platform’s AI-powered dispute optimization, powered by Nemotron Parse, applies predictive analytics to determine which chargebacks to fight or accept, and how to optimize each response for maximum net recovery. Leading hospitality operators like HEI Hotels &amp;amp; Resorts use the platform to automate dispute handling across their properties, recapturing revenue while maintaining guest relationships.&lt;/p&gt;
-&lt;p&gt;By pairing document-centric intelligence with decision automation, merchants can recapture a significant portion of revenue lost to illegitimate chargebacks while reducing manual review effort.​&lt;/p&gt;
-&lt;p&gt;Read about how Justt’s chargeback management tool autonomously processes financial data to handle disputes for merchants.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Docusign: Scaling Agreement Intelligence&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Docusign is the global leader in Intelligent Agreement Management, handling millions of transactions every day for more than 1.8 million customers and over 1 billion users.&lt;/p&gt;
-&lt;p&gt;Agreements are the foundation of every business, but the critical information they contain are often buried inside pages of documents. To surface the information, Docusign needed high-fidelity extraction of tables, text and metadata from complex documents like PDFs so organizations could understand and act on obligations, risks and opportunities faster.&lt;/p&gt;
-&lt;p&gt;Docusign is evaluating Nemotron Parse for deeper contract understanding at scale. Running on NVIDIA GPUs, the model combines advanced AI with layout detection and OCR. The system can reliably interpret complex tables and reconstruct tables with required information. This reduces the need for manual corrections and helps ensure that even the most complex contracts are processed with the speed and accuracy their customers expect.&lt;/p&gt;
-&lt;p&gt;With this foundation, Docusign will transform agreement repositories into structured data that powers contract search, analysis and AI-driven workflows — turning agreements into business assets that help organizations and their teams improve visibility, reduce risk and make faster decisions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Edison Scientific: Research Across Massive Literature Scale&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Edison Scientific’s Kosmos AI Scientist helps researchers navigate complex scientific landscapes to synthesize literature, identify connections and surface evidence.​&lt;/p&gt;
-&lt;p&gt;Edison needed a way to rapidly and accurately extract structured information from large volumes of PDFs, including equations, tables and figures that traditional information parsing methods often mishandle.​&lt;/p&gt;
-&lt;p&gt;By integrating the NVIDIA Nemotron Parse model into its PaperQA pipeline, Edison can decompose research papers, index key concepts and ground responses in specific passages, improving both throughput and answer quality for scientists.​​ This approach turns a sprawling research corpus into an interactive, queryable knowledge engine that accelerates hypothesis generation and literature review.​&lt;/p&gt;
-&lt;p&gt;The high efficiency of Nemotron Parse enables cost-efficient serving at scale, allowing Edison’s team to unlock the whole multimodal pipeline.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Designing an Intelligent Document Processing Application With NVIDIA Technologies&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;A robust, domain-specific document intelligence pipeline requires technologies that can handle data extraction, embedding and reranking, while keeping the data secure and compliant with regulations.​​&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Extraction:&lt;/b&gt; Nemotron extraction and OCR models rapidly ingest multimodal PDFs, text, tables, graphs and images to convert them into structured, machine-readable content while preserving layout and semantics.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Embedding:&lt;/b&gt; Nemotron embedding models convert passages, entities and visual elements into vector representations tuned for document retrieval, enabling semantically accurate search.​​&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Reranking:&lt;/b&gt; Nemotron reranking models evaluate candidate passages to ensure the most relevant content is surfaced as context for large language models (LLMs), improving answer fidelity and reducing hallucinations.​​&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Parsing:&lt;/b&gt; Nemotron Parse models decipher document semantics to extract text and tables with precise spatial grounding and correct reading flow. Overcoming layout variability, they turn unstructured documents into actionable data that enhances the accuracy of LLMs and agentic workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;These capabilities are packaged as NVIDIA NIM microservices and foundation models that run efficiently on NVIDIA GPUs, allowing teams to scale from proof of concept to production while keeping sensitive data within their chosen cloud or data center environment.&lt;/p&gt;
-&lt;p&gt;The most effective AI systems use a mix of frontier models and open source models like NVIDIA Nemotron, with an LLM router analyzing each task and automatically selecting the model best suited for it. This approach keeps performance strong while managing computing costs and improving efficiency.&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;Get Started With NVIDIA Nemotron&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;Access a step-by-step tutorial on how to build a document processing pipeline with RAG capabilities. Explore how Nemotron RAG can power specialized agents tailored for different industries.​&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;Plus, experiment with Nemotron RAG models and the NVIDIA NeMo Retriever open library, available on GitHub and Hugging Face, as well as Nemotron Parse on Hugging Face.&lt;/p&gt;
-&lt;p&gt;Join the community of developers building with the NVIDIA Blueprint for Enterprise RAG — trusted by a dozen industry-leading AI Data Platform providers and available now on build.nvidia.com, GitHub and the NGC catalog.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Stay up to date on agentic AI, &lt;/i&gt;&lt;i&gt;NVIDIA Nemotron&lt;/i&gt;&lt;i&gt; and more by subscribing to &lt;/i&gt;&lt;i&gt;NVIDIA AI news&lt;/i&gt;&lt;i&gt;,&lt;/i&gt;&lt;i&gt; joining the community&lt;/i&gt;&lt;i&gt; and following NVIDIA AI on &lt;/i&gt;&lt;i&gt;LinkedIn&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;Instagram&lt;/i&gt;&lt;i&gt;, &lt;/i&gt;&lt;i&gt;X&lt;/i&gt;&lt;i&gt; and &lt;/i&gt;&lt;i&gt;Facebook&lt;/i&gt;&lt;i&gt;.&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Explore &lt;/i&gt;&lt;i&gt;self-paced video tutorials and livestreams&lt;/i&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
-
-		&lt;footer class="entry-footer  " id="post-footer"&gt;
-					&lt;/footer&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing/</guid><pubDate>Wed, 04 Feb 2026 16:00:36 +0000</pubDate></item><item><title>AI Expo 2026 Day 1: Governance and data readiness enable the agentic enterprise (AI News)</title><link>https://www.artificialintelligence-news.com/news/ai-expo-2026-day-1-governance-data-readiness-enable-agentic-enterprise/</link><description>&lt;p&gt;While the prospect of AI acting as a digital co-worker dominated the day one agenda at the co-located AI &amp;amp; Big Data Expo and Intelligent Automation Conference, the technical sessions focused on the infrastructure to make it work.&lt;/p&gt;&lt;p&gt;A primary topic on the exhibition floor was the progression from passive automation to “agentic” systems. These tools reason, plan, and execute tasks rather than following rigid scripts. Amal Makwana from Citi detailed how these systems act across enterprise workflows. This capability separates them from earlier robotic process automation (RPA).&lt;/p&gt;&lt;p&gt;Scott Ivell and Ire Adewolu of DeepL described this development as closing the “automation gap”. They argued that agentic AI functions as a digital co-worker rather than a simple tool. Real value is unlocked by reducing the distance between intent and execution. Brian Halpin from SS&amp;amp;C Blue Prism noted that organisations typically must master standard automation before they can deploy agentic AI.&lt;/p&gt;&lt;p&gt;This change requires governance frameworks capable of handling non-deterministic outcomes. Steve Holyer of Informatica, alongside speakers from MuleSoft and Salesforce, argued that architecting these systems requires strict oversight. A governance layer must control how agents access and utilise data to prevent operational failure.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-data-quality-blocks-deployment"&gt;Data quality blocks deployment&lt;/h3&gt;&lt;p&gt;The output of an autonomous system relies on the quality of its input. Andreas Krause from SAP stated that AI fails without trusted, connected enterprise data. For GenAI to function in a corporate context, it must access data that is both accurate and contextually-relevant.&lt;/p&gt;&lt;p&gt;Meni Meller of Gigaspaces addressed the technical challenge of “hallucinations” in LLMs. He advocated for the use of eRAG (retrieval-augmented generation) combined with semantic layers to fix data access issues. This approach allows models to retrieve factual enterprise data in real-time.&lt;/p&gt;&lt;p&gt;Storage and analysis also present challenges. A panel featuring representatives from Equifax, British Gas, and Centrica discussed the necessity of cloud-native, real-time analytics. For these organisations, competitive advantage comes from the ability to execute analytics strategies that are scalable and immediate.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-physical-safety-and-observability"&gt;Physical safety and observability&lt;/h3&gt;&lt;p&gt;The integration of AI extends into physical environments, introducing safety risks that differ from software failures. A panel including Edith-Clare Hall from ARIA and Matthew Howard from IEEE RAS examined how embodied AI is deployed in factories, offices, and public spaces. Safety protocols must be established &lt;em&gt;before&lt;/em&gt; robots interact with humans.&lt;/p&gt;&lt;p&gt;Perla Maiolino from the Oxford Robotics Institute provided a technical perspective on this challenge. Her research into Time-of-Flight (ToF) sensors and electronic skin aims to give robots both self-awareness and environmental awareness. For industries such as manufacturing and logistics, these integrated perception systems prevent accidents.&lt;/p&gt;&lt;p&gt;In software development, observability remains a parallel concern. Yulia Samoylova from Datadog highlighted how AI changes the way teams build and troubleshoot software. As systems become more autonomous, the ability to observe their internal state and reasoning processes becomes necessary for reliability.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-infrastructure-and-adoption-barriers"&gt;Infrastructure and adoption barriers&lt;/h3&gt;&lt;p&gt;Implementation demands reliable infrastructure and a receptive culture. Julian Skeels from Expereo argued that networks must be designed specifically for AI workloads. This involves building sovereign, secure, and “always-on” network fabrics capable of handling high throughput.&lt;/p&gt;&lt;p&gt;Of course, the human element remains unpredictable. Paul Fermor from IBM Automation warned that traditional automation thinking often underestimates the complexity of AI adoption. He termed this the “illusion of AI readiness”. Jena Miller reinforced this point, noting that strategies must be human-centred to ensure adoption. If the workforce does not trust the tools, the technology yields no return.&lt;/p&gt;&lt;p&gt;Ravi Jay from Sanofi suggested that leaders need to ask operational and ethical questions early on in the process. Success depends on deciding where to build proprietary solutions versus where to buy established platforms.&lt;/p&gt;&lt;p&gt;The sessions from day one of the co-located events indicate that, while technology is moving toward autonomous agents, deployment requires a solid data foundation.&lt;/p&gt;&lt;p&gt;CIOs should focus on establishing data governance frameworks that support retrieval-augmented generation. Network infrastructure must be evaluated to ensure it supports the latency requirements of agentic workloads. Finally, cultural adoption strategies must run parallel to technical implementation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111908" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png" width="728" /&gt;&lt;/figure&gt;</description><content:encoded>&lt;p&gt;While the prospect of AI acting as a digital co-worker dominated the day one agenda at the co-located AI &amp;amp; Big Data Expo and Intelligent Automation Conference, the technical sessions focused on the infrastructure to make it work.&lt;/p&gt;&lt;p&gt;A primary topic on the exhibition floor was the progression from passive automation to “agentic” systems. These tools reason, plan, and execute tasks rather than following rigid scripts. Amal Makwana from Citi detailed how these systems act across enterprise workflows. This capability separates them from earlier robotic process automation (RPA).&lt;/p&gt;&lt;p&gt;Scott Ivell and Ire Adewolu of DeepL described this development as closing the “automation gap”. They argued that agentic AI functions as a digital co-worker rather than a simple tool. Real value is unlocked by reducing the distance between intent and execution. Brian Halpin from SS&amp;amp;C Blue Prism noted that organisations typically must master standard automation before they can deploy agentic AI.&lt;/p&gt;&lt;p&gt;This change requires governance frameworks capable of handling non-deterministic outcomes. Steve Holyer of Informatica, alongside speakers from MuleSoft and Salesforce, argued that architecting these systems requires strict oversight. A governance layer must control how agents access and utilise data to prevent operational failure.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-data-quality-blocks-deployment"&gt;Data quality blocks deployment&lt;/h3&gt;&lt;p&gt;The output of an autonomous system relies on the quality of its input. Andreas Krause from SAP stated that AI fails without trusted, connected enterprise data. For GenAI to function in a corporate context, it must access data that is both accurate and contextually-relevant.&lt;/p&gt;&lt;p&gt;Meni Meller of Gigaspaces addressed the technical challenge of “hallucinations” in LLMs. He advocated for the use of eRAG (retrieval-augmented generation) combined with semantic layers to fix data access issues. This approach allows models to retrieve factual enterprise data in real-time.&lt;/p&gt;&lt;p&gt;Storage and analysis also present challenges. A panel featuring representatives from Equifax, British Gas, and Centrica discussed the necessity of cloud-native, real-time analytics. For these organisations, competitive advantage comes from the ability to execute analytics strategies that are scalable and immediate.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-physical-safety-and-observability"&gt;Physical safety and observability&lt;/h3&gt;&lt;p&gt;The integration of AI extends into physical environments, introducing safety risks that differ from software failures. A panel including Edith-Clare Hall from ARIA and Matthew Howard from IEEE RAS examined how embodied AI is deployed in factories, offices, and public spaces. Safety protocols must be established &lt;em&gt;before&lt;/em&gt; robots interact with humans.&lt;/p&gt;&lt;p&gt;Perla Maiolino from the Oxford Robotics Institute provided a technical perspective on this challenge. Her research into Time-of-Flight (ToF) sensors and electronic skin aims to give robots both self-awareness and environmental awareness. For industries such as manufacturing and logistics, these integrated perception systems prevent accidents.&lt;/p&gt;&lt;p&gt;In software development, observability remains a parallel concern. Yulia Samoylova from Datadog highlighted how AI changes the way teams build and troubleshoot software. As systems become more autonomous, the ability to observe their internal state and reasoning processes becomes necessary for reliability.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-infrastructure-and-adoption-barriers"&gt;Infrastructure and adoption barriers&lt;/h3&gt;&lt;p&gt;Implementation demands reliable infrastructure and a receptive culture. Julian Skeels from Expereo argued that networks must be designed specifically for AI workloads. This involves building sovereign, secure, and “always-on” network fabrics capable of handling high throughput.&lt;/p&gt;&lt;p&gt;Of course, the human element remains unpredictable. Paul Fermor from IBM Automation warned that traditional automation thinking often underestimates the complexity of AI adoption. He termed this the “illusion of AI readiness”. Jena Miller reinforced this point, noting that strategies must be human-centred to ensure adoption. If the workforce does not trust the tools, the technology yields no return.&lt;/p&gt;&lt;p&gt;Ravi Jay from Sanofi suggested that leaders need to ask operational and ethical questions early on in the process. Success depends on deciding where to build proprietary solutions versus where to buy established platforms.&lt;/p&gt;&lt;p&gt;The sessions from day one of the co-located events indicate that, while technology is moving toward autonomous agents, deployment requires a solid data foundation.&lt;/p&gt;&lt;p&gt;CIOs should focus on establishing data governance frameworks that support retrieval-augmented generation. Network infrastructure must be evaluated to ensure it supports the latency requirements of agentic workloads. Finally, cultural adoption strategies must run parallel to technical implementation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111908" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png" width="728" /&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/ai-expo-2026-day-1-governance-data-readiness-enable-agentic-enterprise/</guid><pubDate>Wed, 04 Feb 2026 16:33:34 +0000</pubDate></item><item><title>Roblox’s 4D creation feature is now available in open beta (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last year, Roblox launched an open source AI model that could generate 3D objects on the platform, helping users quickly design digital items such as furniture, vehicles, and accessories. The company claims the tool, called Cube 3D, has so far helped users generate over 1.8 million 3D objects since it was rolled out last March.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On Wednesday, the company launched the open beta for its anticipated 4D creation feature that lets creators make not just static 3D models, but fully functional and interactive objects. The feature has been in early access since November.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Roblox says 4D creation adds an important new layer: interactivity. With this technology, users can design items that can move and react to players in the game.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3088899" height="408" src="https://techcrunch.com/wp-content/uploads/2026/02/Roblox-4D-Creations.gif?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Roblox&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;​At launch, there are two types of object templates (called schemas) that creators can try out.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The first is the “Car-5” schema, which is used to create a car made of five separate parts: the main body and four wheels. Previously, cars were a single, solid 3D object that couldn’t move. The new system breaks down objects into parts and assigns behaviors to each so that they function individually within the virtual world. The AI therefore can generate cars with spinning wheels, making them more realistic and interactive. ​&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The second is called “Body-1,” which can generate any object made from a single piece, like a simple box or sculpture.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The first experience with 4D generation is a game called Wish Master, where players can generate cars they can drive, planes they can fly, and even dragons.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;​In the future, Roblox plans to let creators make their own schemas so they’ll have more freedom to define how objects behave. The company says it is also developing new technology that could use a reference image to create a detailed 3D model that matches the image’s style (example below).&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3088898" height="292" src="https://techcrunch.com/wp-content/uploads/2026/02/Upsample-3D-Models.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Roblox&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company says it is developing more ways to help people create games and experiences using AI, including a project it has dubbed “real-time dreaming.” Roblox CEO David Baszucki last month explained that this project would let creators build new worlds using “keyboard navigation and sharing real-time text prompts.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The open beta comes on the heels of Roblox’s recent implementation of mandatory facial verification for users to access chat features in the game, following lawsuits and investigations related to child safety.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last year, Roblox launched an open source AI model that could generate 3D objects on the platform, helping users quickly design digital items such as furniture, vehicles, and accessories. The company claims the tool, called Cube 3D, has so far helped users generate over 1.8 million 3D objects since it was rolled out last March.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On Wednesday, the company launched the open beta for its anticipated 4D creation feature that lets creators make not just static 3D models, but fully functional and interactive objects. The feature has been in early access since November.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Roblox says 4D creation adds an important new layer: interactivity. With this technology, users can design items that can move and react to players in the game.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3088899" height="408" src="https://techcrunch.com/wp-content/uploads/2026/02/Roblox-4D-Creations.gif?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Roblox&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;​At launch, there are two types of object templates (called schemas) that creators can try out.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The first is the “Car-5” schema, which is used to create a car made of five separate parts: the main body and four wheels. Previously, cars were a single, solid 3D object that couldn’t move. The new system breaks down objects into parts and assigns behaviors to each so that they function individually within the virtual world. The AI therefore can generate cars with spinning wheels, making them more realistic and interactive. ​&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The second is called “Body-1,” which can generate any object made from a single piece, like a simple box or sculpture.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The first experience with 4D generation is a game called Wish Master, where players can generate cars they can drive, planes they can fly, and even dragons.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;​In the future, Roblox plans to let creators make their own schemas so they’ll have more freedom to define how objects behave. The company says it is also developing new technology that could use a reference image to create a detailed 3D model that matches the image’s style (example below).&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3088898" height="292" src="https://techcrunch.com/wp-content/uploads/2026/02/Upsample-3D-Models.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Roblox&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company says it is developing more ways to help people create games and experiences using AI, including a project it has dubbed “real-time dreaming.” Roblox CEO David Baszucki last month explained that this project would let creators build new worlds using “keyboard navigation and sharing real-time text prompts.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The open beta comes on the heels of Roblox’s recent implementation of mandatory facial verification for users to access chat features in the game, following lawsuits and investigations related to child safety.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/</guid><pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate></item><item><title>3 Questions: Using AI to accelerate the discovery and design of therapeutic drugs (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202602/jim-collins-mit-00.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;&lt;em&gt;In the pursuit of solutions to complex global challenges including disease, energy demands, and climate change, scientific researchers, including at MIT, have turned to artificial intelligence, and to quantitative analysis and modeling, to design and construct engineered cells with novel properties. The engineered cells can be programmed to become new therapeutics — battling, and perhaps eradicating, diseases.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;James J. Collins&lt;/em&gt;&lt;em&gt; is one of the founders of the field of synthetic biology, and is also a leading researcher in systems biology, the interdisciplinary approach that uses mathematical analysis and modeling of complex systems to better understand biological systems. His research has led to the development of new classes of diagnostics and therapeutics, including in the detection and treatment of pathogens like Ebola, Zika, SARS-CoV-2, and antibiotic-resistant bacteria. Collins, the Termeer Professor of Medical Engineering and Science and professor of biological engineering at MIT, is a core faculty member of the Institute for Medical Engineering and Science (IMES), the director of the MIT Abdul Latif Jameel Clinic for Machine Learning in Health, as well as an institute member of the Broad Institute of MIT and Harvard, and core founding faculty at the Wyss Institute for Biologically Inspired Engineering, Harvard.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;In this Q&amp;amp;A, Collins speaks about his latest work and goals for this research.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q.&amp;nbsp;&lt;/strong&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;You’re known for collaborating with colleagues across MIT, and at other institutions. How have these collaborations and affiliations helped you with your research?&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;Collaboration has been central to the work in my lab. At the MIT Jameel Clinic for Machine Learning in Health, I formed a collaboration with Regina Barzilay [the Delta Electronics Professor in the MIT Department of Electrical Engineering and Computer Science and affiliate faculty member at IMES] and Tommi Jaakkola [the Thomas Siebel Professor of Electrical Engineering and Computer Science and the Institute for Data, Systems, and Society] to use deep learning to discover new antibiotics. This effort combined our expertise in artificial intelligence, network biology, and systems microbiology, leading to the discovery of halicin, a potent new antibiotic effective against a broad range of multidrug-resistant bacterial pathogens. Our results were published in &lt;em&gt;Cell&lt;/em&gt; in 2020 and showcased the power of bringing together complementary skill sets to tackle a global health challenge.&lt;/p&gt;&lt;p&gt;At the Wyss Institute, I’ve worked closely with Donald Ingber [the Judah Folkman Professor of Vascular Biology at Harvard Medical School and the Vascular Biology Program at Boston Children’s Hospital, and Hansjörg Wyss Professor of Biologically Inspired Engineering at Harvard], leveraging his organs-on-chips technology to test the efficacy of AI-discovered and AI-generated antibiotics. These platforms allow us to study how drugs behave in human tissue-like environments, complementing traditional animal experiments and providing a more nuanced view of their therapeutic potential.&lt;/p&gt;&lt;p&gt;The common thread across our many collaborations is the ability to combine computational predictions with cutting-edge experimental platforms, accelerating the path from ideas to validated new therapies.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q.&amp;nbsp;&lt;/strong&gt;Your research has led to many advances in designing novel antibiotics, using generative AI and deep learning. Can you talk about some of the advances you’ve been a part of in the development of drugs that can battle multi-drug-resistant pathogens, and what you see on the horizon for breakthroughs in this arena?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;In 2025, our lab published a study in&amp;nbsp;&lt;em&gt;Cell&lt;/em&gt; demonstrating how generative AI can be used to design completely new antibiotics from scratch. We used genetic algorithms and variational autoencoders to generate millions of candidate molecules, exploring both fragment-based designs and entirely unconstrained chemical space. After computational filtering, retrosynthetic modeling, and medicinal chemistry review, we synthesized 24 compounds and tested them experimentally. Seven showed selective antibacterial activity. One lead, NG1, was highly narrow-spectrum, eradicating multi-drug-resistant&amp;nbsp;&lt;em&gt;Neisseria gonorrhoeae&lt;/em&gt;, including strains resistant to first-line therapies, while sparing commensal species. Another, DN1, targeted methicillin-resistant &lt;em&gt;Staphylococcus aureus&lt;/em&gt; (MRSA) and cleared infections in mice through broad membrane disruption. Both were non-toxic and showed low rates of resistance.&lt;/p&gt;&lt;p&gt;Looking ahead, we are using deep learning to design antibiotics with drug-like properties that make them stronger candidates for clinical development. By integrating AI with high-throughput biological testing, we aim to accelerate the discovery and design of antibiotics that are novel, safe, and effective, ready for real-world therapeutic use. This approach could transform how we respond to drug-resistant bacterial pathogens, moving from a reactive to a proactive strategy in antibiotic development.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q.&amp;nbsp;&lt;/strong&gt;You’re a co-founder of Phare Bio, a nonprofit organization that uses AI to discover new antibiotics, and the Collins Lab has helped to launch the Antibiotics-AI Project in collaboration with Phare Bio. Can you tell us more about what you hope to accomplish with these collaborations, and how they tie back to your research goals?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;We founded Phare Bio as a nonprofit to take the most promising antibiotic candidates emerging from the Antibiotics-AI Project at MIT and advance them toward the clinic. The idea is to bridge the gap between discovery and development by collaborating with biotech companies, pharmaceutical partners, AI companies, philanthropies, other nonprofits, and even nation states. Akhila Kosaraju has been doing a brilliant job leading Phare Bio, coordinating these efforts and moving candidates forward efficiently.&lt;/p&gt;&lt;p&gt;Recently, we received a grant from ARPA-H to use generative AI to design 15 new antibiotics and develop them as pre-clinical candidates. This project builds directly on our lab’s research, combining computational design with experimental testing to create novel antibiotics that are ready for further development. By integrating generative AI, biology, and translational partnerships, we hope to create a pipeline that can respond more rapidly to the global threat of antibiotic resistance, ultimately delivering new therapies to patients who need them most.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202602/jim-collins-mit-00.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;&lt;em&gt;In the pursuit of solutions to complex global challenges including disease, energy demands, and climate change, scientific researchers, including at MIT, have turned to artificial intelligence, and to quantitative analysis and modeling, to design and construct engineered cells with novel properties. The engineered cells can be programmed to become new therapeutics — battling, and perhaps eradicating, diseases.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;James J. Collins&lt;/em&gt;&lt;em&gt; is one of the founders of the field of synthetic biology, and is also a leading researcher in systems biology, the interdisciplinary approach that uses mathematical analysis and modeling of complex systems to better understand biological systems. His research has led to the development of new classes of diagnostics and therapeutics, including in the detection and treatment of pathogens like Ebola, Zika, SARS-CoV-2, and antibiotic-resistant bacteria. Collins, the Termeer Professor of Medical Engineering and Science and professor of biological engineering at MIT, is a core faculty member of the Institute for Medical Engineering and Science (IMES), the director of the MIT Abdul Latif Jameel Clinic for Machine Learning in Health, as well as an institute member of the Broad Institute of MIT and Harvard, and core founding faculty at the Wyss Institute for Biologically Inspired Engineering, Harvard.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;In this Q&amp;amp;A, Collins speaks about his latest work and goals for this research.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q.&amp;nbsp;&lt;/strong&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;You’re known for collaborating with colleagues across MIT, and at other institutions. How have these collaborations and affiliations helped you with your research?&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;Collaboration has been central to the work in my lab. At the MIT Jameel Clinic for Machine Learning in Health, I formed a collaboration with Regina Barzilay [the Delta Electronics Professor in the MIT Department of Electrical Engineering and Computer Science and affiliate faculty member at IMES] and Tommi Jaakkola [the Thomas Siebel Professor of Electrical Engineering and Computer Science and the Institute for Data, Systems, and Society] to use deep learning to discover new antibiotics. This effort combined our expertise in artificial intelligence, network biology, and systems microbiology, leading to the discovery of halicin, a potent new antibiotic effective against a broad range of multidrug-resistant bacterial pathogens. Our results were published in &lt;em&gt;Cell&lt;/em&gt; in 2020 and showcased the power of bringing together complementary skill sets to tackle a global health challenge.&lt;/p&gt;&lt;p&gt;At the Wyss Institute, I’ve worked closely with Donald Ingber [the Judah Folkman Professor of Vascular Biology at Harvard Medical School and the Vascular Biology Program at Boston Children’s Hospital, and Hansjörg Wyss Professor of Biologically Inspired Engineering at Harvard], leveraging his organs-on-chips technology to test the efficacy of AI-discovered and AI-generated antibiotics. These platforms allow us to study how drugs behave in human tissue-like environments, complementing traditional animal experiments and providing a more nuanced view of their therapeutic potential.&lt;/p&gt;&lt;p&gt;The common thread across our many collaborations is the ability to combine computational predictions with cutting-edge experimental platforms, accelerating the path from ideas to validated new therapies.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q.&amp;nbsp;&lt;/strong&gt;Your research has led to many advances in designing novel antibiotics, using generative AI and deep learning. Can you talk about some of the advances you’ve been a part of in the development of drugs that can battle multi-drug-resistant pathogens, and what you see on the horizon for breakthroughs in this arena?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;In 2025, our lab published a study in&amp;nbsp;&lt;em&gt;Cell&lt;/em&gt; demonstrating how generative AI can be used to design completely new antibiotics from scratch. We used genetic algorithms and variational autoencoders to generate millions of candidate molecules, exploring both fragment-based designs and entirely unconstrained chemical space. After computational filtering, retrosynthetic modeling, and medicinal chemistry review, we synthesized 24 compounds and tested them experimentally. Seven showed selective antibacterial activity. One lead, NG1, was highly narrow-spectrum, eradicating multi-drug-resistant&amp;nbsp;&lt;em&gt;Neisseria gonorrhoeae&lt;/em&gt;, including strains resistant to first-line therapies, while sparing commensal species. Another, DN1, targeted methicillin-resistant &lt;em&gt;Staphylococcus aureus&lt;/em&gt; (MRSA) and cleared infections in mice through broad membrane disruption. Both were non-toxic and showed low rates of resistance.&lt;/p&gt;&lt;p&gt;Looking ahead, we are using deep learning to design antibiotics with drug-like properties that make them stronger candidates for clinical development. By integrating AI with high-throughput biological testing, we aim to accelerate the discovery and design of antibiotics that are novel, safe, and effective, ready for real-world therapeutic use. This approach could transform how we respond to drug-resistant bacterial pathogens, moving from a reactive to a proactive strategy in antibiotic development.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q.&amp;nbsp;&lt;/strong&gt;You’re a co-founder of Phare Bio, a nonprofit organization that uses AI to discover new antibiotics, and the Collins Lab has helped to launch the Antibiotics-AI Project in collaboration with Phare Bio. Can you tell us more about what you hope to accomplish with these collaborations, and how they tie back to your research goals?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;We founded Phare Bio as a nonprofit to take the most promising antibiotic candidates emerging from the Antibiotics-AI Project at MIT and advance them toward the clinic. The idea is to bridge the gap between discovery and development by collaborating with biotech companies, pharmaceutical partners, AI companies, philanthropies, other nonprofits, and even nation states. Akhila Kosaraju has been doing a brilliant job leading Phare Bio, coordinating these efforts and moving candidates forward efficiently.&lt;/p&gt;&lt;p&gt;Recently, we received a grant from ARPA-H to use generative AI to design 15 new antibiotics and develop them as pre-clinical candidates. This project builds directly on our lab’s research, combining computational design with experimental testing to create novel antibiotics that are ready for further development. By integrating generative AI, biology, and translational partnerships, we hope to create a pipeline that can respond more rapidly to the global threat of antibiotic resistance, ultimately delivering new therapies to patients who need them most.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204</guid><pubDate>Wed, 04 Feb 2026 18:00:00 +0000</pubDate></item><item><title>Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Introduced last quarter, the Match-owned dating app said that Chemistry leverages AI to get to know users through questions and, with permission, accesses their Camera Roll on their phone to learn more about their interests and personality.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On Match’s Q4 2026 earnings call, one analyst from Morgan Stanley asked for an update on the product’s success so far.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Match CEO Spencer Rascoff noted that Chemistry was still only being tested in Australia for the time being, but said that the feature offered users an “AI way to interact with Tinder.” He explained that users could choose to answer questions to then “get just a single drop or two, rather than swiping through many, many profiles.” &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In addition to Chemistry’s Q&amp;amp;A and Camera Roll features, the company plans to use the AI feature in other ways going forward, the CEO also hinted.  &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Most importantly, Rascoff said the feature is designed to combat swipe fatigue — a complaint from users who say they have to swipe through too many profiles to find a potential match. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company’s turn toward AI comes as Tinder and other dating apps have been experiencing paying subscriber declines, user burnout, and declines in new sign-ups.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the fourth quarter, new registrations on Tinder were still down 5% year-over-year, and its monthly active users were down 9%. These numbers show some slight improvements over prior quarters, which Match attributes to AI-driven recommendations that change the order of profiles shown to women, and other product experiments.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Match said that this year, it aims to address common Gen Z pain points, including better relevance, authenticity, and trust. To do so, the company said it is redesigning discovery to make it less repetitive and is using other features, like Face Check — a facial recognition verification system — to cut down on bad actors. On Tinder, the latter led to a more than 50% reduction in interactions with bad actors, Match noted.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Tinder’s decision to start moving away from the swipe toward more targeted, AI-powered recommendations could have a significant impact on the dating app. Today, the swipe method, which was popularized by Tinder, encourages users to think that they’re choosing a match from an endless number of profiles. But in reality, the app presents the illusion of choice, since matches have to be two-way to connect, and even then, a spark is not guaranteed.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company delivered an earnings beat in the fourth quarter, with revenue of $878 million and EPS of 83 cents per share, above Wall Street estimates. But weak guidance saw the stock decline on Tuesday, before rising again in premarket trading on Wednesday.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beyond AI, Match will also increase its product marketing to help boost Tinder engagement. The company is committing to $50 million in Tinder marketing spend, which will include creator campaigns on TikTok and Instagram, where users will make claims that “Tinder is cool again,” Rascoff noted. &lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Introduced last quarter, the Match-owned dating app said that Chemistry leverages AI to get to know users through questions and, with permission, accesses their Camera Roll on their phone to learn more about their interests and personality.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On Match’s Q4 2026 earnings call, one analyst from Morgan Stanley asked for an update on the product’s success so far.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Match CEO Spencer Rascoff noted that Chemistry was still only being tested in Australia for the time being, but said that the feature offered users an “AI way to interact with Tinder.” He explained that users could choose to answer questions to then “get just a single drop or two, rather than swiping through many, many profiles.” &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In addition to Chemistry’s Q&amp;amp;A and Camera Roll features, the company plans to use the AI feature in other ways going forward, the CEO also hinted.  &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Most importantly, Rascoff said the feature is designed to combat swipe fatigue — a complaint from users who say they have to swipe through too many profiles to find a potential match. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company’s turn toward AI comes as Tinder and other dating apps have been experiencing paying subscriber declines, user burnout, and declines in new sign-ups.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the fourth quarter, new registrations on Tinder were still down 5% year-over-year, and its monthly active users were down 9%. These numbers show some slight improvements over prior quarters, which Match attributes to AI-driven recommendations that change the order of profiles shown to women, and other product experiments.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Match said that this year, it aims to address common Gen Z pain points, including better relevance, authenticity, and trust. To do so, the company said it is redesigning discovery to make it less repetitive and is using other features, like Face Check — a facial recognition verification system — to cut down on bad actors. On Tinder, the latter led to a more than 50% reduction in interactions with bad actors, Match noted.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Tinder’s decision to start moving away from the swipe toward more targeted, AI-powered recommendations could have a significant impact on the dating app. Today, the swipe method, which was popularized by Tinder, encourages users to think that they’re choosing a match from an endless number of profiles. But in reality, the app presents the illusion of choice, since matches have to be two-way to connect, and even then, a spark is not guaranteed.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company delivered an earnings beat in the fourth quarter, with revenue of $878 million and EPS of 83 cents per share, above Wall Street estimates. But weak guidance saw the stock decline on Tuesday, before rising again in premarket trading on Wednesday.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beyond AI, Match will also increase its product marketing to help boost Tinder engagement. The company is committing to $50 million in Tinder marketing spend, which will include creator campaigns on TikTok and Instagram, where users will make claims that “Tinder is cool again,” Rascoff noted. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/</guid><pubDate>Wed, 04 Feb 2026 18:08:00 +0000</pubDate></item><item><title>Antonio Torralba, three MIT alumni named 2025 ACM fellows (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/antonio-torralba-three-mit-alumni-named-acm-fellows-0204</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202601/mit-eecs-Torralba-Antonio.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p dir="ltr"&gt;Antonio Torralba, Delta Electronics Professor of Electrical Engineering and Computer Science and faculty head of artificial intelligence and decision-making at MIT, has been named to the 2025 cohort of Association for Computing Machinery (ACM) Fellows. He shares the honor of an ACM Fellowship with three MIT alumni: Eytan Adar ’97, MEng ’98; George Candea ’97, MEng ’98; and Gookwon Edward Suh SM ’01, PhD ’05.&lt;/p&gt;&lt;p dir="ltr"&gt;A principal investigator within both the Computer Science and Artificial Intelligence Laboratory and the Center for Brains, Minds, and Machines, Torralba received his BS in telecommunications engineering from Telecom BCN, Spain, in 1994, and a PhD in signal, image, and speech processing from the Institut National Polytechnique de Grenoble, France, in 2000. At different points in his MIT career, he has been director of both the MIT Quest for Intelligence (now the MIT Siegel Family Quest for Intelligence) and the MIT-IBM Watson AI Lab.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Torralba’s research focuses on computer vision, machine learning, and human visual perception; as he puts it, “I am interested in building systems that can perceive the world like humans do.” Alongside Phillip Isola and William Freeman, he recently co-authored&amp;nbsp;“Foundations of Computer Vision,” an 800-plus page textbook exploring the foundations and core principles of the field.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Among other awards and recognitions, he is the recipient of the 2008 National Science Foundation Career award; the 2010 J. K. Aggarwal Prize from the International Association for Pattern Recognition; the 2017 Frank Quick Faculty Research Innovation Fellowship; the Louis D. Smullin (’39) Award for Teaching Excellence; and the 2020 PAMI Mark Everingham Prize. In 2021, he was awarded the inaugural Thomas Huang Memorial Prize by the Pattern Analysis and Machine Intelligence Technical Committee and was named a fellow of the Association for the Advancement of Artificial Intelligence. In 2022, he received an honorary doctoral degree from the Universitat Politècnica de Catalunya — BarcelonaTech (UPC).&amp;nbsp;&lt;/p&gt;&lt;p&gt;ACM fellows, the highest honor bestowed by the professional organization, are registered members of the society selected by their peers for&amp;nbsp;outstanding accomplishments in computing and information technology and/or outstanding service to ACM and the larger computing community.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202601/mit-eecs-Torralba-Antonio.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p dir="ltr"&gt;Antonio Torralba, Delta Electronics Professor of Electrical Engineering and Computer Science and faculty head of artificial intelligence and decision-making at MIT, has been named to the 2025 cohort of Association for Computing Machinery (ACM) Fellows. He shares the honor of an ACM Fellowship with three MIT alumni: Eytan Adar ’97, MEng ’98; George Candea ’97, MEng ’98; and Gookwon Edward Suh SM ’01, PhD ’05.&lt;/p&gt;&lt;p dir="ltr"&gt;A principal investigator within both the Computer Science and Artificial Intelligence Laboratory and the Center for Brains, Minds, and Machines, Torralba received his BS in telecommunications engineering from Telecom BCN, Spain, in 1994, and a PhD in signal, image, and speech processing from the Institut National Polytechnique de Grenoble, France, in 2000. At different points in his MIT career, he has been director of both the MIT Quest for Intelligence (now the MIT Siegel Family Quest for Intelligence) and the MIT-IBM Watson AI Lab.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Torralba’s research focuses on computer vision, machine learning, and human visual perception; as he puts it, “I am interested in building systems that can perceive the world like humans do.” Alongside Phillip Isola and William Freeman, he recently co-authored&amp;nbsp;“Foundations of Computer Vision,” an 800-plus page textbook exploring the foundations and core principles of the field.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Among other awards and recognitions, he is the recipient of the 2008 National Science Foundation Career award; the 2010 J. K. Aggarwal Prize from the International Association for Pattern Recognition; the 2017 Frank Quick Faculty Research Innovation Fellowship; the Louis D. Smullin (’39) Award for Teaching Excellence; and the 2020 PAMI Mark Everingham Prize. In 2021, he was awarded the inaugural Thomas Huang Memorial Prize by the Pattern Analysis and Machine Intelligence Technical Committee and was named a fellow of the Association for the Advancement of Artificial Intelligence. In 2022, he received an honorary doctoral degree from the Universitat Politècnica de Catalunya — BarcelonaTech (UPC).&amp;nbsp;&lt;/p&gt;&lt;p&gt;ACM fellows, the highest honor bestowed by the professional organization, are registered members of the society selected by their peers for&amp;nbsp;outstanding accomplishments in computing and information technology and/or outstanding service to ACM and the larger computing community.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/antonio-torralba-three-mit-alumni-named-acm-fellows-0204</guid><pubDate>Wed, 04 Feb 2026 18:15:00 +0000</pubDate></item><item><title>Brian Hedden named co-associate dean of Social and Ethical Responsibilities of Computing (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/brian-hedden-named-co-associate-dean-serc-0204</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202602/brian-hedden-mit-00.png" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;Brian Hedden PhD ’12 has been appointed co-associate dean of the Social and Ethical Responsibilities of Computing (SERC) at MIT, a cross-cutting initiative in the MIT Schwarzman College of Computing, effective Jan. 16.&lt;/p&gt;&lt;p&gt;Hedden is a professor in the Department of Linguistics and Philosophy, holding an MIT Schwarzman College of Computing shared position with the Department of Electrical Engineering and Computer Science (EECS). He joined the MIT faculty last fall from the Australian National University and the University of Sydney, where he previously served as a faculty member. He earned his BA from Princeton University and his PhD from MIT, both in philosophy.&lt;/p&gt;&lt;p&gt;“Brian is a natural and compelling choice for SERC, as a philosopher whose work speaks directly to the intellectual challenges facing education and research today, particularly in computing and AI. His expertise in epistemology, decision theory, and ethics addresses questions that have become increasingly urgent in an era defined by information abundance and artificial intelligence. His scholarship exemplifies the kind of interdisciplinary inquiry that SERC exists to advance,” says Dan Huttenlocher, dean of the MIT Schwarzman College of Computing and the Henry Ellis Warren Professor of Electrical Engineering and Computer Science.&lt;/p&gt;&lt;p&gt;Hedden’s research focuses on how we ought to form beliefs and make decisions, and it explores how philosophical thinking about rationality can yield insights into contemporary ethical issues, including ethics of AI. He is the author of “Reasons without Persons: Rationality, Identity, and Time” (Oxford University Press, 2015) and articles on topics such as collective action problems, legal standards of proof, algorithmic fairness, and political polarization.&lt;/p&gt;&lt;p&gt;Joining co-associate dean Nikos Trichakis, the J.C. Penney Professor of Management at the MIT Sloan School of Management, Hedden will help lead SERC and advance the initiative’s ongoing research, teaching, and engagement efforts. He succeeds professor of philosophy Caspar Hare, who stepped down at the conclusion of his three-year term on Sept. 1, 2025.&lt;/p&gt;&lt;p&gt;Since its inception in 2020, SERC has launched a range of programs and activities designed to cultivate responsible “habits of mind and action” among those who create and deploy computing technologies, while fostering the development of technologies in the public interest.&lt;/p&gt;&lt;p&gt;The SERC Scholars Program invites undergraduate and graduate students to work alongside postdoctoral mentors to explore interdisciplinary ethical challenges in computing. The initiative also hosts an annual prize competition that challenges MIT students to envision the future of computing, publishes a twice-yearly series of case studies, and collaborates on coordinated curricular materials, including active-learning projects, homework assignments, and in-class demonstrations. In 2024, SERC introduced a new seed grant program to support MIT researchers investigating ethical technology development; to date, two rounds of grants have been awarded to 24 projects.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202602/brian-hedden-mit-00.png" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;Brian Hedden PhD ’12 has been appointed co-associate dean of the Social and Ethical Responsibilities of Computing (SERC) at MIT, a cross-cutting initiative in the MIT Schwarzman College of Computing, effective Jan. 16.&lt;/p&gt;&lt;p&gt;Hedden is a professor in the Department of Linguistics and Philosophy, holding an MIT Schwarzman College of Computing shared position with the Department of Electrical Engineering and Computer Science (EECS). He joined the MIT faculty last fall from the Australian National University and the University of Sydney, where he previously served as a faculty member. He earned his BA from Princeton University and his PhD from MIT, both in philosophy.&lt;/p&gt;&lt;p&gt;“Brian is a natural and compelling choice for SERC, as a philosopher whose work speaks directly to the intellectual challenges facing education and research today, particularly in computing and AI. His expertise in epistemology, decision theory, and ethics addresses questions that have become increasingly urgent in an era defined by information abundance and artificial intelligence. His scholarship exemplifies the kind of interdisciplinary inquiry that SERC exists to advance,” says Dan Huttenlocher, dean of the MIT Schwarzman College of Computing and the Henry Ellis Warren Professor of Electrical Engineering and Computer Science.&lt;/p&gt;&lt;p&gt;Hedden’s research focuses on how we ought to form beliefs and make decisions, and it explores how philosophical thinking about rationality can yield insights into contemporary ethical issues, including ethics of AI. He is the author of “Reasons without Persons: Rationality, Identity, and Time” (Oxford University Press, 2015) and articles on topics such as collective action problems, legal standards of proof, algorithmic fairness, and political polarization.&lt;/p&gt;&lt;p&gt;Joining co-associate dean Nikos Trichakis, the J.C. Penney Professor of Management at the MIT Sloan School of Management, Hedden will help lead SERC and advance the initiative’s ongoing research, teaching, and engagement efforts. He succeeds professor of philosophy Caspar Hare, who stepped down at the conclusion of his three-year term on Sept. 1, 2025.&lt;/p&gt;&lt;p&gt;Since its inception in 2020, SERC has launched a range of programs and activities designed to cultivate responsible “habits of mind and action” among those who create and deploy computing technologies, while fostering the development of technologies in the public interest.&lt;/p&gt;&lt;p&gt;The SERC Scholars Program invites undergraduate and graduate students to work alongside postdoctoral mentors to explore interdisciplinary ethical challenges in computing. The initiative also hosts an annual prize competition that challenges MIT students to envision the future of computing, publishes a twice-yearly series of case studies, and collaborates on coordinated curricular materials, including active-learning projects, homework assignments, and in-class demonstrations. In 2024, SERC introduced a new seed grant program to support MIT researchers investigating ethical technology development; to date, two rounds of grants have been awarded to 24 projects.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/brian-hedden-named-co-associate-dean-serc-0204</guid><pubDate>Wed, 04 Feb 2026 18:25:00 +0000</pubDate></item><item><title>[NEW] What a16z is actually funding (and what it’s ignoring) when it comes to AI infra (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;Andreessen Horowitz just raised&amp;nbsp;a whopping&amp;nbsp;new&amp;nbsp;$15 billion&amp;nbsp;in funding.&amp;nbsp;And a&amp;nbsp;$1.7 billion&amp;nbsp;chunk&amp;nbsp;of that is going to&amp;nbsp;its&amp;nbsp;infrastructure&amp;nbsp;team,&amp;nbsp;the one responsible for some of its biggest, most prominent&amp;nbsp;AI investments, including&amp;nbsp;Black Forest Labs, Cursor, OpenAI,&amp;nbsp;ElevenLabs, Ideogram,&amp;nbsp;Fal,&amp;nbsp;and dozens of others.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 05 Feb 2026 07:02:50 +0000</lastBuildDate><item><title>What a16z is actually funding (and what it’s ignoring) when it comes to AI infra (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;Andreessen Horowitz just raised&amp;nbsp;a whopping&amp;nbsp;new&amp;nbsp;$15 billion&amp;nbsp;in funding.&amp;nbsp;And a&amp;nbsp;$1.7 billion&amp;nbsp;chunk&amp;nbsp;of that is going to&amp;nbsp;its&amp;nbsp;infrastructure&amp;nbsp;team,&amp;nbsp;the one responsible for some of its biggest, most prominent&amp;nbsp;AI investments, including&amp;nbsp;Black Forest Labs, Cursor, OpenAI,&amp;nbsp;ElevenLabs, Ideogram,&amp;nbsp;Fal,&amp;nbsp;and dozens of others.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
 
 
@@ -587,7 +103,7 @@ Modern search systems are increasingly designed to process heterogeneous documen
 
 
 
-&lt;p class="has-text-align-left wp-block-paragraph"&gt;Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/</guid><pubDate>Wed, 04 Feb 2026 20:19:12 +0000</pubDate></item><item><title>[NEW] A16z just raised $1.7B for AI infrastructure. Here’s where it’s going. (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200" /&gt;&lt;/div&gt;&lt;div class="jwppp-video-box" id="jwppp-video-box-30896071"&gt;
+&lt;p class="has-text-align-left wp-block-paragraph"&gt;Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/</guid><pubDate>Wed, 04 Feb 2026 20:19:12 +0000</pubDate></item><item><title>A16z just raised $1.7B for AI infrastructure. Here’s where it’s going. (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200" /&gt;&lt;/div&gt;&lt;div class="jwppp-video-box" id="jwppp-video-box-30896071"&gt;
 
 
 
@@ -635,7 +151,7 @@ Modern search systems are increasingly designed to process heterogeneous documen
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/</guid><pubDate>Wed, 04 Feb 2026 20:24:12 +0000</pubDate></item><item><title>[NEW] Should AI chatbots have ads? Anthropic says no. (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/</link><description>&lt;header&gt;
+&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/</guid><pubDate>Wed, 04 Feb 2026 20:24:12 +0000</pubDate></item><item><title>Should AI chatbots have ads? Anthropic says no. (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -931,7 +447,7 @@ Modern search systems are increasingly designed to process heterogeneous documen
         &lt;/div&gt;
     &lt;/div&gt;
               &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/</guid><pubDate>Wed, 04 Feb 2026 21:15:07 +0000</pubDate></item><item><title>[NEW] Amazon to begin testing AI tools for film and TV production next month (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/Amazon-HouseofDavid.jpg?w=1080" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last summer, Amazon MGM Studios launched a dedicated AI Studio to develop proprietary AI tools to streamline TV and film production, with a focus on areas like improving character consistency across shots and supporting pre- and post-production.&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/</guid><pubDate>Wed, 04 Feb 2026 21:15:07 +0000</pubDate></item><item><title>Amazon to begin testing AI tools for film and TV production next month (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/Amazon-HouseofDavid.jpg?w=1080" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last summer, Amazon MGM Studios launched a dedicated AI Studio to develop proprietary AI tools to streamline TV and film production, with a focus on areas like improving character consistency across shots and supporting pre- and post-production.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;According to a report from Reuters, those tools are now ready to move beyond internal testing. Amazon will begin a closed beta program in March, inviting industry partners to try out its AI tools.&lt;/p&gt;
 
@@ -971,7 +487,7 @@ Modern search systems are increasingly designed to process heterogeneous documen
 
 &lt;p class="wp-block-paragraph"&gt;The conversations around AI are only getting louder as more companies experiment with these new tools. For instance, Netflix has also jumped on the AI bandwagon, with co-CEO Ted Sarandos revealing that its series “The Eternaut” used generative AI to create a building collapse scene.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;In recent years, Amazon has cited its success with AI as a factor in layoffs. The company recently eliminated 16,000 jobs in January, following 14,000 layoffs last October.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/</guid><pubDate>Wed, 04 Feb 2026 21:26:43 +0000</pubDate></item><item><title>[NEW] AI SRE Resolve AI confirms $125M raise, unicorn valuation (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1319917047.jpg?resize=1200,764" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Resolve AI, a startup automating the work of system reliability engineering (SRE), aka troubleshooting system&amp;nbsp;failures, has announced a $125 million Series A at a $1 billion valuation.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;In recent years, Amazon has cited its success with AI as a factor in layoffs. The company recently eliminated 16,000 jobs in January, following 14,000 layoffs last October.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/</guid><pubDate>Wed, 04 Feb 2026 21:26:43 +0000</pubDate></item><item><title>AI SRE Resolve AI confirms $125M raise, unicorn valuation (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1319917047.jpg?resize=1200,764" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Resolve AI, a startup automating the work of system reliability engineering (SRE), aka troubleshooting system&amp;nbsp;failures, has announced a $125 million Series A at a $1 billion valuation.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The round was led by Lightspeed Venture Partners, with participation of existing investors including Greylock Partners, Unusual Ventures, Artisanal Ventures, and A*.&lt;/p&gt;
 
@@ -1037,7 +553,7 @@ Modern search systems are increasingly designed to process heterogeneous documen
 			
 		&lt;/div&gt;
 	&lt;/div&gt;
-&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/</guid><pubDate>Wed, 04 Feb 2026 21:39:26 +0000</pubDate></item><item><title>[NEW] Meet Gizmo: A TikTok for interactive, vibe-coded mini apps (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Gizmo, a TikTok-like app for vibe-coded mini applications, is offering a new way to create interactive media. The relatively new mobile app from the startup Atma Sciences lets anyone create experiences using text, photos, sound, and touch, which are then displayed in a vertical feed, similar to TikTok or Reels. But unlike traditional short-form video apps, you don’t just watch and scroll in Gizmo — you play.&lt;/p&gt;
+&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/</guid><pubDate>Wed, 04 Feb 2026 21:39:26 +0000</pubDate></item><item><title>Meet Gizmo: A TikTok for interactive, vibe-coded mini apps (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Gizmo, a TikTok-like app for vibe-coded mini applications, is offering a new way to create interactive media. The relatively new mobile app from the startup Atma Sciences lets anyone create experiences using text, photos, sound, and touch, which are then displayed in a vertical feed, similar to TikTok or Reels. But unlike traditional short-form video apps, you don’t just watch and scroll in Gizmo — you play.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Depending on the type of “Gizmo” you encounter, you might poke the screen, swipe, tap, draw, drag, and more to interact with the mini app. These Gizmos aren’t just games but are more like digital toys — things that could include interactive puzzles, memes, art, animation, or anything else a creator can dream up.&lt;/p&gt;
 
@@ -1151,7 +667,7 @@ Modern search systems are increasingly designed to process heterogeneous documen
 
 &lt;p class="wp-block-paragraph"&gt;Gizmo’s growth from October to December was 312%, with December installs up 50% month-over-month and November installs up 180% from October. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The app is available on both iOS and Android.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/</guid><pubDate>Wed, 04 Feb 2026 21:45:32 +0000</pubDate></item><item><title>[NEW] Google’s Gemini app has surpassed 750M monthly active users (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’s fourth-quarter 2025 earnings. This figure illustrates the rapid consumer adoption of Gemini, which has quickly become a prominent player in the AI space.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The app is available on both iOS and Android.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/</guid><pubDate>Wed, 04 Feb 2026 21:45:32 +0000</pubDate></item><item><title>Google’s Gemini app has surpassed 750M monthly active users (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’s fourth-quarter 2025 earnings. This figure illustrates the rapid consumer adoption of Gemini, which has quickly become a prominent player in the AI space.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Last quarter, Google reported 650 million monthly active users for Gemini, indicating substantial growth in a short period. In comparison, Meta AI has reported nearly 500 million monthly users. However, while Gemini is gaining traction, it still trails behind its biggest rival, ChatGPT, which is estimated to have around 810 million MAUs in late 2025.&lt;/p&gt;
 
@@ -1221,7 +737,7 @@ Modern search systems are increasingly designed to process heterogeneous documen
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“The launch of Gemini 3 was a major milestone, and we have great momentum. Our first party models, like Gemini, now process over 10 billion tokens per minute via direct API use by our customers, and the Gemini App has grown to over 750 million monthly active users. Search saw more usage than ever before, with AI continuing to drive an expansionary moment,” Pichai stated in today’s release.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/</guid><pubDate>Wed, 04 Feb 2026 22:53:46 +0000</pubDate></item><item><title>[NEW] Alphabet won’t talk about the Google-Apple AI deal, even to investors (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/imgi_38_mp840x830mattef8f8f8t-pad1000x1000f8f8f8.jpg?w=1000" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Alphabet declined to answer one of its investors during questions about Google’s AI deal with Apple on Wednesday’s fourth-quarter earnings call. Instead of responding to an analyst’s question about how the tech giant is thinking about AI partnerships, such as the one with Apple to power AI for Siri, the question was completely ignored.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“The launch of Gemini 3 was a major milestone, and we have great momentum. Our first party models, like Gemini, now process over 10 billion tokens per minute via direct API use by our customers, and the Gemini App has grown to over 750 million monthly active users. Search saw more usage than ever before, with AI continuing to drive an expansionary moment,” Pichai stated in today’s release.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/</guid><pubDate>Wed, 04 Feb 2026 22:53:46 +0000</pubDate></item><item><title>Alphabet won’t talk about the Google-Apple AI deal, even to investors (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/imgi_38_mp840x830mattef8f8f8t-pad1000x1000f8f8f8.jpg?w=1000" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Alphabet declined to answer one of its investors during questions about Google’s AI deal with Apple on Wednesday’s fourth-quarter earnings call. Instead of responding to an analyst’s question about how the tech giant is thinking about AI partnerships, such as the one with Apple to power AI for Siri, the question was completely ignored.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;That decision tells us something, though — Alphabet isn’t ready to talk about how this partnership will impact its core business, which is increasingly focused on AI. &lt;/p&gt;
 
@@ -1261,7 +777,7 @@ Modern search systems are increasingly designed to process heterogeneous documen
 
 &lt;p class="wp-block-paragraph"&gt;How this will all play out longer-term is still an open question — and for today, an unanswered one, apparently. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Overall, the Apple Siri deal barely received any mention during Alphabet’s earnings call on Wednesday. Sundar Pichai only noted he was pleased that Apple’s “preferred cloud provider” and would be helping to develop “the next generation of Apple foundation models based on Gemini technology.” Google’s Chief Business Officer Philipp Schindler used the exact same wording when mentioning Apple, as well.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/</guid><pubDate>Wed, 04 Feb 2026 23:28:31 +0000</pubDate></item><item><title>[NEW] Sam Altman got exceptionally testy over Claude Super Bowl ads (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-DSC02881.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic’s Super Bowl commercial, one of four ads the AI lab dropped on Wednesday, begins with the word “BETRAYAL” splashed boldly across the screen. The camera pans to a man earnestly asking a chatbot (obviously intended to depict ChatGPT) for advice on how to talk to his mom.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Overall, the Apple Siri deal barely received any mention during Alphabet’s earnings call on Wednesday. Sundar Pichai only noted he was pleased that Apple’s “preferred cloud provider” and would be helping to develop “the next generation of Apple foundation models based on Gemini technology.” Google’s Chief Business Officer Philipp Schindler used the exact same wording when mentioning Apple, as well.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/</guid><pubDate>Wed, 04 Feb 2026 23:28:31 +0000</pubDate></item><item><title>Sam Altman got exceptionally testy over Claude Super Bowl ads (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-DSC02881.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic’s Super Bowl commercial, one of four ads the AI lab dropped on Wednesday, begins with the word “BETRAYAL” splashed boldly across the screen. The camera pans to a man earnestly asking a chatbot (obviously intended to depict ChatGPT) for advice on how to talk to his mom.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The bot, portrayed by a blonde woman, offers some classic bits of advice. Start by listening. Try a nature walk! And then twists into an ad for a fictitious (we hope!) cougar-dating site called Golden Encounters. Anthropic finishes the spot by saying that while ads are coming to AI, they won’t be coming to its own chatbot, Claude.&lt;/p&gt;
 
@@ -1391,4 +907,534 @@ Modern search systems are increasingly designed to process heterogeneous documen
 
 &lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
 [embedded content]
-&lt;/p&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/</guid><pubDate>Thu, 05 Feb 2026 00:45:11 +0000</pubDate></item></channel></rss>
+&lt;/p&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/</guid><pubDate>Thu, 05 Feb 2026 00:45:11 +0000</pubDate></item><item><title>[NEW] Paza: Introducing automatic speech recognition benchmarks and models for low resource languages (Microsoft Research)</title><link>https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/</link><description>&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Three white line icons on a blue‑to‑purple gradient background: a vertical audio waveform on the left, a globe showing Africa and Europe in the center, and a network on the right." class="wp-image-1160744" height="788" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Paza-BlogHeroFeature-1400x788-1.jpg" width="1400" /&gt;&lt;/figure&gt;
+
+
+
+&lt;div class="wp-block-msr-immersive-section alignfull row wp-block-msr-immersive-section"&gt;
+	
+	&lt;div class="container"&gt;
+		&lt;div class="wp-block-msr-immersive-section__inner wp-block-msr-immersive-section__inner--narrow"&gt;
+			&lt;div class="wp-block-columns mb-10 pb-1 pr-1 is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex"&gt;
+&lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
+&lt;h2 class="wp-block-heading h3" id="at-a-glance"&gt;At a glance&lt;/h2&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft Research releases PazaBench and Paza automatic speech recognition models&lt;/strong&gt;, advancing speech technology for low resource languages.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Human-centered pipeline for low-resource languages: &lt;/strong&gt;Built for and tested by communities, Paza is an end-to-end, continuous pipeline that elevates historically under-represented languages and makes speech models usable in real-world, low-resource contexts.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;First-of-its-kind ASR leaderboard, starting with African languages: &lt;/strong&gt;Pazabench is the first automatic speech recognition (ASR) leaderboard for low-resource languages. Launching with 39 African languages and 51 state-of-the-art models, it tracks three key metrics across leading public and community datasets.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Human-centered&amp;nbsp;Paza&amp;nbsp;ASR&amp;nbsp;models:&lt;/strong&gt;&amp;nbsp;Minimal&amp;nbsp;data, fine-tuned&amp;nbsp;ASR models&amp;nbsp;grounded in&amp;nbsp;real-world&amp;nbsp;testing&amp;nbsp;with farmers on everyday mobile devices, covering&amp;nbsp;six&amp;nbsp;Kenyan languages:&amp;nbsp;Swahili,&amp;nbsp;Dholuo, Kalenjin, Kikuyu, Maasai,&amp;nbsp;and Somali.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;/div&gt;
+
+
+
+&lt;p&gt;According to the 2025&amp;nbsp;Microsoft AI Diffusion Report&amp;nbsp;approximately one&amp;nbsp;in&amp;nbsp;six&amp;nbsp;people globally had used a generative AI product.&amp;nbsp;Yet for billions of&amp;nbsp;people,&amp;nbsp;the promise of voice interaction still falls short, and&amp;nbsp;whilst&amp;nbsp;AI is becoming increasingly multilingual, a key question&amp;nbsp;remains:&amp;nbsp;&lt;em&gt;&lt;strong&gt;Do&amp;nbsp;these models&amp;nbsp;actually work&amp;nbsp;for all languages and the people who rely on them?&lt;/strong&gt;&lt;/em&gt;&amp;nbsp;This challenge is one we first confronted through&amp;nbsp;Project Gecko—a collaboration between Microsoft Research and&amp;nbsp;Digital&amp;nbsp;Green&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;,&amp;nbsp;where&amp;nbsp;field teams across Africa and India focused on building usable AI tools for farmers.&lt;/p&gt;
+
+
+
+&lt;p&gt;Gecko revealed how often speech systems fail in real‑world, low‑resource environments—where many languages go&amp;nbsp;unrecognized&amp;nbsp;and non‑Western accents are frequently misunderstood. Yet speech remains the primary medium of communication globally. For communities across Kenya, Africa, and beyond, this mismatch creates cascading challenges: without foundational data&amp;nbsp;representing&amp;nbsp;their languages and cultures, innovation stalls, and the digital and AI divides widen.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Paza addresses this with a human-centered speech models pipeline. Through&amp;nbsp;PazaBench, it benchmarks low-resource languages using both public and community-sourced data, and through Paza&amp;nbsp;models, it&amp;nbsp;fine-tunes&amp;nbsp;speech models&amp;nbsp;to deliver outsized gains in mid- and low-resource languages, evaluating with community testers using real devices in real contexts. Upcoming playbooks complement this work by sharing practical guidance on&amp;nbsp;dataset creation,&amp;nbsp;fine-tuning&amp;nbsp;approaches&amp;nbsp;with minimal data&amp;nbsp;and evaluation considerations, introducing a continuous pipeline that&amp;nbsp;enables&amp;nbsp;researchers&amp;nbsp;and practitioners to build and evaluate systems grounded in real human use.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="how-project-gecko-informed-paza-s-design"&gt;How Project Gecko informed Paza’s design&lt;/h2&gt;
+
+
+
+&lt;p&gt;In addition to building cost-effective, adaptable AI systems, the extensive&amp;nbsp;fieldwork on&amp;nbsp;Project Gecko highlighted an important lesson:&amp;nbsp;&lt;strong&gt;&lt;em&gt;Building usable speech&amp;nbsp;models&amp;nbsp;in low‑resource settings is not only a data problem,&amp;nbsp;but also&amp;nbsp;a design and evaluation problem.&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;For AI systems to be useful, they must work in local languages, support hands‑free interaction through voice, text, and video, and deliver information in formats that fit real-world environments, that is, on low-bandwidth&amp;nbsp;mobile devices,&amp;nbsp;in&amp;nbsp;noisy settings, and&amp;nbsp;for&amp;nbsp;varying literacy levels.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;These insights shaped the design of Paza, from&amp;nbsp;the&amp;nbsp;Swahili&amp;nbsp;phrase&amp;nbsp;&lt;em&gt;&lt;strong&gt;paza&amp;nbsp;sauti&lt;/strong&gt;&lt;/em&gt;&amp;nbsp;meaning “to project,” or “to raise your voice.” &amp;nbsp;The name reflects our intent: rather than simply adding more languages to existing systems,&lt;strong&gt;&amp;nbsp;Paza is about co-creating speech technologies in partnership with the communities who use them.&lt;/strong&gt;&amp;nbsp;Guided by this principle, Paza puts human use&amp;nbsp;first,&amp;nbsp;which&amp;nbsp;enables&amp;nbsp;model improvement.&amp;nbsp;&lt;/p&gt;
+
+
+
+	&lt;div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide"&gt;
+		
+
+		&lt;p class="msr-promo__label text-gray-800 text-center text-uppercase"&gt;
+		&lt;span class="px-4 bg-white display-inline-block font-weight-semibold small"&gt;Spotlight: Microsoft research newsletter&lt;/span&gt;
+	&lt;/p&gt;
+	
+	&lt;div class="row pt-3 pb-4 align-items-center"&gt;
+						
+			
+			&lt;div class="msr-promo__content p-3 px-5 col-12 col-md"&gt;
+
+									&lt;h2 class="h4"&gt;Microsoft Research Newsletter&lt;/h2&gt;
+				
+								&lt;p class="large" id="microsoft-research-newsletter"&gt;Stay connected to the research community at Microsoft.&lt;/p&gt;
+				
+								
+							&lt;/div&gt;&lt;!--/.msr-promo__content--&gt;
+	&lt;/div&gt;&lt;!--/.msr-promo__inner-wrap--&gt;
+&lt;span class="sr-only" id="label-external-link"&gt;Opens in a new tab&lt;/span&gt;	&lt;/div&gt;&lt;!--/.msr-promo--&gt;
+	
+
+
+&lt;h2 class="wp-block-heading" id="pazabench-the-first-asr-leaderboard-for-low-resource-languages"&gt;PazaBench: The first ASR leaderboard for low-resource languages&lt;/h2&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;PazaBench&lt;/strong&gt; is the first automatic speech recognition (ASR) leaderboard dedicated to low‑resource languages. It launches&amp;nbsp;with&amp;nbsp;initial&amp;nbsp;coverage&amp;nbsp;for&amp;nbsp;39 African languages and benchmarks&amp;nbsp;52 state‑of‑the‑art ASR and language models, including newly released Paza ASR models for six Kenyan languages. The platform aggregates leading public and community datasets from diverse styles of speech including conversational, scripted read aloud, unscripted, broadcast news, and domain-specific data—into one easy‑to‑explore platform per language.&amp;nbsp;This makes it easier for&amp;nbsp;researchers, developers, and product teams to easily assess which models perform best across underserved languages and diverse regions, understand trade-offs between speed and accuracy&amp;nbsp;while&amp;nbsp;identifying&amp;nbsp;where gaps persist.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;PazaBench tracks three core metrics:&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;ol class="wp-block-list"&gt;
+&lt;li&gt;&lt;strong&gt;Character Error Rate (CER)&lt;/strong&gt; which is important for languages with rich word forms, where meaning is built by combining word parts, therefore errors at the character level can significantly impact meaning&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Word Error Rate (WER)&lt;/strong&gt; for word-level transcript accuracy&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;RTFx (Inverse Real‑Time Factor)&lt;/strong&gt; which measures how fast transcription runs relative to real‑time audio duration&lt;em&gt;.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;/figure&gt;
+
+
+
+&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;em&gt;More than scores,&amp;nbsp;PazaBench&amp;nbsp;standardizes evaluation to prioritize dataset gaps,&amp;nbsp;identify&amp;nbsp;underperforming languages, and highlight where localized models beat&amp;nbsp;wider coverage ASR models—offering early evidence of&amp;nbsp;the value of African‑centric innovation.&lt;/em&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+
+
+&lt;h2 class="wp-block-heading" id="paza-asr-models-built-with-and-for-kenyan-languages"&gt;Paza ASR Models: Built with and for Kenyan languages&lt;/h2&gt;
+
+
+
+&lt;p&gt;The Paza ASR models&amp;nbsp;consist of&amp;nbsp;three fine-tuned ASR models built on top of state‑of‑the‑art model architectures. Each model targets&amp;nbsp;&lt;em&gt;Swahili,&amp;nbsp;&lt;/em&gt;a mid-resource language and five low‑resource Kenyan languages;&amp;nbsp;&lt;em&gt;Dholuo, Kalenjin,&amp;nbsp;Kikuyu,&amp;nbsp;Maasai&amp;nbsp;and Somali&lt;/em&gt;.&amp;nbsp;The models are&amp;nbsp;fine-tuned&amp;nbsp;on&amp;nbsp;public and curated proprietary datasets.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Fine‑tuning the three models allowed us to explore supportive approaches toward a shared goal: building speech recognition systems that are usable for local contexts starting with the six Kenyan languages and bridging the gaps of multi-lingual and multi-modal video question and answering through the MMCT agent.&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;figcaption class="wp-element-caption"&gt;See the MMCT agent in action in the field&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;Early versions of two models in Kikuyu and Swahili were deployed on mobile devices and tested directly with farmers in real‑world settings, enabling the team to observe how the models performed with everyday use. Farmers provided in‑the‑moment feedback on accuracy, usability, and relevance, highlighting where transcripts broke down, which errors were most disruptive, and what improvements would make the models more helpful in practice. This feedback loop directly informed subsequent fine‑tuning, ensuring model improvements were driven not only by benchmark scores, but by the needs and expectations of the communities they are intended to serve.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;Here is how Paza models compare to&amp;nbsp;three&amp;nbsp;state-of-the-art&amp;nbsp;ASR&amp;nbsp;models&amp;nbsp;today:&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 1: Character Error Rate (CER) comparison across the Kenyan languages for several state‑of‑the‑art ASR models including the Paza models. Lower CER indicates better transcription performance." class="wp-image-1161323" height="1287" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG1_overall_cer_grouped_sorted_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 1: Character Error Rate (CER) comparison across the Kenyan languages for several state‑of‑the‑art ASR models including the Paza models. Lower CER indicates better transcription performance.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 2: Word Error Rate (WER) comparison across the Kenyan languages for several state‑of‑the‑art ASR models including the Paza models. Lower WER indicates better transcription performance." class="wp-image-1161325" height="1287" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG2_overall_wer_grouped_sorted_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 2: Word Error Rate (WER) comparison across the Kenyan languages for several state‑of‑the‑art ASR models including the Paza models. Lower WER indicates better transcription performance.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;1) Paza‑Phi‑4‑Multimodal‑Instruct&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Microsoft’s Phi‑4 multimodal‑instruct&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt; is a next‑generation small language model built to reason across audio, text, and vision. With Paza, we extend its audio capabilities, adapting a powerful multimodal architecture into a high‑quality automatic speech recognition (ASR) system for low‑resource African languages.&lt;/p&gt;
+
+
+
+&lt;p&gt;Fine‑tuned on unified multilingual speech datasets, the model was optimized specifically for transcription in the six languages. The model preserves its underlying transformer architecture and multi-modal capabilities, while selectively fine-tuning only the audio‑specific components, enabling strong cross‑lingual generalization.&lt;/p&gt;
+
+
+
+&lt;p&gt;As the results below show, this model delivers consistent improvements in transcription quality across all six languages.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 3: Character Error Rate (CER) comparison across&amp;nbsp;the six&amp;nbsp;languages for the base&amp;nbsp;model&amp;nbsp;versus the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance." class="wp-image-1161376" height="1063" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG3_phi_cer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 3: &lt;em&gt;Character Error Rate (CER) comparison across&amp;nbsp;the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base&amp;nbsp;model&amp;nbsp;versus the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 4: Word Error Rate (WER) comparison across the six languages for the base model versus the finetuned Paza model. Lower WER indicates better transcription performance." class="wp-image-1161378" height="1063" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG4_phi_wer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 4: Word Error Rate (WER) comparison across the six languages for the base model versus the finetuned Paza model. Lower WER indicates better transcription performance.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;2) Paza‑MMS‑1B‑All&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;This model is fine-tuned on Meta’s mms-1b-all model, which employs a large-scale Wav2Vec2.0-style encoder with lightweight language-specific adapters to enable efficient multilingual specialization. For this release, each of the six language adapters was fine‑tuned independently on curated low‑resource datasets, allowing targeted adaptation while keeping the shared encoder largely frozen.&lt;/p&gt;
+
+
+
+&lt;p&gt;As shown in the figures below, this model improves transcription accuracy while maintaining the model’s strong cross‑lingual generalization.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 5: Character Error Rate (CER)&amp;nbsp;comparison across the six&amp;nbsp;languages for the base model&amp;nbsp;versus&amp;nbsp;the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance." class="wp-image-1161380" height="1160" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG5_mms_cer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 5: &lt;em&gt;Character Error Rate (CER)&amp;nbsp;comparison across the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base model&amp;nbsp;versus&amp;nbsp;the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 6: Word Error Rate (WER)&amp;nbsp;comparison across the six&amp;nbsp;languages for the base model&amp;nbsp;versus the finetuned Paza model.&amp;nbsp;Lower WER indicates better transcription performance." class="wp-image-1161382" height="1160" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG6_mms_wer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 6: &lt;em&gt;Word Error Rate (WER)&amp;nbsp;comparison across the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base model&amp;nbsp;versus the finetuned Paza model.&amp;nbsp;Lower WER indicates better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;3) Paza‑Whisper‑Large‑v3‑Turbo&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;This model is finetuned on OpenAI’s whisper-large-v3-turbo&amp;nbsp;base model. Whisper is a transformer-based encoder–decoder model which&amp;nbsp;delivers robust automatic speech recognition (ASR)&amp;nbsp;capabilities. This model was fine‑tuned on the entire unified multilingual ASR dataset,&amp;nbsp;on&amp;nbsp;the mentioned six languages, to encourage cross-lingual generalization.&amp;nbsp;In addition, an extra post‑processing step was applied to address the known Whisper hallucination failure modes, improving transcription reliability.&lt;/p&gt;
+
+
+
+&lt;p&gt;As shown below, this release achieves improved transcription accuracy while retaining Whisper’s robustness.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 7: Character Error Rate (CER) comparison across the six&amp;nbsp;languages for the base model versus the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance." class="wp-image-1161338" height="1081" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG7whisper_cer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 7: &lt;em&gt;Character Error Rate (CER) comparison across the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base model versus the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 8: Word Error Rate (WER) comparison across the six&amp;nbsp;languages for the base model versus the finetuned Paza model.&amp;nbsp;Lower WER indicates better transcription performance." class="wp-image-1161341" height="1081" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG8_whisper_wer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 8: &lt;em&gt;Word Error Rate (WER) comparison across the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base model versus the finetuned Paza model.&amp;nbsp;Lower WER indicates better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h2 class="wp-block-heading" id="where-do-we-go-from-here"&gt;Where do we go from here&lt;/h2&gt;
+
+
+
+&lt;p&gt;AI is reshaping how the world communicates. Designing with people, not just for them, means looking beyond the languages that are already well‑served. We plan to expand PazaBench beyond African languages and evaluate state‑of‑the‑art ASR models across&amp;nbsp;more low‑resource languages globally. The Paza ASR models are an early step; truly supporting small and under‑represented languages requires dedicated datasets, strong local partnerships, and rigorous evaluation. Meaningful progress depends on sustained collaboration with the communities who speak these languages, and expanding responsibly means prioritizing depth and quality over broad but shallow coverage.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;As we continue this work,&amp;nbsp;we’re&amp;nbsp;distilling our methods into a forthcoming playbook to help the broader ecosystem curate datasets, fine‑tune responsibly, and evaluate models in real‑world conditions. And we’re not stopping at speech—additional&amp;nbsp;playbooks will guide&amp;nbsp;teams&amp;nbsp;building AI tools and applications for multilingual, multicultural contexts, and give them practical recommendations for deploying across diverse communities.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Together, these guides—grounded in technical advances and community‑driven design—share our learnings to help researchers, engineers, and designers build more human‑centered AI systems.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="acknowledgements"&gt;Acknowledgements&lt;/h2&gt;
+
+
+
+&lt;p&gt;The following researchers played an integral role in this work: Najeeb Abdulhamid, Felermino Ali, Liz Ankrah, Kevin Chege, Ogbemi Ekwejunor-Etchie, Ignatius Ezeani, Tanuja Ganu, Antonis Krasakis, Mercy Kwambai, Samuel Maina, Muchai Mercy, Danlami Mohammed, Nick Mumero, Martin Mwiti, Stephanie Nyairo, Millicent Ochieng and Jacki O’Neill.&lt;/p&gt;
+
+
+
+&lt;p&gt;We would like to thank the Digital Green&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt; team—Rikin Gandhi, Alex Mwaura, Jacqueline Wang’ombe, Kevin Mugambi, Lorraine Nyambura, Juan Pablo, Nereah Okanga, Ramaskanda R.S, Vineet Singh, Nafhtari Wanjiku, Kista Ogot, Samuel Owinya&amp;nbsp;and the community evaluators in Nyeri and Nandi, Kenya — for their valuable contributions to this work.&lt;/p&gt;
+
+
+
+&lt;p&gt;We extend our gratitude to the creators, community contributors, and maintainers of African Next Voices Kenya&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, African Next Voices South Africa&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, ALFFA&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, Digigreen&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, Google FLEURS&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, Mozilla Common Voice&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt; and Naija Voices&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt; whose efforts have been invaluable in advancing African languages speech data.&lt;/p&gt;
+&lt;span class="sr-only" id="label-external-link"&gt;Opens in a new tab&lt;/span&gt;</description><content:encoded>&lt;figure class="wp-block-image size-full"&gt;&lt;img alt="Three white line icons on a blue‑to‑purple gradient background: a vertical audio waveform on the left, a globe showing Africa and Europe in the center, and a network on the right." class="wp-image-1160744" height="788" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Paza-BlogHeroFeature-1400x788-1.jpg" width="1400" /&gt;&lt;/figure&gt;
+
+
+
+&lt;div class="wp-block-msr-immersive-section alignfull row wp-block-msr-immersive-section"&gt;
+	
+	&lt;div class="container"&gt;
+		&lt;div class="wp-block-msr-immersive-section__inner wp-block-msr-immersive-section__inner--narrow"&gt;
+			&lt;div class="wp-block-columns mb-10 pb-1 pr-1 is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex"&gt;
+&lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
+&lt;h2 class="wp-block-heading h3" id="at-a-glance"&gt;At a glance&lt;/h2&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft Research releases PazaBench and Paza automatic speech recognition models&lt;/strong&gt;, advancing speech technology for low resource languages.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Human-centered pipeline for low-resource languages: &lt;/strong&gt;Built for and tested by communities, Paza is an end-to-end, continuous pipeline that elevates historically under-represented languages and makes speech models usable in real-world, low-resource contexts.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;First-of-its-kind ASR leaderboard, starting with African languages: &lt;/strong&gt;Pazabench is the first automatic speech recognition (ASR) leaderboard for low-resource languages. Launching with 39 African languages and 51 state-of-the-art models, it tracks three key metrics across leading public and community datasets.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Human-centered&amp;nbsp;Paza&amp;nbsp;ASR&amp;nbsp;models:&lt;/strong&gt;&amp;nbsp;Minimal&amp;nbsp;data, fine-tuned&amp;nbsp;ASR models&amp;nbsp;grounded in&amp;nbsp;real-world&amp;nbsp;testing&amp;nbsp;with farmers on everyday mobile devices, covering&amp;nbsp;six&amp;nbsp;Kenyan languages:&amp;nbsp;Swahili,&amp;nbsp;Dholuo, Kalenjin, Kikuyu, Maasai,&amp;nbsp;and Somali.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;/div&gt;
+
+
+
+&lt;p&gt;According to the 2025&amp;nbsp;Microsoft AI Diffusion Report&amp;nbsp;approximately one&amp;nbsp;in&amp;nbsp;six&amp;nbsp;people globally had used a generative AI product.&amp;nbsp;Yet for billions of&amp;nbsp;people,&amp;nbsp;the promise of voice interaction still falls short, and&amp;nbsp;whilst&amp;nbsp;AI is becoming increasingly multilingual, a key question&amp;nbsp;remains:&amp;nbsp;&lt;em&gt;&lt;strong&gt;Do&amp;nbsp;these models&amp;nbsp;actually work&amp;nbsp;for all languages and the people who rely on them?&lt;/strong&gt;&lt;/em&gt;&amp;nbsp;This challenge is one we first confronted through&amp;nbsp;Project Gecko—a collaboration between Microsoft Research and&amp;nbsp;Digital&amp;nbsp;Green&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;,&amp;nbsp;where&amp;nbsp;field teams across Africa and India focused on building usable AI tools for farmers.&lt;/p&gt;
+
+
+
+&lt;p&gt;Gecko revealed how often speech systems fail in real‑world, low‑resource environments—where many languages go&amp;nbsp;unrecognized&amp;nbsp;and non‑Western accents are frequently misunderstood. Yet speech remains the primary medium of communication globally. For communities across Kenya, Africa, and beyond, this mismatch creates cascading challenges: without foundational data&amp;nbsp;representing&amp;nbsp;their languages and cultures, innovation stalls, and the digital and AI divides widen.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Paza addresses this with a human-centered speech models pipeline. Through&amp;nbsp;PazaBench, it benchmarks low-resource languages using both public and community-sourced data, and through Paza&amp;nbsp;models, it&amp;nbsp;fine-tunes&amp;nbsp;speech models&amp;nbsp;to deliver outsized gains in mid- and low-resource languages, evaluating with community testers using real devices in real contexts. Upcoming playbooks complement this work by sharing practical guidance on&amp;nbsp;dataset creation,&amp;nbsp;fine-tuning&amp;nbsp;approaches&amp;nbsp;with minimal data&amp;nbsp;and evaluation considerations, introducing a continuous pipeline that&amp;nbsp;enables&amp;nbsp;researchers&amp;nbsp;and practitioners to build and evaluate systems grounded in real human use.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="how-project-gecko-informed-paza-s-design"&gt;How Project Gecko informed Paza’s design&lt;/h2&gt;
+
+
+
+&lt;p&gt;In addition to building cost-effective, adaptable AI systems, the extensive&amp;nbsp;fieldwork on&amp;nbsp;Project Gecko highlighted an important lesson:&amp;nbsp;&lt;strong&gt;&lt;em&gt;Building usable speech&amp;nbsp;models&amp;nbsp;in low‑resource settings is not only a data problem,&amp;nbsp;but also&amp;nbsp;a design and evaluation problem.&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;For AI systems to be useful, they must work in local languages, support hands‑free interaction through voice, text, and video, and deliver information in formats that fit real-world environments, that is, on low-bandwidth&amp;nbsp;mobile devices,&amp;nbsp;in&amp;nbsp;noisy settings, and&amp;nbsp;for&amp;nbsp;varying literacy levels.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;These insights shaped the design of Paza, from&amp;nbsp;the&amp;nbsp;Swahili&amp;nbsp;phrase&amp;nbsp;&lt;em&gt;&lt;strong&gt;paza&amp;nbsp;sauti&lt;/strong&gt;&lt;/em&gt;&amp;nbsp;meaning “to project,” or “to raise your voice.” &amp;nbsp;The name reflects our intent: rather than simply adding more languages to existing systems,&lt;strong&gt;&amp;nbsp;Paza is about co-creating speech technologies in partnership with the communities who use them.&lt;/strong&gt;&amp;nbsp;Guided by this principle, Paza puts human use&amp;nbsp;first,&amp;nbsp;which&amp;nbsp;enables&amp;nbsp;model improvement.&amp;nbsp;&lt;/p&gt;
+
+
+
+	&lt;div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide"&gt;
+		
+
+		&lt;p class="msr-promo__label text-gray-800 text-center text-uppercase"&gt;
+		&lt;span class="px-4 bg-white display-inline-block font-weight-semibold small"&gt;Spotlight: Microsoft research newsletter&lt;/span&gt;
+	&lt;/p&gt;
+	
+	&lt;div class="row pt-3 pb-4 align-items-center"&gt;
+						
+			
+			&lt;div class="msr-promo__content p-3 px-5 col-12 col-md"&gt;
+
+									&lt;h2 class="h4"&gt;Microsoft Research Newsletter&lt;/h2&gt;
+				
+								&lt;p class="large" id="microsoft-research-newsletter"&gt;Stay connected to the research community at Microsoft.&lt;/p&gt;
+				
+								
+							&lt;/div&gt;&lt;!--/.msr-promo__content--&gt;
+	&lt;/div&gt;&lt;!--/.msr-promo__inner-wrap--&gt;
+&lt;span class="sr-only" id="label-external-link"&gt;Opens in a new tab&lt;/span&gt;	&lt;/div&gt;&lt;!--/.msr-promo--&gt;
+	
+
+
+&lt;h2 class="wp-block-heading" id="pazabench-the-first-asr-leaderboard-for-low-resource-languages"&gt;PazaBench: The first ASR leaderboard for low-resource languages&lt;/h2&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;PazaBench&lt;/strong&gt; is the first automatic speech recognition (ASR) leaderboard dedicated to low‑resource languages. It launches&amp;nbsp;with&amp;nbsp;initial&amp;nbsp;coverage&amp;nbsp;for&amp;nbsp;39 African languages and benchmarks&amp;nbsp;52 state‑of‑the‑art ASR and language models, including newly released Paza ASR models for six Kenyan languages. The platform aggregates leading public and community datasets from diverse styles of speech including conversational, scripted read aloud, unscripted, broadcast news, and domain-specific data—into one easy‑to‑explore platform per language.&amp;nbsp;This makes it easier for&amp;nbsp;researchers, developers, and product teams to easily assess which models perform best across underserved languages and diverse regions, understand trade-offs between speed and accuracy&amp;nbsp;while&amp;nbsp;identifying&amp;nbsp;where gaps persist.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;PazaBench tracks three core metrics:&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;ol class="wp-block-list"&gt;
+&lt;li&gt;&lt;strong&gt;Character Error Rate (CER)&lt;/strong&gt; which is important for languages with rich word forms, where meaning is built by combining word parts, therefore errors at the character level can significantly impact meaning&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Word Error Rate (WER)&lt;/strong&gt; for word-level transcript accuracy&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;RTFx (Inverse Real‑Time Factor)&lt;/strong&gt; which measures how fast transcription runs relative to real‑time audio duration&lt;em&gt;.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;/figure&gt;
+
+
+
+&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;em&gt;More than scores,&amp;nbsp;PazaBench&amp;nbsp;standardizes evaluation to prioritize dataset gaps,&amp;nbsp;identify&amp;nbsp;underperforming languages, and highlight where localized models beat&amp;nbsp;wider coverage ASR models—offering early evidence of&amp;nbsp;the value of African‑centric innovation.&lt;/em&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+
+
+&lt;h2 class="wp-block-heading" id="paza-asr-models-built-with-and-for-kenyan-languages"&gt;Paza ASR Models: Built with and for Kenyan languages&lt;/h2&gt;
+
+
+
+&lt;p&gt;The Paza ASR models&amp;nbsp;consist of&amp;nbsp;three fine-tuned ASR models built on top of state‑of‑the‑art model architectures. Each model targets&amp;nbsp;&lt;em&gt;Swahili,&amp;nbsp;&lt;/em&gt;a mid-resource language and five low‑resource Kenyan languages;&amp;nbsp;&lt;em&gt;Dholuo, Kalenjin,&amp;nbsp;Kikuyu,&amp;nbsp;Maasai&amp;nbsp;and Somali&lt;/em&gt;.&amp;nbsp;The models are&amp;nbsp;fine-tuned&amp;nbsp;on&amp;nbsp;public and curated proprietary datasets.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Fine‑tuning the three models allowed us to explore supportive approaches toward a shared goal: building speech recognition systems that are usable for local contexts starting with the six Kenyan languages and bridging the gaps of multi-lingual and multi-modal video question and answering through the MMCT agent.&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;figcaption class="wp-element-caption"&gt;See the MMCT agent in action in the field&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;Early versions of two models in Kikuyu and Swahili were deployed on mobile devices and tested directly with farmers in real‑world settings, enabling the team to observe how the models performed with everyday use. Farmers provided in‑the‑moment feedback on accuracy, usability, and relevance, highlighting where transcripts broke down, which errors were most disruptive, and what improvements would make the models more helpful in practice. This feedback loop directly informed subsequent fine‑tuning, ensuring model improvements were driven not only by benchmark scores, but by the needs and expectations of the communities they are intended to serve.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;Here is how Paza models compare to&amp;nbsp;three&amp;nbsp;state-of-the-art&amp;nbsp;ASR&amp;nbsp;models&amp;nbsp;today:&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 1: Character Error Rate (CER) comparison across the Kenyan languages for several state‑of‑the‑art ASR models including the Paza models. Lower CER indicates better transcription performance." class="wp-image-1161323" height="1287" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG1_overall_cer_grouped_sorted_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 1: Character Error Rate (CER) comparison across the Kenyan languages for several state‑of‑the‑art ASR models including the Paza models. Lower CER indicates better transcription performance.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 2: Word Error Rate (WER) comparison across the Kenyan languages for several state‑of‑the‑art ASR models including the Paza models. Lower WER indicates better transcription performance." class="wp-image-1161325" height="1287" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG2_overall_wer_grouped_sorted_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 2: Word Error Rate (WER) comparison across the Kenyan languages for several state‑of‑the‑art ASR models including the Paza models. Lower WER indicates better transcription performance.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;1) Paza‑Phi‑4‑Multimodal‑Instruct&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Microsoft’s Phi‑4 multimodal‑instruct&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt; is a next‑generation small language model built to reason across audio, text, and vision. With Paza, we extend its audio capabilities, adapting a powerful multimodal architecture into a high‑quality automatic speech recognition (ASR) system for low‑resource African languages.&lt;/p&gt;
+
+
+
+&lt;p&gt;Fine‑tuned on unified multilingual speech datasets, the model was optimized specifically for transcription in the six languages. The model preserves its underlying transformer architecture and multi-modal capabilities, while selectively fine-tuning only the audio‑specific components, enabling strong cross‑lingual generalization.&lt;/p&gt;
+
+
+
+&lt;p&gt;As the results below show, this model delivers consistent improvements in transcription quality across all six languages.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 3: Character Error Rate (CER) comparison across&amp;nbsp;the six&amp;nbsp;languages for the base&amp;nbsp;model&amp;nbsp;versus the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance." class="wp-image-1161376" height="1063" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG3_phi_cer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 3: &lt;em&gt;Character Error Rate (CER) comparison across&amp;nbsp;the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base&amp;nbsp;model&amp;nbsp;versus the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 4: Word Error Rate (WER) comparison across the six languages for the base model versus the finetuned Paza model. Lower WER indicates better transcription performance." class="wp-image-1161378" height="1063" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG4_phi_wer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 4: Word Error Rate (WER) comparison across the six languages for the base model versus the finetuned Paza model. Lower WER indicates better transcription performance.&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;2) Paza‑MMS‑1B‑All&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;This model is fine-tuned on Meta’s mms-1b-all model, which employs a large-scale Wav2Vec2.0-style encoder with lightweight language-specific adapters to enable efficient multilingual specialization. For this release, each of the six language adapters was fine‑tuned independently on curated low‑resource datasets, allowing targeted adaptation while keeping the shared encoder largely frozen.&lt;/p&gt;
+
+
+
+&lt;p&gt;As shown in the figures below, this model improves transcription accuracy while maintaining the model’s strong cross‑lingual generalization.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 5: Character Error Rate (CER)&amp;nbsp;comparison across the six&amp;nbsp;languages for the base model&amp;nbsp;versus&amp;nbsp;the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance." class="wp-image-1161380" height="1160" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG5_mms_cer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 5: &lt;em&gt;Character Error Rate (CER)&amp;nbsp;comparison across the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base model&amp;nbsp;versus&amp;nbsp;the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 6: Word Error Rate (WER)&amp;nbsp;comparison across the six&amp;nbsp;languages for the base model&amp;nbsp;versus the finetuned Paza model.&amp;nbsp;Lower WER indicates better transcription performance." class="wp-image-1161382" height="1160" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG6_mms_wer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 6: &lt;em&gt;Word Error Rate (WER)&amp;nbsp;comparison across the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base model&amp;nbsp;versus the finetuned Paza model.&amp;nbsp;Lower WER indicates better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;3) Paza‑Whisper‑Large‑v3‑Turbo&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;This model is finetuned on OpenAI’s whisper-large-v3-turbo&amp;nbsp;base model. Whisper is a transformer-based encoder–decoder model which&amp;nbsp;delivers robust automatic speech recognition (ASR)&amp;nbsp;capabilities. This model was fine‑tuned on the entire unified multilingual ASR dataset,&amp;nbsp;on&amp;nbsp;the mentioned six languages, to encourage cross-lingual generalization.&amp;nbsp;In addition, an extra post‑processing step was applied to address the known Whisper hallucination failure modes, improving transcription reliability.&lt;/p&gt;
+
+
+
+&lt;p&gt;As shown below, this release achieves improved transcription accuracy while retaining Whisper’s robustness.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 7: Character Error Rate (CER) comparison across the six&amp;nbsp;languages for the base model versus the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance." class="wp-image-1161338" height="1081" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG7whisper_cer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 7: &lt;em&gt;Character Error Rate (CER) comparison across the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base model versus the finetuned Paza model.&amp;nbsp;Lower CER&amp;nbsp;indicates&amp;nbsp;better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Figure 8: Word Error Rate (WER) comparison across the six&amp;nbsp;languages for the base model versus the finetuned Paza model.&amp;nbsp;Lower WER indicates better transcription performance." class="wp-image-1161341" height="1081" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/FIG8_whisper_wer_comparison_NEW-scaled.png" width="2560" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;em&gt;Figure 8: &lt;em&gt;Word Error Rate (WER) comparison across the six&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;languages for the base model versus the finetuned Paza model.&amp;nbsp;Lower WER indicates better transcription performance.&lt;/em&gt;&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;h2 class="wp-block-heading" id="where-do-we-go-from-here"&gt;Where do we go from here&lt;/h2&gt;
+
+
+
+&lt;p&gt;AI is reshaping how the world communicates. Designing with people, not just for them, means looking beyond the languages that are already well‑served. We plan to expand PazaBench beyond African languages and evaluate state‑of‑the‑art ASR models across&amp;nbsp;more low‑resource languages globally. The Paza ASR models are an early step; truly supporting small and under‑represented languages requires dedicated datasets, strong local partnerships, and rigorous evaluation. Meaningful progress depends on sustained collaboration with the communities who speak these languages, and expanding responsibly means prioritizing depth and quality over broad but shallow coverage.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;As we continue this work,&amp;nbsp;we’re&amp;nbsp;distilling our methods into a forthcoming playbook to help the broader ecosystem curate datasets, fine‑tune responsibly, and evaluate models in real‑world conditions. And we’re not stopping at speech—additional&amp;nbsp;playbooks will guide&amp;nbsp;teams&amp;nbsp;building AI tools and applications for multilingual, multicultural contexts, and give them practical recommendations for deploying across diverse communities.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Together, these guides—grounded in technical advances and community‑driven design—share our learnings to help researchers, engineers, and designers build more human‑centered AI systems.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="acknowledgements"&gt;Acknowledgements&lt;/h2&gt;
+
+
+
+&lt;p&gt;The following researchers played an integral role in this work: Najeeb Abdulhamid, Felermino Ali, Liz Ankrah, Kevin Chege, Ogbemi Ekwejunor-Etchie, Ignatius Ezeani, Tanuja Ganu, Antonis Krasakis, Mercy Kwambai, Samuel Maina, Muchai Mercy, Danlami Mohammed, Nick Mumero, Martin Mwiti, Stephanie Nyairo, Millicent Ochieng and Jacki O’Neill.&lt;/p&gt;
+
+
+
+&lt;p&gt;We would like to thank the Digital Green&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt; team—Rikin Gandhi, Alex Mwaura, Jacqueline Wang’ombe, Kevin Mugambi, Lorraine Nyambura, Juan Pablo, Nereah Okanga, Ramaskanda R.S, Vineet Singh, Nafhtari Wanjiku, Kista Ogot, Samuel Owinya&amp;nbsp;and the community evaluators in Nyeri and Nandi, Kenya — for their valuable contributions to this work.&lt;/p&gt;
+
+
+
+&lt;p&gt;We extend our gratitude to the creators, community contributors, and maintainers of African Next Voices Kenya&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, African Next Voices South Africa&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, ALFFA&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, Digigreen&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, Google FLEURS&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt;, Mozilla Common Voice&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt; and Naija Voices&lt;span class="sr-only"&gt; (opens in new tab)&lt;/span&gt; whose efforts have been invaluable in advancing African languages speech data.&lt;/p&gt;
+&lt;span class="sr-only" id="label-external-link"&gt;Opens in a new tab&lt;/span&gt;</content:encoded><guid isPermaLink="false">https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/</guid><pubDate>Thu, 05 Feb 2026 05:07:55 +0000</pubDate></item></channel></rss>
