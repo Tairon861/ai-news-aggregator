@@ -1,21 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 10 Feb 2026 13:20:25 +0000</lastBuildDate><item><title>3 Questions: Using AI to help Olympic skaters land a quint (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202602/MIT_Jerry-Lu-Anette-Hosoi_01-PRESS.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 10 Feb 2026 19:09:03 +0000</lastBuildDate><item><title>Agentic AI in healthcare: How Life Sciences marketing could achieve $450B in value by 2028 (AI News)</title><link>https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/</link><description>&lt;p&gt;Agentic AI in healthcare is graduating from answering prompts to autonomously executing complex marketing tasks – and life sciences companies are betting their commercial strategies on it.&lt;/p&gt;&lt;p&gt;According to a recent report cited by Capgemini Invent, AI agents could generate up to $450 billion in economic value through revenue uplift and cost savings globally by 2028, with 69% of executives planning to deploy agents in marketing processes by year’s end.&lt;/p&gt;&lt;p&gt;The stakes are particularly high in pharmaceutical marketing, where sales representatives have increasingly limited face-time with healthcare professionals (HCPs) – a trend accelerated by Covid-19. The challenge isn’t just access; it’s making those rare interactions count with intelligence that’s currently trapped in data silos.&lt;/p&gt;&lt;h3&gt;The fragmented intelligence problem&lt;/h3&gt;&lt;p&gt;Briggs Davidson, senior director of digital, data &amp;amp; marketing strategy for life Sciences at Capgemini Invent, outlines a scenario that will sound familiar to anyone in pharma marketing: An HCP attends a conference where a competitor showcases promising drug results, publishes research, and shifts their prescriptions to a rival product – in a single quarter.&lt;/p&gt;&lt;p&gt;“In most companies, legacy IT infrastructure and data silos keep this information in disparate systems in CRM, events databases and claims data,” Davidson writes. “Chances are, none of that information was accessible to sales reps before they met with the HCP.”&lt;/p&gt;&lt;p&gt;The solution, according to Davidson, isn’t to connect these systems, it’s deploying agentic AI in healthcare marketing to autonomously query, synthesising and acting on unified data. Unlike conversational AI that responds to queries, agentic systems can independently execute multi-step tasks.&lt;/p&gt;&lt;p&gt;Instead of a data engineer building a new pipeline, an AI agent could autonomously query the CRM and claims database to answer business questions like: “Identify oncologists in the Northwest who have a 20% lower prescription volume but attended our last medical congress.”&lt;/p&gt;&lt;h3&gt;From orchestration to autonomous execution&lt;/h3&gt;&lt;p&gt;Davidson frames the change as moving from an “omnichannel view” – coordinating experiences in channels – to true orchestration powered by agentic AI.&lt;/p&gt;&lt;p&gt;In practice, this means a sales representative could have an agent assist with call and visit planning by asking: “What messages has my HCP responded to most recently?” or “Can you create a detailed intelligence brief on my HCP?”&lt;/p&gt;&lt;p&gt;The agentic system would compile:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Their most recent conversation with the HCP,&lt;/li&gt;&lt;li&gt;The HCP’s prescribing behaviour,&lt;/li&gt;&lt;li&gt;Thought-leaders the HCP follows,&lt;/li&gt;&lt;li&gt;Relevant content to share,&lt;/li&gt;&lt;li&gt;The HCP’s preferred outreach channels (in-person visits, emails, webinars).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;More significantly, the AI agent would then create a custom call plan for each HCP based on their unified profile and recommend follow-up steps based on engagement outcomes. “Agentic AI systems are about driving action, graduating from ‘answer my prompt,’ to ‘autonomously execute my task,'” Davidson explains.&lt;/p&gt;&lt;p&gt;“That means evolving the sales representative mindset from asking questions to coordinating small teams of specialised agents that work together: one plans, another retrieves and checks content, a third schedules and measures, and a fourth enforces compliance guardrails – all under human oversight.”&lt;/p&gt;&lt;h3&gt;The AI-ready data prerequisite&lt;/h3&gt;&lt;p&gt;The operational promise hinges on what Davidson calls “AI-ready data” – standardised, accessible, complete, and trustworthy information that enables three abilities:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Faster decision making: &lt;/strong&gt;Predictive analytics that provide near real-time alerts on what’s about to happen, letting sales representatives act proactively.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Personalisation at scale: &lt;/strong&gt;Delivering customised experiences to thousands of HCPs simultaneously with small human teams enabled by specialised agent networks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;True marketing ROI:&lt;/strong&gt; Moving beyond monthly historical reports to understanding which marketing activities are actively driving prescriptions.&lt;/p&gt;&lt;p&gt;Davidson emphasises that successful deployment starts with marketing and IT alignment on initial use cases, with stakeholders identifying KPIs that demonstrate tangible outcomes – like specific percentage increases in HCP engagement or sales representative productivity.&lt;/p&gt;&lt;h3&gt;Critical implementation questions&lt;/h3&gt;&lt;p&gt;The article frames agentic AI in healthcare as “not simply another technology-led ability; it’s a new operating layer for commercial teams.” But it acknowledges that “agentic AI’s full value only materialises with AI-ready data, trustworthy deployment and workflow redesign.”&lt;/p&gt;&lt;p&gt;What remains unaddressed is the regulatory and compliance complexity of autonomous systems querying claims databases containing prescriber behaviour, particularly under HIPAA’s minimum necessary standard. The piece also doesn’t detail actual client implementations or metrics beyond the aspirational $450B economic value projection.&lt;/p&gt;&lt;p&gt;For global organisations, Davidson says use cases “can and should be tailored to fit each market’s maturity for maximum ROI,” suggesting that deployment will vary in regulatory environments. The fundamental value proposition, according to Davidson, centres on bidirectional benefit: “The HCP receives directly relevant content, and the marketing teams can drive increased HCP engagement and conversion.”&lt;/p&gt;&lt;p&gt;Whether that vision of autonomous marketing agents coordinating in CRM, events, and claims systems becomes standard practice by 2028 – or remains constrained by data governance realities – will likely determine if life sciences achieves anything close to that $450 billion opportunity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncentre size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111908" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Agentic AI in healthcare is graduating from answering prompts to autonomously executing complex marketing tasks – and life sciences companies are betting their commercial strategies on it.&lt;/p&gt;&lt;p&gt;According to a recent report cited by Capgemini Invent, AI agents could generate up to $450 billion in economic value through revenue uplift and cost savings globally by 2028, with 69% of executives planning to deploy agents in marketing processes by year’s end.&lt;/p&gt;&lt;p&gt;The stakes are particularly high in pharmaceutical marketing, where sales representatives have increasingly limited face-time with healthcare professionals (HCPs) – a trend accelerated by Covid-19. The challenge isn’t just access; it’s making those rare interactions count with intelligence that’s currently trapped in data silos.&lt;/p&gt;&lt;h3&gt;The fragmented intelligence problem&lt;/h3&gt;&lt;p&gt;Briggs Davidson, senior director of digital, data &amp;amp; marketing strategy for life Sciences at Capgemini Invent, outlines a scenario that will sound familiar to anyone in pharma marketing: An HCP attends a conference where a competitor showcases promising drug results, publishes research, and shifts their prescriptions to a rival product – in a single quarter.&lt;/p&gt;&lt;p&gt;“In most companies, legacy IT infrastructure and data silos keep this information in disparate systems in CRM, events databases and claims data,” Davidson writes. “Chances are, none of that information was accessible to sales reps before they met with the HCP.”&lt;/p&gt;&lt;p&gt;The solution, according to Davidson, isn’t to connect these systems, it’s deploying agentic AI in healthcare marketing to autonomously query, synthesising and acting on unified data. Unlike conversational AI that responds to queries, agentic systems can independently execute multi-step tasks.&lt;/p&gt;&lt;p&gt;Instead of a data engineer building a new pipeline, an AI agent could autonomously query the CRM and claims database to answer business questions like: “Identify oncologists in the Northwest who have a 20% lower prescription volume but attended our last medical congress.”&lt;/p&gt;&lt;h3&gt;From orchestration to autonomous execution&lt;/h3&gt;&lt;p&gt;Davidson frames the change as moving from an “omnichannel view” – coordinating experiences in channels – to true orchestration powered by agentic AI.&lt;/p&gt;&lt;p&gt;In practice, this means a sales representative could have an agent assist with call and visit planning by asking: “What messages has my HCP responded to most recently?” or “Can you create a detailed intelligence brief on my HCP?”&lt;/p&gt;&lt;p&gt;The agentic system would compile:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Their most recent conversation with the HCP,&lt;/li&gt;&lt;li&gt;The HCP’s prescribing behaviour,&lt;/li&gt;&lt;li&gt;Thought-leaders the HCP follows,&lt;/li&gt;&lt;li&gt;Relevant content to share,&lt;/li&gt;&lt;li&gt;The HCP’s preferred outreach channels (in-person visits, emails, webinars).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;More significantly, the AI agent would then create a custom call plan for each HCP based on their unified profile and recommend follow-up steps based on engagement outcomes. “Agentic AI systems are about driving action, graduating from ‘answer my prompt,’ to ‘autonomously execute my task,'” Davidson explains.&lt;/p&gt;&lt;p&gt;“That means evolving the sales representative mindset from asking questions to coordinating small teams of specialised agents that work together: one plans, another retrieves and checks content, a third schedules and measures, and a fourth enforces compliance guardrails – all under human oversight.”&lt;/p&gt;&lt;h3&gt;The AI-ready data prerequisite&lt;/h3&gt;&lt;p&gt;The operational promise hinges on what Davidson calls “AI-ready data” – standardised, accessible, complete, and trustworthy information that enables three abilities:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Faster decision making: &lt;/strong&gt;Predictive analytics that provide near real-time alerts on what’s about to happen, letting sales representatives act proactively.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Personalisation at scale: &lt;/strong&gt;Delivering customised experiences to thousands of HCPs simultaneously with small human teams enabled by specialised agent networks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;True marketing ROI:&lt;/strong&gt; Moving beyond monthly historical reports to understanding which marketing activities are actively driving prescriptions.&lt;/p&gt;&lt;p&gt;Davidson emphasises that successful deployment starts with marketing and IT alignment on initial use cases, with stakeholders identifying KPIs that demonstrate tangible outcomes – like specific percentage increases in HCP engagement or sales representative productivity.&lt;/p&gt;&lt;h3&gt;Critical implementation questions&lt;/h3&gt;&lt;p&gt;The article frames agentic AI in healthcare as “not simply another technology-led ability; it’s a new operating layer for commercial teams.” But it acknowledges that “agentic AI’s full value only materialises with AI-ready data, trustworthy deployment and workflow redesign.”&lt;/p&gt;&lt;p&gt;What remains unaddressed is the regulatory and compliance complexity of autonomous systems querying claims databases containing prescriber behaviour, particularly under HIPAA’s minimum necessary standard. The piece also doesn’t detail actual client implementations or metrics beyond the aspirational $450B economic value projection.&lt;/p&gt;&lt;p&gt;For global organisations, Davidson says use cases “can and should be tailored to fit each market’s maturity for maximum ROI,” suggesting that deployment will vary in regulatory environments. The fundamental value proposition, according to Davidson, centres on bidirectional benefit: “The HCP receives directly relevant content, and the marketing teams can drive increased HCP engagement and conversion.”&lt;/p&gt;&lt;p&gt;Whether that vision of autonomous marketing agents coordinating in CRM, events, and claims systems becomes standard practice by 2028 – or remains constrained by data governance realities – will likely determine if life sciences achieves anything close to that $450 billion opportunity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncentre size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111908" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/</guid><pubDate>Tue, 10 Feb 2026 10:00:00 +0000</pubDate></item><item><title>Chinese hyperscalers and industry-specific agentic AI (AI News)</title><link>https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/</link><description>&lt;p&gt; Chinese hyperscalers have defined a distinct trajectory for agentic AI, combining language models with frameworks and infrastructure tailored for autonomous operation in commercial contexts. Alibaba, Tencent and Huawei aim to embed these systems into enterprise pipelines and consumer ecosystems, offering tools that can operate with a degree of autonomy.&lt;/p&gt;&lt;p&gt; These offerings are accessible in the West markets but have not yet achieved the same level of enterprise penetration on mainland European and US soil. To find more common uses of Chinese-flavoured agentic AI, we need to look to the Middle and Far East, South America, and Africa, where Chinese influence is stronger.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “China Science &amp;amp; Technology Museum, Beijing, April-2011” by maltman23 is licensed under CC BY-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt; Chinese hyperscalers have defined a distinct trajectory for agentic AI, combining language models with frameworks and infrastructure tailored for autonomous operation in commercial contexts. Alibaba, Tencent and Huawei aim to embed these systems into enterprise pipelines and consumer ecosystems, offering tools that can operate with a degree of autonomy.&lt;/p&gt;&lt;p&gt; These offerings are accessible in the West markets but have not yet achieved the same level of enterprise penetration on mainland European and US soil. To find more common uses of Chinese-flavoured agentic AI, we need to look to the Middle and Far East, South America, and Africa, where Chinese influence is stronger.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “China Science &amp;amp; Technology Museum, Beijing, April-2011” by maltman23 is licensed under CC BY-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/</guid><pubDate>Tue, 10 Feb 2026 11:20:00 +0000</pubDate></item><item><title>[NEW] The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;A first look at Making AI Work, MIT Technology Review’s new AI newsletter&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Are you interested in learning more about the ways in which AI is &lt;em&gt;actually&lt;/em&gt; being used? We’ve launched a new weekly newsletter series exploring just that: digging into how generative AI is being used and deployed across sectors and what professionals need to know to apply it in their everyday work.&lt;/p&gt;&lt;p&gt;Each edition of Making AI Work begins with a case study, examining a specific use case of AI in a given industry. Then we’ll take a deeper look at the AI tool being used, with more context about how other companies or sectors are employing that same tool or system. Finally, we’ll end with action-oriented tips to help you apply the tool.&lt;/p&gt;&lt;p&gt;The first edition takes a look at how AI is changing health care, digging into the future of medical note-taking by learning about the Microsoft Copilot tool used by doctors at Vanderbilt University Medical Center. Sign up here to receive the seven editions straight to your inbox, and if you’d like to read more about AI’s impact on health care in the meantime, check out some of our past reporting:&lt;/p&gt;&lt;p&gt;+&amp;nbsp; This medical startup uses LLMs to run appointments and make diagnoses.&lt;/p&gt;&lt;p&gt;+ How AI is changing how we quantify pain by helping health-care providers better assess their patients’ discomfort. Read the full story.&lt;/p&gt;&lt;p&gt;+ End-of-life decisions are difficult and distressing. Could AI help?&lt;/p&gt;&lt;p&gt;+ Artificial intelligence is infiltrating health care. But we shouldn’t let it make all the decisions unchecked. Read the full story.&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Why the Moltbook frenzy was like Pokémon&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Lots of influential people in tech recently described Moltbook, an online hangout populated by AI agents interacting with one another, as a glimpse into the future. It appeared to show AI systems doing useful things for the humans that created them—sure, it was flooded with crypto scams, and many of the posts were actually written by people, but &lt;em&gt;something&lt;/em&gt; about it pointed to a future of helpful AI, right?&lt;/p&gt;&lt;p&gt;The whole experiment reminded our senior editor for AI, Will Douglas Heaven, of something far less interesting: Pokémon. Read the full story to find out why.&lt;/p&gt; 
+ &lt;p&gt;&lt;em&gt;—James O'Donnell&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, &lt;/strong&gt;&lt;strong&gt;sign up here&lt;/strong&gt;.&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 OpenAI has begun testing ads in ChatGPT&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;But the ads won’t influence the responses it provides, apparently. (The Verge)&lt;br /&gt;+ &lt;em&gt;Users who pay at least $20 a month for the chatbot will be exempt. &lt;/em&gt;(Gizmodo)&lt;br /&gt;+ &lt;em&gt;So will users believed to be under 18. &lt;/em&gt;(Axios)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2 The White House has a plan to stop data centers from raising electricity prices&lt;/strong&gt;&lt;br /&gt;It’s going to ask AI companies to voluntarily commit to keeping costs down. (Politico)&lt;br /&gt;+ &lt;em&gt;The US federal government is adopting AI left, right and center. &lt;/em&gt;(WP $)&lt;br /&gt;+ &lt;em&gt;We did the math on AI’s energy footprint. Here’s the story you haven’t heard. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 Elon Musk wants to colonize the moon&lt;/strong&gt;&lt;br /&gt;For now at least, his grand ambitions to live on Mars are taking a backseat. (CNN)&lt;br /&gt;+ &lt;em&gt;His full rationale for this U-turn isn’t exactly clear. &lt;/em&gt;(Ars Technica)&lt;br /&gt;+ &lt;em&gt;Musk also wants to become the first to launch a working data center in space. &lt;/em&gt;(FT $)&lt;br /&gt;+ &lt;em&gt;The case against humans in space. &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;4 Cheap AI tools are helping criminals to ramp up their scams&lt;br /&gt;They’re using LLMs to massively scale up their attacks. (Bloomberg $)&lt;br /&gt;+ &lt;em&gt;Cyberattacks by AI agents are coming. &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;5 Iceland could be heading towards becoming one giant glacier&lt;br /&gt;If human-driven warming disrupts a vital ocean current, that is. (WP $)&lt;br /&gt;+ &lt;em&gt;Inside a new quest to save the “doomsday glacier.” &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;6 Amazon is planning to launch an AI content marketplace&lt;br /&gt;It’s reported to have spoken to media publishers to gauge their interest. (The Information $)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;7 Doctors can’t agree on how to diagnose Alzheimer’s&lt;br /&gt;&lt;/strong&gt;They worry that some patients are being misdiagnosed. (WSJ $)&lt;/p&gt; 
 
-            &lt;p&gt;&lt;em&gt;Olympic figure skating looks effortless. Athletes sail across the ice, then soar into the air, spinning like a top, before landing on a single blade just 4-5 millimeters wide. To help figure skaters land quadruple axels, Salchows, Lutzes, and maybe even the elusive quintuple without looking the least bit stressed, Jerry Lu MFin ’24 developed an optical tracking system called &lt;/em&gt;&lt;em&gt;OOFSkate&lt;/em&gt;&lt;em&gt; that uses artificial intelligence to analyze video of a figure skater’s jump and make recommendations on how to improve. Lu, a former researcher at the&amp;nbsp;&lt;/em&gt;&lt;em&gt;MIT Sports Lab&lt;/em&gt;&lt;em&gt;, has been aiding elite skaters on Team USA with their technical performance and will be working with NBC Sports during the 2026 Winter Olympics to help commentators and TV viewers make better sense of the complex scoring system in figure skating, snowboarding, and skiing. He’ll be applying AI technologies to explain nuanced judging decisions and demonstrate just how technically challenging these sports can be.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Meanwhile, Professor Anette “Peko” Hosoi, co-founder and faculty director of the MIT Sports Lab, is embarking on new research aimed at understanding how AI systems evaluate aesthetic performance in figure skating. Hosoi and Lu recently chatted with&amp;nbsp;&lt;/em&gt;MIT News&lt;em&gt; about applying AI to sports, whether AI systems could ever be used to judge Olympic figure skating, and when we might see a skater land a quint.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Why apply AI to figure skating?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lu:&lt;/strong&gt; Skaters can always keep pushing, higher, faster, stronger. OOFSkate is all about helping skaters figure out a way to rotate a little bit faster in their jumps or jump a little bit higher. The system helps skaters catch things that perhaps could pass an eye test, but that might allow them to target some high-value areas of opportunity. The artistic side of skating is much harder to evaluate than the technical elements because it’s subjective.&lt;/p&gt;&lt;p&gt;To use mobile training app, you just need to take a video of an athlete’s jump, and it will spit out the physical metrics that drive how many rotations you can do. It tracks those metrics and builds in all of the other current elite and former elite athletes. You can see your data and then see, “This is how an Olympic champion did this element, perhaps I should try that.” You get the comparison and the automated classifier, which shows you if you did this trick at World Championships and it were judged by an international panel, this is approximately the grade of execution score they would give you.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hosoi:&lt;/strong&gt; There are a lot of AI tools that are coming online, especially things like pose estimators, where you can approximate skeletal configurations from video. The challenge with these pose estimators is that if you only have one camera angle, they do very well in the plane of the camera, but they do very poorly with depth. For example, if you’re trying to critique somebody’s form in fencing, and they’re moving toward the camera, you get very bad data. But with figure skating, Jerry has found one of the few areas where depth challenges don’t really matter. In figure skating, you need to understand: How high did this person jump, how many times did they go around, and how well did they land? None of those rely on depth. He’s found an application that pose estimators do really well, and that doesn’t pay a penalty for the things they do badly.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Could you ever see a world in which AI is used to evaluate the artistic side of figure skating?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hosoi:&lt;/strong&gt; When it comes to AI and aesthetic evaluation, we have new work underway thanks to a MIT Human Insight Collaborative (MITHIC) grant. This work is in collaboration with Professor Arthur Bahr and IDSS graduate student Eric Liu. When you ask an AI platform for an aesthetic evaluation such as “What do you think of this painting?” it will respond with something that sounds like it came from a human. What we want to understand is, to get to that assessment, are the AIs going through the same sort of reasoning pathways or using the same intuitive concepts that humans go through to arrive at, “I like that painting,” or “I don’t like that painting”? Or are they just parrots? Are they just mimicking what they heard a person say? Or is there some concept map of aesthetic appeal? Figure skating is a perfect place to look for this map because skating is aesthetically judged. And there are numbers. You can’t go around a museum and find scores, “This painting is a 35.” But in skating, you’ve got the data.&lt;/p&gt;&lt;p&gt;That brings up another even more interesting question, which is the difference between novices and experts. It’s known that expert humans and novice humans will react differently to seeing the same thing. Somebody who is an expert judge may have a different opinion of a skating performance than a member of the general population. We’re trying to understand differences between reactions from experts, novices, and AI. Do these reactions have some common ground in where they are coming from, or is the AI coming from a different place than both the expert and the novice?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lu:&lt;/strong&gt; Figure skating is interesting because everybody working in the field of AI is trying to figure out AGI or artificial general intelligence and trying to build this extremely sound AI that replicates human beings. Working on applying AI to sports like figure skating helps us understand how humans think and approach judging. This has down-the-line impacts for AI research and companies that are developing AI models. By gaining a deeper understanding of how current state-of-the-art AI models work with these sports, and how you need to do training and fine-tuning of these models to make them work for specific sports, it helps you understand how AI needs to advance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; What will you be watching for in the Milan Cortina Olympics figure skating competitions, now that you’ve been studying and working in this area? Do you think someone will land a quint?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lu:&lt;/strong&gt; For the winter games, I am working with NBC for the figure skating, ski, and snowboarding competitions to help them tell a data-driven story for the American people. The goal is to make these sports more relatable. Skating looks slow on television, but it’s not. Everything is supposed to look effortless. If it looks hard, you are probably going to get penalized. Skaters need to learn how to spin very fast, jump extremely high, float in the air, and land beautifully on one foot. The data we are gathering can help showcase how hard skating actually is, even though it is supposed to look easy.&lt;/p&gt;&lt;p&gt;I’m glad we are working in the Olympics sports realm because the world watches once every four years, and it is traditionally coaching-intensive and talent-driven sports, unlike a sport like baseball, where if you don’t have an elite-level optical tracking system you are not maximizing the value that you currently have. I’m glad we get to work with these Olympic sports and athletes and make an impact here.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hosoi:&lt;/strong&gt; I have always watched Olympic figure skating competitions, ever since I could turn on the TV. They’re always incredible. One of the things that I’m going to be practicing is identifying the jumps, which is very hard to do if you’re an amateur “judge.”&lt;/p&gt;&lt;p&gt;I have also done some back-of-the-envelope calculations to see if a quint is possible. I am now totally convinced it’s possible. We will see one in our lifetime, if not relatively soon. Not in this Olympics, but soon. When I saw we were so close on the quint, I thought, what about six? Can we do six rotations? Probably not. That’s where we start to come up against the limits of human physical capability. But five, I think, is in reach.&lt;/p&gt;        
+ &lt;p&gt;&lt;strong&gt;8 The first wave of AI enthusiasts are burning out&lt;/strong&gt;&lt;br /&gt;A new study has found that AI tools are linked to employees working more, not less. (TechCrunch)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 We’re finally moving towards better ways to measure body fat&lt;/strong&gt;&lt;br /&gt;BMI is a flawed metric. Physicians are finally using better measures. (New Scientist $)&lt;br /&gt;+ &lt;em&gt;These are the best ways to measure your body fat. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;10 It’s getting harder to become a social media megastar&lt;/strong&gt;&lt;br /&gt;Maybe that’s a good thing? (Insider $)&lt;br /&gt;+ &lt;em&gt;The likes of Mr Beast are still raking in serious cash, though. &lt;/em&gt;(The Information $)&lt;/p&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“This case is as easy as ABC—addicting, brains, children.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—Lawyer Mark Lanier lays out his case during the opening statements of a new tech addiction trial in which a woman has accused Meta of deliberately designing their platforms to be addictive, the New York Times reports.&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1132610" src="https://wp.technologyreview.com/wp-content/uploads/2026/02/image_343cfd.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;China wants to restore the sea with high-tech marine ranches&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A short ferry ride from the port city of Yantai, on the northeast coast of China, sits Genghai No. 1, a 12,000-metric-ton ring of oil-rig-style steel platforms, advertised as a hotel and entertainment complex.&lt;/p&gt; 
+ &lt;p&gt;Genghai is in fact an unusual tourist destination, one that breeds 200,000 “high-quality marine fish” each year. The vast majority are released into the ocean as part of a process known as marine ranching.&lt;/p&gt;  &lt;p&gt;The Chinese government sees this work as an urgent and necessary response to the bleak reality that fisheries are collapsing both in China and worldwide. But just how much of a difference can it make? Read the full story.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of&amp;nbsp;The Download&lt;/em&gt;,&lt;em&gt;&amp;nbsp;our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;A first look at Making AI Work, MIT Technology Review’s new AI newsletter&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Are you interested in learning more about the ways in which AI is &lt;em&gt;actually&lt;/em&gt; being used? We’ve launched a new weekly newsletter series exploring just that: digging into how generative AI is being used and deployed across sectors and what professionals need to know to apply it in their everyday work.&lt;/p&gt;&lt;p&gt;Each edition of Making AI Work begins with a case study, examining a specific use case of AI in a given industry. Then we’ll take a deeper look at the AI tool being used, with more context about how other companies or sectors are employing that same tool or system. Finally, we’ll end with action-oriented tips to help you apply the tool.&lt;/p&gt;&lt;p&gt;The first edition takes a look at how AI is changing health care, digging into the future of medical note-taking by learning about the Microsoft Copilot tool used by doctors at Vanderbilt University Medical Center. Sign up here to receive the seven editions straight to your inbox, and if you’d like to read more about AI’s impact on health care in the meantime, check out some of our past reporting:&lt;/p&gt;&lt;p&gt;+&amp;nbsp; This medical startup uses LLMs to run appointments and make diagnoses.&lt;/p&gt;&lt;p&gt;+ How AI is changing how we quantify pain by helping health-care providers better assess their patients’ discomfort. Read the full story.&lt;/p&gt;&lt;p&gt;+ End-of-life decisions are difficult and distressing. Could AI help?&lt;/p&gt;&lt;p&gt;+ Artificial intelligence is infiltrating health care. But we shouldn’t let it make all the decisions unchecked. Read the full story.&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Why the Moltbook frenzy was like Pokémon&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Lots of influential people in tech recently described Moltbook, an online hangout populated by AI agents interacting with one another, as a glimpse into the future. It appeared to show AI systems doing useful things for the humans that created them—sure, it was flooded with crypto scams, and many of the posts were actually written by people, but &lt;em&gt;something&lt;/em&gt; about it pointed to a future of helpful AI, right?&lt;/p&gt;&lt;p&gt;The whole experiment reminded our senior editor for AI, Will Douglas Heaven, of something far less interesting: Pokémon. Read the full story to find out why.&lt;/p&gt; 
+ &lt;p&gt;&lt;em&gt;—James O'Donnell&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, &lt;/strong&gt;&lt;strong&gt;sign up here&lt;/strong&gt;.&lt;/p&gt;    &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 OpenAI has begun testing ads in ChatGPT&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;But the ads won’t influence the responses it provides, apparently. (The Verge)&lt;br /&gt;+ &lt;em&gt;Users who pay at least $20 a month for the chatbot will be exempt. &lt;/em&gt;(Gizmodo)&lt;br /&gt;+ &lt;em&gt;So will users believed to be under 18. &lt;/em&gt;(Axios)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2 The White House has a plan to stop data centers from raising electricity prices&lt;/strong&gt;&lt;br /&gt;It’s going to ask AI companies to voluntarily commit to keeping costs down. (Politico)&lt;br /&gt;+ &lt;em&gt;The US federal government is adopting AI left, right and center. &lt;/em&gt;(WP $)&lt;br /&gt;+ &lt;em&gt;We did the math on AI’s energy footprint. Here’s the story you haven’t heard. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;3 Elon Musk wants to colonize the moon&lt;/strong&gt;&lt;br /&gt;For now at least, his grand ambitions to live on Mars are taking a backseat. (CNN)&lt;br /&gt;+ &lt;em&gt;His full rationale for this U-turn isn’t exactly clear. &lt;/em&gt;(Ars Technica)&lt;br /&gt;+ &lt;em&gt;Musk also wants to become the first to launch a working data center in space. &lt;/em&gt;(FT $)&lt;br /&gt;+ &lt;em&gt;The case against humans in space. &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;4 Cheap AI tools are helping criminals to ramp up their scams&lt;br /&gt;They’re using LLMs to massively scale up their attacks. (Bloomberg $)&lt;br /&gt;+ &lt;em&gt;Cyberattacks by AI agents are coming. &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;5 Iceland could be heading towards becoming one giant glacier&lt;br /&gt;If human-driven warming disrupts a vital ocean current, that is. (WP $)&lt;br /&gt;+ &lt;em&gt;Inside a new quest to save the “doomsday glacier.” &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;6 Amazon is planning to launch an AI content marketplace&lt;br /&gt;It’s reported to have spoken to media publishers to gauge their interest. (The Information $)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;7 Doctors can’t agree on how to diagnose Alzheimer’s&lt;br /&gt;&lt;/strong&gt;They worry that some patients are being misdiagnosed. (WSJ $)&lt;/p&gt; 
 
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202602/MIT_Jerry-Lu-Anette-Hosoi_01-PRESS.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
+ &lt;p&gt;&lt;strong&gt;8 The first wave of AI enthusiasts are burning out&lt;/strong&gt;&lt;br /&gt;A new study has found that AI tools are linked to employees working more, not less. (TechCrunch)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;9 We’re finally moving towards better ways to measure body fat&lt;/strong&gt;&lt;br /&gt;BMI is a flawed metric. Physicians are finally using better measures. (New Scientist $)&lt;br /&gt;+ &lt;em&gt;These are the best ways to measure your body fat. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;10 It’s getting harder to become a social media megastar&lt;/strong&gt;&lt;br /&gt;Maybe that’s a good thing? (Insider $)&lt;br /&gt;+ &lt;em&gt;The likes of Mr Beast are still raking in serious cash, though. &lt;/em&gt;(The Information $)&lt;/p&gt;   &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-large-font-size"&gt;&lt;strong&gt;“This case is as easy as ABC—addicting, brains, children.”&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;—Lawyer Mark Lanier lays out his case during the opening statements of a new tech addiction trial in which a woman has accused Meta of deliberately designing their platforms to be addictive, the New York Times reports.&lt;/p&gt;   
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One more thing&lt;/strong&gt;&lt;/p&gt;  &lt;figure class="wp-block-image size-full"&gt;&lt;img alt="alt" class="wp-image-1132610" src="https://wp.technologyreview.com/wp-content/uploads/2026/02/image_343cfd.png" /&gt;&lt;/figure&gt;  &lt;p&gt;&lt;strong&gt;China wants to restore the sea with high-tech marine ranches&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A short ferry ride from the port city of Yantai, on the northeast coast of China, sits Genghai No. 1, a 12,000-metric-ton ring of oil-rig-style steel platforms, advertised as a hotel and entertainment complex.&lt;/p&gt; 
+ &lt;p&gt;Genghai is in fact an unusual tourist destination, one that breeds 200,000 “high-quality marine fish” each year. The vast majority are released into the ocean as part of a process known as marine ranching.&lt;/p&gt;  &lt;p&gt;The Chinese government sees this work as an urgent and necessary response to the bleak reality that fisheries are collapsing both in China and worldwide. But just how much of a difference can it make? Read the full story.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/</guid><pubDate>Tue, 10 Feb 2026 13:10:00 +0000</pubDate></item><item><title>[NEW] AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/Cris-Headshot.jpg?resize=1200,818" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI video-generation startup Runway has raised a $315 million Series E round, nearly doubling its valuation to $5.3 billion, a source familiar with the matter told TechCrunch.&amp;nbsp;&lt;/p&gt;
 
-            &lt;p&gt;&lt;em&gt;Olympic figure skating looks effortless. Athletes sail across the ice, then soar into the air, spinning like a top, before landing on a single blade just 4-5 millimeters wide. To help figure skaters land quadruple axels, Salchows, Lutzes, and maybe even the elusive quintuple without looking the least bit stressed, Jerry Lu MFin ’24 developed an optical tracking system called &lt;/em&gt;&lt;em&gt;OOFSkate&lt;/em&gt;&lt;em&gt; that uses artificial intelligence to analyze video of a figure skater’s jump and make recommendations on how to improve. Lu, a former researcher at the&amp;nbsp;&lt;/em&gt;&lt;em&gt;MIT Sports Lab&lt;/em&gt;&lt;em&gt;, has been aiding elite skaters on Team USA with their technical performance and will be working with NBC Sports during the 2026 Winter Olympics to help commentators and TV viewers make better sense of the complex scoring system in figure skating, snowboarding, and skiing. He’ll be applying AI technologies to explain nuanced judging decisions and demonstrate just how technically challenging these sports can be.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Meanwhile, Professor Anette “Peko” Hosoi, co-founder and faculty director of the MIT Sports Lab, is embarking on new research aimed at understanding how AI systems evaluate aesthetic performance in figure skating. Hosoi and Lu recently chatted with&amp;nbsp;&lt;/em&gt;MIT News&lt;em&gt; about applying AI to sports, whether AI systems could ever be used to judge Olympic figure skating, and when we might see a skater land a quint.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Why apply AI to figure skating?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lu:&lt;/strong&gt; Skaters can always keep pushing, higher, faster, stronger. OOFSkate is all about helping skaters figure out a way to rotate a little bit faster in their jumps or jump a little bit higher. The system helps skaters catch things that perhaps could pass an eye test, but that might allow them to target some high-value areas of opportunity. The artistic side of skating is much harder to evaluate than the technical elements because it’s subjective.&lt;/p&gt;&lt;p&gt;To use mobile training app, you just need to take a video of an athlete’s jump, and it will spit out the physical metrics that drive how many rotations you can do. It tracks those metrics and builds in all of the other current elite and former elite athletes. You can see your data and then see, “This is how an Olympic champion did this element, perhaps I should try that.” You get the comparison and the automated classifier, which shows you if you did this trick at World Championships and it were judged by an international panel, this is approximately the grade of execution score they would give you.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hosoi:&lt;/strong&gt; There are a lot of AI tools that are coming online, especially things like pose estimators, where you can approximate skeletal configurations from video. The challenge with these pose estimators is that if you only have one camera angle, they do very well in the plane of the camera, but they do very poorly with depth. For example, if you’re trying to critique somebody’s form in fencing, and they’re moving toward the camera, you get very bad data. But with figure skating, Jerry has found one of the few areas where depth challenges don’t really matter. In figure skating, you need to understand: How high did this person jump, how many times did they go around, and how well did they land? None of those rely on depth. He’s found an application that pose estimators do really well, and that doesn’t pay a penalty for the things they do badly.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Could you ever see a world in which AI is used to evaluate the artistic side of figure skating?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hosoi:&lt;/strong&gt; When it comes to AI and aesthetic evaluation, we have new work underway thanks to a MIT Human Insight Collaborative (MITHIC) grant. This work is in collaboration with Professor Arthur Bahr and IDSS graduate student Eric Liu. When you ask an AI platform for an aesthetic evaluation such as “What do you think of this painting?” it will respond with something that sounds like it came from a human. What we want to understand is, to get to that assessment, are the AIs going through the same sort of reasoning pathways or using the same intuitive concepts that humans go through to arrive at, “I like that painting,” or “I don’t like that painting”? Or are they just parrots? Are they just mimicking what they heard a person say? Or is there some concept map of aesthetic appeal? Figure skating is a perfect place to look for this map because skating is aesthetically judged. And there are numbers. You can’t go around a museum and find scores, “This painting is a 35.” But in skating, you’ve got the data.&lt;/p&gt;&lt;p&gt;That brings up another even more interesting question, which is the difference between novices and experts. It’s known that expert humans and novice humans will react differently to seeing the same thing. Somebody who is an expert judge may have a different opinion of a skating performance than a member of the general population. We’re trying to understand differences between reactions from experts, novices, and AI. Do these reactions have some common ground in where they are coming from, or is the AI coming from a different place than both the expert and the novice?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lu:&lt;/strong&gt; Figure skating is interesting because everybody working in the field of AI is trying to figure out AGI or artificial general intelligence and trying to build this extremely sound AI that replicates human beings. Working on applying AI to sports like figure skating helps us understand how humans think and approach judging. This has down-the-line impacts for AI research and companies that are developing AI models. By gaining a deeper understanding of how current state-of-the-art AI models work with these sports, and how you need to do training and fine-tuning of these models to make them work for specific sports, it helps you understand how AI needs to advance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; What will you be watching for in the Milan Cortina Olympics figure skating competitions, now that you’ve been studying and working in this area? Do you think someone will land a quint?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lu:&lt;/strong&gt; For the winter games, I am working with NBC for the figure skating, ski, and snowboarding competitions to help them tell a data-driven story for the American people. The goal is to make these sports more relatable. Skating looks slow on television, but it’s not. Everything is supposed to look effortless. If it looks hard, you are probably going to get penalized. Skaters need to learn how to spin very fast, jump extremely high, float in the air, and land beautifully on one foot. The data we are gathering can help showcase how hard skating actually is, even though it is supposed to look easy.&lt;/p&gt;&lt;p&gt;I’m glad we are working in the Olympics sports realm because the world watches once every four years, and it is traditionally coaching-intensive and talent-driven sports, unlike a sport like baseball, where if you don’t have an elite-level optical tracking system you are not maximizing the value that you currently have. I’m glad we get to work with these Olympic sports and athletes and make an impact here.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hosoi:&lt;/strong&gt; I have always watched Olympic figure skating competitions, ever since I could turn on the TV. They’re always incredible. One of the things that I’m going to be practicing is identifying the jumps, which is very hard to do if you’re an amateur “judge.”&lt;/p&gt;&lt;p&gt;I have also done some back-of-the-envelope calculations to see if a quint is possible. I am now totally convinced it’s possible. We will see one in our lifetime, if not relatively soon. Not in this Olympics, but soon. When I saw we were so close on the quint, I thought, what about six? Can we do six rotations? Probably not. That’s where we start to come up against the limits of human physical capability. But five, I think, is in reach.&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210</guid><pubDate>Tue, 10 Feb 2026 05:00:00 +0000</pubDate></item><item><title>The first signs of burnout are coming from the people who embrace AI the most (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1158287360-e1665956231123.jpg?resize=1200,676" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s the version the industry has spent the last three years selling to millions of nervous people who are eager to buy it. Yes, some white-collar jobs will disappear. But for most other roles, the argument goes, AI is a force multiplier. You become a more capable, more indispensable lawyer, consultant, writer, coder, financial analyst — and so on. The tools work for you, you work less hard, everybody wins.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The fresh funds will allow Runway to “pre-train the next generation of world models and bring them to new products and industries,” per a company blog post announcing the raise. World models are AI systems that construct internal representations of an environment so they can plan for future events, and many top minds believe they are essential to pushing beyond the limits of large language models.&lt;/p&gt;
 
 
 
@@ -23,15 +21,15 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;But a new study published in Harvard Business Review follows that premise to its actual conclusion, and what it finds there isn’t a productivity revolution. It finds companies are at risk of becoming burnout machines.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Best known for its physics-aware AI video-generation models, Runway released its first world model in December and now views the technology as central to tackling major challenges across fields like medicine, climate, energy, and robotics. While the company has historically built a strong customer base in media, entertainment, and advertising — including a recent partnership with Adobe — a spokesperson told TechCrunch that Runway is increasingly seeing adoption in gaming and robotics.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;As part of what they describe as “in-progress research,” UC Berkeley researchers spent eight months inside a 200-person tech company watching what happened when workers genuinely embraced AI. What they found across more than 40 “in-depth” interviews was that nobody was pressured at this company. Nobody was told to hit new targets. People just started doing more because the tools made more feel doable. But because they could do these things, work began bleeding into lunch breaks and late evenings. The employees’ to-do lists expanded to fill every hour that AI freed up, and then kept going.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Runway’s shift comes amid intensifying competition among labs pursuing world models. Rivals include Fei-Fei Li’s World Labs and Google DeepMind, both of which recently made their models publicly available.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;As one engineer told them, “You had thought that maybe, oh, because you could be more productive with AI, then you save some time, you can work less. But then really, you don’t work less. You just work the same amount or even more.”&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The funding follows the release of Gen 4.5, Runway’s latest video-generation model. Gen 4.5 allows users to generate high-definition videos from text prompts and introduces native audio, long-form, multi-shot generation capabilities, character consistency, and advanced editing tools.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Over on the tech industry forum Hacker News, one commenter had the same reaction, writing, “I feel this. Since my team has jumped into an AI everything working style, expectations have tripled, stress has tripled and actual productivity has only gone up by maybe 10%. It feels like leadership is putting immense pressure on everyone to prove their investment in AI is worth it and we all feel the pressure to try to show them it is while actually having to work longer hours to do so.”&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The model has earned Runway significant credibility within the AI industry after outperforming video-generation offerings from both Google and OpenAI on several benchmarks — a milestone that likely factored into investor interest.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;It’s fascinating and also alarming. The argument about AI and work has always stalled on the same question — are the gains real? But too few have stopped to ask what happens when they are.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Beyond model development, Runway has also been expanding its infrastructure. The company recently signed a deal with CoreWeave to expand its compute capacity, a move that may have helped reassure investors about Runway’s ability to operate in a highly compute-intensive space.&amp;nbsp;&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -48,13 +46,11 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The researchers’ new findings aren’t entirely novel. A separate trial last summer found experienced developers using AI tools took 19% longer on tasks while believing they were 20% faster. Around the same time, a National Bureau of Economic Research study tracking AI adoption across thousands of workplaces found that productivity gains amounted to just 3% in time savings, with no significant impact on earnings or hours worked in any occupation. Both studies have gotten picked apart.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Looking ahead, Runway plans to use the new capital to rapidly expand its roughly 140-person team across research, engineering, and go-to-market, according to a company spokesperson.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This one may be harder to dismiss because it doesn’t challenge the premise that AI can augment what employees can do on their own. It confirms it, then shows where all that augmentation actually leads, which is “fatigue, burnout, and a growing sense that work is harder to step away from, especially as organizational expectations for speed and responsiveness rise,” according to the researchers.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The round was led by General Atlantic with participation from Nvidia, Fidelity Management &amp;amp; Research, AllianceBernstein, Adobe Ventures, Mirae Asset, Emphatic Capital, Felicis, Premji, and AMD Ventures.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/Cris-Headshot.jpg?resize=1200,818" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI video-generation startup Runway has raised a $315 million Series E round, nearly doubling its valuation to $5.3 billion, a source familiar with the matter told TechCrunch.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The industry bet that helping people do more would be the answer to everything, but it may turn out to be the beginning of a different problem entirely. The research is worth reading, here.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1158287360-e1665956231123.jpg?resize=1200,676" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s the version the industry has spent the last three years selling to millions of nervous people who are eager to buy it. Yes, some white-collar jobs will disappear. But for most other roles, the argument goes, AI is a force multiplier. You become a more capable, more indispensable lawyer, consultant, writer, coder, financial analyst — and so on. The tools work for you, you work less hard, everybody wins.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The fresh funds will allow Runway to “pre-train the next generation of world models and bring them to new products and industries,” per a company blog post announcing the raise. World models are AI systems that construct internal representations of an environment so they can plan for future events, and many top minds believe they are essential to pushing beyond the limits of large language models.&lt;/p&gt;
 
 
 
@@ -62,15 +58,15 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;But a new study published in Harvard Business Review follows that premise to its actual conclusion, and what it finds there isn’t a productivity revolution. It finds companies are at risk of becoming burnout machines.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Best known for its physics-aware AI video-generation models, Runway released its first world model in December and now views the technology as central to tackling major challenges across fields like medicine, climate, energy, and robotics. While the company has historically built a strong customer base in media, entertainment, and advertising — including a recent partnership with Adobe — a spokesperson told TechCrunch that Runway is increasingly seeing adoption in gaming and robotics.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;As part of what they describe as “in-progress research,” UC Berkeley researchers spent eight months inside a 200-person tech company watching what happened when workers genuinely embraced AI. What they found across more than 40 “in-depth” interviews was that nobody was pressured at this company. Nobody was told to hit new targets. People just started doing more because the tools made more feel doable. But because they could do these things, work began bleeding into lunch breaks and late evenings. The employees’ to-do lists expanded to fill every hour that AI freed up, and then kept going.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Runway’s shift comes amid intensifying competition among labs pursuing world models. Rivals include Fei-Fei Li’s World Labs and Google DeepMind, both of which recently made their models publicly available.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;As one engineer told them, “You had thought that maybe, oh, because you could be more productive with AI, then you save some time, you can work less. But then really, you don’t work less. You just work the same amount or even more.”&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The funding follows the release of Gen 4.5, Runway’s latest video-generation model. Gen 4.5 allows users to generate high-definition videos from text prompts and introduces native audio, long-form, multi-shot generation capabilities, character consistency, and advanced editing tools.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Over on the tech industry forum Hacker News, one commenter had the same reaction, writing, “I feel this. Since my team has jumped into an AI everything working style, expectations have tripled, stress has tripled and actual productivity has only gone up by maybe 10%. It feels like leadership is putting immense pressure on everyone to prove their investment in AI is worth it and we all feel the pressure to try to show them it is while actually having to work longer hours to do so.”&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The model has earned Runway significant credibility within the AI industry after outperforming video-generation offerings from both Google and OpenAI on several benchmarks — a milestone that likely factored into investor interest.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;It’s fascinating and also alarming. The argument about AI and work has always stalled on the same question — are the gains real? But too few have stopped to ask what happens when they are.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Beyond model development, Runway has also been expanding its infrastructure. The company recently signed a deal with CoreWeave to expand its compute capacity, a move that may have helped reassure investors about Runway’s ability to operate in a highly compute-intensive space.&amp;nbsp;&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -87,8 +83,980 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The researchers’ new findings aren’t entirely novel. A separate trial last summer found experienced developers using AI tools took 19% longer on tasks while believing they were 20% faster. Around the same time, a National Bureau of Economic Research study tracking AI adoption across thousands of workplaces found that productivity gains amounted to just 3% in time savings, with no significant impact on earnings or hours worked in any occupation. Both studies have gotten picked apart.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Looking ahead, Runway plans to use the new capital to rapidly expand its roughly 140-person team across research, engineering, and go-to-market, according to a company spokesperson.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This one may be harder to dismiss because it doesn’t challenge the premise that AI can augment what employees can do on their own. It confirms it, then shows where all that augmentation actually leads, which is “fatigue, burnout, and a growing sense that work is harder to step away from, especially as organizational expectations for speed and responsiveness rise,” according to the researchers.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The round was led by General Atlantic with participation from Nvidia, Fidelity Management &amp;amp; Research, AllianceBernstein, Adobe Ventures, Mirae Asset, Emphatic Capital, Felicis, Premji, and AMD Ventures.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/</guid><pubDate>Tue, 10 Feb 2026 14:00:00 +0000</pubDate></item><item><title>[NEW] Former GitHub CEO raises record $60M dev tool seed round at $300M valuation (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/Github-Thomas.jpeg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Former GitHub CEO Thomas Dohmke has raised the largest-ever seed round for a dev tool startup, according to its lead backer, Felicis. The startup, Entire, has raised $60 million at a $300 million valuation.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The industry bet that helping people do more would be the answer to everything, but it may turn out to be the beginning of a different problem entirely. The research is worth reading, here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/</guid><pubDate>Tue, 10 Feb 2026 06:46:55 +0000</pubDate></item><item><title>[NEW] Agentic AI in healthcare: How Life Sciences marketing could achieve US$450bn in value by 2028 (AI News)</title><link>https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/</link><description>&lt;p&gt;Agentic AI in healthcare is graduating from answering prompts to autonomously executing complex marketing tasks – and life sciences companies are betting their commercial strategies on it.&lt;/p&gt;&lt;p&gt;According to a recent report cited by Capgemini Invent, AI agents could generate up to US$450 billion in economic value through revenue uplift and cost savings globally by 2028, with 69% of executives planning to deploy agents in marketing processes by year’s end.&lt;/p&gt;&lt;p&gt;The stakes are particularly high in pharmaceutical marketing, where sales representatives have increasingly limited face-time with healthcare professionals (HCPs) – a trend accelerated by Covid-19. The challenge isn’t just access; it’s making those rare interactions count with intelligence that’s currently trapped in data silos.&lt;/p&gt;&lt;h3&gt;The fragmented intelligence problem&lt;/h3&gt;&lt;p&gt;Briggs Davidson, senior director of digital, data &amp;amp; marketing strategy for life Sciences at Capgemini Invent, outlines a scenario that will sound familiar to anyone in pharma marketing: An HCP attends a conference where a competitor showcases promising drug results, publishes research, and shifts their prescriptions to a rival product – in a single quarter.&lt;/p&gt;&lt;p&gt;“In most companies, legacy IT infrastructure and data silos keep this information in disparate systems in CRM, events databases and claims data,” Davidson writes. “Chances are, none of that information was accessible to sales reps before they met with the HCP.”&lt;/p&gt;&lt;p&gt;The solution, according to Davidson, isn’t to connect these systems, it’s deploying agentic AI in healthcare marketing to autonomously query, synthesising and acting on unified data. Unlike conversational AI that responds to queries, agentic systems can independently execute multi-step tasks.&lt;/p&gt;&lt;p&gt;Instead of a data engineer building a new pipeline, an AI agent could autonomously query the CRM and claims database to answer business questions like: “Identify oncologists in the Northwest who have a 20% lower prescription volume but attended our last medical congress.”&lt;/p&gt;&lt;h3&gt;From orchestration to autonomous execution&lt;/h3&gt;&lt;p&gt;Davidson frames the change as moving from an “omnichannel view” – coordinating experiences in channels – to true orchestration powered by agentic AI.&lt;/p&gt;&lt;p&gt;In practice, this means a sales representative could have an agent assist with call and visit planning by asking: “What messages has my HCP responded to most recently?” or “Can you create a detailed intelligence brief on my HCP?”&lt;/p&gt;&lt;p&gt;The agentic system would compile:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Their most recent conversation with the HCP,&lt;/li&gt;&lt;li&gt;The HCP’s prescribing behaviour,&lt;/li&gt;&lt;li&gt;Thought-leaders the HCP follows,&lt;/li&gt;&lt;li&gt;Relevant content to share,&lt;/li&gt;&lt;li&gt;The HCP’s preferred outreach channels (in-person visits, emails, webinars).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;More significantly, the AI agent would then create a custom call plan for each HCP based on their unified profile and recommend follow-up steps based on engagement outcomes. “Agentic AI systems are about driving action, graduating from ‘answer my prompt,’ to ‘autonomously execute my task,'” Davidson explains.&lt;/p&gt;&lt;p&gt;“That means evolving the sales representative mindset from asking questions to coordinating small teams of specialised agents that work together: one plans, another retrieves and checks content, a third schedules and measures, and a fourth enforces compliance guardrails – all under human oversight.”&lt;/p&gt;&lt;h3&gt;The AI-ready data prerequisite&lt;/h3&gt;&lt;p&gt;The operational promise hinges on what Davidson calls “AI-ready data” – standardised, accessible, complete, and trustworthy information that enables three abilities:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Faster decision making: &lt;/strong&gt;Predictive analytics that provide near real-time alerts on what’s about to happen, letting sales representatives act proactively.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Personalisation at scale: &lt;/strong&gt;Delivering customised experiences to thousands of HCPs simultaneously with small human teams enabled by specialised agent networks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;True marketing ROI:&lt;/strong&gt; Moving beyond monthly historical reports to understanding which marketing activities are actively driving prescriptions.&lt;/p&gt;&lt;p&gt;Davidson emphasises that successful deployment starts with marketing and IT alignment on initial use cases, with stakeholders identifying KPIs that demonstrate tangible outcomes – like specific percentage increases in HCP engagement or sales representative productivity.&lt;/p&gt;&lt;h3&gt;Critical implementation questions&lt;/h3&gt;&lt;p&gt;The article frames agentic AI in healthcare as “not simply another technology-led ability; it’s a new operating layer for commercial teams.” But it acknowledges that “agentic AI’s full value only materialises with AI-ready data, trustworthy deployment and workflow redesign.”&lt;/p&gt;&lt;p&gt;What remains unaddressed is the regulatory and compliance complexity of autonomous systems querying claims databases containing prescriber behaviour, particularly under HIPAA’s minimum necessary standard. The piece also doesn’t detail actual client implementations or metrics beyond the aspirational US$450B economic value projection.&lt;/p&gt;&lt;p&gt;For global organisations, Davidson says use cases “can and should be tailored to fit each market’s maturity for maximum ROI,” suggesting that deployment will vary in regulatory environments. The fundamental value proposition, according to Davidson, centres on bidirectional benefit: “The HCP receives directly relevant content, and the marketing teams can drive increased HCP engagement and conversion.”&lt;/p&gt;&lt;p&gt;Whether that vision of autonomous marketing agents coordinating in CRM, events, and claims systems becomes standard practice by 2028 – or remains constrained by data governance realities – will likely determine if life sciences achieves anything close to that US$450 billion opportunity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncentre size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111908" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Agentic AI in healthcare is graduating from answering prompts to autonomously executing complex marketing tasks – and life sciences companies are betting their commercial strategies on it.&lt;/p&gt;&lt;p&gt;According to a recent report cited by Capgemini Invent, AI agents could generate up to US$450 billion in economic value through revenue uplift and cost savings globally by 2028, with 69% of executives planning to deploy agents in marketing processes by year’s end.&lt;/p&gt;&lt;p&gt;The stakes are particularly high in pharmaceutical marketing, where sales representatives have increasingly limited face-time with healthcare professionals (HCPs) – a trend accelerated by Covid-19. The challenge isn’t just access; it’s making those rare interactions count with intelligence that’s currently trapped in data silos.&lt;/p&gt;&lt;h3&gt;The fragmented intelligence problem&lt;/h3&gt;&lt;p&gt;Briggs Davidson, senior director of digital, data &amp;amp; marketing strategy for life Sciences at Capgemini Invent, outlines a scenario that will sound familiar to anyone in pharma marketing: An HCP attends a conference where a competitor showcases promising drug results, publishes research, and shifts their prescriptions to a rival product – in a single quarter.&lt;/p&gt;&lt;p&gt;“In most companies, legacy IT infrastructure and data silos keep this information in disparate systems in CRM, events databases and claims data,” Davidson writes. “Chances are, none of that information was accessible to sales reps before they met with the HCP.”&lt;/p&gt;&lt;p&gt;The solution, according to Davidson, isn’t to connect these systems, it’s deploying agentic AI in healthcare marketing to autonomously query, synthesising and acting on unified data. Unlike conversational AI that responds to queries, agentic systems can independently execute multi-step tasks.&lt;/p&gt;&lt;p&gt;Instead of a data engineer building a new pipeline, an AI agent could autonomously query the CRM and claims database to answer business questions like: “Identify oncologists in the Northwest who have a 20% lower prescription volume but attended our last medical congress.”&lt;/p&gt;&lt;h3&gt;From orchestration to autonomous execution&lt;/h3&gt;&lt;p&gt;Davidson frames the change as moving from an “omnichannel view” – coordinating experiences in channels – to true orchestration powered by agentic AI.&lt;/p&gt;&lt;p&gt;In practice, this means a sales representative could have an agent assist with call and visit planning by asking: “What messages has my HCP responded to most recently?” or “Can you create a detailed intelligence brief on my HCP?”&lt;/p&gt;&lt;p&gt;The agentic system would compile:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Their most recent conversation with the HCP,&lt;/li&gt;&lt;li&gt;The HCP’s prescribing behaviour,&lt;/li&gt;&lt;li&gt;Thought-leaders the HCP follows,&lt;/li&gt;&lt;li&gt;Relevant content to share,&lt;/li&gt;&lt;li&gt;The HCP’s preferred outreach channels (in-person visits, emails, webinars).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;More significantly, the AI agent would then create a custom call plan for each HCP based on their unified profile and recommend follow-up steps based on engagement outcomes. “Agentic AI systems are about driving action, graduating from ‘answer my prompt,’ to ‘autonomously execute my task,'” Davidson explains.&lt;/p&gt;&lt;p&gt;“That means evolving the sales representative mindset from asking questions to coordinating small teams of specialised agents that work together: one plans, another retrieves and checks content, a third schedules and measures, and a fourth enforces compliance guardrails – all under human oversight.”&lt;/p&gt;&lt;h3&gt;The AI-ready data prerequisite&lt;/h3&gt;&lt;p&gt;The operational promise hinges on what Davidson calls “AI-ready data” – standardised, accessible, complete, and trustworthy information that enables three abilities:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Faster decision making: &lt;/strong&gt;Predictive analytics that provide near real-time alerts on what’s about to happen, letting sales representatives act proactively.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Personalisation at scale: &lt;/strong&gt;Delivering customised experiences to thousands of HCPs simultaneously with small human teams enabled by specialised agent networks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;True marketing ROI:&lt;/strong&gt; Moving beyond monthly historical reports to understanding which marketing activities are actively driving prescriptions.&lt;/p&gt;&lt;p&gt;Davidson emphasises that successful deployment starts with marketing and IT alignment on initial use cases, with stakeholders identifying KPIs that demonstrate tangible outcomes – like specific percentage increases in HCP engagement or sales representative productivity.&lt;/p&gt;&lt;h3&gt;Critical implementation questions&lt;/h3&gt;&lt;p&gt;The article frames agentic AI in healthcare as “not simply another technology-led ability; it’s a new operating layer for commercial teams.” But it acknowledges that “agentic AI’s full value only materialises with AI-ready data, trustworthy deployment and workflow redesign.”&lt;/p&gt;&lt;p&gt;What remains unaddressed is the regulatory and compliance complexity of autonomous systems querying claims databases containing prescriber behaviour, particularly under HIPAA’s minimum necessary standard. The piece also doesn’t detail actual client implementations or metrics beyond the aspirational US$450B economic value projection.&lt;/p&gt;&lt;p&gt;For global organisations, Davidson says use cases “can and should be tailored to fit each market’s maturity for maximum ROI,” suggesting that deployment will vary in regulatory environments. The fundamental value proposition, according to Davidson, centres on bidirectional benefit: “The HCP receives directly relevant content, and the marketing teams can drive increased HCP engagement and conversion.”&lt;/p&gt;&lt;p&gt;Whether that vision of autonomous marketing agents coordinating in CRM, events, and claims systems becomes standard practice by 2028 – or remains constrained by data governance realities – will likely determine if life sciences achieves anything close to that US$450 billion opportunity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncentre size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-111908" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/01/image-3.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/</guid><pubDate>Tue, 10 Feb 2026 10:00:00 +0000</pubDate></item><item><title>[NEW] Chinese hyperscalers and industry-specific agentic AI (AI News)</title><link>https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/</link><description>&lt;p&gt; Chinese hyperscalers have defined a distinct trajectory for agentic AI, combining language models with frameworks and infrastructure tailored for autonomous operation in commercial contexts. Alibaba, Tencent and Huawei aim to embed these systems into enterprise pipelines and consumer ecosystems, offering tools that can operate with a degree of autonomy.&lt;/p&gt;&lt;p&gt; These offerings are accessible in the West markets but have not yet achieved the same level of enterprise penetration on mainland European and US soil. To find more common uses of Chinese-flavoured agentic AI, we need to look to the Middle and Far East, South America, and Africa, where Chinese influence is stronger.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “China Science &amp;amp; Technology Museum, Beijing, April-2011” by maltman23 is licensed under CC BY-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt; Chinese hyperscalers have defined a distinct trajectory for agentic AI, combining language models with frameworks and infrastructure tailored for autonomous operation in commercial contexts. Alibaba, Tencent and Huawei aim to embed these systems into enterprise pipelines and consumer ecosystems, offering tools that can operate with a degree of autonomy.&lt;/p&gt;&lt;p&gt; These offerings are accessible in the West markets but have not yet achieved the same level of enterprise penetration on mainland European and US soil. To find more common uses of Chinese-flavoured agentic AI, we need to look to the Middle and Far East, South America, and Africa, where Chinese influence is stronger.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “China Science &amp;amp; Technology Museum, Beijing, April-2011” by maltman23 is licensed under CC BY-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/</guid><pubDate>Tue, 10 Feb 2026 11:20:00 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;Entire offers an open source tool to help developers better manage code written by AI agents.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Entire’s tech has three components. One is a Git-compatible database to unify the AI-produced code. Git is a distributed version control system popular with enterprises and used by open source sites like GitHub and GitLab.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Another component is what it calls “a universal semantic reasoning layer” intended to allow multiple AI agents to work together. The final piece is an AI-native user interface designed with agent-to-human collaboration in mind.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The first product Entire is releasing is an open source tool it calls Checkpoints that automatically pairs every bit of software the agent submits for use in a software project with the context that created it, including prompts and transcripts. The idea is to allow the human developer to review, search, and perhaps even learn from why the AI did what it did.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Entire hopes to help developers better deal with the large volumes of software created by AI coding agents. Popular open source projects are particularly overwhelmed these days with suggested code contributions that may or may not be AI slop — meaning poorly designed and possibly unusable code.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Dohmke explains in the press release: “We are living through an agent boom, and now massive volumes of code are being generated faster than any human could reasonably understand. The truth is, our manual system of software production — from issues, to git repositories, to pull requests, to deployment — was never designed for the era of AI in the first place.” &lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Dohmke was CEO of Microsoft’s GitHub for four years, leaving in August 2025 to found a startup, he said in a post on X at the time. During his time there, he oversaw the rise of the popular coding agent GitHub Copilot.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Other investors in the seed round include Madrona, M12, Basis Set, Harry Stebbings, Jerry Yang, and Datadog founder and CEO Olivier Pomel.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/Github-Thomas.jpeg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Former GitHub CEO Thomas Dohmke has raised the largest-ever seed round for a dev tool startup, according to its lead backer, Felicis. The startup, Entire, has raised $60 million at a $300 million valuation.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Entire offers an open source tool to help developers better manage code written by AI agents.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Entire’s tech has three components. One is a Git-compatible database to unify the AI-produced code. Git is a distributed version control system popular with enterprises and used by open source sites like GitHub and GitLab.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Another component is what it calls “a universal semantic reasoning layer” intended to allow multiple AI agents to work together. The final piece is an AI-native user interface designed with agent-to-human collaboration in mind.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The first product Entire is releasing is an open source tool it calls Checkpoints that automatically pairs every bit of software the agent submits for use in a software project with the context that created it, including prompts and transcripts. The idea is to allow the human developer to review, search, and perhaps even learn from why the AI did what it did.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Entire hopes to help developers better deal with the large volumes of software created by AI coding agents. Popular open source projects are particularly overwhelmed these days with suggested code contributions that may or may not be AI slop — meaning poorly designed and possibly unusable code.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Dohmke explains in the press release: “We are living through an agent boom, and now massive volumes of code are being generated faster than any human could reasonably understand. The truth is, our manual system of software production — from issues, to git repositories, to pull requests, to deployment — was never designed for the era of AI in the first place.” &lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Dohmke was CEO of Microsoft’s GitHub for four years, leaving in August 2025 to found a startup, he said in a post on X at the time. During his time there, he oversaw the rise of the popular coding agent GitHub Copilot.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Other investors in the seed round include Madrona, M12, Basis Set, Harry Stebbings, Jerry Yang, and Datadog founder and CEO Olivier Pomel.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/</guid><pubDate>Tue, 10 Feb 2026 14:30:00 +0000</pubDate></item><item><title>[NEW] Alphabet selling very rare 100-year bonds to help fund AI investment (AI - Ars Technica)</title><link>https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Alphabet becomes first tech company to issue 100-year bonds in nearly three decades.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Different yield and maturities for bonds and interest on stock exchange screen. Finance, bond trading and saving accounts concept. 3D illustration" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/yields-1-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="Different yield and maturities for bonds and interest on stock exchange screen. Finance, bond trading and saving accounts concept. 3D illustration" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/yields-1-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Torsten Asmus via Getty
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;Alphabet has lined up banks to sell a rare 100-year bond, stepping up a borrowing spree by Big Tech companies racing to fund their vast investments in AI this year.&lt;/p&gt;
+&lt;p&gt;The so-called century bond will form part of a debut sterling issuance this week by Google’s parent company, said people familiar with the matter.&lt;/p&gt;
+&lt;p&gt;Alphabet was also selling $20 billion of dollar bonds on Monday and lining up a Swiss franc bond sale, the people said. The dollar portion of the deal was upsized from $15 billion because of strong demand, they added.&lt;/p&gt;
+&lt;p&gt;Century bonds—long-term borrowing at its most extreme—are highly unusual, although a flurry was sold during the period of very low interest rates that followed the financial crisis, including by governments such as Austria and Argentina.&lt;/p&gt;
+&lt;p&gt;The University of Oxford, EDF, and the Wellcome Trust—the most recent in 2018—are the only issuers to have tapped the sterling century market. Such sales are even rarer in the tech sector, with most of the industry’s biggest groups issuing up to 40 years, although IBM sold a 100-year bond in 1996.&lt;/p&gt;
+&lt;p&gt;A banker familiar with Alphabet’s transaction said the company’s multi-currency bond offering is an effort to expand the investor pool given the massive amount of capital needed by Big Tech companies.&lt;/p&gt;
+&lt;p&gt;“There might be a supply-demand imbalance if you were to try to come back to the US dollar market over and over again,” the banker said.&lt;/p&gt;
+&lt;p&gt;Issuing a century bond in the sterling market is more cost-effective than in the dollar market, where the interest rate is higher, the banker added.&lt;/p&gt;
+&lt;p&gt;While a century bond is “highly unusual” for tech companies, it could appeal to buyers such as life insurance companies and pension funds, which have a mandate to buy long-term assets, said Nicholas Elfner, co-head of research at Breckinridge Capital Advisors.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Tony Trzcinka, a US-based senior portfolio manager at Impax Asset Management, which purchased Alphabet’s bonds last year, said he skipped Monday’s offering because of insufficient yields and concerns about overexposure to companies with complex financial obligations tied to AI investments.&lt;/p&gt;
+&lt;p&gt;“It wasn’t worth it to swap into new ones,” Trzcinka said. “We’ve been very conscious of our exposure to these hyperscalers and their capex budgets.”&lt;/p&gt;
+&lt;p&gt;Big Tech companies and their suppliers are expected to invest almost $700 billion in AI infrastructure this year and are increasingly turning to the debt markets to finance the giant data center build-out.&lt;/p&gt;
+&lt;p&gt;Alphabet in November sold $17.5 billion of bonds in the US including a 50-year bond—the longest-dated dollar bond sold by a tech group last year—and raised €6.5 billion on European markets.&lt;/p&gt;
+&lt;p&gt;Oracle last week raised $25 billion from a bond sale that attracted more than $125 billion of orders.&lt;/p&gt;
+&lt;p&gt;Alphabet, Amazon, and Meta all increased their capital expenditure plans during their most recent earnings reports, prompting questions about whether they will be able to fund the unprecedented spending spree from their cash flows alone.&lt;/p&gt;
+&lt;p&gt;Last week, Google’s parent company reported annual sales that topped $400 billion for the first time, beating investors’ expectations for revenues and profits in the most recent quarter. It said it planned to spend as much as $185 billion on capex this year, roughly double last year’s total, to capitalize on booming demand for its Gemini AI assistant.&lt;/p&gt;
+&lt;p&gt;Alphabet’s long-term debt jumped to $46.5 billion in 2025, up more than four times the previous year, though it held cash and equivalents of $126.8 billion at the year-end.&lt;/p&gt;
+&lt;p&gt;Investor demand was the strongest on the shortest portion of Monday’s deal, with a three-year offering pricing at only 0.27 percentage points above US Treasuries, versus 0.6 percentage points during initial price discussions, said people familiar with the deal.&lt;/p&gt;
+&lt;p&gt;The longest portion of the offering, a 40-year bond, is expected to yield 0.95 percentage points over US Treasuries, down from 1.2 percentage points during initial talks, the people said.&lt;/p&gt;
+&lt;p&gt;Bank of America, Goldman Sachs, and JPMorgan are the bookrunners on the bond sales across three currencies. All three declined to comment or did not immediately respond to requests for comment.&lt;/p&gt;
+&lt;p&gt;Alphabet did not immediately respond to a request for comment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;© 2026 The Financial Times Ltd. All rights reserved. Not to be redistributed, copied, or modified in any way.&lt;/em&gt;&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Alphabet becomes first tech company to issue 100-year bonds in nearly three decades.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Different yield and maturities for bonds and interest on stock exchange screen. Finance, bond trading and saving accounts concept. 3D illustration" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/yields-1-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="Different yield and maturities for bonds and interest on stock exchange screen. Finance, bond trading and saving accounts concept. 3D illustration" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/yields-1-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Torsten Asmus via Getty
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;Alphabet has lined up banks to sell a rare 100-year bond, stepping up a borrowing spree by Big Tech companies racing to fund their vast investments in AI this year.&lt;/p&gt;
+&lt;p&gt;The so-called century bond will form part of a debut sterling issuance this week by Google’s parent company, said people familiar with the matter.&lt;/p&gt;
+&lt;p&gt;Alphabet was also selling $20 billion of dollar bonds on Monday and lining up a Swiss franc bond sale, the people said. The dollar portion of the deal was upsized from $15 billion because of strong demand, they added.&lt;/p&gt;
+&lt;p&gt;Century bonds—long-term borrowing at its most extreme—are highly unusual, although a flurry was sold during the period of very low interest rates that followed the financial crisis, including by governments such as Austria and Argentina.&lt;/p&gt;
+&lt;p&gt;The University of Oxford, EDF, and the Wellcome Trust—the most recent in 2018—are the only issuers to have tapped the sterling century market. Such sales are even rarer in the tech sector, with most of the industry’s biggest groups issuing up to 40 years, although IBM sold a 100-year bond in 1996.&lt;/p&gt;
+&lt;p&gt;A banker familiar with Alphabet’s transaction said the company’s multi-currency bond offering is an effort to expand the investor pool given the massive amount of capital needed by Big Tech companies.&lt;/p&gt;
+&lt;p&gt;“There might be a supply-demand imbalance if you were to try to come back to the US dollar market over and over again,” the banker said.&lt;/p&gt;
+&lt;p&gt;Issuing a century bond in the sterling market is more cost-effective than in the dollar market, where the interest rate is higher, the banker added.&lt;/p&gt;
+&lt;p&gt;While a century bond is “highly unusual” for tech companies, it could appeal to buyers such as life insurance companies and pension funds, which have a mandate to buy long-term assets, said Nicholas Elfner, co-head of research at Breckinridge Capital Advisors.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Tony Trzcinka, a US-based senior portfolio manager at Impax Asset Management, which purchased Alphabet’s bonds last year, said he skipped Monday’s offering because of insufficient yields and concerns about overexposure to companies with complex financial obligations tied to AI investments.&lt;/p&gt;
+&lt;p&gt;“It wasn’t worth it to swap into new ones,” Trzcinka said. “We’ve been very conscious of our exposure to these hyperscalers and their capex budgets.”&lt;/p&gt;
+&lt;p&gt;Big Tech companies and their suppliers are expected to invest almost $700 billion in AI infrastructure this year and are increasingly turning to the debt markets to finance the giant data center build-out.&lt;/p&gt;
+&lt;p&gt;Alphabet in November sold $17.5 billion of bonds in the US including a 50-year bond—the longest-dated dollar bond sold by a tech group last year—and raised €6.5 billion on European markets.&lt;/p&gt;
+&lt;p&gt;Oracle last week raised $25 billion from a bond sale that attracted more than $125 billion of orders.&lt;/p&gt;
+&lt;p&gt;Alphabet, Amazon, and Meta all increased their capital expenditure plans during their most recent earnings reports, prompting questions about whether they will be able to fund the unprecedented spending spree from their cash flows alone.&lt;/p&gt;
+&lt;p&gt;Last week, Google’s parent company reported annual sales that topped $400 billion for the first time, beating investors’ expectations for revenues and profits in the most recent quarter. It said it planned to spend as much as $185 billion on capex this year, roughly double last year’s total, to capitalize on booming demand for its Gemini AI assistant.&lt;/p&gt;
+&lt;p&gt;Alphabet’s long-term debt jumped to $46.5 billion in 2025, up more than four times the previous year, though it held cash and equivalents of $126.8 billion at the year-end.&lt;/p&gt;
+&lt;p&gt;Investor demand was the strongest on the shortest portion of Monday’s deal, with a three-year offering pricing at only 0.27 percentage points above US Treasuries, versus 0.6 percentage points during initial price discussions, said people familiar with the deal.&lt;/p&gt;
+&lt;p&gt;The longest portion of the offering, a 40-year bond, is expected to yield 0.95 percentage points over US Treasuries, down from 1.2 percentage points during initial talks, the people said.&lt;/p&gt;
+&lt;p&gt;Bank of America, Goldman Sachs, and JPMorgan are the bookrunners on the bond sales across three currencies. All three declined to comment or did not immediately respond to requests for comment.&lt;/p&gt;
+&lt;p&gt;Alphabet did not immediately respond to a request for comment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;© 2026 The Financial Times Ltd. All rights reserved. Not to be redistributed, copied, or modified in any way.&lt;/em&gt;&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/</guid><pubDate>Tue, 10 Feb 2026 14:44:52 +0000</pubDate></item><item><title>[NEW] India orders social media platforms to take down deepfakes faster (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/12/india-parliament-getty.jpg?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;India has ordered social media platforms to step up policing of deepfakes and other AI-generated impersonations, while sharply shortening the time they have to comply with takedown orders. It’s a move that could reshape how global tech firms moderate content in one of the world’s largest and fastest growing markets for internet services.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The changes, published (PDF) on Tuesday as amendments to India’s 2021 IT Rules, bring deepfakes under a formal regulatory framework, mandating the labeling and traceability of synthetic audio and visual content, while also slashing compliance timelines for platforms, including a three-hour deadline for official takedown orders and a two-hour window for certain urgent user complaints.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;India’s importance as a digital market amplifies the impact of the new rules. With over a billion internet users and a predominantly young population, the South Asian nation is a critical market for platforms like Meta and YouTube, making it likely that compliance measures adopted in India will influence global product and moderation practices.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Under the amended rules, social media platforms that allow users to upload or share audio-visual content must require disclosures on whether material is synthetically generated, deploy tools to verify those claims, and ensure that deepfakes are clearly labeled and embedded with traceable provenance data.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Certain categories of synthetic content — including deceptive impersonations, non-consensual intimate imagery, and material linked to serious crimes — are barred outright in the rules. Non-compliance, particularly in cases flagged by authorities or users, can expose companies to greater legal liability by jeopardizing their safe-harbor protections under Indian law.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The rules lean heavily on automated systems to meet those obligations. Platforms are expected to deploy technical tools to verify user disclosures, identify, and label deepfakes, and prevent the creation or sharing of prohibited synthetic content in the first place.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The amended IT Rules mark a more calibrated approach to regulating AI-generated deepfakes,” said Rohit Kumar, founding partner at New Delhi-based policy consulting firm The Quantum Hub. “The significantly compressed grievance timelines — such as the two- to three-hour takedown windows — will materially raise compliance burdens and merit close scrutiny, particularly given that non-compliance is linked to the loss of safe harbor protections.”&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Aprajita Rana, a partner at AZB &amp;amp; Partners, a leading Indian corporate law firm, said the rules now focus on AI-generated audio-visual content rather than all online information, while carving out exceptions for routine, cosmetic, or efficiency-related uses of AI. However, she cautioned that the requirement for intermediaries to remove content within three hours once they become aware of it departs from established free-speech principles.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The law, however, continues to require intermediaries to remove content upon being aware or receiving actual knowledge, that too within three hours,” Rana said, adding that the labeling requirements would apply across formats to curb the spread of child sexual abuse material and deceptive content.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;New Delhi-based digital advocacy group Internet Freedom Foundation said the rules risk accelerating censorship by drastically compressing takedown timelines, leaving little scope for human review and pushing platforms toward automated over-removal. In a statement posted on X, the group also raised concerns about the expansion of prohibited content categories and provisions that allow platforms to disclose the identities of users to private complainants without judicial oversight.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“These impossibly short timelines eliminate any meaningful human review,” the group said, warning that the changes could undermine free-speech protections and due process.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Two industry sources told TechCrunch that the amendments followed a limited consultation process, with only a narrow set of suggestions reflected in the final rules. While the Indian government appears to have taken on board proposals to narrow the scope of information covered — focusing on AI-generated audio-visual content rather than all online material — other recommendations were not adopted. The scale of changes between the draft and final rules warranted another round of consultation to give companies clearer guidance on compliance expectations, the sources said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Government takedown powers have already been a point of contention in India. Social media platforms and civil-society groups have long criticized the breadth and opacity of content removal orders, and even Elon Musk’s X challenged New Delhi in court over directives to block or remove posts, arguing that they amounted to overreach and lacked adequate safeguards.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meta, Google, Snap, X, and the Indian IT ministry did not respond to requests for comments.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The latest changes come just months after the Indian government, in October 2025, reduced the number of officials authorized to order content removals from the internet in response to a legal challenge by X over the scope and transparency of takedown powers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The amended rules will come into effect on February 20, giving platforms little time to adjust compliance systems. The rollout coincides with India’s hosting of the AI Impact Summit in New Delhi from February 16 to 20, which is expected to draw senior global technology executives and policymakers to the country.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/12/india-parliament-getty.jpg?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;India has ordered social media platforms to step up policing of deepfakes and other AI-generated impersonations, while sharply shortening the time they have to comply with takedown orders. It’s a move that could reshape how global tech firms moderate content in one of the world’s largest and fastest growing markets for internet services.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The changes, published (PDF) on Tuesday as amendments to India’s 2021 IT Rules, bring deepfakes under a formal regulatory framework, mandating the labeling and traceability of synthetic audio and visual content, while also slashing compliance timelines for platforms, including a three-hour deadline for official takedown orders and a two-hour window for certain urgent user complaints.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;India’s importance as a digital market amplifies the impact of the new rules. With over a billion internet users and a predominantly young population, the South Asian nation is a critical market for platforms like Meta and YouTube, making it likely that compliance measures adopted in India will influence global product and moderation practices.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Under the amended rules, social media platforms that allow users to upload or share audio-visual content must require disclosures on whether material is synthetically generated, deploy tools to verify those claims, and ensure that deepfakes are clearly labeled and embedded with traceable provenance data.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Certain categories of synthetic content — including deceptive impersonations, non-consensual intimate imagery, and material linked to serious crimes — are barred outright in the rules. Non-compliance, particularly in cases flagged by authorities or users, can expose companies to greater legal liability by jeopardizing their safe-harbor protections under Indian law.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The rules lean heavily on automated systems to meet those obligations. Platforms are expected to deploy technical tools to verify user disclosures, identify, and label deepfakes, and prevent the creation or sharing of prohibited synthetic content in the first place.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The amended IT Rules mark a more calibrated approach to regulating AI-generated deepfakes,” said Rohit Kumar, founding partner at New Delhi-based policy consulting firm The Quantum Hub. “The significantly compressed grievance timelines — such as the two- to three-hour takedown windows — will materially raise compliance burdens and merit close scrutiny, particularly given that non-compliance is linked to the loss of safe harbor protections.”&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Aprajita Rana, a partner at AZB &amp;amp; Partners, a leading Indian corporate law firm, said the rules now focus on AI-generated audio-visual content rather than all online information, while carving out exceptions for routine, cosmetic, or efficiency-related uses of AI. However, she cautioned that the requirement for intermediaries to remove content within three hours once they become aware of it departs from established free-speech principles.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The law, however, continues to require intermediaries to remove content upon being aware or receiving actual knowledge, that too within three hours,” Rana said, adding that the labeling requirements would apply across formats to curb the spread of child sexual abuse material and deceptive content.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;New Delhi-based digital advocacy group Internet Freedom Foundation said the rules risk accelerating censorship by drastically compressing takedown timelines, leaving little scope for human review and pushing platforms toward automated over-removal. In a statement posted on X, the group also raised concerns about the expansion of prohibited content categories and provisions that allow platforms to disclose the identities of users to private complainants without judicial oversight.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“These impossibly short timelines eliminate any meaningful human review,” the group said, warning that the changes could undermine free-speech protections and due process.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Two industry sources told TechCrunch that the amendments followed a limited consultation process, with only a narrow set of suggestions reflected in the final rules. While the Indian government appears to have taken on board proposals to narrow the scope of information covered — focusing on AI-generated audio-visual content rather than all online material — other recommendations were not adopted. The scale of changes between the draft and final rules warranted another round of consultation to give companies clearer guidance on compliance expectations, the sources said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Government takedown powers have already been a point of contention in India. Social media platforms and civil-society groups have long criticized the breadth and opacity of content removal orders, and even Elon Musk’s X challenged New Delhi in court over directives to block or remove posts, arguing that they amounted to overreach and lacked adequate safeguards.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Meta, Google, Snap, X, and the Indian IT ministry did not respond to requests for comments.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The latest changes come just months after the Indian government, in October 2025, reduced the number of officials authorized to order content removals from the internet in response to a legal challenge by X over the scope and transparency of takedown powers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The amended rules will come into effect on February 20, giving platforms little time to adjust compliance systems. The rollout coincides with India’s hosting of the AI Impact Summit in New Delhi from February 16 to 20, which is expected to draw senior global technology executives and policymakers to the country.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/</guid><pubDate>Tue, 10 Feb 2026 14:51:13 +0000</pubDate></item><item><title>[NEW] Hauler Hero collects $16M for its AI waste management software (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/12/Hauler-Hero-_-Mark.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Hauler Hero has picked up fresh funds as demand for its AI-powered waste management software continues to pile up.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The New York-based startup raised $16 million in a Series A round led by Frontier Growth with participation from K5 Global and Somersault Ventures, among others, TechCrunch has learned. Hauler Hero has raised more than $27 million in venture capital, to date.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero has developed an all-in-one software platform for waste management companies that covers a variety of functions, including customer relationship management, billing, and routing. And now, like so many other software companies, Hauler Hero plans to offer AI agents to its customers as well. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero was co-founded in 2020 by CEO Mark Hoadley and brother-in-law Ben Sikma, who encountered outdated software while working on mergers and acquisitions in the sector. Their aim was to bring waste management into the modern era.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“All of the existing software in the space, they were clunky, old,” Hoadley told TechCrunch in 2024. “Sometimes we’d talk about how this one reminds us of the Oregon Trail, this reminds us of the cell phone Michael Douglas used in ‘Wall Street.’ They’re very clunky and antiquated.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The numbers suggest the company has had some success; Hauler Hero said it has helped facilitate 35 million trash pickups since inception in 2020. And it continues to grow, according to Hoadley, who told TechCrunch the company has doubled its head count, revenue, and customer base since announcing its seed round in late 2024.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero has added new features to its platform since its seed round, Hoadley said. The most notable is a product that captures images from third-party cameras on garbage trucks and sends them directly to a software command center. This information helps waste management companies confirm pickups, verify billing, and keep a better eye on their distributed fleet, according to the company.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hoadley said some sanitation workers, and their respective unions, don’t love this tech upgrade. But he added that most unions prevent the footage from being used against the drivers for disciplinary measures, for example, and that the images can actually help reduce liability for drivers in accidents or if they are accused of missing a pickup.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Think of it as like running a factory with no roof and no visibility into what’s happening in that factory,” Hoadley said. “If you don’t have visibility into what’s happening out there, it’s very hard to have quality control. And the quality control in this case is what was out there, was it picked up?”&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-a-trio-of-ai-agents"&gt;A trio of AI agents&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero is now working to develop and deploy a set of three AI agents. One, Hero Vision, is focused on automatically identifying service issues and revenue opportunities. Hero Chat is a chatbot for customer inquiries. Hero Route will use route data to automatically adjust routes to make them more efficient.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“There’s an enormous amount of data in our system about pickups, work orders, billing information, and if you give these agents an understanding of your data model, you can just go tell them, hey, go build me a chart,” Hoadley said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero plans to use some of its recent funding to commercialize these agents in addition to bulking up its offerings for municipal entities, a growing group of the company’s customers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“It wasn’t something that I necessarily thought was going to be part of this journey,” Hoadley said about working with these public entities. “It kind of came organically as many things do. We just had inbound from some municipalities and eventually we sold one of them and then we sold another.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hoadley said that he thinks some of that demand is driven by the fact that its two main competitors, Routeware and Wastech, merged in 2024, leaving government entities with little choice of providers to work with.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hoadley said the company is now focused on fine-tuning and scaling its product — and maybe some new additions as well.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We’re going to continue to chart the course for the next decade of being at the cutting edge of delivering value for customers, leveraging all the latest tools,” Hoadley said. “There’s a lot more fun things and valuable things that we can do for our customers, and we’re really excited about it.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This piece has been updated to better reflect which investors participated in the Series A. &lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/12/Hauler-Hero-_-Mark.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Hauler Hero has picked up fresh funds as demand for its AI-powered waste management software continues to pile up.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The New York-based startup raised $16 million in a Series A round led by Frontier Growth with participation from K5 Global and Somersault Ventures, among others, TechCrunch has learned. Hauler Hero has raised more than $27 million in venture capital, to date.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero has developed an all-in-one software platform for waste management companies that covers a variety of functions, including customer relationship management, billing, and routing. And now, like so many other software companies, Hauler Hero plans to offer AI agents to its customers as well. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero was co-founded in 2020 by CEO Mark Hoadley and brother-in-law Ben Sikma, who encountered outdated software while working on mergers and acquisitions in the sector. Their aim was to bring waste management into the modern era.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“All of the existing software in the space, they were clunky, old,” Hoadley told TechCrunch in 2024. “Sometimes we’d talk about how this one reminds us of the Oregon Trail, this reminds us of the cell phone Michael Douglas used in ‘Wall Street.’ They’re very clunky and antiquated.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The numbers suggest the company has had some success; Hauler Hero said it has helped facilitate 35 million trash pickups since inception in 2020. And it continues to grow, according to Hoadley, who told TechCrunch the company has doubled its head count, revenue, and customer base since announcing its seed round in late 2024.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero has added new features to its platform since its seed round, Hoadley said. The most notable is a product that captures images from third-party cameras on garbage trucks and sends them directly to a software command center. This information helps waste management companies confirm pickups, verify billing, and keep a better eye on their distributed fleet, according to the company.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hoadley said some sanitation workers, and their respective unions, don’t love this tech upgrade. But he added that most unions prevent the footage from being used against the drivers for disciplinary measures, for example, and that the images can actually help reduce liability for drivers in accidents or if they are accused of missing a pickup.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Think of it as like running a factory with no roof and no visibility into what’s happening in that factory,” Hoadley said. “If you don’t have visibility into what’s happening out there, it’s very hard to have quality control. And the quality control in this case is what was out there, was it picked up?”&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-a-trio-of-ai-agents"&gt;A trio of AI agents&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero is now working to develop and deploy a set of three AI agents. One, Hero Vision, is focused on automatically identifying service issues and revenue opportunities. Hero Chat is a chatbot for customer inquiries. Hero Route will use route data to automatically adjust routes to make them more efficient.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“There’s an enormous amount of data in our system about pickups, work orders, billing information, and if you give these agents an understanding of your data model, you can just go tell them, hey, go build me a chart,” Hoadley said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hauler Hero plans to use some of its recent funding to commercialize these agents in addition to bulking up its offerings for municipal entities, a growing group of the company’s customers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“It wasn’t something that I necessarily thought was going to be part of this journey,” Hoadley said about working with these public entities. “It kind of came organically as many things do. We just had inbound from some municipalities and eventually we sold one of them and then we sold another.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hoadley said that he thinks some of that demand is driven by the fact that its two main competitors, Routeware and Wastech, merged in 2024, leaving government entities with little choice of providers to work with.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Hoadley said the company is now focused on fine-tuning and scaling its product — and maybe some new additions as well.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“We’re going to continue to chart the course for the next decade of being at the cutting edge of delivering value for customers, leveraging all the latest tools,” Hoadley said. “There’s a lot more fun things and valuable things that we can do for our customers, and we’re really excited about it.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This piece has been updated to better reflect which investors participated in the Series A. &lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/</guid><pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate></item><item><title>[NEW] Vega raises $120M Series B to rethink how enterprises detect cyber threats (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data lives everywhere.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;AI cybersecurity startup Vega Security wants to flip that approach by running security where the data already lives, implementing in cloud services, data lakes, and existing storage systems. And the two-year-old firm just raised a $120 million Series B round to scale that vision, TechCrunch has exclusively learned.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Led by Accel with participation from Cyberstarts, Redpoint, and CRV, the new round nearly doubles Vega’s valuation to $700 million, and brings its total funding to $185 million, money the startup will use to further develop its AI-native security operations suite, beef up its go-to-market team, and expand globally.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Shay Sandler, co-founder and CEO of Vega, told TechCrunch that the current operating model of the SIEM (security information and event management) — the dominant technology in this domain for the last two decades — is not only “crazy expensive,” but is also increasingly causing AI-native security operations to fail. In complex cloud environments, he says, the current model often increases exposure to threat actors.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Vega has defined a new operating model that enables organizations to leverage the full potential of their enterprise data to achieve incident response readiness, without all the complexity, the cost, the drama,” Sandler told TechCrunch. “We want to simply enable them to reach AI-native detection response capability anywhere the data is, at scale.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Like so many cybersecurity founders, Sandler did his time in the Israeli military’s cybersecurity unit before being one of the founding employees behind Granulate, which Intel acquired for $650 million in 2022. After a year at Intel, Sandler decided to “do it big time in the cybersecurity world.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That pedigree is partly what attracted the attention of Andrei Brasoveanu, a partner at Accel. But it was also Vega’s ambitious approach to security management in a market that is already dominated by one player: Splunk.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Brasoveanu told TechCrunch that legacy SIEM companies like Splunk, which Cisco acquired in 2024 for $28 billion, have been criticized in recent years because their solutions are difficult to scale. They fail at processing the insane rise of data volumes driven by AI.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Splunk and every contender since has always centralized the data, but by doing that you essentially hold the customer hostage,” Brasoveanu said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;However, sometimes it’s easier to hate the status quo than do the work of making a switch to a better alternative, a quandary any startup attempting to breach enterprise budgets understands. That’s why Sandler says Vega’s “North Star” was to not only build a solution that is more cost effective and better at threat detection, but “to make it no drama, as simple as possible for the biggest, most complex enterprises in the world to adopt it within minutes.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Vega’s approach seems to be working. The 100-person startup has already signed multimillion-dollar contracts with banks, healthcare companies, and Fortune 500 firms, including cloud-heavy companies like Instacart.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The only reason they would do that with a two-year-old startup is because the problem is so painful and other solutions on the market require an unrealistic expectation that the enterprise change the way they operate or do two years of data migrations,” Sandler said. “Vega enables them to just plug and play and achieve immediate detection response value.”&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data lives everywhere.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;AI cybersecurity startup Vega Security wants to flip that approach by running security where the data already lives, implementing in cloud services, data lakes, and existing storage systems. And the two-year-old firm just raised a $120 million Series B round to scale that vision, TechCrunch has exclusively learned.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Led by Accel with participation from Cyberstarts, Redpoint, and CRV, the new round nearly doubles Vega’s valuation to $700 million, and brings its total funding to $185 million, money the startup will use to further develop its AI-native security operations suite, beef up its go-to-market team, and expand globally.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Shay Sandler, co-founder and CEO of Vega, told TechCrunch that the current operating model of the SIEM (security information and event management) — the dominant technology in this domain for the last two decades — is not only “crazy expensive,” but is also increasingly causing AI-native security operations to fail. In complex cloud environments, he says, the current model often increases exposure to threat actors.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Vega has defined a new operating model that enables organizations to leverage the full potential of their enterprise data to achieve incident response readiness, without all the complexity, the cost, the drama,” Sandler told TechCrunch. “We want to simply enable them to reach AI-native detection response capability anywhere the data is, at scale.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Like so many cybersecurity founders, Sandler did his time in the Israeli military’s cybersecurity unit before being one of the founding employees behind Granulate, which Intel acquired for $650 million in 2022. After a year at Intel, Sandler decided to “do it big time in the cybersecurity world.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That pedigree is partly what attracted the attention of Andrei Brasoveanu, a partner at Accel. But it was also Vega’s ambitious approach to security management in a market that is already dominated by one player: Splunk.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;Boston, MA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;June 23, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Brasoveanu told TechCrunch that legacy SIEM companies like Splunk, which Cisco acquired in 2024 for $28 billion, have been criticized in recent years because their solutions are difficult to scale. They fail at processing the insane rise of data volumes driven by AI.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Splunk and every contender since has always centralized the data, but by doing that you essentially hold the customer hostage,” Brasoveanu said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;However, sometimes it’s easier to hate the status quo than do the work of making a switch to a better alternative, a quandary any startup attempting to breach enterprise budgets understands. That’s why Sandler says Vega’s “North Star” was to not only build a solution that is more cost effective and better at threat detection, but “to make it no drama, as simple as possible for the biggest, most complex enterprises in the world to adopt it within minutes.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Vega’s approach seems to be working. The 100-person startup has already signed multimillion-dollar contracts with banks, healthcare companies, and Fortune 500 firms, including cloud-heavy companies like Instacart.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“The only reason they would do that with a two-year-old startup is because the problem is so painful and other solutions on the market require an unrealistic expectation that the enterprise change the way they operate or do two years of data migrations,” Sandler said. “Vega enables them to just plug and play and achieve immediate detection response value.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/</guid><pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate></item><item><title>[NEW] A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/02/260205_chatgpt_boycott_hero.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot’s coding abilities and its gushing, meandering replies. Then he came across a post on Reddit about a campaign called QuitGPT.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The campaign urged ChatGPT users to cancel their subscriptions, flagging a substantial contribution by OpenAI president Greg Brockman to President Donald Trump’s super PAC MAGA Inc. It also pointed out that the US Immigration and Customs Enforcement, or ICE, uses a résumé screening tool powered by ChatGPT-4. The federal agency has become a political flashpoint since its agents fatally shot two people in Minneapolis in January.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt; &lt;p&gt;For Stephen, who had already been tinkering with other chatbots, learning about Brockman’s donation was the final straw. “That’s really the straw that broke the camel’s back,” he says. When he canceled his ChatGPT subscription, a survey popped up asking what OpenAI could have done to keep his subscription. “Don’t support the fascist regime,” he wrote.&lt;/p&gt;  &lt;p&gt;QuitGPT is one of the latest salvos in a growing movement by activists and disaffected users to cancel their subscriptions. In just the past few weeks, users have flooded Reddit with stories about quitting the chatbot. Many lamented the performance of GPT-5.2, the latest model. Others shared memes parodying the chatbot’s sycophancy. Some planned a “Mass Cancellation Party” in San Francisco, a sardonic nod to the GPT-4o funeral that an OpenAI employee had floated, poking fun at users who are mourning the model’s impending retirement. Still, others are protesting against what they see as a deepening entanglement between OpenAI and the Trump administration.&lt;/p&gt; 
+ &lt;p&gt;OpenAI did not respond to a request for comment.&lt;/p&gt;  &lt;p&gt;As of December 2025,&lt;strong&gt; &lt;/strong&gt;ChatGPT had nearly 900 million weekly active users, according to &lt;em&gt;The Information&lt;/em&gt;. While it’s unclear how many users have joined the boycott, QuitGPT is getting attention. A recent Instagram post from the campaign has more than 36 million views and 1.3 million likes. And the organizers say that more than 17,000 people have signed up on the campaign’s website, which asks people whether they canceled their subscriptions, will commit to stop using ChatGPT, or will share the campaign on social media.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;“There are lots of examples of failed campaigns like this, but we have seen a lot of effectiveness,” says Dana Fisher, a sociologist at American University. A wave of canceled subscriptions rarely sways a company’s behavior, unless it reaches a critical mass, she says. “The place where there’s a pressure point that might work is where the consumer behavior is if enough people actually use their … money to express their political opinions.”&lt;/p&gt;  &lt;p&gt;&lt;em&gt;MIT Technology Review &lt;/em&gt;reached out to three&lt;strong&gt; &lt;/strong&gt;employees at OpenAI, none of whom said they were familiar with the campaign.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Dozens of left-leaning teens and twentysomethings scattered across the US came together to organize QuitGPT in late January. They range from pro-democracy activists and climate organizers to techies and self-proclaimed cyber libertarians, many of them seasoned grassroots campaigners. They were inspired by a viral video posted by Scott Galloway, a marketing professor at New York University and host of &lt;em&gt;The Prof G Pod&lt;/em&gt;. He argued that the best way to stop ICE was to persuade people to cancel their ChatGPT subscriptions. Denting OpenAI’s subscriber base could ripple through the stock market and threaten an economic downturn that would nudge Trump, he said.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_5"&gt; &lt;p&gt;“We make a big enough stink for OpenAI that all of the companies in the whole AI industry have to think about whether they’re going to get away enabling Trump and ICE and authoritarianism,” says an organizer of QuitGPT who requested anonymity because he feared retaliation by OpenAI, citing the company’s recent subpoenas against advocates at nonprofits. OpenAI made for an obvious first target of the movement, he says, but “this is about so much more than just OpenAI.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_7"&gt; &lt;p&gt;Simon Rosenblum-Larson, a labor organizer in Madison, Wisconsin, who organizes movements to regulate the development of data centers, joined the campaign after hearing about it through Signal chats among community activists. “The goal here is to pull away the support pillars of the Trump administration. They’re reliant on many of these tech billionaires for support and for resources,” he says.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;QuitGPT’s website points to new campaign finance reports showing that Greg Brockman and his wife each donated $12.5 million to MAGA Inc., making up nearly a quarter of the roughly $102 million it raised over the second half of 2025. The information that ICE uses a résumé screening tool powered by ChatGPT-4 came from an AI inventory published by the Department of Homeland Security in January.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_9"&gt;&lt;p&gt;QuitGPT is in the mold of Galloway’s own recently launched campaign, Resist and Unsubscribe. The movement urges consumers to cancel their subscriptions to Big Tech platforms, including ChatGPT, for the month of February, as a protest to companies “driving the markets and enabling our president.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“A lot of people are feeling real anxiety,” Galloway told &lt;em&gt;MIT Technology Review&lt;/em&gt;. “You take enabling a president, proximity to the president, and an unease around AI,” he says, “and now people are starting to take action with their wallets.” Galloway says his campaign’s website can draw more than 200,000 unique visits in a day and that he receives dozens of DMs every hour showing screenshots of canceled subscriptions.&lt;/p&gt; 
+
+ &lt;p&gt;The consumer boycotts follow a growing wave of pressure from inside the companies themselves. In recent weeks, tech workers have been urging their employers to use their political clout to demand that ICE leave US cities, cancel company contracts with the agency, and speak out against the agency’s actions. CEOs have started responding. OpenAI’s Sam Altman wrote in an internal Slack message to employees that ICE is “going too far.” Apple CEO Tim Cook called for a “deescalation” in an internal memo posted on the company’s website for employees. It was a departure from how Big Tech CEOs have courted President Trump with dinners and donations since his inauguration.&lt;/p&gt;  &lt;p&gt;Although spurred by a fatal immigration crackdown, these developments signal that a sprawling anti-AI movement is gaining momentum. The campaigns are tapping into simmering anxieties about AI, says Rosenblum-Larson, including the energy costs of data centers, the plague of deepfake porn, the teen mental-health crisis, the job apocalypse, and slop. “It’s a really strange set of coalitions built around the AI movement,” he says.&lt;/p&gt;  &lt;p&gt;“Those are the right conditions for a movement to spring up,” says David Karpf, a professor of media and public affairs at George Washington University. Brockman’s donation to Trump’s super PAC caught many users off guard, he says. “In the longer arc, we are going to see users respond and react to Big Tech, deciding that they’re not okay with this.”&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/02/260205_chatgpt_boycott_hero.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot’s coding abilities and its gushing, meandering replies. Then he came across a post on Reddit about a campaign called QuitGPT.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The campaign urged ChatGPT users to cancel their subscriptions, flagging a substantial contribution by OpenAI president Greg Brockman to President Donald Trump’s super PAC MAGA Inc. It also pointed out that the US Immigration and Customs Enforcement, or ICE, uses a résumé screening tool powered by ChatGPT-4. The federal agency has become a political flashpoint since its agents fatally shot two people in Minneapolis in January.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt; &lt;p&gt;For Stephen, who had already been tinkering with other chatbots, learning about Brockman’s donation was the final straw. “That’s really the straw that broke the camel’s back,” he says. When he canceled his ChatGPT subscription, a survey popped up asking what OpenAI could have done to keep his subscription. “Don’t support the fascist regime,” he wrote.&lt;/p&gt;  &lt;p&gt;QuitGPT is one of the latest salvos in a growing movement by activists and disaffected users to cancel their subscriptions. In just the past few weeks, users have flooded Reddit with stories about quitting the chatbot. Many lamented the performance of GPT-5.2, the latest model. Others shared memes parodying the chatbot’s sycophancy. Some planned a “Mass Cancellation Party” in San Francisco, a sardonic nod to the GPT-4o funeral that an OpenAI employee had floated, poking fun at users who are mourning the model’s impending retirement. Still, others are protesting against what they see as a deepening entanglement between OpenAI and the Trump administration.&lt;/p&gt; 
+ &lt;p&gt;OpenAI did not respond to a request for comment.&lt;/p&gt;  &lt;p&gt;As of December 2025,&lt;strong&gt; &lt;/strong&gt;ChatGPT had nearly 900 million weekly active users, according to &lt;em&gt;The Information&lt;/em&gt;. While it’s unclear how many users have joined the boycott, QuitGPT is getting attention. A recent Instagram post from the campaign has more than 36 million views and 1.3 million likes. And the organizers say that more than 17,000 people have signed up on the campaign’s website, which asks people whether they canceled their subscriptions, will commit to stop using ChatGPT, or will share the campaign on social media.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;“There are lots of examples of failed campaigns like this, but we have seen a lot of effectiveness,” says Dana Fisher, a sociologist at American University. A wave of canceled subscriptions rarely sways a company’s behavior, unless it reaches a critical mass, she says. “The place where there’s a pressure point that might work is where the consumer behavior is if enough people actually use their … money to express their political opinions.”&lt;/p&gt;  &lt;p&gt;&lt;em&gt;MIT Technology Review &lt;/em&gt;reached out to three&lt;strong&gt; &lt;/strong&gt;employees at OpenAI, none of whom said they were familiar with the campaign.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Dozens of left-leaning teens and twentysomethings scattered across the US came together to organize QuitGPT in late January. They range from pro-democracy activists and climate organizers to techies and self-proclaimed cyber libertarians, many of them seasoned grassroots campaigners. They were inspired by a viral video posted by Scott Galloway, a marketing professor at New York University and host of &lt;em&gt;The Prof G Pod&lt;/em&gt;. He argued that the best way to stop ICE was to persuade people to cancel their ChatGPT subscriptions. Denting OpenAI’s subscriber base could ripple through the stock market and threaten an economic downturn that would nudge Trump, he said.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_5"&gt; &lt;p&gt;“We make a big enough stink for OpenAI that all of the companies in the whole AI industry have to think about whether they’re going to get away enabling Trump and ICE and authoritarianism,” says an organizer of QuitGPT who requested anonymity because he feared retaliation by OpenAI, citing the company’s recent subpoenas against advocates at nonprofits. OpenAI made for an obvious first target of the movement, he says, but “this is about so much more than just OpenAI.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_7"&gt; &lt;p&gt;Simon Rosenblum-Larson, a labor organizer in Madison, Wisconsin, who organizes movements to regulate the development of data centers, joined the campaign after hearing about it through Signal chats among community activists. “The goal here is to pull away the support pillars of the Trump administration. They’re reliant on many of these tech billionaires for support and for resources,” he says.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;QuitGPT’s website points to new campaign finance reports showing that Greg Brockman and his wife each donated $12.5 million to MAGA Inc., making up nearly a quarter of the roughly $102 million it raised over the second half of 2025. The information that ICE uses a résumé screening tool powered by ChatGPT-4 came from an AI inventory published by the Department of Homeland Security in January.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_9"&gt;&lt;p&gt;QuitGPT is in the mold of Galloway’s own recently launched campaign, Resist and Unsubscribe. The movement urges consumers to cancel their subscriptions to Big Tech platforms, including ChatGPT, for the month of February, as a protest to companies “driving the markets and enabling our president.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;“A lot of people are feeling real anxiety,” Galloway told &lt;em&gt;MIT Technology Review&lt;/em&gt;. “You take enabling a president, proximity to the president, and an unease around AI,” he says, “and now people are starting to take action with their wallets.” Galloway says his campaign’s website can draw more than 200,000 unique visits in a day and that he receives dozens of DMs every hour showing screenshots of canceled subscriptions.&lt;/p&gt; 
+
+ &lt;p&gt;The consumer boycotts follow a growing wave of pressure from inside the companies themselves. In recent weeks, tech workers have been urging their employers to use their political clout to demand that ICE leave US cities, cancel company contracts with the agency, and speak out against the agency’s actions. CEOs have started responding. OpenAI’s Sam Altman wrote in an internal Slack message to employees that ICE is “going too far.” Apple CEO Tim Cook called for a “deescalation” in an internal memo posted on the company’s website for employees. It was a departure from how Big Tech CEOs have courted President Trump with dinners and donations since his inauguration.&lt;/p&gt;  &lt;p&gt;Although spurred by a fatal immigration crackdown, these developments signal that a sprawling anti-AI movement is gaining momentum. The campaigns are tapping into simmering anxieties about AI, says Rosenblum-Larson, including the energy costs of data centers, the plague of deepfake porn, the teen mental-health crisis, the job apocalypse, and slop. “It’s a really strange set of coalitions built around the AI movement,” he says.&lt;/p&gt;  &lt;p&gt;“Those are the right conditions for a movement to spring up,” says David Karpf, a professor of media and public affairs at George Washington University. Brockman’s donation to Trump’s super PAC caught many users off guard, he says. “In the longer arc, we are going to see users respond and react to Big Tech, deciding that they’re not okay with this.”&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/</guid><pubDate>Tue, 10 Feb 2026 17:00:24 +0000</pubDate></item><item><title>[NEW] Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations (The latest research from Google)</title><link>https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;Conversational AI has fundamentally reshaped how we interact with technology. While one-on-one interactions with large language models (LLMs) have seen significant advances, they rarely capture the full complexity of human communication. Many real-world dialogues, including team meetings, family dinners, or classroom lessons, are inherently multi-party. These interactions involve fluid turn-taking, shifting roles, and dynamic interruptions.&lt;/p&gt;&lt;p&gt;For designers and developers, simulating natural and engaging multi-party conversations has historically required a trade-off: settle for the &lt;i&gt;rigidity&lt;/i&gt; of scripted interaction or accept the &lt;i&gt;unpredictability&lt;/i&gt; of purely generative models. To bridge this gap, we need tools that blend the structural predictability of a script with the spontaneous, improvisational nature of human conversation.&lt;/p&gt;&lt;p&gt;To address this need, we introduce DialogLab, presented at ACM UIST 2025, an open-source prototyping framework designed to author, simulate, and test dynamic human-AI group conversations. DialogLab provides a unified interface to manage multi-party dialogue complexity, handling everything from defining agent personas to orchestrating complex turn-taking dynamics. Through integrating real-time improvisation with structured scripting, this framework enables developers to test conversations ranging from a structured Q&amp;amp;A session to a free-flowing creative brainstorm. Our evaluations with 14 end users or domain experts validate that DialogLab supports efficient iteration and realistic, adaptable multi-party design for training and research.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;Conversational AI has fundamentally reshaped how we interact with technology. While one-on-one interactions with large language models (LLMs) have seen significant advances, they rarely capture the full complexity of human communication. Many real-world dialogues, including team meetings, family dinners, or classroom lessons, are inherently multi-party. These interactions involve fluid turn-taking, shifting roles, and dynamic interruptions.&lt;/p&gt;&lt;p&gt;For designers and developers, simulating natural and engaging multi-party conversations has historically required a trade-off: settle for the &lt;i&gt;rigidity&lt;/i&gt; of scripted interaction or accept the &lt;i&gt;unpredictability&lt;/i&gt; of purely generative models. To bridge this gap, we need tools that blend the structural predictability of a script with the spontaneous, improvisational nature of human conversation.&lt;/p&gt;&lt;p&gt;To address this need, we introduce DialogLab, presented at ACM UIST 2025, an open-source prototyping framework designed to author, simulate, and test dynamic human-AI group conversations. DialogLab provides a unified interface to manage multi-party dialogue complexity, handling everything from defining agent personas to orchestrating complex turn-taking dynamics. Through integrating real-time improvisation with structured scripting, this framework enables developers to test conversations ranging from a structured Q&amp;amp;A session to a free-flowing creative brainstorm. Our evaluations with 14 end users or domain experts validate that DialogLab supports efficient iteration and realistic, adaptable multi-party design for training and research.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/</guid><pubDate>Tue, 10 Feb 2026 18:30:15 +0000</pubDate></item><item><title>[NEW] Yet another co-founder departs Elon Musk's xAI (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Tony Wu leaves a company now entangled with social media, space-based IPOs.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Photo illustration in which the logo of Grok 4 is displayed on a smartphone screen with the xAI logo in the background." class="absolute inset-0 w-full h-full object-cover hidden" height="426" src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-640x426.jpg" width="640" /&gt;
+                  &lt;img alt="Photo illustration in which the logo of Grok 4 is displayed on a smartphone screen with the xAI logo in the background." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-1152x648-1752596823.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      xAI finds itself with one fewer co-founder than it had last week.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Getty Images | VCG 
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;xAI co-founder Tony Wu abruptly announced his resignation from the company late Monday night, the latest in a string of senior executives to leave the Grok-maker in recent months.&lt;/p&gt;
+&lt;p&gt;In a post on social media, Wu expressed warm feelings for his time at xAI, but said it was “time for my next chapter.” The current era is one where “a small team armed with AIs can move mountains and redefine what’s possible,” he wrote.&lt;/p&gt;
+&lt;p&gt;The mention of what “a small team” can do could hint at a potential reason for Wu’s departure. xAI reportedly had 1,200 employees as of March 2025, a number that included AI engineers and those focused more on the X social network. That number also included 900 employees that served solely as “AI tutors,” though roughly 500 of those were reportedly laid off in September.&lt;/p&gt;
+&lt;p&gt;Wu’s departure comes just months after fellow xAI co-founder Igor Babuschkin departed the company in August to start his own AI safety-focused venture capital firm. Co-founders Kyle Kosic and Christian Szegedy also departed the company since its 2023 founding, and co-founder Greg Yang stepped back from the company last month amid complications from chronic Lyme disease.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Other recent high-profile xAI departures include general counsel Robert Keele, communications executives Dave Heinzinger and John Stoll, head of product engineering Haofei Wang, and CFO Mike Liberatore, who left for a role at OpenAI after just 102 days of what he called “120+ hour weeks.”&lt;/p&gt;
+&lt;h2&gt;A different company&lt;/h2&gt;
+&lt;p&gt;Wu leaves a company that is in a very different place than it was when he helped create it in 2023. His departure comes just days after CEO Elon Musk merged xAI with SpaceX, a move Musk says will allow for orbiting data centers and, eventually, “scaling to make a sentient sun to understand the Universe and extend the light of consciousness to the stars!” But some see the move as more of a financial engineering play, combining xAI’s nearly $1 billion a year in losses and SpaceX’s roughly $8 billion in annual profits into a single, more IPO-ready entity.&lt;/p&gt;
+&lt;p&gt;Musk previously rolled social media network X (formerly Twitter) into a unified entity with xAI back in March. At the time of the deal, X was valued at $33 billion, 25 percent less than Musk paid for the social network in 2022.&lt;/p&gt;
+&lt;p&gt;xAI has faced a fresh wave of criticism in recent months over Grok’s willingness to generate sexualized images of minors. That has led to an investigation by California’s attorney general and a police raid of the company’s Paris offices.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Tony Wu leaves a company now entangled with social media, space-based IPOs.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="Photo illustration in which the logo of Grok 4 is displayed on a smartphone screen with the xAI logo in the background." class="absolute inset-0 w-full h-full object-cover hidden" height="426" src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-640x426.jpg" width="640" /&gt;
+                  &lt;img alt="Photo illustration in which the logo of Grok 4 is displayed on a smartphone screen with the xAI logo in the background." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-1152x648-1752596823.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      xAI finds itself with one fewer co-founder than it had last week.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Getty Images | VCG 
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;xAI co-founder Tony Wu abruptly announced his resignation from the company late Monday night, the latest in a string of senior executives to leave the Grok-maker in recent months.&lt;/p&gt;
+&lt;p&gt;In a post on social media, Wu expressed warm feelings for his time at xAI, but said it was “time for my next chapter.” The current era is one where “a small team armed with AIs can move mountains and redefine what’s possible,” he wrote.&lt;/p&gt;
+&lt;p&gt;The mention of what “a small team” can do could hint at a potential reason for Wu’s departure. xAI reportedly had 1,200 employees as of March 2025, a number that included AI engineers and those focused more on the X social network. That number also included 900 employees that served solely as “AI tutors,” though roughly 500 of those were reportedly laid off in September.&lt;/p&gt;
+&lt;p&gt;Wu’s departure comes just months after fellow xAI co-founder Igor Babuschkin departed the company in August to start his own AI safety-focused venture capital firm. Co-founders Kyle Kosic and Christian Szegedy also departed the company since its 2023 founding, and co-founder Greg Yang stepped back from the company last month amid complications from chronic Lyme disease.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Other recent high-profile xAI departures include general counsel Robert Keele, communications executives Dave Heinzinger and John Stoll, head of product engineering Haofei Wang, and CFO Mike Liberatore, who left for a role at OpenAI after just 102 days of what he called “120+ hour weeks.”&lt;/p&gt;
+&lt;h2&gt;A different company&lt;/h2&gt;
+&lt;p&gt;Wu leaves a company that is in a very different place than it was when he helped create it in 2023. His departure comes just days after CEO Elon Musk merged xAI with SpaceX, a move Musk says will allow for orbiting data centers and, eventually, “scaling to make a sentient sun to understand the Universe and extend the light of consciousness to the stars!” But some see the move as more of a financial engineering play, combining xAI’s nearly $1 billion a year in losses and SpaceX’s roughly $8 billion in annual profits into a single, more IPO-ready entity.&lt;/p&gt;
+&lt;p&gt;Musk previously rolled social media network X (formerly Twitter) into a unified entity with xAI back in March. At the time of the deal, X was valued at $33 billion, 25 percent less than Musk paid for the social network in 2022.&lt;/p&gt;
+&lt;p&gt;xAI has faced a fresh wave of criticism in recent months over Grok’s willingness to generate sexualized images of minors. That has led to an investigation by California’s attorney general and a police raid of the company’s Paris offices.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/</guid><pubDate>Tue, 10 Feb 2026 18:54:39 +0000</pubDate></item></channel></rss>
