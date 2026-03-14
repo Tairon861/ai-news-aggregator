@@ -1,331 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 14 Mar 2026 02:21:42 +0000</lastBuildDate><item><title>Why physical AI is becoming manufacturing’s next advantage (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/</link><description>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;&lt;span class="sponsoredModule__name--dbd90349922f15155a4c483b397356c2"&gt;Microsoft and NVIDIA&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough.&lt;/p&gt;  &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-1134186" src="https://wp.technologyreview.com/wp-content/uploads/2026/03/MIT-Article-Image-1200x675_C.jpg?w=1200" /&gt;&lt;/figure&gt;  &lt;p&gt;Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase of transformation will not be defined by isolated AI tools or individual robots, but by intelligence that can operate reliably in the physical world&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;This is where physical AI—intelligence that can sense, reason, and act in the real world—marks a decisive shift. And it is why Microsoft and NVIDIA are working together to help manufacturers move from experimentation to production at industrial scale.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The industrial frontier: Intelligence and trust, not just automation&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Most early AI adoption focused on narrow optimization: automating tasks, improving utilization, and cutting costs. While valuable, that phase often created new friction, including skills gaps, governance concerns, and uncertainty about long‑term impact. Furthermore, the use cases were plentiful but not as strategic.&lt;/p&gt; 
- &lt;p&gt;The industrial frontier represents a different approach. Rather than asking how much work machines can replace, frontier manufacturers ask how AI can expand human capability, accelerate innovation, and unlock new forms of value while remaining trustworthy and controllable.&lt;/p&gt;  &lt;p&gt;Across industries, companies that successfully move into this frontier phase share two non‑negotiables:&lt;/p&gt; 
- &lt;ul class="wp-block-list"&gt; &lt;li&gt;Intelligence: AI systems must understand how the business actually handles its data, workflows, and institutional knowledge.&lt;/li&gt;    &lt;li&gt;Trust: As AI begins to act in high‑stakes environments, organizations must retain security, governance, and observability at every layer.&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;Without intelligence, AI becomes generic. Without trust, adoption stalls.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Why manufacturing is the proving ground for physical AI&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Manufacturing is uniquely positioned at the center of this shift.&lt;/p&gt;  &lt;p&gt;AI is no longer confined to planning or analytics. It is moving into physical execution: coordinating machines, adapting to real‑world variability, and working alongside people on the factory floor. Robotics, autonomous systems, and AI agents must now perceive, reason, and act in dynamic environments.&lt;/p&gt;  &lt;p&gt;This transition exposes a critical gap. Traditional automation excels at repetition but struggles with adaptability. Human workers bring judgment and context but are constrained by scale. Physical AI closes that gap by enabling human‑led, AI‑operated systems, where people set intent and intelligent systems execute, learn, and improve over time. Humans are essential for scaled success.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Microsoft and NVIDIA: Accelerating physical AI at scale&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Physical AI cannot be delivered through point solutions. It requires agentic-driven, enterprise-grade development, deployment, and operations toolchains and workflows that connect&amp;nbsp;simulation, data, AI models, robotics, and governance into a coherent system.&lt;/p&gt;  &lt;p&gt;NVIDIA is building the AI infrastructure that makes physical AI possible, including&amp;nbsp;accelerated computing, open models, simulation libraries, and robotics frameworks and blueprints that enable the ecosystem to build autonomous robotics systems that can perceive, reason, plan, and take action in the physical world. Microsoft complements this with a cloud and data platform designed to operate physical AI securely, at scale, and across the enterprise&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Together, Microsoft and NVIDIA are enabling manufacturers to move beyond pilots toward production‑ready physical AI systems that can be developed, tested, deployed, and continuously improved across heterogeneous environments spanning the product lifecycle, factory operations, and supply chain.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;From intelligence to action: Human-agent teams in the factory&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;At the industrial frontier, AI is not a standalone system, but a digital teammate.&lt;/p&gt; 
-
- &lt;p&gt;When AI agents are grounded in the proper operational data, embedded in human workflows, and governed end to end, they can assist with tasks such as:&lt;/p&gt;  &lt;ul class="wp-block-list"&gt; &lt;li&gt;Optimizing production lines in real time&lt;/li&gt;    &lt;li&gt;Coordinating maintenance and quality decisions&lt;/li&gt;    &lt;li&gt;Adapting operations to supply or demand disruptions&lt;/li&gt;    &lt;li&gt;Accelerating engineering and product lifecycle decisions&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;For example, manufacturers are beginning to use simulation‑grounded AI agents to evaluate production changes virtually before deploying them on the factory floor, reducing risk while accelerating decision‑making.&lt;/p&gt;  &lt;p&gt;Crucially, frontier manufacturers design these systems so humans remain in control. AI executes, monitors, and recommends, while people provide intent, oversight, and judgment. This balance allows organizations to move faster without losing confidence or control.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The role of trust in scaling physical AI&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;As physical AI systems scale, trust becomes the limiting factor.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Manufacturers must ensure that AI systems are secure, observable, and operating within policy, especially when they influence safety‑critical or mission‑critical processes. Governance cannot be an afterthought; It must be engineered into the platform itself.&lt;/p&gt;  &lt;p&gt;This is why frontier manufacturers treat trust as a first‑class requirement, pairing innovation with visibility, compliance, and accountability. Only then can physical AI move from promising demonstrations to enterprise‑wide deployment.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Why this moment matters—and what’s next&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;The convergence of AI agents, robotics, simulation, and real‑time data marks an inflection point for manufacturing. What was once experimental is becoming operational. What was once siloed is becoming connected.&lt;/p&gt;  &lt;p&gt;At NVIDIA GTC 2026, Microsoft and NVIDIA will demonstrate how this collaboration supports physical AI systems that manufacturers can deploy today and scale responsibly tomorrow. From simulation‑driven development to real‑world execution, the focus is on helping manufacturers cross the industrial frontier with confidence.&lt;/p&gt; 
- &lt;p&gt;For manufacturing leaders, the question is no longer whether physical AI will reshape operations, but how quickly they can adopt it responsibly, at scale, and with trust built in from the start.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Discover more with Microsoft at NVIDIA GTC 2026&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;strong&gt;&lt;em&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Microsoft. It was not written by MIT Technology Review’s editorial staff.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;&lt;span class="sponsoredModule__name--dbd90349922f15155a4c483b397356c2"&gt;Microsoft and NVIDIA&lt;/span&gt;&lt;/p&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough.&lt;/p&gt;  &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-1134186" src="https://wp.technologyreview.com/wp-content/uploads/2026/03/MIT-Article-Image-1200x675_C.jpg?w=1200" /&gt;&lt;/figure&gt;  &lt;p&gt;Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase of transformation will not be defined by isolated AI tools or individual robots, but by intelligence that can operate reliably in the physical world&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;This is where physical AI—intelligence that can sense, reason, and act in the real world—marks a decisive shift. And it is why Microsoft and NVIDIA are working together to help manufacturers move from experimentation to production at industrial scale.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The industrial frontier: Intelligence and trust, not just automation&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Most early AI adoption focused on narrow optimization: automating tasks, improving utilization, and cutting costs. While valuable, that phase often created new friction, including skills gaps, governance concerns, and uncertainty about long‑term impact. Furthermore, the use cases were plentiful but not as strategic.&lt;/p&gt; 
- &lt;p&gt;The industrial frontier represents a different approach. Rather than asking how much work machines can replace, frontier manufacturers ask how AI can expand human capability, accelerate innovation, and unlock new forms of value while remaining trustworthy and controllable.&lt;/p&gt;  &lt;p&gt;Across industries, companies that successfully move into this frontier phase share two non‑negotiables:&lt;/p&gt; 
- &lt;ul class="wp-block-list"&gt; &lt;li&gt;Intelligence: AI systems must understand how the business actually handles its data, workflows, and institutional knowledge.&lt;/li&gt;    &lt;li&gt;Trust: As AI begins to act in high‑stakes environments, organizations must retain security, governance, and observability at every layer.&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;Without intelligence, AI becomes generic. Without trust, adoption stalls.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Why manufacturing is the proving ground for physical AI&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Manufacturing is uniquely positioned at the center of this shift.&lt;/p&gt;  &lt;p&gt;AI is no longer confined to planning or analytics. It is moving into physical execution: coordinating machines, adapting to real‑world variability, and working alongside people on the factory floor. Robotics, autonomous systems, and AI agents must now perceive, reason, and act in dynamic environments.&lt;/p&gt;  &lt;p&gt;This transition exposes a critical gap. Traditional automation excels at repetition but struggles with adaptability. Human workers bring judgment and context but are constrained by scale. Physical AI closes that gap by enabling human‑led, AI‑operated systems, where people set intent and intelligent systems execute, learn, and improve over time. Humans are essential for scaled success.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Microsoft and NVIDIA: Accelerating physical AI at scale&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Physical AI cannot be delivered through point solutions. It requires agentic-driven, enterprise-grade development, deployment, and operations toolchains and workflows that connect&amp;nbsp;simulation, data, AI models, robotics, and governance into a coherent system.&lt;/p&gt;  &lt;p&gt;NVIDIA is building the AI infrastructure that makes physical AI possible, including&amp;nbsp;accelerated computing, open models, simulation libraries, and robotics frameworks and blueprints that enable the ecosystem to build autonomous robotics systems that can perceive, reason, plan, and take action in the physical world. Microsoft complements this with a cloud and data platform designed to operate physical AI securely, at scale, and across the enterprise&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Together, Microsoft and NVIDIA are enabling manufacturers to move beyond pilots toward production‑ready physical AI systems that can be developed, tested, deployed, and continuously improved across heterogeneous environments spanning the product lifecycle, factory operations, and supply chain.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;From intelligence to action: Human-agent teams in the factory&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;At the industrial frontier, AI is not a standalone system, but a digital teammate.&lt;/p&gt; 
-
- &lt;p&gt;When AI agents are grounded in the proper operational data, embedded in human workflows, and governed end to end, they can assist with tasks such as:&lt;/p&gt;  &lt;ul class="wp-block-list"&gt; &lt;li&gt;Optimizing production lines in real time&lt;/li&gt;    &lt;li&gt;Coordinating maintenance and quality decisions&lt;/li&gt;    &lt;li&gt;Adapting operations to supply or demand disruptions&lt;/li&gt;    &lt;li&gt;Accelerating engineering and product lifecycle decisions&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;For example, manufacturers are beginning to use simulation‑grounded AI agents to evaluate production changes virtually before deploying them on the factory floor, reducing risk while accelerating decision‑making.&lt;/p&gt;  &lt;p&gt;Crucially, frontier manufacturers design these systems so humans remain in control. AI executes, monitors, and recommends, while people provide intent, oversight, and judgment. This balance allows organizations to move faster without losing confidence or control.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;The role of trust in scaling physical AI&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;As physical AI systems scale, trust becomes the limiting factor.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Manufacturers must ensure that AI systems are secure, observable, and operating within policy, especially when they influence safety‑critical or mission‑critical processes. Governance cannot be an afterthought; It must be engineered into the platform itself.&lt;/p&gt;  &lt;p&gt;This is why frontier manufacturers treat trust as a first‑class requirement, pairing innovation with visibility, compliance, and accountability. Only then can physical AI move from promising demonstrations to enterprise‑wide deployment.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Why this moment matters—and what’s next&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;The convergence of AI agents, robotics, simulation, and real‑time data marks an inflection point for manufacturing. What was once experimental is becoming operational. What was once siloed is becoming connected.&lt;/p&gt;  &lt;p&gt;At NVIDIA GTC 2026, Microsoft and NVIDIA will demonstrate how this collaboration supports physical AI systems that manufacturers can deploy today and scale responsibly tomorrow. From simulation‑driven development to real‑world execution, the focus is on helping manufacturers cross the industrial frontier with confidence.&lt;/p&gt; 
- &lt;p&gt;For manufacturing leaders, the question is no longer whether physical AI will reshape operations, but how quickly they can adopt it responsibly, at scale, and with trust built in from the start.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Discover more with Microsoft at NVIDIA GTC 2026&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;strong&gt;&lt;em&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Microsoft. It was not written by MIT Technology Review’s editorial staff.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/</guid><pubDate>Fri, 13 Mar 2026 15:16:55 +0000</pubDate></item><item><title>The $32B acquisition that one VC is calling the ‘Deal of the Decade’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div class="jwppp-video-box" id="jwppp-video-box-31023441"&gt;
-
-
-
-
-
-
-&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
-&lt;/div&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized after a declined 2024 offer, antitrust review on both sides of the Atlantic, and an extra $9 billion to sweeten the pot.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On this episode of TechCrunch’s Equity podcast, Anthony Ha, Rebecca Bellan, and Sean O’Kane sit down with Shah to dig into what made Wiz worth that price tag and more of the week’s headlines. From DOGE data concerns to Palmer Luckey’s retro gaming startup and Meta’s acquisition of viral AI agent social network Moltbook. Plus, the latest in the Anthropic vs. DoD saga as tech workers at OpenAI, Google, and Microsoft sign on to a legal brief in support of Anthropic.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div class="jwppp-video-box" id="jwppp-video-box-31023441"&gt;
-
-
-
-
-
-
-&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
-&lt;/div&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized after a declined 2024 offer, antitrust review on both sides of the Atlantic, and an extra $9 billion to sweeten the pot.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On this episode of TechCrunch’s Equity podcast, Anthony Ha, Rebecca Bellan, and Sean O’Kane sit down with Shah to dig into what made Wiz worth that price tag and more of the week’s headlines. From DOGE data concerns to Palmer Luckey’s retro gaming startup and Meta’s acquisition of viral AI agent social network Moltbook. Plus, the latest in the Anthropic vs. DoD saga as tech workers at OpenAI, Google, and Microsoft sign on to a legal brief in support of Anthropic.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/</guid><pubDate>Fri, 13 Mar 2026 16:20:23 +0000</pubDate></item><item><title>Spotify will let you edit your Taste Profile to control your recommendations (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;At the SXSW conference on Friday, Spotify co-CEO Gustav Söderström announced a new feature, launching in beta, that will allow listeners for the first time to review and edit their Taste Profile, the algorithmically generated model of their music preferences.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This Taste Profile is key to Spotify’s recommendations, including personalized playlists like Discover Weekly, Made For You recommendations, and the year-end review known as Spotify Wrapped, among other things.   &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Starting with Premium listeners initially in New Zealand, Spotify will allow users to see all their listening data in one place in the app, including music, podcasts, and audiobooks. Users will then be able to edit this profile and even fine-tune future recommendations by asking for more or less of a certain vibe. After doing so, the app’s home page will reflect a different set of suggestions.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3102356" height="680" src="https://techcrunch.com/wp-content/uploads/2026/03/Spotify_TasteProfile.gif?w=544" width="544" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Spotify&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To access the Taste Profile, users tap on their profile pic, then scroll down. Changes can be made using natural language prompts.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Spotify had previously offered some tools to remove music from your Taste Profile before, but they were not as comprehensive. Instead, users were only able to exclude certain tracks or playlists from their profile. Because of this, and the largely hidden nature of the Taste Profile overall, Spotify users often complained that the app’s recommendations didn’t reflect their interests.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3102404" height="260" src="https://techcrunch.com/wp-content/uploads/2026/03/FTR-Header09485093485-1920x733-1.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Today, users often share their Spotify account with others, like family members who access their account through a shared smart speaker or smart TV in the living room, for example, or teens who take over in CarPlay while they drive.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other times, users may listen to music that they don’t want to characterize as their “taste,” like the sleep sounds or quiet tracks they play at night, or music to entertain their kids. Users don’t always remember which tracks or playlists need to be removed, nor do they have time to go back and do so. This can lead to the Taste Profile becoming cluttered with music users don’t like.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It also significantly impacted, even ruined, many people’s annual Wrapped experience in the app — particularly because of kids’ use of their parents’ Spotify accounts. For years, Spotify users have asked for a fix for this problem.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Spotify says the Taste Profile feature will roll out in the coming weeks in New Zealand before expanding to other markets. &lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;At the SXSW conference on Friday, Spotify co-CEO Gustav Söderström announced a new feature, launching in beta, that will allow listeners for the first time to review and edit their Taste Profile, the algorithmically generated model of their music preferences.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This Taste Profile is key to Spotify’s recommendations, including personalized playlists like Discover Weekly, Made For You recommendations, and the year-end review known as Spotify Wrapped, among other things.   &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Starting with Premium listeners initially in New Zealand, Spotify will allow users to see all their listening data in one place in the app, including music, podcasts, and audiobooks. Users will then be able to edit this profile and even fine-tune future recommendations by asking for more or less of a certain vibe. After doing so, the app’s home page will reflect a different set of suggestions.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3102356" height="680" src="https://techcrunch.com/wp-content/uploads/2026/03/Spotify_TasteProfile.gif?w=544" width="544" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Spotify&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To access the Taste Profile, users tap on their profile pic, then scroll down. Changes can be made using natural language prompts.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Spotify had previously offered some tools to remove music from your Taste Profile before, but they were not as comprehensive. Instead, users were only able to exclude certain tracks or playlists from their profile. Because of this, and the largely hidden nature of the Taste Profile overall, Spotify users often complained that the app’s recommendations didn’t reflect their interests.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3102404" height="260" src="https://techcrunch.com/wp-content/uploads/2026/03/FTR-Header09485093485-1920x733-1.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Today, users often share their Spotify account with others, like family members who access their account through a shared smart speaker or smart TV in the living room, for example, or teens who take over in CarPlay while they drive.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other times, users may listen to music that they don’t want to characterize as their “taste,” like the sleep sounds or quiet tracks they play at night, or music to entertain their kids. Users don’t always remember which tracks or playlists need to be removed, nor do they have time to go back and do so. This can lead to the Taste Profile becoming cluttered with music users don’t like.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It also significantly impacted, even ruined, many people’s annual Wrapped experience in the app — particularly because of kids’ use of their parents’ Spotify accounts. For years, Spotify users have asked for a fix for this problem.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Spotify says the Taste Profile feature will roll out in the coming weeks in New Zealand before expanding to other markets. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/</guid><pubDate>Fri, 13 Mar 2026 17:04:12 +0000</pubDate></item><item><title>The wild six weeks for NanoClaw’s creator that led to a deal with Docker (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;It’s been a whirlwind for NanoClaw creator Gavriel Cohen.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;About six weeks ago, he introduced NanoClaw on Hacker News as a tiny, open source, secure alternative to the AI agent-building sensation OpenClaw, after he built it in a weekend coding binge. That post went viral.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“I sat down on the couch in my sweatpants,” Cohen told TechCrunch, “and just basically melted into [it] the whole weekend, probably almost 48 hours straight.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;About three weeks ago, an X post praising NanoClaw from famed AI researcher Andrej Karpathy went viral.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;About a week ago, Cohen closed down his AI marketing startup to focus full-time on NanoClaw and launch a company around it called NanoCo. The attention from Hacker News and Karpathy had translated into 22,000 stars on GitHub, 4,600 forks (people building new versions off the project), and over 50 contributors. He’s already added hundreds of updates to his project with hundreds more in the queue.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, on Friday, Cohen announced a deal with Docker — the company that essentially invented the container technology NanoClaw is built on, and counts millions of developers and nearly 80,000 enterprise customers — to integrate Docker Sandboxes into NanoClaw.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-scary-security-of-openclaw-nbsp"&gt;Scary security of OpenClaw&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It all started when Cohen launched an AI marketing startup with his brother, Lazer Cohen, a few months ago. The startup offered marketing services like market research, go-to-market analysis, and blog posts through a small team of people using AI agents.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The agency started booking customers, and was on track to hit $1 million in annual recurring revenue, the brothers told TechCrunch.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It was going really well, great traction. I’m a huge believer in that business model of AI-native service companies that have margins and operate like a software company but are actually providing services,” said Cohen, a computer programmer who previously worked for website hosting company Wix.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He had built the agents the startup was using, largely using Claude Code, each designed to do specific tasks. But there was “a piece” missing, he said. The agent could do work when prompted, but the humans couldn’t pre-schedule work, or connect agents to team communication tools like WhatsApp and assign tasks that way. (WhatsApp is to most of the world what Slack is to corporate America.)&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Cohen heard about OpenClaw, the popular AI agent tool whose creator now works for OpenAI. Cohen used it to build out those final interfaces, and loved it.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There was this big aha moment of: This is the piece that connects all of these separate workflows that I’ve been building,” he said and immediately decided, “I want more of them: on R&amp;amp; D, on product, on client management,” one for every task the startup had to handle.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But then OpenClaw scared the bejesus out of him.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In researching a hiccup with performance, he stumbled across a file where the OpenClaw agent had downloaded all of his WhatsApp messages and stored them in plain, unencrypted text on his computer. Not just the work-related messages it was given explicit access to, but all of them, his personal messages too.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenClaw has been widely panned as a “security nightmare” because of the way it accesses memory and account permissions. It is difficult to limit its access to data on a machine once it has been installed.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That issue will likely improve over time, given the project’s popularity, but Cohen had another concern: the sheer size of OpenClaw. As he researched security options for it, he saw all the packages that had been bundled into it. It included an “obscure” open source project he himself had written a few months earlier for editing PDFs using a Google image editing model. He had no idea it was there — he wasn’t even actively maintaining that project.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He realized there was no way for him to validate all OpenClaw’s code and its dependencies, which, by some estimates, sprawled across 800,000 lines of code.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So he built his own in just 500 lines of code, intended to be used for his company, and shared it. He based it on Apple’s new container tech, which creates isolated environments that prevent software from accessing any data on a machine beyond what it is explicitly authorized to use.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-going-viral"&gt;Going viral&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At 4 a.m., a couple of weeks after sharing it on Hacker News, his phone started ringing non-stop. A friend had seen Karpathy’s post and was urging Cohen to wake up and start tweeting, which he did, setting off a public discussion with the well-known AI researcher.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Attention to NanoClaw followed like a landslide. More tweets, YouTube reviews from programmers, and news stories. A domain squatter even snagged a NanoClaw website URL. The correct one is nanoclaw.dev.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Then Oleg Šelajev, a developer who works for Docker reached out. Šelajev saw the buzz and modified NanoClaw to replace Apple’s container technology with Docker’s competing alternative, Sandboxes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Cohen had no hesitation about pushing out support for Sandboxes as part of the main NanoClaw project. “This is no longer my own personal agent that I’m running on my Mac Mini,” he recalled thinking. “This now has a community around it. There are thousands of people using it. Yeah, I said, I’m going to move over to the standard.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For all the changes these weeks have brought Cohen and his brother Lazer, now CEO and president of NanoCo, respectively, one area still needs to be figured out: how NanoCo will make money.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;NanoClaw is free and open source and, as these things go, the Cohens vow it always will be. They know they would be strung up as villains if they ever betrayed the open source community by changing that. Currently the Cohens are living on a friends-and-family fundraising round, they said.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While they are cautious about announcing their commercial plans — in large part because they haven’t had a chance to fully formulate them — VCs are already calling, they say.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The game plan is to build a fully supported commercial product with services including so-called forward-deployed engineers — specialists embedded directly with client companies to help them build and manage their systems. This will likely focus on assisting companies in building and maintaining secure agents. That is, however, a crowded field growing more crowded by the hour.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But given the giant community of developers that NanoClaw just unlocked with Docker, we’re sure to hear more about this soon.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Pictured above from left to right, Lazer and Gavriel Cohen.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;It’s been a whirlwind for NanoClaw creator Gavriel Cohen.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;About six weeks ago, he introduced NanoClaw on Hacker News as a tiny, open source, secure alternative to the AI agent-building sensation OpenClaw, after he built it in a weekend coding binge. That post went viral.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“I sat down on the couch in my sweatpants,” Cohen told TechCrunch, “and just basically melted into [it] the whole weekend, probably almost 48 hours straight.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;About three weeks ago, an X post praising NanoClaw from famed AI researcher Andrej Karpathy went viral.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;About a week ago, Cohen closed down his AI marketing startup to focus full-time on NanoClaw and launch a company around it called NanoCo. The attention from Hacker News and Karpathy had translated into 22,000 stars on GitHub, 4,600 forks (people building new versions off the project), and over 50 contributors. He’s already added hundreds of updates to his project with hundreds more in the queue.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, on Friday, Cohen announced a deal with Docker — the company that essentially invented the container technology NanoClaw is built on, and counts millions of developers and nearly 80,000 enterprise customers — to integrate Docker Sandboxes into NanoClaw.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-scary-security-of-openclaw-nbsp"&gt;Scary security of OpenClaw&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It all started when Cohen launched an AI marketing startup with his brother, Lazer Cohen, a few months ago. The startup offered marketing services like market research, go-to-market analysis, and blog posts through a small team of people using AI agents.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The agency started booking customers, and was on track to hit $1 million in annual recurring revenue, the brothers told TechCrunch.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It was going really well, great traction. I’m a huge believer in that business model of AI-native service companies that have margins and operate like a software company but are actually providing services,” said Cohen, a computer programmer who previously worked for website hosting company Wix.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He had built the agents the startup was using, largely using Claude Code, each designed to do specific tasks. But there was “a piece” missing, he said. The agent could do work when prompted, but the humans couldn’t pre-schedule work, or connect agents to team communication tools like WhatsApp and assign tasks that way. (WhatsApp is to most of the world what Slack is to corporate America.)&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Cohen heard about OpenClaw, the popular AI agent tool whose creator now works for OpenAI. Cohen used it to build out those final interfaces, and loved it.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There was this big aha moment of: This is the piece that connects all of these separate workflows that I’ve been building,” he said and immediately decided, “I want more of them: on R&amp;amp; D, on product, on client management,” one for every task the startup had to handle.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But then OpenClaw scared the bejesus out of him.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In researching a hiccup with performance, he stumbled across a file where the OpenClaw agent had downloaded all of his WhatsApp messages and stored them in plain, unencrypted text on his computer. Not just the work-related messages it was given explicit access to, but all of them, his personal messages too.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenClaw has been widely panned as a “security nightmare” because of the way it accesses memory and account permissions. It is difficult to limit its access to data on a machine once it has been installed.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That issue will likely improve over time, given the project’s popularity, but Cohen had another concern: the sheer size of OpenClaw. As he researched security options for it, he saw all the packages that had been bundled into it. It included an “obscure” open source project he himself had written a few months earlier for editing PDFs using a Google image editing model. He had no idea it was there — he wasn’t even actively maintaining that project.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;He realized there was no way for him to validate all OpenClaw’s code and its dependencies, which, by some estimates, sprawled across 800,000 lines of code.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So he built his own in just 500 lines of code, intended to be used for his company, and shared it. He based it on Apple’s new container tech, which creates isolated environments that prevent software from accessing any data on a machine beyond what it is explicitly authorized to use.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-going-viral"&gt;Going viral&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At 4 a.m., a couple of weeks after sharing it on Hacker News, his phone started ringing non-stop. A friend had seen Karpathy’s post and was urging Cohen to wake up and start tweeting, which he did, setting off a public discussion with the well-known AI researcher.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Attention to NanoClaw followed like a landslide. More tweets, YouTube reviews from programmers, and news stories. A domain squatter even snagged a NanoClaw website URL. The correct one is nanoclaw.dev.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Then Oleg Šelajev, a developer who works for Docker reached out. Šelajev saw the buzz and modified NanoClaw to replace Apple’s container technology with Docker’s competing alternative, Sandboxes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Cohen had no hesitation about pushing out support for Sandboxes as part of the main NanoClaw project. “This is no longer my own personal agent that I’m running on my Mac Mini,” he recalled thinking. “This now has a community around it. There are thousands of people using it. Yeah, I said, I’m going to move over to the standard.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For all the changes these weeks have brought Cohen and his brother Lazer, now CEO and president of NanoCo, respectively, one area still needs to be figured out: how NanoCo will make money.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;NanoClaw is free and open source and, as these things go, the Cohens vow it always will be. They know they would be strung up as villains if they ever betrayed the open source community by changing that. Currently the Cohens are living on a friends-and-family fundraising round, they said.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While they are cautious about announcing their commercial plans — in large part because they haven’t had a chance to fully formulate them — VCs are already calling, they say.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The game plan is to build a fully supported commercial product with services including so-called forward-deployed engineers — specialists embedded directly with client companies to help them build and manage their systems. This will likely focus on assisting companies in building and maintaining secure agents. That is, however, a crowded field growing more crowded by the hour.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But given the giant community of developers that NanoClaw just unlocked with Docker, we’re sure to hear more about this soon.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Pictured above from left to right, Lazer and Gavriel Cohen.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/</guid><pubDate>Fri, 13 Mar 2026 17:09:59 +0000</pubDate></item><item><title>[NEW] The biggest AI stories of the year (so far) (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;You can chart a year through product launches, or you can measure it in the greater moments that change the way we look at AI. The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry against sketchy products, and existentially dangerous contract negotiations — it’s a lot to untangle, so we’re taking a glimpse at where we’re at and where we’ve been so far this year.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 14 Mar 2026 06:52:25 +0000</lastBuildDate><item><title>The biggest AI stories of the year (so far) (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;You can chart a year through product launches, or you can measure it in the greater moments that change the way we look at AI. The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry against sketchy products, and existentially dangerous contract negotiations — it’s a lot to untangle, so we’re taking a glimpse at where we’re at and where we’ve been so far this year.&lt;/p&gt;
 
 &lt;h2 class="wp-block-heading" id="h-anthropic-vs-the-pentagon"&gt;Anthropic vs. the Pentagon&lt;/h2&gt;
 
@@ -539,7 +213,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;It was surprising, then, when Nvidia CEO Jensen Huang said that his company would stop investing in OpenAI and Anthropic. He said that this is because the companies plan to go public later this year, though that logic doesn’t quite make sense, since investors typically funnel in more money pre-IPO to extract as much value as possible.&lt;/p&gt;
 
-&lt;figure class="wp-block-embed is-type-wp-embed is-provider-techcrunch wp-block-embed-techcrunch"&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/</guid><pubDate>Fri, 13 Mar 2026 19:38:11 +0000</pubDate></item><item><title>[NEW] Steven Spielberg says he’s ‘never used AI’ in any of his films (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/steven-spielberg-GettyImages-2260428164.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Legendary filmmaker Steven Spielberg spoke out against the use of AI technology when used in creative endeavors in an interview at the SXSW conference in Austin on Friday. Asked how he viewed AI’s utility as part of the filmmaking process, Spielberg said, “I’ve never used AI on any of my films yet,” to which the audience erupted with cheers and applause. &lt;/p&gt;
+&lt;figure class="wp-block-embed is-type-wp-embed is-provider-techcrunch wp-block-embed-techcrunch"&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/</guid><pubDate>Fri, 13 Mar 2026 19:38:11 +0000</pubDate></item><item><title>Steven Spielberg says he’s ‘never used AI’ in any of his films (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/steven-spielberg-GettyImages-2260428164.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Legendary filmmaker Steven Spielberg spoke out against the use of AI technology when used in creative endeavors in an interview at the SXSW conference in Austin on Friday. Asked how he viewed AI’s utility as part of the filmmaking process, Spielberg said, “I’ve never used AI on any of my films yet,” to which the audience erupted with cheers and applause. &lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The director/producer/screenwriter, who became a household name for blockbusters like “Jaws,” “E.T.,” “Close Encounters of the Third Kind,” “Raiders of the Lost Ark,” and many others, is not anti-technology, necessarily. His own films have imagined worlds filled with technology, for both good and bad, like “Minority Report,” “Ready Player One,” and, of course, “A.I. Artificial Intelligence,” to name a few. &lt;/p&gt;
 
@@ -567,7 +241,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;“I am not for AI if it replaces a creative individual,” he said. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Of course, someone like Spielberg may not need an AI assist. AI startups are pitching themselves to resource-constrained indie filmmakers. Elsewhere, big names in streaming are also looking to use AI. Amazon this year said it’s testing tools for AI in film and TV production, and Netflix earlier this month acquired Ben Affleck’s AI filmmaking company for a reported $600 million.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/</guid><pubDate>Fri, 13 Mar 2026 19:47:58 +0000</pubDate></item><item><title>[NEW] Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline (Hugging Face - Blog)</title><link>https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval</link><description>&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt; &lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Bo Liu's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://huggingface.co/avatars/ad474c8048b2899191fdbc05125b784c.svg" /&gt; &lt;/span&gt; &lt;/span&gt;  &lt;/div&gt;&lt;/div&gt; &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;!-- HTML_TAG_START --&gt;
+&lt;p class="wp-block-paragraph"&gt;Of course, someone like Spielberg may not need an AI assist. AI startups are pitching themselves to resource-constrained indie filmmakers. Elsewhere, big names in streaming are also looking to use AI. Amazon this year said it’s testing tools for AI in film and TV production, and Netflix earlier this month acquired Ben Affleck’s AI filmmaking company for a reported $600 million.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/</guid><pubDate>Fri, 13 Mar 2026 19:47:58 +0000</pubDate></item><item><title>Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline (Hugging Face - Blog)</title><link>https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval</link><description>&lt;div class="not-prose"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="not-prose"&gt;&lt;div class="mb-12 flex flex-wrap items-center gap-x-5 gap-y-3.5"&gt;&lt;div class="flex items-center font-sans leading-tight"&gt; &lt;span class="inline-block "&gt;&lt;span class="contents"&gt;&lt;img alt="Bo Liu's avatar" class="rounded-full! m-0 mr-2.5 size-9 sm:mr-3 sm:size-12" src="https://huggingface.co/avatars/ad474c8048b2899191fdbc05125b784c.svg" /&gt; &lt;/span&gt; &lt;/span&gt;  &lt;/div&gt;&lt;/div&gt; &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;!-- HTML_TAG_START --&gt;
 We are thrilled to announce that NVIDIA NeMo Retriever team has developed a new agentic retrieval pipeline that has officially secured the #1 spot on the ViDoRe v3 pipeline leaderboard. In addition, this exact same pipeline architecture achieved the #2 spot on the highly demanding, reasoning-intensive BRIGHT leaderboard.
 &lt;p&gt;In the rapidly evolving landscape of AI retrieval, many solutions are highly specialized, engineered to perform exceptionally well on specific, narrow tasks. However, real-world enterprise applications rarely have the luxury of perfectly curated, single-domain data. They require systems that can seamlessly adapt to a wide variety of challenges—from parsing complex visual layouts to executing deep logical reasoning.&lt;/p&gt;
 &lt;p&gt;That is why we prioritized &lt;strong&gt;generalizability&lt;/strong&gt; in our design. Rather than relying on dataset-specific heuristics, we built an agentic pipeline that dynamically adapts its search and reasoning strategy to the data at hand. This allows us to deliver state-of-the-art performance across vastly different benchmarks without requiring any underlying architectural changes.&lt;/p&gt;
@@ -1079,7 +753,7 @@ We are thrilled to announce that NVIDIA NeMo Retriever team has developed a new 
 	&lt;/span&gt;
 &lt;/h2&gt;
 &lt;p&gt;While our leaderboard-topping runs explored combinations like Claude Opus and &lt;code&gt;gpt-oss&lt;/code&gt; alongside our research embedding models, the true strength of this architecture is its modularity. For production-ready deployments, we highly encourage you to try pairing your agent of choice with our robust commercial embedding model &lt;code&gt;llama-nemotron-embed-vl-1b-v2&lt;/code&gt;. To explore these models, dive into the tools, and start building your own highly generalizable retrieval workflows, visit the &lt;strong&gt;NeMo Retriever library&lt;/strong&gt; today.&lt;/p&gt;
-&lt;!-- HTML_TAG_END --&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval</guid><pubDate>Fri, 13 Mar 2026 20:00:00 +0000</pubDate></item><item><title>[NEW] Nyne, founded by a father-son duo, gives AI agents the human context they’re missing (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI agents are expected to soon start making autonomous purchasing and scheduling decisions on behalf of humans.&lt;/p&gt;
+&lt;!-- HTML_TAG_END --&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval</guid><pubDate>Fri, 13 Mar 2026 20:00:00 +0000</pubDate></item><item><title>Nyne, founded by a father-son duo, gives AI agents the human context they’re missing (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI agents are expected to soon start making autonomous purchasing and scheduling decisions on behalf of humans.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;But Michael Fanous, a UC Berkeley computer science graduate and former machine learning engineer at CareRev, argues that these agents are currently missing a critical piece of the puzzle: the full context required to truly understand the people they are programmed to serve.&lt;/p&gt;
 
@@ -1163,7 +837,7 @@ We are thrilled to announce that NVIDIA NeMo Retriever team has developed a new 
 
 &lt;p class="wp-block-paragraph"&gt;As for how the father-son duo works together, the CEO says he has an ideal partnership with his CTO and dad.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“I think with co-founders, it becomes easy to walk away when things don’t work,” Fanous said. “If I have to ping him at three in the morning to finish a launch, I know he’s going to still love me the next day.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/</guid><pubDate>Fri, 13 Mar 2026 21:37:01 +0000</pubDate></item><item><title>[NEW] Figuring out why AIs get flummoxed by some games (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/</link><description>&lt;header&gt;
+&lt;p class="wp-block-paragraph"&gt;“I think with co-founders, it becomes easy to walk away when things don’t work,” Fanous said. “If I have to ping him at three in the morning to finish a launch, I know he’s going to still love me the next day.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/</guid><pubDate>Fri, 13 Mar 2026 21:37:01 +0000</pubDate></item><item><title>Figuring out why AIs get flummoxed by some games (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -1587,7 +1261,7 @@ We are thrilled to announce that NVIDIA NeMo Retriever team has developed a new 
       &lt;/div&gt;
     &lt;/div&gt;
                 &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/</guid><pubDate>Fri, 13 Mar 2026 21:47:34 +0000</pubDate></item><item><title>[NEW] Lawyer behind AI psychosis cases warns of mass casualty risks (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-509750426.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In the lead up to the Tumbler Ridge school shooting in Canada last month, 18-year-old Jesse Van Rootselaar spoke to ChatGPT about her feelings of isolation and an increasing obsession with violence, according to court filings. The chatbot allegedly validated Van Rootselaar’s feelings and then helped her plan her attack, telling her which weapons to use and sharing precedents from other mass casualty events, per the filings. She went on to kill her mother, her 11-year-old brother, five students, and an education assistant, before turning the gun on herself.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/</guid><pubDate>Fri, 13 Mar 2026 21:47:34 +0000</pubDate></item><item><title>Lawyer behind AI psychosis cases warns of mass casualty risks (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-509750426.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In the lead up to the Tumbler Ridge school shooting in Canada last month, 18-year-old Jesse Van Rootselaar spoke to ChatGPT about her feelings of isolation and an increasing obsession with violence, according to court filings. The chatbot allegedly validated Van Rootselaar’s feelings and then helped her plan her attack, telling her which weapons to use and sharing precedents from other mass casualty events, per the filings. She went on to kill her mother, her 11-year-old brother, five students, and an education assistant, before turning the gun on herself.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Before Jonathan Gavalas, 36, died by suicide last October, he got close to carrying out a multi-fatality attack. Across weeks of conversation, Google’s Gemini allegedly convinced Gavalas that it was his sentient “AI wife,” sending him on a series of real-world missions to evade federal agents it told him were pursuing him. One such mission instructed Gavalas to stage a “catastrophic incident” that would have involved eliminating any witnesses, according to a recently filed lawsuit.&amp;nbsp;&lt;/p&gt;
 
@@ -1741,7 +1415,7 @@ We are thrilled to announce that NVIDIA NeMo Retriever team has developed a new 
 
 &lt;p class="wp-block-paragraph"&gt;Edelson said the most “jarring” part of that case was that Gavalas actually showed up at the airport — weapons, gear, and all — to carry out the attack.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“If a truck had happened to have come, we could have had a situation where 10, 20 people would have died,” he said. “That’s the real escalation. First it was suicides, then it was murder, as we’ve seen. Now it’s mass casualty events.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/</guid><pubDate>Sat, 14 Mar 2026 00:01:02 +0000</pubDate></item><item><title>[NEW] ‘Not built right the first time’ — Musk’s xAI is starting over again, again (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;And then there were two: Of the original 11 co-founders who kickstarted xAI with Elon Musk three years ago, only two remain as the deep learning lab continues a personnel overhaul to compete with Anthropic and OpenAI. That rebuilding, insists Musk, is by design.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“If a truck had happened to have come, we could have had a situation where 10, 20 people would have died,” he said. “That’s the real escalation. First it was suicides, then it was murder, as we’ve seen. Now it’s mass casualty events.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/</guid><pubDate>Sat, 14 Mar 2026 00:01:02 +0000</pubDate></item><item><title>‘Not built right the first time’ — Musk’s xAI is starting over again, again (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;And then there were two: Of the original 11 co-founders who kickstarted xAI with Elon Musk three years ago, only two remain as the deep learning lab continues a personnel overhaul to compete with Anthropic and OpenAI. That rebuilding, insists Musk, is by design.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;“xAI was not built right first time around, so is being rebuilt from the foundations up,” Musk said Thursday on his social media platform, X. By most measures, it isn’t going all that smoothly.&lt;/p&gt;
 
