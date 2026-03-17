@@ -1,821 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 17 Mar 2026 02:25:52 +0000</lastBuildDate><item><title>US Treasury publishes AI risk Guidebook for financial institutions (AI News)</title><link>https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/</link><description>&lt;p&gt; The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resources and Downloads’ towards the bottom of the link). The CRI Financial Services AI Risk Management Framework (FS AI RMF) comes with a Guidebook [.docx] which gives details of the framework, developed by a collaboration among more than 100 financial institutions and industry organisations, with input from regulators and technical bodies.&lt;/p&gt;&lt;p&gt; The objective of the FS AI RMF is to help financial institutions identify, evaluate, manage, and govern the risks associated with AI systems and let firms continue adopting AI technologies responsibly.&lt;/p&gt;&lt;h3&gt;Sector-specific framework&lt;/h3&gt;&lt;p&gt; AI systems introduce risks that existing technology governance frameworks don’t address. Risks include algorithmic bias, limited transparency in decision processes, cyber vulnerabilities, and complex dependencies between systems and data. LLMs create concerns because their behaviour can be difficult to interpret or predict. Unlike traditional software, which is deterministic, an AI’s output varies depending on context.&lt;/p&gt;&lt;p&gt; Financial institutions already operate under extensive regulation and there is a raft of general guidance such as the NIST AI Risk Management Framework. However, applying general frameworks to the operations of financial institutions lacks the detail that reflects sector practices and regulatory expectations. The FS AI RMF is being positioned as an extension to the NIST framework, with additional sector-specific controls and practical implementation guidelines in its pages.&lt;/p&gt;&lt;p&gt; The Guidebook explains how firms can assess their current AI maturity and implement controls to limit their risk. Its aim is to promote consistent and responsible AI practices and support innovation in the sector.&lt;/p&gt;&lt;h3&gt;Core structure&lt;/h3&gt;&lt;p&gt; The FS AI RMF connects AI governance with broader governance, risk, and compliance processes already affecting financial institutions.&lt;/p&gt;&lt;p&gt; The framework contains four main components. The first is an AI adoption stage questionnaire that lets organisations determine the maturity of their AI use. The second is a risk and control matrix, which contains a set of risk statements and control objectives in alignment with adoption stages. The Guidebook explains how to apply the framework, while a separate control objective reference guide provides examples of controls and supporting evidence.&lt;/p&gt;&lt;p&gt; The framework defines a total of 230 control objectives organised according to four functions adapted from the broader NIST AI Risk Management Framework: govern, map, measure, and manage. Each function contains categories and subcategories that describe elements of effective AI risk management and governance.&lt;/p&gt;&lt;h3&gt;Assessing AI maturity&lt;/h3&gt;&lt;p&gt; The adoption stage questionnaire determines the extent to which an organisation is using AI. Some firms rely on traditional predictive models in limited applications for example, while others deploy AI in core business processes; others just use AI in customer-facing roles.&lt;/p&gt;&lt;p&gt; The questionnaire helps organisations determine where they sit in the spectrum of AI use currently, evaluating factors like the business impact of AI, governance arrangements, deployment models, use of third-party AI providers, organisational objectives, and data sensitivity.&lt;/p&gt;&lt;p&gt; Based on this assessment, organisations are classified into four stages of AI adoption:&lt;/p&gt;&lt;ul class="org-ul"&gt;&lt;li&gt;initial stage: organisations that have little or no operational AI deployment. AI may be under consideration but is not embedded,&lt;/li&gt;&lt;li&gt;minimal stage: limited AI use in low-risk areas or isolated systems.&lt;/li&gt;&lt;li&gt;evolving stage: organisations running more complex AI systems, including applications that involve sensitive data or external services.&lt;/li&gt;&lt;li&gt;embedded stage: where AI plays a significant role in business operations and decision-making.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; These stages help institutions focus their efforts on controls appropriate to their maturity level. A firm at an early stage does not need to implement every control immediately, but as AI becomes more integrated, the framework introduces additional controls to address growing levels of risk.&lt;/p&gt;&lt;h3&gt;Risk and control&lt;/h3&gt;&lt;p&gt; The control objectives for each AI adoption stage address governance and operational topics including data quality management, fairness and bias monitoring, cybersecurity controls, transparency of AI decision processes, and operational resilience.&lt;/p&gt;&lt;p&gt; The Guidebook provides examples of possible controls and types of evidence institutions can use to demonstrate they’re compliant. Each firm must determine the controls that fit best.&lt;/p&gt;&lt;p&gt; The framework recommends maintaining incident response procedures specific to AI systems and creating a central repository for tracking AI incidents, processes that will help organisations detect failures and improve governance over time.&lt;/p&gt;&lt;h3&gt;Trustworthy AI&lt;/h3&gt;&lt;p&gt; The framework incorporates principles for trustworthy AI defined as validity and reliability, safety, security and resilience, accountability, transparency, explainability, privacy protection, and fairness. These provide a foundation for evaluating AI systems along their full lifecycle. In simple terms, financial institutions have to ensure AI outputs are reliable, that systems are protected against cyber threats, and that decisions can be explained when they affect customers or have regulatory relevance.&lt;/p&gt;&lt;h3&gt;Strategic implications&lt;/h3&gt;&lt;p&gt; For senior leaders in financial institutions of any nation, the FS AI RMF offers a guide to integrating AI into existing risk management frameworks. It states the need for coordination in different business functions in the organisation. Technology teams, risk officers, compliance specialists, and business units all need to participate in the AI governance process.&lt;/p&gt;&lt;p&gt; Adopting AI without strengthening governance structures may expose institutions to operational failures, regulatory scrutiny, or reputational damage. Conversely, firms that build clear governance processes will be more confident in deploying AI systems.&lt;/p&gt;&lt;p&gt; The Guidebook frames AI risk management as an evolving entity. As AI technologies develop and regulatory expectations change, institutions will need to update their governance practices and risk assessments accordingly.&lt;/p&gt;&lt;p&gt; For financial sector decision-makers, the message is that AI adoption must progress in step with risk governance. A structured framework such as the FS AI RMF provides a common language and method to manage the evolution.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Law Books” by seychelles88 is licensed under CC BY-NC-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt; The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resources and Downloads’ towards the bottom of the link). The CRI Financial Services AI Risk Management Framework (FS AI RMF) comes with a Guidebook [.docx] which gives details of the framework, developed by a collaboration among more than 100 financial institutions and industry organisations, with input from regulators and technical bodies.&lt;/p&gt;&lt;p&gt; The objective of the FS AI RMF is to help financial institutions identify, evaluate, manage, and govern the risks associated with AI systems and let firms continue adopting AI technologies responsibly.&lt;/p&gt;&lt;h3&gt;Sector-specific framework&lt;/h3&gt;&lt;p&gt; AI systems introduce risks that existing technology governance frameworks don’t address. Risks include algorithmic bias, limited transparency in decision processes, cyber vulnerabilities, and complex dependencies between systems and data. LLMs create concerns because their behaviour can be difficult to interpret or predict. Unlike traditional software, which is deterministic, an AI’s output varies depending on context.&lt;/p&gt;&lt;p&gt; Financial institutions already operate under extensive regulation and there is a raft of general guidance such as the NIST AI Risk Management Framework. However, applying general frameworks to the operations of financial institutions lacks the detail that reflects sector practices and regulatory expectations. The FS AI RMF is being positioned as an extension to the NIST framework, with additional sector-specific controls and practical implementation guidelines in its pages.&lt;/p&gt;&lt;p&gt; The Guidebook explains how firms can assess their current AI maturity and implement controls to limit their risk. Its aim is to promote consistent and responsible AI practices and support innovation in the sector.&lt;/p&gt;&lt;h3&gt;Core structure&lt;/h3&gt;&lt;p&gt; The FS AI RMF connects AI governance with broader governance, risk, and compliance processes already affecting financial institutions.&lt;/p&gt;&lt;p&gt; The framework contains four main components. The first is an AI adoption stage questionnaire that lets organisations determine the maturity of their AI use. The second is a risk and control matrix, which contains a set of risk statements and control objectives in alignment with adoption stages. The Guidebook explains how to apply the framework, while a separate control objective reference guide provides examples of controls and supporting evidence.&lt;/p&gt;&lt;p&gt; The framework defines a total of 230 control objectives organised according to four functions adapted from the broader NIST AI Risk Management Framework: govern, map, measure, and manage. Each function contains categories and subcategories that describe elements of effective AI risk management and governance.&lt;/p&gt;&lt;h3&gt;Assessing AI maturity&lt;/h3&gt;&lt;p&gt; The adoption stage questionnaire determines the extent to which an organisation is using AI. Some firms rely on traditional predictive models in limited applications for example, while others deploy AI in core business processes; others just use AI in customer-facing roles.&lt;/p&gt;&lt;p&gt; The questionnaire helps organisations determine where they sit in the spectrum of AI use currently, evaluating factors like the business impact of AI, governance arrangements, deployment models, use of third-party AI providers, organisational objectives, and data sensitivity.&lt;/p&gt;&lt;p&gt; Based on this assessment, organisations are classified into four stages of AI adoption:&lt;/p&gt;&lt;ul class="org-ul"&gt;&lt;li&gt;initial stage: organisations that have little or no operational AI deployment. AI may be under consideration but is not embedded,&lt;/li&gt;&lt;li&gt;minimal stage: limited AI use in low-risk areas or isolated systems.&lt;/li&gt;&lt;li&gt;evolving stage: organisations running more complex AI systems, including applications that involve sensitive data or external services.&lt;/li&gt;&lt;li&gt;embedded stage: where AI plays a significant role in business operations and decision-making.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; These stages help institutions focus their efforts on controls appropriate to their maturity level. A firm at an early stage does not need to implement every control immediately, but as AI becomes more integrated, the framework introduces additional controls to address growing levels of risk.&lt;/p&gt;&lt;h3&gt;Risk and control&lt;/h3&gt;&lt;p&gt; The control objectives for each AI adoption stage address governance and operational topics including data quality management, fairness and bias monitoring, cybersecurity controls, transparency of AI decision processes, and operational resilience.&lt;/p&gt;&lt;p&gt; The Guidebook provides examples of possible controls and types of evidence institutions can use to demonstrate they’re compliant. Each firm must determine the controls that fit best.&lt;/p&gt;&lt;p&gt; The framework recommends maintaining incident response procedures specific to AI systems and creating a central repository for tracking AI incidents, processes that will help organisations detect failures and improve governance over time.&lt;/p&gt;&lt;h3&gt;Trustworthy AI&lt;/h3&gt;&lt;p&gt; The framework incorporates principles for trustworthy AI defined as validity and reliability, safety, security and resilience, accountability, transparency, explainability, privacy protection, and fairness. These provide a foundation for evaluating AI systems along their full lifecycle. In simple terms, financial institutions have to ensure AI outputs are reliable, that systems are protected against cyber threats, and that decisions can be explained when they affect customers or have regulatory relevance.&lt;/p&gt;&lt;h3&gt;Strategic implications&lt;/h3&gt;&lt;p&gt; For senior leaders in financial institutions of any nation, the FS AI RMF offers a guide to integrating AI into existing risk management frameworks. It states the need for coordination in different business functions in the organisation. Technology teams, risk officers, compliance specialists, and business units all need to participate in the AI governance process.&lt;/p&gt;&lt;p&gt; Adopting AI without strengthening governance structures may expose institutions to operational failures, regulatory scrutiny, or reputational damage. Conversely, firms that build clear governance processes will be more confident in deploying AI systems.&lt;/p&gt;&lt;p&gt; The Guidebook frames AI risk management as an evolving entity. As AI technologies develop and regulatory expectations change, institutions will need to update their governance practices and risk assessments accordingly.&lt;/p&gt;&lt;p&gt; For financial sector decision-makers, the message is that AI adoption must progress in step with risk governance. A structured framework such as the FS AI RMF provides a common language and method to manage the evolution.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Image source: “Law Books” by seychelles88 is licensed under CC BY-NC-SA 2.0.)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and co-located with other leading technology events. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/</guid><pubDate>Mon, 16 Mar 2026 16:15:00 +0000</pubDate></item><item><title>Where OpenAI’s technology could show up in Iran (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/03/open-ai-dow.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;br /&gt;&lt;em&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;It's been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s agreement allows for; Sam Altman said the military can’t use his company’s technology to build autonomous weapons, but the agreement really just demands that the military follow its own (quite permissive) guidelines about such weapons. OpenAI’s other main claim, that the agreement will prevent use of its technology for domestic surveillance, appears equally dubious.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;It’s unclear what OpenAI’s motivations are. It’s not the first tech giant to embrace military contracts it had once vowed never to enter into, but the speed of the pivot was notable. Perhaps it’s just about money; OpenAI is spending lots on AI training and is on the hunt for more revenue (from sources including ads). Or perhaps Altman truly believes the ideological framing he often invokes: that liberal democracies (and their militaries) must have access to the most powerful AI to compete with China.&lt;/p&gt;  &lt;p&gt;The more consequential question is what happens next. OpenAI has decided it is comfortable operating right in the messy heart of combat, just as the US escalates its strikes against Iran (with AI playing a larger role in that than ever before). So where exactly could OpenAI’s tech show up in this fight? And which applications will its customers (and employees) tolerate?&lt;/p&gt; 
- &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Targets and strikes&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Though its Pentagon agreement is in place, it’s unclear when OpenAI’s technology will be ready for classified environments, since it must be integrated with other tools the military uses (Elon Musk’s xAI, which recently struck its own deal with the Pentagon, is expected to go through the same process with its AI model Grok). But there’s pressure to do this quickly because of controversy around the technology in use to date: After Anthropic refused to allow its AI to be used for “any lawful use,” President Trump ordered the military to stop using it, and Anthropic was designated a supply chain risk by the Pentagon. (Anthropic is fighting the designation in court.)&lt;/p&gt;  &lt;p&gt;If the Iran conflict is still underway by the time OpenAI’s tech is in the system, what could it be used for? A recent conversation I had with a defense official suggests it might look something like this: A human analyst could put a list of potential targets into the AI model and ask it to analyze the information and prioritize which to strike first. The model could account for logistics information, like where particular planes or supplies are located. It could analyze lots of different inputs in the form of text, image, and video.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;A human would then be responsible for manually checking these outputs, the official said. But that raises an obvious question: If a person is truly double-checking AI’s outputs, how is it speeding up targeting and strike decisions?&lt;/p&gt;  &lt;p&gt;For years the military has been using another AI system, called Maven, which can handle things like automatically analyzing drone footage to identify possible targets. It’s likely that OpenAI’s models, like Anthropic’s Claude, will offer a conversational interface on top of that, allowing users to ask for interpretations of intelligence and recommendations for which targets to strike first.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;It’s hard to overstate how new this is: AI has long done analysis for the military, drawing insights out of oceans of data. But using generative AI’s advice about which actions to take in the field is being tested in earnest for the first time in Iran.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Drone defense&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;At the end of 2024, OpenAI announced a partnership with Anduril, which makes both drones and counter-drone technologies for the military. The agreement said OpenAI would work with Anduril to do time-sensitive analysis of drones attacking US forces and help take them down. An OpenAI spokesperson told me at the time that this didn’t violate the company’s policies, which prohibited “systems designed to harm others,” because the technology was being used to target drones and not people.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Anduril provides a suite of counter-drone technologies to military bases around the world (though the company declined to tell me whether its systems are deployed near Iran). Neither company has provided updates on how the project has developed since it was announced. However, Anduril has long trained its own AI models to analyze camera footage and sensor data to identify threats; what it focuses less on are conversational AI systems that allow soldiers to query those systems directly or receive guidance in natural language—an area where OpenAI’s models may fit.&lt;/p&gt;  &lt;p&gt;The stakes are high. Six US service members were killed in Kuwait on March 1 following an Iranian drone attack that was not intercepted by US air defenses.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Anduril’s interface, called Lattice, is where soldiers can control everything from drone defenses to missiles and autonomous submarines. And the company is winning massive contracts—$20 billion from the US Army just last week—to connect its systems with legacy military equipment and layer AI on them. If OpenAI’s models prove useful to Anduril, Lattice is designed to incorporate them quickly across this broader warfare stack.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Back-office AI&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;In December, Defense Secretary Pete Hegseth started encouraging millions of people in more administrative roles in the military—contracts, logistics, purchasing—to use a new AI tool. Called GenAI.mil, it provided a way for personnel to securely access commercial AI models and use them for the same sorts of things as anyone in the business world.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Google Gemini was one of the first to be available. In January, the Pentagon announced that xAI’s Grok was going to be added to the GenAI.mil platform as well, despite incidents in which the model had spread antisemitic content and created nonconsensual deepfakes. OpenAI followed in February, with the company announcing that its models would be used for drafting policy documents and contracts and assisting with administrative support of missions.&lt;/p&gt;  &lt;p&gt;Anyone using ChatGPT for unclassified tasks on this platform is unlikely to have much sway over sensitive decisions in Iran, but the prospect of OpenAI deploying on the platform is important in another way. It serves the all-in attitude toward AI that Hegseth has been pushing relentlessly across the Pentagon (even if many early users aren’t entirely sure what they’re supposed to use it for). The message is that AI is transforming every aspect of how the US fights, from targeting decisions down to paperwork. And OpenAI is increasingly winning a piece of it all.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/03/open-ai-dow.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;br /&gt;&lt;em&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;It's been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s agreement allows for; Sam Altman said the military can’t use his company’s technology to build autonomous weapons, but the agreement really just demands that the military follow its own (quite permissive) guidelines about such weapons. OpenAI’s other main claim, that the agreement will prevent use of its technology for domestic surveillance, appears equally dubious.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;It’s unclear what OpenAI’s motivations are. It’s not the first tech giant to embrace military contracts it had once vowed never to enter into, but the speed of the pivot was notable. Perhaps it’s just about money; OpenAI is spending lots on AI training and is on the hunt for more revenue (from sources including ads). Or perhaps Altman truly believes the ideological framing he often invokes: that liberal democracies (and their militaries) must have access to the most powerful AI to compete with China.&lt;/p&gt;  &lt;p&gt;The more consequential question is what happens next. OpenAI has decided it is comfortable operating right in the messy heart of combat, just as the US escalates its strikes against Iran (with AI playing a larger role in that than ever before). So where exactly could OpenAI’s tech show up in this fight? And which applications will its customers (and employees) tolerate?&lt;/p&gt; 
- &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Targets and strikes&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Though its Pentagon agreement is in place, it’s unclear when OpenAI’s technology will be ready for classified environments, since it must be integrated with other tools the military uses (Elon Musk’s xAI, which recently struck its own deal with the Pentagon, is expected to go through the same process with its AI model Grok). But there’s pressure to do this quickly because of controversy around the technology in use to date: After Anthropic refused to allow its AI to be used for “any lawful use,” President Trump ordered the military to stop using it, and Anthropic was designated a supply chain risk by the Pentagon. (Anthropic is fighting the designation in court.)&lt;/p&gt;  &lt;p&gt;If the Iran conflict is still underway by the time OpenAI’s tech is in the system, what could it be used for? A recent conversation I had with a defense official suggests it might look something like this: A human analyst could put a list of potential targets into the AI model and ask it to analyze the information and prioritize which to strike first. The model could account for logistics information, like where particular planes or supplies are located. It could analyze lots of different inputs in the form of text, image, and video.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;A human would then be responsible for manually checking these outputs, the official said. But that raises an obvious question: If a person is truly double-checking AI’s outputs, how is it speeding up targeting and strike decisions?&lt;/p&gt;  &lt;p&gt;For years the military has been using another AI system, called Maven, which can handle things like automatically analyzing drone footage to identify possible targets. It’s likely that OpenAI’s models, like Anthropic’s Claude, will offer a conversational interface on top of that, allowing users to ask for interpretations of intelligence and recommendations for which targets to strike first.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;It’s hard to overstate how new this is: AI has long done analysis for the military, drawing insights out of oceans of data. But using generative AI’s advice about which actions to take in the field is being tested in earnest for the first time in Iran.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Drone defense&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;At the end of 2024, OpenAI announced a partnership with Anduril, which makes both drones and counter-drone technologies for the military. The agreement said OpenAI would work with Anduril to do time-sensitive analysis of drones attacking US forces and help take them down. An OpenAI spokesperson told me at the time that this didn’t violate the company’s policies, which prohibited “systems designed to harm others,” because the technology was being used to target drones and not people.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Anduril provides a suite of counter-drone technologies to military bases around the world (though the company declined to tell me whether its systems are deployed near Iran). Neither company has provided updates on how the project has developed since it was announced. However, Anduril has long trained its own AI models to analyze camera footage and sensor data to identify threats; what it focuses less on are conversational AI systems that allow soldiers to query those systems directly or receive guidance in natural language—an area where OpenAI’s models may fit.&lt;/p&gt;  &lt;p&gt;The stakes are high. Six US service members were killed in Kuwait on March 1 following an Iranian drone attack that was not intercepted by US air defenses.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt;&lt;p&gt;Anduril’s interface, called Lattice, is where soldiers can control everything from drone defenses to missiles and autonomous submarines. And the company is winning massive contracts—$20 billion from the US Army just last week—to connect its systems with legacy military equipment and layer AI on them. If OpenAI’s models prove useful to Anduril, Lattice is designed to incorporate them quickly across this broader warfare stack.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Back-office AI&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;In December, Defense Secretary Pete Hegseth started encouraging millions of people in more administrative roles in the military—contracts, logistics, purchasing—to use a new AI tool. Called GenAI.mil, it provided a way for personnel to securely access commercial AI models and use them for the same sorts of things as anyone in the business world.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Google Gemini was one of the first to be available. In January, the Pentagon announced that xAI’s Grok was going to be added to the GenAI.mil platform as well, despite incidents in which the model had spread antisemitic content and created nonconsensual deepfakes. OpenAI followed in February, with the company announcing that its models would be used for drafting policy documents and contracts and assisting with administrative support of missions.&lt;/p&gt;  &lt;p&gt;Anyone using ChatGPT for unclassified tasks on this platform is unlikely to have much sway over sensitive decisions in Iran, but the prospect of OpenAI deploying on the platform is important in another way. It serves the all-in attitude toward AI that Hegseth has been pushing relentlessly across the Pentagon (even if many early users aren’t entirely sure what they’re supposed to use it for). The message is that AI is transforming every aspect of how the US fights, from targeting decisions down to paperwork. And OpenAI is increasingly winning a piece of it all.&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/</guid><pubDate>Mon, 16 Mar 2026 17:06:21 +0000</pubDate></item><item><title>Testing LLMs on superconductivity research questions (The latest research from Google)</title><link>https://research.google/blog/testing-llms-on-superconductivity-research-questions/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Conclusion&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;Several larger conclusions emerge from this test case. The two models that drew from curated databases of experimental literature, NotebookLM and our custom-built tool, outperformed the LLMs trained on unfiltered internet data. In particular, models relying on open web sources tended to mix established theories with highly speculative ones.&lt;/p&gt;&lt;p&gt;The evaluated LLMs (accessed in December 2024) also showed weaknesses in temporal and contextual understanding. For example, they often failed to recognize when a proposed hypothesis was later disproved. They also frequently omitted relevant papers when they didn’t explicitly include the exact language used in the initial query.&lt;/p&gt;&lt;p&gt;Our results broadly highlight the need for LLMs to better understand tables and images, as scientific papers heavily use these formats. While two of the models consistently referenced images, they often relied more on image captions rather than on visual analysis. Enhancing visual reasoning capability, including interpreting images, plots and scale bars, is a major direction for future improvement.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Conclusion&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;Several larger conclusions emerge from this test case. The two models that drew from curated databases of experimental literature, NotebookLM and our custom-built tool, outperformed the LLMs trained on unfiltered internet data. In particular, models relying on open web sources tended to mix established theories with highly speculative ones.&lt;/p&gt;&lt;p&gt;The evaluated LLMs (accessed in December 2024) also showed weaknesses in temporal and contextual understanding. For example, they often failed to recognize when a proposed hypothesis was later disproved. They also frequently omitted relevant papers when they didn’t explicitly include the exact language used in the initial query.&lt;/p&gt;&lt;p&gt;Our results broadly highlight the need for LLMs to better understand tables and images, as scientific papers heavily use these formats. While two of the models consistently referenced images, they often relied more on image captions rather than on visual analysis. Enhancing visual reasoning capability, including interpreting images, plots and scale bars, is a major direction for future improvement.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/testing-llms-on-superconductivity-research-questions/</guid><pubDate>Mon, 16 Mar 2026 17:31:00 +0000</pubDate></item><item><title>The dictionary sues OpenAI (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-161933989_0ebda8.jpg?resize=1200,750" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Encyclopedia Britannica and Merriam-Webster have filed a lawsuit against OpenAI, alleging in its complaint that the AI giant has committed “massive copyright infringement.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Britannica, which owns Merriam-Webster, retains the copyright to nearly 100,000 online articles, which have been scraped and used to train OpenAI’s LLMs without permission, the publisher alleges in the lawsuit.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Britannica also accuses OpenAI of violating copyright laws when it generates outputs that contain “full or partial verbatim reproductions” of its content and when the AI lab uses its articles in ChatGPT’s RAG (retrieval augmented generation) workflow. OpenAI’s RAG tool is how the LLM scans the web or other databases for newly updated information when responding to a query. Britannica also alleges that OpenAI violates the Lanham Act, a trademark statute, when it generates made-up hallucinations and attributes them falsely to the publisher.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“ChatGPT starves web publishers like [Britannica] of revenue by generating responses to users’ queries that substitute, and directly compete with, the content from publishers like [Britannica],” the lawsuit reads. Britannica also alleges ChatGPT’s hallucinations jeopardize “the public’s continued access to high-quality and trustworthy online information.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Britannica joins a number of other publishers and writers in pursuing legal action against OpenAI over copyright issues. The New York Times, Ziff Davis (owner of Mashable, CNET, IGN, PC Mag, and others), and more than a dozen newspapers across the U.S. and Canada, including the Chicago Tribune, the Denver Post, the Sun Sentinel, the Toronto Star, and the Canadian Broadcasting Corporation, have sued OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A similar Britannica lawsuit against Perplexity is still pending.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There is not a strong legal precedent that establishes whether using copyrighted content to train an LLM is copyright infringement. But in one particular instance, Anthropic successfully convinced federal judge William Alsup that this use case — using the content as training data — is transformative enough to be legal. However, Alsup argued that Anthropic violated the law by illegally downloading millions of books, rather than paying for them, which warranted a $1.5 billion class action settlement for impacted writers.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI did not respond to TechCrunch’s request for comment before publication.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-161933989_0ebda8.jpg?resize=1200,750" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Encyclopedia Britannica and Merriam-Webster have filed a lawsuit against OpenAI, alleging in its complaint that the AI giant has committed “massive copyright infringement.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Britannica, which owns Merriam-Webster, retains the copyright to nearly 100,000 online articles, which have been scraped and used to train OpenAI’s LLMs without permission, the publisher alleges in the lawsuit.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Britannica also accuses OpenAI of violating copyright laws when it generates outputs that contain “full or partial verbatim reproductions” of its content and when the AI lab uses its articles in ChatGPT’s RAG (retrieval augmented generation) workflow. OpenAI’s RAG tool is how the LLM scans the web or other databases for newly updated information when responding to a query. Britannica also alleges that OpenAI violates the Lanham Act, a trademark statute, when it generates made-up hallucinations and attributes them falsely to the publisher.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“ChatGPT starves web publishers like [Britannica] of revenue by generating responses to users’ queries that substitute, and directly compete with, the content from publishers like [Britannica],” the lawsuit reads. Britannica also alleges ChatGPT’s hallucinations jeopardize “the public’s continued access to high-quality and trustworthy online information.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Britannica joins a number of other publishers and writers in pursuing legal action against OpenAI over copyright issues. The New York Times, Ziff Davis (owner of Mashable, CNET, IGN, PC Mag, and others), and more than a dozen newspapers across the U.S. and Canada, including the Chicago Tribune, the Denver Post, the Sun Sentinel, the Toronto Star, and the Canadian Broadcasting Corporation, have sued OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A similar Britannica lawsuit against Perplexity is still pending.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There is not a strong legal precedent that establishes whether using copyrighted content to train an LLM is copyright infringement. But in one particular instance, Anthropic successfully convinced federal judge William Alsup that this use case — using the content as training data — is transformative enough to be legal. However, Alsup argued that Anthropic violated the law by illegally downloading millions of books, rather than paying for them, which warranted a $1.5 billion class action settlement for impacted writers.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI did not respond to TechCrunch’s request for comment before publication.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/</guid><pubDate>Mon, 16 Mar 2026 17:38:34 +0000</pubDate></item><item><title>Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/fuse.png?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In 2023, after three years of building an automotive lending startup, Fuse co-founders Andres Klaric and Marc Escapa realized that LLMs could modernize something even more significant: the loan origination system (LOS), which is the backbone of the lending industry.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Frustrated by the limitations of legacy software, Klaric (pictured left), a Bolivian native, and Escapa (pictured righ), a Spanish immigrant, pivoted their business to build Fuse, an AI-native LOS.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On Monday, Fuse announced that it has raised a $25 million Series A led by Footwork, Primary Venture Partners, NextView Ventures, and Commerce Ventures.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;An LOS serves as the primary system of record for most lenders, managing the entire loan life cycle: from initial application and underwriting to final approval and credit disbursement. However, traditional systems can take as long as a year to integrate and typically have multi-year, expensive contracts, Klaric said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;By leveraging AI, Fuse claims its agents can help lenders process higher loan volumes, automate underwriting, and significantly reduce operational costs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company, which already has over 100 customers, wants to ease credit unions’ transition to Fuse by offering the first 50 qualifying institutions free access to its platform until their current contracts with legacy LOS vendors expire. To support this, the startup has allocated $5 million for a program it’s calling a “rescue fund.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Klaric insists that “it’s not just a marketing gimmick,” explaining that because legacy software costs are high, many credit unions cannot afford to break their current contracts to switch providers.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Nikhil Basu Trivedi, a co-founder and general partner at Footwork, told TechCrunch that he backed Fuse because there are over 4,000 credit unions in the United States, and their technology is long overdue for an overhaul.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We know the credit unions are really hurting and want to adopt AI but have no idea how to do it,” he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Basu Trivedi compared the LOS to an ERP or CRM, noting that it is just as vital to a credit union’s day-to-day operations. He said that swapping out an LOS for another one has traditionally been very difficult. However, as is the case with many AI ERP-type startups, the founders promise that Fuse can be adopted relatively quickly.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Some of the legacy LOS systems that Fuse is trying to displace include publicly traded nCino and private-equity-owned MeridianLink. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Naturally, Fuse is not the only startup developing an AI-infused LOS. The company’s competitors include Casca and Glide.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Klaric says he strongly believes in the mission of helping credit unions reduce costs in large part because these institutions serve the American middle class.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Credit unions and smaller financial institutions have everything required to win. They have the local presence, the local focus, great member experience. They even have branches in very good locations. The only thing is they don’t they really have is the right technology,” he said.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/fuse.png?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In 2023, after three years of building an automotive lending startup, Fuse co-founders Andres Klaric and Marc Escapa realized that LLMs could modernize something even more significant: the loan origination system (LOS), which is the backbone of the lending industry.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Frustrated by the limitations of legacy software, Klaric (pictured left), a Bolivian native, and Escapa (pictured righ), a Spanish immigrant, pivoted their business to build Fuse, an AI-native LOS.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On Monday, Fuse announced that it has raised a $25 million Series A led by Footwork, Primary Venture Partners, NextView Ventures, and Commerce Ventures.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;An LOS serves as the primary system of record for most lenders, managing the entire loan life cycle: from initial application and underwriting to final approval and credit disbursement. However, traditional systems can take as long as a year to integrate and typically have multi-year, expensive contracts, Klaric said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;By leveraging AI, Fuse claims its agents can help lenders process higher loan volumes, automate underwriting, and significantly reduce operational costs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company, which already has over 100 customers, wants to ease credit unions’ transition to Fuse by offering the first 50 qualifying institutions free access to its platform until their current contracts with legacy LOS vendors expire. To support this, the startup has allocated $5 million for a program it’s calling a “rescue fund.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Klaric insists that “it’s not just a marketing gimmick,” explaining that because legacy software costs are high, many credit unions cannot afford to break their current contracts to switch providers.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Nikhil Basu Trivedi, a co-founder and general partner at Footwork, told TechCrunch that he backed Fuse because there are over 4,000 credit unions in the United States, and their technology is long overdue for an overhaul.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We know the credit unions are really hurting and want to adopt AI but have no idea how to do it,” he said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Basu Trivedi compared the LOS to an ERP or CRM, noting that it is just as vital to a credit union’s day-to-day operations. He said that swapping out an LOS for another one has traditionally been very difficult. However, as is the case with many AI ERP-type startups, the founders promise that Fuse can be adopted relatively quickly.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Some of the legacy LOS systems that Fuse is trying to displace include publicly traded nCino and private-equity-owned MeridianLink. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Naturally, Fuse is not the only startup developing an AI-infused LOS. The company’s competitors include Casca and Glide.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Klaric says he strongly believes in the mission of helping credit unions reduce costs in large part because these institutions serve the American middle class.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Credit unions and smaller financial institutions have everything required to win. They have the local presence, the local focus, great member experience. They even have branches in very good locations. The only thing is they don’t they really have is the right technology,” he said.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/</guid><pubDate>Mon, 16 Mar 2026 17:43:27 +0000</pubDate></item><item><title>Another deep tech chip startup becomes a unicorn: Frore hits $1.64B (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1158546750-e1738235238998.jpg?resize=1200,801" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Eight-year-old semiconductor startup Frore Systems has raised a $143 million Series D, led by MVP Ventures, at $1.64 billion valuation, the company announced on Monday.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Frore has now raised $340 million total, the company said. Frore doesn’t make the chips themselves; it makes liquid-cooling systems for them. Founded by two former Qualcomm engineers, the company’s tech was initially created to offer air-cooling tech for phones and other small fanless electronics.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company’s focus on chips was inspired by Nvidia CEO Jensen Huang, who received a demo of the technology about two years ago, Bloomberg reported. Huang suggested they develop liquid-cooling options, the new must-have for AI chips and systems. So they did, releasing products that work with various Nvidia chips and boards. The company has also developed products for Qualcomm and AMD.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AI semiconductors have been a hot area for investment. Other new unicorns in the field include Nvidia competitor Positron, which hit a $1 billion valuation in February, and Recursive Intelligence, which landed a $4 billion valuation right out of the gate. Eridu just launched, too, with a $200 million Series A round (though it declined to disclose its valuation), to build new AI networking chips.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Participating investors in Frore’s latest round include Fidelity, Mayfield, Addition, Qualcomm Ventures, and Alumni Ventures, among others.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1158546750-e1738235238998.jpg?resize=1200,801" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Eight-year-old semiconductor startup Frore Systems has raised a $143 million Series D, led by MVP Ventures, at $1.64 billion valuation, the company announced on Monday.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Frore has now raised $340 million total, the company said. Frore doesn’t make the chips themselves; it makes liquid-cooling systems for them. Founded by two former Qualcomm engineers, the company’s tech was initially created to offer air-cooling tech for phones and other small fanless electronics.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company’s focus on chips was inspired by Nvidia CEO Jensen Huang, who received a demo of the technology about two years ago, Bloomberg reported. Huang suggested they develop liquid-cooling options, the new must-have for AI chips and systems. So they did, releasing products that work with various Nvidia chips and boards. The company has also developed products for Qualcomm and AMD.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AI semiconductors have been a hot area for investment. Other new unicorns in the field include Nvidia competitor Positron, which hit a $1 billion valuation in February, and Recursive Intelligence, which landed a $4 billion valuation right out of the gate. Eridu just launched, too, with a $200 million Series A round (though it declined to disclose its valuation), to build new AI networking chips.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Participating investors in Frore’s latest round include Fidelity, Mayfield, Addition, Qualcomm Ventures, and Alumni Ventures, among others.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/</guid><pubDate>Mon, 16 Mar 2026 17:47:32 +0000</pubDate></item><item><title>How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.jpg?resize=1200,846" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia kicks off its annual GTC developer conference in San Jose, California, on Monday with CEO Jensen Huang’s keynote scheduled for 11 a.m. PT / 2 p.m. ET.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;GTC — which stands for GPU Technology Conference — is Nvidia’s flagship annual event, running from March 16 to March 19. The chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang’s keynote will focus on Nvidia’s role in the future of computing and AI. You can watch the two-hour address in person at the SAP Center or livestream the talk on the event’s website. The YouTube livestream is embedded below.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"&gt;&lt;p&gt;
-[embedded content]
-&lt;/p&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The broader four-day event is focused on what’s coming next for AI across industries, including healthcare, robotics, and autonomous vehicles.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On the software side, it’s rumored that Nvidia will release an open source platform for enterprise AI agents, dubbed NemoClaw, as originally reported by Wired. The platform would give businesses a structured way to build and deploy AI agents (software that can carry out multistep tasks autonomously) and would position Nvidia to mirror similar offerings from companies like OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On the hardware side, the company is also rumored to be releasing a new chip designed to accelerate the AI inference process — the process by which an AI model applies what it has learned to generate responses or make decisions, as distinct from the initial training process, which requires far more computing power. Faster, cheaper inference is widely seen as one of the last bottlenecks to scaling AI applications broadly. The chip would represent Nvidia’s latest bid to dominate not just the training market, where it already commands an estimated 80% share, but the inference market as well, where competition from custom chips built by Google, Amazon, and others is fast intensifying.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There will also be a range of partnership announcements and demonstrations showcasing Nvidia’s AI capabilities across industries.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kevin Cook, a senior equity strategist at Zacks Investment Research, told TechCrunch that attendees should also expect to learn what the company plans to do with its relationship with Groq, the inference company Nvidia reportedly paid $20 billion late last year to license its technology. There’s a lot of curiosity around this tie-up, given that Jonathan Ross, Groq’s founder; Sunny Madra, Groq’s president; and other members of the Groq team agreed to join Nvidia to help advance and scale that licensed tech.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.jpg?resize=1200,846" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia kicks off its annual GTC developer conference in San Jose, California, on Monday with CEO Jensen Huang’s keynote scheduled for 11 a.m. PT / 2 p.m. ET.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;GTC — which stands for GPU Technology Conference — is Nvidia’s flagship annual event, running from March 16 to March 19. The chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang’s keynote will focus on Nvidia’s role in the future of computing and AI. You can watch the two-hour address in person at the SAP Center or livestream the talk on the event’s website. The YouTube livestream is embedded below.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"&gt;&lt;p&gt;
-[embedded content]
-&lt;/p&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The broader four-day event is focused on what’s coming next for AI across industries, including healthcare, robotics, and autonomous vehicles.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On the software side, it’s rumored that Nvidia will release an open source platform for enterprise AI agents, dubbed NemoClaw, as originally reported by Wired. The platform would give businesses a structured way to build and deploy AI agents (software that can carry out multistep tasks autonomously) and would position Nvidia to mirror similar offerings from companies like OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On the hardware side, the company is also rumored to be releasing a new chip designed to accelerate the AI inference process — the process by which an AI model applies what it has learned to generate responses or make decisions, as distinct from the initial training process, which requires far more computing power. Faster, cheaper inference is widely seen as one of the last bottlenecks to scaling AI applications broadly. The chip would represent Nvidia’s latest bid to dominate not just the training market, where it already commands an estimated 80% share, but the inference market as well, where competition from custom chips built by Google, Amazon, and others is fast intensifying.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There will also be a range of partnership announcements and demonstrations showcasing Nvidia’s AI capabilities across industries.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kevin Cook, a senior equity strategist at Zacks Investment Research, told TechCrunch that attendees should also expect to learn what the company plans to do with its relationship with Groq, the inference company Nvidia reportedly paid $20 billion late last year to license its technology. There’s a lot of curiosity around this tie-up, given that Jonathan Ross, Groq’s founder; Sunny Madra, Groq’s president; and other members of the Groq team agreed to join Nvidia to help advance and scale that licensed tech.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/</guid><pubDate>Mon, 16 Mar 2026 17:51:46 +0000</pubDate></item><item><title>OpenAI’s own mental health experts unanimously opposed “naughty” ChatGPT launch (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        OpenAI draws a line between AI “smut” and porn. Experts fear it’s all unhealthy.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2236543888-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2236543888-1024x648.jpg" width="1024" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Bloomberg / Contributor | Bloomberg
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;OpenAI cannot escape the doom cloud swirling around its rollout of a text-based “adult mode” in ChatGPT.&lt;/p&gt;
-&lt;p&gt;Late Sunday, The Wall Street Journal reported that insiders confirmed that OpenAI’s “handpicked council of advisers on well-being and AI” were “freaking out” over the company’s plans to move ahead with “adult mode,” despite their urgent warnings.&lt;/p&gt;
-&lt;p&gt;Back in January, council members unanimously warned OpenAI that “AI-powered erotica could foster unhealthy emotional dependence on ChatGPT for users and that minors could ﬁnd ways to access sex chats,” sources told the WSJ. One expert suggested that without major updates to ChatGPT, OpenAI risked creating a “sexy suicide coach” for vulnerable users prone to form intense bonds with their companion bots.&lt;/p&gt;
-&lt;p&gt;OpenAI’s wellness council was created in October. It was put together after backlash following the first-known case of a minor’s ChatGPT-linked suicide, and it was curiously announced on the same day that Sam Altman broadcast on X that “adult mode” would be coming soon to ChatGPT.&lt;/p&gt;
-&lt;p&gt;Back then, OpenAI’s goal was to update ChatGPT to safeguard sensitive users by consulting “leading researchers and experts with decades of experience studying how technology affects our emotions, motivation, and mental health.” However, there have been more suicide cases since then, including two involving middle-aged men whose families discovered disturbing chat logs where ChatGPT seemed to weaponize its growing bond with users to incite self-harm and other violence, including murder.&lt;/p&gt;
-&lt;p&gt;Notably, the council does not include a suicide prevention expert, but even experts who perhaps aren’t laser-focused on reducing ChatGPT’s suicide risks are panicked by OpenAI’s erotica plans, WSJ reported.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Unfortunately, it’s already clear to those experts how such a scenario could play out. Sewell Setzer III was the first child lost after he became obsessed with exchanging sexualized chats with Character.AI chatbots, including one named for the &lt;em&gt;Game of Thrones&lt;/em&gt; character Daenerys Targaryen. After his family sued, Character.AI cut off underage users within a week and eventually settled the lawsuit.&lt;/p&gt;
-&lt;p&gt;For OpenAI, the Setzer case will likely cast a long shadow, even though an OpenAI spokesperson told the WSJ that it’s training ChatGPT “not to encourage exclusive relationships with users, and to remind users that they need to have relationships in the real world.” The company’s reassurances—including describing ChatGPT outputs as “smut,” rather than pornography—seem to ignore chat logs showing that Setzer formed sexualized bonds to several different chatbots that did not make extremely graphic references.&lt;/p&gt;
-&lt;p&gt;Rather, the chatbots narrated themselves casting “sexy” or “naughty” looks and making seductive gestures, some logs show. Those logs suggest that American businessman Mark Cuban was perhaps right when he cautioned Altman in October that the danger of kids’ access to ChatGPT’s “adult mode” is “not about porn.”&lt;/p&gt;
-&lt;p&gt;“This is about kids developing ‘relationships’ with an LLM that could take them in any number of very personal directions,” Cuban wrote on the X thread where Altman announced the erotica feature, Fortune reported.&lt;/p&gt;
-&lt;p&gt;Elsewhere on X, critics slammed Altman and OpenAI for shamelessly pivoting to erotica to keep users engaged after Altman admitted in August that ChatGPT’s chat use case was “saturated” and had hit a limit.&lt;/p&gt;
-&lt;p&gt;“They’re not going to get much better,” Altman said. “And maybe they’re going to get worse.” And Altman did himself no favors by boasting around the same time that times were not so desperate that OpenAI had to “put a sex bot avatar in ChatGPT yet.”&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;With overall ChatGPT user spending reportedly “stalled” and subscriptions in Europe “flatlining,” Fortune noted that OpenAI may have had little choice but to launch “adult mode” to compete with rivals quickly catching up to its capabilities and posing a threat to ChatGPT’s popularity.&lt;/p&gt;
-&lt;p&gt;“Announcements like allowing erotica in ChatGPT may signal that AI companies are fighting harder than ever to achieve growth, and will sacrifice longer-term consumer trust for the sake of short-term profit,” Fortune reported.&lt;/p&gt;
-&lt;p&gt;Since AI erotica is predicted to be a big moneymaker for the AI industry, some insiders told the WSJ that they agreed that OpenAI seems to be “bending to financial incentives to try to make people attached to its models.”&lt;/p&gt;
-&lt;p&gt;The move could possibly end up hurting ChatGPT’s popularity. For parents, Cuban suggested, ChatGPT will likely fall out of favor, especially since insiders told the WSJ that OpenAI’s age verification is spotty and unlikely to keep kids from accessing adult-themed chats. And that’s not users’ only concern about OpenAI age-gating “adult mode” when it launches later this year.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;h2&gt;Spotty age checks may spark more outcry&lt;/h2&gt;
-&lt;p&gt;OpenAI has long largely banned explicit content, mostly out of fears that minors may be exposed to pornography or that users generally may be exposed to themes of violent sexual exploitation.&lt;/p&gt;
-&lt;p&gt;Initially, the AI firm planned to reverse that policy and launch “Naughty Chats” within the first three months of 2026. However, while OpenAI recently confirmed that it was delaying the launch until later this year to “prioritize other products,” insiders told the WSJ that the pause was also “due in part to internal concerns and technical challenges.” That apparently included OpenAI’s struggles to effectively block minors from accessing “Naughty Chats.”&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;According to insiders, OpenAI’s “new age-prediction system aimed at keeping minors from having adult-themed chats was at one point misclassifying minors as adults about 12 percent of the time.” Rolling out at that success rate risked perhaps millions of minors easily dodging age gates to get to the sexy chatbots, sources said.&lt;/p&gt;
-&lt;p&gt;Avoiding that risk, Fidji Simo, OpenAI’s chief executive of applications, confirmed last December that OpenAI was working on improving the accuracy of its age prediction tool. It remains unclear how much improvement may have been made in the months since then, but a statement from a spokesperson for OpenAI to the WSJ may not inspire confidence in some parents: “The company’s age prediction algorithms show performance similar to the rest of the industry, but will never be completely foolproof.”&lt;/p&gt;
-&lt;p&gt;For adult users, the effectiveness of OpenAI’s age prediction tool could become the next wave of backlash when “adult mode” becomes a reality.&lt;/p&gt;
-&lt;p&gt;OpenAI has confirmed that any users whose ages cannot be predicted must undergo age verification through a service called Persona to access features like “Naughty Chats.” Already, this is panicking developers who have noted in forums that OpenAI’s age checks create substantial privacy risks for all users by allowing Persona to scan selfies or check IDs and temporarily store that data. Developers were particularly horrified that there seem to be “unexplained ‘could not verify your identity’ errors” forcing users to resubmit sensitive data and that users have only limited support options from either OpenAI or Persona to resolve the errors.&lt;/p&gt;
-&lt;p&gt;Most likely, users who encounter any issues when attempting to eventually access “adult mode” will share these frustrations, if left unresolved. Last month, Discord faced substantial backlash after announcing a global rollout of age checks and then running a limited test using Persona in the United Kingdom, with users calling out Persona as too invasive. At that time, Persona’s CEO, Rick Song, defended Persona’s services, as hackers attempted to break into its systems. Discord ended up dropping Persona as a vendor and pausing its global age check launch.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;h2&gt;ChatGPT’s “adult” filters have been buggy&lt;/h2&gt;
-&lt;p&gt;Sources told the WSJ that they doubted if OpenAI’s tools were ready to lock kids out of prohibited content.&lt;/p&gt;
-&lt;p&gt;Their whistleblowing comes after OpenAI fired a top safety executive who opposed the release of “adult mode.” OpenAI denied the firing was related, but the exiting staffer directly criticized both the AI firm’s ability to block kids from content and stop outputs from promoting child exploitation. Further, a second former safety staffer also spoke out last fall, warning that parents shouldn’t trust OpenAI’s “adult mode” claims.&lt;/p&gt;
-&lt;p&gt;To counter this narrative, OpenAI’s spokesperson promised that the company “has a developed plan to monitor for a range of potential long-term eﬀects of adult mode, both positive and negative.”&lt;/p&gt;
-&lt;p&gt;However, that plan was likely developed with the very experts the WSJ reported are staunchly opposing the roll-out, leaving parents to wonder if OpenAI cares about advice from its youth well-being team or not.&lt;/p&gt;
-&lt;p&gt;On top of ineffective age checks or clever minors who dodge age gates, OpenAI may get in trouble with parents if its own systems unexpectedly fail. Back in April when OpenAI started dabbling with more risqué outputs, OpenAI fixed a bug that TechCrunch testing found was allowing minors to access graphic erotica on ChatGPT. It seems that OpenAI’s filters broke that were supposed to clearly restrict “sensitive content like erotica to narrow contexts such as scientific, historical, or news reporting.”&lt;/p&gt;
-&lt;p&gt;“In this case, a bug allowed responses outside those guidelines, and we are actively deploying a fix to limit these generations,” OpenAI said at the time.&lt;/p&gt;
-&lt;p&gt;OpenAI did not respond to Ars’ request to comment.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;If you or someone you know is feeling suicidal or in distress, please call the Suicide Prevention Lifeline number by dialing 988, which will put you in touch with a local crisis center.&lt;/em&gt;&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        OpenAI draws a line between AI “smut” and porn. Experts fear it’s all unhealthy.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2236543888-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2236543888-1024x648.jpg" width="1024" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Bloomberg / Contributor | Bloomberg
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;OpenAI cannot escape the doom cloud swirling around its rollout of a text-based “adult mode” in ChatGPT.&lt;/p&gt;
-&lt;p&gt;Late Sunday, The Wall Street Journal reported that insiders confirmed that OpenAI’s “handpicked council of advisers on well-being and AI” were “freaking out” over the company’s plans to move ahead with “adult mode,” despite their urgent warnings.&lt;/p&gt;
-&lt;p&gt;Back in January, council members unanimously warned OpenAI that “AI-powered erotica could foster unhealthy emotional dependence on ChatGPT for users and that minors could ﬁnd ways to access sex chats,” sources told the WSJ. One expert suggested that without major updates to ChatGPT, OpenAI risked creating a “sexy suicide coach” for vulnerable users prone to form intense bonds with their companion bots.&lt;/p&gt;
-&lt;p&gt;OpenAI’s wellness council was created in October. It was put together after backlash following the first-known case of a minor’s ChatGPT-linked suicide, and it was curiously announced on the same day that Sam Altman broadcast on X that “adult mode” would be coming soon to ChatGPT.&lt;/p&gt;
-&lt;p&gt;Back then, OpenAI’s goal was to update ChatGPT to safeguard sensitive users by consulting “leading researchers and experts with decades of experience studying how technology affects our emotions, motivation, and mental health.” However, there have been more suicide cases since then, including two involving middle-aged men whose families discovered disturbing chat logs where ChatGPT seemed to weaponize its growing bond with users to incite self-harm and other violence, including murder.&lt;/p&gt;
-&lt;p&gt;Notably, the council does not include a suicide prevention expert, but even experts who perhaps aren’t laser-focused on reducing ChatGPT’s suicide risks are panicked by OpenAI’s erotica plans, WSJ reported.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Unfortunately, it’s already clear to those experts how such a scenario could play out. Sewell Setzer III was the first child lost after he became obsessed with exchanging sexualized chats with Character.AI chatbots, including one named for the &lt;em&gt;Game of Thrones&lt;/em&gt; character Daenerys Targaryen. After his family sued, Character.AI cut off underage users within a week and eventually settled the lawsuit.&lt;/p&gt;
-&lt;p&gt;For OpenAI, the Setzer case will likely cast a long shadow, even though an OpenAI spokesperson told the WSJ that it’s training ChatGPT “not to encourage exclusive relationships with users, and to remind users that they need to have relationships in the real world.” The company’s reassurances—including describing ChatGPT outputs as “smut,” rather than pornography—seem to ignore chat logs showing that Setzer formed sexualized bonds to several different chatbots that did not make extremely graphic references.&lt;/p&gt;
-&lt;p&gt;Rather, the chatbots narrated themselves casting “sexy” or “naughty” looks and making seductive gestures, some logs show. Those logs suggest that American businessman Mark Cuban was perhaps right when he cautioned Altman in October that the danger of kids’ access to ChatGPT’s “adult mode” is “not about porn.”&lt;/p&gt;
-&lt;p&gt;“This is about kids developing ‘relationships’ with an LLM that could take them in any number of very personal directions,” Cuban wrote on the X thread where Altman announced the erotica feature, Fortune reported.&lt;/p&gt;
-&lt;p&gt;Elsewhere on X, critics slammed Altman and OpenAI for shamelessly pivoting to erotica to keep users engaged after Altman admitted in August that ChatGPT’s chat use case was “saturated” and had hit a limit.&lt;/p&gt;
-&lt;p&gt;“They’re not going to get much better,” Altman said. “And maybe they’re going to get worse.” And Altman did himself no favors by boasting around the same time that times were not so desperate that OpenAI had to “put a sex bot avatar in ChatGPT yet.”&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;With overall ChatGPT user spending reportedly “stalled” and subscriptions in Europe “flatlining,” Fortune noted that OpenAI may have had little choice but to launch “adult mode” to compete with rivals quickly catching up to its capabilities and posing a threat to ChatGPT’s popularity.&lt;/p&gt;
-&lt;p&gt;“Announcements like allowing erotica in ChatGPT may signal that AI companies are fighting harder than ever to achieve growth, and will sacrifice longer-term consumer trust for the sake of short-term profit,” Fortune reported.&lt;/p&gt;
-&lt;p&gt;Since AI erotica is predicted to be a big moneymaker for the AI industry, some insiders told the WSJ that they agreed that OpenAI seems to be “bending to financial incentives to try to make people attached to its models.”&lt;/p&gt;
-&lt;p&gt;The move could possibly end up hurting ChatGPT’s popularity. For parents, Cuban suggested, ChatGPT will likely fall out of favor, especially since insiders told the WSJ that OpenAI’s age verification is spotty and unlikely to keep kids from accessing adult-themed chats. And that’s not users’ only concern about OpenAI age-gating “adult mode” when it launches later this year.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;h2&gt;Spotty age checks may spark more outcry&lt;/h2&gt;
-&lt;p&gt;OpenAI has long largely banned explicit content, mostly out of fears that minors may be exposed to pornography or that users generally may be exposed to themes of violent sexual exploitation.&lt;/p&gt;
-&lt;p&gt;Initially, the AI firm planned to reverse that policy and launch “Naughty Chats” within the first three months of 2026. However, while OpenAI recently confirmed that it was delaying the launch until later this year to “prioritize other products,” insiders told the WSJ that the pause was also “due in part to internal concerns and technical challenges.” That apparently included OpenAI’s struggles to effectively block minors from accessing “Naughty Chats.”&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;According to insiders, OpenAI’s “new age-prediction system aimed at keeping minors from having adult-themed chats was at one point misclassifying minors as adults about 12 percent of the time.” Rolling out at that success rate risked perhaps millions of minors easily dodging age gates to get to the sexy chatbots, sources said.&lt;/p&gt;
-&lt;p&gt;Avoiding that risk, Fidji Simo, OpenAI’s chief executive of applications, confirmed last December that OpenAI was working on improving the accuracy of its age prediction tool. It remains unclear how much improvement may have been made in the months since then, but a statement from a spokesperson for OpenAI to the WSJ may not inspire confidence in some parents: “The company’s age prediction algorithms show performance similar to the rest of the industry, but will never be completely foolproof.”&lt;/p&gt;
-&lt;p&gt;For adult users, the effectiveness of OpenAI’s age prediction tool could become the next wave of backlash when “adult mode” becomes a reality.&lt;/p&gt;
-&lt;p&gt;OpenAI has confirmed that any users whose ages cannot be predicted must undergo age verification through a service called Persona to access features like “Naughty Chats.” Already, this is panicking developers who have noted in forums that OpenAI’s age checks create substantial privacy risks for all users by allowing Persona to scan selfies or check IDs and temporarily store that data. Developers were particularly horrified that there seem to be “unexplained ‘could not verify your identity’ errors” forcing users to resubmit sensitive data and that users have only limited support options from either OpenAI or Persona to resolve the errors.&lt;/p&gt;
-&lt;p&gt;Most likely, users who encounter any issues when attempting to eventually access “adult mode” will share these frustrations, if left unresolved. Last month, Discord faced substantial backlash after announcing a global rollout of age checks and then running a limited test using Persona in the United Kingdom, with users calling out Persona as too invasive. At that time, Persona’s CEO, Rick Song, defended Persona’s services, as hackers attempted to break into its systems. Discord ended up dropping Persona as a vendor and pausing its global age check launch.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;h2&gt;ChatGPT’s “adult” filters have been buggy&lt;/h2&gt;
-&lt;p&gt;Sources told the WSJ that they doubted if OpenAI’s tools were ready to lock kids out of prohibited content.&lt;/p&gt;
-&lt;p&gt;Their whistleblowing comes after OpenAI fired a top safety executive who opposed the release of “adult mode.” OpenAI denied the firing was related, but the exiting staffer directly criticized both the AI firm’s ability to block kids from content and stop outputs from promoting child exploitation. Further, a second former safety staffer also spoke out last fall, warning that parents shouldn’t trust OpenAI’s “adult mode” claims.&lt;/p&gt;
-&lt;p&gt;To counter this narrative, OpenAI’s spokesperson promised that the company “has a developed plan to monitor for a range of potential long-term eﬀects of adult mode, both positive and negative.”&lt;/p&gt;
-&lt;p&gt;However, that plan was likely developed with the very experts the WSJ reported are staunchly opposing the roll-out, leaving parents to wonder if OpenAI cares about advice from its youth well-being team or not.&lt;/p&gt;
-&lt;p&gt;On top of ineffective age checks or clever minors who dodge age gates, OpenAI may get in trouble with parents if its own systems unexpectedly fail. Back in April when OpenAI started dabbling with more risqué outputs, OpenAI fixed a bug that TechCrunch testing found was allowing minors to access graphic erotica on ChatGPT. It seems that OpenAI’s filters broke that were supposed to clearly restrict “sensitive content like erotica to narrow contexts such as scientific, historical, or news reporting.”&lt;/p&gt;
-&lt;p&gt;“In this case, a bug allowed responses outside those guidelines, and we are actively deploying a fix to limit these generations,” OpenAI said at the time.&lt;/p&gt;
-&lt;p&gt;OpenAI did not respond to Ars’ request to comment.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;If you or someone you know is feeling suicidal or in distress, please call the Suicide Prevention Lifeline number by dialing 988, which will put you in touch with a local crisis center.&lt;/em&gt;&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/</guid><pubDate>Mon, 16 Mar 2026 18:30:23 +0000</pubDate></item><item><title>[NEW] Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/nvidia-dlss-5.jpeg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia CEO Jensen Huang used the company’s keynote at Nvidia GTC on Monday to introduce DLSS 5, a new version of the chipmaker’s AI graphics tech designed to make video games more realistic while using less compute power.&amp;nbsp;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 17 Mar 2026 07:08:30 +0000</lastBuildDate><item><title>Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/nvidia-dlss-5.jpeg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia CEO Jensen Huang used the company’s keynote at Nvidia GTC on Monday to introduce DLSS 5, a new version of the chipmaker’s AI graphics tech designed to make video games more realistic while using less compute power.&amp;nbsp;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The new DLSS 5 system combines traditional 3D graphics data with generative AI models that can predict and fill in parts of an image, allowing Nvidia’s GPUs to produce detailed scenes and lifelike characters without rendering every element from scratch.&amp;nbsp;&lt;/p&gt;
 
@@ -905,7 +89,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;The billionaire executive pointed to enterprise data platforms such as Snowflake, Databricks, and BigQuery as examples of structured datasets that future AI systems could analyze and generate insights from.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“In the future, what’s going to happen is these data structures are going to be used by AI, and AI is going to be much, much faster than us,” Huang said. “Future agents are going to use structured databases as well as the unstructured database, the generative database. This database represents the vast majority of the world.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/</guid><pubDate>Mon, 16 Mar 2026 19:12:19 +0000</pubDate></item><item><title>[NEW] Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk’s company xAI should be held accountable for allowing its AI models to produce abusive sexual images of identifiable minors, three anonymous plaintiffs argued in a lawsuit filed Monday in California federal court.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“In the future, what’s going to happen is these data structures are going to be used by AI, and AI is going to be much, much faster than us,” Huang said. “Future agents are going to use structured databases as well as the unstructured database, the generative database. This database represents the vast majority of the world.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/</guid><pubDate>Mon, 16 Mar 2026 19:12:19 +0000</pubDate></item><item><title>Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk’s company xAI should be held accountable for allowing its AI models to produce abusive sexual images of identifiable minors, three anonymous plaintiffs argued in a lawsuit filed Monday in California federal court.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The three plaintiffs want to bring a class action suit representing anyone who had real images of them as minors altered into sexual content by Grok. They allege that xAI did not take basic precautions used by other frontier labs to prevent their image models from producing pornography depicting real people and minors. &lt;/p&gt;
 
@@ -979,7 +163,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;A second plaintiff, Jane Doe 2, was informed by criminal investigators about altered, sexualized images of her created by a third-party mobile app that relies on Grok models. A third, Jane Doe 3, was also notified by criminal investigators who discovered an altered, pornographic image of her on the phone of a subject they had apprehended. Attorneys for the plaintiffs say that because third-party usage still requires xAI code and servers, the company should be held responsible.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;All three plaintiffs, two of whom are still minors, say they are experiencing extreme distress over the circulation of these images and what it could mean for their reputations and social life. They are asking for civil penalties under an array of laws intended to protect exploited children and prevent corporate negligence.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/</guid><pubDate>Mon, 16 Mar 2026 19:18:44 +0000</pubDate></item><item><title>[NEW] NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2026/03/ethernet-corp-blog-dsx-air-1280x680-4855450.png" /&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;Setting up AI factories in simulation — decreasing deployment time from months to days — is&amp;nbsp; accelerating the next industrial revolution.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;All three plaintiffs, two of whom are still minors, say they are experiencing extreme distress over the circulation of these images and what it could mean for their reputations and social life. They are asking for civil penalties under an array of laws intended to protect exploited children and prevent corporate negligence.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/</guid><pubDate>Mon, 16 Mar 2026 19:18:44 +0000</pubDate></item><item><title>NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2026/03/ethernet-corp-blog-dsx-air-1280x680-4855450.png" /&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;Setting up AI factories in simulation — decreasing deployment time from months to days — is&amp;nbsp; accelerating the next industrial revolution.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;Nowhere was that more apparent than at GTC 2026, in San Jose, where NVIDIA founder and CEO Jensen Huang introduced NVIDIA DSX Air. Part of NVIDIA DSX Sim in the DSX platform, NVIDIA’s blueprint for AI factories, DSX Air is a software-as-a-service platform for logically simulating AI factories. It delivers high‑fidelity digital simulations of NVIDIA hardware infrastructure, including GPUs, SuperNICs, DPUs and switches, and it integrates with leading partner solutions for storage and routing, security, orchestration and more via open, API-based connectivity.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;NVIDIA DSX Air enables a complete AI factory ecosystem, uniting NVIDIA infrastructure with partner technologies to deliver full‑stack simulation and accelerate complex AI deployments.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;Companies building some of the world’s most advanced AI infrastructure, including &lt;/span&gt;&lt;span&gt;CoreWeave&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;are already using DSX Air to simulate and validate their environments long before hardware reaches the loading dock. The development underscores a new reality: simulation is now essential to accelerating AI deployment at scale.&lt;/span&gt;&lt;/p&gt;
@@ -1035,7 +219,7 @@
 &lt;p&gt;&lt;span&gt;Siam.AI,&lt;/span&gt;&lt;span&gt; Thailand’s largest AI cloud provider, has accelerated its infrastructure deployment with NVIDIA DSX Air. Using simulation, Siam.AI embraced NVIDIA best practices well ahead of schedule, ensuring day-one operational expertise and validating their architecture in a virtual environment before the physical hardware even arrived.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;Similarly, &lt;/span&gt;&lt;span&gt;Hydra Host&lt;/span&gt;&lt;span&gt; is using DSX Air to accelerate development of Brokkr, its AI factory operating system for bare-metal GPU provisioning that’s used by dozens of GPU deployments globally. By simulating full-stack environments in DSX Air before deploying to production, Hydra Host can validate Brokkr’s automation and orchestration workflows across diverse networking and hardware configurations at scale. This simulation-first approach lets Hydra Host ship validated infrastructure faster to customers worldwide while minimizing risk to live systems as global AI demand grows.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;As AI factories grow in size and complexity, the ability to validate full‑stack environments before hardware arrives will define the pace of innovation. NVIDIA DSX Air delivers that capability today, giving organizations the fastest possible path to first token and a more reliable way to operate AI infrastructure over time.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;&lt;span&gt;Learn more&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt; about NVIDIA DSX Air.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/</guid><pubDate>Mon, 16 Mar 2026 20:00:48 +0000</pubDate></item><item><title>[NEW] New "vibe coded" AI translation tool splits the video game preservation community (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/</link><description>&lt;article class="double-column h-entry post-2145699 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-gaming tag-ai tag-gaming-alexandria tag-gemini tag-history tag-ocr tag-translation"&gt;
+&lt;p&gt;&lt;i&gt;&lt;span&gt;Learn more&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt; about NVIDIA DSX Air.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/</guid><pubDate>Mon, 16 Mar 2026 20:00:48 +0000</pubDate></item><item><title>New "vibe coded" AI translation tool splits the video game preservation community (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/</link><description>&lt;article class="double-column h-entry post-2145699 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-gaming tag-ai tag-gaming-alexandria tag-gemini tag-history tag-ocr tag-translation"&gt;
   
   &lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
@@ -1629,7 +813,7 @@ This feels like he just mashed the 2 together with a vibe coded tool to automate
               &lt;time datetime="2026-03-16T20:29:05+00:00"&gt;March 16, 2026 at 8:29 pm&lt;/time&gt;
             
           &lt;/div&gt;
-        &lt;/article&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/</guid><pubDate>Mon, 16 Mar 2026 20:06:56 +0000</pubDate></item><item><title>[NEW] Memories AI is building the visual memory layer for wearables and robotics (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/memroies-ai.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Shawn Shen believes that AI will need to remember what it sees in order to succeed in the physical world. Shen’s company Memories.ai is using Nvidia AI tools to build the infrastructure for wearables and robotics to be able to remember and recall visual memories.&lt;/p&gt;
+        &lt;/article&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/</guid><pubDate>Mon, 16 Mar 2026 20:06:56 +0000</pubDate></item><item><title>Memories AI is building the visual memory layer for wearables and robotics (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/memroies-ai.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Shawn Shen believes that AI will need to remember what it sees in order to succeed in the physical world. Shen’s company Memories.ai is using Nvidia AI tools to build the infrastructure for wearables and robotics to be able to remember and recall visual memories.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Memories.ai announced a collaboration with semiconductor giant Nvidia at its GTC conference on Monday. Through this partnership, Memories.ai uses Nvidia’s Cosmos-Reason 2, a reasoning vision language model, and Nvidia Metropolis, an application for video search and summarization, to continue to develop its visual memory technology.&lt;/p&gt;
 
@@ -1735,7 +919,7 @@ This feels like he just mashed the 2 together with a vibe coded tool to automate
 
 &lt;p class="wp-block-paragraph"&gt;Memories.ai is also working with some of the large wearable companies already, Shen said, but declined to disclose which ones. Despite some demand now, Shen sees even bigger opportunities in wearables and robotics yet to come.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“In terms of commercialization, we are more focused on the model and the infrastructure, because ultimately we think the wearables and robotics market will come, but it’s probably just not now,” Shen said.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/</guid><pubDate>Mon, 16 Mar 2026 20:30:00 +0000</pubDate></item><item><title>[NEW] Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2026/03/hc-press-roche-gtcsj26-4853250-1920x1080-1.jpg" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph"&gt;“In terms of commercialization, we are more focused on the model and the infrastructure, because ultimately we think the wearables and robotics market will come, but it’s probably just not now,” Shen said.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/</guid><pubDate>Mon, 16 Mar 2026 20:30:00 +0000</pubDate></item><item><title>Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2026/03/hc-press-roche-gtcsj26-4853250-1920x1080-1.jpg" /&gt;&lt;/div&gt;&lt;div&gt;
 	&lt;div class="full-width-layout__copy"&gt;&lt;p&gt;&lt;span&gt;Roche is deploying more than 3,500 NVIDIA Blackwell GPUs across hybrid cloud and on‑premises environments in the U.S. and Europe, expanding on an &lt;/span&gt;&lt;span&gt;existing collaboration&lt;/span&gt;&lt;span&gt; to turn AI and accelerated computing into a core operating capability across its pharmaceutical and diagnostics businesses.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;At NVIDIA GTC today, Roche unveiled how this new AI computing backbone will power everything from biological foundation models to drug discovery and digital twins for manufacturing.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;This investment positions Roche with the extensive computing capacity it needs to enable&amp;nbsp; scientists across the enterprise to pursue their most ambitious scientific projects.&lt;/span&gt;&lt;/p&gt;
@@ -1805,7 +989,7 @@ This feels like he just mashed the 2 together with a vibe coded tool to automate
 &lt;p&gt;&lt;span&gt;Roche’s infrastructure scale-up is the foundation for its next decade of innovation — from larger biological foundation models and agentic research workflows to AI‑driven lab automation and advanced digital diagnostics.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;“Everything we do here is going to allow us to get that medicine and those diagnostic devices and solutions faster to the patients,” said Mamilli.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;&lt;span&gt;Learn more about &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;NVIDIA AI in healthcare and life sciences&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/</guid><pubDate>Mon, 16 Mar 2026 20:30:59 +0000</pubDate></item><item><title>[NEW] Warren presses Pentagon over decision to grant xAI access to classified networks (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265791303.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sen. Elizabeth Warren (D-MA) sent a letter to Defense Secretary Pete Hegseth on Monday expressing concern over the Pentagon’s decision to give Elon Musk’s company xAI access to classified networks.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/</guid><pubDate>Mon, 16 Mar 2026 20:30:59 +0000</pubDate></item><item><title>Warren presses Pentagon over decision to grant xAI access to classified networks (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265791303.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sen. Elizabeth Warren (D-MA) sent a letter to Defense Secretary Pete Hegseth on Monday expressing concern over the Pentagon’s decision to give Elon Musk’s company xAI access to classified networks.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;“Grok, the controversial AI model developed by xAI, has provided disturbing outputs for users, including giving users ‘advice on how to commit murders and terrorist attacks,’ generating antisemitic content, and creating child sexual abuse material,” the letter reads.&amp;nbsp;&lt;/p&gt;
 
@@ -1899,7 +1083,7 @@ This feels like he just mashed the 2 together with a vibe coded tool to automate
 
 
 
-&lt;p class="wp-block-paragraph"&gt;GenAI.mil is the military’s secure enterprise platform for generative AI that gives DoD workers access to large language models (LLMs) and other AI tools within government-approved cloud environments. It is designed to help with primarily non-classified tasks like research, document drafting, and data analysis.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/</guid><pubDate>Mon, 16 Mar 2026 20:58:36 +0000</pubDate></item><item><title>[NEW] Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-2026-getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia CEO Jensen Huang threw out a lot of numbers — mostly of the technical variety — during his keynote Monday to kick off the company’s annual GTC Conference in San Jose, California.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;GenAI.mil is the military’s secure enterprise platform for generative AI that gives DoD workers access to large language models (LLMs) and other AI tools within government-approved cloud environments. It is designed to help with primarily non-classified tasks like research, document drafting, and data analysis.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/</guid><pubDate>Mon, 16 Mar 2026 20:58:36 +0000</pubDate></item><item><title>Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-2026-getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia CEO Jensen Huang threw out a lot of numbers — mostly of the technical variety — during his keynote Monday to kick off the company’s annual GTC Conference in San Jose, California.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;But there was one financial figure that investors surely took notice of: his projection that there will be $1 trillion worth of orders for Nvidia’s Blackwell and Vera Rubin chips, a monetary reflection of a booming AI business. &lt;/p&gt;
 
@@ -1965,7 +1149,7 @@ This feels like he just mashed the 2 together with a vibe coded tool to automate
 			
 		&lt;/div&gt;
 	&lt;/div&gt;
-&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/</guid><pubDate>Mon, 16 Mar 2026 21:41:37 +0000</pubDate></item><item><title>[NEW] Elon Musk's xAI sued for turning three girls' real photos into AI CSAM (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/</link><description>&lt;header&gt;
+&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/</guid><pubDate>Mon, 16 Mar 2026 21:41:37 +0000</pubDate></item><item><title>Elon Musk's xAI sued for turning three girls' real photos into AI CSAM (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -2403,7 +1587,7 @@ This feels like he just mashed the 2 together with a vibe coded tool to automate
       &lt;/div&gt;
     &lt;/div&gt;
                 &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/</guid><pubDate>Mon, 16 Mar 2026 21:51:16 +0000</pubDate></item><item><title>[NEW] The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics (Hugging Face - Blog)</title><link>https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics</link><description>&lt;!-- HTML_TAG_START --&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/</guid><pubDate>Mon, 16 Mar 2026 21:51:16 +0000</pubDate></item><item><title>The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics (Hugging Face - Blog)</title><link>https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics</link><description>&lt;!-- HTML_TAG_START --&gt;
 
 &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nigel Nelson, Lukas Zbinden, Mostafa Toloui, Sean Huver&lt;/p&gt;
 &lt;p&gt;Healthcare AI has mainly been perception-based, focusing on models that interpret signals and classify or segment pathology/anatomy. However, healthcare involves "doing," making the static, perception-only datasets of the past—which lack embodiment, contact dynamics, and closed-loop control—insufficient. The field needs standardized robot bodies, synchronized vision–force–kinematics data, sim-to-real pairing, and cross-embodiment benchmarks to build the foundation for &lt;strong&gt;Physical AI&lt;/strong&gt;.&lt;/p&gt;
@@ -2651,7 +1835,7 @@ GR00T-H performing end-to-end suturing.&lt;/p&gt;
 &lt;/h2&gt;
 &lt;p&gt;Access the following resources to start working with the Open-H-embodiment dataset and models:&lt;/p&gt;
 
-&lt;!-- HTML_TAG_END --&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics</guid><pubDate>Mon, 16 Mar 2026 21:58:40 +0000</pubDate></item><item><title>[NEW] Nvidia’s version of OpenClaw could solve its biggest problem: security (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia CEO Jensen Huang thinks every company should have an OpenClaw strategy. And Nvidia is here to provide it.&lt;/p&gt;
+&lt;!-- HTML_TAG_END --&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics</guid><pubDate>Mon, 16 Mar 2026 21:58:40 +0000</pubDate></item><item><title>Nvidia’s version of OpenClaw could solve its biggest problem: security (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia CEO Jensen Huang thinks every company should have an OpenClaw strategy. And Nvidia is here to provide it.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Nvidia has developed NemoClaw, an enterprise-grade AI agent platform, Huang announced during his GTC keynote on Monday. The platform is built on top of OpenClaw, the popular open-source framework for building and running AI agents locally on a company’s own hardware.&lt;/p&gt;
 
@@ -2729,4 +1913,110 @@ GR00T-H performing end-to-end suturing.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;OpenAI launched Frontier, its open platform for enterprises to build and manage AI agents, in February. In December, global research firm Gartner released a report about how governance platforms for AI agents would be the crucial infrastructure needed for enterprises to adopt the AI tech. Nvidia clearly got the message.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“OpenClaw gave us, gave the industry exactly what it needed at exactly the time,” Huang said. “Just as Linux gave the industry exactly what it needed at exactly the time, just as Kubernetes showed up at exactly the right time, just as HTML showed up. It made it possible for the entire industry to grab on to this open source stack and go do something with it.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</guid><pubDate>Mon, 16 Mar 2026 22:45:51 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;“OpenClaw gave us, gave the industry exactly what it needed at exactly the time,” Huang said. “Just as Linux gave the industry exactly what it needed at exactly the time, just as Kubernetes showed up at exactly the right time, just as HTML showed up. It made it possible for the entire industry to grab on to this open source stack and go do something with it.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</guid><pubDate>Mon, 16 Mar 2026 22:45:51 +0000</pubDate></item><item><title>[NEW] Picsart now allows creators to ‘hire’ AI assistants through agent marketplace (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The AI-powered design platform Picsart is launching an AI agent marketplace, allowing creators to “hire” AI assistants to help them with specific tasks, like resizing and remixing social content, or editing product photos on Shopify.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;With over 130 million worldwide users that skew Gen Z, Picsart is like a more advanced Canva for social media managers and content creators. The company reached unicorn status amid the creator economy boom in 2021, but has remained relevant by continuing to ramp up its AI-powered products to serve the current market.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The timing is good for Picsart to launch such a marketplace, since viral projects like OpenClaw have fueled industry demand for agentic AI chatbots that can carry out requests like a personal assistant.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Creators have been stuck as the operator of every workflow — the one doing, not deciding,” said Hovhannes Avoyan, Picsart founder and CEO, in a statement. “Our Agents change that relationship — you set direction, the agent builds a plan using real data, you approve, it executes.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Picsart says that it will introduce more specialized agents each week, but to start, creators can work with four different agents: Flair, Resize Pro, Remix, and Swap. &lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3102896" height="407" src="https://techcrunch.com/wp-content/uploads/2026/03/Agents-Static-2.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Picsart&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Flair agent is perhaps the most sophisticated of the bunch, integrating with Shopify to act as an assistant for online store owners. The agent analyzes market trends to make recommendations for how a shop could improve, like suggesting it edit product photos to look more cohesive. In a future update, Flair will be able to run A/B tests and identify underperforming products to proactively offer recommendations for how a creator can improve their sales.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Resize Pro agent can resize images and videos for the recommended dimensions on various different platforms, but it uses AI to generatively extend the frame if the original media isn’t conducive to a certain size. The AI supposedly will ensure that resized images look like they were composed intentionally and weren’t just cropped haphazardly. &lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Remix agent invites the creator to describe a style, like “vintage film,” “watercolor,” or “cyberpunk” and edit an existing photo library to fit within that theme, while the agent feature allows users to change the backgrounds of photos in bulk.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3102897" height="407" src="https://techcrunch.com/wp-content/uploads/2026/03/Agents-Static-5.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Picsart&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For an agent like Flair, which is supposed to work behind the scenes asynchronously to analyze store data, it will be especially helpful that users can chat with these agents on WhatsApp or Telegram. Picsart integrates with those apps specifically since their APIs enable businesses to set up AI chatbots; but as more platforms add similar tools, the functionality could broaden.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“As agents extend to messaging apps creators already use, that conversation happens anywhere — at your desk or from the subway,” added Avoyan.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In some cases, AI agents can prove problematic, since any LLM-based software has the potential to hallucinate and could potentially take actions that the creator did not intend. But Picsart allows users to set “autonomy levels” for agents like Flair, which give the option of requiring creator approval before taking any action. These agents should also be less vulnerable to prompt injection attacks than more public facing agents, assuming that Picsart doesn’t roll out agents that interact more directly with customers or the internet at large.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Like many other AI tools, Picsart offers a free plan with just a few AI credits each week, but users can get significantly more capacity when paying for premium subscriptions, which start at about $10 per month when billed annually. To use an AI agent, you’ll probably need a paid plan. &lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The AI-powered design platform Picsart is launching an AI agent marketplace, allowing creators to “hire” AI assistants to help them with specific tasks, like resizing and remixing social content, or editing product photos on Shopify.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;With over 130 million worldwide users that skew Gen Z, Picsart is like a more advanced Canva for social media managers and content creators. The company reached unicorn status amid the creator economy boom in 2021, but has remained relevant by continuing to ramp up its AI-powered products to serve the current market.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The timing is good for Picsart to launch such a marketplace, since viral projects like OpenClaw have fueled industry demand for agentic AI chatbots that can carry out requests like a personal assistant.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Creators have been stuck as the operator of every workflow — the one doing, not deciding,” said Hovhannes Avoyan, Picsart founder and CEO, in a statement. “Our Agents change that relationship — you set direction, the agent builds a plan using real data, you approve, it executes.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Picsart says that it will introduce more specialized agents each week, but to start, creators can work with four different agents: Flair, Resize Pro, Remix, and Swap. &lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3102896" height="407" src="https://techcrunch.com/wp-content/uploads/2026/03/Agents-Static-2.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Picsart&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Flair agent is perhaps the most sophisticated of the bunch, integrating with Shopify to act as an assistant for online store owners. The agent analyzes market trends to make recommendations for how a shop could improve, like suggesting it edit product photos to look more cohesive. In a future update, Flair will be able to run A/B tests and identify underperforming products to proactively offer recommendations for how a creator can improve their sales.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Resize Pro agent can resize images and videos for the recommended dimensions on various different platforms, but it uses AI to generatively extend the frame if the original media isn’t conducive to a certain size. The AI supposedly will ensure that resized images look like they were composed intentionally and weren’t just cropped haphazardly. &lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The Remix agent invites the creator to describe a style, like “vintage film,” “watercolor,” or “cyberpunk” and edit an existing photo library to fit within that theme, while the agent feature allows users to change the backgrounds of photos in bulk.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3102897" height="407" src="https://techcrunch.com/wp-content/uploads/2026/03/Agents-Static-5.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Picsart&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For an agent like Flair, which is supposed to work behind the scenes asynchronously to analyze store data, it will be especially helpful that users can chat with these agents on WhatsApp or Telegram. Picsart integrates with those apps specifically since their APIs enable businesses to set up AI chatbots; but as more platforms add similar tools, the functionality could broaden.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“As agents extend to messaging apps creators already use, that conversation happens anywhere — at your desk or from the subway,” added Avoyan.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In some cases, AI agents can prove problematic, since any LLM-based software has the potential to hallucinate and could potentially take actions that the creator did not intend. But Picsart allows users to set “autonomy levels” for agents like Flair, which give the option of requiring creator approval before taking any action. These agents should also be less vulnerable to prompt injection attacks than more public facing agents, assuming that Picsart doesn’t roll out agents that interact more directly with customers or the internet at large.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Like many other AI tools, Picsart offers a free plan with just a few AI credits each week, but users can get significantly more capacity when paying for premium subscriptions, which start at about $10 per month when billed annually. To use an AI agent, you’ll probably need a paid plan. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/</guid><pubDate>Tue, 17 Mar 2026 04:01:00 +0000</pubDate></item></channel></rss>
