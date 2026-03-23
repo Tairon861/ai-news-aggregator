@@ -1,391 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 22 Mar 2026 18:41:12 +0000</lastBuildDate><item><title>An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/</link><description>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Shortly after Amazon CEO Andy Jassy announced AWS’s groundbreaking $50 billion investment deal with OpenAI, Amazon invited me on a private tour of the chip development lab at the heart of the deal, at (mostly*) its own expense.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Industry experts are watching Amazon’s Trainium chip, created at that facility, for its implications for lower-cost AI inference and, potentially, a dent in Nvidia’s near monopoly.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Curious, I agreed to go.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;My tour guides for the day were the lab’s director, Kristopher King (pictured below right) and director of engineering Mark Carroll (below left), as well as the team’s PR person who arranged the visit, Doron Aronson (pictured with yours truly later in the story).&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="ASW Chip lab leaders Mark Carroll, Kristopher King" class="wp-image-3104181" height="560" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_1101-Mark-Carroll-Kristopher-King.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Chip lab leaders Mark Carroll and Kristopher King.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AWS has been Anthropic’s major cloud platform since the AI lab’s early days&amp;nbsp;— a relationship significant enough to survive Anthropic later adding Microsoft as a cloud partner as well, and Amazon’s growing partnership with OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The OpenAI deal makes AWS the exclusive provider of the model maker’s new AI agent builder, Frontier, which could become an important part of OpenAI’s business if agents become as big as Silicon Valley thinks they will.&amp;nbsp;We’ll see if that exclusivity stands exactly as announced. The Financial Times reported this week that Microsoft may believe OpenAI’s deal with Amazon violates its own deal with OpenAI, namely with Redmond getting access to all of OpenAI’s models and tech.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What makes AWS so appealing to OpenAI? As part of this deal, the cloud giant has agreed to supply OpenAI with 2 gigawatts of Trainium computing capacity. This is a giant commitment, given that Anthropic and Amazon’s own Bedrock service are already consuming Trainium chips faster than Amazon can produce them.&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There are 1.4 million Trainium chips deployed across all three generations, and Anthropic’s Claude runs on over 1 million of the Trainium2 chips deployed, the company said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s worth noting that while Trainium was originally geared toward faster, cheaper model training (a bigger priority a couple of years ago), it’s now tuned and used for inference as well. Inference — the process of actually running an AI model to generate responses — is currently the biggest performance bottleneck in the industry.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Case in point: Trainium2 handles the majority of the inference traffic on Amazon’s Bedrock service, which supports the building of AI applications by Amazon’s many enterprise customers and allows the apps to use multiple models.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Our customer base is just expanding as fast as we can get capacity out there,” King said. “Bedrock could be as big as EC2 one day,” he added, referring to AWS’s behemoth compute cloud service.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Amazon's Trainium3 chip" class="wp-image-3104463" height="383" src="https://techcrunch.com/wp-content/uploads/2026/03/Trainium-3-chip.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Amazon’s Trainium3 chip.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Amazon&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-trainium-vs-nvidia"&gt;Trainium vs. Nvidia&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beyond offering an alternative to Nvidia’s backlogged, hard-to-acquire GPUs, Amazon says its new chips running on its new specialty Trn3 UltraServers cost up to 50% less to run for comparable performance than using classic cloud servers.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Along with Trainium3, released in December, this AWS team also built new Neuron switches, and Carroll says that combo is transformative.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What that gives us is something huge,” Carroll said. The switches allow every Trainium3 chip to talk to every other chip in a mesh configuration, reducing latency. “That’s why Trainium3 is breaking all kinds of records,” particularly in “price per power,” he said.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When trillions of tokens a day are involved, such improvements add up.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In fact, Amazon’s chip team was lauded by Apple in 2024. In a rare moment of openness for the secretive company, Apple’s director of AI publicly described how it used another of the team’s chips — Graviton,&amp;nbsp;a low-power, ARM-based server CPU and the first breakout chip this team designed. Apple also lauded Inferentia — a chip specifically designed for inference — and gave a nod to Trainium, which was new at the time.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;These chips represent the classic Amazon playbook: See what people want to buy, then build an in-house alternative that competes on price.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The catch for chips, historically, has been switching costs. Applications written for Nvidia’s chips must be re-architected to work with others — a time-consuming process that discourages developers from switching.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But the AWS chip team proudly told me that Trainium now supports PyTorch, a popular open source framework for building AI models. That includes many of the ones hosted on Hugging Face, a vast library where developers share open source models.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The transition, Carroll told me, requires “basically a one-line change, and then recompile, and then run on Trainium.”&amp;nbsp;In other words, Amazon is attempting to chip away at Nvidia’s market dominance wherever possible.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AWS has also this month announced a partnership with Cerebras Systems, integrating that company’s inference chip on servers running Trainium for what Amazon promises will be superpowered, low-latency AI performance.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But Amazon’s ambitions go beyond the chips themselves. It also designs the server that hosts the chips. Besides the networking components, this team has designed “Nitro,” a hardware-software combo that provides virtualization tech (which allows many instances of software to run separately on the same server); new state-of-the-art liquid cooling technology; and the server sleds (pictured below) that host this gear.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;All of that is to control cost and performance.&amp;nbsp; &lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour, sled with components" class="wp-image-3104477" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip-tour-sled-and-components.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour, sled with components.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-working-24-7-on-the-bring-up-nbsp"&gt;Working 24/7 on the “bring-up”&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph" id="h-working-24-7-on-the-bring-up-amazon-s-custom-chip-designing-unit-was-born-when-the-cloud-giant-bought-israeli-chip-designer-annapurna-labs-in-january-2015-for-about-370-million-so-this-team-has-now-had-more-than-10-years-designing-chips-for-aws"&gt;Amazon’s custom chip-designing unit was born when the cloud giant bought Israeli chip designer Annapurna Labs in January 2015 for about $350 million. So this team has now had more than 10 years designing chips for AWS.&amp;nbsp;The unit has retained its Annapurna roots and name —&amp;nbsp;its logo is everywhere in the office.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This chip lab is located in a shiny, chrome-windowed building in Austin’s upscale “The Domain” district, a walkable area filled with shops and restaurants that’s sometimes called Austin’s Silicon Valley.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The offices have your classic tech corporate vibe: desks in cubicles, gathering spots, and conference rooms. But tucked away at the back of a high floor in the building is the actual lab, with sweeping views of the city.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The shelving-filled lab, about the size of two large conference rooms, is a noisy industrial space thanks to the fans on the equipment. It looks like a cross between a high school shop class and a Hollywood set for a high-end lab, except the engineers are dressed in jeans, not white lab coats.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="ASW Chip Lab" class="wp-image-3104207" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-lab1.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin Chip Lab.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="ASW Austin chip lab" class="wp-image-3104209" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-lab2.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Note that this is not where the chips are manufactured, so no white hazmat suits were necessary. The Trainium3 is a state-of-the-art 3-nanometer chip, produced by TSMC, arguably the leader in 3-nanometer manufacturing, with other chips produced by Marvell.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But this is the room where the magic of the “bring-up” occurs.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“A silicon bring-up is when you get the chip for the first time, and it’s like a big overnight party. You stay here, like a lock-in,” King explains. After 18 months of work, the chip is activated for the first time to verify it works as designed.&amp;nbsp;The team even filmed some of the Trainium3 bring-up and posted it on YouTube.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Spoiler alert: It’s never problem-free.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For Trainium3, the prototype chip was originally air-cooled, like previous versions. The current chip is now liquid-cooled, which offers energy advantages and was quite an engineering feat.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;During the bring-up, the dimensions for how the chip attached to the air-cooling heat sink were off, so the chip couldn’t be activated.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Unfazed, the team “immediately got a grinder and just started grinding off the metal,” King said. Because they didn’t want the noise disrupting the bring-up pizza party atmosphere, they snuck off and did the grinding in a conference room.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Staying up all night and solving problems “is what silicon bring-up is all about,” King said.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The lab even has a welding station, where hardware lab engineer and master welder Isaac Guevara demonstrated welding tiny integrated circuit components through a microscope. This is such insanely difficult work that senior leader Carroll openly admitted he couldn’t do it, to the guffaws of Guevara and the rest of the engineers in the room.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="ASW Chip tour welding station" class="wp-image-3104217" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-Isaac-Guevara.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour, welding station.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The lab also contains both custom-made and commercial tools for testing and analyzing issues with chips.&amp;nbsp;Here’s signal engineer Arvind Srinivasan demonstrating how the lab tests each tiny component on the chip:&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour, testing equipment" class="wp-image-3104221" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-Arvind-Srinivasan.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour, testing equipment.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-sleds-are-the-star-of-the-lab-nbsp"&gt;Sleds are the star of the lab&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But the star of the lab is an entire row showcasing each generation of the “sleds” the team designed.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour wall of sleds" class="wp-image-3104227" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-Carroll-King-sleds.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour wall of sleds.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Sleds are the trays that house the Trainium AI chips, Graviton CPU chips, and supporting boards and components. Stack them together on a rack with the networking component, also custom-designed by this team, and you get the systems that are at the heart of Anthropic Claude’s success.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Here’s the sled that was shown off during the AWS re:invent conference in December:&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour, Tranium3 sled" class="wp-image-3104224" height="680" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-trainium3-sled.jpg?w=510" width="510" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour, Trainium3 sled.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-proven-by-anthropic-and-openai"&gt;Proven by Anthropic and OpenAI &lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I expected my guides to crow about the OpenAI deal during the tour. But they didn’t.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The reticence could have been related to the aforementioned potential legal haze that might hang over the deal. But the sense I got was that these boots-on-the-ground engineers (who are currently designing the next version, Trainium4) haven’t had much chance to work with OpenAI yet. Their day-to-day work has so far been focused on Anthropic’s and Amazon’s needs.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Currently, the biggest chunk of Trainium2 chips is deployed in Project Rainier — one of the world’s largest AI compute clusters — which went live in late 2025 with 500,000 chips. It’s used by Anthropic.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But there was a wall monitor in the main office displaying a quote about how OpenAI will be using&amp;nbsp;Trainium. The pride was there, if subtle.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In addition to this lab, the team also has its own private data center for quality and testing purposes. A short drive away, it doesn’t run customer workloads, so it’s housed at a co-location facility, not an AWS data center.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Security is tight: There are strict protocols to enter the building and to access Amazon’s area within.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The data center’s cooling system is so loud that earplugs are mandatory, and the air is thick with the acrid smell of heated metal. It’s not a pleasant place for the average person to hang out.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour data center" class="wp-image-3104230" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-Julie-Bort-Doron-Aronson.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Here’s me and Aronson at the AWS Austin chip lab data center, protecting our ears next to live servers.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch / Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At this data center, there are rows and rows of servers filled with sleds that integrate all of Amazon’s newest custom chips: Graviton CPU, liquid-cooled Trainium3, Amazon Nitro, all happily computing away. The liquid runs on a closed system, meaning it is reused, which should also help reduce the environmental impact, the engineers said.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Here’s what a current Trn3 UltraServer looks like: Multiple sleds are on top and bottom, with the Neuron switches in the middle. Hardware development engineer David Martinez-Darrow is seen here performing maintenance on a sled:&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour data center" class="wp-image-3104234" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers-David-Martinez-Darrow.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour data center.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While attention on the team has always been high, the scrutiny has really ratcheted up as of late.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Amazon CEO Andy Jassy keeps a close eye on this lab, publicly bragging about its products like a proud dad. In December, he said Trainium was already a multibillion-dollar business for AWS and called it one piece of AWS tech he’s most excited about. He also gave the chip a shout-out when announcing the OpenAI agreement.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The team feels the pressure, too. Engineers will work 24/7 for three to four weeks around each bring-up event to fix any issues so the chips can be mass-produced and put into data centers. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It’s very important that we get as fast as possible to prove that it’s actually going to work,” Carroll said. “So far, we’ve been doing really well.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;*Disclosure: Amazon provided airfare and covered the cost of one night at a local hotel. Honoring its Leadership Principle of Frugality, this was a back-of-the-plane middle seat and a modest room. TechCrunch picked up the other associated travel costs like Ubers and luggage fees. (Yes, I checked a bag for an overnight trip. I’m high maintenance that way.)&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Shortly after Amazon CEO Andy Jassy announced AWS’s groundbreaking $50 billion investment deal with OpenAI, Amazon invited me on a private tour of the chip development lab at the heart of the deal, at (mostly*) its own expense.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Industry experts are watching Amazon’s Trainium chip, created at that facility, for its implications for lower-cost AI inference and, potentially, a dent in Nvidia’s near monopoly.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Curious, I agreed to go.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;My tour guides for the day were the lab’s director, Kristopher King (pictured below right) and director of engineering Mark Carroll (below left), as well as the team’s PR person who arranged the visit, Doron Aronson (pictured with yours truly later in the story).&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="ASW Chip lab leaders Mark Carroll, Kristopher King" class="wp-image-3104181" height="560" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_1101-Mark-Carroll-Kristopher-King.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Chip lab leaders Mark Carroll and Kristopher King.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AWS has been Anthropic’s major cloud platform since the AI lab’s early days&amp;nbsp;— a relationship significant enough to survive Anthropic later adding Microsoft as a cloud partner as well, and Amazon’s growing partnership with OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The OpenAI deal makes AWS the exclusive provider of the model maker’s new AI agent builder, Frontier, which could become an important part of OpenAI’s business if agents become as big as Silicon Valley thinks they will.&amp;nbsp;We’ll see if that exclusivity stands exactly as announced. The Financial Times reported this week that Microsoft may believe OpenAI’s deal with Amazon violates its own deal with OpenAI, namely with Redmond getting access to all of OpenAI’s models and tech.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What makes AWS so appealing to OpenAI? As part of this deal, the cloud giant has agreed to supply OpenAI with 2 gigawatts of Trainium computing capacity. This is a giant commitment, given that Anthropic and Amazon’s own Bedrock service are already consuming Trainium chips faster than Amazon can produce them.&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There are 1.4 million Trainium chips deployed across all three generations, and Anthropic’s Claude runs on over 1 million of the Trainium2 chips deployed, the company said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s worth noting that while Trainium was originally geared toward faster, cheaper model training (a bigger priority a couple of years ago), it’s now tuned and used for inference as well. Inference — the process of actually running an AI model to generate responses — is currently the biggest performance bottleneck in the industry.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Case in point: Trainium2 handles the majority of the inference traffic on Amazon’s Bedrock service, which supports the building of AI applications by Amazon’s many enterprise customers and allows the apps to use multiple models.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Our customer base is just expanding as fast as we can get capacity out there,” King said. “Bedrock could be as big as EC2 one day,” he added, referring to AWS’s behemoth compute cloud service.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Amazon's Trainium3 chip" class="wp-image-3104463" height="383" src="https://techcrunch.com/wp-content/uploads/2026/03/Trainium-3-chip.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Amazon’s Trainium3 chip.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Amazon&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-trainium-vs-nvidia"&gt;Trainium vs. Nvidia&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beyond offering an alternative to Nvidia’s backlogged, hard-to-acquire GPUs, Amazon says its new chips running on its new specialty Trn3 UltraServers cost up to 50% less to run for comparable performance than using classic cloud servers.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Along with Trainium3, released in December, this AWS team also built new Neuron switches, and Carroll says that combo is transformative.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“What that gives us is something huge,” Carroll said. The switches allow every Trainium3 chip to talk to every other chip in a mesh configuration, reducing latency. “That’s why Trainium3 is breaking all kinds of records,” particularly in “price per power,” he said.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When trillions of tokens a day are involved, such improvements add up.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In fact, Amazon’s chip team was lauded by Apple in 2024. In a rare moment of openness for the secretive company, Apple’s director of AI publicly described how it used another of the team’s chips — Graviton,&amp;nbsp;a low-power, ARM-based server CPU and the first breakout chip this team designed. Apple also lauded Inferentia — a chip specifically designed for inference — and gave a nod to Trainium, which was new at the time.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;These chips represent the classic Amazon playbook: See what people want to buy, then build an in-house alternative that competes on price.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The catch for chips, historically, has been switching costs. Applications written for Nvidia’s chips must be re-architected to work with others — a time-consuming process that discourages developers from switching.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But the AWS chip team proudly told me that Trainium now supports PyTorch, a popular open source framework for building AI models. That includes many of the ones hosted on Hugging Face, a vast library where developers share open source models.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The transition, Carroll told me, requires “basically a one-line change, and then recompile, and then run on Trainium.”&amp;nbsp;In other words, Amazon is attempting to chip away at Nvidia’s market dominance wherever possible.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AWS has also this month announced a partnership with Cerebras Systems, integrating that company’s inference chip on servers running Trainium for what Amazon promises will be superpowered, low-latency AI performance.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But Amazon’s ambitions go beyond the chips themselves. It also designs the server that hosts the chips. Besides the networking components, this team has designed “Nitro,” a hardware-software combo that provides virtualization tech (which allows many instances of software to run separately on the same server); new state-of-the-art liquid cooling technology; and the server sleds (pictured below) that host this gear.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;All of that is to control cost and performance.&amp;nbsp; &lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour, sled with components" class="wp-image-3104477" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip-tour-sled-and-components.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour, sled with components.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-working-24-7-on-the-bring-up-nbsp"&gt;Working 24/7 on the “bring-up”&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph" id="h-working-24-7-on-the-bring-up-amazon-s-custom-chip-designing-unit-was-born-when-the-cloud-giant-bought-israeli-chip-designer-annapurna-labs-in-january-2015-for-about-370-million-so-this-team-has-now-had-more-than-10-years-designing-chips-for-aws"&gt;Amazon’s custom chip-designing unit was born when the cloud giant bought Israeli chip designer Annapurna Labs in January 2015 for about $350 million. So this team has now had more than 10 years designing chips for AWS.&amp;nbsp;The unit has retained its Annapurna roots and name —&amp;nbsp;its logo is everywhere in the office.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This chip lab is located in a shiny, chrome-windowed building in Austin’s upscale “The Domain” district, a walkable area filled with shops and restaurants that’s sometimes called Austin’s Silicon Valley.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The offices have your classic tech corporate vibe: desks in cubicles, gathering spots, and conference rooms. But tucked away at the back of a high floor in the building is the actual lab, with sweeping views of the city.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The shelving-filled lab, about the size of two large conference rooms, is a noisy industrial space thanks to the fans on the equipment. It looks like a cross between a high school shop class and a Hollywood set for a high-end lab, except the engineers are dressed in jeans, not white lab coats.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="ASW Chip Lab" class="wp-image-3104207" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-lab1.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin Chip Lab.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="ASW Austin chip lab" class="wp-image-3104209" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-lab2.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Note that this is not where the chips are manufactured, so no white hazmat suits were necessary. The Trainium3 is a state-of-the-art 3-nanometer chip, produced by TSMC, arguably the leader in 3-nanometer manufacturing, with other chips produced by Marvell.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But this is the room where the magic of the “bring-up” occurs.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“A silicon bring-up is when you get the chip for the first time, and it’s like a big overnight party. You stay here, like a lock-in,” King explains. After 18 months of work, the chip is activated for the first time to verify it works as designed.&amp;nbsp;The team even filmed some of the Trainium3 bring-up and posted it on YouTube.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Spoiler alert: It’s never problem-free.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For Trainium3, the prototype chip was originally air-cooled, like previous versions. The current chip is now liquid-cooled, which offers energy advantages and was quite an engineering feat.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;During the bring-up, the dimensions for how the chip attached to the air-cooling heat sink were off, so the chip couldn’t be activated.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Unfazed, the team “immediately got a grinder and just started grinding off the metal,” King said. Because they didn’t want the noise disrupting the bring-up pizza party atmosphere, they snuck off and did the grinding in a conference room.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Staying up all night and solving problems “is what silicon bring-up is all about,” King said.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The lab even has a welding station, where hardware lab engineer and master welder Isaac Guevara demonstrated welding tiny integrated circuit components through a microscope. This is such insanely difficult work that senior leader Carroll openly admitted he couldn’t do it, to the guffaws of Guevara and the rest of the engineers in the room.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="ASW Chip tour welding station" class="wp-image-3104217" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-Isaac-Guevara.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour, welding station.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The lab also contains both custom-made and commercial tools for testing and analyzing issues with chips.&amp;nbsp;Here’s signal engineer Arvind Srinivasan demonstrating how the lab tests each tiny component on the chip:&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour, testing equipment" class="wp-image-3104221" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-Arvind-Srinivasan.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour, testing equipment.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-sleds-are-the-star-of-the-lab-nbsp"&gt;Sleds are the star of the lab&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But the star of the lab is an entire row showcasing each generation of the “sleds” the team designed.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour wall of sleds" class="wp-image-3104227" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-Carroll-King-sleds.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour wall of sleds.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Sleds are the trays that house the Trainium AI chips, Graviton CPU chips, and supporting boards and components. Stack them together on a rack with the networking component, also custom-designed by this team, and you get the systems that are at the heart of Anthropic Claude’s success.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Here’s the sled that was shown off during the AWS re:invent conference in December:&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour, Tranium3 sled" class="wp-image-3104224" height="680" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-trainium3-sled.jpg?w=510" width="510" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour, Trainium3 sled.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-proven-by-anthropic-and-openai"&gt;Proven by Anthropic and OpenAI &lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I expected my guides to crow about the OpenAI deal during the tour. But they didn’t.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The reticence could have been related to the aforementioned potential legal haze that might hang over the deal. But the sense I got was that these boots-on-the-ground engineers (who are currently designing the next version, Trainium4) haven’t had much chance to work with OpenAI yet. Their day-to-day work has so far been focused on Anthropic’s and Amazon’s needs.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Currently, the biggest chunk of Trainium2 chips is deployed in Project Rainier — one of the world’s largest AI compute clusters — which went live in late 2025 with 500,000 chips. It’s used by Anthropic.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But there was a wall monitor in the main office displaying a quote about how OpenAI will be using&amp;nbsp;Trainium. The pride was there, if subtle.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In addition to this lab, the team also has its own private data center for quality and testing purposes. A short drive away, it doesn’t run customer workloads, so it’s housed at a co-location facility, not an AWS data center.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Security is tight: There are strict protocols to enter the building and to access Amazon’s area within.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The data center’s cooling system is so loud that earplugs are mandatory, and the air is thick with the acrid smell of heated metal. It’s not a pleasant place for the average person to hang out.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour data center" class="wp-image-3104230" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-Julie-Bort-Doron-Aronson.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Here’s me and Aronson at the AWS Austin chip lab data center, protecting our ears next to live servers.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch / Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At this data center, there are rows and rows of servers filled with sleds that integrate all of Amazon’s newest custom chips: Graviton CPU, liquid-cooled Trainium3, Amazon Nitro, all happily computing away. The liquid runs on a closed system, meaning it is reused, which should also help reduce the environmental impact, the engineers said.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Here’s what a current Trn3 UltraServer looks like: Multiple sleds are on top and bottom, with the Neuron switches in the middle. Hardware development engineer David Martinez-Darrow is seen here performing maintenance on a sled:&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="AWS Austin chip lab tour data center" class="wp-image-3104234" height="510" src="https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers-David-Martinez-Darrow.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;AWS Austin chip lab tour data center.&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch/Julie Bort&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While attention on the team has always been high, the scrutiny has really ratcheted up as of late.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Amazon CEO Andy Jassy keeps a close eye on this lab, publicly bragging about its products like a proud dad. In December, he said Trainium was already a multibillion-dollar business for AWS and called it one piece of AWS tech he’s most excited about. He also gave the chip a shout-out when announcing the OpenAI agreement.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The team feels the pressure, too. Engineers will work 24/7 for three to four weeks around each bring-up event to fix any issues so the chips can be mass-produced and put into data centers. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It’s very important that we get as fast as possible to prove that it’s actually going to work,” Carroll said. “So far, we’ve been doing really well.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;*Disclosure: Amazon provided airfare and covered the cost of one night at a local hotel. Honoring its Leadership Principle of Frugality, this was a back-of-the-plane middle seat and a modest room. TechCrunch picked up the other associated travel costs like Ubers and luggage fees. (Yes, I checked a bag for an overnight trip. I’m high maintenance that way.)&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/</guid><pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate></item><item><title>[NEW] Delve accused of misleading customers with ‘fake compliance’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;An anonymous Substack post published this week accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations, potentially exposing those customers to “criminal liability under HIPAA and hefty fines under GDPR.”&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 23 Mar 2026 02:32:53 +0000</lastBuildDate><item><title>Delve accused of misleading customers with ‘fake compliance’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;An anonymous Substack post published this week accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations, potentially exposing those customers to “criminal liability under HIPAA and hefty fines under GDPR.”&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Delve is a Y Combinator-backed startup that last year announced raising a $32 million Series A at a $300 million valuation. (The round was led by Insight Partners.) On Friday, the startup attempted to refute the accusations on its blog, calling the Substack post “misleading” and saying it “contains a number of inaccurate claims.”&lt;/p&gt;
 
@@ -543,7 +157,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;TechCrunch sent an email seeking additional comment to the media contact address listed on Delve’s website. The email bounced, but after this article was published, I received a calendar invite for a “Delve demo” later this week. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This post was initially published on March 21, 2026. It has been updated with emailed answers from DeepDelver, additional information about purported security vulnerabilities provided by Jamieson O’Reilly, and additional details about Delve’s response to TechCrunch.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/</guid><pubDate>Sun, 22 Mar 2026 14:43:51 +0000</pubDate></item><item><title>[NEW] Elon Musk unveils chip manufacturing plans for SpaceX and Tesla (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk recently outlined ambitious plans for a chip-building collaboration between his companies Tesla and SpaceX.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This post was initially published on March 21, 2026. It has been updated with emailed answers from DeepDelver, additional information about purported security vulnerabilities provided by Jamieson O’Reilly, and additional details about Delve’s response to TechCrunch.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/</guid><pubDate>Sun, 22 Mar 2026 14:43:51 +0000</pubDate></item><item><title>Elon Musk unveils chip manufacturing plans for SpaceX and Tesla (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk recently outlined ambitious plans for a chip-building collaboration between his companies Tesla and SpaceX.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Bloomberg reports that Musk shared his plans on Saturday night at an event in downtown Austin, Texas, with a photo suggesting that what Musk is calling the “Terafab” facility will be built near Tesla’s Austin headquarters and “gigafactory.”&lt;/p&gt;
 
@@ -571,7 +185,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;The goal is to manufacture chips that can support 100 to 200 gigawatts of computing power per year on Earth, along with a terawatt in space, Musk said. He did not offer a timeline for these plans.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;As Bloomberg noted, Musk does not have a background in semiconductor manufacturing, but he does have a history of overpromising on goals and timelines.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/</guid><pubDate>Sun, 22 Mar 2026 16:20:00 +0000</pubDate></item><item><title>[NEW] Cursor admits its new coding model was built on top of Moonshot AI’s Kimi (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI coding company Cursor launched a new model this week called Composer 2, which it promoted as offering “frontier-level coding intelligence.”&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;As Bloomberg noted, Musk does not have a background in semiconductor manufacturing, but he does have a history of overpromising on goals and timelines.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/</guid><pubDate>Sun, 22 Mar 2026 16:20:00 +0000</pubDate></item><item><title>Cursor admits its new coding model was built on top of Moonshot AI’s Kimi (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI coding company Cursor launched a new model this week called Composer 2, which it promoted as offering “frontier-level coding intelligence.”&amp;nbsp;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;However, an X user posting under the name Fynn soon claimed that Composer 2 was “just Kimi 2.5” with additional reinforcement learning — Kimi 2.5 being an open source model recently released by Moonshot AI, a Chinese company backed by Alibaba and HongShan (formerly Sequoia China).&amp;nbsp;&lt;/p&gt;
 
@@ -589,7 +203,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;However, Cursor’s vice president of developer education Lee Robinson soon acknowledged, “Yep, Composer 2 started from an open-source base!” But he said, “Only ~1/4 of the compute spent on the final model came from the base, the rest is from our training.” As a result, he said Composer 2’s performance on various benchmarks is “very different” from Kimi’s.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Robinson also insisted that Cursor’s use of Kimi was consistent with the terms of its license, a point the Kimi account on X repeated in a subsequent post congratulating Cursor, where it said the Cursor used Kimi “as part of an authorized commercial partnership” with Fireworks AI.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Robinson also insisted that Cursor’s use of Kimi was consistent with the terms of its license, a point the Kimi account on X repeated in a subsequent post congratulating Cursor, where it said Cursor used Kimi “as part of an authorized commercial partnership” with Fireworks AI.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -628,7 +242,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;However, Cursor’s vice president of developer education Lee Robinson soon acknowledged, “Yep, Composer 2 started from an open-source base!” But he said, “Only ~1/4 of the compute spent on the final model came from the base, the rest is from our training.” As a result, he said Composer 2’s performance on various benchmarks is “very different” from Kimi’s.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Robinson also insisted that Cursor’s use of Kimi was consistent with the terms of its license, a point the Kimi account on X repeated in a subsequent post congratulating Cursor, where it said the Cursor used Kimi “as part of an authorized commercial partnership” with Fireworks AI.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Robinson also insisted that Cursor’s use of Kimi was consistent with the terms of its license, a point the Kimi account on X repeated in a subsequent post congratulating Cursor, where it said Cursor used Kimi “as part of an authorized commercial partnership” with Fireworks AI.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -649,4 +263,166 @@
 
 &lt;p class="wp-block-paragraph"&gt;So why not acknowledge Kimi upfront? Beyond any potential embarrassment in not creating a model from scratch, building on top of a Chinese model might feel particularly fraught right now, with the so-called AI “arms race” often framed as an existential battle between United States and China. (See, for example, Silicon Valley’s apparent panic after Chinese company DeepSeek released a competitive model early last year.)&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Cursor co-founder Aman Sanger acknowledged, “It was a miss to not mention the Kimi base in our blog from the start. We’ll fix that for the next model.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/</guid><pubDate>Sun, 22 Mar 2026 18:41:09 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;Cursor co-founder Aman Sanger acknowledged, “It was a miss to not mention the Kimi base in our blog from the start. We’ll fix that for the next model.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/</guid><pubDate>Sun, 22 Mar 2026 18:41:09 +0000</pubDate></item><item><title>[NEW] Do you want to build a robot snowman? (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia’s GTC conference had everything: trillion dollar sales projections, graphics technology that can yassify video games, grand declarations that every company needs an OpenClaw strategy, and even a robot version of the beloved snowman Olaf from Disney’s “Frozen.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the latest episode of TechCrunch’s Equity podcast, TechCrunch’s Kirsten Korosec, Sean O’Kane, and I recapped CEO Jensen Huang’s keynote and debated what it means for Nvidia’s future. And yes, a big part of our discussion focused on poor Olaf, whose microphone had to be turned off when he started rambling.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Even if the demo had gone flawlessly, Sean might still have had some reservations, as he noted these presentations always focus on “the engineering challenges” and not the “really messy gray areas” on the social side.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“But what happens when a kid kicks Olaf over?” Sean asked. “And then every other kid who sees Olaf get kicked or knocked over has their whole trip to Disney ruined and it ruins the brand?”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Read a preview of our conversation, edited for length and clarity, below.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony: &lt;/strong&gt;[CEO Jensen Huang] was basically saying that every company needs to have an OpenClaw strategy now. I think that is just a very grand statement that’s meant to be attention grabbing; I think it’s also interesting coming at this kind of transitional moment for OpenClaw.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The founder has gone to OpenAI. So it’s now this open source project that potentially can flourish and evolve beyond its creator, or it could languish. If companies like Nvidia are investing a lot into it, then [it’s] more likely that it’ll continue to evolve. But it’ll be interesting to see a year from now, whether that looks like a prescient statement or everyone’s like, “Open what?”&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; In the case of Nvidia, it costs them nothing in the grand scheme of things to launch what they call NemoClaw, which is an open source project, which they built with the OpenClaw creator. But if they don’t do something, they have a lot to lose. So really that message to me, the way I translated it when Jensen was like, “Every enterprise needs to have an OpenClaw strategy,” it was, “Nvidia needs to have a solution or strategy for enterprises, because if it’s successful, it is another way or another pathway for Nvidia to be part of numerous other companies.” So doing nothing is a greater risk than doing something that doesn’t go anywhere.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; The real question here is why have we not talked about what is clearly the end game for Nvidia, and the thing that is going to turn it into the first $100 trillion company, which is an Olaf robot.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony:&lt;/strong&gt; How could I forget?&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; Anthony, just go to the end of the two and a half hours to watch this.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;So, the Olaf robot comes out, and this is something that Jensen loves to do. He loves to have these demos and some of them go better than others. It is also to demonstrate Nvidia’s technology in robotics, and I don’t know if Olaf was actually speaking in real time or if it was programmed — it felt a little programmed, or it had specific keywords that it used.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But the greatest part about it is that they had to cut its mic at the end because it just started rambling and speaking to the crowd. And then it went over to its little passageway and was slowly lowered. And you could see it on the video. It was still talking, but no mic.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; Now we just need to give this little robot a wheelbase. And I know the perfect founder who can provide it.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I mean, these demos are always silly. I don’t want to get up on my soapbox, because I know that we’ve talked about this a little bit earlier this week, but this was an impressive demo up until the moment where it fell a little bit short.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This is another really good example, though, of [how] robotics is a really interesting engineering problem and a really interesting physics problem and a really interesting integration problem, and all of this stuff, but this was presented as, in partnership with Disney, and it’s supposed to be the future of Disney parks and things like that: You’re going to be able to walk around and see Olaf from “Frozen” and take pictures of them and everything.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But these efforts never consider — or certainly don’t put front and center in events like this — all the other things you have to consider when you roll stuff out like this. There’s a really good YouTuber, Defunctland, that did a really good video about this — four hours long, not too long — about the history of Disney trying to get these kinds of robotics into their park, these automatons.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The engineering challenges are really interesting and it’s fun to see that history, but it always comes back to the same question of: Okay, but what happens when a kid kicks Olaf over? And then every other kid who sees Olaf get kicked or knocked over has their whole trip to Disney ruined and it ruins the brand?&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;There’s just so much on the social side of this. And that sounds silly, but this is the question that we’re kind of asking about humanoid robots, too. There’s so much hype about all this other stuff and we just don’t really hear as much conversation about the really messy gray areas on the social side of these things, and also just integrating them into people’s lives. We only ever really hear about the engineering challenges — which again, are really impressive.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; I have a counterpoint and then we have to get to our next [topic]. This is a job creator, because Olaf will have to have a human babysitter in Disneyland, probably dressed up as Elsa or something else. You can imagine that actually, what we’re doing is creating jobs [with] this engineering experiment.&lt;/p&gt;
+
+&lt;div class="jwppp-video-box" id="jwppp-video-box-31047291"&gt;
+
+
+
+
+
+
+&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
+&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Nvidia’s GTC conference had everything: trillion dollar sales projections, graphics technology that can yassify video games, grand declarations that every company needs an OpenClaw strategy, and even a robot version of the beloved snowman Olaf from Disney’s “Frozen.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the latest episode of TechCrunch’s Equity podcast, TechCrunch’s Kirsten Korosec, Sean O’Kane, and I recapped CEO Jensen Huang’s keynote and debated what it means for Nvidia’s future. And yes, a big part of our discussion focused on poor Olaf, whose microphone had to be turned off when he started rambling.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Even if the demo had gone flawlessly, Sean might still have had some reservations, as he noted these presentations always focus on “the engineering challenges” and not the “really messy gray areas” on the social side.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“But what happens when a kid kicks Olaf over?” Sean asked. “And then every other kid who sees Olaf get kicked or knocked over has their whole trip to Disney ruined and it ruins the brand?”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Read a preview of our conversation, edited for length and clarity, below.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony: &lt;/strong&gt;[CEO Jensen Huang] was basically saying that every company needs to have an OpenClaw strategy now. I think that is just a very grand statement that’s meant to be attention grabbing; I think it’s also interesting coming at this kind of transitional moment for OpenClaw.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The founder has gone to OpenAI. So it’s now this open source project that potentially can flourish and evolve beyond its creator, or it could languish. If companies like Nvidia are investing a lot into it, then [it’s] more likely that it’ll continue to evolve. But it’ll be interesting to see a year from now, whether that looks like a prescient statement or everyone’s like, “Open what?”&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; In the case of Nvidia, it costs them nothing in the grand scheme of things to launch what they call NemoClaw, which is an open source project, which they built with the OpenClaw creator. But if they don’t do something, they have a lot to lose. So really that message to me, the way I translated it when Jensen was like, “Every enterprise needs to have an OpenClaw strategy,” it was, “Nvidia needs to have a solution or strategy for enterprises, because if it’s successful, it is another way or another pathway for Nvidia to be part of numerous other companies.” So doing nothing is a greater risk than doing something that doesn’t go anywhere.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; The real question here is why have we not talked about what is clearly the end game for Nvidia, and the thing that is going to turn it into the first $100 trillion company, which is an Olaf robot.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony:&lt;/strong&gt; How could I forget?&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; Anthony, just go to the end of the two and a half hours to watch this.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;So, the Olaf robot comes out, and this is something that Jensen loves to do. He loves to have these demos and some of them go better than others. It is also to demonstrate Nvidia’s technology in robotics, and I don’t know if Olaf was actually speaking in real time or if it was programmed — it felt a little programmed, or it had specific keywords that it used.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But the greatest part about it is that they had to cut its mic at the end because it just started rambling and speaking to the crowd. And then it went over to its little passageway and was slowly lowered. And you could see it on the video. It was still talking, but no mic.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; Now we just need to give this little robot a wheelbase. And I know the perfect founder who can provide it.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I mean, these demos are always silly. I don’t want to get up on my soapbox, because I know that we’ve talked about this a little bit earlier this week, but this was an impressive demo up until the moment where it fell a little bit short.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This is another really good example, though, of [how] robotics is a really interesting engineering problem and a really interesting physics problem and a really interesting integration problem, and all of this stuff, but this was presented as, in partnership with Disney, and it’s supposed to be the future of Disney parks and things like that: You’re going to be able to walk around and see Olaf from “Frozen” and take pictures of them and everything.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But these efforts never consider — or certainly don’t put front and center in events like this — all the other things you have to consider when you roll stuff out like this. There’s a really good YouTuber, Defunctland, that did a really good video about this — four hours long, not too long — about the history of Disney trying to get these kinds of robotics into their park, these automatons.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The engineering challenges are really interesting and it’s fun to see that history, but it always comes back to the same question of: Okay, but what happens when a kid kicks Olaf over? And then every other kid who sees Olaf get kicked or knocked over has their whole trip to Disney ruined and it ruins the brand?&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;There’s just so much on the social side of this. And that sounds silly, but this is the question that we’re kind of asking about humanoid robots, too. There’s so much hype about all this other stuff and we just don’t really hear as much conversation about the really messy gray areas on the social side of these things, and also just integrating them into people’s lives. We only ever really hear about the engineering challenges — which again, are really impressive.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; I have a counterpoint and then we have to get to our next [topic]. This is a job creator, because Olaf will have to have a human babysitter in Disneyland, probably dressed up as Elsa or something else. You can imagine that actually, what we’re doing is creating jobs [with] this engineering experiment.&lt;/p&gt;
+
+&lt;div class="jwppp-video-box" id="jwppp-video-box-31047291"&gt;
+
+
+
+
+
+
+&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
+&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/</guid><pubDate>Sun, 22 Mar 2026 19:45:07 +0000</pubDate></item></channel></rss>
