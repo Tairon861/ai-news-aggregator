@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 30 Mar 2026 02:45:06 +0000</lastBuildDate><item><title>Sora’s shutdown could be a reality check moment for AI video (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI announced this week that it’s shutting down its Sora app and related video models just six months after launching the app.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 30 Mar 2026 07:46:29 +0000</lastBuildDate><item><title>[NEW] Why OpenAI really shut down Sora (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI’s decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab? According to a new WSJ investigation, the real explanation is considerably more boring: Sora was a money pit that nobody was using, and keeping it alive was costing OpenAI the AI race.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I debated what the decision means for OpenAI and for the industry more broadly. To some extent, the move seems consistent with what we’ve been hearing about OpenAI as it focuses on enterprise and productivity tools ahead of a possible IPO.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;So what happened? After a splashy launch, Sora’s worldwide user count peaked at around a million and then collapsed to fewer than 500,000. Meanwhile, the app was burning through roughly $1 million every day — not because people loved it but because video generation is so costly to run. Every user who dropped themselves into a fantastical scene was drawing down a finite supply of AI chips.&lt;/p&gt;
 
 
 
@@ -9,128 +9,18 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;In fact, Kirsten suggested that OpenAI’s decision to shutter Sora was “a sign of maturity that was nice to see in an AI lab.”&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;While a whole team inside OpenAI was focused on making Sora work, Anthropic was quietly winning over the software engineers and enterprises that drive revenue. Claude Code, in particular, was eating OpenAI’s lunch.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;But Sora’s shutdown — along with ByteDance’s reported delay in launching its Seedance 2.0 video model worldwide — could also be a reality check moment for the makers of AI video tools, and for evangelists who claim these tools will be replacing Hollywood anytime soon.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;So CEO Sam Altman made the call: kill Sora, free up compute, and refocus. If you want to understand just how sudden this was, consider what happened to Disney, per the WSJ: the entertainment giant had committed $1 billion to the partnership, yet found out Sora was being shut down less than an hour before the public. The deal died with it.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI’s decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab? According to a new WSJ investigation, the real explanation is considerably more boring: Sora was a money pit that nobody was using, and keeping it alive was costing OpenAI the AI race.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Read a preview of our conversation, edited for length and clarity, below.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;So what happened? After a splashy launch, Sora’s worldwide user count peaked at around a million and then collapsed to fewer than 500,000. Meanwhile, the app was burning through roughly $1 million every day — not because people loved it but because video generation is so costly to run. Every user who dropped themselves into a fantastical scene was drawing down a finite supply of AI chips.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony:&lt;/strong&gt; I think it’s worth highlighting that it’s not just the app. I mean, the app was particularly unappealing to me, at least, and I think to other people, because it was this idea of a social network without people, where it’s just nothing but slop.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;But beyond the app, it seems like OpenAI is basically winding down pretty much everything it’s doing with video. According to the Wall Street Journal, which broke some of this news, it’s really about this idea that Open AI is — in advance of potentially going public — really trying to focus on business products, enterprise products, programming products. [So] this consumer social app, [and] more broadly video, is not a priority right now.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; Yeah, I never really used [the app]. The idea of it turned me off for a number of different reasons. And you know, it was a good reminder that Open AI — and I don’t mean this to knock them down in really any way —&amp;nbsp; but I think this was a reminder, probably, for them internally, of the element of luck […] in how successful ChatGPT became.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Clearly, there is something that is valuable there to people, I don’t want to take away from that, because you do not get to the usage numbers that we’ve heard reported from them without there being something that is working right —and even more so that it’s been kept up over a number of years and developed into something that stays meaningful to people.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;But there was an element of Sora, when it came out, of like, “We built the most successful consumer product ever, and now we’re doing it again. And we’re going to bring in Disney and all this stuff.” I think this is just a really harsh reminder of like it’s not always going to be an absolute shortcut to the top of the greatest consumer products ever and that there really needs to be something that people feel like they’re getting some meaning out of it for it to stick around.&amp;nbsp;&lt;/p&gt;
 
 
+&lt;p class="wp-block-paragraph"&gt;While a whole team inside OpenAI was focused on making Sora work, Anthropic was quietly winning over the software engineers and enterprises that drive revenue. Claude Code, in particular, was eating OpenAI’s lunch.&lt;/p&gt;
 
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; Yeah, I actually want to give OpenAI props for this decision, because we sometimes make fun of the whole idea of “move fast and break things,” but I think that there is some value [to] companies that can iterate very quickly and then kill off products that are not working and not feel a sense of failure behind it. I mean, there was real money that was lost. If you were to look at the deal with Disney, that was a billion dollar deal, but if you look at — and we don’t have the insight into this because we’re not seeing their balance sheets — but what were they spending on this and what was the long-term value for the company?&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And I think that while, sure, it was interesting to see what they could create, their decision to shutter it, to me, showed a sign of maturity that was nice to see in an AI lab.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony:&lt;/strong&gt; In terms of what it means for OpenAI, it seems very consistent with everything that we’ve been hearing about their strategy going forward. It doesn’t seem like a huge blow or anything like that in terms of how we think about the future of generative AI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Particularly in video, it’s interesting because it also comes at this time that there’s been reporting around Seedance, which is the ByteDance generative AI model [for video]. There’s reports that [Seedance 2.0 has] been delayed because there’s engineering and legal questions and basically [figuring out], “Can we build IP protections into this?” Which apparently they hadn’t taken as seriously before.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And so, it’s this reality check moment. There were these really hyperbolic statements, including from people within Hollywood that [were] like, “We’re done, this is the future, it’s just typing in prompts and making feature films.” And it turns out that for all kinds of technical and legal reasons, it is not that easy and we are very, very far from that happening.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; And the last thing I think we should say about this, too, is this is one of a number of decisions that appear to be happening after Fidji Simo came in [and began] sort of running the day-to-day operations. That’s just a huge dynamic that’s changed inside of OpenAI. And I think the further we get away from that moment of of her being tapped to run the show, and especially these consumer products and decide the fate of them, the easier it’ll be to look back at this moment in time and think about how big a moment that was for this company.&lt;/p&gt;
-
-&lt;div class="jwppp-video-box" id="jwppp-video-box-31073751"&gt;
-
-
-
-
-
-
-&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
-&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI announced this week that it’s shutting down its Sora app and related video models just six months after launching the app.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I debated what the decision means for OpenAI and for the industry more broadly. To some extent, the move seems consistent with what we’ve been hearing about OpenAI as it focuses on enterprise and productivity tools ahead of a possible IPO.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In fact, Kirsten suggested that OpenAI’s decision to shutter Sora was “a sign of maturity that was nice to see in an AI lab.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But Sora’s shutdown — along with ByteDance’s reported delay in launching its Seedance 2.0 video model worldwide — could also be a reality check moment for the makers of AI video tools, and for evangelists who claim these tools will be replacing Hollywood anytime soon.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Read a preview of our conversation, edited for length and clarity, below.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony:&lt;/strong&gt; I think it’s worth highlighting that it’s not just the app. I mean, the app was particularly unappealing to me, at least, and I think to other people, because it was this idea of a social network without people, where it’s just nothing but slop.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But beyond the app, it seems like OpenAI is basically winding down pretty much everything it’s doing with video. According to the Wall Street Journal, which broke some of this news, it’s really about this idea that Open AI is — in advance of potentially going public — really trying to focus on business products, enterprise products, programming products. [So] this consumer social app, [and] more broadly video, is not a priority right now.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; Yeah, I never really used [the app]. The idea of it turned me off for a number of different reasons. And you know, it was a good reminder that Open AI — and I don’t mean this to knock them down in really any way —&amp;nbsp; but I think this was a reminder, probably, for them internally, of the element of luck […] in how successful ChatGPT became.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Clearly, there is something that is valuable there to people, I don’t want to take away from that, because you do not get to the usage numbers that we’ve heard reported from them without there being something that is working right —and even more so that it’s been kept up over a number of years and developed into something that stays meaningful to people.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But there was an element of Sora, when it came out, of like, “We built the most successful consumer product ever, and now we’re doing it again. And we’re going to bring in Disney and all this stuff.” I think this is just a really harsh reminder of like it’s not always going to be an absolute shortcut to the top of the greatest consumer products ever and that there really needs to be something that people feel like they’re getting some meaning out of it for it to stick around.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; Yeah, I actually want to give OpenAI props for this decision, because we sometimes make fun of the whole idea of “move fast and break things,” but I think that there is some value [to] companies that can iterate very quickly and then kill off products that are not working and not feel a sense of failure behind it. I mean, there was real money that was lost. If you were to look at the deal with Disney, that was a billion dollar deal, but if you look at — and we don’t have the insight into this because we’re not seeing their balance sheets — but what were they spending on this and what was the long-term value for the company?&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And I think that while, sure, it was interesting to see what they could create, their decision to shutter it, to me, showed a sign of maturity that was nice to see in an AI lab.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony:&lt;/strong&gt; In terms of what it means for OpenAI, it seems very consistent with everything that we’ve been hearing about their strategy going forward. It doesn’t seem like a huge blow or anything like that in terms of how we think about the future of generative AI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Particularly in video, it’s interesting because it also comes at this time that there’s been reporting around Seedance, which is the ByteDance generative AI model [for video]. There’s reports that [Seedance 2.0 has] been delayed because there’s engineering and legal questions and basically [figuring out], “Can we build IP protections into this?” Which apparently they hadn’t taken as seriously before.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And so, it’s this reality check moment. There were these really hyperbolic statements, including from people within Hollywood that [were] like, “We’re done, this is the future, it’s just typing in prompts and making feature films.” And it turns out that for all kinds of technical and legal reasons, it is not that easy and we are very, very far from that happening.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; And the last thing I think we should say about this, too, is this is one of a number of decisions that appear to be happening after Fidji Simo came in [and began] sort of running the day-to-day operations. That’s just a huge dynamic that’s changed inside of OpenAI. And I think the further we get away from that moment of of her being tapped to run the show, and especially these consumer products and decide the fate of them, the easier it’ll be to look back at this moment in time and think about how big a moment that was for this company.&lt;/p&gt;
-
-&lt;div class="jwppp-video-box" id="jwppp-video-box-31073751"&gt;
-
-
-
-
-
-
-&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
-&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/</guid><pubDate>Sun, 29 Mar 2026 16:30:00 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;So CEO Sam Altman made the call: kill Sora, free up compute, and refocus. If you want to understand just how sudden this was, consider what happened to Disney, per the WSJ: the entertainment giant had committed $1 billion to the partnership, yet found out Sora was being shut down less than an hour before the public. The deal died with it.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/</guid><pubDate>Mon, 30 Mar 2026 03:09:38 +0000</pubDate></item></channel></rss>
