@@ -1,681 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 02:50:45 +0000</lastBuildDate><item><title>Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/founder_photo.jpeg?resize=1200,793" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;To build the autonomous machines of the future, sometimes your model needs a model.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Companies developing self-driving cars, robots manipulating the physical environment, or autonomous construction equipment collect thousands, if not millions, of hours of video data for evaluation and training.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Organizing and cataloging that video is now a job for humans, who have to watch all of it. Even fast-forwarding, that doesn’t scale. NomadicML, a startup founded by CEO Mustafa Bal and CTO Varun Krishnan, wants to solve problems for customers who have 95% of their fleet data sitting in archives.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The challenge becomes harder when looking for edge cases — the most valuable data depicts events that rarely occur and can befuddle inexperienced physical AI models. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Nomadic is working to solve that problem with a platform that turns footage into a structured, searchable dataset through a collection of vision language models. That, in turn, allows for better fleet monitoring and the creation of unique datasets for reinforcement learning and faster iteration.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company announced an $8.4 million seed round Tuesday at a post-money valuation of $50 million. The round was led by TQ Ventures, with participation from Pear VC and Jeff Dean, and will allow the company to onboard more customers and continue refining its platform. Nomadic also won first prize at Nvidia GTC’s pitch contest last month.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The two founders, who met as Harvard computer science undergrads, “kept running into the same technical challenges again and again at our jobs” at companies like Lyft and Snowflake, Bal told TechCrunch.&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We are providing folks insight on their own footage, whatever drives their own AVs [and] robots,” he said. ”That is what moves these autonomous systems builders forward, not random data.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Imagine, for example, trying to fine-tune an AV’s understanding that it can run a red light if a police officer is directing it to do so, or isolating every time that vehicles drive under a specific type of bridge. Nomadic’s platform allows these incidents to be identified both for compliance purposes, and to be fed directly into training pipelines.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Customers like Zoox, Mitsubishi Electric, Natix Network, and Zendar are already using the platform to develop intelligent machines. Antonio Puglielli, the VP of Engineering at Zendar, said that Nomadic’s tool allowed the company to scale up its work much faster than the alternative of outsourcing, and that its domain expertise set it apart from other competitors.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This kind of model-based, auto-annotation tool is emerging as a key workflow for physical AI. Established data labeling firms like Scale, Kognic, and Encord are developing AI tools to do this work, while Nvidia has released a family of open source models, Alpamayo, that can be adapted to tackle the problem.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Varun argues that his company’s tool is more than a labeler; it is an “agentic reasoning system: you describe what it needs and it figures out how to find it,” using multiple models to understand action taking place and put it in context. Nomadic’s backers expect the startup’s focus on this specific infrastructure to win out. &amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It’s the same reason Salesforce doesn’t build its own cloud and Netflix doesn’t build its own [content distribution facilities],” Schuster Tanger, a partner at TQ Ventures who led the round, told TechCrunch. “The second an autonomous vehicle company tries to build Nomadic internally, they’re distracted from what makes them win, which is the robot itself.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Tanger praises Nomadic’s talent, noting that Krishnan is an international chess master  ranked as the world’s 1,549th-best player. Krishnan, meanwhile, brags that all of the company’s dozen or so engineers have published scientific papers.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, they’re hard at work developing specific tools, like one that understands the physics of lane changes from camera footage, or another that derives more precise locations for a robot’s grippers in a video. The next challenge, from the point of view of Nomadic and its customers, is to develop similar tools for non-visual data like lidar sensor readings, or to integrate sensor data across multiple modes.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Juggling around terabytes of video, slamming that against hundreds of 100 billion-plus parameter models, and then extracting their accurate insights, is really insanely difficult,” Bal said.&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/founder_photo.jpeg?resize=1200,793" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;To build the autonomous machines of the future, sometimes your model needs a model.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Companies developing self-driving cars, robots manipulating the physical environment, or autonomous construction equipment collect thousands, if not millions, of hours of video data for evaluation and training.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Organizing and cataloging that video is now a job for humans, who have to watch all of it. Even fast-forwarding, that doesn’t scale. NomadicML, a startup founded by CEO Mustafa Bal and CTO Varun Krishnan, wants to solve problems for customers who have 95% of their fleet data sitting in archives.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The challenge becomes harder when looking for edge cases — the most valuable data depicts events that rarely occur and can befuddle inexperienced physical AI models. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Nomadic is working to solve that problem with a platform that turns footage into a structured, searchable dataset through a collection of vision language models. That, in turn, allows for better fleet monitoring and the creation of unique datasets for reinforcement learning and faster iteration.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company announced an $8.4 million seed round Tuesday at a post-money valuation of $50 million. The round was led by TQ Ventures, with participation from Pear VC and Jeff Dean, and will allow the company to onboard more customers and continue refining its platform. Nomadic also won first prize at Nvidia GTC’s pitch contest last month.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The two founders, who met as Harvard computer science undergrads, “kept running into the same technical challenges again and again at our jobs” at companies like Lyft and Snowflake, Bal told TechCrunch.&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“We are providing folks insight on their own footage, whatever drives their own AVs [and] robots,” he said. ”That is what moves these autonomous systems builders forward, not random data.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Imagine, for example, trying to fine-tune an AV’s understanding that it can run a red light if a police officer is directing it to do so, or isolating every time that vehicles drive under a specific type of bridge. Nomadic’s platform allows these incidents to be identified both for compliance purposes, and to be fed directly into training pipelines.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Customers like Zoox, Mitsubishi Electric, Natix Network, and Zendar are already using the platform to develop intelligent machines. Antonio Puglielli, the VP of Engineering at Zendar, said that Nomadic’s tool allowed the company to scale up its work much faster than the alternative of outsourcing, and that its domain expertise set it apart from other competitors.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This kind of model-based, auto-annotation tool is emerging as a key workflow for physical AI. Established data labeling firms like Scale, Kognic, and Encord are developing AI tools to do this work, while Nvidia has released a family of open source models, Alpamayo, that can be adapted to tackle the problem.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Varun argues that his company’s tool is more than a labeler; it is an “agentic reasoning system: you describe what it needs and it figures out how to find it,” using multiple models to understand action taking place and put it in context. Nomadic’s backers expect the startup’s focus on this specific infrastructure to win out. &amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It’s the same reason Salesforce doesn’t build its own cloud and Netflix doesn’t build its own [content distribution facilities],” Schuster Tanger, a partner at TQ Ventures who led the round, told TechCrunch. “The second an autonomous vehicle company tries to build Nomadic internally, they’re distracted from what makes them win, which is the robot itself.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Tanger praises Nomadic’s talent, noting that Krishnan is an international chess master  ranked as the world’s 1,549th-best player. Krishnan, meanwhile, brags that all of the company’s dozen or so engineers have published scientific papers.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, they’re hard at work developing specific tools, like one that understands the physics of lane changes from camera footage, or another that derives more precise locations for a robot’s grippers in a video. The next challenge, from the point of view of Nomadic and its customers, is to develop similar tools for non-visual data like lidar sensor readings, or to integrate sensor data across multiple modes.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Juggling around terabytes of video, slamming that against hundreds of 100 billion-plus parameter models, and then extracting their accurate insights, is really insanely difficult,” Bal said.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/</guid><pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate></item><item><title>Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2026/03/energy-promo-pack-rolling-corp-blog-1920x1080-1.jpg" /&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;CERAWeek — dubbed the Davos of energy — is where policymakers, producers, technologists and financiers gather to discuss how the world powers itself next.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA and Emerald AI &lt;/span&gt;&lt;span&gt;unveiled&lt;/span&gt;&lt;span&gt; at the conference last week a new way forward — treating AI factories not as static power loads but as flexible, intelligent grid assets. This collaboration unifies accelerated computing, AI factory reference architectures and real‑time energy orchestration, helping large AI deployments connect to the grid faster, operate more efficiently and fortify system reliability.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Built on the &lt;/span&gt;&lt;span&gt;NVIDIA Vera Rubin DSX AI Factory reference design&lt;/span&gt;&lt;span&gt; and Emerald AI’s Conductor platform, the approach brings together compute, power networking and control into a single architecture. The result is an AI factory that can generate high‑value AI tokens while dynamically responding to grid conditions — flexing when needed, supporting reliability and reducing the need to overbuild infrastructure for peak demand.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;AES, Constellation, Invenergy, NextEra Energy, Nscale Energy &amp;amp; Power and Vistra are working to build the energy generation capacity needed to meet rapidly growing power demand. The companies plan to collaborate on optimized generation strategies to support AI factories built on the NVIDIA and Emerald AI architecture, including hybrid projects that use co‑located power to accelerate time to power while delivering value to the broader grid. By pairing large AI loads with flexible operations, new generation resources and intelligent controls, this approach strengthens grid reliability.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;It’s an important milestone in grid resilience, supported by an ecosystem for advanced AI factories. This new computing infrastructure paradigm — described by NVIDIA founder and CEO Jensen Huang as a &lt;/span&gt;&lt;span&gt;five-layer AI cake&lt;/span&gt;&lt;span&gt; — has energy as its foundational layer.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;Driving Improvements in Tokens Per Second Per Watt&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Power constraints are reshaping AI data centers, with energy efficiency or &lt;/span&gt;&lt;span&gt;performance per watt&lt;/span&gt;&lt;span&gt;, specifically tokens per second per watt, the defining metric of our modern computing infrastructure. By prioritizing computational efficiency, organizations can lower operating costs, maximize revenue and create a resilient digital infrastructure for businesses and consumers across America and worldwide.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“Power is a concern, but it’s not the only concern,” Huang &lt;/span&gt;&lt;span&gt;said&lt;/span&gt;&lt;span&gt; on a recent Lex Fridman podcast. “That’s the reason why we’re pushing so hard on extreme codesign, so that we can improve the tokens per second per watt orders of magnitude every single year.”&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA has a long history of driving performance and energy efficiency. From the NVIDIA Kepler GPU in 2012 to the NVIDIA Vera Rubin platform this year, the number of tokens generated within the same power budget has increased by more than 1 million times.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;It takes industry collaboration across the five-layer AI cake — from energy to chips, infrastructure, models and applications — to make this happen.&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;Robotics, Digital Twins and AI Upskilling Drive Energy Advances&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA ecosystem partners showcased at the event how AI, simulation and workforce innovation are accelerating the energy infrastructure needed to support the intelligence era. Announcements from Maximo, TerraPower and Adaptive Construction Solutions exemplify how AI is compressing timelines across construction, power generation and talent development.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Maximo&lt;/b&gt;&lt;span&gt;, a solar robotics company incubated at AES, announced the completion of a 100‑megawatt robotic solar installation at AES’ Bellefield site. Using AI‑driven robotics developed with NVIDIA accelerated computing, NVIDIA Omniverse libraries and the NVIDIA Isaac Sim framework, Maximo demonstrated that autonomous installations can now operate reliably at utility scale. The approach improves installation speed, safety and consistency, helping close the gap between rising electricity demand and construction capacity.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TerraPower&lt;/b&gt;&lt;span&gt;, working with SoftServe, previewed an NVIDIA Omniverse‑powered digital twin platform designed to dramatically shorten advanced nuclear plant siting and design timelines. By applying AI and simulation to early‑stage engineering, the platform reduces design cycles from years to months, accelerating deployment of TerraPower’s Natrium energy plants while improving design and grid integration.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Adaptive Construction Solutions&lt;/b&gt;&lt;span&gt; announced a national registered apprenticeship initiative, in collaboration with NVIDIA, to help build the skilled workforce required for AI factories and energy infrastructure. The program aims to scale training for critical trades, expanding access to high‑demand careers while supporting the rapid buildout of AI‑driven power systems.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The efforts articulated how AI, digital twins and workforce innovation are converging to deliver faster, more resilient energy infrastructure.&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;Coming Together on Scaling AI Factories for Grid Reliability&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;GE Vernova, Schneider Electric and Vertiv highlighted how digital twins, validated reference designs and converged infrastructure are becoming essential to scaling AI factories as reliable grid participants. The announcements address the “power‑to‑rack” challenge — designing AI infrastructure as an integrated energy and compute system from day one.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;GE Vernova&lt;/b&gt;&lt;span&gt; outlined how high‑fidelity digital twins aligned with the &lt;/span&gt;&lt;span&gt;NVIDIA Omniverse DSX Blueprint&lt;/span&gt;&lt;span&gt; enable utilities and developers to simulate grid behavior, substations and AI factory loads together before deployment. Such system‑level modeling helps validate interconnection strategies, reduce risk and accelerate time to power in constrained grid environments.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Schneider Electric&lt;/b&gt;&lt;span&gt; announced new validated NVIDIA Vera Rubin reference designs and lifecycle digital twin architectures developed with AVEVA. By simulating power, cooling and controls in Omniverse, Schneider enables operators to optimize performance per watt, validate designs before buildout and operate AI factories more efficiently and predictably at scale.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Vertiv &lt;/b&gt;&lt;span&gt;outlined converged, simulation‑ready physical infrastructure built on repeatable power and cooling building blocks. Integrated with the Vera Rubin DSX reference design, Vertiv’s approach reduces design and deployment complexity while supporting faster, more confident scaling of AI factories.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Together, these industry efforts provide a digital path forward, including the validated architectures and physical infrastructure needed to turn AI factories into flexible, grid‑aware assets for efficiently powering the world.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;&lt;span&gt;Learn more about how NVIDIA and its partners are advancing &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;energy solutions with AI and high-performance computing&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2026/03/energy-promo-pack-rolling-corp-blog-1920x1080-1.jpg" /&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;CERAWeek — dubbed the Davos of energy — is where policymakers, producers, technologists and financiers gather to discuss how the world powers itself next.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA and Emerald AI &lt;/span&gt;&lt;span&gt;unveiled&lt;/span&gt;&lt;span&gt; at the conference last week a new way forward — treating AI factories not as static power loads but as flexible, intelligent grid assets. This collaboration unifies accelerated computing, AI factory reference architectures and real‑time energy orchestration, helping large AI deployments connect to the grid faster, operate more efficiently and fortify system reliability.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Built on the &lt;/span&gt;&lt;span&gt;NVIDIA Vera Rubin DSX AI Factory reference design&lt;/span&gt;&lt;span&gt; and Emerald AI’s Conductor platform, the approach brings together compute, power networking and control into a single architecture. The result is an AI factory that can generate high‑value AI tokens while dynamically responding to grid conditions — flexing when needed, supporting reliability and reducing the need to overbuild infrastructure for peak demand.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;AES, Constellation, Invenergy, NextEra Energy, Nscale Energy &amp;amp; Power and Vistra are working to build the energy generation capacity needed to meet rapidly growing power demand. The companies plan to collaborate on optimized generation strategies to support AI factories built on the NVIDIA and Emerald AI architecture, including hybrid projects that use co‑located power to accelerate time to power while delivering value to the broader grid. By pairing large AI loads with flexible operations, new generation resources and intelligent controls, this approach strengthens grid reliability.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;It’s an important milestone in grid resilience, supported by an ecosystem for advanced AI factories. This new computing infrastructure paradigm — described by NVIDIA founder and CEO Jensen Huang as a &lt;/span&gt;&lt;span&gt;five-layer AI cake&lt;/span&gt;&lt;span&gt; — has energy as its foundational layer.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;Driving Improvements in Tokens Per Second Per Watt&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Power constraints are reshaping AI data centers, with energy efficiency or &lt;/span&gt;&lt;span&gt;performance per watt&lt;/span&gt;&lt;span&gt;, specifically tokens per second per watt, the defining metric of our modern computing infrastructure. By prioritizing computational efficiency, organizations can lower operating costs, maximize revenue and create a resilient digital infrastructure for businesses and consumers across America and worldwide.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“Power is a concern, but it’s not the only concern,” Huang &lt;/span&gt;&lt;span&gt;said&lt;/span&gt;&lt;span&gt; on a recent Lex Fridman podcast. “That’s the reason why we’re pushing so hard on extreme codesign, so that we can improve the tokens per second per watt orders of magnitude every single year.”&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA has a long history of driving performance and energy efficiency. From the NVIDIA Kepler GPU in 2012 to the NVIDIA Vera Rubin platform this year, the number of tokens generated within the same power budget has increased by more than 1 million times.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;It takes industry collaboration across the five-layer AI cake — from energy to chips, infrastructure, models and applications — to make this happen.&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;Robotics, Digital Twins and AI Upskilling Drive Energy Advances&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA ecosystem partners showcased at the event how AI, simulation and workforce innovation are accelerating the energy infrastructure needed to support the intelligence era. Announcements from Maximo, TerraPower and Adaptive Construction Solutions exemplify how AI is compressing timelines across construction, power generation and talent development.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Maximo&lt;/b&gt;&lt;span&gt;, a solar robotics company incubated at AES, announced the completion of a 100‑megawatt robotic solar installation at AES’ Bellefield site. Using AI‑driven robotics developed with NVIDIA accelerated computing, NVIDIA Omniverse libraries and the NVIDIA Isaac Sim framework, Maximo demonstrated that autonomous installations can now operate reliably at utility scale. The approach improves installation speed, safety and consistency, helping close the gap between rising electricity demand and construction capacity.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TerraPower&lt;/b&gt;&lt;span&gt;, working with SoftServe, previewed an NVIDIA Omniverse‑powered digital twin platform designed to dramatically shorten advanced nuclear plant siting and design timelines. By applying AI and simulation to early‑stage engineering, the platform reduces design cycles from years to months, accelerating deployment of TerraPower’s Natrium energy plants while improving design and grid integration.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Adaptive Construction Solutions&lt;/b&gt;&lt;span&gt; announced a national registered apprenticeship initiative, in collaboration with NVIDIA, to help build the skilled workforce required for AI factories and energy infrastructure. The program aims to scale training for critical trades, expanding access to high‑demand careers while supporting the rapid buildout of AI‑driven power systems.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The efforts articulated how AI, digital twins and workforce innovation are converging to deliver faster, more resilient energy infrastructure.&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;b&gt;Coming Together on Scaling AI Factories for Grid Reliability&amp;nbsp;&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;GE Vernova, Schneider Electric and Vertiv highlighted how digital twins, validated reference designs and converged infrastructure are becoming essential to scaling AI factories as reliable grid participants. The announcements address the “power‑to‑rack” challenge — designing AI infrastructure as an integrated energy and compute system from day one.&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;GE Vernova&lt;/b&gt;&lt;span&gt; outlined how high‑fidelity digital twins aligned with the &lt;/span&gt;&lt;span&gt;NVIDIA Omniverse DSX Blueprint&lt;/span&gt;&lt;span&gt; enable utilities and developers to simulate grid behavior, substations and AI factory loads together before deployment. Such system‑level modeling helps validate interconnection strategies, reduce risk and accelerate time to power in constrained grid environments.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Schneider Electric&lt;/b&gt;&lt;span&gt; announced new validated NVIDIA Vera Rubin reference designs and lifecycle digital twin architectures developed with AVEVA. By simulating power, cooling and controls in Omniverse, Schneider enables operators to optimize performance per watt, validate designs before buildout and operate AI factories more efficiently and predictably at scale.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Vertiv &lt;/b&gt;&lt;span&gt;outlined converged, simulation‑ready physical infrastructure built on repeatable power and cooling building blocks. Integrated with the Vera Rubin DSX reference design, Vertiv’s approach reduces design and deployment complexity while supporting faster, more confident scaling of AI factories.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Together, these industry efforts provide a digital path forward, including the validated architectures and physical infrastructure needed to turn AI factories into flexible, grid‑aware assets for efficiently powering the world.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;&lt;span&gt;Learn more about how NVIDIA and its partners are advancing &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;energy solutions with AI and high-performance computing&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/</guid><pubDate>Tue, 31 Mar 2026 15:00:51 +0000</pubDate></item><item><title>Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents (Hugging Face - Blog)</title><link>https://huggingface.co/blog/ibm-granite/granite-4-vision</link><description>&lt;!----&gt;  &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
-&lt;!--]--&gt;&lt;!--]--&gt;Today we're excited to announce Granite 4.0 3B Vision, a compact vision-language model (VLM) designed for enterprise document understanding. It’s purpose-built for reliable information extraction from complex documents, forms, and structured visuals. Granite 4.0 3B Vision excels on the following capabilities: 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Table Extraction&lt;/strong&gt;: Accurately parsing complex table structures (e.g., multi-row, multi-column, etc.) from document images&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Chart Understanding&lt;/strong&gt;: Converting charts and figures into structured machine-readable formats, summaries, or executable code&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Semantic Key-Value Pair (KVP) Extraction&lt;/strong&gt;: Identifying and grounding semantically meaningful key-value field pairs across diverse document layouts&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The model ships as a LoRA adapter on top of Granite 4.0 Micro, our dense language model, keeping vision and language modular for text-only fallbacks and seamless integration into mixed pipelines. It continues to support vision-language tasks such as producing detailed natural-language descriptions from images (e.g., “Describe this image in detail”). The model can be used standalone or in tandem with Docling to enhance document processing pipelines with deep visual understanding capabilities. &lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How Granite 4.0 3B Vision Was Built
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Granite 4.0 3B Vision’s performance is the result of three key investments: A purpose-built chart understanding dataset constructed via a novel code-guided data augmentation approach, a novel variant of the DeepStack architecture that enables high-detail visual feature injection, and a modular design that keeps the model practical for enterprise deployment. &lt;/p&gt;
-&lt;h3 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		ChartNet: Teaching Models to Truly Understand Charts
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;Charts present a challenge for vision-language models (VLMs) because understanding them requires jointly reasoning over visual patterns, numerical data, and natural language, a combination most VLMs cannot handle well, especially when spatial precision matters—such as reading exact values off a line chart. To close this gap, we’ve developed ChartNet: a million-scale multimodal dataset purpose-built for chart interpretation and reasoning, described in detail in our upcoming CVPR 2026 paper.&lt;/p&gt;
-&lt;p&gt;ChartNet uses a code-guided synthesis pipeline to generate 1.7 million diverse chart samples spanning 24 chart types and 6 plotting libraries [see Figure 1]. What makes it so distinctive is that each sample consists of five aligned components—plotting code, rendered image, data table, natural language summary, and QA pairs—providing models a deeply cross-modal view of what a chart means, not just what it looks like. The dataset also includes human-annotated and real-world subsets, filtered for visual fidelity, semantic accuracy, and diversity.&lt;/p&gt;
-&lt;p&gt;The result is a training resource that moves VLMs from merely describing charts to genuinely understanding the structured information they encode—with consistent gains across model sizes, architectures, and tasks.  &lt;/p&gt;
-&lt;p&gt;&lt;img alt="chartnet (1)" src="https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/yX68Qg2FjRNRk9AAh4mTi.jpeg" /&gt;
-&lt;em&gt;Figure 1: ChartNet’s synthetic data generation pipeline.&lt;/em&gt;&lt;/p&gt;
-&lt;h3 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		DeepStack: Smarter Visual Feature Injection
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;Most VLMs inject visual information into their language model at a single point, which forces the model to handle both high-level semantics and fine-grained spatial detail simultaneously. Granite 4.0 3B Vision takes a different approach with DeepStack Injection: abstract visual features are routed into earlier layers for semantic understanding, while high-resolution spatial features are fed into later layers to preserve detail. The result is a model that understands both what is in a document and where—which is critical for tasks like table extraction, chart understanding, and KVP parsing where layout matters as much as content. For a full technical breakdown, see the Model Architecture section of the model card.&lt;/p&gt;
-&lt;h3 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Modularity: One Model, Two Modes
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;Granite 4.0 3B Vision is packaged as a LoRA adapter on top of Granite 4.0 Micro, rather than as a standalone model. In practice, this means the same deployment can serve both multimodal and text-only workloads, automatically falling back to the base model when vision isn’t required. This keeps enterprise integration straightforward without sacrificing performance.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How It Performs
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Charts&lt;/strong&gt;: Evaluated on the human-verified ChartNet benchmark using LLM-as-a-judge, Granite 4.0 3B Vision achieves the highest Chart2Summary (86.4%) score among all evaluated models, including significantly larger ones [see Figure 2]. It also ranks second on Chart2CSV (62.1%), behind only Qwen3.5-9B (63.4%), a model more than double its size. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="image" src="https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/CBMcvEZIzDllDWi7I4rrJ.png" /&gt;
-&lt;em&gt;Figure 2: Granite 4.0 3B Vision performance on chart2csv and chart2summary, compared against peer vision-language models using LLM-as-a-judge.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tables&lt;/strong&gt;: We evaluate table extraction in two settings: cropped tables (isolated regions) and full-page documents (tables embedded in complex layouts) [see Figure 3]. The benchmark suite includes TableVQA-extract (cropped table images), OmniDocBench-tables (full-page documents), and PubTables-v2 (both cropped and full-page settings). Models are tasked with extracting tables in HTML format and scored using TEDS, a metric that captures both structural and content accuracy. Granite 4.0 3B Vision achieves the strongest performance across benchmarks, leading on PubTablesV2 on both cropped (92.1) and full-page (79.3), OmniDocBench (64.0), and TableVQA (88.1) scores among all evaluated models. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="Tables" src="https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/k4-ExbC0Lnbf-HctVHq4q.png" /&gt;
-&lt;em&gt;Figure 3: Granite 4.0 3B Vision’s table extraction performance across cropped and full-page benchmarks (TableVQA-extract, PubTables-v2, OmniDocBench-tables), measured by TEDS.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Semantic KVP&lt;/strong&gt;: VAREX is a benchmark specifically designed to discriminate between small extraction models, comprising 1,777 U.S. government forms spanning simple flat layouts to complex nested and tabular structures. Models are evaluated using exact match (EM), a strict metric that requires the model’s extracted key-value pairs to match the ground truth. Granite 4.0 3B Vision achieves 85.5% EM accuracy zero-shot. &lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How to Use It
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Granite 4.0 3B Vision can operate either as a stand‑alone visual information extraction engine or as part of a fully automated document‑processing pipeline with Docling. The model is designed to support scalable, accurate extraction across diverse document types and visual formats.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. Stand‑Alone Image Understanding&lt;/strong&gt;
-Granite 4.0 3B Vision can run directly on individual images, making this option useful for applications with existing workflows that need targeted visual extraction without modifying upstream systems. This offers easy integration into existing automation workflows and is suitable for lightweight, task‑specific tools (e.g., form parsers, chart analyzers, etc.).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. Integrated Document Understanding Pipeline With Docling&lt;/strong&gt;
-Granite 4.0 3B Vision can also be integrated seamlessly with Docling to support complete end‑to‑end document understanding. This mode can offer:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Large‑scale processing of multi‑page PDFs&lt;/li&gt;
-&lt;li&gt;Automated detection, segmentation, and cropping of figures, tables, and other visual elements with Docling and redirection of clean crops to Granite Vision model for fine-grained extraction&lt;/li&gt;
-&lt;li&gt;Efficient workflow with lower overall computational costs and faster throughput&lt;/li&gt;
-&lt;li&gt;Higher accuracy, more reliable extraction, and significantly improved efficiency across large document collections&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example Use Cases&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Form Processing&lt;/strong&gt;: Extract structured fields from invoices, forms, and receipts using KVP capabilities or generate natural‑language descriptions of figures using image2text feature (e.g., “Describe this image in detail”).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Financial Report Analysis&lt;/strong&gt;: Use Docling to parse reports, detect figures, and crop visual elements. Process charts using Granite Vision’s chart2csv, chart2code, and tables using tables_json capabilities to convert them into structured, machine‑readable data enabling actionable insights.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Research Document Intelligence&lt;/strong&gt;: Utilize Docling to handle OCR and layout parsing across dense academic PDFs, and pass extracted figures to chart2summary and table crops to tables_html to make visual content discoverable alongside free-form text in a single pipeline.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Try It Today
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Granite 4.0 3B Vision is available now on HuggingFace, released under the Apache 2.0 license. Full technical details, training methodology, and benchmark results are available in the model card. We’d love to hear what you build with it—share your feedback in the community tab. &lt;/p&gt;
-&lt;!----&gt;</description><content:encoded>&lt;!----&gt;  &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
-&lt;!--]--&gt;&lt;!--]--&gt;Today we're excited to announce Granite 4.0 3B Vision, a compact vision-language model (VLM) designed for enterprise document understanding. It’s purpose-built for reliable information extraction from complex documents, forms, and structured visuals. Granite 4.0 3B Vision excels on the following capabilities: 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Table Extraction&lt;/strong&gt;: Accurately parsing complex table structures (e.g., multi-row, multi-column, etc.) from document images&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Chart Understanding&lt;/strong&gt;: Converting charts and figures into structured machine-readable formats, summaries, or executable code&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Semantic Key-Value Pair (KVP) Extraction&lt;/strong&gt;: Identifying and grounding semantically meaningful key-value field pairs across diverse document layouts&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The model ships as a LoRA adapter on top of Granite 4.0 Micro, our dense language model, keeping vision and language modular for text-only fallbacks and seamless integration into mixed pipelines. It continues to support vision-language tasks such as producing detailed natural-language descriptions from images (e.g., “Describe this image in detail”). The model can be used standalone or in tandem with Docling to enhance document processing pipelines with deep visual understanding capabilities. &lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How Granite 4.0 3B Vision Was Built
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Granite 4.0 3B Vision’s performance is the result of three key investments: A purpose-built chart understanding dataset constructed via a novel code-guided data augmentation approach, a novel variant of the DeepStack architecture that enables high-detail visual feature injection, and a modular design that keeps the model practical for enterprise deployment. &lt;/p&gt;
-&lt;h3 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		ChartNet: Teaching Models to Truly Understand Charts
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;Charts present a challenge for vision-language models (VLMs) because understanding them requires jointly reasoning over visual patterns, numerical data, and natural language, a combination most VLMs cannot handle well, especially when spatial precision matters—such as reading exact values off a line chart. To close this gap, we’ve developed ChartNet: a million-scale multimodal dataset purpose-built for chart interpretation and reasoning, described in detail in our upcoming CVPR 2026 paper.&lt;/p&gt;
-&lt;p&gt;ChartNet uses a code-guided synthesis pipeline to generate 1.7 million diverse chart samples spanning 24 chart types and 6 plotting libraries [see Figure 1]. What makes it so distinctive is that each sample consists of five aligned components—plotting code, rendered image, data table, natural language summary, and QA pairs—providing models a deeply cross-modal view of what a chart means, not just what it looks like. The dataset also includes human-annotated and real-world subsets, filtered for visual fidelity, semantic accuracy, and diversity.&lt;/p&gt;
-&lt;p&gt;The result is a training resource that moves VLMs from merely describing charts to genuinely understanding the structured information they encode—with consistent gains across model sizes, architectures, and tasks.  &lt;/p&gt;
-&lt;p&gt;&lt;img alt="chartnet (1)" src="https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/yX68Qg2FjRNRk9AAh4mTi.jpeg" /&gt;
-&lt;em&gt;Figure 1: ChartNet’s synthetic data generation pipeline.&lt;/em&gt;&lt;/p&gt;
-&lt;h3 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		DeepStack: Smarter Visual Feature Injection
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;Most VLMs inject visual information into their language model at a single point, which forces the model to handle both high-level semantics and fine-grained spatial detail simultaneously. Granite 4.0 3B Vision takes a different approach with DeepStack Injection: abstract visual features are routed into earlier layers for semantic understanding, while high-resolution spatial features are fed into later layers to preserve detail. The result is a model that understands both what is in a document and where—which is critical for tasks like table extraction, chart understanding, and KVP parsing where layout matters as much as content. For a full technical breakdown, see the Model Architecture section of the model card.&lt;/p&gt;
-&lt;h3 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Modularity: One Model, Two Modes
-	&lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;Granite 4.0 3B Vision is packaged as a LoRA adapter on top of Granite 4.0 Micro, rather than as a standalone model. In practice, this means the same deployment can serve both multimodal and text-only workloads, automatically falling back to the base model when vision isn’t required. This keeps enterprise integration straightforward without sacrificing performance.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How It Performs
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Charts&lt;/strong&gt;: Evaluated on the human-verified ChartNet benchmark using LLM-as-a-judge, Granite 4.0 3B Vision achieves the highest Chart2Summary (86.4%) score among all evaluated models, including significantly larger ones [see Figure 2]. It also ranks second on Chart2CSV (62.1%), behind only Qwen3.5-9B (63.4%), a model more than double its size. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="image" src="https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/CBMcvEZIzDllDWi7I4rrJ.png" /&gt;
-&lt;em&gt;Figure 2: Granite 4.0 3B Vision performance on chart2csv and chart2summary, compared against peer vision-language models using LLM-as-a-judge.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tables&lt;/strong&gt;: We evaluate table extraction in two settings: cropped tables (isolated regions) and full-page documents (tables embedded in complex layouts) [see Figure 3]. The benchmark suite includes TableVQA-extract (cropped table images), OmniDocBench-tables (full-page documents), and PubTables-v2 (both cropped and full-page settings). Models are tasked with extracting tables in HTML format and scored using TEDS, a metric that captures both structural and content accuracy. Granite 4.0 3B Vision achieves the strongest performance across benchmarks, leading on PubTablesV2 on both cropped (92.1) and full-page (79.3), OmniDocBench (64.0), and TableVQA (88.1) scores among all evaluated models. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="Tables" src="https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/k4-ExbC0Lnbf-HctVHq4q.png" /&gt;
-&lt;em&gt;Figure 3: Granite 4.0 3B Vision’s table extraction performance across cropped and full-page benchmarks (TableVQA-extract, PubTables-v2, OmniDocBench-tables), measured by TEDS.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Semantic KVP&lt;/strong&gt;: VAREX is a benchmark specifically designed to discriminate between small extraction models, comprising 1,777 U.S. government forms spanning simple flat layouts to complex nested and tabular structures. Models are evaluated using exact match (EM), a strict metric that requires the model’s extracted key-value pairs to match the ground truth. Granite 4.0 3B Vision achieves 85.5% EM accuracy zero-shot. &lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How to Use It
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Granite 4.0 3B Vision can operate either as a stand‑alone visual information extraction engine or as part of a fully automated document‑processing pipeline with Docling. The model is designed to support scalable, accurate extraction across diverse document types and visual formats.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. Stand‑Alone Image Understanding&lt;/strong&gt;
-Granite 4.0 3B Vision can run directly on individual images, making this option useful for applications with existing workflows that need targeted visual extraction without modifying upstream systems. This offers easy integration into existing automation workflows and is suitable for lightweight, task‑specific tools (e.g., form parsers, chart analyzers, etc.).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. Integrated Document Understanding Pipeline With Docling&lt;/strong&gt;
-Granite 4.0 3B Vision can also be integrated seamlessly with Docling to support complete end‑to‑end document understanding. This mode can offer:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Large‑scale processing of multi‑page PDFs&lt;/li&gt;
-&lt;li&gt;Automated detection, segmentation, and cropping of figures, tables, and other visual elements with Docling and redirection of clean crops to Granite Vision model for fine-grained extraction&lt;/li&gt;
-&lt;li&gt;Efficient workflow with lower overall computational costs and faster throughput&lt;/li&gt;
-&lt;li&gt;Higher accuracy, more reliable extraction, and significantly improved efficiency across large document collections&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example Use Cases&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Form Processing&lt;/strong&gt;: Extract structured fields from invoices, forms, and receipts using KVP capabilities or generate natural‑language descriptions of figures using image2text feature (e.g., “Describe this image in detail”).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Financial Report Analysis&lt;/strong&gt;: Use Docling to parse reports, detect figures, and crop visual elements. Process charts using Granite Vision’s chart2csv, chart2code, and tables using tables_json capabilities to convert them into structured, machine‑readable data enabling actionable insights.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Research Document Intelligence&lt;/strong&gt;: Utilize Docling to handle OCR and layout parsing across dense academic PDFs, and pass extracted figures to chart2summary and table crops to tables_html to make visual content discoverable alongside free-form text in a single pipeline.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Try It Today
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Granite 4.0 3B Vision is available now on HuggingFace, released under the Apache 2.0 license. Full technical details, training methodology, and benchmark results are available in the model card. We’d love to hear what you build with it—share your feedback in the community tab. &lt;/p&gt;
-&lt;!----&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-4-vision</guid><pubDate>Tue, 31 Mar 2026 15:10:41 +0000</pubDate></item><item><title>SAP and ANYbotics drive industrial adoption of physical AI (AI News)</title><link>https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/</link><description>&lt;p&gt;Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that.&lt;/p&gt;&lt;p&gt;ANYbotics’ four-legged autonomous robots will be connected straight into SAP’s backend enterprise resource planning software. Instead of treating a robot as a standalone asset, this turns it into a mobile data-gathering node within an industrial IoT network.&lt;/p&gt;&lt;p&gt;This initiative shows that hardware innovation can now effectively connect with established business workflows. Underscoring that broader trend, SAP is sponsoring this year’s AI &amp;amp; Big Data Expo North America at the San Jose McEnery Convention Center, CA, an event that is fittingly co-located with the IoT Tech Expo and Intelligent Automation &amp;amp; Physical AI Summit.&lt;/p&gt;&lt;p&gt;When equipment breaks at a chemical plant or offshore rig, it costs a fortune. People do routine inspections to catch these issues early, but humans get tired and plants are massive. Robots, on the other hand, can walk the floor constantly, carrying thermal, acoustic, and visual sensors. Hook those sensors into SAP, and a hot pump instantly generates a maintenance request without waiting for a human to report it.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-cutting-out-the-reporting-lag"&gt;Cutting out the reporting lag&lt;/h3&gt;&lt;p&gt;Usually, finding a problem and logging a work order are two disconnected steps. A worker might hear a weird noise in a compressor, write it down, and type it into a computer hours later. By the time the replacement part gets approved, the machine might be wrecked.&lt;/p&gt;&lt;p&gt;Connecting ANYbotics to SAP eliminates that delay. The robot’s onboard AI processes what it sees and hears instantly. If it hears an irregular motor frequency, it doesn’t just flash a warning on a separate screen, it uses APIs to tell the SAP asset management module directly. The system immediately checks for spare parts, figures out the cost of potential downtime, and schedules an engineer.&lt;/p&gt;&lt;p&gt;This automates the flow of information from the floor to management. It also means machinery gets judged on hard, consistent numbers instead of a human inspector’s subjective opinion.&lt;/p&gt;&lt;p&gt;Putting robots in heavy industry isn’t like installing software in an office—companies have to deal with unreliable infrastructure. Factories usually have awful internet connectivity due to thick concrete, metal scaffolding, and electromagnetic interference.&lt;/p&gt;&lt;p&gt;To make this work, the setup relies on edge computing. It takes too much bandwidth to constantly stream high-def thermal video and lidar data to the cloud. So, the robots crunch most of that data locally. Onboard processors figure out the difference between a machine running normally and one that’s dangerously overheating. They only send the crucial details (i.e. the specific fault and its location) back to SAP.&lt;/p&gt;&lt;p&gt;To handle the network issues, many early adopters build private 5G networks. This gives them the coverage they need across huge facilities where regular Wi-Fi fails. It also locks down access, keeping the robot’s data safe from interception.&lt;/p&gt;&lt;p&gt;Of course, security is a major issue. A walking robot packed with cameras is effectively a roaming vulnerability. Companies must use zero-trust network protocols to constantly verify the robot’s identity and limit what SAP modules it can touch. If the robot gets hacked, the system has to cut its connection instantly to stop the attackers from moving laterally into the corporate network.&lt;/p&gt;&lt;p&gt;These robots generate a massive amount of unstructured data as they walk around. Turning raw audio and thermal images into the neat tables SAP requires is difficult.&lt;/p&gt;&lt;p&gt;If companies don’t manage this right, maintenance teams will drown in alerts. A robot that is too sensitive might spit out hundreds of useless warnings a day, making the SAP dashboard completely ignored. IT teams have to set strict rules before turning the system on. They need exact thresholds for what triggers a real maintenance ticket and what just needs to be watched.&lt;/p&gt;&lt;p&gt;The setup usually uses middleware to translate the robot’s telemetry into SAP’s language. This software acts as a filter, throwing out the noise so only actual problems reach the ERP system. The data lake storing all this information also needs to be organised for future machine learning projects. Fixing broken machines is the short-term goal; the long-term payoff is using years of robot data to predict failures before they happen.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-ensuring-a-successful-physical-ai-deployment"&gt;Ensuring a successful physical AI deployment&lt;/h3&gt;&lt;p&gt;Dropping robots into a factory naturally makes people nervous. The project’s success often comes down to how human resources handles it. Workers usually look at the robots and assume layoffs are next.&lt;/p&gt;&lt;p&gt;Management has to be clear about why the robots are there. The goal is to get people out of dangerous areas like high-voltage zones or toxic chemical sectors to reduce injuries. The robot collects the data, and the human engineer shifts to analysing that data and doing the actual repairs.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;This requires retraining. Workers who used to walk the perimeter now have to read SAP dashboards, manage automated tickets, and work with the robots. They have to trust the sensors, and management has to make sure operators know they can take manual control if something unexpected happens.&lt;/p&gt;&lt;p&gt;Companies need to take the rollout slowly. Because syncing physical robots with enterprise software is complicated, large-scale rollouts should start as small, targeted pilots.&lt;/p&gt;&lt;p&gt;The first test should be in one specific area with known hazards but rock-solid internet. This lets IT watch the data flow between the hardware and SAP in a controlled space. At this stage, the main job is making sure the data matches reality. If the robot sees one thing and SAP records another, it has to be audited and fixed daily.&lt;/p&gt;&lt;p&gt;Once the data pipeline actually works, the company can add more robots and connect other systems, like automated parts ordering. IT chiefs have to keep checking if their private networks can handle more robots, while security teams update their defenses against new threats.&lt;/p&gt;&lt;p&gt;If companies treat these autonomous inspectors as an extension of their corporate data architecture, they get a massive amount of information about their physical assets. But pulling it off means getting the network infrastructure, the data rules, and the human element exactly right.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;The rise of invisible IoT in enterprise operations&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-112554" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that.&lt;/p&gt;&lt;p&gt;ANYbotics’ four-legged autonomous robots will be connected straight into SAP’s backend enterprise resource planning software. Instead of treating a robot as a standalone asset, this turns it into a mobile data-gathering node within an industrial IoT network.&lt;/p&gt;&lt;p&gt;This initiative shows that hardware innovation can now effectively connect with established business workflows. Underscoring that broader trend, SAP is sponsoring this year’s AI &amp;amp; Big Data Expo North America at the San Jose McEnery Convention Center, CA, an event that is fittingly co-located with the IoT Tech Expo and Intelligent Automation &amp;amp; Physical AI Summit.&lt;/p&gt;&lt;p&gt;When equipment breaks at a chemical plant or offshore rig, it costs a fortune. People do routine inspections to catch these issues early, but humans get tired and plants are massive. Robots, on the other hand, can walk the floor constantly, carrying thermal, acoustic, and visual sensors. Hook those sensors into SAP, and a hot pump instantly generates a maintenance request without waiting for a human to report it.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-cutting-out-the-reporting-lag"&gt;Cutting out the reporting lag&lt;/h3&gt;&lt;p&gt;Usually, finding a problem and logging a work order are two disconnected steps. A worker might hear a weird noise in a compressor, write it down, and type it into a computer hours later. By the time the replacement part gets approved, the machine might be wrecked.&lt;/p&gt;&lt;p&gt;Connecting ANYbotics to SAP eliminates that delay. The robot’s onboard AI processes what it sees and hears instantly. If it hears an irregular motor frequency, it doesn’t just flash a warning on a separate screen, it uses APIs to tell the SAP asset management module directly. The system immediately checks for spare parts, figures out the cost of potential downtime, and schedules an engineer.&lt;/p&gt;&lt;p&gt;This automates the flow of information from the floor to management. It also means machinery gets judged on hard, consistent numbers instead of a human inspector’s subjective opinion.&lt;/p&gt;&lt;p&gt;Putting robots in heavy industry isn’t like installing software in an office—companies have to deal with unreliable infrastructure. Factories usually have awful internet connectivity due to thick concrete, metal scaffolding, and electromagnetic interference.&lt;/p&gt;&lt;p&gt;To make this work, the setup relies on edge computing. It takes too much bandwidth to constantly stream high-def thermal video and lidar data to the cloud. So, the robots crunch most of that data locally. Onboard processors figure out the difference between a machine running normally and one that’s dangerously overheating. They only send the crucial details (i.e. the specific fault and its location) back to SAP.&lt;/p&gt;&lt;p&gt;To handle the network issues, many early adopters build private 5G networks. This gives them the coverage they need across huge facilities where regular Wi-Fi fails. It also locks down access, keeping the robot’s data safe from interception.&lt;/p&gt;&lt;p&gt;Of course, security is a major issue. A walking robot packed with cameras is effectively a roaming vulnerability. Companies must use zero-trust network protocols to constantly verify the robot’s identity and limit what SAP modules it can touch. If the robot gets hacked, the system has to cut its connection instantly to stop the attackers from moving laterally into the corporate network.&lt;/p&gt;&lt;p&gt;These robots generate a massive amount of unstructured data as they walk around. Turning raw audio and thermal images into the neat tables SAP requires is difficult.&lt;/p&gt;&lt;p&gt;If companies don’t manage this right, maintenance teams will drown in alerts. A robot that is too sensitive might spit out hundreds of useless warnings a day, making the SAP dashboard completely ignored. IT teams have to set strict rules before turning the system on. They need exact thresholds for what triggers a real maintenance ticket and what just needs to be watched.&lt;/p&gt;&lt;p&gt;The setup usually uses middleware to translate the robot’s telemetry into SAP’s language. This software acts as a filter, throwing out the noise so only actual problems reach the ERP system. The data lake storing all this information also needs to be organised for future machine learning projects. Fixing broken machines is the short-term goal; the long-term payoff is using years of robot data to predict failures before they happen.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-ensuring-a-successful-physical-ai-deployment"&gt;Ensuring a successful physical AI deployment&lt;/h3&gt;&lt;p&gt;Dropping robots into a factory naturally makes people nervous. The project’s success often comes down to how human resources handles it. Workers usually look at the robots and assume layoffs are next.&lt;/p&gt;&lt;p&gt;Management has to be clear about why the robots are there. The goal is to get people out of dangerous areas like high-voltage zones or toxic chemical sectors to reduce injuries. The robot collects the data, and the human engineer shifts to analysing that data and doing the actual repairs.&lt;/p&gt;&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt; [embedded content]&lt;/p&gt;&lt;/figure&gt;&lt;p&gt;This requires retraining. Workers who used to walk the perimeter now have to read SAP dashboards, manage automated tickets, and work with the robots. They have to trust the sensors, and management has to make sure operators know they can take manual control if something unexpected happens.&lt;/p&gt;&lt;p&gt;Companies need to take the rollout slowly. Because syncing physical robots with enterprise software is complicated, large-scale rollouts should start as small, targeted pilots.&lt;/p&gt;&lt;p&gt;The first test should be in one specific area with known hazards but rock-solid internet. This lets IT watch the data flow between the hardware and SAP in a controlled space. At this stage, the main job is making sure the data matches reality. If the robot sees one thing and SAP records another, it has to be audited and fixed daily.&lt;/p&gt;&lt;p&gt;Once the data pipeline actually works, the company can add more robots and connect other systems, like automated parts ordering. IT chiefs have to keep checking if their private networks can handle more robots, while security teams update their defenses against new threats.&lt;/p&gt;&lt;p&gt;If companies treat these autonomous inspectors as an extension of their corporate data architecture, they get a massive amount of information about their physical assets. But pulling it off means getting the network infrastructure, the data rules, and the human element exactly right.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;The rise of invisible IoT in enterprise operations&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-112554" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/</guid><pubDate>Tue, 31 Mar 2026 15:20:53 +0000</pubDate></item><item><title>Building better AI benchmarks: How many raters are enough? (The latest research from Google)</title><link>https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Why this matters for the future of AI&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;This research is vital for the future of reliable AI. For years, the field has operated under a "single truth" paradigm — the idea that for every input, there is one "right" label. But even when there’s a single ground-truth it may not be possible to measure it. And as AI moves into more subjective areas like ethics, identifying subjective concepts like harmful intent or the character of social interaction, that paradigm breaks down.&lt;/p&gt;&lt;p&gt;By moving away from the “forest" and embracing the “tree", we can build benchmarks that actually reflect the complexity and different perspectives that lead to the natural disagreement found in the human world. This roadmap allows practitioners to design better, more reproducible tests without overspending. Ultimately, understanding &lt;i&gt;why&lt;/i&gt; humans disagree is just as important as knowing &lt;i&gt;where&lt;/i&gt; they agree, and our research provides the mathematical tools to capture both.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;
-        
-            
-                &lt;h2 class="class"&gt;Why this matters for the future of AI&lt;/h2&gt;
-            
-        
-        
-    &lt;/p&gt;
-
-
-
-    &lt;p&gt;This research is vital for the future of reliable AI. For years, the field has operated under a "single truth" paradigm — the idea that for every input, there is one "right" label. But even when there’s a single ground-truth it may not be possible to measure it. And as AI moves into more subjective areas like ethics, identifying subjective concepts like harmful intent or the character of social interaction, that paradigm breaks down.&lt;/p&gt;&lt;p&gt;By moving away from the “forest" and embracing the “tree", we can build benchmarks that actually reflect the complexity and different perspectives that lead to the natural disagreement found in the human world. This roadmap allows practitioners to design better, more reproducible tests without overspending. Ultimately, understanding &lt;i&gt;why&lt;/i&gt; humans disagree is just as important as knowing &lt;i&gt;where&lt;/i&gt; they agree, and our research provides the mathematical tools to capture both.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/</guid><pubDate>Tue, 31 Mar 2026 16:16:00 +0000</pubDate></item><item><title>Alexa+ gets new food ordering experiences with Uber Eats and Grubhub (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/food-order-cart-echo-show-amazon-news-nb-033126.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Amazon’s latest upgrade to Alexa+, its next-generation AI assistant, allows you to order food from popular delivery services Uber Eats and Grubhub in a conversational manner, just as if you were chatting with a waiter at a restaurant or placing an order at a drive-thru, according to Amazon.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The aim of this new Alexa+ feature is to create a more natural and interactive ordering experience. Starting today, users can begin requesting a cuisine, explore menu options, ask questions, and customize their meal all within a single conversation. If users change their mind halfway through, want to add a dessert, or adjust quantities, they can make those changes instantly.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;To activate the feature, users need to link their Grubhub or Uber Eats account through the Alexa app. Once linked, previous orders will sync automatically, making it easy to reorder favorite meals or discover new restaurants. Users can then say something like, “I want to order Italian for delivery,” and Alexa+ will guide them to various restaurant options. Once the order is set, users get a comprehensive summary of the items in their cart, including quantities and prices.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This new food ordering experience is starting to roll out to Alexa+ customers with Echo Show 8 devices and larger. Amazon explains that this development is a significant advancement in the company’s goal to establish adaptive interaction models. This initiative lays the groundwork for expanding similar features into other areas, such as grocery shopping and travel arrangements.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Alexa+ upgrade comes amid the broader implications of AI in the food industry. Fast food chains have already begun using AI assistants at drive-thrus, but challenges remain, especially around order accuracy. In 2024, McDonald’s paused its initiative after a few missteps, such as an AI cashier accidentally adding nine sweet teas to a customer’s order. Additionally, Taco Bell faced its share of mishaps, with viral videos showcasing its AI making errors.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since the rollout of Alexa+ in the U.S. and its recent expansion to the U.K., the features continue to grow, including new personality styles for Alexa, such as a “Sassy” option designed for adults, as well as other styles like Brief, Chill, and Sweet.&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/food-order-cart-echo-show-amazon-news-nb-033126.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Amazon’s latest upgrade to Alexa+, its next-generation AI assistant, allows you to order food from popular delivery services Uber Eats and Grubhub in a conversational manner, just as if you were chatting with a waiter at a restaurant or placing an order at a drive-thru, according to Amazon.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The aim of this new Alexa+ feature is to create a more natural and interactive ordering experience. Starting today, users can begin requesting a cuisine, explore menu options, ask questions, and customize their meal all within a single conversation. If users change their mind halfway through, want to add a dessert, or adjust quantities, they can make those changes instantly.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;To activate the feature, users need to link their Grubhub or Uber Eats account through the Alexa app. Once linked, previous orders will sync automatically, making it easy to reorder favorite meals or discover new restaurants. Users can then say something like, “I want to order Italian for delivery,” and Alexa+ will guide them to various restaurant options. Once the order is set, users get a comprehensive summary of the items in their cart, including quantities and prices.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This new food ordering experience is starting to roll out to Alexa+ customers with Echo Show 8 devices and larger. Amazon explains that this development is a significant advancement in the company’s goal to establish adaptive interaction models. This initiative lays the groundwork for expanding similar features into other areas, such as grocery shopping and travel arrangements.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Alexa+ upgrade comes amid the broader implications of AI in the food industry. Fast food chains have already begun using AI assistants at drive-thrus, but challenges remain, especially around order accuracy. In 2024, McDonald’s paused its initiative after a few missteps, such as an AI cashier accidentally adding nine sweet teas to a customer’s order. Additionally, Taco Bell faced its share of mishaps, with viral videos showcasing its AI making errors.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since the rollout of Alexa+ in the U.S. and its recent expansion to the U.K., the features continue to grow, including new personality styles for Alexa, such as a “Sassy” option designed for adults, as well as other styles like Brief, Chill, and Sweet.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/</guid><pubDate>Tue, 31 Mar 2026 17:41:35 +0000</pubDate></item><item><title>[NEW] Entire Claude Code CLI source code leaks thanks to exposed map file (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        512,000 lines of code that competitors and hobbyists will be studying for weeks.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="A screenshot of Claude Code running in the command line." class="absolute inset-0 w-full h-full object-cover hidden" height="417" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-640x417.jpg" width="640" /&gt;
-                  &lt;img alt="A screenshot of Claude Code running in the command line." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      A screenshot of Claude Code running in the command line.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Samuel Axon
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;The entire source code for Anthropic’s Claude Code command line interface application (not the models themselves) has been leaked and disseminated, apparently due to a serious internal error. The leak gives competitors and armchair enthusiasts a detailed blueprint for how Claude Code works—a significant setback for a company that has seen explosive user growth and industry impact over the past several months.&lt;/p&gt;
-&lt;p&gt;Early this morning, Anthropic published version 2.1.88 of Claude Code npm package—but it was quickly discovered that package included a source map file, which could be used to access the entirety of Claude Code’s source—almost 2,000 TypeScript files and more than 512,000 lines of code.&lt;/p&gt;
-&lt;p&gt;Security researcher Chaofan Shou was the first to publicly point it out on X, with a link to an archive containing the files. The codebase was then put in a public GitHub repository, and it has been forked tens of thousands of times.&lt;/p&gt;
-&lt;p&gt;Anthropic publicly acknowledged the mistake in a statement to VentureBeat and other outlets, which reads:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Earlier today, a Claude Code release included some internal source code. No sensitive customer data or credentials were involved or exposed. This was a release packaging issue caused by human error, not a security breach. We’re rolling out measures to prevent this from happening again.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Developers have already begun picking it apart and analyzing it. For example, @himanshustwts on X posted a detailed overview of Claude Code’s memory architecture, describing systems like background memory rewriting and various steps to verify memories’ validity before use.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;And Gabriel Anhaia took a bird’s eye view, explaining how many lines of code make up some of the components—around 40,000 for a plugin-like tool system, and 46,000 for the query system—and noting that Claude Code is “a production-grade developer experience, not just a wrapper around an API” and that its sophistication is “both inspiring and humbling.”&lt;/p&gt;
-&lt;p&gt;There had previously been extensive efforts in some developer communities to reverse-engineer Claude Code, with some success, but not with this totality.&lt;/p&gt;
-&lt;p&gt;While Anthropic’s trade secrets have some legal protection, there are architectural insights that are valuable to competitors—useful for improving their own architecture, speeding up development of competing tools, seeing what Anthropic is working on next, and identifying gaps in what Anthropic has worked out.&lt;/p&gt;
-&lt;p&gt;Further, bad actors looking for security vulnerabilities now have a map for bypassing the guardrails Anthropic has put in place. The category Claude Code occupies (and currently leads) is moving very quickly, though, and it’s hard to predict right now how much of a problem this will be a few months down the road.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        512,000 lines of code that competitors and hobbyists will be studying for weeks.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="A screenshot of Claude Code running in the command line." class="absolute inset-0 w-full h-full object-cover hidden" height="417" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-640x417.jpg" width="640" /&gt;
-                  &lt;img alt="A screenshot of Claude Code running in the command line." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      A screenshot of Claude Code running in the command line.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Samuel Axon
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;The entire source code for Anthropic’s Claude Code command line interface application (not the models themselves) has been leaked and disseminated, apparently due to a serious internal error. The leak gives competitors and armchair enthusiasts a detailed blueprint for how Claude Code works—a significant setback for a company that has seen explosive user growth and industry impact over the past several months.&lt;/p&gt;
-&lt;p&gt;Early this morning, Anthropic published version 2.1.88 of Claude Code npm package—but it was quickly discovered that package included a source map file, which could be used to access the entirety of Claude Code’s source—almost 2,000 TypeScript files and more than 512,000 lines of code.&lt;/p&gt;
-&lt;p&gt;Security researcher Chaofan Shou was the first to publicly point it out on X, with a link to an archive containing the files. The codebase was then put in a public GitHub repository, and it has been forked tens of thousands of times.&lt;/p&gt;
-&lt;p&gt;Anthropic publicly acknowledged the mistake in a statement to VentureBeat and other outlets, which reads:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Earlier today, a Claude Code release included some internal source code. No sensitive customer data or credentials were involved or exposed. This was a release packaging issue caused by human error, not a security breach. We’re rolling out measures to prevent this from happening again.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Developers have already begun picking it apart and analyzing it. For example, @himanshustwts on X posted a detailed overview of Claude Code’s memory architecture, describing systems like background memory rewriting and various steps to verify memories’ validity before use.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;And Gabriel Anhaia took a bird’s eye view, explaining how many lines of code make up some of the components—around 40,000 for a plugin-like tool system, and 46,000 for the query system—and noting that Claude Code is “a production-grade developer experience, not just a wrapper around an API” and that its sophistication is “both inspiring and humbling.”&lt;/p&gt;
-&lt;p&gt;There had previously been extensive efforts in some developer communities to reverse-engineer Claude Code, with some success, but not with this totality.&lt;/p&gt;
-&lt;p&gt;While Anthropic’s trade secrets have some legal protection, there are architectural insights that are valuable to competitors—useful for improving their own architecture, speeding up development of competing tools, seeing what Anthropic is working on next, and identifying gaps in what Anthropic has worked out.&lt;/p&gt;
-&lt;p&gt;Further, bad actors looking for security vulnerabilities now have a map for bypassing the guardrails Anthropic has put in place. The category Claude Code occupies (and currently leads) is moving very quickly, though, and it’s hard to predict right now how much of a problem this will be a few months down the road.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/</guid><pubDate>Tue, 31 Mar 2026 19:09:33 +0000</pubDate></item><item><title>[NEW] Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1303642234.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sometimes an apparently good idea, a big raise from a big-name VC, and a sea of well-connected angel investors is not enough. &lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 07:25:30 +0000</lastBuildDate><item><title>Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1303642234.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Sometimes an apparently good idea, a big raise from a big-name VC, and a sea of well-connected angel investors is not enough. &lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Less than a year after launching, Yupp is closing its business, co-founders Pankaj Gupta and Gilad Mishne announced on Tuesday.&lt;/p&gt;
 
@@ -753,7 +77,7 @@ Granite 4.0 3B Vision can also be integrated seamlessly with Docling to support 
 
 &lt;p class="wp-block-paragraph"&gt;Yupp raised a $33 million seed round in 2024 led by a16z crypto’s Chris Dixon, a giant seed round for its day. In addition, Yupp raised checks from more than 45 angels and small investors, it said. This included luminaries like Google DeepMind chief scientist Jeff Dean; Twitter co-founder Biz Stone; Pinterest co-founder Evan Sharp; and Perplexity CEO Aravind Srinivas.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Gupta said some of Yupp’s employees are joining a “well-known” AI company, and others are looking for their next gig. Yupp did not immediately respond to TechCrunch’s request for comment.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/</guid><pubDate>Tue, 31 Mar 2026 20:01:07 +0000</pubDate></item><item><title>[NEW] OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI has closed a deal to raise $122 billion at an $852 billion valuation, its largest funding round to date as the company is expected to hit the public markets this year.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Gupta said some of Yupp’s employees are joining a “well-known” AI company, and others are looking for their next gig. Yupp did not immediately respond to TechCrunch’s request for comment.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/</guid><pubDate>Tue, 31 Mar 2026 20:01:07 +0000</pubDate></item><item><title>OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI has closed a deal to raise $122 billion at an $852 billion valuation, its largest funding round to date as the company is expected to hit the public markets this year.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The round will add to OpenAI’s war chest as it spends enormous amounts of money on AI chips, data center buildouts, and hiring top talent.&lt;/p&gt;
 
@@ -817,7 +141,7 @@ Granite 4.0 3B Vision can also be integrated seamlessly with Docling to support 
 
 
 
-&lt;p class="wp-block-paragraph"&gt;All of it adds up to a single message: OpenAI is building its public market narrative in real time, and this round is as much about anchoring IPO expectations as it is about the capital itself.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/</guid><pubDate>Tue, 31 Mar 2026 21:25:04 +0000</pubDate></item><item><title>[NEW] Salesforce announces an AI-heavy makeover for Slack, with 30 new features (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211180761.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Salesforce, the cloud software giant, has been remaking its business around AI, and at a small gathering in San Francisco on Tuesday, CEO Marc Benioff and his team unveiled the latest results of those efforts: an updated version of Slack, with a plethora of new AI features. The most significant of these is a serious glow-up for its AI agent, Slackbot.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;All of it adds up to a single message: OpenAI is building its public market narrative in real time, and this round is as much about anchoring IPO expectations as it is about the capital itself.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/</guid><pubDate>Tue, 31 Mar 2026 21:25:04 +0000</pubDate></item><item><title>Salesforce announces an AI-heavy makeover for Slack, with 30 new features (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211180761.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Salesforce, the cloud software giant, has been remaking its business around AI, and at a small gathering in San Francisco on Tuesday, CEO Marc Benioff and his team unveiled the latest results of those efforts: an updated version of Slack, with a plethora of new AI features. The most significant of these is a serious glow-up for its AI agent, Slackbot.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The 30 new features, which will be available in the coming months, follow a January update that gave Slackbot agentic capabilities — including the ability to draft emails, schedule meetings, and sift through your inbox for specific information.&lt;/p&gt;
 
@@ -891,7 +215,7 @@ Granite 4.0 3B Vision can also be integrated seamlessly with Docling to support 
 
 &lt;p class="wp-block-paragraph"&gt;In short: Salesforce is clearly trying to take Slack beyond its roots as an enterprise communication tool and position it as a more versatile platform that can handle a wider variety of business tasks. The hope seems to be that, by flooding it with AI, Slack can become an indispensable part of enterprise users’ core business processes.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Benioff let his team walk through the major features on Tuesday but remarked, during his keynote, that the five years since Salesforce acquired Slack had been an “incredible journey,” one that had delivered “two and a half times revenue growth.” He added: “We have about a million businesses running on Slack. It’s been a huge growth story.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/</guid><pubDate>Tue, 31 Mar 2026 22:46:25 +0000</pubDate></item><item><title>[NEW] Running local models on Macs gets faster with Ollama's MLX support (AI - Ars Technica)</title><link>https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/</link><description>&lt;header&gt;
+&lt;p class="wp-block-paragraph"&gt;Benioff let his team walk through the major features on Tuesday but remarked, during his keynote, that the five years since Salesforce acquired Slack had been an “incredible journey,” one that had delivered “two and a half times revenue growth.” He added: “We have about a million businesses running on Slack. It’s been a huge growth story.”&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/</guid><pubDate>Tue, 31 Mar 2026 22:46:25 +0000</pubDate></item><item><title>Running local models on Macs gets faster with Ollama's MLX support (AI - Ars Technica)</title><link>https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -1159,7 +483,7 @@ Granite 4.0 3B Vision can also be integrated seamlessly with Docling to support 
       &lt;/div&gt;
     &lt;/div&gt;
                 &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/</guid><pubDate>Tue, 31 Mar 2026 23:00:23 +0000</pubDate></item><item><title>[NEW] Anthropic is having a month (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic has built its public identity around the winning idea that it’s the careful AI company. It publishes detailed work on AI risk, employs some of the best researchers in the field, and has been vocal about the responsibilities that come with building such powerful technology — so vocal, of course, that it’s right now battling it out with the Department of Defense. On Tuesday, alas, someone there forgot to check a box.&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/</guid><pubDate>Tue, 31 Mar 2026 23:00:23 +0000</pubDate></item><item><title>Anthropic is having a month (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic has built its public identity around the winning idea that it’s the careful AI company. It publishes detailed work on AI risk, employs some of the best researchers in the field, and has been vocal about the responsibilities that come with building such powerful technology — so vocal, of course, that it’s right now battling it out with the Department of Defense. On Tuesday, alas, someone there forgot to check a box.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;It is, notably, the second time in a week. Last Thursday, Fortune reported that Anthropic had accidentally made nearly 3,000 internal files publicly available, including a draft blog post describing a powerful new model the company had not yet announced.&lt;/p&gt;
 
@@ -1225,7 +549,7 @@ Granite 4.0 3B Vision can also be integrated seamlessly with Docling to support 
 			
 		&lt;/div&gt;
 	&lt;/div&gt;
-&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/</guid><pubDate>Tue, 31 Mar 2026 23:58:26 +0000</pubDate></item><item><title>[NEW] Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Mercor, a popular AI recruiting startup, has confirmed a security incident linked to a supply chain attack involving the open-source project LiteLLM.&lt;/p&gt;
+&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/</guid><pubDate>Tue, 31 Mar 2026 23:58:26 +0000</pubDate></item><item><title>Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Mercor, a popular AI recruiting startup, has confirmed a security incident linked to a supply chain attack involving the open-source project LiteLLM.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The AI startup told TechCrunch on Tuesday that it was “one of thousands of companies” affected by a recent compromise of LiteLLM’s project, which was linked to a hacking group called TeamPCP. Confirmation of the incident comes as extortion hacking group Lapsus$ claimed it had targeted Mercor and gained access to its data.&lt;/p&gt;
 
@@ -1303,4 +627,1082 @@ Granite 4.0 3B Vision can also be integrated seamlessly with Docling to support 
 
 &lt;p class="wp-block-paragraph"&gt;The compromise of LiteLLM originally surfaced last week after malicious code was discovered in a package associated with the Y Combinator-backed startup’s open-source project. While the malicious code was identified and removed within hours, the incident drew scrutiny due to LiteLLM’s widespread use around the internet, with the library downloaded millions of times per day, per security firm Snyk. The incident also prompted LiteLLM to make changes to its compliance processes, including shifting from controversial startup Delve to Vanta for compliance certifications.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;It remains unclear how many companies were affected by the LiteLLM-related incident or whether any data exposure occurred, as investigations continue.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/</guid><pubDate>Wed, 01 Apr 2026 01:42:59 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;It remains unclear how many companies were affected by the LiteLLM-related incident or whether any data exposure occurred, as investigations continue.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/</guid><pubDate>Wed, 01 Apr 2026 01:42:59 +0000</pubDate></item><item><title>[NEW] Preview tool helps makers visualize 3D-printed objects (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202603/MIT-VisiPrint-Preview-A1.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
+            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
+          
+
+            &lt;p&gt;Designers, makers, and others often use 3D printing to rapidly prototype a range of functional objects, from movie props to medical devices. Accurate print previews are essential so users know a fabricated object will perform as expected.&lt;/p&gt;&lt;p&gt;But previews generated by most 3D-printing software focus on function rather than aesthetics. A printed object may end up with a different color, texture, or shading than the user expected, resulting in multiple reprints that waste time, effort, and material.&lt;/p&gt;&lt;p&gt;To help users envision how a fabricated object will look, researchers from MIT and elsewhere developed an easy-to-use preview tool that puts appearance first.&lt;/p&gt;&lt;p&gt;Users upload a screenshot of the object from their 3D-printing software, along with a single image of the print material. From these inputs, the system automatically generates a rendering of how the fabricated object is likely to look.&lt;/p&gt;&lt;p&gt;The artificial intelligence-powered system, called VisiPrint, is designed to work with a range of 3D-printing software and can handle any material example. It considers not only the color of the material, but also gloss, translucency, and how nuances of the fabrication process affect the object’s appearance.&lt;/p&gt;&lt;p&gt;Such aesthetics-focused previews could be especially useful in areas like dentistry, by helping clinicians ensure temporary crowns and bridges match the appearance of a patient’s teeth, or in architecture, to aid designers in assessing the visual impact of models.&lt;/p&gt;&lt;p&gt;“3D printing can be a very wasteful process. Some studies estimate that as much as a third of the material used goes straight to the landfill, often from prototypes the user ends of discarding. To make 3D printing more sustainable, we want to reduce the number of tries it takes to get the prototype you want. The user shouldn’t have to try out every printing material they have before they settle on a design,” says Maxine Perroni-Scharf, an electrical engineering and computer science (EECS) graduate student and lead author of a paper on VisiPrint.&lt;/p&gt;&lt;p&gt;She is joined on the paper by Faraz Faruqi, a fellow EECS graduate student; Raul Hernandez, an MIT undergraduate; SooYeon Ahn, a graduate student at the Gwangju Institute of Science and Technology; Szymon Rusinkiewicz, a professor of computer science at Princeton University; William Freeman, the Thomas and Gerd Perkins Professor of EECS at MIT and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL); and senior author Stefanie Mueller, an associate professor of EECS and Mechanical Engineering at MIT, and a member of CSAIL. The research will be presented at the ACM CHI Conference on Human Factors in Computing Systems.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Accurate aesthetics&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The researchers focused on fused deposition modeling (FDM), the most common type of 3D printing. In FDM, print material filament is melted and then squirted through a nozzle to fabricate an object one layer at a time.&lt;/p&gt;&lt;p&gt;Generating accurate aesthetic previews is challenging because the melting and extrusion process can change the appearance of a material, as can the height of each deposited layer and the path the nozzle follows during fabrication.&lt;/p&gt;&lt;p&gt;VisiPrint uses two AI models that work together to overcome those challenges.&lt;/p&gt;&lt;p&gt;The VisiPrint preview is based on two inputs: a screenshot of the digital design from a user’s 3D-printing software (called “slicer” software), and an image of the print material, which can be taken from an online source or captured from a printed sample.&lt;/p&gt;&lt;p&gt;From these inputs, a computer vision model extracts features from the material sample that are important for the object’s appearance.&lt;/p&gt;&lt;p&gt;It feeds those features to a generative AI model that computes the geometry and structure of the object, while incorporating the so-called “slicing” pattern the nozzle will follow as it extrudes each layer.&lt;/p&gt;&lt;p&gt;The key to the researchers’ approach is a special conditioning method. This involves carefully adjusting the inner workings of the model to guide it, so it follows the slicing pattern and obeys the constraints of the 3D-printing process.&lt;/p&gt;&lt;p&gt;Their conditioning method utilizes a depth map that preserves the shape and shading of the object, along with a map of the edges that reflects the internal contours and structural boundaries.&lt;/p&gt;&lt;p&gt;“If you don’t have the right balance of these two things, you could use up with bad geometry or an incorrect slicing pattern. We had to be careful to combine them in the right way,” Perroni-Scharf says.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A user-focused system&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team also produced an easy-to-use interface where one can upload the required images and evaluate the preview.&lt;/p&gt;&lt;p&gt;The VisiPrint interface enables more advanced makers to adjust multiple settings, such as the influence of certain colors on the final appearance.&lt;/p&gt;&lt;p&gt;In the end, the aesthetic preview is intended to complement the functional preview generated by slicer software, since VisiPrint does not estimate printability, mechanical feasibility, or likelihood of failure.&lt;/p&gt;&lt;p&gt;To evaluate VisiPrint, the researchers conducted a user study that asked participants to compare the system to other approaches. Nearly all participants said it provided better overall appearance as well as more textural similarity with printed objects.&lt;/p&gt;&lt;p&gt;In addition, the VisiPrint preview process took about a minute on average, which was more than twice as fast as any competing method.&lt;/p&gt;&lt;p&gt;“VisiPrint really shined when compared to other AI interfaces. If you give a more general AI model the same screenshots, it might randomly change the shape or use the wrong slicing pattern because it had no direct conditioning,” she says.&lt;/p&gt;&lt;p&gt;In the future, the researchers want to address artifacts that can occur when model previews have extremely fine details. They also want to add features that allow users to optimize parts of the printing process beyond color of the material.&lt;/p&gt;&lt;p&gt;“It is important to think about the way that we fabricate objects. We need to continue striving to develop methods that reduce waste. To that end, this marriage of AI with the physical making process is an exciting area of future work,” Perroni-Scharf says.&lt;/p&gt;&lt;p&gt;“‘What you see is what you get’ has been the main thing that made desktop publishing ‘happen’ in the 1980s, as it allowed users to get what they wanted at first try. It is time to get WYSIWYG for 3D printing as well. VisiPrint is a great step in this direction,” says Patrick Baudisch, a professor of computer science at the Hasso Plattner Institute, who was not involved with this work.&lt;/p&gt;&lt;p&gt;This research was funded, in part, by an MIT Morningside Academy for Design Fellowship and an MIT MathWorks Fellowship.&lt;/p&gt;        
+
+      &lt;/div&gt;
+        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202603/MIT-VisiPrint-Preview-A1.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
+            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
+          
+
+            &lt;p&gt;Designers, makers, and others often use 3D printing to rapidly prototype a range of functional objects, from movie props to medical devices. Accurate print previews are essential so users know a fabricated object will perform as expected.&lt;/p&gt;&lt;p&gt;But previews generated by most 3D-printing software focus on function rather than aesthetics. A printed object may end up with a different color, texture, or shading than the user expected, resulting in multiple reprints that waste time, effort, and material.&lt;/p&gt;&lt;p&gt;To help users envision how a fabricated object will look, researchers from MIT and elsewhere developed an easy-to-use preview tool that puts appearance first.&lt;/p&gt;&lt;p&gt;Users upload a screenshot of the object from their 3D-printing software, along with a single image of the print material. From these inputs, the system automatically generates a rendering of how the fabricated object is likely to look.&lt;/p&gt;&lt;p&gt;The artificial intelligence-powered system, called VisiPrint, is designed to work with a range of 3D-printing software and can handle any material example. It considers not only the color of the material, but also gloss, translucency, and how nuances of the fabrication process affect the object’s appearance.&lt;/p&gt;&lt;p&gt;Such aesthetics-focused previews could be especially useful in areas like dentistry, by helping clinicians ensure temporary crowns and bridges match the appearance of a patient’s teeth, or in architecture, to aid designers in assessing the visual impact of models.&lt;/p&gt;&lt;p&gt;“3D printing can be a very wasteful process. Some studies estimate that as much as a third of the material used goes straight to the landfill, often from prototypes the user ends of discarding. To make 3D printing more sustainable, we want to reduce the number of tries it takes to get the prototype you want. The user shouldn’t have to try out every printing material they have before they settle on a design,” says Maxine Perroni-Scharf, an electrical engineering and computer science (EECS) graduate student and lead author of a paper on VisiPrint.&lt;/p&gt;&lt;p&gt;She is joined on the paper by Faraz Faruqi, a fellow EECS graduate student; Raul Hernandez, an MIT undergraduate; SooYeon Ahn, a graduate student at the Gwangju Institute of Science and Technology; Szymon Rusinkiewicz, a professor of computer science at Princeton University; William Freeman, the Thomas and Gerd Perkins Professor of EECS at MIT and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL); and senior author Stefanie Mueller, an associate professor of EECS and Mechanical Engineering at MIT, and a member of CSAIL. The research will be presented at the ACM CHI Conference on Human Factors in Computing Systems.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Accurate aesthetics&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The researchers focused on fused deposition modeling (FDM), the most common type of 3D printing. In FDM, print material filament is melted and then squirted through a nozzle to fabricate an object one layer at a time.&lt;/p&gt;&lt;p&gt;Generating accurate aesthetic previews is challenging because the melting and extrusion process can change the appearance of a material, as can the height of each deposited layer and the path the nozzle follows during fabrication.&lt;/p&gt;&lt;p&gt;VisiPrint uses two AI models that work together to overcome those challenges.&lt;/p&gt;&lt;p&gt;The VisiPrint preview is based on two inputs: a screenshot of the digital design from a user’s 3D-printing software (called “slicer” software), and an image of the print material, which can be taken from an online source or captured from a printed sample.&lt;/p&gt;&lt;p&gt;From these inputs, a computer vision model extracts features from the material sample that are important for the object’s appearance.&lt;/p&gt;&lt;p&gt;It feeds those features to a generative AI model that computes the geometry and structure of the object, while incorporating the so-called “slicing” pattern the nozzle will follow as it extrudes each layer.&lt;/p&gt;&lt;p&gt;The key to the researchers’ approach is a special conditioning method. This involves carefully adjusting the inner workings of the model to guide it, so it follows the slicing pattern and obeys the constraints of the 3D-printing process.&lt;/p&gt;&lt;p&gt;Their conditioning method utilizes a depth map that preserves the shape and shading of the object, along with a map of the edges that reflects the internal contours and structural boundaries.&lt;/p&gt;&lt;p&gt;“If you don’t have the right balance of these two things, you could use up with bad geometry or an incorrect slicing pattern. We had to be careful to combine them in the right way,” Perroni-Scharf says.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A user-focused system&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team also produced an easy-to-use interface where one can upload the required images and evaluate the preview.&lt;/p&gt;&lt;p&gt;The VisiPrint interface enables more advanced makers to adjust multiple settings, such as the influence of certain colors on the final appearance.&lt;/p&gt;&lt;p&gt;In the end, the aesthetic preview is intended to complement the functional preview generated by slicer software, since VisiPrint does not estimate printability, mechanical feasibility, or likelihood of failure.&lt;/p&gt;&lt;p&gt;To evaluate VisiPrint, the researchers conducted a user study that asked participants to compare the system to other approaches. Nearly all participants said it provided better overall appearance as well as more textural similarity with printed objects.&lt;/p&gt;&lt;p&gt;In addition, the VisiPrint preview process took about a minute on average, which was more than twice as fast as any competing method.&lt;/p&gt;&lt;p&gt;“VisiPrint really shined when compared to other AI interfaces. If you give a more general AI model the same screenshots, it might randomly change the shape or use the wrong slicing pattern because it had no direct conditioning,” she says.&lt;/p&gt;&lt;p&gt;In the future, the researchers want to address artifacts that can occur when model previews have extremely fine details. They also want to add features that allow users to optimize parts of the printing process beyond color of the material.&lt;/p&gt;&lt;p&gt;“It is important to think about the way that we fabricate objects. We need to continue striving to develop methods that reduce waste. To that end, this marriage of AI with the physical making process is an exciting area of future work,” Perroni-Scharf says.&lt;/p&gt;&lt;p&gt;“‘What you see is what you get’ has been the main thing that made desktop publishing ‘happen’ in the 1980s, as it allowed users to get what they wanted at first try. It is time to get WYSIWYG for 3D printing as well. VisiPrint is a great step in this direction,” says Patrick Baudisch, a professor of computer science at the Hasso Plattner Institute, who was not involved with this work.&lt;/p&gt;&lt;p&gt;This research was funded, in part, by an MIT Morningside Academy for Design Fellowship and an MIT MathWorks Fellowship.&lt;/p&gt;        
+
+      &lt;/div&gt;
+        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401</guid><pubDate>Wed, 01 Apr 2026 04:00:00 +0000</pubDate></item><item><title>[NEW] Falcon Perception (Hugging Face - Blog)</title><link>https://huggingface.co/blog/tiiuae/falcon-perception</link><description>&lt;!----&gt; &lt;div class="not-prose mb-6 font-sans lg:hidden"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="flex flex-wrap items-center gap-2.5 pt-1  z-1 lg:sticky lg:top-8"&gt;&lt;!--[0--&gt;&lt;!--[0--&gt;&lt;!----&gt;&lt;!----&gt;&lt;!--]--&gt; &lt;!--[-1--&gt;&lt;!--]--&gt;&lt;!----&gt;&lt;!--]--&gt; &lt;!--[0--&gt;&lt;!--[0--&gt;&lt;ul class="flex items-center text-gray-600  flex-row  text-base   "&gt;&lt;!--[--&gt;&lt;li class="  -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800 " title="saarah-a"&gt;&lt;!--[0--&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://huggingface.co/avatars/5d43402788afb5da9904f008d5fb29bb.svg" /&gt;&lt;!--]--&gt;&lt;/li&gt;&lt;!--]--&gt; &lt;!--[0--&gt;&lt;li class="text-xs hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300 order-last ml-3"&gt;&lt;!--[--&gt;&lt;!--[-1--&gt;&lt;!--]--&gt;&lt;!--]--&gt;&lt;/li&gt;&lt;!--]--&gt;&lt;/ul&gt;&lt;!--]--&gt;&lt;!--]--&gt;&lt;/div&gt; &lt;dialog class="shadow-alternate z-40 mx-4 my-auto h-fit select-text overflow-hidden rounded-xl bg-white max-sm:max-w-[calc(100dvw-2rem)] sm:mx-auto lg:mt-26 md:portrait:mt-30 xl:mt-30 2xl:mt-32 w-full sm:w-96 max-w-[calc(100%-4rem)] text-base not-prose "&gt;&lt;/dialog&gt;&lt;!----&gt;&lt;!----&gt;&lt;/div&gt;&lt;/div&gt; &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon Logo" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/hmlmBPb4qb6y9gfxWOApE.png" width="640" /&gt;
+&lt;/p&gt;
+
+&lt;!--]--&gt;&lt;!--]--&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; — Falcon Perception is a &lt;strong&gt;0.6B-parameter&lt;/strong&gt; early-fusion Transformer for open-vocabulary grounding and segmentation from natural language prompts. The model processes &lt;strong&gt;image patches + text&lt;/strong&gt; in one sequence using a hybrid attention mask, and produces variable numbers of instances with a small, structured token interface and lightweight output heads. On &lt;strong&gt;SA-Co&lt;/strong&gt;, Falcon Perception reaches &lt;strong&gt;68.0 Macro-F1&lt;/strong&gt; (vs. &lt;strong&gt;62.3&lt;/strong&gt; for SAM 3) with the main remaining gap being presence calibration (MCC &lt;strong&gt;0.64&lt;/strong&gt; vs. &lt;strong&gt;0.82&lt;/strong&gt;). We also introduce &lt;strong&gt;PBench&lt;/strong&gt;, a diagnostic benchmark that breaks down performance by capability (attributes, OCR-guided disambiguation, spatial constraints, relations) and by dense long-context crowded scenes.
+&lt;p&gt;We also relase Falcon OCR, a &lt;strong&gt;0.3B-parameter&lt;/strong&gt; model which reaches a score of 80.3 and 88.6 on the olmOCR benchmark and OmniDocBench respectively, while having the highest throughput of any open source OCR model.&lt;/p&gt;
+&lt;p&gt;This post is a brief, practical write-up of what we built, why we built it this way, and what we learned along the way.&lt;/p&gt;
+&lt;p align="center"&gt;
+  &lt;img alt="Tech Report" src="https://img.shields.io/badge/arXiv-Tech%20Report-b31b1b?logo=arxiv&amp;amp;logoColor=white" /&gt;&amp;nbsp;&amp;nbsp;
+  &lt;img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-black?logo=github&amp;amp;logoColor=white" /&gt;&amp;nbsp;&amp;nbsp;
+  &lt;img alt="Playground" src="https://img.shields.io/badge/%F0%9F%9A%80-Playground-blue" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;
+  &amp;nbsp;&amp;nbsp;
+  &lt;img alt="PBench" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-PBench-orange" /&gt;&amp;nbsp;&amp;nbsp;
+  &lt;img alt="OCR Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OCR%20Model-orange" /&gt;&amp;nbsp;&amp;nbsp;
+  &lt;img alt="Perception Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Perception%20Model-orange" /&gt; 
+&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+		
+	
+	&lt;span&gt;
+		The problem: why do perception systems end up as pipelines?
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Many open-vocabulary perception systems are built as modular pipelines: a (often frozen) vision backbone extracts features, a separate fusion/decoder stage combines them with language, and additional components handle matching and post-processing. This family of designs works well in many settings, but it comes with trade-offs: it can be hard to scale cleanly, hard to attribute improvements to the right component, and easy to accumulate complexity as we add a new fix for each failure mode.&lt;/p&gt;
+&lt;p&gt;We asked a simpler question: &lt;strong&gt;can a single early-fusion Transformer backbone handle both perception and language modeling, if we choose the right attention pattern, output interface, and training signal?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In our experiments, the answer is largely yes. The rest of this post describes the main design choices and the evidence behind them.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		The architecture: early fusion, hybrid attention, and an efficient dense interface
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="falcon_inference" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/kRjlfyqAZxX2LDebkdMWf.gif" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+A single autoregressive Transformer processes a unified sequence of image patches, text, and task tokens.
+The model predicts object properties in a fixed order: &lt;code&gt;&amp;lt;coord&amp;gt;&lt;/code&gt; → &lt;code&gt;&amp;lt;size&amp;gt;&lt;/code&gt; → &lt;code&gt;&amp;lt;seg&amp;gt;&lt;/code&gt;.
+Bounding box coordinates and sizes are decoded via specialized heads and re-injected as Fourier features.
+High-resolution segmentation masks are generated by a dot product between the &lt;code&gt;&amp;lt;seg&amp;gt;&lt;/code&gt; token and upsampled image features.
+&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		One Backbone, Two Behaviors
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;At its core, Falcon Perception is a dense Transformer that processes image patches and text tokens in a &lt;strong&gt;shared parameter space from the first layer&lt;/strong&gt;. Instead of a separate vision backbone followed by a late-fusion decoder, we keep a single backbone and rely on masking and a lightweight output interface to make the dense prediction problem tractable.&lt;/p&gt;
+&lt;p&gt;Images and text have different structure: pixels are 2D and benefit from bidirectional context, while the prediction interface is naturally sequential. We address this with a &lt;strong&gt;hybrid attention mask&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Image tokens&lt;/strong&gt; attend to all other image tokens &lt;strong&gt;bidirectionally&lt;/strong&gt;, building a global visual context (like a vision encoder would).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Text and task tokens&lt;/strong&gt; attend &lt;strong&gt;causally&lt;/strong&gt; to everything before them — the full visual prefix plus preceding text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This allows the same backbone to behave like a bidirectional visual encoder on image tokens, while still supporting autoregressive prediction over task tokens.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Chain-of-Perception: coarse-to-fine supervision for dense outputs
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Dense perception is not a fixed-size prediction problem: an image may contain zero instances or hundreds. Autoregressive generation gives a clean variable-length interface, but fully autoregressive dense generation (e.g., polygons or high-resolution masks token-by-token) quickly becomes expensive.&lt;/p&gt;
+&lt;p&gt;We use a small structured interface, &lt;strong&gt;Chain-of-Perception&lt;/strong&gt;, which decomposes each instance into three steps:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;coord&amp;gt; → &amp;lt;size&amp;gt; → &amp;lt;seg&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Coordinate token&lt;/strong&gt;: The model first predicts the center of the instance — resolving &lt;em&gt;which&lt;/em&gt; object it's talking about.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Size token&lt;/strong&gt;: Then the spatial extent — resolving &lt;em&gt;how big&lt;/em&gt; it is.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Segmentation token&lt;/strong&gt;: Finally, a single embedding that, when dot-producted with upsampled image features, produces a full-resolution binary mask.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This ordering is deliberate. Committing to geometry first reduces ambiguity (“which instance?”), and makes the mask prediction step closer to pixel refinement conditioned on the resolved object.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Specialized Heads, Minimal Overhead
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;The backbone is shared, while decoding uses lightweight heads tailored to the output type:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Coordinate &amp;amp; Size Heads&lt;/strong&gt; use &lt;strong&gt;Fourier feature encoding&lt;/strong&gt; : mapping continuous coordinates through a random Gaussian projection into a high-dimensional sinusoidal space. This overcomes the spectral bias of neural networks, yielding more precise localization than discrete binning alone. Decoded coordinates are re-injected into the sequence as conditioning for subsequent tokens.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Segmentation Head&lt;/strong&gt; computes a &lt;strong&gt;dot product&lt;/strong&gt; between the &lt;code&gt;&amp;lt;seg&amp;gt;&lt;/code&gt; token’s hidden state and content-aware upsampled image features. Because the &lt;code&gt;&amp;lt;seg&amp;gt;&lt;/code&gt; token is produced after geometry and has access to early-fused visual context, we can avoid the separate mask-query machinery and Hungarian matching that often appears in decoder-based instance segmentation training.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		PBench: a benchmark designed to isolate what is missing
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Existing referring-expression benchmarks like RefCOCO are saturated — models routinely hit 90%+ — and they conflate &lt;em&gt;what went wrong&lt;/em&gt;. Did the model fail because it can't read text? Can't understand spatial relationships? Can't handle a crowd?&lt;/p&gt;
+&lt;p&gt;We introduce &lt;strong&gt;PBench&lt;/strong&gt;, a diagnostic benchmark that separates samples by the dominant capability required:&lt;/p&gt;
+&lt;div class="max-w-full overflow-auto"&gt;
+	&lt;table&gt;
+		&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Capability&lt;/th&gt;
+&lt;th&gt;Example Prompt&lt;/th&gt;
+&lt;/tr&gt;
+
+		&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L0&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Simple objects&lt;/td&gt;
+&lt;td&gt;"car"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Attributes &amp;amp; subtypes&lt;/td&gt;
+&lt;td&gt;"red car", "broken fence"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L2&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;OCR-guided identification&lt;/td&gt;
+&lt;td&gt;"Diet Coke bottle", "Nike shoes"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L3&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Spatial understanding&lt;/td&gt;
+&lt;td&gt;"car on the left", "third window from left"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L4&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Relations &amp;amp; interactions&lt;/td&gt;
+&lt;td&gt;"person holding umbrella", "tallest building"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Dense&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Crowdedness stress test&lt;/td&gt;
+&lt;td&gt;Hundreds of instances per image&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+	&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;Each sample targets &lt;strong&gt;one&lt;/strong&gt; dominant capability: OCR prompts avoid spatial qualifiers, and spatial prompts avoid in-image text disambiguators. This yields a capability &lt;em&gt;profile&lt;/em&gt; rather than a single opaque score, and makes it easier to decide where to invest next (data, training curriculum, or post-training).&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Training: distillation, large-scale data, and a three-stage recipe
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Multi-Teacher Distillation
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Rather than training from random weights (which in our ablations was unstable for segmentation), Falcon Perception initializes via &lt;strong&gt;multi-teacher distillation&lt;/strong&gt;. Two strong vision teachers contribute complementary signals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;DINOv3&lt;/strong&gt; (ViT-H): strong local features critical for segmentation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SigLIP2&lt;/strong&gt;: language-aligned features for open-vocabulary understanding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The distilled initialization achieves 74.25% zero-shot accuracy on ImageNet-1k and 85.11% linear-probe mIoU on Pascal VOC, providing a strong visual foundation before perception-specific training.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Data: 54M Images, 195M Positive Expressions, 488M Hard Negatives
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;We build the training set through a multi-stage pipeline:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Hierarchical clustering&lt;/strong&gt; of web-scraped images via DINOv3 embeddings to ensure uniform concept coverage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VLM-driven listing&lt;/strong&gt; generates dense object descriptions per image, categorized by PBench complexity level (60% basic, 40% advanced).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Negative mining&lt;/strong&gt; produces semantic, visual, and fine-grained hard negatives to combat hallucination.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ensemble consensus&lt;/strong&gt; — SAM 3, Qwen3-VL-30B, and Moondream3 must agree (IoU &amp;gt; 0.8) for automatic acceptance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human verification&lt;/strong&gt; — disagreements go to annotators, recovering hard samples that confuse automated systems.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We maintain a strict 1:1 ratio of positive to negative samples. This makes presence calibration a first-class target: the model should reliably say “absent,” not only draw masks when confident.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		The Three Stages (700 GT Total)
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Stage 1 — In-Context Listing (450 GT):&lt;/strong&gt; The model learns to autoregressively list scene inventories — predicting text expressions &lt;em&gt;and&lt;/em&gt; their locations. Full causal attention between queries enables learning of object co-occurrence ("fork, then knife, then plate"). This builds broad scene understanding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stage 2 — Task Alignment (225 GT):&lt;/strong&gt; The attention mask is modified so queries can no longer see each other, simulating independent queries at inference time. Loss on text tokens is masked, focusing gradient signal entirely on presence classification and localization. This stage transitions from "scene understanding" to "answer this specific question."&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stage 3 — Long-Context Finetuning (10 GT):&lt;/strong&gt; A short phase with the mask limit raised to 600 per expression and a minimal constant learning rate. This adapts the model for extreme crowd density without forgetting earlier capabilities.&lt;/p&gt;
+&lt;p&gt;Key design choices validated through ablations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Muon optimizer&lt;/strong&gt; for the specialized heads (vs. AdamW) — yields +4.8 points on SA-Co detection&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Raster ordering&lt;/strong&gt; of instances (vs. random/size) — +10 points over random ordering on SA-Co&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gram feature regularization&lt;/strong&gt; — prevents drift from the distillation features, improving segmentation by +1.5 points&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Global loss normalization&lt;/strong&gt; across ranks — corrects bias from variable-length packed sequences in FSDP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Results
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		SA-Co: Best-in-Class Mask Quality
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;On the SA-Co open-vocabulary segmentation benchmark, Falcon Perception (0.6B parameters) achieves &lt;strong&gt;68.0 Macro-F1&lt;/strong&gt;, compared to &lt;strong&gt;62.3&lt;/strong&gt; for SAM 3, with large gains on attribute-heavy (+8.2), food &amp;amp; drink (+12.2), and sports equipment (+4.0) splits. At the same time, Falcon Perception lags SAM 3 on presence calibration (MCC: 0.64 vs 0.82), which is the clearest remaining improvement axis.&lt;/p&gt;
+&lt;p&gt;Here's an example output — the prompt &lt;em&gt;"Falcon"&lt;/em&gt; produces precise instance masks:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="falcon_demo" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/j-o87vZqqd5cpIKUBDx76.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;Falcon Perception also performs well for reffering expressions, able to correctly segment the burger with a black bun in each frame of the video:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="burger_output" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/ud7aqaRaoRgpv2-PhEFdH.gif" /&gt;&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		PBench: Scaling with Prompt Complexity
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;This is where the early-fusion design shows the largest differences:&lt;/p&gt;
+&lt;div class="max-w-full overflow-auto"&gt;
+	&lt;table&gt;
+		&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Capability&lt;/th&gt;
+&lt;th&gt;SAM 3&lt;/th&gt;
+&lt;th&gt;Falcon Perception&lt;/th&gt;
+&lt;th&gt;Gap&lt;/th&gt;
+&lt;/tr&gt;
+
+		&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;L0: Simple objects&lt;/td&gt;
+&lt;td&gt;64.3&lt;/td&gt;
+&lt;td&gt;65.1&lt;/td&gt;
+&lt;td&gt;+0.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;L1: Attributes&lt;/td&gt;
+&lt;td&gt;54.4&lt;/td&gt;
+&lt;td&gt;63.6&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+9.2&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;L2: OCR-guided&lt;/td&gt;
+&lt;td&gt;24.6&lt;/td&gt;
+&lt;td&gt;38.0&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+13.4&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;L3: Spatial&lt;/td&gt;
+&lt;td&gt;31.6&lt;/td&gt;
+&lt;td&gt;53.5&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+21.9&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;L4: Relations&lt;/td&gt;
+&lt;td&gt;33.3&lt;/td&gt;
+&lt;td&gt;49.1&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+15.8&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dense&lt;/td&gt;
+&lt;td&gt;58.4&lt;/td&gt;
+&lt;td&gt;72.6&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+14.2&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+	&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;On simple objects, the gap is modest. As prompts become more compositional—requiring OCR-guided disambiguation, spatial constraints, or relational binding—the gap widens.&lt;/p&gt;
+&lt;p&gt;In our PBench Dense split, Falcon Perception (0.6B) substantially outperforms generalist VLM baselines (e.g., 72.6 vs 8.9 for Qwen3-VL-30B in our evaluation setup), and matches or exceeds the 8B model on spatial and relational tiers.&lt;/p&gt;
+&lt;h4 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Qualitative Results: OCR, Spatial, Relational, and Dense
+	&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p&gt;As prompts grow more compositional — requiring OCR-guided disambiguation, spatial constraints, relational binding, or scaling to hundreds of instances — the early-fusion advantage becomes visually clear:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OCR-Guided Grounding (Level 2): When the distinguishing signal is &lt;em&gt;text written on an object&lt;/em&gt;, Falcon Perception reads it correctly while SAM 3 cannot differentiate.&lt;/li&gt;
+&lt;li&gt;Spatial Understanding (Level 3): When prompts specify spatial relationships, Falcon Perception forms a coherent 2D scene map.&lt;/li&gt;
+&lt;li&gt;Relational Reasoning (Level 4): When the target is defined through &lt;em&gt;interactions&lt;/em&gt; rather than appearance, Falcon Perception understands the scene graph.&lt;/li&gt;
+&lt;li&gt;Dense Scenes: Scaling to Hundreds of Instances: The autoregressive interface is particularly useful when scenes are extremely crowded, where fixed-query decoders can run into practical limits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details name="pbench-qualitative" open="open"&gt;
+&lt;b&gt;Level 2 — OCR-Guided Grounding&lt;/b&gt;: Falcon Perception reads text on objects to disambiguate; SAM 3 cannot.
+&lt;p align="center"&gt;
+  &lt;img alt="Level 2: OCR-guided identification — Falcon Perception vs SAM 3" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/g8nNVl4fVj7iY4amf08OG.jpeg" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+"168 wine bottles": Falcon Perception identifies the bottles labeled "168",
+while SAM 3 highlights every bottle. "Honolulu direction sign": Falcon reads the text to find the right sign.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="pbench-qualitative"&gt;
+&lt;b&gt;Level 3 — Spatial Understanding&lt;/b&gt;: Falcon Perception resolves spatial constraints; SAM 3 returns false positives.
+&lt;p align="center"&gt;
+  &lt;img alt="Level 3: Spatial understanding — Falcon Perception vs SAM 3" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/pKsXHwy_MNVsh5Jt8Ot4P.jpeg" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+"Lower meat skewer on left grill," "black car to the right of red car at bottom,"
+"Belgian flag on the left" — Falcon Perception resolves the correct instance from spatial constraints.
+SAM 3 predicts false positives for multiple candidates.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="pbench-qualitative"&gt;
+&lt;b&gt;Level 4 — Relational Reasoning&lt;/b&gt;: Falcon Perception understands interactions; SAM 3 ignores relational constraints.
+&lt;p align="center"&gt;
+  &lt;img alt="Level 4: Relational reasoning — Falcon Perception vs SAM 3" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/b5Esoct3HyJaMqs3adYMS.jpeg" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+"Pastry next to brown round bread," "person using phone,"
+"person holding helmet in hand" — Falcon Perception identifies the interacting instance.
+SAM 3 highlights all instances of the object class, ignoring the relational constraint.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="pbench-qualitative"&gt;
+&lt;b&gt;Dense Scenes&lt;/b&gt;: Falcon Perception scales to hundreds of instances; SAM 3's decoder runs out of query tokens.
+&lt;p align="center"&gt;
+  &lt;img alt="Dense split: Falcon Perception scales to hundreds of instances" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/a2IQdGEF_dX2IHi-zqi1l.jpeg" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+"Snow goose," "pigeon," "colorful canned drinks" — Falcon Perception autoregressively
+segments hundreds of instances. SAM 3's fixed-size decoder runs out of query tokens beyond ~200 instances.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Falcon OCR: extending early fusion to document understanding
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Modern OCR has moved well beyond extracting text from clean scans. Today's systems must handle multi-column layouts, mathematical formulas, tables, charts, and multilingual content — all in one pass. Most competitive OCR VLMs tackle this with a familiar recipe: a vision encoder feeding a separate text decoder, plus task-specific glue. These systems work, but they tend to be large (1B–3B+ parameters).&lt;/p&gt;
+&lt;p&gt;We took a different path: &lt;strong&gt;reuse the same early-fusion dense Transformer&lt;/strong&gt; from Falcon Perception, but train a smaller &lt;strong&gt;0.3B-parameter&lt;/strong&gt; variant from scratch specifically for OCR. The result is &lt;strong&gt;Falcon OCR&lt;/strong&gt; — a single backbone that processes image patches and text tokens in a shared parameter space with the same hybrid attention mask (bidirectional for image tokens, causal for text tokens), and switches tasks through prompts rather than additional modules.&lt;/p&gt;
+&lt;p&gt;We trained from scratch (no multi-teacher distillation) because the visual features OCR needs — fine-grained glyph recognition, stroke-level discrimination — differ substantially from the object-level features useful for segmentation. Starting fresh lets the backbone develop text-optimized representations from the ground up.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Training
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;We train on a curated English-language mixture spanning three core tasks: general document text parsing (digital PDFs, old scans, typewritten documents), mathematical and scientific formula recognition, and table structure recognition. The mixture also includes handwriting, real-world scene text, and synthetic samples generated from rendered LaTeX and HTML sources. The training objective is pure next-token prediction on structured text outputs.&lt;/p&gt;
+&lt;p&gt;Training proceeds in two phases: a long &lt;strong&gt;pre-training&lt;/strong&gt; phase at constant learning rate where the model learns core OCR capabilities across all element types, followed by a short &lt;strong&gt;cosine-decay finetuning&lt;/strong&gt; phase where the learning rate is annealed to near zero.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Benchmark results
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;We evaluate on &lt;strong&gt;olmOCR&lt;/strong&gt; (binary correctness checks across diverse inputs) and &lt;strong&gt;OmniDocBench&lt;/strong&gt; (continuous metrics over full-page parses). All comparison models are significantly larger and/or use proprietary infrastructure. At 80.3% on olmOCR with only 0.3B parameters, Falcon OCR is within 1.7 points of the top system and leads all models on &lt;strong&gt;Multi-Column&lt;/strong&gt; (87.1%) and &lt;strong&gt;Tables&lt;/strong&gt; (90.3%). On OmniDocBench it scores 88.64 overall, ahead of DeepSeek OCR v2, GPT 5.2, and Mistral OCR 3.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Serving throughput
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;At 0.3B parameters, Falcon OCR is roughly &lt;strong&gt;3x smaller&lt;/strong&gt; than 0.9B-class OCR VLMs, which translates directly into higher serving throughput. Measured on a single A100-80GB with vLLM at high concurrency:&lt;/p&gt;
+&lt;div class="max-w-full overflow-auto"&gt;
+	&lt;table&gt;
+		&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Mode&lt;/th&gt;
+&lt;th align="right"&gt;tok/s&lt;/th&gt;
+&lt;th align="right"&gt;img/s&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+
+		&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Layout + OCR&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="right"&gt;5,825&lt;/td&gt;
+&lt;td align="right"&gt;2.9&lt;/td&gt;
+&lt;td&gt;Full pipeline: layout detection → crop → per-region OCR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+	&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;The compact footprint and vLLM integration (continuous batching, PagedAttention, optimized CUDA kernels) make it practical for large-scale document digitization where millions of pages need processing.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		What we see in the results
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;More broadly, these results suggest that the early-fusion single-stack Transformer is a viable alternative to the "vision encoder plus text decoder" recipe for OCR. One backbone, shared parameter space, one decoding interface, and better data and training signals rather than increasingly complex pipelines. We hope this encourages more work in this direction.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Qualitative examples
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Falcon OCR processes images captured under challenging real-world conditions with varying lighting, diverse text semantics (mathematical formulae, structured tables, handwritten notes), and complex document layouts, to produce structured text output. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Click each category below to expand&lt;/em&gt;.&lt;/p&gt;
+&lt;details name="ocr-qualitative" open="open"&gt;
+&lt;b&gt;Handwriting and Real-world Images&lt;/b&gt;: Accurate transcription of handwritten text and in-the-wild captures under adverse conditions.
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon OCR: handwriting and real-world image transcription" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/9FzYV6B7muOBLWgBhJxc6.png" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+Falcon OCR extracts text from handwritten documents and real-world photographs with variable lighting, orientation, and content complexity.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="ocr-qualitative"&gt;
+&lt;b&gt;Table Extraction&lt;/b&gt;: Faithful reproduction of tabular structure and cell content across diverse formats.
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon OCR: table extraction from documents" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/GIpPR4O_X28mZDlWgppOP.png" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+Falcon OCR accurately reproduces cell entries and structural layout from tables of varying formats and complexity.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="ocr-qualitative"&gt;
+&lt;b&gt;Mathematical Formulae&lt;/b&gt;: Accurate recognition of equations across varying levels of symbolic complexity.
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon OCR: mathematical formula recognition" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/8HdGXLkDyxoL9MY5vvNXt.png" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+Falcon OCR correctly transcribes mathematical expressions ranging from simple equations to multi-line derivations with nested operators.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="ocr-qualitative"&gt;
+&lt;b&gt;Complex Document Layouts&lt;/b&gt;: Faithful text extraction from multi-column, mixed-content documents.
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon OCR: complex document layout extraction" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/WFFoRItujaueVQ0G7U45O.png" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+Falcon OCR preserves reading order and structural fidelity when extracting text from documents with multi-column layouts, figures, and footnotes.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Inference: Fast, Practical, and Open
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;The release includes an inference stack built on &lt;strong&gt;PyTorch’s FlexAttention&lt;/strong&gt;, which makes it practical to express the custom attention patterns and efficiently serve packed variable-length sequences.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Paged Inference Engine
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paged KV cache&lt;/strong&gt; with virtual page tables (no wasted memory from padding)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous batching&lt;/strong&gt;: new sequences enter mid-generation, finished ones release pages immediately&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CUDA graph capture&lt;/strong&gt; for the decode loop&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background tokenization&lt;/strong&gt; overlapped with GPU compute&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HR feature cache&lt;/strong&gt;: LRU cache with pinned-memory buffers for async GPU-CPU transfer of upsampled image features — subsequent queries on the same image skip the expensive upsampling step&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In our setup on an H100, typical latencies are on the order of ~100ms prefill, ~200ms upsampling (0ms if cached), and ~50ms decode for a handful of instances. (These numbers depend on resolution, sequence length, and the number of predicted instances.)&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Docker and MLX Integration for Falcon-OCR
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;For the Falcon-OCR model, we also provide a vLLM docker server for fast deployment and MLX integration for Apple-Silicon &lt;/p&gt;
+&lt;p&gt;Please check out the github repo for details.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		The Bigger Picture: A "Bitter Lesson" for Perception
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Falcon Perception is intentionally minimal: one backbone, one objective family, and small heads only where outputs are continuous and dense. The working assumption is that &lt;strong&gt;most gains should come from data, compute, and training signals&lt;/strong&gt;, rather than continually expanding the pipeline with specialized modules.&lt;/p&gt;
+&lt;p&gt;The architecture doesn't block any obvious scaling path: add more images and harder prompts for better grounding, mix in text-only data for better language, increase context length for denser scenes. It's still just one sequence model.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Falcon Perception is developed by the Falcon Vision Team at the Technology Innovation Institute (TII), Abu Dhabi, UAE.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Citation
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;If you use Falcon-Perception, please cite&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@article{bevli2026falcon,
+  title   = {Falcon Perception},
+  author  = {Bevli, Aviraj and Chaybouti, Sofian and Dahou, Yasser and Hacid, Hakim and Huynh, Ngoc Dung and Le Khac, Phuc H. and Narayan, Sanath and Para, Wamiq Reyaz and Singh, Ankit},
+  journal = {arXiv preprint arXiv:2603.27365},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2603.27365}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!----&gt;</description><content:encoded>&lt;!----&gt; &lt;div class="not-prose mb-6 font-sans lg:hidden"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="flex flex-wrap items-center gap-2.5 pt-1  z-1 lg:sticky lg:top-8"&gt;&lt;!--[0--&gt;&lt;!--[0--&gt;&lt;!----&gt;&lt;!----&gt;&lt;!--]--&gt; &lt;!--[-1--&gt;&lt;!--]--&gt;&lt;!----&gt;&lt;!--]--&gt; &lt;!--[0--&gt;&lt;!--[0--&gt;&lt;ul class="flex items-center text-gray-600  flex-row  text-base   "&gt;&lt;!--[--&gt;&lt;li class="  -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800 " title="saarah-a"&gt;&lt;!--[0--&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://huggingface.co/avatars/5d43402788afb5da9904f008d5fb29bb.svg" /&gt;&lt;!--]--&gt;&lt;/li&gt;&lt;!--]--&gt; &lt;!--[0--&gt;&lt;li class="text-xs hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300 order-last ml-3"&gt;&lt;!--[--&gt;&lt;!--[-1--&gt;&lt;!--]--&gt;&lt;!--]--&gt;&lt;/li&gt;&lt;!--]--&gt;&lt;/ul&gt;&lt;!--]--&gt;&lt;!--]--&gt;&lt;/div&gt; &lt;dialog class="shadow-alternate z-40 mx-4 my-auto h-fit select-text overflow-hidden rounded-xl bg-white max-sm:max-w-[calc(100dvw-2rem)] sm:mx-auto lg:mt-26 md:portrait:mt-30 xl:mt-30 2xl:mt-32 w-full sm:w-96 max-w-[calc(100%-4rem)] text-base not-prose "&gt;&lt;/dialog&gt;&lt;!----&gt;&lt;!----&gt;&lt;/div&gt;&lt;/div&gt; &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon Logo" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/hmlmBPb4qb6y9gfxWOApE.png" width="640" /&gt;
+&lt;/p&gt;
+
+&lt;!--]--&gt;&lt;!--]--&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; — Falcon Perception is a &lt;strong&gt;0.6B-parameter&lt;/strong&gt; early-fusion Transformer for open-vocabulary grounding and segmentation from natural language prompts. The model processes &lt;strong&gt;image patches + text&lt;/strong&gt; in one sequence using a hybrid attention mask, and produces variable numbers of instances with a small, structured token interface and lightweight output heads. On &lt;strong&gt;SA-Co&lt;/strong&gt;, Falcon Perception reaches &lt;strong&gt;68.0 Macro-F1&lt;/strong&gt; (vs. &lt;strong&gt;62.3&lt;/strong&gt; for SAM 3) with the main remaining gap being presence calibration (MCC &lt;strong&gt;0.64&lt;/strong&gt; vs. &lt;strong&gt;0.82&lt;/strong&gt;). We also introduce &lt;strong&gt;PBench&lt;/strong&gt;, a diagnostic benchmark that breaks down performance by capability (attributes, OCR-guided disambiguation, spatial constraints, relations) and by dense long-context crowded scenes.
+&lt;p&gt;We also relase Falcon OCR, a &lt;strong&gt;0.3B-parameter&lt;/strong&gt; model which reaches a score of 80.3 and 88.6 on the olmOCR benchmark and OmniDocBench respectively, while having the highest throughput of any open source OCR model.&lt;/p&gt;
+&lt;p&gt;This post is a brief, practical write-up of what we built, why we built it this way, and what we learned along the way.&lt;/p&gt;
+&lt;p align="center"&gt;
+  &lt;img alt="Tech Report" src="https://img.shields.io/badge/arXiv-Tech%20Report-b31b1b?logo=arxiv&amp;amp;logoColor=white" /&gt;&amp;nbsp;&amp;nbsp;
+  &lt;img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-black?logo=github&amp;amp;logoColor=white" /&gt;&amp;nbsp;&amp;nbsp;
+  &lt;img alt="Playground" src="https://img.shields.io/badge/%F0%9F%9A%80-Playground-blue" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;
+  &amp;nbsp;&amp;nbsp;
+  &lt;img alt="PBench" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-PBench-orange" /&gt;&amp;nbsp;&amp;nbsp;
+  &lt;img alt="OCR Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OCR%20Model-orange" /&gt;&amp;nbsp;&amp;nbsp;
+  &lt;img alt="Perception Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Perception%20Model-orange" /&gt; 
+&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+		
+	
+	&lt;span&gt;
+		The problem: why do perception systems end up as pipelines?
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Many open-vocabulary perception systems are built as modular pipelines: a (often frozen) vision backbone extracts features, a separate fusion/decoder stage combines them with language, and additional components handle matching and post-processing. This family of designs works well in many settings, but it comes with trade-offs: it can be hard to scale cleanly, hard to attribute improvements to the right component, and easy to accumulate complexity as we add a new fix for each failure mode.&lt;/p&gt;
+&lt;p&gt;We asked a simpler question: &lt;strong&gt;can a single early-fusion Transformer backbone handle both perception and language modeling, if we choose the right attention pattern, output interface, and training signal?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In our experiments, the answer is largely yes. The rest of this post describes the main design choices and the evidence behind them.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		The architecture: early fusion, hybrid attention, and an efficient dense interface
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="falcon_inference" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/kRjlfyqAZxX2LDebkdMWf.gif" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+A single autoregressive Transformer processes a unified sequence of image patches, text, and task tokens.
+The model predicts object properties in a fixed order: &lt;code&gt;&amp;lt;coord&amp;gt;&lt;/code&gt; → &lt;code&gt;&amp;lt;size&amp;gt;&lt;/code&gt; → &lt;code&gt;&amp;lt;seg&amp;gt;&lt;/code&gt;.
+Bounding box coordinates and sizes are decoded via specialized heads and re-injected as Fourier features.
+High-resolution segmentation masks are generated by a dot product between the &lt;code&gt;&amp;lt;seg&amp;gt;&lt;/code&gt; token and upsampled image features.
+&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		One Backbone, Two Behaviors
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;At its core, Falcon Perception is a dense Transformer that processes image patches and text tokens in a &lt;strong&gt;shared parameter space from the first layer&lt;/strong&gt;. Instead of a separate vision backbone followed by a late-fusion decoder, we keep a single backbone and rely on masking and a lightweight output interface to make the dense prediction problem tractable.&lt;/p&gt;
+&lt;p&gt;Images and text have different structure: pixels are 2D and benefit from bidirectional context, while the prediction interface is naturally sequential. We address this with a &lt;strong&gt;hybrid attention mask&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Image tokens&lt;/strong&gt; attend to all other image tokens &lt;strong&gt;bidirectionally&lt;/strong&gt;, building a global visual context (like a vision encoder would).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Text and task tokens&lt;/strong&gt; attend &lt;strong&gt;causally&lt;/strong&gt; to everything before them — the full visual prefix plus preceding text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This allows the same backbone to behave like a bidirectional visual encoder on image tokens, while still supporting autoregressive prediction over task tokens.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Chain-of-Perception: coarse-to-fine supervision for dense outputs
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Dense perception is not a fixed-size prediction problem: an image may contain zero instances or hundreds. Autoregressive generation gives a clean variable-length interface, but fully autoregressive dense generation (e.g., polygons or high-resolution masks token-by-token) quickly becomes expensive.&lt;/p&gt;
+&lt;p&gt;We use a small structured interface, &lt;strong&gt;Chain-of-Perception&lt;/strong&gt;, which decomposes each instance into three steps:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;coord&amp;gt; → &amp;lt;size&amp;gt; → &amp;lt;seg&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Coordinate token&lt;/strong&gt;: The model first predicts the center of the instance — resolving &lt;em&gt;which&lt;/em&gt; object it's talking about.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Size token&lt;/strong&gt;: Then the spatial extent — resolving &lt;em&gt;how big&lt;/em&gt; it is.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Segmentation token&lt;/strong&gt;: Finally, a single embedding that, when dot-producted with upsampled image features, produces a full-resolution binary mask.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This ordering is deliberate. Committing to geometry first reduces ambiguity (“which instance?”), and makes the mask prediction step closer to pixel refinement conditioned on the resolved object.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Specialized Heads, Minimal Overhead
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;The backbone is shared, while decoding uses lightweight heads tailored to the output type:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Coordinate &amp;amp; Size Heads&lt;/strong&gt; use &lt;strong&gt;Fourier feature encoding&lt;/strong&gt; : mapping continuous coordinates through a random Gaussian projection into a high-dimensional sinusoidal space. This overcomes the spectral bias of neural networks, yielding more precise localization than discrete binning alone. Decoded coordinates are re-injected into the sequence as conditioning for subsequent tokens.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Segmentation Head&lt;/strong&gt; computes a &lt;strong&gt;dot product&lt;/strong&gt; between the &lt;code&gt;&amp;lt;seg&amp;gt;&lt;/code&gt; token’s hidden state and content-aware upsampled image features. Because the &lt;code&gt;&amp;lt;seg&amp;gt;&lt;/code&gt; token is produced after geometry and has access to early-fused visual context, we can avoid the separate mask-query machinery and Hungarian matching that often appears in decoder-based instance segmentation training.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		PBench: a benchmark designed to isolate what is missing
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Existing referring-expression benchmarks like RefCOCO are saturated — models routinely hit 90%+ — and they conflate &lt;em&gt;what went wrong&lt;/em&gt;. Did the model fail because it can't read text? Can't understand spatial relationships? Can't handle a crowd?&lt;/p&gt;
+&lt;p&gt;We introduce &lt;strong&gt;PBench&lt;/strong&gt;, a diagnostic benchmark that separates samples by the dominant capability required:&lt;/p&gt;
+&lt;div class="max-w-full overflow-auto"&gt;
+	&lt;table&gt;
+		&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Capability&lt;/th&gt;
+&lt;th&gt;Example Prompt&lt;/th&gt;
+&lt;/tr&gt;
+
+		&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L0&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Simple objects&lt;/td&gt;
+&lt;td&gt;"car"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Attributes &amp;amp; subtypes&lt;/td&gt;
+&lt;td&gt;"red car", "broken fence"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L2&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;OCR-guided identification&lt;/td&gt;
+&lt;td&gt;"Diet Coke bottle", "Nike shoes"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L3&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Spatial understanding&lt;/td&gt;
+&lt;td&gt;"car on the left", "third window from left"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L4&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Relations &amp;amp; interactions&lt;/td&gt;
+&lt;td&gt;"person holding umbrella", "tallest building"&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Dense&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Crowdedness stress test&lt;/td&gt;
+&lt;td&gt;Hundreds of instances per image&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+	&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;Each sample targets &lt;strong&gt;one&lt;/strong&gt; dominant capability: OCR prompts avoid spatial qualifiers, and spatial prompts avoid in-image text disambiguators. This yields a capability &lt;em&gt;profile&lt;/em&gt; rather than a single opaque score, and makes it easier to decide where to invest next (data, training curriculum, or post-training).&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Training: distillation, large-scale data, and a three-stage recipe
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Multi-Teacher Distillation
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Rather than training from random weights (which in our ablations was unstable for segmentation), Falcon Perception initializes via &lt;strong&gt;multi-teacher distillation&lt;/strong&gt;. Two strong vision teachers contribute complementary signals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;DINOv3&lt;/strong&gt; (ViT-H): strong local features critical for segmentation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SigLIP2&lt;/strong&gt;: language-aligned features for open-vocabulary understanding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The distilled initialization achieves 74.25% zero-shot accuracy on ImageNet-1k and 85.11% linear-probe mIoU on Pascal VOC, providing a strong visual foundation before perception-specific training.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Data: 54M Images, 195M Positive Expressions, 488M Hard Negatives
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;We build the training set through a multi-stage pipeline:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Hierarchical clustering&lt;/strong&gt; of web-scraped images via DINOv3 embeddings to ensure uniform concept coverage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VLM-driven listing&lt;/strong&gt; generates dense object descriptions per image, categorized by PBench complexity level (60% basic, 40% advanced).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Negative mining&lt;/strong&gt; produces semantic, visual, and fine-grained hard negatives to combat hallucination.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ensemble consensus&lt;/strong&gt; — SAM 3, Qwen3-VL-30B, and Moondream3 must agree (IoU &amp;gt; 0.8) for automatic acceptance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human verification&lt;/strong&gt; — disagreements go to annotators, recovering hard samples that confuse automated systems.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We maintain a strict 1:1 ratio of positive to negative samples. This makes presence calibration a first-class target: the model should reliably say “absent,” not only draw masks when confident.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		The Three Stages (700 GT Total)
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Stage 1 — In-Context Listing (450 GT):&lt;/strong&gt; The model learns to autoregressively list scene inventories — predicting text expressions &lt;em&gt;and&lt;/em&gt; their locations. Full causal attention between queries enables learning of object co-occurrence ("fork, then knife, then plate"). This builds broad scene understanding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stage 2 — Task Alignment (225 GT):&lt;/strong&gt; The attention mask is modified so queries can no longer see each other, simulating independent queries at inference time. Loss on text tokens is masked, focusing gradient signal entirely on presence classification and localization. This stage transitions from "scene understanding" to "answer this specific question."&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stage 3 — Long-Context Finetuning (10 GT):&lt;/strong&gt; A short phase with the mask limit raised to 600 per expression and a minimal constant learning rate. This adapts the model for extreme crowd density without forgetting earlier capabilities.&lt;/p&gt;
+&lt;p&gt;Key design choices validated through ablations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Muon optimizer&lt;/strong&gt; for the specialized heads (vs. AdamW) — yields +4.8 points on SA-Co detection&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Raster ordering&lt;/strong&gt; of instances (vs. random/size) — +10 points over random ordering on SA-Co&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gram feature regularization&lt;/strong&gt; — prevents drift from the distillation features, improving segmentation by +1.5 points&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Global loss normalization&lt;/strong&gt; across ranks — corrects bias from variable-length packed sequences in FSDP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Results
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		SA-Co: Best-in-Class Mask Quality
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;On the SA-Co open-vocabulary segmentation benchmark, Falcon Perception (0.6B parameters) achieves &lt;strong&gt;68.0 Macro-F1&lt;/strong&gt;, compared to &lt;strong&gt;62.3&lt;/strong&gt; for SAM 3, with large gains on attribute-heavy (+8.2), food &amp;amp; drink (+12.2), and sports equipment (+4.0) splits. At the same time, Falcon Perception lags SAM 3 on presence calibration (MCC: 0.64 vs 0.82), which is the clearest remaining improvement axis.&lt;/p&gt;
+&lt;p&gt;Here's an example output — the prompt &lt;em&gt;"Falcon"&lt;/em&gt; produces precise instance masks:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="falcon_demo" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/j-o87vZqqd5cpIKUBDx76.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;Falcon Perception also performs well for reffering expressions, able to correctly segment the burger with a black bun in each frame of the video:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="burger_output" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/ud7aqaRaoRgpv2-PhEFdH.gif" /&gt;&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		PBench: Scaling with Prompt Complexity
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;This is where the early-fusion design shows the largest differences:&lt;/p&gt;
+&lt;div class="max-w-full overflow-auto"&gt;
+	&lt;table&gt;
+		&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Capability&lt;/th&gt;
+&lt;th&gt;SAM 3&lt;/th&gt;
+&lt;th&gt;Falcon Perception&lt;/th&gt;
+&lt;th&gt;Gap&lt;/th&gt;
+&lt;/tr&gt;
+
+		&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;L0: Simple objects&lt;/td&gt;
+&lt;td&gt;64.3&lt;/td&gt;
+&lt;td&gt;65.1&lt;/td&gt;
+&lt;td&gt;+0.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;L1: Attributes&lt;/td&gt;
+&lt;td&gt;54.4&lt;/td&gt;
+&lt;td&gt;63.6&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+9.2&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;L2: OCR-guided&lt;/td&gt;
+&lt;td&gt;24.6&lt;/td&gt;
+&lt;td&gt;38.0&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+13.4&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;L3: Spatial&lt;/td&gt;
+&lt;td&gt;31.6&lt;/td&gt;
+&lt;td&gt;53.5&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+21.9&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;L4: Relations&lt;/td&gt;
+&lt;td&gt;33.3&lt;/td&gt;
+&lt;td&gt;49.1&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+15.8&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dense&lt;/td&gt;
+&lt;td&gt;58.4&lt;/td&gt;
+&lt;td&gt;72.6&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;+14.2&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+	&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;On simple objects, the gap is modest. As prompts become more compositional—requiring OCR-guided disambiguation, spatial constraints, or relational binding—the gap widens.&lt;/p&gt;
+&lt;p&gt;In our PBench Dense split, Falcon Perception (0.6B) substantially outperforms generalist VLM baselines (e.g., 72.6 vs 8.9 for Qwen3-VL-30B in our evaluation setup), and matches or exceeds the 8B model on spatial and relational tiers.&lt;/p&gt;
+&lt;h4 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Qualitative Results: OCR, Spatial, Relational, and Dense
+	&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p&gt;As prompts grow more compositional — requiring OCR-guided disambiguation, spatial constraints, relational binding, or scaling to hundreds of instances — the early-fusion advantage becomes visually clear:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OCR-Guided Grounding (Level 2): When the distinguishing signal is &lt;em&gt;text written on an object&lt;/em&gt;, Falcon Perception reads it correctly while SAM 3 cannot differentiate.&lt;/li&gt;
+&lt;li&gt;Spatial Understanding (Level 3): When prompts specify spatial relationships, Falcon Perception forms a coherent 2D scene map.&lt;/li&gt;
+&lt;li&gt;Relational Reasoning (Level 4): When the target is defined through &lt;em&gt;interactions&lt;/em&gt; rather than appearance, Falcon Perception understands the scene graph.&lt;/li&gt;
+&lt;li&gt;Dense Scenes: Scaling to Hundreds of Instances: The autoregressive interface is particularly useful when scenes are extremely crowded, where fixed-query decoders can run into practical limits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details name="pbench-qualitative" open="open"&gt;
+&lt;b&gt;Level 2 — OCR-Guided Grounding&lt;/b&gt;: Falcon Perception reads text on objects to disambiguate; SAM 3 cannot.
+&lt;p align="center"&gt;
+  &lt;img alt="Level 2: OCR-guided identification — Falcon Perception vs SAM 3" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/g8nNVl4fVj7iY4amf08OG.jpeg" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+"168 wine bottles": Falcon Perception identifies the bottles labeled "168",
+while SAM 3 highlights every bottle. "Honolulu direction sign": Falcon reads the text to find the right sign.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="pbench-qualitative"&gt;
+&lt;b&gt;Level 3 — Spatial Understanding&lt;/b&gt;: Falcon Perception resolves spatial constraints; SAM 3 returns false positives.
+&lt;p align="center"&gt;
+  &lt;img alt="Level 3: Spatial understanding — Falcon Perception vs SAM 3" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/pKsXHwy_MNVsh5Jt8Ot4P.jpeg" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+"Lower meat skewer on left grill," "black car to the right of red car at bottom,"
+"Belgian flag on the left" — Falcon Perception resolves the correct instance from spatial constraints.
+SAM 3 predicts false positives for multiple candidates.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="pbench-qualitative"&gt;
+&lt;b&gt;Level 4 — Relational Reasoning&lt;/b&gt;: Falcon Perception understands interactions; SAM 3 ignores relational constraints.
+&lt;p align="center"&gt;
+  &lt;img alt="Level 4: Relational reasoning — Falcon Perception vs SAM 3" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/b5Esoct3HyJaMqs3adYMS.jpeg" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+"Pastry next to brown round bread," "person using phone,"
+"person holding helmet in hand" — Falcon Perception identifies the interacting instance.
+SAM 3 highlights all instances of the object class, ignoring the relational constraint.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="pbench-qualitative"&gt;
+&lt;b&gt;Dense Scenes&lt;/b&gt;: Falcon Perception scales to hundreds of instances; SAM 3's decoder runs out of query tokens.
+&lt;p align="center"&gt;
+  &lt;img alt="Dense split: Falcon Perception scales to hundreds of instances" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/a2IQdGEF_dX2IHi-zqi1l.jpeg" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+"Snow goose," "pigeon," "colorful canned drinks" — Falcon Perception autoregressively
+segments hundreds of instances. SAM 3's fixed-size decoder runs out of query tokens beyond ~200 instances.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Falcon OCR: extending early fusion to document understanding
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Modern OCR has moved well beyond extracting text from clean scans. Today's systems must handle multi-column layouts, mathematical formulas, tables, charts, and multilingual content — all in one pass. Most competitive OCR VLMs tackle this with a familiar recipe: a vision encoder feeding a separate text decoder, plus task-specific glue. These systems work, but they tend to be large (1B–3B+ parameters).&lt;/p&gt;
+&lt;p&gt;We took a different path: &lt;strong&gt;reuse the same early-fusion dense Transformer&lt;/strong&gt; from Falcon Perception, but train a smaller &lt;strong&gt;0.3B-parameter&lt;/strong&gt; variant from scratch specifically for OCR. The result is &lt;strong&gt;Falcon OCR&lt;/strong&gt; — a single backbone that processes image patches and text tokens in a shared parameter space with the same hybrid attention mask (bidirectional for image tokens, causal for text tokens), and switches tasks through prompts rather than additional modules.&lt;/p&gt;
+&lt;p&gt;We trained from scratch (no multi-teacher distillation) because the visual features OCR needs — fine-grained glyph recognition, stroke-level discrimination — differ substantially from the object-level features useful for segmentation. Starting fresh lets the backbone develop text-optimized representations from the ground up.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Training
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;We train on a curated English-language mixture spanning three core tasks: general document text parsing (digital PDFs, old scans, typewritten documents), mathematical and scientific formula recognition, and table structure recognition. The mixture also includes handwriting, real-world scene text, and synthetic samples generated from rendered LaTeX and HTML sources. The training objective is pure next-token prediction on structured text outputs.&lt;/p&gt;
+&lt;p&gt;Training proceeds in two phases: a long &lt;strong&gt;pre-training&lt;/strong&gt; phase at constant learning rate where the model learns core OCR capabilities across all element types, followed by a short &lt;strong&gt;cosine-decay finetuning&lt;/strong&gt; phase where the learning rate is annealed to near zero.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Benchmark results
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;We evaluate on &lt;strong&gt;olmOCR&lt;/strong&gt; (binary correctness checks across diverse inputs) and &lt;strong&gt;OmniDocBench&lt;/strong&gt; (continuous metrics over full-page parses). All comparison models are significantly larger and/or use proprietary infrastructure. At 80.3% on olmOCR with only 0.3B parameters, Falcon OCR is within 1.7 points of the top system and leads all models on &lt;strong&gt;Multi-Column&lt;/strong&gt; (87.1%) and &lt;strong&gt;Tables&lt;/strong&gt; (90.3%). On OmniDocBench it scores 88.64 overall, ahead of DeepSeek OCR v2, GPT 5.2, and Mistral OCR 3.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Serving throughput
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;At 0.3B parameters, Falcon OCR is roughly &lt;strong&gt;3x smaller&lt;/strong&gt; than 0.9B-class OCR VLMs, which translates directly into higher serving throughput. Measured on a single A100-80GB with vLLM at high concurrency:&lt;/p&gt;
+&lt;div class="max-w-full overflow-auto"&gt;
+	&lt;table&gt;
+		&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Mode&lt;/th&gt;
+&lt;th align="right"&gt;tok/s&lt;/th&gt;
+&lt;th align="right"&gt;img/s&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+
+		&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Layout + OCR&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="right"&gt;5,825&lt;/td&gt;
+&lt;td align="right"&gt;2.9&lt;/td&gt;
+&lt;td&gt;Full pipeline: layout detection → crop → per-region OCR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+	&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;The compact footprint and vLLM integration (continuous batching, PagedAttention, optimized CUDA kernels) make it practical for large-scale document digitization where millions of pages need processing.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		What we see in the results
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;More broadly, these results suggest that the early-fusion single-stack Transformer is a viable alternative to the "vision encoder plus text decoder" recipe for OCR. One backbone, shared parameter space, one decoding interface, and better data and training signals rather than increasingly complex pipelines. We hope this encourages more work in this direction.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Qualitative examples
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Falcon OCR processes images captured under challenging real-world conditions with varying lighting, diverse text semantics (mathematical formulae, structured tables, handwritten notes), and complex document layouts, to produce structured text output. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Click each category below to expand&lt;/em&gt;.&lt;/p&gt;
+&lt;details name="ocr-qualitative" open="open"&gt;
+&lt;b&gt;Handwriting and Real-world Images&lt;/b&gt;: Accurate transcription of handwritten text and in-the-wild captures under adverse conditions.
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon OCR: handwriting and real-world image transcription" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/9FzYV6B7muOBLWgBhJxc6.png" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+Falcon OCR extracts text from handwritten documents and real-world photographs with variable lighting, orientation, and content complexity.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="ocr-qualitative"&gt;
+&lt;b&gt;Table Extraction&lt;/b&gt;: Faithful reproduction of tabular structure and cell content across diverse formats.
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon OCR: table extraction from documents" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/GIpPR4O_X28mZDlWgppOP.png" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+Falcon OCR accurately reproduces cell entries and structural layout from tables of varying formats and complexity.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="ocr-qualitative"&gt;
+&lt;b&gt;Mathematical Formulae&lt;/b&gt;: Accurate recognition of equations across varying levels of symbolic complexity.
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon OCR: mathematical formula recognition" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/8HdGXLkDyxoL9MY5vvNXt.png" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+Falcon OCR correctly transcribes mathematical expressions ranging from simple equations to multi-line derivations with nested operators.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;details name="ocr-qualitative"&gt;
+&lt;b&gt;Complex Document Layouts&lt;/b&gt;: Faithful text extraction from multi-column, mixed-content documents.
+&lt;p align="center"&gt;
+  &lt;img alt="Falcon OCR: complex document layout extraction" src="https://cdn-uploads.huggingface.co/production/uploads/69c985bf83862cf48855c45d/WFFoRItujaueVQ0G7U45O.png" width="85%" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;em&gt;
+Falcon OCR preserves reading order and structural fidelity when extracting text from documents with multi-column layouts, figures, and footnotes.
+&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Inference: Fast, Practical, and Open
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;The release includes an inference stack built on &lt;strong&gt;PyTorch’s FlexAttention&lt;/strong&gt;, which makes it practical to express the custom attention patterns and efficiently serve packed variable-length sequences.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Paged Inference Engine
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paged KV cache&lt;/strong&gt; with virtual page tables (no wasted memory from padding)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous batching&lt;/strong&gt;: new sequences enter mid-generation, finished ones release pages immediately&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CUDA graph capture&lt;/strong&gt; for the decode loop&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background tokenization&lt;/strong&gt; overlapped with GPU compute&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HR feature cache&lt;/strong&gt;: LRU cache with pinned-memory buffers for async GPU-CPU transfer of upsampled image features — subsequent queries on the same image skip the expensive upsampling step&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In our setup on an H100, typical latencies are on the order of ~100ms prefill, ~200ms upsampling (0ms if cached), and ~50ms decode for a handful of instances. (These numbers depend on resolution, sequence length, and the number of predicted instances.)&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Docker and MLX Integration for Falcon-OCR
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;For the Falcon-OCR model, we also provide a vLLM docker server for fast deployment and MLX integration for Apple-Silicon &lt;/p&gt;
+&lt;p&gt;Please check out the github repo for details.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		The Bigger Picture: A "Bitter Lesson" for Perception
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Falcon Perception is intentionally minimal: one backbone, one objective family, and small heads only where outputs are continuous and dense. The working assumption is that &lt;strong&gt;most gains should come from data, compute, and training signals&lt;/strong&gt;, rather than continually expanding the pipeline with specialized modules.&lt;/p&gt;
+&lt;p&gt;The architecture doesn't block any obvious scaling path: add more images and harder prompts for better grounding, mix in text-only data for better language, increase context length for denser scenes. It's still just one sequence model.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Falcon Perception is developed by the Falcon Vision Team at the Technology Innovation Institute (TII), Abu Dhabi, UAE.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Citation
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;If you use Falcon-Perception, please cite&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@article{bevli2026falcon,
+  title   = {Falcon Perception},
+  author  = {Bevli, Aviraj and Chaybouti, Sofian and Dahou, Yasser and Hacid, Hakim and Huynh, Ngoc Dung and Le Khac, Phuc H. and Narayan, Sanath and Para, Wamiq Reyaz and Singh, Ankit},
+  journal = {arXiv preprint arXiv:2603.27365},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2603.27365}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!----&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/tiiuae/falcon-perception</guid><pubDate>Wed, 01 Apr 2026 07:13:20 +0000</pubDate></item></channel></rss>
