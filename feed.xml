@@ -1,187 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 05 Apr 2026 18:49:40 +0000</lastBuildDate><item><title>[NEW] In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Physical AI is emerging as one of the next major industrial battlegrounds, with Japan’s push driven more by necessity than anything else. With workforces shrinking and pressure mounting to sustain productivity, companies are increasingly deploying AI-powered robots across factories, warehouses, and critical infrastructure. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan’s Ministry of Economy, Trade and Industry said in March 2026 that it aims to build a domestic physical AI sector and capture a 30% share of the global market by 2040. The country already holds a strong position in industrial robotics, with Japanese manufacturers accounting for about 70% of the global market in 2022, according to the ministry.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Based on conversations with investors and industry executives, TechCrunch explored what’s driving that shift, how Japan’s approach differs from the U.S. and China, and where value is likely to emerge as the technology matures. &lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-driven-by-labor-shortages-nbsp"&gt;&lt;strong&gt;Driven by labor shortages &amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Several factors are driving adoption in Japan, including cultural acceptance of robotics, labor shortages driven by demographic pressures, and deep industrial strength in mechatronics and hardware supply chains, Woven Capital managing director Ro Gupta told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Physical AI is being bought as a continuity tool: how do you keep factories, warehouses, infrastructure, and service operations running with fewer people?” Hogil Doh, Global Brain general partner, also said. “From what I’m seeing, labor shortages are the primary driver.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan’s demographic crunch is accelerating. The population declined for a 14th straight year in 2024; those of working age make up just to 59.6% of the total, a share projected to shrink by nearly 15 million over the next 20 years, Doh pointed out. It’s already reshaping how companies operate: a 2024 Reuters/Nikkei survey found labor shortages are the main force pushing Japanese firms to adopt AI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The driver has shifted from simple efficiency to industrial survival,” Sho Yamanaka, a principal with Salesforce Ventures, said in an interview with TechCrunch. “Japan faces a physical supply constraint where essential services cannot be sustained due to a lack of labor. Given the shrinking working-age population, physical AI is a matter of national urgency to maintain industrial standards and social services.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan is stepping up efforts to advance automation across manufacturing and logistics, according to Mujin CEO and co-founder Issei Takino. The government has been promoting automation to address structural challenges such as labor shortages. Mujin, a Japanese company, has built software that lets industrial robots handle picking and logistics tasks autonomously. Mujin’s approach centers on software — specifically robotics control platforms — that allows existing hardware to perform more autonomously and efficiently, Takino said.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-hardware-strength-system-risk"&gt;&lt;strong&gt;Hardware strength, system risk&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Where Japan has historically excelled is in the physical building blocks of robotics. Whether that advantage translates into the AI era is a more open question. The country continues to demonstrate strength in core robotics components such as actuators, sensors and control systems, according to Japan-based venture capitalists, while the U.S. and China are moving more quickly to develop full-stack systems that integrate hardware, software and data.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Japan’s expertise in high-precision components – the critical physical interface between AI and the real world – is a strategic moat,” Yamanaka said. “Controlling this touchpoint provides a significant competitive advantage in the global supply chain. The current priority is to accelerate system-level optimization by integrating AI models deeply with this hardware.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Hardware capabilities are strongest in China and Japan, with Japan particularly strong in robot motion control, while the U.S. leads in the service layer and market development, Takino said. Historically, many U.S. companies have leveraged their software strengths to build integrated businesses – similar to Apple – pairing strong software platforms with high-quality hardware sourced from Asia. However, this model may not fully translate to the emerging world of physical AI, Takino said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“In robotics, and especially in Physical AI, it is critical to have a deep understanding of the physical characteristics of hardware,” Takino said. “This requires not only software capabilities, but also highly specialized control technologies, which take significant time to develop and involve high costs of failure.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;WHILL, a Tokyo- and San Francisco-based startup that makes autonomous personal mobility vehicles, is drawing on Japan’s “monozukuri,” or craftsmanship heritage, as it takes a broader, full-stack approach to global expansion, CEO Satoshi Sugie told TechCrunch. The company has developed an integrated platform combining electric vehicles, onboard sensors, navigation systems and cloud-based fleet management for short-distance and autonomous transport. The company is leveraging both Japan and the U.S. for development, using Japan to refine hardware and address aging population needs, and the U.S. to accelerate software development and test large-scale commercial models, Sugie noted.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-from-pilots-to-real-world-deployment"&gt;&lt;strong&gt;From pilots to real-world deployment&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The government is putting money behind the push. Under Prime Minister Sanae Takaichi, Japan has committed about $6.3 billion to strengthen core AI capabilities, advance robotics integration and support industrial deployment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The shift from experimentation to real deployment is already underway. Industrial automation remains the most advanced segment, with Japan installing tens of thousands of robots each year, particularly in the automotive sector. Newer applications are also beginning to gain traction, Doh said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The signal is simple – customer-paid deployments rather than vendor-funded trials, reliable operation across full shifts, and measurable performance metrics such as uptime, human intervention rates and productivity impact,” Doh said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In logistics, companies are deploying automated forklifts and warehouse systems, while in facilities management, inspection robots are being used in data centers and industrial sites. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Companies like SoftBank are already applying physical AI in practice, combining vision-language models with real-time control systems to enable robots to interpret environments and execute complex tasks autonomously.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In defense, where autonomous systems are becoming foundational, competitiveness will depend not just on platforms but on operational intelligence powered by physical AI, Terra Drone CEO Toru Tokushige told TechCrunch. Tokushige added that by combining operational data with AI, Terra Drone is working to enable autonomous systems to function reliably in real-world environments and support the advancement of Japan’s defense infrastructure.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Investment is shifting beyond hardware, with companies allocating more capital to orchestration software, digital twins, simulation tools and integration platforms, according to investors and industry sources.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-the-rise-of-hybrid-ecosystems"&gt;&lt;strong&gt;The rise of hybrid ecosystems&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan’s physical AI ecosystem is also evolving in ways that differ from traditional tech disruption models. Rather than a winner-take-all dynamic, industry participants expect a hybrid model, with established companies providing scale and reliability, while startups drive innovation in software and system design.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Large incumbents, including Toyota Motor Corporation, Mitsubishi Electric, and Honda Motor, retain significant advantages in manufacturing scale, customer relationships, and deployment capabilities. But startups are carving out critical roles in emerging areas such as orchestration software, perception systems, and workflow automation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The relationship between startups and established corporations is a mutually complementary ecosystem,” Yamanaka said. “Robotics requires heavy hardware development, deep operational know-how, and significant capital expenditure. By fusing the vast assets and domain expertise of major corporations with the disruptive innovation of startups, the industry can strengthen its collective global competitiveness.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan’s defense ecosystem is also shifting away from dominance by large corporations toward greater collaboration with startups, the Terra Drone CEO said. Large companies remain focused on platforms, scale and integration, while startups are driving development in smaller systems, software and operations, with speed and adaptability becoming key competitive factors.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Companies like Mujin are developing platforms that sit above hardware, enabling multi-vendor automation and faster deployment across industries. Others, including Terra Drone, are applying similar approaches to autonomous systems, combining AI and operational data to support real-world applications at scale.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The most defensible value will sit with whoever owns deployment, integration, and continuous improvement,” Doh said.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Physical AI is emerging as one of the next major industrial battlegrounds, with Japan’s push driven more by necessity than anything else. With workforces shrinking and pressure mounting to sustain productivity, companies are increasingly deploying AI-powered robots across factories, warehouses, and critical infrastructure. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan’s Ministry of Economy, Trade and Industry said in March 2026 that it aims to build a domestic physical AI sector and capture a 30% share of the global market by 2040. The country already holds a strong position in industrial robotics, with Japanese manufacturers accounting for about 70% of the global market in 2022, according to the ministry.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Based on conversations with investors and industry executives, TechCrunch explored what’s driving that shift, how Japan’s approach differs from the U.S. and China, and where value is likely to emerge as the technology matures. &lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-driven-by-labor-shortages-nbsp"&gt;&lt;strong&gt;Driven by labor shortages &amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Several factors are driving adoption in Japan, including cultural acceptance of robotics, labor shortages driven by demographic pressures, and deep industrial strength in mechatronics and hardware supply chains, Woven Capital managing director Ro Gupta told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Physical AI is being bought as a continuity tool: how do you keep factories, warehouses, infrastructure, and service operations running with fewer people?” Hogil Doh, Global Brain general partner, also said. “From what I’m seeing, labor shortages are the primary driver.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan’s demographic crunch is accelerating. The population declined for a 14th straight year in 2024; those of working age make up just to 59.6% of the total, a share projected to shrink by nearly 15 million over the next 20 years, Doh pointed out. It’s already reshaping how companies operate: a 2024 Reuters/Nikkei survey found labor shortages are the main force pushing Japanese firms to adopt AI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The driver has shifted from simple efficiency to industrial survival,” Sho Yamanaka, a principal with Salesforce Ventures, said in an interview with TechCrunch. “Japan faces a physical supply constraint where essential services cannot be sustained due to a lack of labor. Given the shrinking working-age population, physical AI is a matter of national urgency to maintain industrial standards and social services.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan is stepping up efforts to advance automation across manufacturing and logistics, according to Mujin CEO and co-founder Issei Takino. The government has been promoting automation to address structural challenges such as labor shortages. Mujin, a Japanese company, has built software that lets industrial robots handle picking and logistics tasks autonomously. Mujin’s approach centers on software — specifically robotics control platforms — that allows existing hardware to perform more autonomously and efficiently, Takino said.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-hardware-strength-system-risk"&gt;&lt;strong&gt;Hardware strength, system risk&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Where Japan has historically excelled is in the physical building blocks of robotics. Whether that advantage translates into the AI era is a more open question. The country continues to demonstrate strength in core robotics components such as actuators, sensors and control systems, according to Japan-based venture capitalists, while the U.S. and China are moving more quickly to develop full-stack systems that integrate hardware, software and data.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Japan’s expertise in high-precision components – the critical physical interface between AI and the real world – is a strategic moat,” Yamanaka said. “Controlling this touchpoint provides a significant competitive advantage in the global supply chain. The current priority is to accelerate system-level optimization by integrating AI models deeply with this hardware.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Hardware capabilities are strongest in China and Japan, with Japan particularly strong in robot motion control, while the U.S. leads in the service layer and market development, Takino said. Historically, many U.S. companies have leveraged their software strengths to build integrated businesses – similar to Apple – pairing strong software platforms with high-quality hardware sourced from Asia. However, this model may not fully translate to the emerging world of physical AI, Takino said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“In robotics, and especially in Physical AI, it is critical to have a deep understanding of the physical characteristics of hardware,” Takino said. “This requires not only software capabilities, but also highly specialized control technologies, which take significant time to develop and involve high costs of failure.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;WHILL, a Tokyo- and San Francisco-based startup that makes autonomous personal mobility vehicles, is drawing on Japan’s “monozukuri,” or craftsmanship heritage, as it takes a broader, full-stack approach to global expansion, CEO Satoshi Sugie told TechCrunch. The company has developed an integrated platform combining electric vehicles, onboard sensors, navigation systems and cloud-based fleet management for short-distance and autonomous transport. The company is leveraging both Japan and the U.S. for development, using Japan to refine hardware and address aging population needs, and the U.S. to accelerate software development and test large-scale commercial models, Sugie noted.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-from-pilots-to-real-world-deployment"&gt;&lt;strong&gt;From pilots to real-world deployment&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The government is putting money behind the push. Under Prime Minister Sanae Takaichi, Japan has committed about $6.3 billion to strengthen core AI capabilities, advance robotics integration and support industrial deployment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The shift from experimentation to real deployment is already underway. Industrial automation remains the most advanced segment, with Japan installing tens of thousands of robots each year, particularly in the automotive sector. Newer applications are also beginning to gain traction, Doh said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The signal is simple – customer-paid deployments rather than vendor-funded trials, reliable operation across full shifts, and measurable performance metrics such as uptime, human intervention rates and productivity impact,” Doh said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In logistics, companies are deploying automated forklifts and warehouse systems, while in facilities management, inspection robots are being used in data centers and industrial sites. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Companies like SoftBank are already applying physical AI in practice, combining vision-language models with real-time control systems to enable robots to interpret environments and execute complex tasks autonomously.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In defense, where autonomous systems are becoming foundational, competitiveness will depend not just on platforms but on operational intelligence powered by physical AI, Terra Drone CEO Toru Tokushige told TechCrunch. Tokushige added that by combining operational data with AI, Terra Drone is working to enable autonomous systems to function reliably in real-world environments and support the advancement of Japan’s defense infrastructure.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Investment is shifting beyond hardware, with companies allocating more capital to orchestration software, digital twins, simulation tools and integration platforms, according to investors and industry sources.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-the-rise-of-hybrid-ecosystems"&gt;&lt;strong&gt;The rise of hybrid ecosystems&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan’s physical AI ecosystem is also evolving in ways that differ from traditional tech disruption models. Rather than a winner-take-all dynamic, industry participants expect a hybrid model, with established companies providing scale and reliability, while startups drive innovation in software and system design.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Large incumbents, including Toyota Motor Corporation, Mitsubishi Electric, and Honda Motor, retain significant advantages in manufacturing scale, customer relationships, and deployment capabilities. But startups are carving out critical roles in emerging areas such as orchestration software, perception systems, and workflow automation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The relationship between startups and established corporations is a mutually complementary ecosystem,” Yamanaka said. “Robotics requires heavy hardware development, deep operational know-how, and significant capital expenditure. By fusing the vast assets and domain expertise of major corporations with the disruptive innovation of startups, the industry can strengthen its collective global competitiveness.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Japan’s defense ecosystem is also shifting away from dominance by large corporations toward greater collaboration with startups, the Terra Drone CEO said. Large companies remain focused on platforms, scale and integration, while startups are driving development in smaller systems, software and operations, with speed and adaptability becoming key competitive factors.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Companies like Mujin are developing platforms that sit above hardware, enabling multi-vendor automation and faster deployment across industries. Others, including Terra Drone, are applying similar approaches to autonomous systems, combining AI and operational data to support real-world applications at scale.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The most defensible value will sit with whoever owns deployment, integration, and continuous improvement,” Doh said.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/</guid><pubDate>Sun, 05 Apr 2026 14:00:00 +0000</pubDate></item><item><title>[NEW] Can orbital data centers help justify a massive valuation for SpaceX? (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;figure class="wp-block-embed is-type-wp-embed is-provider-megaphone wp-block-embed-megaphone"&gt;&lt;/figure&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 06 Apr 2026 02:46:19 +0000</lastBuildDate><item><title>Can orbital data centers help justify a massive valuation for SpaceX? (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;figure class="wp-block-embed is-type-wp-embed is-provider-megaphone wp-block-embed-megaphone"&gt;&lt;/figure&gt;
 
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;SpaceX has reportedly filed confidential paperwork for an initial public offering in which the company would raise $75 billion at a $1.75 trillion valuation. And according to CEO Elon Musk, orbital data centers will be a big part of SpaceX’s future.&lt;/p&gt;
 
@@ -339,4 +157,36 @@
 
 
 &lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
-&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/</guid><pubDate>Sun, 05 Apr 2026 15:40:58 +0000</pubDate></item></channel></rss>
+&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/</guid><pubDate>Sun, 05 Apr 2026 15:40:58 +0000</pubDate></item><item><title>[NEW] Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Take Microsoft, which is currently focused on getting corporate customers to pay for Copilot. But it’s also been getting dinged on social media over Copilot’s terms of use, which appear to have been last updated on October 24, 2025.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Copilot is for entertainment purposes only,” the company warned. “It can make mistakes, and it may not work as intended. Don’t rely on Copilot for important advice. Use Copilot at your own risk.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A Microsoft spokesperson told PCMag that the company will be updating what they described as “legacy language.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“As the product has evolved, that language is no longer reflective of how Copilot is used today and will be altered with our next update,” the spokesperson said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Tom’s Hardware noted that Microsoft isn’t the only company using this kind of disclaimer for AI.&amp;nbsp; For example, both OpenAI and xAI caution users that they should not rely on their output as “the truth” (to quote xAI) or as “a sole service of truth or factual information” (OpenAI).&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Take Microsoft, which is currently focused on getting corporate customers to pay for Copilot. But it’s also been getting dinged on social media over Copilot’s terms of use, which appear to have been last updated on October 24, 2025.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Copilot is for entertainment purposes only,” the company warned. “It can make mistakes, and it may not work as intended. Don’t rely on Copilot for important advice. Use Copilot at your own risk.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A Microsoft spokesperson told PCMag that the company will be updating what they described as “legacy language.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“As the product has evolved, that language is no longer reflective of how Copilot is used today and will be altered with our next update,” the spokesperson said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Tom’s Hardware noted that Microsoft isn’t the only company using this kind of disclaimer for AI.&amp;nbsp; For example, both OpenAI and xAI caution users that they should not rely on their output as “the truth” (to quote xAI) or as “a sole service of truth or factual information” (OpenAI).&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/</guid><pubDate>Sun, 05 Apr 2026 18:51:37 +0000</pubDate></item></channel></rss>
