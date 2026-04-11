@@ -1,260 +1,420 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 11 Apr 2026 07:04:21 +0000</lastBuildDate><item><title>National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/national-robotics-week-2026/</link><description>&lt;p&gt;&lt;span&gt;This &lt;/span&gt;&lt;span&gt;National Robotics Week&lt;/span&gt;&lt;span&gt;, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual environments to real-world deployment faster than ever.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;With NVIDIA platforms for &lt;/span&gt;&lt;span&gt;simulation&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;synthetic data&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;AI-powered robot learning&lt;/span&gt;&lt;span&gt;, developers now have the tools to build machines that can perceive, reason and act in complex environments.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Check back here all week for coverage on the latest NVIDIA &lt;/span&gt;&lt;span&gt;physical AI&lt;/span&gt;&lt;span&gt; technologies.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="gtc"&gt;&lt;b&gt;Building the Next Generation of AI Robots 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;At &lt;/span&gt;&lt;span&gt;NVIDIA GTC&lt;/span&gt;&lt;span&gt; last month, &lt;/span&gt;&lt;span&gt;a new wave of technologies was introduced&lt;/span&gt;&lt;span&gt; to accelerate the development of AI-powered robots.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;At the core is a full-stack, cloud-to-robot workflow that connects simulation, robot learning and edge computing — making it faster to build, train and deploy intelligent machines.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;Key announcements include:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;New &lt;/span&gt;&lt;span&gt;NVIDIA Isaac GR00T open models&lt;/span&gt;&lt;span&gt; enable robots to understand natural language instructions and perform complex, multistep tasks using vision language action reasoning.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;New &lt;/span&gt;&lt;span&gt;NVIDIA Cosmos world models&lt;/span&gt;&lt;span&gt; for generating synthetic data and training robots at scale help systems learn more efficiently and generalize across environments.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;The &lt;/span&gt;&lt;span&gt;general availability&lt;/span&gt;&lt;span&gt; of open source physics engine &lt;/span&gt;&lt;span&gt;Newton 1.0&lt;/span&gt;&lt;span&gt; provides a fast and reliable foundation for dexterous robot manipulation with accurate collision detection, realistic object contact and stable simulation of complex systems with both rigid and flexible parts.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Expanded simulation capabilities with the general availability of &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim 6.0&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;Isaac Lab 3.0&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;Omniverse NuRec technologies&lt;/span&gt;&lt;span&gt; allow developers to model real-world scenarios and validate robotic systems before deployment.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;Watch &lt;/span&gt;&lt;span&gt;on-demand sessions&lt;/span&gt;&lt;span&gt; from the &lt;/span&gt;&lt;span&gt;NVIDIA GTC&lt;/span&gt;&lt;span&gt; global AI conference to catch up on recent breakthroughs in robotics, showcased by leading experts in the field.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="peritas"&gt;&lt;b&gt;Driving Breakthroughs in Surgical Precision 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;PeritasAI is advancing a new generation of surgical robotics by integrating physical AI into real-world operating environments. Using &lt;/span&gt;&lt;span&gt;NVIDIA Isaac for Healthcare&lt;/span&gt;&lt;span&gt; and the &lt;/span&gt;&lt;span&gt;Rheo&lt;/span&gt;&lt;span&gt; blueprint for hospital automation, the company is developing multi-agent intelligence that can sense, coordinate and act in real time.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-full wp-image-92286" height="576" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/hospital-automation-1024x576-1.png" width="1024" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;In collaboration with Lightwheel and Advent Health Hospitals, this work brings embodied intelligence into the operating room — supporting surgical teams with situational awareness, sterile coordination and intelligent management of instruments, implants and workflows.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="isaac-sim"&gt;&lt;b&gt;From Words to Motion: NVIDIA NemoClaw Brings Natural Language Commands to Isaac Sim 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA Omniverse developer Umang Chudasama has &lt;/span&gt;&lt;span&gt;integrated&lt;/span&gt;&lt;span&gt; NVIDIA NemoClaw with &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim&lt;/span&gt;&lt;span&gt; to navigate a Nova Carter autonomous robot using plain natural language commands — no manual coding required. NemoClaw translates text instructions (like “move two meters forward”) into executable Python scripts, which are then sent to Isaac Sim via a custom REST application programming interface in real time.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;The entire system runs within Isaac Sim, giving the robot a realistic, physics-accurate warehouse environment to operate in before ever touching the real world. Pairing Isaac Sim with NemoClaw means faster development, safer testing and a smarter path to deployment. Rather than programming robots line by line, developers can now simply talk to them, marking a meaningful shift toward truly collaborative, language-driven robotics.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="oceansim"&gt;&lt;b&gt;OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Underwater simulators are crucial for developing reliable perception systems, but they still struggle with accurate physics‑based sensor modeling and fast rendering.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Helping close this gap is &lt;/span&gt;&lt;span&gt;OceanSim&lt;/span&gt;&lt;span&gt;, a GPU‑accelerated, high‑fidelity simulator developed by researchers at the University of Michigan. It uses advanced physics‑based rendering techniques to make synthetic underwater images look more realistic. Using GPUs, the simulator can render imaging sonar in real time and generate synthetic data quickly.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;OceanSim uses &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim&lt;/span&gt;&lt;span&gt; and plugs into &lt;/span&gt;&lt;span&gt;NVIDIA Omniverse&lt;/span&gt;&lt;span&gt; libraries, creating a seamless link between robot‑learning research and underwater robotics. This integration lets developers easily develop and deploy embodied AI techniques for underwater applications.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="robolab"&gt;&lt;b&gt;RoboLab: Benchmarking the Next Generation of Generalist Robots 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;RoboLab&lt;/span&gt;&lt;span&gt; is a high-fidelity simulation benchmark for developing and evaluating generalist robot policies — powering systems designed to perform diverse tasks across environments.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;Built on &lt;/span&gt;&lt;span&gt;NVIDIA Isaac&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;NVIDIA Omniverse&lt;/span&gt;&lt;span&gt; simulation technologies, RoboLab taps into photorealistic environments and physics-based modeling to train and test robotic policies at scale. This enables researchers to measure how well behaviors learned in simulation transfer to the real world as tasks grow in complexity.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;By combining advanced simulation with structured evaluation, RoboLab accelerates the path from virtual training to real-world deployment.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;RoboLab&lt;/span&gt;&lt;span&gt; features will be incorporated into the roadmap of &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Lab-Arena&lt;/span&gt;&lt;span&gt;, an open source framework for large-scale policy setup and evaluation.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="cosmos"&gt;&lt;b&gt;Smarter Palletizing With AI-Driven Reasoning 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;In warehouse environments, palletizing robots typically follow fixed rules — handling boxes the same way regardless of contents, condition or fragility. A project developed by Doosan Robotics introduces a more adaptive approach using &lt;/span&gt;&lt;span&gt;NVIDIA Cosmos Reason&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;By analyzing a single camera image, the system can infer box contents, detect damage and adjust how each item is handled — such as placement, speed and grip — based on estimated weight and fragility. This reduces common issues like incorrectly stacking damaged or fragile goods.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;To build robots that understand the physical world before they ever deploy in it, robotics researchers and developers are building policy models powered by &lt;/span&gt;&lt;span&gt;NVIDIA Cosmos world foundation models&lt;/span&gt;&lt;span&gt; (WFMs). &lt;/span&gt;&lt;span&gt;Toyota Research Institute&lt;/span&gt;&lt;span&gt; customizes Cosmos WFMs for their own world model to achieve state-of-the-art results across dynamic view synthesis, state-of-the-art teleoperation data augmentation and navigation world models.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;Mimic robotics&lt;/span&gt;&lt;span&gt; takes a different angle with mimic-video, a video-action model that pairs a pretrained internet-scale video model with a flow-matching action decoder, replacing the static image-language backbones of traditional VLAs with video-learned physical dynamics — achieving 10x better sample efficiency and 2x faster convergence on real-world manipulation tasks.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Together, both teams demonstrate a fundamental shift: robots trained on world models that capture physics and causality need dramatically less real-world data to perform reliably in conditions they’ve never seen.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="openclaw"&gt;&lt;b&gt;Open, Intelligent Robotics on NVIDIA Jetson: Community Innovations Powering the Next Wave of Physical AI 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;This National Robotics Week, OpenClaw running on the &lt;/span&gt;&lt;span&gt;NVIDIA Jetson&lt;/span&gt;&lt;span&gt; platform showcases how quickly open source innovation is evolving into real-world, intelligent robotics.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;From practical applications to innovative projects, the robotics community is building what’s next — and fast.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Developers are pushing the boundaries of autonomy — including &lt;/span&gt;&lt;span&gt;hardware-in-the-loop testing&lt;/span&gt;&lt;span&gt; powered by &lt;/span&gt;&lt;span&gt;Jetson Thor&lt;/span&gt;&lt;span&gt;, evaluating camera streams from &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim&lt;/span&gt;&lt;span&gt; and even building systems that can generate their own code to complete tasks.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;In addition, OpenClaw &lt;/span&gt;&lt;span&gt;now running entirely locally on NVIDIA Jetson Thor&lt;/span&gt;&lt;span&gt; — powered by optimized &lt;/span&gt;&lt;span&gt;NVIDIA Nemotron&lt;/span&gt;&lt;span&gt; open models and the vLLM open inference library — marks a major leap toward private, low-latency edge AI for robotics. And innovations like the &lt;/span&gt;&lt;span&gt;NVIDIA NemoClaw&lt;/span&gt;&lt;span&gt; stack on Jetson are expanding what’s possible at the intersection of open source and high-performance robotics platforms. &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="Skyentific"&gt;&lt;b&gt;Training and Refining Movement in Simulation&amp;nbsp;🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Gennady Plyushchev, a robotics creator known as Skyentific, is documenting the process of building a walking bipedal robot, from simulation and design to real-world deployment — showcasing a simulation-first approach to robot development.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;By using &lt;/span&gt;&lt;span&gt;NVIDIA Isaac&lt;/span&gt;&lt;span&gt; based simulation workflows alongside &lt;/span&gt;&lt;span&gt;NVIDIA Jetson&lt;/span&gt;&lt;span&gt; for on-device AI and control, the project demonstrates how developers can rapidly iterate in virtual environments before deploying to physical systems.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The result highlights a broader shift in robotics: using AI, simulation and &lt;/span&gt;&lt;span&gt;edge computing&lt;/span&gt;&lt;span&gt; to accelerate development and bring increasingly capable &lt;/span&gt;&lt;span&gt;humanoid robots&lt;/span&gt;&lt;span&gt; to life.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="university-of-maryland"&gt;&lt;b&gt;University of Maryland Researchers Develop Robots for Complex Household Tasks 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;To bring robots into everyday life, researchers at the &lt;/span&gt;&lt;span&gt;University of Maryland&lt;/span&gt;&lt;span&gt;, recipients of a grant from the NVIDIA Academic Grant Program, are developing AI-powered humanoid systems capable of performing complex household tasks with greater autonomy.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The project centers on building robot foundation models that unify perception, planning and control. Using the &lt;/span&gt;&lt;span&gt;NVIDIA Isaac&lt;/span&gt;&lt;span&gt; open robotics development platform, researchers can create photorealistic, high-fidelity virtual home environments populated with diverse objects and layouts, allowing robots to practice millions of task variations and safely test rare or complex scenarios.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA RTX PRO 6000 Blackwell GPUs&lt;/span&gt;&lt;span&gt; for training large models and &lt;/span&gt;&lt;span&gt;NVIDIA Jetson AGX Thor&lt;/span&gt;&lt;span&gt; developer kits for efficient deployment on physical robots help bridge the gap between research and real-world applications.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-large wp-image-92225" height="801" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Seungjae-Lee-UMIACS-1680x1122.jpg" width="1200" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;By combining advancements in generative AI, sequential decision-making and scalable computing, the work represents a key step toward general-purpose robots that can support people in homes, healthcare settings and beyond.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="fellowship"&gt;&lt;b&gt;Announcing the MassRobotics Fellowship 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;The &lt;/span&gt;&lt;span&gt;second cohort&lt;/span&gt;&lt;span&gt; of the Amazon Web Services (AWS) MassRobotics fellowship comprises startups being recognized for compelling industrial use cases harnessing &lt;/span&gt;&lt;span&gt;robotics&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;computer vision&lt;/span&gt;&lt;span&gt;. They will receive access to technical resources and AWS cloud credits.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The cohort includes &lt;/span&gt;&lt;span&gt;NVIDIA Inception members&lt;/span&gt;&lt;span&gt; Burro, Config Intelligence, Deltia, Haply Robotics, Luminous Robotics, Roboto AI, Telexistence, Terra Robotics and WiRobotics, each developing technologies spanning humanoid robotics, industrial automation, haptics and agricultural systems.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignnone wp-image-92213 size-full" height="667" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Burro-Collaborative-Robots.jpg" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Burro&lt;/b&gt;&lt;span&gt; creates autonomous agricultural robots for tasks like grape harvesting and crop scouting.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Config Intelligence&lt;/b&gt;&lt;span&gt; builds data infrastructure for general-purpose bimanual robotics to enable reliable two-handed tasks in real-world settings.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignnone wp-image-92204 size-full" height="854" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Deltia.jpeg" width="1280" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Deltia&lt;/b&gt;&lt;span&gt; provides AI-driven manufacturing intelligence that optimizes assembly lines using computer vision and analytics.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Haply Robotics&lt;/b&gt;&lt;span&gt; designs haptic control devices that serve as “steering wheels” for physical AI systems across industries.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Luminous Robotics&lt;/b&gt;&lt;span&gt; deploys AI-powered robotic systems for fast, low-cost solar-panel installation and maintenance.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Roboto AI&lt;/b&gt;&lt;span&gt; offers a data-analytics platform that accelerates robot development by managing and analyzing robotics data.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignnone wp-image-92201 size-full" height="510" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Telexistence-2.jpg" width="960" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Telexistence&lt;/b&gt;&lt;span&gt; develops AI-powered humanoid robots and remote-controlled systems for retail and logistics.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Terra Robotics&lt;/b&gt;&lt;span&gt; develops laser-weeding agricultural robots to automate sustainable farming.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;WiRobotics&lt;/b&gt;&lt;span&gt; creates wearable walking-assist and humanoid robots to enhance mobility and physical interaction, using training data from assisted products to train its humanoids.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="maximo"&gt;&lt;b&gt;Accelerating How Utility-Scale Solar Projects Are Built in the Field 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Maximo&lt;/span&gt;&lt;span&gt;, a solar robotics business incubated within The AES Corporation, recently completed a 100-megawatt solar installation using its robot fleet. Developed with NVIDIA accelerated computing, &lt;/span&gt;&lt;span&gt;NVIDIA Omniverse libraries&lt;/span&gt;&lt;span&gt; and the &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim framework&lt;/span&gt;&lt;span&gt;, Maximo demonstrated that autonomous installations can operate reliably for utility-scale projects.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;The solution improves installation speed, safety and consistency, helping close the gap between rising demand for faster time to power and construction capacity.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignnone size-medium wp-image-92169" height="540" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Sunset_4Robots-960x540.jpg" width="960" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;As solar expansion faces ongoing labor constraints and rising demand, AI-driven field robotics systems like Maximo are helping accelerate infrastructure buildout, reduce costs and redefine how energy projects are delivered.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="aigen"&gt;&lt;b&gt;Aigen Advances Sustainable Farming With Agricultural Robotics 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;To help regenerate the Earth, &lt;/span&gt;&lt;span&gt;Aigen’s solar-powered autonomous robots&lt;/span&gt;&lt;span&gt; are breaking farmers’ dependency on chemicals through precision weed control powered by vision AI.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The NVIDIA Inception startup is building a new kind of farming system that’s powered by clean energy and continuously enriched by data. Aigen’s fleet of solar-driven rovers uses advanced computer vision to identify and remove weeds, dramatically reducing the need for herbicides.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-full wp-image-92139" height="720" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Copy-of-Synthetic_Data.gif" width="1280" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Farming has no standard environment. Every field is different — different crops, different soil, different equipment, weeds, growth stages and geographies. That fragmentation makes real-world data collection slow, expensive and inconsistent. By post-training &lt;/span&gt;&lt;span&gt;NVIDIA Cosmos open world foundation models&lt;/span&gt;&lt;span&gt; on their specialized data and harnessing &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim&lt;/span&gt;&lt;span&gt; pipelines, Aigen is building the system that generalizes for millions of agriculture scenarios.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;On the ground, each rover runs inference using an &lt;/span&gt;&lt;span&gt;NVIDIA Jetson Orin&lt;/span&gt;&lt;span&gt; edge AI module to distinguish crops from weeds in real time.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;Using these rovers, farmers can grow crops more sustainably and profitably, using regenerative practices that heal the land and foster ecological balance.&lt;/span&gt;&lt;/p&gt;</description><content:encoded>&lt;p&gt;&lt;span&gt;This &lt;/span&gt;&lt;span&gt;National Robotics Week&lt;/span&gt;&lt;span&gt;, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual environments to real-world deployment faster than ever.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;With NVIDIA platforms for &lt;/span&gt;&lt;span&gt;simulation&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;synthetic data&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;AI-powered robot learning&lt;/span&gt;&lt;span&gt;, developers now have the tools to build machines that can perceive, reason and act in complex environments.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Check back here all week for coverage on the latest NVIDIA &lt;/span&gt;&lt;span&gt;physical AI&lt;/span&gt;&lt;span&gt; technologies.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="gtc"&gt;&lt;b&gt;Building the Next Generation of AI Robots 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;At &lt;/span&gt;&lt;span&gt;NVIDIA GTC&lt;/span&gt;&lt;span&gt; last month, &lt;/span&gt;&lt;span&gt;a new wave of technologies was introduced&lt;/span&gt;&lt;span&gt; to accelerate the development of AI-powered robots.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;At the core is a full-stack, cloud-to-robot workflow that connects simulation, robot learning and edge computing — making it faster to build, train and deploy intelligent machines.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;Key announcements include:&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span&gt;New &lt;/span&gt;&lt;span&gt;NVIDIA Isaac GR00T open models&lt;/span&gt;&lt;span&gt; enable robots to understand natural language instructions and perform complex, multistep tasks using vision language action reasoning.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;New &lt;/span&gt;&lt;span&gt;NVIDIA Cosmos world models&lt;/span&gt;&lt;span&gt; for generating synthetic data and training robots at scale help systems learn more efficiently and generalize across environments.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;The &lt;/span&gt;&lt;span&gt;general availability&lt;/span&gt;&lt;span&gt; of open source physics engine &lt;/span&gt;&lt;span&gt;Newton 1.0&lt;/span&gt;&lt;span&gt; provides a fast and reliable foundation for dexterous robot manipulation with accurate collision detection, realistic object contact and stable simulation of complex systems with both rigid and flexible parts.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;Expanded simulation capabilities with the general availability of &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim 6.0&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span&gt;Isaac Lab 3.0&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;Omniverse NuRec technologies&lt;/span&gt;&lt;span&gt; allow developers to model real-world scenarios and validate robotic systems before deployment.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span&gt;Watch &lt;/span&gt;&lt;span&gt;on-demand sessions&lt;/span&gt;&lt;span&gt; from the &lt;/span&gt;&lt;span&gt;NVIDIA GTC&lt;/span&gt;&lt;span&gt; global AI conference to catch up on recent breakthroughs in robotics, showcased by leading experts in the field.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="peritas"&gt;&lt;b&gt;Driving Breakthroughs in Surgical Precision 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;PeritasAI is advancing a new generation of surgical robotics by integrating physical AI into real-world operating environments. Using &lt;/span&gt;&lt;span&gt;NVIDIA Isaac for Healthcare&lt;/span&gt;&lt;span&gt; and the &lt;/span&gt;&lt;span&gt;Rheo&lt;/span&gt;&lt;span&gt; blueprint for hospital automation, the company is developing multi-agent intelligence that can sense, coordinate and act in real time.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-full wp-image-92286" height="576" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/hospital-automation-1024x576-1.png" width="1024" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;In collaboration with Lightwheel and Advent Health Hospitals, this work brings embodied intelligence into the operating room — supporting surgical teams with situational awareness, sterile coordination and intelligent management of instruments, implants and workflows.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="isaac-sim"&gt;&lt;b&gt;From Words to Motion: NVIDIA NemoClaw Brings Natural Language Commands to Isaac Sim 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA Omniverse developer Umang Chudasama has &lt;/span&gt;&lt;span&gt;integrated&lt;/span&gt;&lt;span&gt; NVIDIA NemoClaw with &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim&lt;/span&gt;&lt;span&gt; to navigate a Nova Carter autonomous robot using plain natural language commands — no manual coding required. NemoClaw translates text instructions (like “move two meters forward”) into executable Python scripts, which are then sent to Isaac Sim via a custom REST application programming interface in real time.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;The entire system runs within Isaac Sim, giving the robot a realistic, physics-accurate warehouse environment to operate in before ever touching the real world. Pairing Isaac Sim with NemoClaw means faster development, safer testing and a smarter path to deployment. Rather than programming robots line by line, developers can now simply talk to them, marking a meaningful shift toward truly collaborative, language-driven robotics.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="oceansim"&gt;&lt;b&gt;OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Underwater simulators are crucial for developing reliable perception systems, but they still struggle with accurate physics‑based sensor modeling and fast rendering.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Helping close this gap is &lt;/span&gt;&lt;span&gt;OceanSim&lt;/span&gt;&lt;span&gt;, a GPU‑accelerated, high‑fidelity simulator developed by researchers at the University of Michigan. It uses advanced physics‑based rendering techniques to make synthetic underwater images look more realistic. Using GPUs, the simulator can render imaging sonar in real time and generate synthetic data quickly.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;OceanSim uses &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim&lt;/span&gt;&lt;span&gt; and plugs into &lt;/span&gt;&lt;span&gt;NVIDIA Omniverse&lt;/span&gt;&lt;span&gt; libraries, creating a seamless link between robot‑learning research and underwater robotics. This integration lets developers easily develop and deploy embodied AI techniques for underwater applications.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="robolab"&gt;&lt;b&gt;RoboLab: Benchmarking the Next Generation of Generalist Robots 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;RoboLab&lt;/span&gt;&lt;span&gt; is a high-fidelity simulation benchmark for developing and evaluating generalist robot policies — powering systems designed to perform diverse tasks across environments.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;Built on &lt;/span&gt;&lt;span&gt;NVIDIA Isaac&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;NVIDIA Omniverse&lt;/span&gt;&lt;span&gt; simulation technologies, RoboLab taps into photorealistic environments and physics-based modeling to train and test robotic policies at scale. This enables researchers to measure how well behaviors learned in simulation transfer to the real world as tasks grow in complexity.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;By combining advanced simulation with structured evaluation, RoboLab accelerates the path from virtual training to real-world deployment.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;RoboLab&lt;/span&gt;&lt;span&gt; features will be incorporated into the roadmap of &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Lab-Arena&lt;/span&gt;&lt;span&gt;, an open source framework for large-scale policy setup and evaluation.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="cosmos"&gt;&lt;b&gt;Smarter Palletizing With AI-Driven Reasoning 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;In warehouse environments, palletizing robots typically follow fixed rules — handling boxes the same way regardless of contents, condition or fragility. A project developed by Doosan Robotics introduces a more adaptive approach using &lt;/span&gt;&lt;span&gt;NVIDIA Cosmos Reason&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;By analyzing a single camera image, the system can infer box contents, detect damage and adjust how each item is handled — such as placement, speed and grip — based on estimated weight and fragility. This reduces common issues like incorrectly stacking damaged or fragile goods.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;To build robots that understand the physical world before they ever deploy in it, robotics researchers and developers are building policy models powered by &lt;/span&gt;&lt;span&gt;NVIDIA Cosmos world foundation models&lt;/span&gt;&lt;span&gt; (WFMs). &lt;/span&gt;&lt;span&gt;Toyota Research Institute&lt;/span&gt;&lt;span&gt; customizes Cosmos WFMs for their own world model to achieve state-of-the-art results across dynamic view synthesis, state-of-the-art teleoperation data augmentation and navigation world models.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;Mimic robotics&lt;/span&gt;&lt;span&gt; takes a different angle with mimic-video, a video-action model that pairs a pretrained internet-scale video model with a flow-matching action decoder, replacing the static image-language backbones of traditional VLAs with video-learned physical dynamics — achieving 10x better sample efficiency and 2x faster convergence on real-world manipulation tasks.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Together, both teams demonstrate a fundamental shift: robots trained on world models that capture physics and causality need dramatically less real-world data to perform reliably in conditions they’ve never seen.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="openclaw"&gt;&lt;b&gt;Open, Intelligent Robotics on NVIDIA Jetson: Community Innovations Powering the Next Wave of Physical AI 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;This National Robotics Week, OpenClaw running on the &lt;/span&gt;&lt;span&gt;NVIDIA Jetson&lt;/span&gt;&lt;span&gt; platform showcases how quickly open source innovation is evolving into real-world, intelligent robotics.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;From practical applications to innovative projects, the robotics community is building what’s next — and fast.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Developers are pushing the boundaries of autonomy — including &lt;/span&gt;&lt;span&gt;hardware-in-the-loop testing&lt;/span&gt;&lt;span&gt; powered by &lt;/span&gt;&lt;span&gt;Jetson Thor&lt;/span&gt;&lt;span&gt;, evaluating camera streams from &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim&lt;/span&gt;&lt;span&gt; and even building systems that can generate their own code to complete tasks.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;In addition, OpenClaw &lt;/span&gt;&lt;span&gt;now running entirely locally on NVIDIA Jetson Thor&lt;/span&gt;&lt;span&gt; — powered by optimized &lt;/span&gt;&lt;span&gt;NVIDIA Nemotron&lt;/span&gt;&lt;span&gt; open models and the vLLM open inference library — marks a major leap toward private, low-latency edge AI for robotics. And innovations like the &lt;/span&gt;&lt;span&gt;NVIDIA NemoClaw&lt;/span&gt;&lt;span&gt; stack on Jetson are expanding what’s possible at the intersection of open source and high-performance robotics platforms. &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="Skyentific"&gt;&lt;b&gt;Training and Refining Movement in Simulation&amp;nbsp;🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Gennady Plyushchev, a robotics creator known as Skyentific, is documenting the process of building a walking bipedal robot, from simulation and design to real-world deployment — showcasing a simulation-first approach to robot development.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;[embedded content]&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;By using &lt;/span&gt;&lt;span&gt;NVIDIA Isaac&lt;/span&gt;&lt;span&gt; based simulation workflows alongside &lt;/span&gt;&lt;span&gt;NVIDIA Jetson&lt;/span&gt;&lt;span&gt; for on-device AI and control, the project demonstrates how developers can rapidly iterate in virtual environments before deploying to physical systems.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The result highlights a broader shift in robotics: using AI, simulation and &lt;/span&gt;&lt;span&gt;edge computing&lt;/span&gt;&lt;span&gt; to accelerate development and bring increasingly capable &lt;/span&gt;&lt;span&gt;humanoid robots&lt;/span&gt;&lt;span&gt; to life.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="university-of-maryland"&gt;&lt;b&gt;University of Maryland Researchers Develop Robots for Complex Household Tasks 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;To bring robots into everyday life, researchers at the &lt;/span&gt;&lt;span&gt;University of Maryland&lt;/span&gt;&lt;span&gt;, recipients of a grant from the NVIDIA Academic Grant Program, are developing AI-powered humanoid systems capable of performing complex household tasks with greater autonomy.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The project centers on building robot foundation models that unify perception, planning and control. Using the &lt;/span&gt;&lt;span&gt;NVIDIA Isaac&lt;/span&gt;&lt;span&gt; open robotics development platform, researchers can create photorealistic, high-fidelity virtual home environments populated with diverse objects and layouts, allowing robots to practice millions of task variations and safely test rare or complex scenarios.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA RTX PRO 6000 Blackwell GPUs&lt;/span&gt;&lt;span&gt; for training large models and &lt;/span&gt;&lt;span&gt;NVIDIA Jetson AGX Thor&lt;/span&gt;&lt;span&gt; developer kits for efficient deployment on physical robots help bridge the gap between research and real-world applications.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-large wp-image-92225" height="801" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Seungjae-Lee-UMIACS-1680x1122.jpg" width="1200" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;By combining advancements in generative AI, sequential decision-making and scalable computing, the work represents a key step toward general-purpose robots that can support people in homes, healthcare settings and beyond.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="fellowship"&gt;&lt;b&gt;Announcing the MassRobotics Fellowship 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;The &lt;/span&gt;&lt;span&gt;second cohort&lt;/span&gt;&lt;span&gt; of the Amazon Web Services (AWS) MassRobotics fellowship comprises startups being recognized for compelling industrial use cases harnessing &lt;/span&gt;&lt;span&gt;robotics&lt;/span&gt;&lt;span&gt; and &lt;/span&gt;&lt;span&gt;computer vision&lt;/span&gt;&lt;span&gt;. They will receive access to technical resources and AWS cloud credits.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The cohort includes &lt;/span&gt;&lt;span&gt;NVIDIA Inception members&lt;/span&gt;&lt;span&gt; Burro, Config Intelligence, Deltia, Haply Robotics, Luminous Robotics, Roboto AI, Telexistence, Terra Robotics and WiRobotics, each developing technologies spanning humanoid robotics, industrial automation, haptics and agricultural systems.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignnone wp-image-92213 size-full" height="667" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Burro-Collaborative-Robots.jpg" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Burro&lt;/b&gt;&lt;span&gt; creates autonomous agricultural robots for tasks like grape harvesting and crop scouting.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Config Intelligence&lt;/b&gt;&lt;span&gt; builds data infrastructure for general-purpose bimanual robotics to enable reliable two-handed tasks in real-world settings.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignnone wp-image-92204 size-full" height="854" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Deltia.jpeg" width="1280" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Deltia&lt;/b&gt;&lt;span&gt; provides AI-driven manufacturing intelligence that optimizes assembly lines using computer vision and analytics.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Haply Robotics&lt;/b&gt;&lt;span&gt; designs haptic control devices that serve as “steering wheels” for physical AI systems across industries.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Luminous Robotics&lt;/b&gt;&lt;span&gt; deploys AI-powered robotic systems for fast, low-cost solar-panel installation and maintenance.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Roboto AI&lt;/b&gt;&lt;span&gt; offers a data-analytics platform that accelerates robot development by managing and analyzing robotics data.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignnone wp-image-92201 size-full" height="510" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Telexistence-2.jpg" width="960" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Telexistence&lt;/b&gt;&lt;span&gt; develops AI-powered humanoid robots and remote-controlled systems for retail and logistics.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Terra Robotics&lt;/b&gt;&lt;span&gt; develops laser-weeding agricultural robots to automate sustainable farming.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;WiRobotics&lt;/b&gt;&lt;span&gt; creates wearable walking-assist and humanoid robots to enhance mobility and physical interaction, using training data from assisted products to train its humanoids.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="maximo"&gt;&lt;b&gt;Accelerating How Utility-Scale Solar Projects Are Built in the Field 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Maximo&lt;/span&gt;&lt;span&gt;, a solar robotics business incubated within The AES Corporation, recently completed a 100-megawatt solar installation using its robot fleet. Developed with NVIDIA accelerated computing, &lt;/span&gt;&lt;span&gt;NVIDIA Omniverse libraries&lt;/span&gt;&lt;span&gt; and the &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim framework&lt;/span&gt;&lt;span&gt;, Maximo demonstrated that autonomous installations can operate reliably for utility-scale projects.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;The solution improves installation speed, safety and consistency, helping close the gap between rising demand for faster time to power and construction capacity.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="alignnone size-medium wp-image-92169" height="540" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Sunset_4Robots-960x540.jpg" width="960" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;As solar expansion faces ongoing labor constraints and rising demand, AI-driven field robotics systems like Maximo are helping accelerate infrastructure buildout, reduce costs and redefine how energy projects are delivered.&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class="wp-block-heading" id="aigen"&gt;&lt;b&gt;Aigen Advances Sustainable Farming With Agricultural Robotics 🔗&lt;/b&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;To help regenerate the Earth, &lt;/span&gt;&lt;span&gt;Aigen’s solar-powered autonomous robots&lt;/span&gt;&lt;span&gt; are breaking farmers’ dependency on chemicals through precision weed control powered by vision AI.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The NVIDIA Inception startup is building a new kind of farming system that’s powered by clean energy and continuously enriched by data. Aigen’s fleet of solar-driven rovers uses advanced computer vision to identify and remove weeds, dramatically reducing the need for herbicides.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alt" class="aligncenter size-full wp-image-92139" height="720" src="https://blogs.nvidia.com/wp-content/uploads/2026/04/Copy-of-Synthetic_Data.gif" width="1280" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Farming has no standard environment. Every field is different — different crops, different soil, different equipment, weeds, growth stages and geographies. That fragmentation makes real-world data collection slow, expensive and inconsistent. By post-training &lt;/span&gt;&lt;span&gt;NVIDIA Cosmos open world foundation models&lt;/span&gt;&lt;span&gt; on their specialized data and harnessing &lt;/span&gt;&lt;span&gt;NVIDIA Isaac Sim&lt;/span&gt;&lt;span&gt; pipelines, Aigen is building the system that generalizes for millions of agriculture scenarios.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;On the ground, each rover runs inference using an &lt;/span&gt;&lt;span&gt;NVIDIA Jetson Orin&lt;/span&gt;&lt;span&gt; edge AI module to distinguish crops from weeds in real time.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;Using these rovers, farmers can grow crops more sustainably and profitably, using regenerative practices that heal the land and foster ecological balance.&lt;/span&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/national-robotics-week-2026/</guid><pubDate>Fri, 10 Apr 2026 19:40:59 +0000</pubDate></item><item><title>Anthropic temporarily banned OpenClaw’s creator from accessing Claude (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;“Yeah folks, it’s gonna be harder in the future to ensure OpenClaw still works with Anthropic models,” OpenClaw creator Peter Steinberger posted on X early Friday morning, along with a photo of a message from Anthropic saying his account had been suspended over “suspicious” activity.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The ban didn’t last long. A few hours later, after the post went viral, Steinberger said his account had been reinstated. Among hundreds of comments — many of them in conspiracy theory land, given that Steinberger is now employed by Anthropic rival OpenAI — was one by an Anthropic engineer. The engineer told the famed developer that Anthropic has never banned anyone for using OpenClaw and offered to help.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s not clear if that was the key that restored the account. (We’ve asked Anthropic about it.) But the whole message string was enlightening on many levels.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;To recap the recent history: This ban followed news last week that subscriptions to Anthropic’s Claude would no longer cover “third-party harnesses including OpenClaw,” the AI model company said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenClaw users now have to pay for that usage separately, based on consumption, through Claude’s API. In essence, Anthropic, which offers its own agent, Cowork, is now charging a “claw tax.” Steinberger said he was following this new rule and using his API but was banned anyway.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Anthropic said it instituted the pricing change because subscriptions weren’t built to handle the “usage patterns” of claws. Claws can be more compute-intensive than prompts or simple scripts because they may run continuous reasoning loops, automatically repeat or retry tasks, and tie into a lot of other third-party tools.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Steinberger, however, wasn’t buying that excuse. After Anthropic changed the pricing, he posted, “Funny how timings match up, first they copy some popular features into their closed harness, then they lock out open source.” Though he didn’t specify, he may have been referring to features added to Claude’s Cowork agent, such as Claude Dispatch, which lets users remotely control agents and assign tasks. Dispatch rolled out a couple of weeks before Anthropic changed its OpenClaw pricing policy.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Steinberger’s frustration with Anthropic was again on display Friday. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One person implied that some of this is on him for taking a job at OpenAI instead of Anthropic, posting, “You had the choice, but you went to the wrong one.” To which Steinberger replied: “One welcomed me, one sent legal threats.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Ouch&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When multiple people asked him why he’s using Claude instead of his employer’s models at all, he explained that he only uses it for testing, to ensure updates to OpenClaw won’t break things for Claude users.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;He explained: “You need to separate two things. My work at the OpenClaw Foundation where we wanna make OpenClaw work great for *any* model provider, and my job at OpenAI to help them with future product strategy.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Multiple people also pointed out that the need to test Claude is because that model remains a popular choice for OpenClaw users over ChatGPT. He also heard that when Anthropic changed its pricing, to which he replied: “Working on that.” (So, that’s a clue about what his job at OpenAI entails.)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Steinberger did not respond to a request for comment.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;“Yeah folks, it’s gonna be harder in the future to ensure OpenClaw still works with Anthropic models,” OpenClaw creator Peter Steinberger posted on X early Friday morning, along with a photo of a message from Anthropic saying his account had been suspended over “suspicious” activity.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The ban didn’t last long. A few hours later, after the post went viral, Steinberger said his account had been reinstated. Among hundreds of comments — many of them in conspiracy theory land, given that Steinberger is now employed by Anthropic rival OpenAI — was one by an Anthropic engineer. The engineer told the famed developer that Anthropic has never banned anyone for using OpenClaw and offered to help.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s not clear if that was the key that restored the account. (We’ve asked Anthropic about it.) But the whole message string was enlightening on many levels.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;To recap the recent history: This ban followed news last week that subscriptions to Anthropic’s Claude would no longer cover “third-party harnesses including OpenClaw,” the AI model company said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenClaw users now have to pay for that usage separately, based on consumption, through Claude’s API. In essence, Anthropic, which offers its own agent, Cowork, is now charging a “claw tax.” Steinberger said he was following this new rule and using his API but was banned anyway.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Anthropic said it instituted the pricing change because subscriptions weren’t built to handle the “usage patterns” of claws. Claws can be more compute-intensive than prompts or simple scripts because they may run continuous reasoning loops, automatically repeat or retry tasks, and tie into a lot of other third-party tools.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Steinberger, however, wasn’t buying that excuse. After Anthropic changed the pricing, he posted, “Funny how timings match up, first they copy some popular features into their closed harness, then they lock out open source.” Though he didn’t specify, he may have been referring to features added to Claude’s Cowork agent, such as Claude Dispatch, which lets users remotely control agents and assign tasks. Dispatch rolled out a couple of weeks before Anthropic changed its OpenClaw pricing policy.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Steinberger’s frustration with Anthropic was again on display Friday. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One person implied that some of this is on him for taking a job at OpenAI instead of Anthropic, posting, “You had the choice, but you went to the wrong one.” To which Steinberger replied: “One welcomed me, one sent legal threats.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Ouch&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When multiple people asked him why he’s using Claude instead of his employer’s models at all, he explained that he only uses it for testing, to ensure updates to OpenClaw won’t break things for Claude users.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;He explained: “You need to separate two things. My work at the OpenClaw Foundation where we wanna make OpenClaw work great for *any* model provider, and my job at OpenAI to help them with future product strategy.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Multiple people also pointed out that the need to test Claude is because that model remains a popular choice for OpenClaw users over ChatGPT. He also heard that when Anthropic changed its pricing, to which he replied: “Working on that.” (So, that’s a clue about what his job at OpenAI entails.)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Steinberger did not respond to a request for comment.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/</guid><pubDate>Fri, 10 Apr 2026 20:27:52 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 11 Apr 2026 13:04:24 +0000</lastBuildDate><item><title>[NEW] AI models are terrible at betting on soccer—especially xAI Grok (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="A ticket window with betting odds next to it" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="A ticket window with betting odds next to it" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-1024x648.jpg" width="1024" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          	Simon Stacpoole/Offside/Getty
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;AI models from Google, OpenAI, and Anthropic lost money betting on soccer matches over a Premier League season, in a new study suggesting even the most advanced systems struggle to analyze the real world over long periods.&lt;/p&gt;
+&lt;p&gt;The “KellyBench” report released this week by AI start-up General Reasoning highlights the gap between AI’s rapidly advancing capabilities in certain tasks, such as writing software, and its shortcomings in other kinds of human problems.&lt;/p&gt;
+&lt;p&gt;London-based General Reasoning tested eight top AI systems in a virtual re-creation of the 2023–24 Premier League season, providing them with detailed historical data and statistics about each team and previous games. The AIs were instructed to build models that would maximize returns and manage risk.&lt;/p&gt;
+&lt;p&gt;The AI “agents” then placed bets on the outcomes of matches and the number of goals scored to test how they could adapt to new events and updated player data as the season progressed.&lt;/p&gt;
+&lt;p&gt;The AI could not access the Internet to retrieve results and each was given three attempts to turn a profit.&lt;/p&gt;
+&lt;p&gt;Anthropic’s Claude Opus 4.6 fared best, with an average loss of 11 percent and nearly breaking even on one attempt.&lt;/p&gt;
+&lt;p&gt;xAI’s Grok 4.20 went bankrupt once and failed to complete the other two tries. Google’s Gemini 3.1 Pro managed to turn a 34 percent profit on one go but went bankrupt on another.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;“Every frontier model we evaluated lost money over the season and many experienced ruin,” the authors of the paper concluded, with the AI “systematically underperforming humans” in this scenario.&lt;/p&gt;
+&lt;div class="table-wrapper"&gt;&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;AI Model&lt;/th&gt;
+&lt;th&gt;Mean ROI&lt;/th&gt;
+&lt;th&gt;Best try&lt;/th&gt;
+&lt;th&gt;Worst try&lt;/th&gt;
+&lt;th&gt;Mean final bankroll&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Anthropic Claude Opus 4.6&lt;/td&gt;
+&lt;td&gt;–11.0%&lt;/td&gt;
+&lt;td&gt;–0.2%&lt;/td&gt;
+&lt;td&gt;–18.8%&lt;/td&gt;
+&lt;td&gt;£89,035&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OpenAI GPT-5.4&lt;/td&gt;
+&lt;td&gt;–13.6%&lt;/td&gt;
+&lt;td&gt;–4.1%&lt;/td&gt;
+&lt;td&gt;–31.6%&lt;/td&gt;
+&lt;td&gt;£86,365&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Google Gemini 3.1 Pro&lt;/td&gt;
+&lt;td&gt;–43.3%&lt;/td&gt;
+&lt;td&gt;+33.7%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£56,715&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Google Gemini Flash 3.1 LP&lt;/td&gt;
+&lt;td&gt;–58.4%&lt;/td&gt;
+&lt;td&gt;+24.7%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£41,605&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z.AI GLM-5&lt;/td&gt;
+&lt;td&gt;–58.8%&lt;/td&gt;
+&lt;td&gt;–14.3%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£41,221&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Moonshot Kimi K2.5&lt;/td&gt;
+&lt;td&gt;–68.3%&lt;/td&gt;
+&lt;td&gt;–27.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£7,420&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;xAI Grok 4.20&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Acree Trinity&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="5"&gt;&lt;em&gt;Each model began with a £100,000 normalized bankroll. Return on investment and final bankroll are averaged across three tries. Grok and Trinity did not complete every attempt.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;The results offer some comfort to white-collar professionals and businesses who are fretting that AI could take their jobs, as it roils the shares of industries from finance to marketing.&lt;/p&gt;
+&lt;p&gt;Ross Taylor, one of the study’s authors and General Reasoning’s chief executive, said: “There is so much hype about AI automation, but there’s not a lot of measurement of putting AI into a longtime horizon setting.”&lt;/p&gt;
+&lt;p&gt;He added that many of the benchmarks typically used to test AI are flawed because they are set in “very static environments” that bear little resemblance to the chaos and complexity of the real world.&lt;/p&gt;
+&lt;p&gt;General Reasoning’s paper, which has not yet been peer reviewed, provides a counterweight to growing excitement in Silicon Valley about the huge recent leaps in AI’s ability to complete computer programming tasks with little to no human intervention.&lt;/p&gt;
+&lt;p&gt;Taylor, a former Meta AI researcher, said: “If you… try AI on some real-world tasks, it does really badly… Yes, software engineering is very important and economically valuable, but there are lots of other activities with longer time horizons that are important to look at.”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;© 2026 The Financial Times Ltd. All rights reserved. Not to be redistributed, copied, or modified in any way.&lt;/em&gt;&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="A ticket window with betting odds next to it" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="A ticket window with betting odds next to it" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-1024x648.jpg" width="1024" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          	Simon Stacpoole/Offside/Getty
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;AI models from Google, OpenAI, and Anthropic lost money betting on soccer matches over a Premier League season, in a new study suggesting even the most advanced systems struggle to analyze the real world over long periods.&lt;/p&gt;
+&lt;p&gt;The “KellyBench” report released this week by AI start-up General Reasoning highlights the gap between AI’s rapidly advancing capabilities in certain tasks, such as writing software, and its shortcomings in other kinds of human problems.&lt;/p&gt;
+&lt;p&gt;London-based General Reasoning tested eight top AI systems in a virtual re-creation of the 2023–24 Premier League season, providing them with detailed historical data and statistics about each team and previous games. The AIs were instructed to build models that would maximize returns and manage risk.&lt;/p&gt;
+&lt;p&gt;The AI “agents” then placed bets on the outcomes of matches and the number of goals scored to test how they could adapt to new events and updated player data as the season progressed.&lt;/p&gt;
+&lt;p&gt;The AI could not access the Internet to retrieve results and each was given three attempts to turn a profit.&lt;/p&gt;
+&lt;p&gt;Anthropic’s Claude Opus 4.6 fared best, with an average loss of 11 percent and nearly breaking even on one attempt.&lt;/p&gt;
+&lt;p&gt;xAI’s Grok 4.20 went bankrupt once and failed to complete the other two tries. Google’s Gemini 3.1 Pro managed to turn a 34 percent profit on one go but went bankrupt on another.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;“Every frontier model we evaluated lost money over the season and many experienced ruin,” the authors of the paper concluded, with the AI “systematically underperforming humans” in this scenario.&lt;/p&gt;
+&lt;div class="table-wrapper"&gt;&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;AI Model&lt;/th&gt;
+&lt;th&gt;Mean ROI&lt;/th&gt;
+&lt;th&gt;Best try&lt;/th&gt;
+&lt;th&gt;Worst try&lt;/th&gt;
+&lt;th&gt;Mean final bankroll&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Anthropic Claude Opus 4.6&lt;/td&gt;
+&lt;td&gt;–11.0%&lt;/td&gt;
+&lt;td&gt;–0.2%&lt;/td&gt;
+&lt;td&gt;–18.8%&lt;/td&gt;
+&lt;td&gt;£89,035&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OpenAI GPT-5.4&lt;/td&gt;
+&lt;td&gt;–13.6%&lt;/td&gt;
+&lt;td&gt;–4.1%&lt;/td&gt;
+&lt;td&gt;–31.6%&lt;/td&gt;
+&lt;td&gt;£86,365&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Google Gemini 3.1 Pro&lt;/td&gt;
+&lt;td&gt;–43.3%&lt;/td&gt;
+&lt;td&gt;+33.7%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£56,715&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Google Gemini Flash 3.1 LP&lt;/td&gt;
+&lt;td&gt;–58.4%&lt;/td&gt;
+&lt;td&gt;+24.7%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£41,605&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z.AI GLM-5&lt;/td&gt;
+&lt;td&gt;–58.8%&lt;/td&gt;
+&lt;td&gt;–14.3%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£41,221&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Moonshot Kimi K2.5&lt;/td&gt;
+&lt;td&gt;–68.3%&lt;/td&gt;
+&lt;td&gt;–27.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£7,420&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;xAI Grok 4.20&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Acree Trinity&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;–100.0%&lt;/td&gt;
+&lt;td&gt;£0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="5"&gt;&lt;em&gt;Each model began with a £100,000 normalized bankroll. Return on investment and final bankroll are averaged across three tries. Grok and Trinity did not complete every attempt.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;The results offer some comfort to white-collar professionals and businesses who are fretting that AI could take their jobs, as it roils the shares of industries from finance to marketing.&lt;/p&gt;
+&lt;p&gt;Ross Taylor, one of the study’s authors and General Reasoning’s chief executive, said: “There is so much hype about AI automation, but there’s not a lot of measurement of putting AI into a longtime horizon setting.”&lt;/p&gt;
+&lt;p&gt;He added that many of the benchmarks typically used to test AI are flawed because they are set in “very static environments” that bear little resemblance to the chaos and complexity of the real world.&lt;/p&gt;
+&lt;p&gt;General Reasoning’s paper, which has not yet been peer reviewed, provides a counterweight to growing excitement in Silicon Valley about the huge recent leaps in AI’s ability to complete computer programming tasks with little to no human intervention.&lt;/p&gt;
+&lt;p&gt;Taylor, a former Meta AI researcher, said: “If you… try AI on some real-world tasks, it does really badly… Yes, software engineering is very important and economically valuable, but there are lots of other activities with longer time horizons that are important to look at.”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;© 2026 The Financial Times Ltd. All rights reserved. Not to be redistributed, copied, or modified in any way.&lt;/em&gt;&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/</guid><pubDate>Sat, 11 Apr 2026 11:15:17 +0000</pubDate></item></channel></rss>
