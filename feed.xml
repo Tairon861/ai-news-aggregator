@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 24 Apr 2026 13:41:18 +0000</lastBuildDate><item><title>How AI models use real-time cryptocurrency data to interpret market behaviour (AI News)</title><link>https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/AI-models-analyzing-real-time-crypo-1024x517.png" /&gt;&lt;/div&gt;&lt;p&gt;AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that keeps changing.&lt;/p&gt;&lt;p&gt;Cryptocurrency markets tend to exaggerate that effect. Movement is not always smooth and patterns do not always repeat in a clean way. For AI models, that makes things harder, but also more useful in a way, because there is more to interpret. It is not always clear what matters straight away, which is part of the challenge.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-why-real-time-cryptocurrency-data-is-valuable-for-ai-systems"&gt;&lt;strong&gt;Why real-time cryptocurrency data is valuable for ai systems&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;A lot of traditional datasets are static. They are collected, cleaned and then reused. Real-time market data does not behave like that. It keeps arriving and models have to deal with it as it comes in.&lt;/p&gt;&lt;p&gt;That kind of input is useful when the goal is to spot changes and not rely on fixed assumptions. Instead of comparing against something from weeks ago, the system is working with what just happened. In some cases, even small shifts can be enough to trigger a response. And in many cases, the challenge is not collecting data but processing it quickly enough to be useful, especially in systems that rely on continuous updates from multiple sources.&lt;/p&gt;&lt;p&gt;The scale matters as well. Binance insights note that Ethereum has seen daily transactions reach around 3 million, with active addresses exceeding 1 million. That level of activity points to the kind of high-frequency data environment these systems are working with.&lt;/p&gt;&lt;p&gt;There is also just more data to deal with now. By the end of 2025, the total cryptocurrency market cap was sitting around $3 trillion after briefly crossing $4 trillion earlier in the year. Growth at that scale tends to show up as increased trading activity, more transactions and a larger volume of real-time inputs moving through these systems.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-interpreting-market-signals-in-non-linear-environments"&gt;&lt;strong&gt;Interpreting market signals in non-linear environments&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;One of the main difficulties is that market behaviour is not especially tidy. Prices do not move in straight lines and cause and effect can blur together.&lt;/p&gt;&lt;p&gt;Binance insights have highlighted conditions where market makers operate in negative gamma environments, where price movements can amplify themselves not settle. Different assets have been seen moving in similar directions but with varying intensity.&lt;/p&gt;&lt;p&gt;For an AI system, that adds another layer to deal with. It is not about following one signal but understanding how several of them interact, even when the relationship is not stable. In practice, that can make short-term interpretation inconsistent.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-data-bias-and-signal-weighting-in-ai-models"&gt;&lt;strong&gt;Data bias and signal weighting in AI models&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Another thing that shapes how models behave is the way data is distributed. Not all assets appear equally often in the data.&lt;/p&gt;&lt;p&gt;Binance insights show that Bitcoin dominance has held at around 59%, while altcoins outside the top ten account for roughly 7.1% of the total market. That kind of distribution tends to influence how datasets are built and which signals appear most often.&lt;/p&gt;&lt;p&gt;Smaller assets are still included, but their signals can be less steady. That makes them harder to use in systems that depend on regular updates. Sometimes they are included for coverage, not consistency.&lt;/p&gt;&lt;p&gt;It is not always obvious at first, but this introduces a kind of bias. The model reflects what it sees most frequently and that can shape how it interprets new information later on.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-infrastructure-demands-for-ai-driven-market-analysis"&gt;&lt;strong&gt;Infrastructure demands for AI-driven market analysis&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;As more AI systems start working with this type of data, the underlying infrastructure becomes more important. It is not about collecting data but keeping it consistent over time.&lt;/p&gt;&lt;p&gt;This is becoming easier to notice as more institutional players enter the space. Expectations tend to change with that. Data needs to be more consistent and there is less room for gaps or unclear outputs.&lt;/p&gt;&lt;p&gt;As Richard Teng, Co-CEO of Binance, noted in February 2026, “we’re seeing more institutions entering the space and these institutions demand high standards of compliance, governance and risk management.”&lt;/p&gt;&lt;p&gt;That kind of pressure shows up in how systems are put together. Pipelines cannot be unreliable and results need to make sense beyond just the model itself. It is not really enough for something to run if no one can explain what it is doing or why it reached a certain output.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-market-data-to-real-world-ai-applications"&gt;&lt;strong&gt;From market data to real-world AI applications&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Real-time pricing data is not only used for analysis. It is starting to show up in systems that operate continuously, where inputs feed directly into processes without much delay. Some setups focus on monitoring, others on identifying changes as they happen. In both cases, AI is used more to interpret than to decide. It sits somewhere in between raw data and action.&lt;/p&gt;&lt;p&gt;There are also signs that this data is connecting more directly to real-world activity. Binance insights show that cryptocurrency card volumes rose five-fold in 2025 and reached around $115 million in January 2026, still small compared to traditional payment systems but growing steadily.&lt;/p&gt;&lt;p&gt;AI models working with this kind of input are part of a broader environment where digital and traditional systems overlap. The boundaries are not always clear, which adds another layer of complexity.&lt;/p&gt;&lt;p&gt;Real-time data on its own does not explain much. It just reflects what is happening. The role of AI is to make sense of it in a way that is consistent enough to be useful, even when the behaviour itself is uneven. As systems continue to develop, the way something like the BNB price is used will likely change as well. Not because the data changes, but because the way it is interpreted does.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/AI-models-analyzing-real-time-crypo-1024x517.png" /&gt;&lt;/div&gt;&lt;p&gt;AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that keeps changing.&lt;/p&gt;&lt;p&gt;Cryptocurrency markets tend to exaggerate that effect. Movement is not always smooth and patterns do not always repeat in a clean way. For AI models, that makes things harder, but also more useful in a way, because there is more to interpret. It is not always clear what matters straight away, which is part of the challenge.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-why-real-time-cryptocurrency-data-is-valuable-for-ai-systems"&gt;&lt;strong&gt;Why real-time cryptocurrency data is valuable for ai systems&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;A lot of traditional datasets are static. They are collected, cleaned and then reused. Real-time market data does not behave like that. It keeps arriving and models have to deal with it as it comes in.&lt;/p&gt;&lt;p&gt;That kind of input is useful when the goal is to spot changes and not rely on fixed assumptions. Instead of comparing against something from weeks ago, the system is working with what just happened. In some cases, even small shifts can be enough to trigger a response. And in many cases, the challenge is not collecting data but processing it quickly enough to be useful, especially in systems that rely on continuous updates from multiple sources.&lt;/p&gt;&lt;p&gt;The scale matters as well. Binance insights note that Ethereum has seen daily transactions reach around 3 million, with active addresses exceeding 1 million. That level of activity points to the kind of high-frequency data environment these systems are working with.&lt;/p&gt;&lt;p&gt;There is also just more data to deal with now. By the end of 2025, the total cryptocurrency market cap was sitting around $3 trillion after briefly crossing $4 trillion earlier in the year. Growth at that scale tends to show up as increased trading activity, more transactions and a larger volume of real-time inputs moving through these systems.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-interpreting-market-signals-in-non-linear-environments"&gt;&lt;strong&gt;Interpreting market signals in non-linear environments&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;One of the main difficulties is that market behaviour is not especially tidy. Prices do not move in straight lines and cause and effect can blur together.&lt;/p&gt;&lt;p&gt;Binance insights have highlighted conditions where market makers operate in negative gamma environments, where price movements can amplify themselves not settle. Different assets have been seen moving in similar directions but with varying intensity.&lt;/p&gt;&lt;p&gt;For an AI system, that adds another layer to deal with. It is not about following one signal but understanding how several of them interact, even when the relationship is not stable. In practice, that can make short-term interpretation inconsistent.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-data-bias-and-signal-weighting-in-ai-models"&gt;&lt;strong&gt;Data bias and signal weighting in AI models&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Another thing that shapes how models behave is the way data is distributed. Not all assets appear equally often in the data.&lt;/p&gt;&lt;p&gt;Binance insights show that Bitcoin dominance has held at around 59%, while altcoins outside the top ten account for roughly 7.1% of the total market. That kind of distribution tends to influence how datasets are built and which signals appear most often.&lt;/p&gt;&lt;p&gt;Smaller assets are still included, but their signals can be less steady. That makes them harder to use in systems that depend on regular updates. Sometimes they are included for coverage, not consistency.&lt;/p&gt;&lt;p&gt;It is not always obvious at first, but this introduces a kind of bias. The model reflects what it sees most frequently and that can shape how it interprets new information later on.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-infrastructure-demands-for-ai-driven-market-analysis"&gt;&lt;strong&gt;Infrastructure demands for AI-driven market analysis&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;As more AI systems start working with this type of data, the underlying infrastructure becomes more important. It is not about collecting data but keeping it consistent over time.&lt;/p&gt;&lt;p&gt;This is becoming easier to notice as more institutional players enter the space. Expectations tend to change with that. Data needs to be more consistent and there is less room for gaps or unclear outputs.&lt;/p&gt;&lt;p&gt;As Richard Teng, Co-CEO of Binance, noted in February 2026, “we’re seeing more institutions entering the space and these institutions demand high standards of compliance, governance and risk management.”&lt;/p&gt;&lt;p&gt;That kind of pressure shows up in how systems are put together. Pipelines cannot be unreliable and results need to make sense beyond just the model itself. It is not really enough for something to run if no one can explain what it is doing or why it reached a certain output.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-market-data-to-real-world-ai-applications"&gt;&lt;strong&gt;From market data to real-world AI applications&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Real-time pricing data is not only used for analysis. It is starting to show up in systems that operate continuously, where inputs feed directly into processes without much delay. Some setups focus on monitoring, others on identifying changes as they happen. In both cases, AI is used more to interpret than to decide. It sits somewhere in between raw data and action.&lt;/p&gt;&lt;p&gt;There are also signs that this data is connecting more directly to real-world activity. Binance insights show that cryptocurrency card volumes rose five-fold in 2025 and reached around $115 million in January 2026, still small compared to traditional payment systems but growing steadily.&lt;/p&gt;&lt;p&gt;AI models working with this kind of input are part of a broader environment where digital and traditional systems overlap. The boundaries are not always clear, which adds another layer of complexity.&lt;/p&gt;&lt;p&gt;Real-time data on its own does not explain much. It just reflects what is happening. The role of AI is to make sense of it in a way that is consistent enough to be useful, even when the behaviour itself is uneven. As systems continue to develop, the way something like the BNB price is used will likely change as well. Not because the data changes, but because the way it is interpreted does.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/</guid><pubDate>Fri, 24 Apr 2026 07:47:32 +0000</pubDate></item><item><title>[NEW] Health-care AI is here. We don’t know if it actually helps patients. (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/04/patient-care.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;I don’t need to tell you that&amp;nbsp;AI is everywhere.&lt;/p&gt;  &lt;p&gt;Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;A growing number of studies suggest that many of these tools can deliver accurate results. But there’s a bigger question here: Does using them actually translate into better health outcomes for patients?&lt;/p&gt;  &lt;p&gt;We don’t yet have a good answer.&lt;/p&gt; 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 24 Apr 2026 18:56:50 +0000</lastBuildDate><item><title>How AI models use real-time cryptocurrency data to interpret market behaviour (AI News)</title><link>https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/AI-models-analyzing-real-time-crypo-1024x517.png" /&gt;&lt;/div&gt;&lt;p&gt;AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that keeps changing.&lt;/p&gt;&lt;p&gt;Cryptocurrency markets tend to exaggerate that effect. Movement is not always smooth and patterns do not always repeat in a clean way. For AI models, that makes things harder, but also more useful in a way, because there is more to interpret. It is not always clear what matters straight away, which is part of the challenge.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-why-real-time-cryptocurrency-data-is-valuable-for-ai-systems"&gt;&lt;strong&gt;Why real-time cryptocurrency data is valuable for ai systems&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;A lot of traditional datasets are static. They are collected, cleaned and then reused. Real-time market data does not behave like that. It keeps arriving and models have to deal with it as it comes in.&lt;/p&gt;&lt;p&gt;That kind of input is useful when the goal is to spot changes and not rely on fixed assumptions. Instead of comparing against something from weeks ago, the system is working with what just happened. In some cases, even small shifts can be enough to trigger a response. And in many cases, the challenge is not collecting data but processing it quickly enough to be useful, especially in systems that rely on continuous updates from multiple sources.&lt;/p&gt;&lt;p&gt;The scale matters as well. Binance insights note that Ethereum has seen daily transactions reach around 3 million, with active addresses exceeding 1 million. That level of activity points to the kind of high-frequency data environment these systems are working with.&lt;/p&gt;&lt;p&gt;There is also just more data to deal with now. By the end of 2025, the total cryptocurrency market cap was sitting around $3 trillion after briefly crossing $4 trillion earlier in the year. Growth at that scale tends to show up as increased trading activity, more transactions and a larger volume of real-time inputs moving through these systems.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-interpreting-market-signals-in-non-linear-environments"&gt;&lt;strong&gt;Interpreting market signals in non-linear environments&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;One of the main difficulties is that market behaviour is not especially tidy. Prices do not move in straight lines and cause and effect can blur together.&lt;/p&gt;&lt;p&gt;Binance insights have highlighted conditions where market makers operate in negative gamma environments, where price movements can amplify themselves not settle. Different assets have been seen moving in similar directions but with varying intensity.&lt;/p&gt;&lt;p&gt;For an AI system, that adds another layer to deal with. It is not about following one signal but understanding how several of them interact, even when the relationship is not stable. In practice, that can make short-term interpretation inconsistent.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-data-bias-and-signal-weighting-in-ai-models"&gt;&lt;strong&gt;Data bias and signal weighting in AI models&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Another thing that shapes how models behave is the way data is distributed. Not all assets appear equally often in the data.&lt;/p&gt;&lt;p&gt;Binance insights show that Bitcoin dominance has held at around 59%, while altcoins outside the top ten account for roughly 7.1% of the total market. That kind of distribution tends to influence how datasets are built and which signals appear most often.&lt;/p&gt;&lt;p&gt;Smaller assets are still included, but their signals can be less steady. That makes them harder to use in systems that depend on regular updates. Sometimes they are included for coverage, not consistency.&lt;/p&gt;&lt;p&gt;It is not always obvious at first, but this introduces a kind of bias. The model reflects what it sees most frequently and that can shape how it interprets new information later on.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-infrastructure-demands-for-ai-driven-market-analysis"&gt;&lt;strong&gt;Infrastructure demands for AI-driven market analysis&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;As more AI systems start working with this type of data, the underlying infrastructure becomes more important. It is not about collecting data but keeping it consistent over time.&lt;/p&gt;&lt;p&gt;This is becoming easier to notice as more institutional players enter the space. Expectations tend to change with that. Data needs to be more consistent and there is less room for gaps or unclear outputs.&lt;/p&gt;&lt;p&gt;As Richard Teng, Co-CEO of Binance, noted in February 2026, “we’re seeing more institutions entering the space and these institutions demand high standards of compliance, governance and risk management.”&lt;/p&gt;&lt;p&gt;That kind of pressure shows up in how systems are put together. Pipelines cannot be unreliable and results need to make sense beyond just the model itself. It is not really enough for something to run if no one can explain what it is doing or why it reached a certain output.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-market-data-to-real-world-ai-applications"&gt;&lt;strong&gt;From market data to real-world AI applications&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Real-time pricing data is not only used for analysis. It is starting to show up in systems that operate continuously, where inputs feed directly into processes without much delay. Some setups focus on monitoring, others on identifying changes as they happen. In both cases, AI is used more to interpret than to decide. It sits somewhere in between raw data and action.&lt;/p&gt;&lt;p&gt;There are also signs that this data is connecting more directly to real-world activity. Binance insights show that cryptocurrency card volumes rose five-fold in 2025 and reached around $115 million in January 2026, still small compared to traditional payment systems but growing steadily.&lt;/p&gt;&lt;p&gt;AI models working with this kind of input are part of a broader environment where digital and traditional systems overlap. The boundaries are not always clear, which adds another layer of complexity.&lt;/p&gt;&lt;p&gt;Real-time data on its own does not explain much. It just reflects what is happening. The role of AI is to make sense of it in a way that is consistent enough to be useful, even when the behaviour itself is uneven. As systems continue to develop, the way something like the BNB price is used will likely change as well. Not because the data changes, but because the way it is interpreted does.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/AI-models-analyzing-real-time-crypo-1024x517.png" /&gt;&lt;/div&gt;&lt;p&gt;AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that keeps changing.&lt;/p&gt;&lt;p&gt;Cryptocurrency markets tend to exaggerate that effect. Movement is not always smooth and patterns do not always repeat in a clean way. For AI models, that makes things harder, but also more useful in a way, because there is more to interpret. It is not always clear what matters straight away, which is part of the challenge.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-why-real-time-cryptocurrency-data-is-valuable-for-ai-systems"&gt;&lt;strong&gt;Why real-time cryptocurrency data is valuable for ai systems&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;A lot of traditional datasets are static. They are collected, cleaned and then reused. Real-time market data does not behave like that. It keeps arriving and models have to deal with it as it comes in.&lt;/p&gt;&lt;p&gt;That kind of input is useful when the goal is to spot changes and not rely on fixed assumptions. Instead of comparing against something from weeks ago, the system is working with what just happened. In some cases, even small shifts can be enough to trigger a response. And in many cases, the challenge is not collecting data but processing it quickly enough to be useful, especially in systems that rely on continuous updates from multiple sources.&lt;/p&gt;&lt;p&gt;The scale matters as well. Binance insights note that Ethereum has seen daily transactions reach around 3 million, with active addresses exceeding 1 million. That level of activity points to the kind of high-frequency data environment these systems are working with.&lt;/p&gt;&lt;p&gt;There is also just more data to deal with now. By the end of 2025, the total cryptocurrency market cap was sitting around $3 trillion after briefly crossing $4 trillion earlier in the year. Growth at that scale tends to show up as increased trading activity, more transactions and a larger volume of real-time inputs moving through these systems.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-interpreting-market-signals-in-non-linear-environments"&gt;&lt;strong&gt;Interpreting market signals in non-linear environments&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;One of the main difficulties is that market behaviour is not especially tidy. Prices do not move in straight lines and cause and effect can blur together.&lt;/p&gt;&lt;p&gt;Binance insights have highlighted conditions where market makers operate in negative gamma environments, where price movements can amplify themselves not settle. Different assets have been seen moving in similar directions but with varying intensity.&lt;/p&gt;&lt;p&gt;For an AI system, that adds another layer to deal with. It is not about following one signal but understanding how several of them interact, even when the relationship is not stable. In practice, that can make short-term interpretation inconsistent.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-data-bias-and-signal-weighting-in-ai-models"&gt;&lt;strong&gt;Data bias and signal weighting in AI models&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Another thing that shapes how models behave is the way data is distributed. Not all assets appear equally often in the data.&lt;/p&gt;&lt;p&gt;Binance insights show that Bitcoin dominance has held at around 59%, while altcoins outside the top ten account for roughly 7.1% of the total market. That kind of distribution tends to influence how datasets are built and which signals appear most often.&lt;/p&gt;&lt;p&gt;Smaller assets are still included, but their signals can be less steady. That makes them harder to use in systems that depend on regular updates. Sometimes they are included for coverage, not consistency.&lt;/p&gt;&lt;p&gt;It is not always obvious at first, but this introduces a kind of bias. The model reflects what it sees most frequently and that can shape how it interprets new information later on.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-infrastructure-demands-for-ai-driven-market-analysis"&gt;&lt;strong&gt;Infrastructure demands for AI-driven market analysis&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;As more AI systems start working with this type of data, the underlying infrastructure becomes more important. It is not about collecting data but keeping it consistent over time.&lt;/p&gt;&lt;p&gt;This is becoming easier to notice as more institutional players enter the space. Expectations tend to change with that. Data needs to be more consistent and there is less room for gaps or unclear outputs.&lt;/p&gt;&lt;p&gt;As Richard Teng, Co-CEO of Binance, noted in February 2026, “we’re seeing more institutions entering the space and these institutions demand high standards of compliance, governance and risk management.”&lt;/p&gt;&lt;p&gt;That kind of pressure shows up in how systems are put together. Pipelines cannot be unreliable and results need to make sense beyond just the model itself. It is not really enough for something to run if no one can explain what it is doing or why it reached a certain output.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-market-data-to-real-world-ai-applications"&gt;&lt;strong&gt;From market data to real-world AI applications&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Real-time pricing data is not only used for analysis. It is starting to show up in systems that operate continuously, where inputs feed directly into processes without much delay. Some setups focus on monitoring, others on identifying changes as they happen. In both cases, AI is used more to interpret than to decide. It sits somewhere in between raw data and action.&lt;/p&gt;&lt;p&gt;There are also signs that this data is connecting more directly to real-world activity. Binance insights show that cryptocurrency card volumes rose five-fold in 2025 and reached around $115 million in January 2026, still small compared to traditional payment systems but growing steadily.&lt;/p&gt;&lt;p&gt;AI models working with this kind of input are part of a broader environment where digital and traditional systems overlap. The boundaries are not always clear, which adds another layer of complexity.&lt;/p&gt;&lt;p&gt;Real-time data on its own does not explain much. It just reflects what is happening. The role of AI is to make sense of it in a way that is consistent enough to be useful, even when the behaviour itself is uneven. As systems continue to develop, the way something like the BNB price is used will likely change as well. Not because the data changes, but because the way it is interpreted does.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/</guid><pubDate>Fri, 24 Apr 2026 07:47:32 +0000</pubDate></item><item><title>Health-care AI is here. We don’t know if it actually helps patients. (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/04/patient-care.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;I don’t need to tell you that&amp;nbsp;AI is everywhere.&lt;/p&gt;  &lt;p&gt;Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;A growing number of studies suggest that many of these tools can deliver accurate results. But there’s a bigger question here: Does using them actually translate into better health outcomes for patients?&lt;/p&gt;  &lt;p&gt;We don’t yet have a good answer.&lt;/p&gt; 
  &lt;p&gt;That’s what Jenna Wiens, a computer scientist at the University of Michigan, and Anna Goldenberg of the University of Toronto, argue in a paper published in the journal &lt;em&gt;Nature Medicine&lt;/em&gt; this week.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Wiens tells me she has spent years investigating how AI might benefit health care. For the first decade of her career she tried to pitch the technology to clinicians. Over the last few years, she says, it’s as though “a switch flipped.” Health-care providers not only appear much more interested in the promise of these technologies, they have also begun rapidly deploying them.&lt;/p&gt; 
  &lt;p&gt;&lt;strong&gt;The problem is that many providers aren’t rigorously assessing how well they actually work.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Take “ambient AI” tools, for example. Also known as AI scribes, they “listen” to conversations between doctors and patients, then transcribe and summarize them. Multiple tools are available, and they are&amp;nbsp;already being widely adopted by health-care providers.&lt;/p&gt;  &lt;p&gt;A few months ago, a staffer at a major New York medical center who develops AI tools for doctors told me that, anecdotally, medics are “overjoyed” by the technology—it allows them to focus all their attention on their patients during appointments, and it saves them from a lot of time-consuming paperwork.&amp;nbsp;Early studies support these anecdotes and suggest that the tools can reduce clinician burnout.&lt;/p&gt;  &lt;p&gt;That’s all well and good. But what about patient health outcomes? “[Researchers] have evaluated provider or clinician and patient satisfaction, but not really how these tools are affecting clinical decision-making,” says Wiens. “We just don’t know.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;The same holds true for other AI-based technologies used in health-care settings.&lt;/strong&gt; Some are used to predict patients’ health trajectories, others to recommend treatments. They are designed to make health care more effective and efficient.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;&lt;p&gt;But even a tool that is “accurate” won’t necessarily improve health outcomes. AI might&amp;nbsp;speed up the interpretation of a chest X-ray, for example. But how much will a doctor rely on its analysis? How will that tool affect the way a doctor interacts with patients or recommends treatment? And ultimately: What will this mean for those patients?&lt;/p&gt;  &lt;p&gt;The answers to those questions might vary between hospitals or departments and could depend on clinical workflows, says Wiens. They might also differ between doctors at various stages of their careers.&lt;/p&gt;  &lt;p&gt;Take the AI scribes, as another example. Some research on AI use in education suggests that such tools can impact the way people cognitively process information. Could they affect the way a doctor processes a patient’s information? Will the tools affect the way medical students think about patient data in a way that impacts care? These questions need to be explored, says Wiens. “We like things that save us time, but we have to think about the unintended consequences of this,” she says.&lt;/p&gt; 
 
@@ -7,7 +7,7 @@
  &lt;p&gt;That’s what Jenna Wiens, a computer scientist at the University of Michigan, and Anna Goldenberg of the University of Toronto, argue in a paper published in the journal &lt;em&gt;Nature Medicine&lt;/em&gt; this week.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;Wiens tells me she has spent years investigating how AI might benefit health care. For the first decade of her career she tried to pitch the technology to clinicians. Over the last few years, she says, it’s as though “a switch flipped.” Health-care providers not only appear much more interested in the promise of these technologies, they have also begun rapidly deploying them.&lt;/p&gt; 
  &lt;p&gt;&lt;strong&gt;The problem is that many providers aren’t rigorously assessing how well they actually work.&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Take “ambient AI” tools, for example. Also known as AI scribes, they “listen” to conversations between doctors and patients, then transcribe and summarize them. Multiple tools are available, and they are&amp;nbsp;already being widely adopted by health-care providers.&lt;/p&gt;  &lt;p&gt;A few months ago, a staffer at a major New York medical center who develops AI tools for doctors told me that, anecdotally, medics are “overjoyed” by the technology—it allows them to focus all their attention on their patients during appointments, and it saves them from a lot of time-consuming paperwork.&amp;nbsp;Early studies support these anecdotes and suggest that the tools can reduce clinician burnout.&lt;/p&gt;  &lt;p&gt;That’s all well and good. But what about patient health outcomes? “[Researchers] have evaluated provider or clinician and patient satisfaction, but not really how these tools are affecting clinical decision-making,” says Wiens. “We just don’t know.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;&lt;strong&gt;The same holds true for other AI-based technologies used in health-care settings.&lt;/strong&gt; Some are used to predict patients’ health trajectories, others to recommend treatments. They are designed to make health care more effective and efficient.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;&lt;p&gt;But even a tool that is “accurate” won’t necessarily improve health outcomes. AI might&amp;nbsp;speed up the interpretation of a chest X-ray, for example. But how much will a doctor rely on its analysis? How will that tool affect the way a doctor interacts with patients or recommends treatment? And ultimately: What will this mean for those patients?&lt;/p&gt;  &lt;p&gt;The answers to those questions might vary between hospitals or departments and could depend on clinical workflows, says Wiens. They might also differ between doctors at various stages of their careers.&lt;/p&gt;  &lt;p&gt;Take the AI scribes, as another example. Some research on AI use in education suggests that such tools can impact the way people cognitively process information. Could they affect the way a doctor processes a patient’s information? Will the tools affect the way medical students think about patient data in a way that impacts care? These questions need to be explored, says Wiens. “We like things that save us time, but we have to think about the unintended consequences of this,” she says.&lt;/p&gt; 
 
- &lt;p&gt;In&amp;nbsp;a study published in January 2025, Paige Nong at the University of Minnesota and her colleagues found that around 65% of US hospitals used AI-assisted predictive tools. Only two-thirds of those hospitals evaluated their accuracy. Even fewer assessed them for bias.&lt;/p&gt;  &lt;p&gt;The number of hospitals using these tools has probably increased since then, says Wiens. Those hospitals, or entities other than the companies developing the tools, need to evaluate how much they help in specific settings. There’s a possibility that they could leave patients worse off, although it’s more likely that AI tools just aren’t as beneficial as health-care providers might assume they are, says Wiens.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;“I do believe in the potential of AI to really improve clinical care,” &lt;/strong&gt;says Wiens, who stresses that she doesn’t want to stop the adoption of AI tools in health care. She just wants more information about how they are affecting people. “I have to believe that in the future it’s not &lt;em&gt;all AI&lt;/em&gt; or &lt;em&gt;no AI&lt;/em&gt;,” she says. “It’s somewhere in between.”&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This article first appeared in The Checkup,&amp;nbsp;&lt;/em&gt;MIT Technology Review’s&lt;em&gt;&amp;nbsp;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;br /&gt;&amp;nbsp;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/</guid><pubDate>Fri, 24 Apr 2026 09:00:00 +0000</pubDate></item><item><title>[NEW] In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721" /&gt;&lt;/div&gt;&lt;div&gt;
+ &lt;p&gt;In&amp;nbsp;a study published in January 2025, Paige Nong at the University of Minnesota and her colleagues found that around 65% of US hospitals used AI-assisted predictive tools. Only two-thirds of those hospitals evaluated their accuracy. Even fewer assessed them for bias.&lt;/p&gt;  &lt;p&gt;The number of hospitals using these tools has probably increased since then, says Wiens. Those hospitals, or entities other than the companies developing the tools, need to evaluate how much they help in specific settings. There’s a possibility that they could leave patients worse off, although it’s more likely that AI tools just aren’t as beneficial as health-care providers might assume they are, says Wiens.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;“I do believe in the potential of AI to really improve clinical care,” &lt;/strong&gt;says Wiens, who stresses that she doesn’t want to stop the adoption of AI tools in health care. She just wants more information about how they are affecting people. “I have to believe that in the future it’s not &lt;em&gt;all AI&lt;/em&gt; or &lt;em&gt;no AI&lt;/em&gt;,” she says. “It’s somewhere in between.”&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This article first appeared in The Checkup,&amp;nbsp;&lt;/em&gt;MIT Technology Review’s&lt;em&gt;&amp;nbsp;weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;br /&gt;&amp;nbsp;&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/</guid><pubDate>Fri, 24 Apr 2026 09:00:00 +0000</pubDate></item><item><title>In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Amazon just scored a major coup with Meta thanks, once again, to Amazon’s own homegrown chips. Meta has signed a deal to use millions of AWS Graviton chips to power its growing AI needs, Amazon announced Friday.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Note that the AWS Graviton is an ARM-based CPU, (a central processing unit, the chip that handles general computing tasks) not a GPU (a graphical processing unit). &lt;/p&gt;
@@ -18,9 +18,9 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;While GPUs remain the chip of choice for training large models, once those models are trained, AI agents built on top of them are causing a shift in the type of chip is needed. Agents create compute-intensive workloads like real-time reasoning, writing code, search, and the the coordination involved in managing agents through multi-step tasks. AWS’s latest version of Graviton was designed specifically to handle AI-related compute needs, the company says.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;While GPUs remain the chip of choice for training large models, once those models are trained, AI agents built on top of them are causing a shift in the type of chip needed. Agents create compute-intensive workloads like real-time reasoning, writing code, search, and the the coordination involved in managing agents through multi-step tasks. AWS’s latest version of Graviton was designed specifically to handle AI-related compute needs, the company says.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This deal brings more of Meta’s cash back to AWS instead of competitors like Google Cloud. Last August, Meta signed a six year, $10 billion deal with Google Cloud, though Meta had, until then, primarily been an AWS customer that also used Microsoft Azure.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;This deal brings more of Meta’s cash back to AWS instead of competitors like Google Cloud. Last August, Meta signed a six-year, $10 billion deal with Google Cloud, though Meta had, until then, primarily been an AWS customer that also used Microsoft Azure.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;We couldn’t help but notice that AWS timed the announcement of this deal right as the Google Cloud Next conference wrapped up, like a virtual smirk at its cloud rival. Google, of course, also makes its own custom AI chips and announced new versions of them at the show.&lt;/p&gt;
 
@@ -59,9 +59,9 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;While GPUs remain the chip of choice for training large models, once those models are trained, AI agents built on top of them are causing a shift in the type of chip is needed. Agents create compute-intensive workloads like real-time reasoning, writing code, search, and the the coordination involved in managing agents through multi-step tasks. AWS’s latest version of Graviton was designed specifically to handle AI-related compute needs, the company says.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;While GPUs remain the chip of choice for training large models, once those models are trained, AI agents built on top of them are causing a shift in the type of chip needed. Agents create compute-intensive workloads like real-time reasoning, writing code, search, and the the coordination involved in managing agents through multi-step tasks. AWS’s latest version of Graviton was designed specifically to handle AI-related compute needs, the company says.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This deal brings more of Meta’s cash back to AWS instead of competitors like Google Cloud. Last August, Meta signed a six year, $10 billion deal with Google Cloud, though Meta had, until then, primarily been an AWS customer that also used Microsoft Azure.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;This deal brings more of Meta’s cash back to AWS instead of competitors like Google Cloud. Last August, Meta signed a six-year, $10 billion deal with Google Cloud, though Meta had, until then, primarily been an AWS customer that also used Microsoft Azure.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;We couldn’t help but notice that AWS timed the announcement of this deal right as the Google Cloud Next conference wrapped up, like a virtual smirk at its cloud rival. Google, of course, also makes its own custom AI chips and announced new versions of them at the show.&lt;/p&gt;
 
@@ -89,7 +89,7 @@
 &lt;p class="wp-block-paragraph"&gt;Earlier this month Amazon CEO Andy Jassy took aim at Nvidia and Intel in his annual shareholder letter, saying that enterprises want better price-performance ratios for AI, and that he intends to win deals on that basis. This also means the pressure couldn’t be higher on Amazon’s internal chip building team to deliver, a team that we visited last month in an exclusive tour of their lab.&lt;/p&gt;
 
 
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/</guid><pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate></item><item><title>[NEW] The Download: supercharged scams and studying AI healthcare (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of &lt;/em&gt;&lt;em&gt;The Download&lt;/em&gt;,&lt;em&gt; our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;We’re in a new era of AI-driven scams&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of cybercriminals, who began using LLMs to compose malicious emails. Since then, they’ve adopted AI for everything from turbocharged phishing and hyperrealistic deepfakes to automated vulnerability scans.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Many organizations are now struggling to cope with the sheer volume of cyberattacks. AI is making them faster, cheaper, and easier to carry out, a problem set to worsen as more cybercriminals adopt these tools—and their capabilities improve. Read the full story on how AI is reshaping cybercrime.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Rhiannon Williams&lt;/em&gt;&lt;/p&gt; 
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/</guid><pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate></item><item><title>The Download: supercharged scams and studying AI healthcare (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/</link><description>&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This is today's edition of &lt;/em&gt;&lt;em&gt;The Download&lt;/em&gt;,&lt;em&gt; our weekday newsletter that provides a daily dose of what's going on in the world of technology.&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;We’re in a new era of AI-driven scams&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of cybercriminals, who began using LLMs to compose malicious emails. Since then, they’ve adopted AI for everything from turbocharged phishing and hyperrealistic deepfakes to automated vulnerability scans.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;Many organizations are now struggling to cope with the sheer volume of cyberattacks. AI is making them faster, cheaper, and easier to carry out, a problem set to worsen as more cybercriminals adopt these tools—and their capabilities improve. Read the full story on how AI is reshaping cybercrime.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Rhiannon Williams&lt;/em&gt;&lt;/p&gt; 
  &lt;p&gt;&lt;strong&gt;“Supercharged scams” is one of the &lt;/strong&gt;&lt;strong&gt;10 Things That Matter in AI Right Now&lt;/strong&gt;&lt;strong&gt;, our essential guide to what’s really worth your attention in the field. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Subscribers&lt;/strong&gt;&lt;strong&gt; can watch an &lt;/strong&gt;&lt;strong&gt;exclusive roundtable&lt;/strong&gt;&lt;strong&gt; unveiling the technologies and trends on the list, with analysis from &lt;em&gt;MIT Technology Review’s&lt;/em&gt; AI reporter Grace Huckins and executive editors Amy Nordrum and Niall Firth.&lt;/strong&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Healthcare AI is here. We don’t know if it actually helps patients.&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays.&lt;/p&gt; 
  &lt;p&gt;A growing number of studies suggest that many of these tools can deliver accurate results. But there’s a bigger question here: Does using them actually translate into better health outcomes for patients? We don’t yet have a good answer—here’s why.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;The story is from &lt;/strong&gt;&lt;strong&gt;The Checkup&lt;/strong&gt;&lt;strong&gt;, our weekly newsletter that gives you the latest from the worlds of health and biotech. &lt;/strong&gt;&lt;strong&gt;Sign up&lt;/strong&gt;&lt;strong&gt; to receive it in your inbox every Thursday.&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 DeepSeek has unveiled its long-awaited new AI model&lt;br /&gt;&lt;/strong&gt;The Chinese company has just launched preview versions of DeepSeek-V4. (CNN)&lt;br /&gt;&lt;em&gt;+It says V4 is the most powerful open-source platform.&lt;/em&gt; (Bloomberg $) &lt;br /&gt;&lt;em&gt;+ And rivals top closed-source models from OpenAI and DeepMind.&lt;/em&gt; (SCMP)&lt;br /&gt;&lt;em&gt;+ The model is adapted for Huawei chip technology. &lt;/em&gt;(Reuters $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2 More countries are curbing children's social media access&lt;/strong&gt;&lt;br /&gt;Norway is set to enforce the latest ban. (Reuters $)&lt;br /&gt;&lt;em&gt;+ The Philippines could follow soon. &lt;/em&gt;(Bloomberg $)&lt;br /&gt;&lt;em&gt;+ Americans are pushing to get AI out of schools.&lt;/em&gt; (The New Yorker)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;3 The US has accused China of mass AI theft as tensions rise&lt;/strong&gt;&lt;br /&gt;A White House memo claims Chinese firms are exploiting American models&lt;strong&gt;. &lt;/strong&gt;(BBC)&lt;br /&gt;&lt;em&gt;+ Beijing calls the accusations “slander.”&lt;/em&gt; (Ars Technica)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;4 OpenAI set itself apart from Anthropic by widely releasing its new model&lt;/strong&gt;&lt;br /&gt;It’s releasing GPT-5.5 to all ChatGPT users, despite cybersecurity concerns&lt;em&gt;. &lt;/em&gt;(NYT $)&lt;br /&gt;&lt;em&gt;+ OpenAI says the new model is better at coding and more efficient. (&lt;/em&gt;The Verge)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;5 Meta is cutting 10% of jobs to offset AI spending&lt;br /&gt;&lt;/strong&gt;Roughly 8,000 layoffs are set to be announced on May 20. (QZ)&lt;br /&gt;&lt;em&gt;+ Anti-AI protests are growing. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;6 Palantir is facing a backlash from employees&lt;br /&gt;&lt;/strong&gt;Thanks to its work with ICE and the Trump administration. (Wired $)&lt;br /&gt;&lt;em&gt;+ Surveillance tech is reshaping the fight for privacy. &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 The era of free access to advanced AI is coming to an end&lt;br /&gt;AI labs are under mounting pressure to start turning profits. (The Verge)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8 Elon Musk's feud with Sam Altman is heading to court&amp;nbsp;&lt;br /&gt;The case has already revealed several unflattering secrets. (WP $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;9 A new movement is encouraging people to ditch their smartphones for a month&lt;br /&gt;&lt;/strong&gt;“Month Offline” is like a Dry January for smartphones. (The Atlantic)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;10 Spotify has revealed its most-streamed music of the last 20 years&lt;/strong&gt;&lt;br /&gt;Featuring Taylor Swift, Bad Bunny, and The Weeknd. (Gizmodo)&amp;nbsp;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;“We want a childhood where children get to be children. Play, friendships, and everyday life must not be taken over by algorithms and screens.”&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;—Norwegian Prime Minister Jonas Gahr Store announces age restrictions for social media.&lt;/p&gt; 
 
@@ -97,7 +97,7 @@
  &lt;p&gt;&lt;strong&gt;“Supercharged scams” is one of the &lt;/strong&gt;&lt;strong&gt;10 Things That Matter in AI Right Now&lt;/strong&gt;&lt;strong&gt;, our essential guide to what’s really worth your attention in the field. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Subscribers&lt;/strong&gt;&lt;strong&gt; can watch an &lt;/strong&gt;&lt;strong&gt;exclusive roundtable&lt;/strong&gt;&lt;strong&gt; unveiling the technologies and trends on the list, with analysis from &lt;em&gt;MIT Technology Review’s&lt;/em&gt; AI reporter Grace Huckins and executive editors Amy Nordrum and Niall Firth.&lt;/strong&gt;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Healthcare AI is here. We don’t know if it actually helps patients.&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays.&lt;/p&gt; 
  &lt;p&gt;A growing number of studies suggest that many of these tools can deliver accurate results. But there’s a bigger question here: Does using them actually translate into better health outcomes for patients? We don’t yet have a good answer—here’s why.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;The story is from &lt;/strong&gt;&lt;strong&gt;The Checkup&lt;/strong&gt;&lt;strong&gt;, our weekly newsletter that gives you the latest from the worlds of health and biotech. &lt;/strong&gt;&lt;strong&gt;Sign up&lt;/strong&gt;&lt;strong&gt; to receive it in your inbox every Thursday.&lt;/strong&gt;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;The must-reads&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;em&gt;I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;1 DeepSeek has unveiled its long-awaited new AI model&lt;br /&gt;&lt;/strong&gt;The Chinese company has just launched preview versions of DeepSeek-V4. (CNN)&lt;br /&gt;&lt;em&gt;+It says V4 is the most powerful open-source platform.&lt;/em&gt; (Bloomberg $) &lt;br /&gt;&lt;em&gt;+ And rivals top closed-source models from OpenAI and DeepMind.&lt;/em&gt; (SCMP)&lt;br /&gt;&lt;em&gt;+ The model is adapted for Huawei chip technology. &lt;/em&gt;(Reuters $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2 More countries are curbing children's social media access&lt;/strong&gt;&lt;br /&gt;Norway is set to enforce the latest ban. (Reuters $)&lt;br /&gt;&lt;em&gt;+ The Philippines could follow soon. &lt;/em&gt;(Bloomberg $)&lt;br /&gt;&lt;em&gt;+ Americans are pushing to get AI out of schools.&lt;/em&gt; (The New Yorker)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;3 The US has accused China of mass AI theft as tensions rise&lt;/strong&gt;&lt;br /&gt;A White House memo claims Chinese firms are exploiting American models&lt;strong&gt;. &lt;/strong&gt;(BBC)&lt;br /&gt;&lt;em&gt;+ Beijing calls the accusations “slander.”&lt;/em&gt; (Ars Technica)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;4 OpenAI set itself apart from Anthropic by widely releasing its new model&lt;/strong&gt;&lt;br /&gt;It’s releasing GPT-5.5 to all ChatGPT users, despite cybersecurity concerns&lt;em&gt;. &lt;/em&gt;(NYT $)&lt;br /&gt;&lt;em&gt;+ OpenAI says the new model is better at coding and more efficient. (&lt;/em&gt;The Verge)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;5 Meta is cutting 10% of jobs to offset AI spending&lt;br /&gt;&lt;/strong&gt;Roughly 8,000 layoffs are set to be announced on May 20. (QZ)&lt;br /&gt;&lt;em&gt;+ Anti-AI protests are growing. &lt;/em&gt;(MIT Technology Review)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;6 Palantir is facing a backlash from employees&lt;br /&gt;&lt;/strong&gt;Thanks to its work with ICE and the Trump administration. (Wired $)&lt;br /&gt;&lt;em&gt;+ Surveillance tech is reshaping the fight for privacy. &lt;/em&gt;(MIT Technology Review)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 The era of free access to advanced AI is coming to an end&lt;br /&gt;AI labs are under mounting pressure to start turning profits. (The Verge)&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8 Elon Musk's feud with Sam Altman is heading to court&amp;nbsp;&lt;br /&gt;The case has already revealed several unflattering secrets. (WP $)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;9 A new movement is encouraging people to ditch their smartphones for a month&lt;br /&gt;&lt;/strong&gt;“Month Offline” is like a Dry January for smartphones. (The Atlantic)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;10 Spotify has revealed its most-streamed music of the last 20 years&lt;/strong&gt;&lt;br /&gt;Featuring Taylor Swift, Bad Bunny, and The Weeknd. (Gizmodo)&amp;nbsp;&lt;/p&gt;  &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Quote of the day&lt;/strong&gt;&lt;/p&gt;  &lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;“We want a childhood where children get to be children. Play, friendships, and everyday life must not be taken over by algorithms and screens.”&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;—Norwegian Prime Minister Jonas Gahr Store announces age restrictions for social media.&lt;/p&gt; 
 
- &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One More Thing&lt;/strong&gt;&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="&amp;quot;&amp;quot;" class="wp-image-1088080" src="https://wp.technologyreview.com/wp-content/uploads/2024/02/europa.jpg?w=3000" /&gt;&lt;div class="image-credit"&gt;NASA/JPL-CALTECH VIA WIKIMEDIA COMMONS; CRAFT NASA/JPL-CALTECH/SWRI/MSSS; IMAGE PROCESSING: KEVIN M. GILL&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;h4 class="wp-block-heading"&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;strong&gt;The search for extraterrestrial life is targeting Jupiter’s icy moon Europa&lt;/strong&gt;&lt;/h4&gt;  &lt;p&gt;As astronomers have discovered more about Europa over the past few decades, Jupiter’s fourth-largest moon has excited planetary scientists interested in the geophysics of alien worlds.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;All that water and energy—and hints of elements essential for building organic molecules —point to an extraordinary possibility. In the depths of its ocean, or perhaps crowded in subsurface lakes or below icy surface vents, Jupiter’s big, bright moon could host life.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;To find further evidence, NASA is now searching for signs of alien existence on Europa. Read the full story on the mission.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/</guid><pubDate>Fri, 24 Apr 2026 12:10:00 +0000</pubDate></item><item><title>[NEW] DeepSeek previews new AI model that ‘closes the gap’ with frontier models (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
+ &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;One More Thing&lt;/strong&gt;&lt;/p&gt; &lt;div class="wp-block-image"&gt; &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="&amp;quot;&amp;quot;" class="wp-image-1088080" src="https://wp.technologyreview.com/wp-content/uploads/2024/02/europa.jpg?w=3000" /&gt;&lt;div class="image-credit"&gt;NASA/JPL-CALTECH VIA WIKIMEDIA COMMONS; CRAFT NASA/JPL-CALTECH/SWRI/MSSS; IMAGE PROCESSING: KEVIN M. GILL&lt;/div&gt; &lt;/figure&gt; &lt;/div&gt; &lt;h4 class="wp-block-heading"&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;strong&gt;The search for extraterrestrial life is targeting Jupiter’s icy moon Europa&lt;/strong&gt;&lt;/h4&gt;  &lt;p&gt;As astronomers have discovered more about Europa over the past few decades, Jupiter’s fourth-largest moon has excited planetary scientists interested in the geophysics of alien worlds.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;All that water and energy—and hints of elements essential for building organic molecules —point to an extraordinary possibility. In the depths of its ocean, or perhaps crowded in subsurface lakes or below icy surface vents, Jupiter’s big, bright moon could host life.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;To find further evidence, NASA is now searching for signs of alien existence on Europa. Read the full story on the mission.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/</guid><pubDate>Fri, 24 Apr 2026 12:10:00 +0000</pubDate></item><item><title>DeepSeek previews new AI model that ‘closes the gap’ with frontier models (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/</link><description>&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Chinese AI lab DeepSeek has launched two preview versions of its newest large language model, DeepSeek V4, a much-awaited update to last year’s V3.2 model and the accompanying R1 reasoning model that took the AI world by storm.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The company says both DeepSeek V4 Flash and V4 Pro are mixture-of-experts models with context windows of 1 million tokens each — enough to allow large codebases or documents to be used in prompts. The mixture-of-experts approach involves activating only a certain number of parameters per task to lower inference costs.&lt;/p&gt;
@@ -112,9 +112,9 @@
 
 &lt;p class="wp-block-paragraph"&gt;DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost “closed the gap” with current leading models, both open and closed, on reasoning benchmarks. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The company claims its new V4-Pro-Max model outperforms its open-source peers across reasoning benchmarks, and outstrips OpenAI’s GPT-5.2 and Gemini 3.0 Pro on some tasks. In coding competition benchmarks, DeepSeek said both V4 models’ performance is “comparable to GPT-5.4.” &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The company claims its new V4-Pro-Max model outperforms its opensource peers across reasoning benchmarks, and outstrips OpenAI’s GPT-5.2 and Gemini 3.0 Pro on some tasks. In coding competition benchmarks, DeepSeek said both V4 models’ performance is “comparable to GPT-5.4.”&lt;/p&gt;
 
-
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3116128" height="469" src="https://techcrunch.com/wp-content/uploads/2026/04/260424_18h44m20s_screenshot.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;DeepSeek&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p class="wp-block-paragraph"&gt;However, the models seem to fall slightly behind frontier models in knowledge tests, specifically OpenAI’s GPT-5.4 and Google’s latest Gemini 3.1 Pro. This lag suggests a “developmental trajectory that trails state-of-the-art frontier models by approximately 3 to 6 months,” the lab wrote.&lt;/p&gt;
 
@@ -140,7 +140,7 @@
 &lt;p class="wp-block-paragraph"&gt;The launch comes a day after the U.S. accused China of stealing American AI labs’ IP on an industrial scale using thousands of proxy accounts. DeepSeek itself has been accused by Anthropic and OpenAI of “distilling,” essentially copying, their AI models.&lt;/p&gt;
 
 
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Chinese AI lab DeepSeek has launched two preview versions of its newest large language model, DeepSeek V4, a much-awaited update to last year’s V3.2 model and the accompanying R1 reasoning model that took the AI world by storm.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The company says both DeepSeek V4 Flash and V4 Pro are mixture-of-experts models with context windows of 1 million tokens each — enough to allow large codebases or documents to be used in prompts. The mixture-of-experts approach involves activating only a certain number of parameters per task to lower inference costs.&lt;/p&gt;
@@ -155,9 +155,9 @@
 
 &lt;p class="wp-block-paragraph"&gt;DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost “closed the gap” with current leading models, both open and closed, on reasoning benchmarks. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The company claims its new V4-Pro-Max model outperforms its open-source peers across reasoning benchmarks, and outstrips OpenAI’s GPT-5.2 and Gemini 3.0 Pro on some tasks. In coding competition benchmarks, DeepSeek said both V4 models’ performance is “comparable to GPT-5.4.” &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The company claims its new V4-Pro-Max model outperforms its opensource peers across reasoning benchmarks, and outstrips OpenAI’s GPT-5.2 and Gemini 3.0 Pro on some tasks. In coding competition benchmarks, DeepSeek said both V4 models’ performance is “comparable to GPT-5.4.”&lt;/p&gt;
 
-
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3116128" height="469" src="https://techcrunch.com/wp-content/uploads/2026/04/260424_18h44m20s_screenshot.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;DeepSeek&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p class="wp-block-paragraph"&gt;However, the models seem to fall slightly behind frontier models in knowledge tests, specifically OpenAI’s GPT-5.4 and Google’s latest Gemini 3.1 Pro. This lag suggests a “developmental trajectory that trails state-of-the-art frontier models by approximately 3 to 6 months,” the lab wrote.&lt;/p&gt;
 
@@ -183,4 +183,1204 @@
 &lt;p class="wp-block-paragraph"&gt;The launch comes a day after the U.S. accused China of stealing American AI labs’ IP on an industrial scale using thousands of proxy accounts. DeepSeek itself has been accused by Anthropic and OpenAI of “distilling,” essentially copying, their AI models.&lt;/p&gt;
 
 
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/</guid><pubDate>Fri, 24 Apr 2026 13:30:59 +0000</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/</guid><pubDate>Fri, 24 Apr 2026 13:30:59 +0000</pubDate></item><item><title>[NEW] Nothing introduces an AI-powered dictation tool (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/IMG_2376-rotated.jpeg?resize=900,1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In the last few years, AI-powered dictation tools have taken off. In addition to existing dictation apps like Wispr Flow, Superwhisper, Willow, and Monologue, new ones are being launched every week. On Thursday, hardware company Nothing launched a competitive product of its own, called Essential Voice.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The core idea is similar to other dictation apps, as Essential Voice works in any app to turn your speech into formatted text, removing filler words like “um” and “ah” along the way. The company said that you can also create custom voice shortcuts for words, links, templates, and repeated phrases. For instance, you can assign the “my address” shortcut to your full address.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;At the moment, the feature is available on the Phone (3) with rollout for Phone (4a) Pro planned for later this month, and support for Phone (4a) arriving next month.&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;The average person types 36 words a minute on a phone.&lt;/p&gt;&lt;p&gt;But, they can say it four times faster.&lt;/p&gt;&lt;p&gt;Essential Voice turns your speech into clear, ready-to-use writing. pic.twitter.com/l08bnS8sNF&lt;/p&gt;— Essential (@essential) April 23, 2026&lt;/blockquote&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To access the feature, users either press the Essential key on devices where it is present or activate it from the keyboard. The feature is similar to the one that Superwhisper released earlier this week for iPhone users, which allows them to map the iPhone’s action key to the app’s keyboard for dictation.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Nothing’s new tool can also translate text directly from one language to another. At launch, Nothing said the feature supports over 100 languages. Going forward, it will also introduce app-based custom styling, meaning you’ll be able to change the tone of the AI editing within app categories, like work and messaging.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Nothing is one of the first companies to offer a system-level integration for dictation. However, based on Google’s recent release of its offline dictation app, we might see more companies release similar tools in the future.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/07/IMG_2376-rotated.jpeg?resize=900,1200" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In the last few years, AI-powered dictation tools have taken off. In addition to existing dictation apps like Wispr Flow, Superwhisper, Willow, and Monologue, new ones are being launched every week. On Thursday, hardware company Nothing launched a competitive product of its own, called Essential Voice.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The core idea is similar to other dictation apps, as Essential Voice works in any app to turn your speech into formatted text, removing filler words like “um” and “ah” along the way. The company said that you can also create custom voice shortcuts for words, links, templates, and repeated phrases. For instance, you can assign the “my address” shortcut to your full address.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;At the moment, the feature is available on the Phone (3) with rollout for Phone (4a) Pro planned for later this month, and support for Phone (4a) arriving next month.&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;The average person types 36 words a minute on a phone.&lt;/p&gt;&lt;p&gt;But, they can say it four times faster.&lt;/p&gt;&lt;p&gt;Essential Voice turns your speech into clear, ready-to-use writing. pic.twitter.com/l08bnS8sNF&lt;/p&gt;— Essential (@essential) April 23, 2026&lt;/blockquote&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;To access the feature, users either press the Essential key on devices where it is present or activate it from the keyboard. The feature is similar to the one that Superwhisper released earlier this week for iPhone users, which allows them to map the iPhone’s action key to the app’s keyboard for dictation.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Nothing’s new tool can also translate text directly from one language to another. At launch, Nothing said the feature supports over 100 languages. Going forward, it will also introduce app-based custom styling, meaning you’ll be able to change the tone of the AI editing within app categories, like work and messaging.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Nothing is one of the first companies to offer a system-level integration for dictation. However, based on Google’s recent release of its offline dictation app, we might see more companies release similar tools in the future.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/</guid><pubDate>Fri, 24 Apr 2026 13:41:42 +0000</pubDate></item><item><title>[NEW] Tim Cook is stepping down. What happens to Apple now? (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-glowing-apple-logo-GettyImages-2234517515.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div class="jwppp-video-box" id="jwppp-video-box-31162121"&gt;
+
+
+
+
+
+&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tim Cook plans to step down from his CEO role in September,&amp;nbsp;handing the reins to hardware chief John Ternus.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ternus may be inheriting one of the most durable businesses in tech, but&amp;nbsp;he’s&amp;nbsp;also stepping into&amp;nbsp;a very different&amp;nbsp;ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the-scenes power Apple once held over developers is being challenged, and&amp;nbsp;vibe-coded&amp;nbsp;apps are changing what it means to build on Apple’s platform.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Watch as TechCrunch’s&amp;nbsp;Equity&amp;nbsp;podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what this transition means for startups and a closer look at some of the week’s biggest deals — including&amp;nbsp;SpaceX’s $60B option on Cursor.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-glowing-apple-logo-GettyImages-2234517515.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div class="jwppp-video-box" id="jwppp-video-box-31162121"&gt;
+
+
+
+
+
+&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tim Cook plans to step down from his CEO role in September,&amp;nbsp;handing the reins to hardware chief John Ternus.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ternus may be inheriting one of the most durable businesses in tech, but&amp;nbsp;he’s&amp;nbsp;also stepping into&amp;nbsp;a very different&amp;nbsp;ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the-scenes power Apple once held over developers is being challenged, and&amp;nbsp;vibe-coded&amp;nbsp;apps are changing what it means to build on Apple’s platform.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Watch as TechCrunch’s&amp;nbsp;Equity&amp;nbsp;podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what this transition means for startups and a closer look at some of the week’s biggest deals — including&amp;nbsp;SpaceX’s $60B option on Cursor.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/</guid><pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate></item><item><title>[NEW] Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/</link><description>&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Surprise! &lt;strong&gt;StrictlyVC San Francisco&lt;/strong&gt;, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked roster of speakers. Uber CTO Praveen Neppalli Naga will join us to discuss, you guessed it, operating at scale in the age of AI.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;You’ll need to act swiftly to grab a ticket, though&lt;/strong&gt;, for what’s becoming the go-to event within the SF startup scene next week. It’s an ideal one-stop shop for any founder or investor looking to widen their networks, deepen community ties, and learn from what’s now a wildly deep roster of speakers.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Naga’s conversation with TechCrunch editor-in-chief Connie Loizos will cover that wide purview, exploring what it’s taken to build the many complex, interwoven systems amid the AI revolution on one of the most widely used services on the planet. And his work with Uber runs deep, having been with the company since 2015, long preceding the AI boom that is refining what CTOs have to focus on.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;And it’s not &lt;em&gt;all &lt;/em&gt;AI. Naga has had a particular focus on developing earnings systems for drivers and couriers within Uber’s network, and he had previously played a key role in building LinkedIn’s early products and infrastructure that set it up to be the mainstay of professional life it is today.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3049712" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/Praveen_Neppalli_Naga_1000x1000.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Uber&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For those who haven’t been keeping score, we now have five (!!) speakers, including Naga:&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Eclipse founder and CEO Lior Susan, whose recently raised $1.3 billion fund is focusing on physical AI startups, will take a deep dive into the kinds of ventures and projects that excite him and that other investors should take note of.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Replit co-founder and CEO Amjad Masad will provide a look into the future of AI-driven software development, which couldn’t be coming at a better time amid big claims about AI coding capabilities and major concerns from engineers.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;TDK Ventures, our sponsor for the evening, will have its president, Nicolas Sauvage, host an essential conversation about the ins and outs of raising capital from strategic backers and other early-stage investing topics that founders and VCs won’t want to miss.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;And Campbell Brown, former CNN host and Meta media partnerships lead, will share her stories from entering the startup community with Forum AI, as she looks to contribute to the efforts to stem disinformation and inaccurate claims that arise from the misuse of AI.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Don’t wait, don’t procrastinate, &lt;strong&gt;act now and snag a ticket &lt;/strong&gt;before word on our latest speakers gets around. Block your calendar and make time to join the StrictlyVC community, and set yourself up for future success with the lessons learned from this SF event!&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Surprise! &lt;strong&gt;StrictlyVC San Francisco&lt;/strong&gt;, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked roster of speakers. Uber CTO Praveen Neppalli Naga will join us to discuss, you guessed it, operating at scale in the age of AI.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;You’ll need to act swiftly to grab a ticket, though&lt;/strong&gt;, for what’s becoming the go-to event within the SF startup scene next week. It’s an ideal one-stop shop for any founder or investor looking to widen their networks, deepen community ties, and learn from what’s now a wildly deep roster of speakers.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Naga’s conversation with TechCrunch editor-in-chief Connie Loizos will cover that wide purview, exploring what it’s taken to build the many complex, interwoven systems amid the AI revolution on one of the most widely used services on the planet. And his work with Uber runs deep, having been with the company since 2015, long preceding the AI boom that is refining what CTOs have to focus on.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;And it’s not &lt;em&gt;all &lt;/em&gt;AI. Naga has had a particular focus on developing earnings systems for drivers and couriers within Uber’s network, and he had previously played a key role in building LinkedIn’s early products and infrastructure that set it up to be the mainstay of professional life it is today.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3049712" height="680" src="https://techcrunch.com/wp-content/uploads/2025/09/Praveen_Neppalli_Naga_1000x1000.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Uber&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For those who haven’t been keeping score, we now have five (!!) speakers, including Naga:&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Eclipse founder and CEO Lior Susan, whose recently raised $1.3 billion fund is focusing on physical AI startups, will take a deep dive into the kinds of ventures and projects that excite him and that other investors should take note of.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Replit co-founder and CEO Amjad Masad will provide a look into the future of AI-driven software development, which couldn’t be coming at a better time amid big claims about AI coding capabilities and major concerns from engineers.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;TDK Ventures, our sponsor for the evening, will have its president, Nicolas Sauvage, host an essential conversation about the ins and outs of raising capital from strategic backers and other early-stage investing topics that founders and VCs won’t want to miss.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;And Campbell Brown, former CNN host and Meta media partnerships lead, will share her stories from entering the startup community with Forum AI, as she looks to contribute to the efforts to stem disinformation and inaccurate claims that arise from the misuse of AI.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Don’t wait, don’t procrastinate, &lt;strong&gt;act now and snag a ticket &lt;/strong&gt;before word on our latest speakers gets around. Block your calendar and make time to join the StrictlyVC community, and set yourself up for future success with the lessons learned from this SF event!&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/</guid><pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate></item><item><title>[NEW] Man faces 5 years in prison for using AI to fake sighting of runaway wolf (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Beloved wolf gripped the nation after burrowing out of the zoo.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1057635418-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1057635418-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Adria  Photography | Moment
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;A 40-year-old man was arrested after using artificial intelligence to generate a fake image of a runaway wolf that South Korean authorities said obstructed an urgent investigation, the BBC reported.&lt;/p&gt;
+&lt;figure class="ars-wp-img-shortcode id-2151411 align-none"&gt;
+    &lt;div&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="alt" class="none medium" height="440" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/AI-generated-pic-of-Neukgu-640x440.jpg" width="640" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      AI-generated image of Neukgu.
+
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;After Neukgu, a 2-year-old wolf, burrowed out of a zoo in Daejeon city, officials launched an all-out effort to bring him back. The third-generation descendant’s safe return was deemed critical to a yearslong effort to revive wolf populations after native South Korean wolves became extinct in the wild in the 1960s.&lt;/p&gt;
+&lt;p&gt;Concern increased nationwide, with animal rights activists worried the wolf would be injured in the wild or perhaps killed during his rescue. South Korea’s president, Lee Jae Myung, promised that rescue teams would prioritize Neukgu’s safety, The Guardian reported.&lt;/p&gt;
+&lt;p&gt;Drones, police, emergency workers, and veterinarians all joined the search, alongside community members whose footage documenting the wolf’s movements helped guide search teams.&lt;/p&gt;
+&lt;p&gt;That’s why an AI-generated photo purporting to show Neukgu at an intersection—which began circulating hours after Neukgu went missing—prompted police to charge the man who created it. After seeing the image, the Daejeon city government issued an emergency text warning residents of a wolf in the area, and police even reportedly showed the photo at a press briefing while diverting resources to search the area, the BBC reported.&lt;/p&gt;
+&lt;p&gt;It’s unclear exactly how police identified the suspect, but the BBC reported that police reviewed security camera footage and obtained records confirming his use of AI tools. Upon arrest, the man told police that he made the image “for fun,” the BBC reported.&lt;/p&gt;
+&lt;p&gt;He now faces a maximum sentence of five years in prison or a fine of up to $6,700, as police seek to prove that the AI photo disrupted their search.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;h2&gt;Fans used AI to celebrate safe return&lt;/h2&gt;
+&lt;p&gt;After nine days of searching, Neukgu was finally returned to the zoo, where he is now recovering outside the social media spotlight.&lt;/p&gt;
+&lt;p&gt;But his Internet fame lives on as a memecoin launched shortly after his escape. On the memecoin website, Neukgu is described as a “brave wolf” in search of “freedom,” becoming a “symbol of independence” that the token supposedly represents. He’s “the wolf that wouldn’t stay caged,” the website says, while encouraging fans to buy tokens.&lt;/p&gt;
+&lt;p&gt;Early on, the wolf was nearly captured after drone footage detected him on a mountain, but he escaped the perimeter rescue workers set up, The Guardian reported. Cops also felt hot on the trail after a driver shared footage showing Neukgu trotting alongside a mountain road. Eventually, the wolf was “found and tranquilized on a hill near an expressway,” The Guardian reported. The only sign he’d left the zoo was a small fishing hook that veterinarians removed from his stomach.&lt;/p&gt;
+&lt;p&gt;You can still review Neukgu’s entire journey, however, thanks to an adorable fan-created map that tracked reported sightings. The fake AI sighting seemingly isn’t included on the map, which, translated, is titled “where you going wolf.”&lt;/p&gt;
+&lt;div class="ars-lightbox align-fullwidth my-5"&gt;
+    
+          &lt;div class="flex flex-col flex-nowrap gap-5 py-5 md:flex-row"&gt;
+  &lt;div class="class"&gt;
+    &lt;div class="ars-lightbox-item relative block h-full w-full overflow-hidden rounded-sm"&gt;
+  
+    &lt;img alt="alt" class="ars-gallery-image" height="971" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/via-de0kgu-on-X-1024x971.jpg" width="1024" /&gt;
+  
+      
+  &lt;/div&gt;
+    &lt;div class="md:hidden"&gt;
+      &lt;div class="ars-gallery-caption"&gt;
+    
+
+    &lt;div class="ars-gallery-caption-content "&gt;
+                    &lt;span class="ars-gallery-caption-credit"&gt;
+                      via de0gku on X
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="flex-1"&gt;
+    &lt;div class="ars-lightbox-item relative block h-full w-full overflow-hidden rounded-sm"&gt;
+  
+    &lt;img alt="alt" class="ars-gallery-image" height="901" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/via-map.bizmetric.kr_-1024x901.jpg" width="1024" /&gt;
+  
+      
+  &lt;/div&gt;
+    &lt;div class="md:hidden"&gt;
+      &lt;div class="ars-gallery-caption"&gt;
+    
+
+    &lt;div class="ars-gallery-caption-content "&gt;
+              &lt;span class="ars-gallery-caption-text"&gt;Fans mapped the runaway wolf’s movements.&lt;/span&gt;
+                    &lt;span class="ars-gallery-caption-credit"&gt;
+                      via map.bizmetric.kr
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="hidden md:block"&gt;
+      &lt;div class="ars-gallery-caption"&gt;
+    
+
+    &lt;div class="ars-gallery-caption-content left"&gt;
+                    &lt;span class="ars-gallery-caption-credit"&gt;
+                      via de0gku on X
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;div class="ars-gallery-caption"&gt;
+    
+
+    &lt;div class="ars-gallery-caption-content right"&gt;
+              &lt;span class="ars-gallery-caption-text"&gt;Fans mapped the runaway wolf’s movements.&lt;/span&gt;
+                    &lt;span class="ars-gallery-caption-credit"&gt;
+                      via map.bizmetric.kr
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+      
+    
+    
+      &lt;/div&gt;
+
+&lt;p&gt;An opinion piece in ChoSun.com, a local South Korean outlet, suggested that although an elementary school was briefly shut down, communities never considered Neukgu to be a threat. Rather, the wolf seemed like “a lost puppy.” One X post with 2.4 million views showed the wolf as a young pup and urged, “Look at this wolf’s face… What the hell is this guy gonna do with a face like that…”&lt;/p&gt;
+&lt;p&gt;And although police have arrested one man for making an AI image that allegedly hindered their search, many other Neukgu fans have turned to AI to make celebratory posts like the “where you going wolf” map, ChoSun.com reported. AI-generated images of “Neukgu’s Daejeon Marathon,” “Neukgu City Tour,” and “Neukgu Escape Route Tracking” have reportedly been widely shared.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Beloved wolf gripped the nation after burrowing out of the zoo.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1057635418-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1057635418-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          Adria  Photography | Moment
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;A 40-year-old man was arrested after using artificial intelligence to generate a fake image of a runaway wolf that South Korean authorities said obstructed an urgent investigation, the BBC reported.&lt;/p&gt;
+&lt;figure class="ars-wp-img-shortcode id-2151411 align-none"&gt;
+    &lt;div&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="alt" class="none medium" height="440" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/AI-generated-pic-of-Neukgu-640x440.jpg" width="640" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      AI-generated image of Neukgu.
+
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;After Neukgu, a 2-year-old wolf, burrowed out of a zoo in Daejeon city, officials launched an all-out effort to bring him back. The third-generation descendant’s safe return was deemed critical to a yearslong effort to revive wolf populations after native South Korean wolves became extinct in the wild in the 1960s.&lt;/p&gt;
+&lt;p&gt;Concern increased nationwide, with animal rights activists worried the wolf would be injured in the wild or perhaps killed during his rescue. South Korea’s president, Lee Jae Myung, promised that rescue teams would prioritize Neukgu’s safety, The Guardian reported.&lt;/p&gt;
+&lt;p&gt;Drones, police, emergency workers, and veterinarians all joined the search, alongside community members whose footage documenting the wolf’s movements helped guide search teams.&lt;/p&gt;
+&lt;p&gt;That’s why an AI-generated photo purporting to show Neukgu at an intersection—which began circulating hours after Neukgu went missing—prompted police to charge the man who created it. After seeing the image, the Daejeon city government issued an emergency text warning residents of a wolf in the area, and police even reportedly showed the photo at a press briefing while diverting resources to search the area, the BBC reported.&lt;/p&gt;
+&lt;p&gt;It’s unclear exactly how police identified the suspect, but the BBC reported that police reviewed security camera footage and obtained records confirming his use of AI tools. Upon arrest, the man told police that he made the image “for fun,” the BBC reported.&lt;/p&gt;
+&lt;p&gt;He now faces a maximum sentence of five years in prison or a fine of up to $6,700, as police seek to prove that the AI photo disrupted their search.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;h2&gt;Fans used AI to celebrate safe return&lt;/h2&gt;
+&lt;p&gt;After nine days of searching, Neukgu was finally returned to the zoo, where he is now recovering outside the social media spotlight.&lt;/p&gt;
+&lt;p&gt;But his Internet fame lives on as a memecoin launched shortly after his escape. On the memecoin website, Neukgu is described as a “brave wolf” in search of “freedom,” becoming a “symbol of independence” that the token supposedly represents. He’s “the wolf that wouldn’t stay caged,” the website says, while encouraging fans to buy tokens.&lt;/p&gt;
+&lt;p&gt;Early on, the wolf was nearly captured after drone footage detected him on a mountain, but he escaped the perimeter rescue workers set up, The Guardian reported. Cops also felt hot on the trail after a driver shared footage showing Neukgu trotting alongside a mountain road. Eventually, the wolf was “found and tranquilized on a hill near an expressway,” The Guardian reported. The only sign he’d left the zoo was a small fishing hook that veterinarians removed from his stomach.&lt;/p&gt;
+&lt;p&gt;You can still review Neukgu’s entire journey, however, thanks to an adorable fan-created map that tracked reported sightings. The fake AI sighting seemingly isn’t included on the map, which, translated, is titled “where you going wolf.”&lt;/p&gt;
+&lt;div class="ars-lightbox align-fullwidth my-5"&gt;
+    
+          &lt;div class="flex flex-col flex-nowrap gap-5 py-5 md:flex-row"&gt;
+  &lt;div class="class"&gt;
+    &lt;div class="ars-lightbox-item relative block h-full w-full overflow-hidden rounded-sm"&gt;
+  
+    &lt;img alt="alt" class="ars-gallery-image" height="971" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/via-de0kgu-on-X-1024x971.jpg" width="1024" /&gt;
+  
+      
+  &lt;/div&gt;
+    &lt;div class="md:hidden"&gt;
+      &lt;div class="ars-gallery-caption"&gt;
+    
+
+    &lt;div class="ars-gallery-caption-content "&gt;
+                    &lt;span class="ars-gallery-caption-credit"&gt;
+                      via de0gku on X
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="flex-1"&gt;
+    &lt;div class="ars-lightbox-item relative block h-full w-full overflow-hidden rounded-sm"&gt;
+  
+    &lt;img alt="alt" class="ars-gallery-image" height="901" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/via-map.bizmetric.kr_-1024x901.jpg" width="1024" /&gt;
+  
+      
+  &lt;/div&gt;
+    &lt;div class="md:hidden"&gt;
+      &lt;div class="ars-gallery-caption"&gt;
+    
+
+    &lt;div class="ars-gallery-caption-content "&gt;
+              &lt;span class="ars-gallery-caption-text"&gt;Fans mapped the runaway wolf’s movements.&lt;/span&gt;
+                    &lt;span class="ars-gallery-caption-credit"&gt;
+                      via map.bizmetric.kr
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="hidden md:block"&gt;
+      &lt;div class="ars-gallery-caption"&gt;
+    
+
+    &lt;div class="ars-gallery-caption-content left"&gt;
+                    &lt;span class="ars-gallery-caption-credit"&gt;
+                      via de0gku on X
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;div class="ars-gallery-caption"&gt;
+    
+
+    &lt;div class="ars-gallery-caption-content right"&gt;
+              &lt;span class="ars-gallery-caption-text"&gt;Fans mapped the runaway wolf’s movements.&lt;/span&gt;
+                    &lt;span class="ars-gallery-caption-credit"&gt;
+                      via map.bizmetric.kr
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+      
+    
+    
+      &lt;/div&gt;
+
+&lt;p&gt;An opinion piece in ChoSun.com, a local South Korean outlet, suggested that although an elementary school was briefly shut down, communities never considered Neukgu to be a threat. Rather, the wolf seemed like “a lost puppy.” One X post with 2.4 million views showed the wolf as a young pup and urged, “Look at this wolf’s face… What the hell is this guy gonna do with a face like that…”&lt;/p&gt;
+&lt;p&gt;And although police have arrested one man for making an AI image that allegedly hindered their search, many other Neukgu fans have turned to AI to make celebratory posts like the “where you going wolf” map, ChoSun.com reported. AI-generated images of “Neukgu’s Daejeon Marathon,” “Neukgu City Tour,” and “Neukgu Escape Route Tracking” have reportedly been widely shared.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/</guid><pubDate>Fri, 24 Apr 2026 15:05:23 +0000</pubDate></item><item><title>[NEW] Why AI agents need interaction infrastructure (AI News)</title><link>https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/</link><description>&lt;p&gt;To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate.&lt;/p&gt;&lt;p&gt;AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt to coordinate work, exchange context, or operate across varied cloud environments, the interaction framework degrades quickly. Human operators find themselves acting as the manual glue between disconnected systems, managing fragile integrations while the rules dictating permissions and data sharing remain implicit.&lt;/p&gt;&lt;p&gt;Band, a startup based in Tel Aviv and San Francisco, has exited stealth mode with a $17 million seed round to address this infrastructure problem. The funding backs CEO Arick Goomanovsky and CTO Vlad Luzin in their effort to build a dedicated interaction layer for autonomous corporate systems. The concept mirrors earlier computing evolutions, wherein application programming interfaces required dedicated gateways and microservices necessitated a service mesh to function at scale.&lt;/p&gt;&lt;p&gt;As distributed systems multiply under the ownership of different internal teams, adding more business logic fails to resolve the underlying instability. Rather, interaction reliability requires a distinct infrastructure layer.&lt;/p&gt;&lt;p&gt;Market dynamics have changed in three key ways. First, autonomous actors have graduated from experimental deployments into active runtime participants managing engineering pipelines, customer support queries, and security operations. Enterprise usage is no longer a future consideration; it is an active operational state. The pressing issue involves managing what occurs when these distinct actors must collaborate.&lt;/p&gt;&lt;p&gt;Second, the operational environment is entirely heterogeneous. Engineering teams build distinct tools across varied frameworks. These models execute on competing cloud platforms, utilise varying communication protocols, and report to separate business owners. No single vendor maintains control, and no uniform framework encapsulates the entire ecosystem. This fragmentation represents the permanent shape of the enterprise market.&lt;/p&gt;&lt;p&gt;Third, a foundational standards layer is taking shape. Initiatives like the Model Context Protocol (MCP) afford models a uniform method for accessing external tools. Similarly, A2A communications efforts are establishing baseline conversational parameters.&lt;/p&gt;&lt;p&gt;Yet, while protocols define the handshake, they fail to manage the production environment. Standardised protocols do not administer routing, error recovery, authority boundaries, human oversight, or runtime governance. They cannot manifest the shared operational space necessary for reliable interaction. Band intends to fill this infrastructure void.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-financial-liability-of-unmanaged-automation"&gt;&lt;strong&gt;The financial liability of unmanaged automation&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Deploying independent models across business units creates compounding integration challenges. If point-to-point integrations must be hand-wired by internal development teams, the maintenance burden will drag down profit margins and delay product releases. The financial risk extends beyond simple integration costs.&lt;/p&gt;&lt;p&gt;When autonomous actors pass instructions between themselves without a central governor, organisations face ballooning compute expenses. Multi-agent inference requires continuous API calls to expensive large language models. A failure in routing or a looping error between two confused entities can consume substantial cloud budgets within hours.&lt;/p&gt;&lt;p&gt;Autonomous multi-agent workflows threaten this predictability if left unmanaged. An unmonitored negotiation between an internal procurement model and an external vendor model could trigger hundreds of inference cycles, inflating token usage costs beyond the value of the underlying transaction. Infrastructure layers must therefore implement hard financial circuit breakers, terminating interactions that exceed pre-defined token budgets or computational thresholds.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-hardening-the-multi-agent-execution-layer"&gt;&lt;strong&gt;Hardening the multi-agent execution layer&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Integrating these intelligent nodes with legacy corporate architecture demands intense engineering resources. Financial institutions and healthcare providers operate upon heavily fortified on-premises data warehouses, mainframe computation clusters, and customised enterprise resource planning applications.&lt;/p&gt;&lt;p&gt;Without a hardened interaction infrastructure, the risk of data corruption multiplies with every automated step. A billing model might initiate a transaction while a compliance model simultaneously flags the same account, creating a database lock or conflicting entries. The interaction layer prevents these collisions. By enforcing capability limits, the infrastructure guarantees an autonomous entity cannot force unapproved modifications to primary source systems.&lt;/p&gt;&lt;p&gt;Vector databases, which house the contextual memories required for retrieval-augmented generation, present a similar challenge. These storage systems are frequently configured in isolated environments tailored to individual use cases. If a technical support bot must transfer an ongoing customer interaction to a specialised hardware diagnostic bot, the contextual data must pass between isolated vector environments accurately.&lt;/p&gt;&lt;p&gt;Data degradation happens when models are forced to interpret summarised outputs from other models rather than accessing the original, cryptographically verified data logs. Halting this degradation requires rigid contextual borders and a central interaction mesh capable of tracing the complete lineage of all shared information.&lt;/p&gt;&lt;p&gt;The risk of data contamination creates liability issues. If a customer service model accidentally ingests highly classified financial data from an internal audit model during a contextual exchange, the compliance violation could trigger severe regulatory penalties.&lt;/p&gt;&lt;p&gt;Establishing a secure communication mesh allows data officers to enforce highly specific access controls at the interaction layer rather than attempting to reconstruct the logic of individual models. Every digital interaction requires cryptographic logging to ensure regulatory bodies can trace automated decisions back to their exact origination point.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-treating-the-communication-mesh-as-a-security-perimeter"&gt;&lt;strong&gt;Treating the communication mesh as a security perimeter&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;The platform’s design rejects the notion of a monolithic model managing the entire enterprise. Instead, it anticipates teams of specialised participants holding different strengths and fulfilling distinct roles, operating synchronously without requiring identical architectures.&lt;/p&gt;&lt;p&gt;Operating as a framework-agnostic and cloud-agnostic platform, the system acknowledges the value of existing tools. The market already possesses functional development frameworks. Band focuses on the operational phase, engaging when models leave the laboratory and enter the physical enterprise network as distributed entities.&lt;/p&gt;&lt;p&gt;Governance constitutes the core of this strategy. A frequent error in enterprise technology deployments involves treating governance as a secondary feature, patched onto the system after initial deployment. This approach fails when applying it to autonomous enterprise actors. These systems delegate tasks, transfer context, and execute actions across organisational lines. If authority rules remain implicit and data routing lacks transparency, the operation will lack the necessary trust, even if it functions technically.&lt;/p&gt;&lt;p&gt;To mitigate this risk, the underlying mesh must function as a security boundary. Organisations require mechanisms to inspect delegation chains, enforce strict authority limits, and retain comprehensive audit trails detailing runtime actions. Human participation must be integrated deeply into the execution layer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Collaboration mechanisms and governance controls must occupy the same infrastructure level. Without this foundation, the transition from single-model usage to a networked enterprise implementation will stall, hindered by compounding system failures and compliance violations. The companies that successfully deploy scalable operations will be those investing heavily in the underlying interaction infrastructure rather than simply accumulating impressive software demonstrations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;The billion-dollar startup with a different idea for AI&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-112840" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate.&lt;/p&gt;&lt;p&gt;AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt to coordinate work, exchange context, or operate across varied cloud environments, the interaction framework degrades quickly. Human operators find themselves acting as the manual glue between disconnected systems, managing fragile integrations while the rules dictating permissions and data sharing remain implicit.&lt;/p&gt;&lt;p&gt;Band, a startup based in Tel Aviv and San Francisco, has exited stealth mode with a $17 million seed round to address this infrastructure problem. The funding backs CEO Arick Goomanovsky and CTO Vlad Luzin in their effort to build a dedicated interaction layer for autonomous corporate systems. The concept mirrors earlier computing evolutions, wherein application programming interfaces required dedicated gateways and microservices necessitated a service mesh to function at scale.&lt;/p&gt;&lt;p&gt;As distributed systems multiply under the ownership of different internal teams, adding more business logic fails to resolve the underlying instability. Rather, interaction reliability requires a distinct infrastructure layer.&lt;/p&gt;&lt;p&gt;Market dynamics have changed in three key ways. First, autonomous actors have graduated from experimental deployments into active runtime participants managing engineering pipelines, customer support queries, and security operations. Enterprise usage is no longer a future consideration; it is an active operational state. The pressing issue involves managing what occurs when these distinct actors must collaborate.&lt;/p&gt;&lt;p&gt;Second, the operational environment is entirely heterogeneous. Engineering teams build distinct tools across varied frameworks. These models execute on competing cloud platforms, utilise varying communication protocols, and report to separate business owners. No single vendor maintains control, and no uniform framework encapsulates the entire ecosystem. This fragmentation represents the permanent shape of the enterprise market.&lt;/p&gt;&lt;p&gt;Third, a foundational standards layer is taking shape. Initiatives like the Model Context Protocol (MCP) afford models a uniform method for accessing external tools. Similarly, A2A communications efforts are establishing baseline conversational parameters.&lt;/p&gt;&lt;p&gt;Yet, while protocols define the handshake, they fail to manage the production environment. Standardised protocols do not administer routing, error recovery, authority boundaries, human oversight, or runtime governance. They cannot manifest the shared operational space necessary for reliable interaction. Band intends to fill this infrastructure void.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-financial-liability-of-unmanaged-automation"&gt;&lt;strong&gt;The financial liability of unmanaged automation&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Deploying independent models across business units creates compounding integration challenges. If point-to-point integrations must be hand-wired by internal development teams, the maintenance burden will drag down profit margins and delay product releases. The financial risk extends beyond simple integration costs.&lt;/p&gt;&lt;p&gt;When autonomous actors pass instructions between themselves without a central governor, organisations face ballooning compute expenses. Multi-agent inference requires continuous API calls to expensive large language models. A failure in routing or a looping error between two confused entities can consume substantial cloud budgets within hours.&lt;/p&gt;&lt;p&gt;Autonomous multi-agent workflows threaten this predictability if left unmanaged. An unmonitored negotiation between an internal procurement model and an external vendor model could trigger hundreds of inference cycles, inflating token usage costs beyond the value of the underlying transaction. Infrastructure layers must therefore implement hard financial circuit breakers, terminating interactions that exceed pre-defined token budgets or computational thresholds.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-hardening-the-multi-agent-execution-layer"&gt;&lt;strong&gt;Hardening the multi-agent execution layer&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Integrating these intelligent nodes with legacy corporate architecture demands intense engineering resources. Financial institutions and healthcare providers operate upon heavily fortified on-premises data warehouses, mainframe computation clusters, and customised enterprise resource planning applications.&lt;/p&gt;&lt;p&gt;Without a hardened interaction infrastructure, the risk of data corruption multiplies with every automated step. A billing model might initiate a transaction while a compliance model simultaneously flags the same account, creating a database lock or conflicting entries. The interaction layer prevents these collisions. By enforcing capability limits, the infrastructure guarantees an autonomous entity cannot force unapproved modifications to primary source systems.&lt;/p&gt;&lt;p&gt;Vector databases, which house the contextual memories required for retrieval-augmented generation, present a similar challenge. These storage systems are frequently configured in isolated environments tailored to individual use cases. If a technical support bot must transfer an ongoing customer interaction to a specialised hardware diagnostic bot, the contextual data must pass between isolated vector environments accurately.&lt;/p&gt;&lt;p&gt;Data degradation happens when models are forced to interpret summarised outputs from other models rather than accessing the original, cryptographically verified data logs. Halting this degradation requires rigid contextual borders and a central interaction mesh capable of tracing the complete lineage of all shared information.&lt;/p&gt;&lt;p&gt;The risk of data contamination creates liability issues. If a customer service model accidentally ingests highly classified financial data from an internal audit model during a contextual exchange, the compliance violation could trigger severe regulatory penalties.&lt;/p&gt;&lt;p&gt;Establishing a secure communication mesh allows data officers to enforce highly specific access controls at the interaction layer rather than attempting to reconstruct the logic of individual models. Every digital interaction requires cryptographic logging to ensure regulatory bodies can trace automated decisions back to their exact origination point.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-treating-the-communication-mesh-as-a-security-perimeter"&gt;&lt;strong&gt;Treating the communication mesh as a security perimeter&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;The platform’s design rejects the notion of a monolithic model managing the entire enterprise. Instead, it anticipates teams of specialised participants holding different strengths and fulfilling distinct roles, operating synchronously without requiring identical architectures.&lt;/p&gt;&lt;p&gt;Operating as a framework-agnostic and cloud-agnostic platform, the system acknowledges the value of existing tools. The market already possesses functional development frameworks. Band focuses on the operational phase, engaging when models leave the laboratory and enter the physical enterprise network as distributed entities.&lt;/p&gt;&lt;p&gt;Governance constitutes the core of this strategy. A frequent error in enterprise technology deployments involves treating governance as a secondary feature, patched onto the system after initial deployment. This approach fails when applying it to autonomous enterprise actors. These systems delegate tasks, transfer context, and execute actions across organisational lines. If authority rules remain implicit and data routing lacks transparency, the operation will lack the necessary trust, even if it functions technically.&lt;/p&gt;&lt;p&gt;To mitigate this risk, the underlying mesh must function as a security boundary. Organisations require mechanisms to inspect delegation chains, enforce strict authority limits, and retain comprehensive audit trails detailing runtime actions. Human participation must be integrated deeply into the execution layer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Collaboration mechanisms and governance controls must occupy the same infrastructure level. Without this foundation, the transition from single-model usage to a networked enterprise implementation will stall, hindered by compounding system failures and compliance violations. The companies that successfully deploy scalable operations will be those investing heavily in the underlying interaction infrastructure rather than simply accumulating impressive software demonstrations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: &lt;/strong&gt;&lt;strong&gt;The billion-dollar startup with a different idea for AI&lt;/strong&gt;&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-112840" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/</guid><pubDate>Fri, 24 Apr 2026 16:24:17 +0000</pubDate></item><item><title>[NEW] Marked-up Mac minis flood eBay amid shortages driven by AI (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/</link><description>&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Overpriced Mac minis are flooding eBay amid shortages of the sold-out machines, which have become a favored tool for running on-device AI models like OpenClaw.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This week, reports indicated that the $599 M4 Mac mini base model with 16GB RAM and 256GB of storage is sold out on Apple’s retail website, with no options for delivery or in-store pickup. The shortages have since extended to other configurations of the base model, regardless of the amount of memory selected. This is the first time the base model has been sold out, some outlets noted. Meanwhile, models with higher storage (512GB and up) are only available to ship starting in June.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;As a result, eBay has become a secondary market for these in-demand computers. On the site, various configurations of the M4 Mac mini are available for sale at higher prices than if buying direct from Apple, which is no longer an option.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Apple’s power-efficient Mac minis have become popular devices for testing and running at-home, on-device AI models, beginning with the OpenClaw craze but now extending to OpenClaw alternatives like ZeroClaw, other AI tools from Anthropic and OpenAI, Perplexity Computer, or other specialized local models. Unlike some PCs, Mac minis also run quietly and tend to be more reliable for 24/7 use, compared with laptop computers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The shortage of the devices also comes alongside an industry-wide memory crunch and plans for a Mac mini refresh, according to Bloomberg. However, refreshes of product lines haven’t led to shortages before.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Apple did not immediately respond to a request for comment.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This perfect storm of supply chain stress and increased demand for AI-friendly machines has inflated the prices of used consumer electronics.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As of Friday morning, M4 base models with the 16GB RAM/256GB SSD configuration were selling at markups like $715-$795 for a new, “open box” model, and as high as $979 for an “excellent” refurbished version. Some “lightly used, pre-owned” Mac minis with this configuration were selling for around $700 —&amp;nbsp;more than $100 more than the price of a new base model.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3116172" height="484" src="https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-24-at-11.58.21-AM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;eBay (screenshot)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;There was also a single listing for a $925 brand-new M4 Mac mini with the same 16GB RAM and 256GB storage; the listing warned in bright red text: “Last one.”&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3116171" height="192" src="https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-24-at-11.57.03-AM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;eBay (screenshot)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While you still may be able to score a reasonably priced refurb if you keep a close eye out (or if you win an eBay auction where the bid has started at a lower price point), it seems that the demand for the device is going to keep prices up until Apple’s supply chain refreshes.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;And now that the Mac mini is unavailable, Apple has begun to see increased demand for the Mac Studio, too. That computer is also now sold out across several configurations.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As Ars Technica pointed out, you can still get a MacBook Pro with 128GB RAM and larger SSDs within a few weeks, and even the new and popular MacBook Neo is still shipping within two to three weeks. This suggests the real issue is consumer demand for the Mac mini itself.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Overpriced Mac minis are flooding eBay amid shortages of the sold-out machines, which have become a favored tool for running on-device AI models like OpenClaw.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This week, reports indicated that the $599 M4 Mac mini base model with 16GB RAM and 256GB of storage is sold out on Apple’s retail website, with no options for delivery or in-store pickup. The shortages have since extended to other configurations of the base model, regardless of the amount of memory selected. This is the first time the base model has been sold out, some outlets noted. Meanwhile, models with higher storage (512GB and up) are only available to ship starting in June.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;As a result, eBay has become a secondary market for these in-demand computers. On the site, various configurations of the M4 Mac mini are available for sale at higher prices than if buying direct from Apple, which is no longer an option.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Apple’s power-efficient Mac minis have become popular devices for testing and running at-home, on-device AI models, beginning with the OpenClaw craze but now extending to OpenClaw alternatives like ZeroClaw, other AI tools from Anthropic and OpenAI, Perplexity Computer, or other specialized local models. Unlike some PCs, Mac minis also run quietly and tend to be more reliable for 24/7 use, compared with laptop computers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The shortage of the devices also comes alongside an industry-wide memory crunch and plans for a Mac mini refresh, according to Bloomberg. However, refreshes of product lines haven’t led to shortages before.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Apple did not immediately respond to a request for comment.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This perfect storm of supply chain stress and increased demand for AI-friendly machines has inflated the prices of used consumer electronics.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As of Friday morning, M4 base models with the 16GB RAM/256GB SSD configuration were selling at markups like $715-$795 for a new, “open box” model, and as high as $979 for an “excellent” refurbished version. Some “lightly used, pre-owned” Mac minis with this configuration were selling for around $700 —&amp;nbsp;more than $100 more than the price of a new base model.&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3116172" height="484" src="https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-24-at-11.58.21-AM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;eBay (screenshot)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;There was also a single listing for a $925 brand-new M4 Mac mini with the same 16GB RAM and 256GB storage; the listing warned in bright red text: “Last one.”&lt;/p&gt;
+
+&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3116171" height="192" src="https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-24-at-11.57.03-AM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;eBay (screenshot)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While you still may be able to score a reasonably priced refurb if you keep a close eye out (or if you win an eBay auction where the bid has started at a lower price point), it seems that the demand for the device is going to keep prices up until Apple’s supply chain refreshes.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;And now that the Mac mini is unavailable, Apple has begun to see increased demand for the Mac Studio, too. That computer is also now sold out across several configurations.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As Ars Technica pointed out, you can still get a MacBook Pro with 128GB RAM and larger SSDs within a few weeks, and even the new and popular MacBook Neo is still shipping within two to three weeks. This suggests the real issue is consumer demand for the Mac mini itself.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/</guid><pubDate>Fri, 24 Apr 2026 16:42:19 +0000</pubDate></item><item><title>[NEW] Report: Samsung execs worried company could lose money on smartphones for the first time (AI - Ars Technica)</title><link>https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        The AI-driven memory shortage is hitting Samsung’s bottom line.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="S26 Ultra back panel" class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-2-640x360.jpg" width="640" /&gt;
+                  &lt;img alt="S26 Ultra back panel" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-2-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      Samsung might lose money on smartphones in 2026 despite strong S26 sales. 
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Ryan Whitwam
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;Selling smartphones used to be easy—everyone wanted one, and every new phone was a lot better than the one that came before. Things are different now that smartphones are mature products. Plenty of manufacturers have thrown in the towel, leaving big players like Samsung to sell a new phone every couple of years. But even Samsung may find it tough to turn a profit in 2026 due to the ongoing race to build more AI capacity.&lt;/p&gt;
+&lt;p&gt;According to Money Today (Korean), Samsung MX (mobile experience) head TM Roh has warned company leadership that it could be headed for the first net loss on smartphones in the company’s history. Even during times of economic strife or amid pandemic-related supply chain chaos, Samsung still made money on smartphones. The skyrocketing price of DRAM and NAND may be what finally breaks the streak despite strong Galaxy S26 sales.&lt;/p&gt;
+&lt;p&gt;Shortages of these components have affected all types of computing hardware, from consumer laptops to servers. The LPDDR5x memory found in most mobile devices is increasingly important for AI. Nvidia’s Vera AI CPU, which will replace Grace later in 2026, will have up to 1.5 TB of LPDDR5x memory. The company’s upcoming rack-scale AI platforms will have 36 Vera CPUs alongside 72 Rubin GPUs. The CPUs in a single server will consume enough RAM for 4,600 Galaxy S26 Ultra devices (12GB each).&lt;/p&gt;
+&lt;p&gt;Until recently, the application processor (which includes the cellular radio) was the most expensive component of most smartphones, and the display usually came in right below that. The AI era has upended the formula, roughly doubling the cost of memory and storage. According to Counterpoint Research, RAM will account for more than a third of the cost of building a budget phone in mid-2026. Even with more expensive devices, memory is still north of 20 percent of the cost.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;figure class="ars-wp-img-shortcode id-2151436 align-fullwidth"&gt;
+    &lt;div&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="chart of memory and storage component prices" class="fullwidth full" height="506" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/d2f84980-1c29-11f1-ad78-f50e013bd5dd.png" width="1052" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      Manufacturing smartphones is getting much more expensive.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Counterpoint Research
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;The good news for Samsung is that while the MX division struggles, its semiconductor division is raking it in. Samsung Semiconductor has smashed records in the first quarter of 2026, earning an estimated $38 billion (KRW 57.2 trillion) in profit. That’s more than seven times its net from Q1 2025.&lt;/p&gt;
+&lt;p&gt;Samsung, Micron, and SK Hynix are all accelerating plans to expand memory and storage production lines—Samsung specifically has started spinning down LPDDR4 production to boost the supply of LPDDR5—but Nekkei Asia projects that won’t be enough. Even with best-case improvements in output, DRAM production in 2027 could fall 40 percent short of expected demand. The only thing that could challenge that prediction is a substantial change in demand for AI applications. With most of the world’s tech giants firmly committed to expanding AI compute through next year, it’s unlikely that supply constraints will ease soon.&lt;/p&gt;
+&lt;h2&gt;Higher demand, higher prices&lt;/h2&gt;
+&lt;p&gt;There are already signs that RAM and storage costs are making phones more expensive. Motorola recently&amp;nbsp;&lt;span style="margin: 0px; padding: 0px;"&gt;raised the price of&lt;/span&gt;&amp;nbsp;its Moto G budget phones by up to 50 percent. Low-cost devices like the Moto G will feel the rising cost of components the most, making the very idea of a budget phone in the coming years suspect.&lt;/p&gt;
+&lt;p&gt;With the prospect of sinking profitability in 2026, Samsung is also making changes. The recently released Galaxy A37 and A57 mid-range devices come with a $50 price hike over the last generation. The company has also increased prices on some more expensive devices, adding $80 to the Galaxy Z Flip 7 (512 GB) and Z Fold 7 (512 GB and 1 TB). Some of its tablets are also more spendy, including a $100 increase for the Galaxy Tab S11.&lt;/p&gt;
+&lt;p&gt;With profitability in doubt, Samsung is on the verge of releasing new, ultra-expensive phones. This summer, the company will debut a new generation of Galaxy Z foldables, which are always priced even higher than the Galaxy S series. These devices come with ample storage and RAM to help justify the exorbitant price tags. That makes them prime candidates for price hikes that leave foldables even more unrealistically expensive.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        The AI-driven memory shortage is hitting Samsung’s bottom line.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="S26 Ultra back panel" class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-2-640x360.jpg" width="640" /&gt;
+                  &lt;img alt="S26 Ultra back panel" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-2-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      Samsung might lose money on smartphones in 2026 despite strong S26 sales. 
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Ryan Whitwam
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;Selling smartphones used to be easy—everyone wanted one, and every new phone was a lot better than the one that came before. Things are different now that smartphones are mature products. Plenty of manufacturers have thrown in the towel, leaving big players like Samsung to sell a new phone every couple of years. But even Samsung may find it tough to turn a profit in 2026 due to the ongoing race to build more AI capacity.&lt;/p&gt;
+&lt;p&gt;According to Money Today (Korean), Samsung MX (mobile experience) head TM Roh has warned company leadership that it could be headed for the first net loss on smartphones in the company’s history. Even during times of economic strife or amid pandemic-related supply chain chaos, Samsung still made money on smartphones. The skyrocketing price of DRAM and NAND may be what finally breaks the streak despite strong Galaxy S26 sales.&lt;/p&gt;
+&lt;p&gt;Shortages of these components have affected all types of computing hardware, from consumer laptops to servers. The LPDDR5x memory found in most mobile devices is increasingly important for AI. Nvidia’s Vera AI CPU, which will replace Grace later in 2026, will have up to 1.5 TB of LPDDR5x memory. The company’s upcoming rack-scale AI platforms will have 36 Vera CPUs alongside 72 Rubin GPUs. The CPUs in a single server will consume enough RAM for 4,600 Galaxy S26 Ultra devices (12GB each).&lt;/p&gt;
+&lt;p&gt;Until recently, the application processor (which includes the cellular radio) was the most expensive component of most smartphones, and the display usually came in right below that. The AI era has upended the formula, roughly doubling the cost of memory and storage. According to Counterpoint Research, RAM will account for more than a third of the cost of building a budget phone in mid-2026. Even with more expensive devices, memory is still north of 20 percent of the cost.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;figure class="ars-wp-img-shortcode id-2151436 align-fullwidth"&gt;
+    &lt;div&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="chart of memory and storage component prices" class="fullwidth full" height="506" src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/d2f84980-1c29-11f1-ad78-f50e013bd5dd.png" width="1052" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      Manufacturing smartphones is getting much more expensive.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Counterpoint Research
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;The good news for Samsung is that while the MX division struggles, its semiconductor division is raking it in. Samsung Semiconductor has smashed records in the first quarter of 2026, earning an estimated $38 billion (KRW 57.2 trillion) in profit. That’s more than seven times its net from Q1 2025.&lt;/p&gt;
+&lt;p&gt;Samsung, Micron, and SK Hynix are all accelerating plans to expand memory and storage production lines—Samsung specifically has started spinning down LPDDR4 production to boost the supply of LPDDR5—but Nekkei Asia projects that won’t be enough. Even with best-case improvements in output, DRAM production in 2027 could fall 40 percent short of expected demand. The only thing that could challenge that prediction is a substantial change in demand for AI applications. With most of the world’s tech giants firmly committed to expanding AI compute through next year, it’s unlikely that supply constraints will ease soon.&lt;/p&gt;
+&lt;h2&gt;Higher demand, higher prices&lt;/h2&gt;
+&lt;p&gt;There are already signs that RAM and storage costs are making phones more expensive. Motorola recently&amp;nbsp;&lt;span style="margin: 0px; padding: 0px;"&gt;raised the price of&lt;/span&gt;&amp;nbsp;its Moto G budget phones by up to 50 percent. Low-cost devices like the Moto G will feel the rising cost of components the most, making the very idea of a budget phone in the coming years suspect.&lt;/p&gt;
+&lt;p&gt;With the prospect of sinking profitability in 2026, Samsung is also making changes. The recently released Galaxy A37 and A57 mid-range devices come with a $50 price hike over the last generation. The company has also increased prices on some more expensive devices, adding $80 to the Galaxy Z Flip 7 (512 GB) and Z Fold 7 (512 GB and 1 TB). Some of its tablets are also more spendy, including a $100 increase for the Galaxy Tab S11.&lt;/p&gt;
+&lt;p&gt;With profitability in doubt, Samsung is on the verge of releasing new, ultra-expensive phones. This summer, the company will debut a new generation of Galaxy Z foldables, which are always priced even higher than the Galaxy S series. These devices come with ample storage and RAM to help justify the exorbitant price tags. That makes them prime candidates for price hikes that leave foldables even more unrealistically expensive.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/</guid><pubDate>Fri, 24 Apr 2026 16:58:45 +0000</pubDate></item><item><title>[NEW] MIT scientists build the world’s largest collection of Olympiad-level math problems, and open it to everyone (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202604/MIT-MathNet.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
+            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
+          
+
+            &lt;p dir="ltr" id="docs-internal-guid-4c56fcbe-7fff-794e-4748-9b6db6a246ac"&gt;Every year, the countries competing in the International Mathematical Olympiad (IMO) arrive with a booklet of their best, most original problems. Those booklets get shared among delegations, then quietly disappear. No one had ever collected them systematically, cleaned them, and made them available, not for AI researchers testing the limits of mathematical reasoning, and not for the students around the world training for these competitions largely on their own.&lt;/p&gt;&lt;p dir="ltr"&gt;Researchers at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL), King Abdullah University of Science and Technology (KAUST), and the company HUMAIN have now done exactly that.&lt;/p&gt;&lt;p dir="ltr"&gt;MathNet is the largest high-quality dataset of proof-based math problems ever created. Comprising more than 30,000 expert-authored problems and solutions spanning 47 countries, 17 languages, and 143 competitions, it is five times larger than the next-biggest dataset of its kind. The work will be presented at the International Conference on Learning Representations (ICLR) in Brazil later this month.&lt;/p&gt;&lt;p dir="ltr"&gt;What makes MathNet different is not only its size, but its breadth. Previous Olympiad-level datasets draw almost exclusively from competitions in the United States and China. MathNet spans dozens of countries across six continents, covers 17 languages, includes both text- and image-based problems and solutions, and spans four decades of competition mathematics. The goal is to capture the full range of mathematical perspectives and problem-solving traditions that exist across the global math community, not just the most visible ones.&lt;/p&gt;&lt;p dir="ltr"&gt;"Every country brings a booklet of its most novel and most creative problems," says Shaden Alshammari, an MIT PhD student and lead author on the paper. "They share the booklets with each other, but no one had made the effort to collect them, clean them, and upload them online."&lt;/p&gt;&lt;p dir="ltr"&gt;Building MathNet required tracking down 1,595 PDF volumes totaling more than 25,000 pages, spanning digital documents and decades-old scans in more than a dozen languages. A significant portion of that archive came from an unlikely source: Navid Safaei, a longtime IMO community figure and co-author who had been collecting and scanning those booklets by hand since 2006. His personal archive formed much of the backbone of the dataset.&lt;/p&gt;&lt;p dir="ltr"&gt;The sourcing matters as much as the scale. Where most existing math datasets pull problems from community forums like Art of Problem Solving (AoPS), MathNet draws exclusively from official national competition booklets. The solutions in those booklets are expert-written and peer-reviewed, and they often run to multiple pages, with authors walking through several approaches to the same problem. That depth gives AI models a far richer signal for learning mathematical reasoning than the shorter, informal solutions typical of community-sourced datasets. It also means the dataset is genuinely useful for students: Anyone preparing for the IMO or a national competition now has access to a centralized, searchable collection of high-quality problems and worked solutions from traditions around the world.&lt;/p&gt;&lt;p dir="ltr"&gt;"I remember so many students for whom it was an individual effort. No one in their country was training them for this kind of competition," says Alshammari, who competed in the IMO as a student herself. "We hope this gives them a centralized place with high-quality problems and solutions to learn from."&lt;/p&gt;&lt;p dir="ltr"&gt;The team has deep roots in the IMO community. Sultan Albarakati, a co-author, currently serves on the IMO board, and the researchers are working to share the dataset with the IMO foundation directly. To validate the dataset, they assembled a grading group of more than 30 human evaluators from countries including Armenia, Russia, Ukraine, Vietnam, and Poland, who coordinated together to verify thousands of solutions.&lt;/p&gt;&lt;p dir="ltr"&gt;"The MathNet database has the potential to be an excellent resource for both students and leaders seeking new problems to work on or looking for the solution to a difficult question," says Tanish Patil, deputy leader of Switzerland's IMO. "Whilst other archives of Olympiad problems do exist (notably, the Contest Collections forums on AoPS), these resources lack standardized formatting system, verified solutions, and important problem metadata that topics and theory require. It will also be interesting to see how this dataset is used to improve the performance of reasoning models, and if we will soon be able to reliably answer an important issue when creating novel Olympiad questions: determining if a problem is truly original."&lt;/p&gt;&lt;p dir="ltr"&gt;MathNet also functions as a rigorous benchmark for AI performance, and the results reveal a more complicated picture than recent headlines about AI math prowess might suggest. Frontier models have made extraordinary progress: Some have reportedly achieved gold-medal performance at the IMO, and on standard benchmarks they now solve problems that would stump most humans. But MathNet shows that progress is uneven. Even GPT-5, the top-performing model tested, averaged around 69.3 percent on MathNet's main benchmark of 6,400 problems, failing nearly one-in-three Olympiad-level problems. And when problems include figures, performance drops significantly across the board, exposing visual reasoning as a consistent weak point for even the most capable models.&lt;/p&gt;&lt;p dir="ltr"&gt;Several open-source models scored 0 percent on Mongolian-language problems, highlighting another dimension where current AI systems fall short despite their overall strength.&lt;/p&gt;&lt;p dir="ltr"&gt;"GPT models are equally good in English and other languages," Alshammari says. "But many of the open-source models fail completely at less-common languages, such as Mongolian."&lt;/p&gt;&lt;p dir="ltr"&gt;The diversity of MathNet is also designed to address a deeper limitation in how AI models learn mathematics. When training data skews toward English and Chinese problems, models absorb a narrow slice of mathematical culture. A Romanian combinatorics problem or a Brazilian number theory problem may approach the same underlying concept from a completely different angle. Exposure to that range, the researchers argue, makes both humans and AI systems better mathematical thinkers.&lt;/p&gt;&lt;p dir="ltr"&gt;Beyond problem-solving, MathNet introduces a retrieval benchmark that asks whether models can recognize when two problems share the same underlying mathematical structure, a capability that matters both for AI development and for the math community itself. Near-duplicate problems have appeared in real IMO exams over the years because finding mathematical equivalences across different notations, languages, and formats is genuinely hard, even for expert human committees. Testing eight state-of-the-art embedding models, the researchers found that even the strongest identified the correct match only about 5 percent of the time on the first try, with models frequently ranking structurally unrelated problems as more similar than equivalent ones.&lt;/p&gt;&lt;p dir="ltr"&gt;The dataset also includes a retrieval-augmented generation benchmark, testing whether giving a model a structurally related problem before asking it to solve a new one improves performance. It does, but only when the retrieved problem is genuinely relevant. DeepSeek-V3.2-Speciale gained up to 12 percentage points with well-matched retrieval, while irrelevant retrieval degraded performance in roughly 22 percent of cases.&lt;/p&gt;&lt;p dir="ltr"&gt;Alshammari wrote the paper with Safaei, HUMAIN AI engineer Abrar Zainal, KAUST Academy Director Sultan Albarakati, and MIT CSAIL colleagues: master's student Kevin Wen SB ’25; Microsoft Principal Engineering Manager Mark Hamilton SM ’22, PhD ‘25; and professors William Freeman and Antonio Torralba. Their work was funded, in part, by the Schwarzman College of Computing Fellowship and the National Science Foundation.&lt;/p&gt;&lt;p&gt;MathNet is publicly available at mathnet.csail.mit.edu.&lt;/p&gt;        
+
+      &lt;/div&gt;
+        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202604/MIT-MathNet.jpg" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
+            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
+          
+
+            &lt;p dir="ltr" id="docs-internal-guid-4c56fcbe-7fff-794e-4748-9b6db6a246ac"&gt;Every year, the countries competing in the International Mathematical Olympiad (IMO) arrive with a booklet of their best, most original problems. Those booklets get shared among delegations, then quietly disappear. No one had ever collected them systematically, cleaned them, and made them available, not for AI researchers testing the limits of mathematical reasoning, and not for the students around the world training for these competitions largely on their own.&lt;/p&gt;&lt;p dir="ltr"&gt;Researchers at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL), King Abdullah University of Science and Technology (KAUST), and the company HUMAIN have now done exactly that.&lt;/p&gt;&lt;p dir="ltr"&gt;MathNet is the largest high-quality dataset of proof-based math problems ever created. Comprising more than 30,000 expert-authored problems and solutions spanning 47 countries, 17 languages, and 143 competitions, it is five times larger than the next-biggest dataset of its kind. The work will be presented at the International Conference on Learning Representations (ICLR) in Brazil later this month.&lt;/p&gt;&lt;p dir="ltr"&gt;What makes MathNet different is not only its size, but its breadth. Previous Olympiad-level datasets draw almost exclusively from competitions in the United States and China. MathNet spans dozens of countries across six continents, covers 17 languages, includes both text- and image-based problems and solutions, and spans four decades of competition mathematics. The goal is to capture the full range of mathematical perspectives and problem-solving traditions that exist across the global math community, not just the most visible ones.&lt;/p&gt;&lt;p dir="ltr"&gt;"Every country brings a booklet of its most novel and most creative problems," says Shaden Alshammari, an MIT PhD student and lead author on the paper. "They share the booklets with each other, but no one had made the effort to collect them, clean them, and upload them online."&lt;/p&gt;&lt;p dir="ltr"&gt;Building MathNet required tracking down 1,595 PDF volumes totaling more than 25,000 pages, spanning digital documents and decades-old scans in more than a dozen languages. A significant portion of that archive came from an unlikely source: Navid Safaei, a longtime IMO community figure and co-author who had been collecting and scanning those booklets by hand since 2006. His personal archive formed much of the backbone of the dataset.&lt;/p&gt;&lt;p dir="ltr"&gt;The sourcing matters as much as the scale. Where most existing math datasets pull problems from community forums like Art of Problem Solving (AoPS), MathNet draws exclusively from official national competition booklets. The solutions in those booklets are expert-written and peer-reviewed, and they often run to multiple pages, with authors walking through several approaches to the same problem. That depth gives AI models a far richer signal for learning mathematical reasoning than the shorter, informal solutions typical of community-sourced datasets. It also means the dataset is genuinely useful for students: Anyone preparing for the IMO or a national competition now has access to a centralized, searchable collection of high-quality problems and worked solutions from traditions around the world.&lt;/p&gt;&lt;p dir="ltr"&gt;"I remember so many students for whom it was an individual effort. No one in their country was training them for this kind of competition," says Alshammari, who competed in the IMO as a student herself. "We hope this gives them a centralized place with high-quality problems and solutions to learn from."&lt;/p&gt;&lt;p dir="ltr"&gt;The team has deep roots in the IMO community. Sultan Albarakati, a co-author, currently serves on the IMO board, and the researchers are working to share the dataset with the IMO foundation directly. To validate the dataset, they assembled a grading group of more than 30 human evaluators from countries including Armenia, Russia, Ukraine, Vietnam, and Poland, who coordinated together to verify thousands of solutions.&lt;/p&gt;&lt;p dir="ltr"&gt;"The MathNet database has the potential to be an excellent resource for both students and leaders seeking new problems to work on or looking for the solution to a difficult question," says Tanish Patil, deputy leader of Switzerland's IMO. "Whilst other archives of Olympiad problems do exist (notably, the Contest Collections forums on AoPS), these resources lack standardized formatting system, verified solutions, and important problem metadata that topics and theory require. It will also be interesting to see how this dataset is used to improve the performance of reasoning models, and if we will soon be able to reliably answer an important issue when creating novel Olympiad questions: determining if a problem is truly original."&lt;/p&gt;&lt;p dir="ltr"&gt;MathNet also functions as a rigorous benchmark for AI performance, and the results reveal a more complicated picture than recent headlines about AI math prowess might suggest. Frontier models have made extraordinary progress: Some have reportedly achieved gold-medal performance at the IMO, and on standard benchmarks they now solve problems that would stump most humans. But MathNet shows that progress is uneven. Even GPT-5, the top-performing model tested, averaged around 69.3 percent on MathNet's main benchmark of 6,400 problems, failing nearly one-in-three Olympiad-level problems. And when problems include figures, performance drops significantly across the board, exposing visual reasoning as a consistent weak point for even the most capable models.&lt;/p&gt;&lt;p dir="ltr"&gt;Several open-source models scored 0 percent on Mongolian-language problems, highlighting another dimension where current AI systems fall short despite their overall strength.&lt;/p&gt;&lt;p dir="ltr"&gt;"GPT models are equally good in English and other languages," Alshammari says. "But many of the open-source models fail completely at less-common languages, such as Mongolian."&lt;/p&gt;&lt;p dir="ltr"&gt;The diversity of MathNet is also designed to address a deeper limitation in how AI models learn mathematics. When training data skews toward English and Chinese problems, models absorb a narrow slice of mathematical culture. A Romanian combinatorics problem or a Brazilian number theory problem may approach the same underlying concept from a completely different angle. Exposure to that range, the researchers argue, makes both humans and AI systems better mathematical thinkers.&lt;/p&gt;&lt;p dir="ltr"&gt;Beyond problem-solving, MathNet introduces a retrieval benchmark that asks whether models can recognize when two problems share the same underlying mathematical structure, a capability that matters both for AI development and for the math community itself. Near-duplicate problems have appeared in real IMO exams over the years because finding mathematical equivalences across different notations, languages, and formats is genuinely hard, even for expert human committees. Testing eight state-of-the-art embedding models, the researchers found that even the strongest identified the correct match only about 5 percent of the time on the first try, with models frequently ranking structurally unrelated problems as more similar than equivalent ones.&lt;/p&gt;&lt;p dir="ltr"&gt;The dataset also includes a retrieval-augmented generation benchmark, testing whether giving a model a structurally related problem before asking it to solve a new one improves performance. It does, but only when the retrieved problem is genuinely relevant. DeepSeek-V3.2-Speciale gained up to 12 percentage points with well-matched retrieval, while irrelevant retrieval degraded performance in roughly 22 percent of cases.&lt;/p&gt;&lt;p dir="ltr"&gt;Alshammari wrote the paper with Safaei, HUMAIN AI engineer Abrar Zainal, KAUST Academy Director Sultan Albarakati, and MIT CSAIL colleagues: master's student Kevin Wen SB ’25; Microsoft Principal Engineering Manager Mark Hamilton SM ’22, PhD ‘25; and professors William Freeman and Antonio Torralba. Their work was funded, in part, by the Schwarzman College of Computing Fellowship and the National Science Foundation.&lt;/p&gt;&lt;p&gt;MathNet is publicly available at mathnet.csail.mit.edu.&lt;/p&gt;        
+
+      &lt;/div&gt;
+        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424</guid><pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate></item><item><title>[NEW] Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&amp;nbsp;handing the reins to hardware chief John Ternus.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ternus may be inheriting one of the most durable businesses in tech, but&amp;nbsp;he’s&amp;nbsp;also stepping into&amp;nbsp;a very different&amp;nbsp;ecosystem than the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the-scenes power Apple once held over developers is being challenged, and&amp;nbsp;vibe-coded&amp;nbsp;apps are changing what it means to build on Apple’s platform.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On this episode of TechCrunch’s&amp;nbsp;Equity&amp;nbsp;podcast, hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what this transition means for startups and a closer look at some of the week’s biggest deals — including&amp;nbsp;SpaceX’s $60B option on Cursor.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear about:&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li class="wp-block-list-item"&gt;What the&amp;nbsp;SpaceX-Cursor agreement&amp;nbsp;(and that&amp;nbsp;$10 billion&amp;nbsp;breakup fee) says about Elon Musk’s AI strategy post-xAI&amp;nbsp;merger&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li class="wp-block-list-item"&gt;Why fintech&amp;nbsp;Revolut&amp;nbsp;and AI chip startup&amp;nbsp;Cerebras‘ public market plans have us wondering whether this is&amp;nbsp;actually the&amp;nbsp;year the IPO market reopens&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p class="has-text-align-left wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&amp;nbsp;handing the reins to hardware chief John Ternus.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ternus may be inheriting one of the most durable businesses in tech, but&amp;nbsp;he’s&amp;nbsp;also stepping into&amp;nbsp;a very different&amp;nbsp;ecosystem than the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the-scenes power Apple once held over developers is being challenged, and&amp;nbsp;vibe-coded&amp;nbsp;apps are changing what it means to build on Apple’s platform.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On this episode of TechCrunch’s&amp;nbsp;Equity&amp;nbsp;podcast, hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into what this transition means for startups and a closer look at some of the week’s biggest deals — including&amp;nbsp;SpaceX’s $60B option on Cursor.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear about:&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li class="wp-block-list-item"&gt;What the&amp;nbsp;SpaceX-Cursor agreement&amp;nbsp;(and that&amp;nbsp;$10 billion&amp;nbsp;breakup fee) says about Elon Musk’s AI strategy post-xAI&amp;nbsp;merger&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li class="wp-block-list-item"&gt;Why fintech&amp;nbsp;Revolut&amp;nbsp;and AI chip startup&amp;nbsp;Cerebras‘ public market plans have us wondering whether this is&amp;nbsp;actually the&amp;nbsp;year the IPO market reopens&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p class="has-text-align-left wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/</guid><pubDate>Fri, 24 Apr 2026 17:45:57 +0000</pubDate></item><item><title>[NEW] Google to invest up to $40B in Anthropic in cash and compute (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google plans to invest up to $40 billion in Anthropic and support the AI firm’s growing computing needs, Bloomberg reports. The Alphabet subsidiary is committing to invest $10 billion now, at a $350 billion valuation for Anthropic, with another $30 billion to follow if Anthropic hits certain performance targets, according to Anthropic.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The promise of investment comes after Anthropic released its latest model, Mythos, to a limited group of partners this month. Anthropic says that Mythos is the company’s most powerful model to date and has significant cybersecurity applications. Due to potential misuse, Anthropic has restricted broader access while it works with select organizations to evaluate and address those risks — though the model has already fallen into unsanctioned hands. It’s also likely expensive to run at scale.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The AI race is increasingly defined by access to the compute needed to train and deploy these systems. OpenAI has moved aggressively to secure that capacity through a web of multi-hundred-billion-dollar deals across cloud providers, chip suppliers, and energy, including an expanded deal with chipmaker Cerebras this month.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Anthropic has been in a scramble of its own. The company has faced widespread complaints about Claude use limits in recent weeks and responded with a bevy of infrastructure deals. Earlier this month, Anthropic struck a deal with cloud computing provider CoreWeave for data center capacity. It also this week secured an additional $5 billion investment from Amazon, part of a broad agreement under which Anthropic is expected to spend up to $100 billion for around 5 gigawatts of compute capacity over time.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While Google is a direct competitor in AI models, it’s also a key infrastructure supplier to Anthropic. Anthropic relies heavily on Google Cloud for chips and infrastructure, including access to Google’s tensor processing units (or TPUs), which are specialized chips designed for AI workloads and considered among the best alternatives to Nvidia’s in-demand processors. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Anthropic’s relationship with Google predates this week’s news. Earlier this month, Anthropic announced a partnership with Google and chipmaker Broadcom, which designs custom AI chips for Google, to access multiple gigawatts of TPU-based computing capacity beginning in 2027; a subsequent Broadcom securities filing put that figure at 3.5 gigawatts.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The new Google investment expands that arrangement, with Google Cloud now providing a fresh 5 gigawatts of capacity over the next five years, with room to scale further.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Anthropic’s valuation stood at $350 billion as recently as February; investors have since been eager to back the company at $800 billion or more, according to Bloomberg. The company is also reportedly considering an IPO as soon as October.&lt;/p&gt;
+
+
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Google plans to invest up to $40 billion in Anthropic and support the AI firm’s growing computing needs, Bloomberg reports. The Alphabet subsidiary is committing to invest $10 billion now, at a $350 billion valuation for Anthropic, with another $30 billion to follow if Anthropic hits certain performance targets, according to Anthropic.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The promise of investment comes after Anthropic released its latest model, Mythos, to a limited group of partners this month. Anthropic says that Mythos is the company’s most powerful model to date and has significant cybersecurity applications. Due to potential misuse, Anthropic has restricted broader access while it works with select organizations to evaluate and address those risks — though the model has already fallen into unsanctioned hands. It’s also likely expensive to run at scale.&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The AI race is increasingly defined by access to the compute needed to train and deploy these systems. OpenAI has moved aggressively to secure that capacity through a web of multi-hundred-billion-dollar deals across cloud providers, chip suppliers, and energy, including an expanded deal with chipmaker Cerebras this month.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Anthropic has been in a scramble of its own. The company has faced widespread complaints about Claude use limits in recent weeks and responded with a bevy of infrastructure deals. Earlier this month, Anthropic struck a deal with cloud computing provider CoreWeave for data center capacity. It also this week secured an additional $5 billion investment from Amazon, part of a broad agreement under which Anthropic is expected to spend up to $100 billion for around 5 gigawatts of compute capacity over time.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While Google is a direct competitor in AI models, it’s also a key infrastructure supplier to Anthropic. Anthropic relies heavily on Google Cloud for chips and infrastructure, including access to Google’s tensor processing units (or TPUs), which are specialized chips designed for AI workloads and considered among the best alternatives to Nvidia’s in-demand processors. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Anthropic’s relationship with Google predates this week’s news. Earlier this month, Anthropic announced a partnership with Google and chipmaker Broadcom, which designs custom AI chips for Google, to access multiple gigawatts of TPU-based computing capacity beginning in 2027; a subsequent Broadcom securities filing put that figure at 3.5 gigawatts.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The new Google investment expands that arrangement, with Google Cloud now providing a fresh 5 gigawatts of capacity over the next five years, with room to scale further.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Anthropic’s valuation stood at $350 billion as recently as February; investors have since been eager to back the company at $800 billion or more, according to Bloomberg. The company is also reportedly considering an IPO as soon as October.&lt;/p&gt;
+
+
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/</guid><pubDate>Fri, 24 Apr 2026 18:00:03 +0000</pubDate></item></channel></rss>
