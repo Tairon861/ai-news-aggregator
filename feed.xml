@@ -1,777 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 02 May 2026 02:55:04 +0000</lastBuildDate><item><title>Operationalizing AI for Scale and Sovereignty (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/</link><description>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;Presented by&lt;/span&gt;&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_1 html_first"&gt;   &lt;p&gt;Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review's EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data control as a strategic imperative for governments and enterprises.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt;&lt;hr class="wp-block-separator has-css-opacity" /&gt;  &lt;h2 class="wp-block-heading"&gt;About the speakers&lt;/h2&gt;  &lt;figure class="wp-block-image alignright size-full"&gt;&lt;img alt="Chris Davidson, HPE" class="wp-image-1136774" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/Davidson_square.png" /&gt;&lt;/figure&gt;  &lt;h3 class="wp-block-heading"&gt;Chris Davidson, Vice President, HPC &amp;amp; AI Customer Solutions, HPE&lt;/h3&gt;    &lt;p&gt;Chris Davidson is Vice President of HPC &amp;amp; AI Customer Solutions at Hewlett Packard Enterprise. He leads HPE’s global strategy for AI Factory solutions and Sovereign AI, working with governments, enterprises, and research institutions to build secure, scalable national- and enterprise-grade AI capabilities.&lt;/p&gt;  &lt;p&gt;He also directs Product Management and Performance Engineering across HPE’s HPC and AI portfolio, including large-model training platforms and Cray exascale systems. His teams define product strategy, performance architecture, and deployment models that position HPE at the forefront of high-performance and AI computing.&lt;/p&gt; 
- &lt;p&gt;During his nine years at HPE, Chris has led key initiatives across Performance Engineering, AI Cloud, and Professional Services, shaping how HPE delivers optimized, cloud-native, and globally deployed high-performance systems. He previously held technical and leadership roles in the biotech and medical diagnostics sectors.&lt;/p&gt;  &lt;p&gt;Chris holds an M.B.A. in Entrepreneurship and Finance and a B.S. in Biology from Loyola University Chicago.&lt;/p&gt;  &lt;figure class="wp-block-image alignleft size-full"&gt;&lt;img alt="Arjun Shankar, Oak Ridge National Laboratory" class="wp-image-1136775" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/shankar_forweb1.png" /&gt;&lt;/figure&gt;  &lt;h3 class="wp-block-heading"&gt;Arjun Shankar, Division Director, National Center for Computational Science, Oak Ridge National Laboratory&lt;/h3&gt;    &lt;p&gt;Mallikarjun (Arjun) Shankar is the Division Director for the National Center for Computational Science at the Oak Ridge National Laboratory. His research focuses on the interdisciplinary bridge between computer science and large-scale scientific discovery campaigns that rely on scalable computing and data science. He is a joint faculty appointee at the University of Tennessee’s Bredesen Center, a senior member of the IEEE and a senior member of the ACM.&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;Presented by&lt;/span&gt;&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_1 html_first"&gt;   &lt;p&gt;Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review's EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data control as a strategic imperative for governments and enterprises.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt;&lt;hr class="wp-block-separator has-css-opacity" /&gt;  &lt;h2 class="wp-block-heading"&gt;About the speakers&lt;/h2&gt;  &lt;figure class="wp-block-image alignright size-full"&gt;&lt;img alt="Chris Davidson, HPE" class="wp-image-1136774" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/Davidson_square.png" /&gt;&lt;/figure&gt;  &lt;h3 class="wp-block-heading"&gt;Chris Davidson, Vice President, HPC &amp;amp; AI Customer Solutions, HPE&lt;/h3&gt;    &lt;p&gt;Chris Davidson is Vice President of HPC &amp;amp; AI Customer Solutions at Hewlett Packard Enterprise. He leads HPE’s global strategy for AI Factory solutions and Sovereign AI, working with governments, enterprises, and research institutions to build secure, scalable national- and enterprise-grade AI capabilities.&lt;/p&gt;  &lt;p&gt;He also directs Product Management and Performance Engineering across HPE’s HPC and AI portfolio, including large-model training platforms and Cray exascale systems. His teams define product strategy, performance architecture, and deployment models that position HPE at the forefront of high-performance and AI computing.&lt;/p&gt; 
- &lt;p&gt;During his nine years at HPE, Chris has led key initiatives across Performance Engineering, AI Cloud, and Professional Services, shaping how HPE delivers optimized, cloud-native, and globally deployed high-performance systems. He previously held technical and leadership roles in the biotech and medical diagnostics sectors.&lt;/p&gt;  &lt;p&gt;Chris holds an M.B.A. in Entrepreneurship and Finance and a B.S. in Biology from Loyola University Chicago.&lt;/p&gt;  &lt;figure class="wp-block-image alignleft size-full"&gt;&lt;img alt="Arjun Shankar, Oak Ridge National Laboratory" class="wp-image-1136775" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/shankar_forweb1.png" /&gt;&lt;/figure&gt;  &lt;h3 class="wp-block-heading"&gt;Arjun Shankar, Division Director, National Center for Computational Science, Oak Ridge National Laboratory&lt;/h3&gt;    &lt;p&gt;Mallikarjun (Arjun) Shankar is the Division Director for the National Center for Computational Science at the Oak Ridge National Laboratory. His research focuses on the interdisciplinary bridge between computer science and large-scale scientific discovery campaigns that rely on scalable computing and data science. He is a joint faculty appointee at the University of Tennessee’s Bredesen Center, a senior member of the IEEE and a senior member of the ACM.&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/</guid><pubDate>Fri, 01 May 2026 15:31:09 +0000</pubDate></item><item><title>GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        New results suggest Mythos’ cyber threat isn’t “a breakthrough specific to one model.”
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2234175849-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2234175849-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      An actual photo of GPT-5.5 performing AISI's cybersecurity tests.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Last month, Anthropic made a big deal about the supposedly outsize cybersecurity threat represented by its Mythos Preview model, leading the company to restrict the initial release to “critical industry partners.” But new research from the UK’s AI Security Institute (AISI) suggests that OpenAI’s GPT-5.5, which launched publicly last week, reached “a similar level of performance on our cyber evaluations” as Mythos Preview, which the group evaluated last month.&lt;/p&gt;
-&lt;p&gt;Since 2023, the AISI has run a variety of frontier AI models through 95 different Capture the Flag challenges designed to test capabilities on cybersecurity tasks, such as reverse engineering, web exploitation, and cryptography. On the highest-level “Expert” tasks, GPT-5.5 passed an average of 71.4 percent, slightly higher than the 68.6 percent achieved by Mythos Preview (though within the margin of error). In one particularly difficult task that involved building a disassembler to decode a Rust binary, AISI notes that “GPT-5.5 solved the challenge in 10 minutes and 22 seconds with no human assistance at a cost of $1.73” in API calls.&lt;/p&gt;
-&lt;p&gt;GPT-5.5 also matched Mythos Preview in its progress on “The Last Ones” (TLO), an AISI test range set up to simulate a 32-step data extraction attack on a corporate network. GPT-5.5 succeeded in 3 of 10 attempts on TLO, compared to 2 of 10 for Mythos Preview—no previous model had ever succeeded at the test even once. But GPT-5.5 still fails at AISI’s more difficult “Cooling Tower” simulation of an attempted disruption of the control software for a power plant, as every previously tested AI model also has.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;h2&gt;Is it just “fear-based marketing”?&lt;/h2&gt;
-&lt;p&gt;The new results for GPT-5.5 suggest that, when it comes to cybersecurity risk, Mythos Preview was likely not “a breakthrough specific to one model” but rather “a byproduct of more general improvements in long-horizon autonomy, reasoning, and coding,” AISI writes.&lt;/p&gt;
-&lt;p&gt;In a recent interview with the Core Memory podcast, OpenAI CEO Sam Altman criticized what he calls “fear-based marketing” in promoting limited releases for certain AI models. While he said he’s “sure Mythos is a great model for cybersecurity,” he added that “it is clearly incredible marketing to say, ‘We have built a bomb. We are about to drop it on your head. We will sell you a bomb shelter for $100 million.’”&lt;/p&gt;
-&lt;p&gt;“There will be a lot more rhetoric about models that are too dangerous to release,” Altman continued. “There will also be very dangerous models that will have to be released in different ways.”&lt;/p&gt;
-&lt;p&gt;In February, OpenAI rolled out its Trusted Access for Cyber pilot program, letting security researchers and enterprises verify their identities and register their interest in studying OpenAI’s frontier models for “legitimate defensive work.” Last month, OpenAI said it was using that trusted access list to control the limited launch of GPT-5.4-Cyber, a model variant that it says is “purposely fine-tuned for additional cyber capabilities and with fewer capability restrictions.”&lt;/p&gt;
-&lt;p&gt;On Thursday, OpenAI CEO Sam Altman said on social media that the initial release of GPT-5.5-Cyber would similarly be limited “to critical cyber defenders in the next few days.”&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        New results suggest Mythos’ cyber threat isn’t “a breakthrough specific to one model.”
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2234175849-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2234175849-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      An actual photo of GPT-5.5 performing AISI's cybersecurity tests.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Last month, Anthropic made a big deal about the supposedly outsize cybersecurity threat represented by its Mythos Preview model, leading the company to restrict the initial release to “critical industry partners.” But new research from the UK’s AI Security Institute (AISI) suggests that OpenAI’s GPT-5.5, which launched publicly last week, reached “a similar level of performance on our cyber evaluations” as Mythos Preview, which the group evaluated last month.&lt;/p&gt;
-&lt;p&gt;Since 2023, the AISI has run a variety of frontier AI models through 95 different Capture the Flag challenges designed to test capabilities on cybersecurity tasks, such as reverse engineering, web exploitation, and cryptography. On the highest-level “Expert” tasks, GPT-5.5 passed an average of 71.4 percent, slightly higher than the 68.6 percent achieved by Mythos Preview (though within the margin of error). In one particularly difficult task that involved building a disassembler to decode a Rust binary, AISI notes that “GPT-5.5 solved the challenge in 10 minutes and 22 seconds with no human assistance at a cost of $1.73” in API calls.&lt;/p&gt;
-&lt;p&gt;GPT-5.5 also matched Mythos Preview in its progress on “The Last Ones” (TLO), an AISI test range set up to simulate a 32-step data extraction attack on a corporate network. GPT-5.5 succeeded in 3 of 10 attempts on TLO, compared to 2 of 10 for Mythos Preview—no previous model had ever succeeded at the test even once. But GPT-5.5 still fails at AISI’s more difficult “Cooling Tower” simulation of an attempted disruption of the control software for a power plant, as every previously tested AI model also has.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;h2&gt;Is it just “fear-based marketing”?&lt;/h2&gt;
-&lt;p&gt;The new results for GPT-5.5 suggest that, when it comes to cybersecurity risk, Mythos Preview was likely not “a breakthrough specific to one model” but rather “a byproduct of more general improvements in long-horizon autonomy, reasoning, and coding,” AISI writes.&lt;/p&gt;
-&lt;p&gt;In a recent interview with the Core Memory podcast, OpenAI CEO Sam Altman criticized what he calls “fear-based marketing” in promoting limited releases for certain AI models. While he said he’s “sure Mythos is a great model for cybersecurity,” he added that “it is clearly incredible marketing to say, ‘We have built a bomb. We are about to drop it on your head. We will sell you a bomb shelter for $100 million.’”&lt;/p&gt;
-&lt;p&gt;“There will be a lot more rhetoric about models that are too dangerous to release,” Altman continued. “There will also be very dangerous models that will have to be released in different ways.”&lt;/p&gt;
-&lt;p&gt;In February, OpenAI rolled out its Trusted Access for Cyber pilot program, letting security researchers and enterprises verify their identities and register their interest in studying OpenAI’s frontier models for “legitimate defensive work.” Last month, OpenAI said it was using that trusted access list to control the limited launch of GPT-5.4-Cyber, a model variant that it says is “purposely fine-tuned for additional cyber capabilities and with fewer capability restrictions.”&lt;/p&gt;
-&lt;p&gt;On Thursday, OpenAI CEO Sam Altman said on social media that the initial release of GPT-5.5-Cyber would similarly be limited “to critical cyber defenders in the next few days.”&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/</guid><pubDate>Fri, 01 May 2026 15:32:27 +0000</pubDate></item><item><title>Cyber-Insecurity in the AI Era (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/</link><description>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;Presented by&lt;/span&gt;GC Cybersecurity&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_1 html_first"&gt;   &lt;p&gt;Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review's EmTech AI conference explores why security must be rethought with AI at its core, not layered on after the fact.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt;  &lt;hr class="wp-block-separator has-css-opacity" /&gt;  &lt;h2 class="wp-block-heading"&gt;About the speaker&lt;/h2&gt;  &lt;figure class="wp-block-image alignright size-full"&gt;&lt;img alt="Tarique Mustafa, GC Cybersecurity" class="wp-image-1136780" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/Mustafa_forweb.png" /&gt;&lt;/figure&gt;  &lt;h3 class="wp-block-heading"&gt;Tarique Mustafa, Cofounder, CEO, and CTO, GC Cybersecurity&lt;/h3&gt;    &lt;p&gt;Tarique Mustafa is Cofounder and CEO/CTO of two AI-powered cybersecurity companies: GCCybersecurity, Inc. and its data compliance spinout, Chorology, Inc. A prolific inventor and internationally recognized authority in knowledge representation, inference calculus, and AI planning, Tarique has spent his career applying autonomously collaborative AI to solve complex, ultra-high-scale challenges across cybersecurity, data security, and compliance — with deep expertise spanning Data Classification, DLP, and DSPM industries. His groundbreaking innovations and multiple USPTO patents have earned him global recognition, including frequent invitations to deliver keynote addresses at prestigious international security conferences and forums.&lt;/p&gt; 
- &lt;p&gt;At GCCybersecurity, Tarique architected the core AI algorithms powering the company's 4th and 5th generation fully autonomous data leak protection and exfiltration platform — among the most advanced platform of its kind. Prior to founding GCCybersecurity and Chorology, he served as founding CEO/CTO of NexTier Networks, a Silicon Valley provider of award-winning Data Leak Prevention solutions. With over 20 years of technical leadership experience, Tarique has held senior roles at Symantec, DHL Airways IT, MCI WorldCom, EDS, Andes Networks, and Nevis Networks, where he served as Principal Architect and built industry-leading security products leveraging next-generation security monitoring, event correlation, IDS/IPS, and SSL/IPSec technologies.&lt;/p&gt;  &lt;p&gt;Tarique holds multiple approved and pending patents with the USPTO and has authored numerous research publications spanning Information &amp;amp; Data Security, Computer &amp;amp; Network Security, Software Architecture, Database Technologies, and Artificial Intelligence. A recipient of the prestigious Rotary International Scholarship for doctoral studies in Computer Science at the University of Southern California (USC), Tarique also holds master’s degrees in engineering and computer science from USC, and a bachelor's degree in mechanical engineering from NED University of Engineering &amp;amp; Technology.&lt;/p&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;Presented by&lt;/span&gt;GC Cybersecurity&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_1 html_first"&gt;   &lt;p&gt;Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review's EmTech AI conference explores why security must be rethought with AI at its core, not layered on after the fact.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt;  &lt;hr class="wp-block-separator has-css-opacity" /&gt;  &lt;h2 class="wp-block-heading"&gt;About the speaker&lt;/h2&gt;  &lt;figure class="wp-block-image alignright size-full"&gt;&lt;img alt="Tarique Mustafa, GC Cybersecurity" class="wp-image-1136780" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/Mustafa_forweb.png" /&gt;&lt;/figure&gt;  &lt;h3 class="wp-block-heading"&gt;Tarique Mustafa, Cofounder, CEO, and CTO, GC Cybersecurity&lt;/h3&gt;    &lt;p&gt;Tarique Mustafa is Cofounder and CEO/CTO of two AI-powered cybersecurity companies: GCCybersecurity, Inc. and its data compliance spinout, Chorology, Inc. A prolific inventor and internationally recognized authority in knowledge representation, inference calculus, and AI planning, Tarique has spent his career applying autonomously collaborative AI to solve complex, ultra-high-scale challenges across cybersecurity, data security, and compliance — with deep expertise spanning Data Classification, DLP, and DSPM industries. His groundbreaking innovations and multiple USPTO patents have earned him global recognition, including frequent invitations to deliver keynote addresses at prestigious international security conferences and forums.&lt;/p&gt; 
- &lt;p&gt;At GCCybersecurity, Tarique architected the core AI algorithms powering the company's 4th and 5th generation fully autonomous data leak protection and exfiltration platform — among the most advanced platform of its kind. Prior to founding GCCybersecurity and Chorology, he served as founding CEO/CTO of NexTier Networks, a Silicon Valley provider of award-winning Data Leak Prevention solutions. With over 20 years of technical leadership experience, Tarique has held senior roles at Symantec, DHL Airways IT, MCI WorldCom, EDS, Andes Networks, and Nevis Networks, where he served as Principal Architect and built industry-leading security products leveraging next-generation security monitoring, event correlation, IDS/IPS, and SSL/IPSec technologies.&lt;/p&gt;  &lt;p&gt;Tarique holds multiple approved and pending patents with the USPTO and has authored numerous research publications spanning Information &amp;amp; Data Security, Computer &amp;amp; Network Security, Software Architecture, Database Technologies, and Artificial Intelligence. A recipient of the prestigious Rotary International Scholarship for doctoral studies in Computer Science at the University of Southern California (USC), Tarique also holds master’s degrees in engineering and computer science from USC, and a bachelor's degree in mechanical engineering from NED University of Engineering &amp;amp; Technology.&lt;/p&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/</guid><pubDate>Fri, 01 May 2026 15:54:01 +0000</pubDate></item><item><title>Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;After landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft, Amazon Web Services, and Reflection AI that allow it to deploy their AI tech and models on its classified networks for “lawful operational use.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“These agreements accelerate the transformation toward establishing the United States military as an AI-first fighting force and will strengthen our warfighters’ ability to maintain decision superiority across all domains of warfare,” the statement reads.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The deals come as the U.S. Department of Defense has accelerated its diversification of AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models. The Pentagon wanted unrestricted use of Anthropic’s AI tools, but the AI lab insisted on guardrails to prevent Anthropic’s tech from being used for domestic mass surveillance and autonomous weapons.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The two are fighting it out in court at the moment, though Anthropic in March won an injunction against the Pentagon’s move to brand the company a “supply-chain risk.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The Department will continue to build an architecture that prevents AI vendor lock-in and ensures long-term flexibility for the Joint Force,” the statement reads. “Access to a diverse suite of AI capabilities from across the resilient American technology stack will give warfighters the tools they need to act with confidence and safeguard the nation against any threat.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The DOD said the companies’ AI hardware and models will be deployed on Impact Level 6 (IL6) and Impact Level 7 (IL7) environments to “streamline data synthesis, elevate situational understanding, and augment warfighter decision-making.” IL6 and IL7 are high-level security classifications for data and information systems that are deemed critical to national security and require that these systems be protected physically, through strict access controls and audits.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Pentagon said more than 1.3 million DOD personnel have so far used its secure enterprise platform for generative AI, GenAI.mil, which provides access to large language models (LLMs) and other AI tools within government-approved cloud environments. It is designed to help primarily with non-classified tasks like research, document drafting, and data analysis.&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?resize=1200,900" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;After landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft, Amazon Web Services, and Reflection AI that allow it to deploy their AI tech and models on its classified networks for “lawful operational use.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“These agreements accelerate the transformation toward establishing the United States military as an AI-first fighting force and will strengthen our warfighters’ ability to maintain decision superiority across all domains of warfare,” the statement reads.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The deals come as the U.S. Department of Defense has accelerated its diversification of AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models. The Pentagon wanted unrestricted use of Anthropic’s AI tools, but the AI lab insisted on guardrails to prevent Anthropic’s tech from being used for domestic mass surveillance and autonomous weapons.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The two are fighting it out in court at the moment, though Anthropic in March won an injunction against the Pentagon’s move to brand the company a “supply-chain risk.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The Department will continue to build an architecture that prevents AI vendor lock-in and ensures long-term flexibility for the Joint Force,” the statement reads. “Access to a diverse suite of AI capabilities from across the resilient American technology stack will give warfighters the tools they need to act with confidence and safeguard the nation against any threat.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The DOD said the companies’ AI hardware and models will be deployed on Impact Level 6 (IL6) and Impact Level 7 (IL7) environments to “streamline data synthesis, elevate situational understanding, and augment warfighter decision-making.” IL6 and IL7 are high-level security classifications for data and information systems that are deemed critical to national security and require that these systems be protected physically, through strict access controls and audits.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Pentagon said more than 1.3 million DOD personnel have so far used its secure enterprise platform for generative AI, GenAI.mil, which provides access to large language models (LLMs) and other AI tools within government-approved cloud environments. It is designed to help primarily with non-classified tasks like research, document drafting, and data analysis.&amp;nbsp;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/</guid><pubDate>Fri, 01 May 2026 16:02:36 +0000</pubDate></item><item><title>Catalyzing scientific impact through global partnerships and open resources (The latest research from Google)</title><link>https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;A scientific breakthrough reaches its full potential only when it empowers others to replicate and expand upon findings, pushing the boundaries of science even further. At Google Research, we recognize that open-source software and open-access datasets are drivers of modern science. We believe that creating these resources responsibly and maintaining them through partnerships with the global scientific community embodies the spirit of collaboration. In this way, we uphold the principles of open science, ensuring that innovation is not a siloed event but a catalyst for worldwide progress.&lt;/p&gt;&lt;p&gt;Whether it’s the Transformer architecture that reshaped automated language processing, or our specialized models transforming medicine, genomics, neuroscience, climate, energy, and a host of other efforts across the physical, life, and social sciences, we are proud of the work we’ve shared and how it’s being used by researchers around the globe to unlock their own groundbreaking discoveries. This open approach complements our breadth of initiatives across Google to engage and strengthen the research and science ecosystem, including through APIs, publications, conferences, trusted tester programs and private partnerships.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg" /&gt;&lt;/div&gt;&lt;p&gt;A scientific breakthrough reaches its full potential only when it empowers others to replicate and expand upon findings, pushing the boundaries of science even further. At Google Research, we recognize that open-source software and open-access datasets are drivers of modern science. We believe that creating these resources responsibly and maintaining them through partnerships with the global scientific community embodies the spirit of collaboration. In this way, we uphold the principles of open science, ensuring that innovation is not a siloed event but a catalyst for worldwide progress.&lt;/p&gt;&lt;p&gt;Whether it’s the Transformer architecture that reshaped automated language processing, or our specialized models transforming medicine, genomics, neuroscience, climate, energy, and a host of other efforts across the physical, life, and social sciences, we are proud of the work we’ve shared and how it’s being used by researchers around the globe to unlock their own groundbreaking discoveries. This open approach complements our breadth of initiatives across Google to engage and strengthen the research and science ecosystem, including through APIs, publications, conferences, trusted tester programs and private partnerships.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/</guid><pubDate>Fri, 01 May 2026 16:37:00 +0000</pubDate></item><item><title>Minnesota passes ban on fake AI nudes; app makers risk $500K fines (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="480" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1211553945-640x480.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1211553945-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          wacomka | iStock / Getty Images Plus
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;This week, Minnesota became the first state to pass a law banning nudification apps that make it easy to “undress” or sexualize images of real people.&lt;/p&gt;
-&lt;p&gt;Under the law, developers of websites, apps, software, or other services designed to “nudify” images risk extensive damages, including punitive damages, if a victim decides to sue. Their offending products could also be blocked in the state. Additionally, Minnesota’s attorney general could impose fines up to $500,000 per fake AI nude flagged. Any fines collected would be used to fund services for victims of “sexual assault, general crime, domestic violence, and child abuse,” the law stipulates.&lt;/p&gt;
-&lt;p&gt;On Wednesday, the Minnesota Senate unanimously voted 65–0 to pass the law. That vote came after the bill just as quickly passed in the House last week, the 19th News reported. Gov. Tim Walz is expected to sign the law when it reaches his desk, and if that happens, the state will start enforcing the ban this August.&lt;/p&gt;
-&lt;p&gt;Ars could not immediately reach Walz’s office for comment.&lt;/p&gt;
-&lt;h2&gt;Minnesota man used one app to undress 80+ friends&lt;/h2&gt;
-&lt;p&gt;Democratic Senator Erin Maye Quade introduced the bill in Minnesota after residents discovered that one man had nudified images of more than 80 women from his social circles. In a statement, she said that she looked forward to Walz signing the bill, which finally offers legal recourse to those victims, as well as others impacted by the mainstreaming of nudifying apps.&lt;/p&gt;
-&lt;p&gt;RAINN, the national nonprofit that runs the National Sexual Assault Hotline, also helped get Minnesota’s bill passed. To prevent any industry lobbying against it, RAINN consulted with tech companies when drafting the law, 19th News reported. That helped ensure there weren’t unexpected impacts on popular commercial products, like Photoshop, that could be used to nudify an image. Acknowledging that the state’s concern is more about how alarmingly easy undressing apps make it to harm an increasing number of mostly women and children globally, the law exempts products or services that require “the technical skill of a user to nudify an image or video.”&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;“Today, we led the nation protecting women, children, and everyone in public life from the harm caused by AI nudification technology,” Maye Quade said. “Companies that make this technology available for free online and in app stores will no longer be allowed to enable predators who abuse and victimize adults and children with the click of a button.”&lt;/p&gt;
-&lt;p&gt;Celebrating the law’s passage, Maye Quade thanked “the victim-survivors who made this bill a reality.”&lt;/p&gt;
-&lt;p&gt;“They have shared their story in committee, with reporters, and with law enforcement with dignity and courage,” she said. “Their power, brilliance, and advocacy is why we passed this bill today. They have had a singular focus on passing this legislation so that what happened to them does not happen to any Minnesotan, ever again.”&lt;/p&gt;
-&lt;p&gt;A lengthy CNBC report last September exposed how a group of Minnesota friends first learned that a mutual friend was creating fake nudes of dozens of women. The man apologized, but he seemingly did not help identify all the victims. There was no evidence he ever shared the images, so laws like the Take It Down Act did not apply, and proving the man’s ill intent made pursuing penalties under revenge porn laws unlikely, 19th News reported. Horrified that there was no way to ensure the images hadn’t left his computer and no path to stop the man from continuing to generate fake nudes, the women joined Maye Quade in advancing the law to shut down the problem at its source.&lt;/p&gt;
-&lt;p&gt;One of the Minnesota women targeted, Molly Kelley, told 19th News that she dedicated two years of her life to “finding a solution to mitigate the harm when it’s actually caused, which is at creation.”&lt;/p&gt;
-&lt;p&gt;“These images don’t exist without a third-party involvement and some sort of machine learning model,” Kelley said.&lt;/p&gt;
-&lt;p&gt;However, even if Walz signs the law, tensions remain that could frustrate enforcement.&lt;/p&gt;
-&lt;p&gt;Kelley told 19th News that she’s confident the law can overcome legal challenges, should any US firms sue to block it, but enforcing the law against app makers in other countries will likely be difficult, if not impossible, for a single state. Notably, the service used to attack the Minnesota women, DeepSwap, is operated overseas, at times claiming bases in Hong Kong and Dublin, CNBC reported. Anticipated state struggles to regulate foreign apps is why a federal ban would be preferable, 19th News reported.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Additionally, if Donald Trump revives an effort to deregulate the AI industry by blocking state laws like Minnesota’s from requiring safeguards, the law could become toothless, advocates fear.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;h2&gt;Unchecked US tools like Grok risk penalties&lt;/h2&gt;
-&lt;p&gt;If Walz puts the law on the books, some US firms could be forced to make changes or face penalties.&lt;/p&gt;
-&lt;p&gt;Potentially even Elon Musk’s xAI may risk fines if Minnesotans can prove Grok was used to undress images without consent.&lt;/p&gt;
-&lt;p&gt;Grok’s lack of safeguards to prevent outputs with non-consensual intimate imagery or alleged child sex abuse materials has drawn government probes and proposed class actions from women and children. In January, X Safety claimed that Grok was updated to stop undressing images, but NBC News reported last month that their review found “dozens of AI-generated sexual images and videos depicting real people posted publicly on Musk’s social media app, X, over the past month.”&lt;/p&gt;
-&lt;p&gt;Musk has denied that he has seen a single instance of Grok-generated CSAM. But researchers’ estimates that Grok was generating thousands of harmful images an hour appear to be increasingly backed by lawsuits from victims surfacing non-consensual images.&lt;/p&gt;
-&lt;p&gt;At the same time, authorities are getting closer to closing cases with arrests linked to Grok. A week after NBC News’ report, Nashville cops charged a man for “sexual exploitation of a minor after he was identified as the suspect who utilized Grok AI to generate images of child sex abuse.”&lt;/p&gt;
-&lt;p&gt;According to the press release, cops were tipped off after “multiple CyberTips to the National Center for Missing and Exploited Children regarding possession of child sex abuse material in an online account” that was linked to Grok. Importantly, the cops noted that Grok generated the harmful images from September 2025 through March 2026, well after X claimed that the functionality had been removed.&lt;/p&gt;
-&lt;p&gt;Beyond Grok, researchers have flagged thousands of nudifying apps advertised on Meta platforms, prompting at least one lawsuit in which Meta claimed a Hong Kong-based app maker violated advertiser terms, CNBC reported. Any services based in the US openly advertising on Facebook or Instagram could become targets of Minnesota-based lawsuits if the law takes effect.&lt;/p&gt;
-&lt;p&gt;Similarly, nudifying apps that manage to skirt reviews and appear in Google and Apple app stores despite violating terms could draw legal attention.&lt;/p&gt;
-&lt;p&gt;xAI did not respond to Ars’ request for comment.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="480" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1211553945-640x480.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1211553945-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          wacomka | iStock / Getty Images Plus
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;This week, Minnesota became the first state to pass a law banning nudification apps that make it easy to “undress” or sexualize images of real people.&lt;/p&gt;
-&lt;p&gt;Under the law, developers of websites, apps, software, or other services designed to “nudify” images risk extensive damages, including punitive damages, if a victim decides to sue. Their offending products could also be blocked in the state. Additionally, Minnesota’s attorney general could impose fines up to $500,000 per fake AI nude flagged. Any fines collected would be used to fund services for victims of “sexual assault, general crime, domestic violence, and child abuse,” the law stipulates.&lt;/p&gt;
-&lt;p&gt;On Wednesday, the Minnesota Senate unanimously voted 65–0 to pass the law. That vote came after the bill just as quickly passed in the House last week, the 19th News reported. Gov. Tim Walz is expected to sign the law when it reaches his desk, and if that happens, the state will start enforcing the ban this August.&lt;/p&gt;
-&lt;p&gt;Ars could not immediately reach Walz’s office for comment.&lt;/p&gt;
-&lt;h2&gt;Minnesota man used one app to undress 80+ friends&lt;/h2&gt;
-&lt;p&gt;Democratic Senator Erin Maye Quade introduced the bill in Minnesota after residents discovered that one man had nudified images of more than 80 women from his social circles. In a statement, she said that she looked forward to Walz signing the bill, which finally offers legal recourse to those victims, as well as others impacted by the mainstreaming of nudifying apps.&lt;/p&gt;
-&lt;p&gt;RAINN, the national nonprofit that runs the National Sexual Assault Hotline, also helped get Minnesota’s bill passed. To prevent any industry lobbying against it, RAINN consulted with tech companies when drafting the law, 19th News reported. That helped ensure there weren’t unexpected impacts on popular commercial products, like Photoshop, that could be used to nudify an image. Acknowledging that the state’s concern is more about how alarmingly easy undressing apps make it to harm an increasing number of mostly women and children globally, the law exempts products or services that require “the technical skill of a user to nudify an image or video.”&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;“Today, we led the nation protecting women, children, and everyone in public life from the harm caused by AI nudification technology,” Maye Quade said. “Companies that make this technology available for free online and in app stores will no longer be allowed to enable predators who abuse and victimize adults and children with the click of a button.”&lt;/p&gt;
-&lt;p&gt;Celebrating the law’s passage, Maye Quade thanked “the victim-survivors who made this bill a reality.”&lt;/p&gt;
-&lt;p&gt;“They have shared their story in committee, with reporters, and with law enforcement with dignity and courage,” she said. “Their power, brilliance, and advocacy is why we passed this bill today. They have had a singular focus on passing this legislation so that what happened to them does not happen to any Minnesotan, ever again.”&lt;/p&gt;
-&lt;p&gt;A lengthy CNBC report last September exposed how a group of Minnesota friends first learned that a mutual friend was creating fake nudes of dozens of women. The man apologized, but he seemingly did not help identify all the victims. There was no evidence he ever shared the images, so laws like the Take It Down Act did not apply, and proving the man’s ill intent made pursuing penalties under revenge porn laws unlikely, 19th News reported. Horrified that there was no way to ensure the images hadn’t left his computer and no path to stop the man from continuing to generate fake nudes, the women joined Maye Quade in advancing the law to shut down the problem at its source.&lt;/p&gt;
-&lt;p&gt;One of the Minnesota women targeted, Molly Kelley, told 19th News that she dedicated two years of her life to “finding a solution to mitigate the harm when it’s actually caused, which is at creation.”&lt;/p&gt;
-&lt;p&gt;“These images don’t exist without a third-party involvement and some sort of machine learning model,” Kelley said.&lt;/p&gt;
-&lt;p&gt;However, even if Walz signs the law, tensions remain that could frustrate enforcement.&lt;/p&gt;
-&lt;p&gt;Kelley told 19th News that she’s confident the law can overcome legal challenges, should any US firms sue to block it, but enforcing the law against app makers in other countries will likely be difficult, if not impossible, for a single state. Notably, the service used to attack the Minnesota women, DeepSwap, is operated overseas, at times claiming bases in Hong Kong and Dublin, CNBC reported. Anticipated state struggles to regulate foreign apps is why a federal ban would be preferable, 19th News reported.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Additionally, if Donald Trump revives an effort to deregulate the AI industry by blocking state laws like Minnesota’s from requiring safeguards, the law could become toothless, advocates fear.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;h2&gt;Unchecked US tools like Grok risk penalties&lt;/h2&gt;
-&lt;p&gt;If Walz puts the law on the books, some US firms could be forced to make changes or face penalties.&lt;/p&gt;
-&lt;p&gt;Potentially even Elon Musk’s xAI may risk fines if Minnesotans can prove Grok was used to undress images without consent.&lt;/p&gt;
-&lt;p&gt;Grok’s lack of safeguards to prevent outputs with non-consensual intimate imagery or alleged child sex abuse materials has drawn government probes and proposed class actions from women and children. In January, X Safety claimed that Grok was updated to stop undressing images, but NBC News reported last month that their review found “dozens of AI-generated sexual images and videos depicting real people posted publicly on Musk’s social media app, X, over the past month.”&lt;/p&gt;
-&lt;p&gt;Musk has denied that he has seen a single instance of Grok-generated CSAM. But researchers’ estimates that Grok was generating thousands of harmful images an hour appear to be increasingly backed by lawsuits from victims surfacing non-consensual images.&lt;/p&gt;
-&lt;p&gt;At the same time, authorities are getting closer to closing cases with arrests linked to Grok. A week after NBC News’ report, Nashville cops charged a man for “sexual exploitation of a minor after he was identified as the suspect who utilized Grok AI to generate images of child sex abuse.”&lt;/p&gt;
-&lt;p&gt;According to the press release, cops were tipped off after “multiple CyberTips to the National Center for Missing and Exploited Children regarding possession of child sex abuse material in an online account” that was linked to Grok. Importantly, the cops noted that Grok generated the harmful images from September 2025 through March 2026, well after X claimed that the functionality had been removed.&lt;/p&gt;
-&lt;p&gt;Beyond Grok, researchers have flagged thousands of nudifying apps advertised on Meta platforms, prompting at least one lawsuit in which Meta claimed a Hong Kong-based app maker violated advertiser terms, CNBC reported. Any services based in the US openly advertising on Facebook or Instagram could become targets of Minnesota-based lawsuits if the law takes effect.&lt;/p&gt;
-&lt;p&gt;Similarly, nudifying apps that manage to skirt reviews and appear in Google and Apple app stores despite violating terms could draw legal attention.&lt;/p&gt;
-&lt;p&gt;xAI did not respond to Ars’ request for comment.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/</guid><pubDate>Fri, 01 May 2026 17:36:29 +0000</pubDate></item><item><title>Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you. (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;Elon Musk spent the better part of three days&amp;nbsp;on the witness stand&amp;nbsp;this week&amp;nbsp;in his lawsuit against OpenAI, and&amp;nbsp;it’s&amp;nbsp;already getting messy. Emails, texts, and&amp;nbsp;his own tweets&amp;nbsp;are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the benefit of humanity” mission Musk signed up to fund. As Musk keeps reminding the courtroom: “You can’t steal a charity.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On this episode of TechCrunch’s&amp;nbsp;Equity&amp;nbsp;podcast, Kirsten Korosec and Sean O’Kane break down what’s actually at stake in the courtroom and what to watch for as Altman and others take the stand, plus deals, defense tech, and what Big Tech’s earnings week revealed about the limits of the AI spending era.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear about:&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;The scholarship app founder&amp;nbsp;taking Sallie Mae to court&amp;nbsp;after they&amp;nbsp;acquired&amp;nbsp;his startup…and began selling its student data to ad networks and universities&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801" /&gt;&lt;/div&gt;&lt;p class="has-text-align-left wp-block-paragraph" id="speakable-summary"&gt;Elon Musk spent the better part of three days&amp;nbsp;on the witness stand&amp;nbsp;this week&amp;nbsp;in his lawsuit against OpenAI, and&amp;nbsp;it’s&amp;nbsp;already getting messy. Emails, texts, and&amp;nbsp;his own tweets&amp;nbsp;are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the benefit of humanity” mission Musk signed up to fund. As Musk keeps reminding the courtroom: “You can’t steal a charity.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On this episode of TechCrunch’s&amp;nbsp;Equity&amp;nbsp;podcast, Kirsten Korosec and Sean O’Kane break down what’s actually at stake in the courtroom and what to watch for as Altman and others take the stand, plus deals, defense tech, and what Big Tech’s earnings week revealed about the limits of the AI spending era.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Listen to the full episode to hear about:&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;The scholarship app founder&amp;nbsp;taking Sallie Mae to court&amp;nbsp;after they&amp;nbsp;acquired&amp;nbsp;his startup…and began selling its student data to ad networks and universities&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Subscribe to Equity on&amp;nbsp;YouTube,&amp;nbsp;Apple Podcasts,&amp;nbsp;Overcast,&amp;nbsp;Spotify&amp;nbsp;and all the casts. You&amp;nbsp;also can&amp;nbsp;follow Equity on&amp;nbsp;X&amp;nbsp;and&amp;nbsp;Threads, at @EquityPod.&amp;nbsp;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/</guid><pubDate>Fri, 01 May 2026 17:44:29 +0000</pubDate></item><item><title>[NEW] Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26118555311492.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&amp;nbsp;that AI could destroy us all and sat through revelations that he had poached OpenAI employees for his own companies. He even confessed, to some audible gasps in the courtroom, that his own AI company, xAI, which makes the chatbot Grok, uses OpenAI’s models to train its own.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The federal courthouse in Oakland, California, was packed with armies of lawyers carrying boxes of exhibits, journalists typing away at their laptops, and a handful of concerned OpenAI employees. Outside, protesters lined the streets, carrying signs urging people to quit ChatGPT, boycott Tesla, or both. Musk looked calm and comfortable, slipping in the occasional quip in his distinct South African accent. But he also was full of remorse.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt; &lt;p&gt;“I was a fool who provided them free funding to create a startup,” Musk told the jury. He said when he cofounded OpenAI in 2015 with Altman and Brockman, he was donating to a nonprofit developing AI for the benefit of humanity, not to make the executives rich. “I gave them $38 million of essentially free funding, which they then used to create what would become an $800 billion company,” he said.&lt;/p&gt;  &lt;p&gt;Musk is asking the court to remove Altman and Brockman from their roles and to unwind the restructuring that allowed OpenAI to operate a for-profit subsidiary. The outcome of the trial could upend OpenAI’s race toward an IPO at a valuation approaching $1 trillion. Meanwhile, xAI is expected to go public as a part of Musk’s rocket company SpaceX as early as June, at a target valuation of $1.75 trillion.&lt;/p&gt; 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 02 May 2026 07:48:24 +0000</lastBuildDate><item><title>Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26118555311492.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&amp;nbsp;that AI could destroy us all and sat through revelations that he had poached OpenAI employees for his own companies. He even confessed, to some audible gasps in the courtroom, that his own AI company, xAI, which makes the chatbot Grok, uses OpenAI’s models to train its own.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The federal courthouse in Oakland, California, was packed with armies of lawyers carrying boxes of exhibits, journalists typing away at their laptops, and a handful of concerned OpenAI employees. Outside, protesters lined the streets, carrying signs urging people to quit ChatGPT, boycott Tesla, or both. Musk looked calm and comfortable, slipping in the occasional quip in his distinct South African accent. But he also was full of remorse.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt; &lt;p&gt;“I was a fool who provided them free funding to create a startup,” Musk told the jury. He said when he cofounded OpenAI in 2015 with Altman and Brockman, he was donating to a nonprofit developing AI for the benefit of humanity, not to make the executives rich. “I gave them $38 million of essentially free funding, which they then used to create what would become an $800 billion company,” he said.&lt;/p&gt;  &lt;p&gt;Musk is asking the court to remove Altman and Brockman from their roles and to unwind the restructuring that allowed OpenAI to operate a for-profit subsidiary. The outcome of the trial could upend OpenAI’s race toward an IPO at a valuation approaching $1 trillion. Meanwhile, xAI is expected to go public as a part of Musk’s rocket company SpaceX as early as June, at a target valuation of $1.75 trillion.&lt;/p&gt; 
  &lt;p&gt;This week’s testimony revolved around a central question of the trial: why Musk is suing OpenAI. Musk argued he was trying to save OpenAI’s mission to develop AI safely by restoring the company to its original nonprofit structure. OpenAI’s lawyer, William Savitt, who once represented Musk and his electric-car company Tesla, countered that Musk was “never committed to OpenAI being a nonprofit” and instead was suing to undermine his competitor.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Who is the steward of AI safety?&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;During his direct examination early in the week, Musk painted himself as a longtime advocate of AI safety. He said he cofounded OpenAI to create a “counterbalance to Google,” which was leading the AI race at the time. He said that when he asked Google cofounder Larry Page what happens if AI tries to wipe out humanity, Page told him, “That will be fine as long as artificial intelligence survives.”&amp;nbsp;&lt;/p&gt; 
  &lt;p&gt;“The worst-case scenario is a &lt;em&gt;Terminator&lt;/em&gt; situation where AI kills us all,” Musk later told the jury.&lt;/p&gt;  &lt;p&gt;Savitt stood at the lectern and argued that Musk was not a “paladin of safety and regulation.” As he cross-examined Musk in his sharp, surgical cadence, Savitt pointed out that xAI sued the state of Colorado in April over an AI law designed to prevent algorithmic discrimination.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_5"&gt; &lt;p&gt;Musk’s lawyer, Steven Molo, sprang to his feet to object. He asked the judge if he, too, could weigh in on ChatGPT’s safety record.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The lawyers then entered a heated debate about who was the true guardian of AI safety.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_7"&gt; &lt;p&gt;The sparring continued the next morning. “We all could die as a result of artificial intelligence!” said Molo, suggesting that OpenAI could not be trusted to build AI safely.&lt;/p&gt;  &lt;p&gt;“Despite these risks, your client is creating a company that’s in the exact space,” Judge Yvonne Gonzalez Rogers said sternly, referring to xAI. “I suspect there’s plenty of people who don’t want to put the future of humanity in Mr. Musk’s hands.”&lt;/p&gt;  &lt;p&gt;When the lawyers began talking over each other, the judge snapped. “This is not a trial on whether or not artificial intelligence has damaged humanity,” she said.&amp;nbsp;&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;When did Musk think he was being duped?&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;As Savitt continued to cross-examine Musk, he pressed on the idea that Musk had never been committed to keeping OpenAI a nonprofit. He also claimed that Musk waited too long to sue OpenAI, filing after the statute of limitations ran out.&amp;nbsp;&lt;/p&gt; 
 
@@ -783,7 +11,7 @@
 
  &lt;p&gt;Musk explained why he sued in 2024 rather than earlier, describing “three phases” in his views of OpenAI. In phase one, he was “enthusiastically supportive” of the company.” In phase two, “I started to lose confidence that they were telling me the truth,” he said. In phase three, “I’m sure they’re looting the nonprofit.”&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_9"&gt; &lt;p&gt;In 2017, Musk and other OpenAI cofounders discussed creating a for-profit subsidiary to raise enough capital to build artificial general intelligence—powerful AI that can compete with humans on most cognitive tasks. Musk wanted a majority interest in the subsidiary and the right to choose a majority of the board members. He also pitched having Tesla acquire OpenAI. (He left OpenAI in 2018.)&lt;/p&gt;  &lt;p&gt;“I was not opposed to there being a small for-profit that provides funding to the nonprofit,” he told the jury, “as long as the tail didn’t wag the dog.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;But it was only in late 2022, Musk testified, that he “lost trust in Altman” and his commitment to keeping the company a nonprofit. The key moment came, he said, when he learned that Microsoft would invest $10 billion in OpenAI.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_11"&gt; &lt;p&gt;“I texted Sam Altman, ‘What the hell is going on? This is a bait and switch,’” he told the jury. Microsoft would give $10 billion only if it expected “a very big financial return,” he said.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Is Musk just trying to kill competition?&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;But Savitt argued that Musk was really suing to undermine OpenAI as a competitor to his empire of tech companies. While he was on the board of OpenAI, Musk was also running Tesla and his brain-implant company, Neuralink. He founded xAI in 2023.&lt;/p&gt;  &lt;p&gt;Savitt pulled up an email that Musk had sent to a Tesla vice president in 2017 after hiring Andrej Karpathy, a founding member of OpenAI, to work at Tesla.“The OpenAI guys are gonna want to kill me. But it had to be done,” he wrote.&lt;/p&gt;  &lt;p&gt;When asked about it, Musk was flustered. He claimed Karpathy had already decided to leave OpenAI when he recruited him to work at Tesla. “I believe it’s a free world,” he said.&lt;/p&gt;&lt;p&gt;Savitt pulled up another email that Musk sent to a cofounder at Neuralink in 2017. He wrote that they could “hire independently or directly from OpenAI.” When pressed about it, he sounded frazzled. “It’s a free country,” he said. “I can’t restrict their ability to hire people from other companies.”&amp;nbsp;&lt;/p&gt; 
 &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_13"&gt; &lt;p&gt;Savitt also pointed out that Tesla, SpaceX, Neuralink, and X were socially beneficial for-profit companies, like OpenAI. He stressed that xAI was also a closed-source, for-profit company.&lt;/p&gt;  &lt;p&gt;But Musk claimed that xAI was not a real competitor to OpenAI. “We’re not currently tracking to reach AGI first,” he told the jury.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;In fact, Musk admitted that xAI uses OpenAI’s technology. In response to Savitt’s relentless questioning, he said xAI “partly” distills OpenAI’s models. Some people in the courtroom gasped.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Distillation is a technique where a smaller AI model is trained to mimic the behavior of larger, more capable models, so it can run faster and more cheaply while performing nearly as well. But OpenAI and other AI companies have pushed back against the practice. In February, OpenAI accused the Chinese AI company DeepSeek of distilling its AI models. In August 2025, &lt;em&gt;Wired&lt;/em&gt; reported that Anthropic had blocked OpenAI’s access to Claude for violating the company’s terms of service, which prohibit, among other things, reverse-engineering its services and building competing products.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_15"&gt;&lt;p&gt;“It is standard practice to use other AIs to validate your AI,” argued Musk.&lt;/p&gt;&lt;p&gt;Next week, Stuart Russell, a computer scientist at UC Berkeley, will testify about AI safety. Brockman, who has been taking notes during Musk’s testimony, will also testify.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This story is part of &lt;/em&gt;MIT Technology Review&lt;em&gt;’s ongoing coverage of the &lt;/em&gt;Musk v. Altman &lt;em&gt;trial. Follow&lt;/em&gt; &lt;em&gt;@techreview&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;@michelletomkim&lt;/em&gt;&lt;em&gt; on X for up-to-the-minute reporting.&lt;/em&gt;&lt;/p&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/</guid><pubDate>Fri, 01 May 2026 22:08:19 +0000</pubDate></item><item><title>[NEW] Meta buys robotics startup to bolster its humanoid AI ambitions (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
+ &lt;p&gt;In fact, Musk admitted that xAI uses OpenAI’s technology. In response to Savitt’s relentless questioning, he said xAI “partly” distills OpenAI’s models. Some people in the courtroom gasped.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Distillation is a technique where a smaller AI model is trained to mimic the behavior of larger, more capable models, so it can run faster and more cheaply while performing nearly as well. But OpenAI and other AI companies have pushed back against the practice. In February, OpenAI accused the Chinese AI company DeepSeek of distilling its AI models. In August 2025, &lt;em&gt;Wired&lt;/em&gt; reported that Anthropic had blocked OpenAI’s access to Claude for violating the company’s terms of service, which prohibit, among other things, reverse-engineering its services and building competing products.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_15"&gt;&lt;p&gt;“It is standard practice to use other AIs to validate your AI,” argued Musk.&lt;/p&gt;&lt;p&gt;Next week, Stuart Russell, a computer scientist at UC Berkeley, will testify about AI safety. Brockman, who has been taking notes during Musk’s testimony, will also testify.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This story is part of &lt;/em&gt;MIT Technology Review&lt;em&gt;’s ongoing coverage of the &lt;/em&gt;Musk v. Altman &lt;em&gt;trial. Follow&lt;/em&gt; &lt;em&gt;@techreview&lt;/em&gt;&lt;em&gt; or &lt;/em&gt;&lt;em&gt;@michelletomkim&lt;/em&gt;&lt;em&gt; on X for up-to-the-minute reporting.&lt;/em&gt;&lt;/p&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/</guid><pubDate>Fri, 01 May 2026 22:08:19 +0000</pubDate></item><item><title>Meta buys robotics startup to bolster its humanoid AI ambitions (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Meta has acquired humanoid robotics startup Assured Robot Intelligence (ARI) for an undisclosed sum, the social media giant said.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;“We acquired Assured Robot Intelligence, a company at the frontier of robotic intelligence designed to enable robots to understand, predict, and adapt to human behaviors in complex and dynamic environments,” a Meta spokesperson told TechCrunch in an emailed statement.&lt;/p&gt;
@@ -865,7 +93,7 @@
 
 
 
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/</guid><pubDate>Fri, 01 May 2026 22:13:27 +0000</pubDate></item><item><title>[NEW] Study: AI models that consider user's feeling are more likely to make errors (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/</link><description>&lt;header&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/</guid><pubDate>Fri, 01 May 2026 22:13:27 +0000</pubDate></item><item><title>Study: AI models that consider user's feeling are more likely to make errors (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -1339,10 +567,10 @@ systems,” or for more subjective use cases that don’t involve “clear groun
       &lt;/div&gt;
     &lt;/div&gt;
                 &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/</guid><pubDate>Fri, 01 May 2026 22:23:36 +0000</pubDate></item><item><title>[NEW] Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/55242949643_f997627b64_k.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/</guid><pubDate>Fri, 01 May 2026 22:23:36 +0000</pubDate></item><item><title>Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/55242949643_f997627b64_k.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Amjad Masad has been building Replit for a decade, but the last 18 months have been something else entirely. The AI coding assistant company went from $2.8 million in revenue in all of 2024 to tracking toward what Masad describes as a billion-dollar annual run rate.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;At TechCrunch’s sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell? We also got into Replit’s net revenue retention — a measure of how much existing customers expand their spending — which Masad says is reaching as high as 300%, his willingness to take Apple to court over what he called outright lies in its App Store battle with Replit, and the possibility of the company beginning to invest in its own customers.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;At TechCrunch’s sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell? &lt;/p&gt;
 
 
 
@@ -1350,15 +578,15 @@ systems,” or for more subjective use cases that don’t involve “clear groun
 
 
 
-&lt;p class="wp-block-paragraph"&gt;On the question of independence, Masad was unambiguous. Unlike Cursor, which he said has been operating at negative 23% gross margins, he argued Replit has the economics to make that path viable — even if he stopped short of ruling out a sale entirely.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;We also talked about Replit’s net revenue retention — a measure of how much existing customers expand their spending — which Masad says is reaching as high as 300%, his willingness to take Apple to court over what he called outright lies in its App Store battle with Replit, and the possibility of the company beginning to invest in its own customers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the question of independence, Masad was firm. Unlike Cursor, which he said has been operating at negative 23% gross margins, he argued Replit has the economics to make that path viable — even if he stopped short of ruling out a sale entirely.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The following has been edited for length and clarity:&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;TC: Cursor’s reported SpaceX deal was the talk of the industry last week. What did you make of it?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;AM: It’s kind of hard being an independent, smaller AI company that’s building on foundation models, especially if you’re burning a ton of cash. Part of the reporting suggested Cursor has negative 23% margins, and if you’re also wanting to invest in training models, that makes it incredibly hard to stay independent.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For us at Replit, partly because we target a different customer set, we’ve been able to run the business more rationally. We’ve been gross margin positive for over a year. We’re slightly more expensive, but we provide a lot more. Our audience tends to be mostly non-technical users who previously haven’t been able to create any software. We provide an end-to-end platform — from the prompt all the way to a deployed application that can scale. We handle security, databases, database migration. And we’ve been doing this long enough that we’ve built a lot of those primitives into the platform.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -1375,17 +603,19 @@ systems,” or for more subjective use cases that don’t involve “clear groun
 	&lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p class="wp-block-paragraph"&gt;For us at Replit, partly because we target a different customer set, we’ve been able to run the business more rationally. We’ve been gross margin positive for over a year. We’re slightly more expensive, but we provide a lot more. Our audience tends to be mostly non-technical users who previously haven’t been able to create any software. We provide an end-to-end platform — from the prompt all the way to a deployed application that can scale. We handle security, databases, database migration. And we’ve been doing this long enough that we’ve built a lot of those primitives into the platform.&lt;/p&gt;
+
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Is Replit for sale? I would assume you are talking with potential acquirers all the time; it’s your fiduciary responsibility.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Yeah. We have amazing partners, and they sometimes bring up these topics. But we’re going to try to stay independent. I would love for us to remain an independent company. We’ve been around for 10 years, before it was even accepted that you could make apps just from ideas. We were talking about creating a billion software creators back in 2018 at YC, and people sometimes actually laughed at that dream. Now that dream is possible, and we kicked off this revolution with our agentic coding experience in September 2024. It just feels like we can take it much further.&lt;/p&gt;
 
+
+
+
+
+
+
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;You work closely with Anthropic, Google, and OpenAI. If you had to rank them — who’s doing it best?&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-
 
 &lt;p class="wp-block-paragraph"&gt;Anthropic is still undefeated on the core agentic loop. They have the best tool calling; the agent can stay coherent much longer. GPT-5 is catching up quickly. Google’s Flash family of models is just amazing on price-performance. If you want something fast and cheap, they’re actually beating open source right now. We use all three, and honestly I wouldn’t discount the newer labs either. Reflection AI is coming out with open-source models we’re hearing great things about. And the Chinese models are impressive — Kimi is as good as an Anthropic-generation model from January, so it’s only about three months behind.&lt;/p&gt;
 
@@ -1401,13 +631,13 @@ systems,” or for more subjective use cases that don’t involve “clear groun
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;There’s a growing concern about AI bloat — non-technical users generate far more code and burn through far more tokens. That’s good for you [given your usage-based fees]. What about your customers?&lt;/strong&gt;&lt;/p&gt;
 
+
+
+
+
+
+
 &lt;p class="wp-block-paragraph"&gt;We don’t have a lot of regrettable spend. Enterprises are very ROI conscious, and they tell us about the returns they’re getting. For the most part they feel the investment is totally worth it — often one, two, three orders of magnitude. If they spend $100,000 a month with Replit, they’re usually generating $2 million, $3 million, $10 million in some kind of return. &lt;/p&gt;
-
-
-
-
-
-
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Let’s talk about Apple. Another rival, Lovable, just got an app-building app approved by the App Store this week. Replit has been in App Store purgatory, with Apple blocking your updates for months. How much does that hurt you?&lt;/strong&gt;&lt;/p&gt;
 
@@ -1423,13 +653,13 @@ systems,” or for more subjective use cases that don’t involve “clear groun
 
 &lt;p class="wp-block-paragraph"&gt;I hope not. I’m a fan of Apple, and I’d love to collaborate and build something great together. We’re happy to send customers to Xcode [Apple’s own development environment]. But you can’t run a marketplace that a billion people have access to and make decisions that are discriminatory or based on whims.&lt;/p&gt;
 
+
+
+
+
+
+
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Just wondering if, like Nvidia, OpenAI and others, you’re thinking about investing in your own customers in exchange for equity. &lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-
 
 &lt;p class="wp-block-paragraph"&gt;We’ve thought a lot about it, and it is a consideration. I’ve personally invested in a few startups that started on Replit before they made any money. Some of them, like Magic School — a teacher decided to take his time during COVID to learn a little bit of vibe coding and built an AI app for other teachers. He found this problem that in America, we burn out a lot of teachers. He wanted to use AI to reduce the workload. He did that, and he made $20 million in the first year. Other companies that started on Replit, I think, are valued at half a billion dollars. The entrepreneurship happening on Replit right now is genuinely exciting. We integrated with Stripe a few months ago, and the transactions flowing through Replit are growing triple digits month over month. Pretty soon, our customers will be making more revenue than we are.&lt;/p&gt;
 
@@ -1443,7 +673,7 @@ systems,” or for more subjective use cases that don’t involve “clear groun
 &lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/55242949643_f997627b64_k.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Amjad Masad has been building Replit for a decade, but the last 18 months have been something else entirely. The AI coding assistant company went from $2.8 million in revenue in all of 2024 to tracking toward what Masad describes as a billion-dollar annual run rate.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;At TechCrunch’s sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell? We also got into Replit’s net revenue retention — a measure of how much existing customers expand their spending — which Masad says is reaching as high as 300%, his willingness to take Apple to court over what he called outright lies in its App Store battle with Replit, and the possibility of the company beginning to invest in its own customers.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;At TechCrunch’s sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell? &lt;/p&gt;
 
 
 
@@ -1451,15 +681,15 @@ systems,” or for more subjective use cases that don’t involve “clear groun
 
 
 
-&lt;p class="wp-block-paragraph"&gt;On the question of independence, Masad was unambiguous. Unlike Cursor, which he said has been operating at negative 23% gross margins, he argued Replit has the economics to make that path viable — even if he stopped short of ruling out a sale entirely.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;We also talked about Replit’s net revenue retention — a measure of how much existing customers expand their spending — which Masad says is reaching as high as 300%, his willingness to take Apple to court over what he called outright lies in its App Store battle with Replit, and the possibility of the company beginning to invest in its own customers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the question of independence, Masad was firm. Unlike Cursor, which he said has been operating at negative 23% gross margins, he argued Replit has the economics to make that path viable — even if he stopped short of ruling out a sale entirely.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The following has been edited for length and clarity:&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;TC: Cursor’s reported SpaceX deal was the talk of the industry last week. What did you make of it?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;AM: It’s kind of hard being an independent, smaller AI company that’s building on foundation models, especially if you’re burning a ton of cash. Part of the reporting suggested Cursor has negative 23% margins, and if you’re also wanting to invest in training models, that makes it incredibly hard to stay independent.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For us at Replit, partly because we target a different customer set, we’ve been able to run the business more rationally. We’ve been gross margin positive for over a year. We’re slightly more expensive, but we provide a lot more. Our audience tends to be mostly non-technical users who previously haven’t been able to create any software. We provide an end-to-end platform — from the prompt all the way to a deployed application that can scale. We handle security, databases, database migration. And we’ve been doing this long enough that we’ve built a lot of those primitives into the platform.&lt;/p&gt;
 &lt;div class="wp-block-techcrunch-inline-cta"&gt;
 	&lt;div class="inline-cta__wrapper"&gt;
 		
@@ -1476,17 +706,19 @@ systems,” or for more subjective use cases that don’t involve “clear groun
 	&lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p class="wp-block-paragraph"&gt;For us at Replit, partly because we target a different customer set, we’ve been able to run the business more rationally. We’ve been gross margin positive for over a year. We’re slightly more expensive, but we provide a lot more. Our audience tends to be mostly non-technical users who previously haven’t been able to create any software. We provide an end-to-end platform — from the prompt all the way to a deployed application that can scale. We handle security, databases, database migration. And we’ve been doing this long enough that we’ve built a lot of those primitives into the platform.&lt;/p&gt;
+
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Is Replit for sale? I would assume you are talking with potential acquirers all the time; it’s your fiduciary responsibility.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Yeah. We have amazing partners, and they sometimes bring up these topics. But we’re going to try to stay independent. I would love for us to remain an independent company. We’ve been around for 10 years, before it was even accepted that you could make apps just from ideas. We were talking about creating a billion software creators back in 2018 at YC, and people sometimes actually laughed at that dream. Now that dream is possible, and we kicked off this revolution with our agentic coding experience in September 2024. It just feels like we can take it much further.&lt;/p&gt;
 
+
+
+
+
+
+
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;You work closely with Anthropic, Google, and OpenAI. If you had to rank them — who’s doing it best?&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-
 
 &lt;p class="wp-block-paragraph"&gt;Anthropic is still undefeated on the core agentic loop. They have the best tool calling; the agent can stay coherent much longer. GPT-5 is catching up quickly. Google’s Flash family of models is just amazing on price-performance. If you want something fast and cheap, they’re actually beating open source right now. We use all three, and honestly I wouldn’t discount the newer labs either. Reflection AI is coming out with open-source models we’re hearing great things about. And the Chinese models are impressive — Kimi is as good as an Anthropic-generation model from January, so it’s only about three months behind.&lt;/p&gt;
 
@@ -1502,13 +734,13 @@ systems,” or for more subjective use cases that don’t involve “clear groun
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;There’s a growing concern about AI bloat — non-technical users generate far more code and burn through far more tokens. That’s good for you [given your usage-based fees]. What about your customers?&lt;/strong&gt;&lt;/p&gt;
 
+
+
+
+
+
+
 &lt;p class="wp-block-paragraph"&gt;We don’t have a lot of regrettable spend. Enterprises are very ROI conscious, and they tell us about the returns they’re getting. For the most part they feel the investment is totally worth it — often one, two, three orders of magnitude. If they spend $100,000 a month with Replit, they’re usually generating $2 million, $3 million, $10 million in some kind of return. &lt;/p&gt;
-
-
-
-
-
-
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Let’s talk about Apple. Another rival, Lovable, just got an app-building app approved by the App Store this week. Replit has been in App Store purgatory, with Apple blocking your updates for months. How much does that hurt you?&lt;/strong&gt;&lt;/p&gt;
 
@@ -1524,13 +756,13 @@ systems,” or for more subjective use cases that don’t involve “clear groun
 
 &lt;p class="wp-block-paragraph"&gt;I hope not. I’m a fan of Apple, and I’d love to collaborate and build something great together. We’re happy to send customers to Xcode [Apple’s own development environment]. But you can’t run a marketplace that a billion people have access to and make decisions that are discriminatory or based on whims.&lt;/p&gt;
 
+
+
+
+
+
+
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Just wondering if, like Nvidia, OpenAI and others, you’re thinking about investing in your own customers in exchange for equity. &lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-
 
 &lt;p class="wp-block-paragraph"&gt;We’ve thought a lot about it, and it is a consideration. I’ve personally invested in a few startups that started on Replit before they made any money. Some of them, like Magic School — a teacher decided to take his time during COVID to learn a little bit of vibe coding and built an AI app for other teachers. He found this problem that in America, we burn out a lot of teachers. He wanted to use AI to reduce the workload. He did that, and he made $20 million in the first year. Other companies that started on Replit, I think, are valued at half a billion dollars. The entrepreneurship happening on Replit right now is genuinely exciting. We integrated with Stripe a few months ago, and the transactions flowing through Replit are growing triple digits month over month. Pretty soon, our customers will be making more revenue than we are.&lt;/p&gt;
 
