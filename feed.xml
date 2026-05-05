@@ -1,349 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 04 May 2026 19:43:35 +0000</lastBuildDate><item><title>Google made agentic AI governance a product. Enterprises still have to catch up. (AI News)</title><link>https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/</link><description>&lt;p&gt;Two weeks ago at Google Cloud Next ’26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it&amp;nbsp;made&amp;nbsp;agentic AI governance a native product feature, not an afterthought.&lt;/p&gt;&lt;p&gt;The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to Vertex AI and described by Google as a comprehensive platform to build, scale, govern, and optimise agents. What made it notable wasn’t the model access or the TPU upgrades, significant as those are.&amp;nbsp;&lt;/p&gt;&lt;p&gt;It was the architecture underneath: every agent built on the platform gets a unique cryptographic identity for traceability and auditing, while Agent Gateway handles oversight of interactions between agents and enterprise data. Governance, in other words, ships with the product.&lt;/p&gt;&lt;p&gt;That design choice is a direct response to a problem that has quietly been undermining enterprise AI deployments across the board.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-governance-gap-that-no-one-wants-to-talk-about"&gt;The governance gap that no one wants to talk about&lt;/h3&gt;&lt;p&gt;A&amp;nbsp;survey&amp;nbsp;of 1,879 IT leaders by OutSystems, released in April, puts the numbers plainly: 97% of organisations are already exploring agentic AI strategies, and 49% describe their own capabilities as advanced or expert. Yet only 36% have a centralised approach to agentic AI governance, and just 12% use a centralised platform to maintain control over AI sprawl.&lt;/p&gt;&lt;p&gt;That is an 85-point gap between confidence and actual control, and it is not improving fast enough. Gartner’s&amp;nbsp;2026 Hype Cycle&amp;nbsp;for Agentic AI frames the same tension differently. Only 17% of organisations have actually deployed AI agents to date, yet more than 60% expect to do so within two years, the most aggressive adoption curve Gartner has recorded for any emerging technology in the survey’s history.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The hype cycle places agentic AI squarely at the Peak of Inflated Expectations, with governance, security, and cost-management capabilities still maturing well behind deployment intent. The production reality is considerably more sobering. Multiple independent analyses put the share of agentic AI pilots that have reached genuine production scale at somewhere between 11% and 14%. The rest, the other 86% to 89%, have stalled, been quietly shelved, or never moved beyond proof-of-concept.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Governance breakdowns and integration complexity are consistently cited as the primary causes, ahead of any technical shortcomings in the models themselves.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-what-google-is-actually-betting-on"&gt;What Google is actually betting on&lt;/h3&gt;&lt;p&gt;At Cloud Next ’26, the message from Google was less about model capability and more about who owns the control plane. Bain &amp;amp; Company’s&amp;nbsp;post-event analysis&amp;nbsp;noted that Google is repositioning from model access toward a full agentic enterprise platform, one where context, identity, and security sit at the centre of the architecture, not at the edges.&lt;/p&gt;&lt;p&gt;The strategic logic is coherent. All three major cloud providers only announced agent registries in April 2026, which signals just how early-stage the governance tooling still is across the industry. Google’s move is the most comprehensive response so far, but it also carries a specific implication for enterprises evaluating the platform: deeper integration with Google’s stack is part of the deal.&lt;/p&gt;&lt;p&gt;That tension–between the genuine governance capabilities on offer and the platform commitment required to access them–is what enterprise architects are now working through. Agentic systems multiply identities and permissions at a pace that traditional human-centric identity and access management models were never built to handle.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Once agents start acting across systems, the governance question shifts from which model is approved to what actions a given agent can take, through which identity, against which tools, and with what audit trail.&lt;/p&gt;&lt;p&gt;Google’s cryptographic agent identity and gateway architecture is a direct answer to that question. Whether enterprises are ready to hand Google that level of operational centrality is a different conversation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-agent-washing-makes-this-harder"&gt;Agent washing makes this harder&lt;/h3&gt;&lt;p&gt;There is a compounding problem that the governance debate tends to sidestep: a large share of what is currently being marketed as agentic AI is not agentic AI. Deloitte’s research on enterprise AI trends notes that many so-called agentic initiatives are actually automation use cases in disguise: legacy workflow tools with conversational interfaces, operating on predefined rules rather than reasoning toward goals.&lt;/p&gt;&lt;p&gt;The distinction matters because governance frameworks designed for genuinely autonomous agents will not map cleanly onto scripted automation, and vice versa. Enterprises that conflate the two end up with governance structures that are either too restrictive for real agents or too permissive for brittle automation masquerading as intelligence.&lt;/p&gt;&lt;p&gt;Gartner estimates that more than 40% of agentic AI projects could be cancelled by 2027, with unclear value and weak governance cited as the leading reasons. That figure should concentrate minds. The enterprises investing now in governance architecture–audit trails, escalation paths, bounded autonomy, agent-level identity–are building the foundation that will determine whether their agentic deployments survive contact with production.&lt;/p&gt;&lt;p&gt;Google’s Cloud Next platform launch is, at minimum, a forcing function. The tooling for governed agentic systems now exists at scale from a major provider. What remains is the harder organisational work–deciding what agents are actually authorised to do, who is accountable when they get it wrong, and whether the platform holding all of that together is one you are prepared to build on.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also:&lt;/strong&gt; SAP: How enterprise AI governance secures profit margins&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-112554" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p&gt;Two weeks ago at Google Cloud Next ’26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it&amp;nbsp;made&amp;nbsp;agentic AI governance a native product feature, not an afterthought.&lt;/p&gt;&lt;p&gt;The centrepiece announcement was the Gemini Enterprise Agent Platform, pitched as the successor to Vertex AI and described by Google as a comprehensive platform to build, scale, govern, and optimise agents. What made it notable wasn’t the model access or the TPU upgrades, significant as those are.&amp;nbsp;&lt;/p&gt;&lt;p&gt;It was the architecture underneath: every agent built on the platform gets a unique cryptographic identity for traceability and auditing, while Agent Gateway handles oversight of interactions between agents and enterprise data. Governance, in other words, ships with the product.&lt;/p&gt;&lt;p&gt;That design choice is a direct response to a problem that has quietly been undermining enterprise AI deployments across the board.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-the-governance-gap-that-no-one-wants-to-talk-about"&gt;The governance gap that no one wants to talk about&lt;/h3&gt;&lt;p&gt;A&amp;nbsp;survey&amp;nbsp;of 1,879 IT leaders by OutSystems, released in April, puts the numbers plainly: 97% of organisations are already exploring agentic AI strategies, and 49% describe their own capabilities as advanced or expert. Yet only 36% have a centralised approach to agentic AI governance, and just 12% use a centralised platform to maintain control over AI sprawl.&lt;/p&gt;&lt;p&gt;That is an 85-point gap between confidence and actual control, and it is not improving fast enough. Gartner’s&amp;nbsp;2026 Hype Cycle&amp;nbsp;for Agentic AI frames the same tension differently. Only 17% of organisations have actually deployed AI agents to date, yet more than 60% expect to do so within two years, the most aggressive adoption curve Gartner has recorded for any emerging technology in the survey’s history.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The hype cycle places agentic AI squarely at the Peak of Inflated Expectations, with governance, security, and cost-management capabilities still maturing well behind deployment intent. The production reality is considerably more sobering. Multiple independent analyses put the share of agentic AI pilots that have reached genuine production scale at somewhere between 11% and 14%. The rest, the other 86% to 89%, have stalled, been quietly shelved, or never moved beyond proof-of-concept.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Governance breakdowns and integration complexity are consistently cited as the primary causes, ahead of any technical shortcomings in the models themselves.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-what-google-is-actually-betting-on"&gt;What Google is actually betting on&lt;/h3&gt;&lt;p&gt;At Cloud Next ’26, the message from Google was less about model capability and more about who owns the control plane. Bain &amp;amp; Company’s&amp;nbsp;post-event analysis&amp;nbsp;noted that Google is repositioning from model access toward a full agentic enterprise platform, one where context, identity, and security sit at the centre of the architecture, not at the edges.&lt;/p&gt;&lt;p&gt;The strategic logic is coherent. All three major cloud providers only announced agent registries in April 2026, which signals just how early-stage the governance tooling still is across the industry. Google’s move is the most comprehensive response so far, but it also carries a specific implication for enterprises evaluating the platform: deeper integration with Google’s stack is part of the deal.&lt;/p&gt;&lt;p&gt;That tension–between the genuine governance capabilities on offer and the platform commitment required to access them–is what enterprise architects are now working through. Agentic systems multiply identities and permissions at a pace that traditional human-centric identity and access management models were never built to handle.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Once agents start acting across systems, the governance question shifts from which model is approved to what actions a given agent can take, through which identity, against which tools, and with what audit trail.&lt;/p&gt;&lt;p&gt;Google’s cryptographic agent identity and gateway architecture is a direct answer to that question. Whether enterprises are ready to hand Google that level of operational centrality is a different conversation.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-agent-washing-makes-this-harder"&gt;Agent washing makes this harder&lt;/h3&gt;&lt;p&gt;There is a compounding problem that the governance debate tends to sidestep: a large share of what is currently being marketed as agentic AI is not agentic AI. Deloitte’s research on enterprise AI trends notes that many so-called agentic initiatives are actually automation use cases in disguise: legacy workflow tools with conversational interfaces, operating on predefined rules rather than reasoning toward goals.&lt;/p&gt;&lt;p&gt;The distinction matters because governance frameworks designed for genuinely autonomous agents will not map cleanly onto scripted automation, and vice versa. Enterprises that conflate the two end up with governance structures that are either too restrictive for real agents or too permissive for brittle automation masquerading as intelligence.&lt;/p&gt;&lt;p&gt;Gartner estimates that more than 40% of agentic AI projects could be cancelled by 2027, with unclear value and weak governance cited as the leading reasons. That figure should concentrate minds. The enterprises investing now in governance architecture–audit trails, escalation paths, bounded autonomy, agent-level identity–are building the foundation that will determine whether their agentic deployments survive contact with production.&lt;/p&gt;&lt;p&gt;Google’s Cloud Next platform launch is, at minimum, a forcing function. The tooling for governed agentic systems now exists at scale from a major provider. What remains is the harder organisational work–deciding what agents are actually authorised to do, who is accountable when they get it wrong, and whether the platform holding all of that together is one you are prepared to build on.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also:&lt;/strong&gt; SAP: How enterprise AI governance secures profit margins&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for AI &amp;amp; Big Data Expo by TechEx events." class="wp-image-112554" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/03/image-5.png" width="728" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/</guid><pubDate>Mon, 04 May 2026 10:00:00 +0000</pubDate></item><item><title>Physical AI raises governance questions for autonomous systems (AI News)</title><link>https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-raises-new-governance-questions-for-autonomous-systems-scaled-e1777880180395.jpg" /&gt;&lt;/div&gt;&lt;p&gt;Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems.&lt;/p&gt;&lt;p&gt;Industrial robotics already provides a large base for that discussion. The International Federation of Robotics said 542,000 industrial robots were installed worldwide in 2024, more than double the annual level recorded a decade earlier. It expects installations to reach 575,000 units in 2025 and pass 700,000 units by 2028.&lt;/p&gt;&lt;p&gt;Market researchers are also applying the Physical AI label to a wider group of systems, including robotics, edge computing, and autonomous machines. Grand View Research estimated the global Physical AI market at US$81.64 billion in 2025 and projected it to reach US$960.38 billion by 2033, though the category depends on how vendors define intelligence in physical systems.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-model-output-to-physical-action"&gt;From model output to physical action&lt;/h3&gt;&lt;p&gt;The governance challenge is different from software-only automation because physical systems can operate around workplaces, infrastructure, and human users. They can also be connected to equipment that requires clear safety limits. A model output can become a robot movement or a machine instruction. It can also become a decision based on sensor data. That makes safety limits and escalation paths part of system design.&lt;/p&gt;&lt;p&gt;Google DeepMind’s robotics work is one recent example of how AI models are being adapted for this environment. The company introduced Gemini Robotics and Gemini Robotics-ER in March 2025, describing them as models built on Gemini 2.0 for robotics and embodied AI. Gemini Robotics is a vision-language-action model designed to control robots directly, while Gemini Robotics-ER focuses on embodied reasoning, including spatial understanding and task planning.&lt;/p&gt;&lt;p&gt;A robot using this type of model may need to identify an object, understand an instruction, and plan a sequence of movements. It also needs to assess whether the task has been completed correctly. That creates a control problem that includes both model behaviour and the mechanical limits of the system.&lt;/p&gt;&lt;p&gt;Google DeepMind said useful robots need generality, interactivity, and dexterity. Generality covers unfamiliar objects and environments. Interactivity relates to human input and changing conditions. Dexterity refers to physical tasks that require precise movement.&lt;/p&gt;&lt;p&gt;In its launch materials, Google DeepMind said Gemini Robotics could follow natural-language instructions and perform multi-step manipulation tasks. Examples included folding paper, packing items into a bag, and handling objects not seen during training.&lt;/p&gt;&lt;p&gt;The technical requirements for Physical AI are broader than language understanding. Systems need visual perception and spatial reasoning. They also need task planning and success detection. In robotics, success detection matters because the system must decide whether a task has been completed, whether it should retry, or whether it should stop.&lt;/p&gt;&lt;p&gt;Google DeepMind’s Gemini Robotics-ER 1.6, introduced in April 2026, shows how those functions are being packaged in newer models. The company describes the model as supporting spatial logic, task planning, and success detection, with the ability to reason through intermediate steps and decide whether to move forward or try again.&lt;/p&gt;&lt;p&gt;Google’s developer documentation says Gemini Robotics-ER 1.6 is available in preview through the Gemini API. The documentation describes it as a vision-language model that brings Gemini’s agentic capabilities to robotics. Those capabilities include visual interpretation, spatial reasoning, and planning from natural-language commands.&lt;/p&gt;&lt;p&gt;Google AI Studio provides a developer environment for working with Gemini models, while the Gemini API provides a route for integrating those models into applications. In the context of embodied AI, that places testing and prompting closer to the developers building agentic applications.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-safety-controls-move-into-system-design"&gt;Safety controls move into system design&lt;/h3&gt;&lt;p&gt;Governance becomes more complex when these systems can call tools, generate code, or trigger actions. Controls need to define what data the system can access, what tools it can use, which actions require human approval, and how activity is logged for review.&lt;/p&gt;&lt;p&gt;McKinsey’s 2026 AI trust research points to the same issue in enterprise AI more broadly. It found that only about one-third of organisations reported maturity levels of three or higher in strategy, governance, and agentic AI governance, even as AI systems take on more autonomous functions.&lt;/p&gt;&lt;p&gt;In robotics, safety also includes the physical behaviour of the machine. Google DeepMind has described robot safety as a layered problem, covering lower-level controls such as collision avoidance, force limits, and stability, as well as higher-level reasoning about whether a requested action is safe in context.&lt;/p&gt;&lt;p&gt;The company also introduced ASIMOV, a dataset for evaluating semantic safety in robotics and embodied AI. Google DeepMind said the dataset was designed to test whether systems can understand safety-related instructions and avoid unsafe behaviour in physical settings.&lt;/p&gt;&lt;p&gt;The same controls used for software agents become harder to manage when systems are connected to robots, sensors, or industrial equipment. These include access rights, audit trails, and refusal behaviour. They also include escalation paths and testing.&lt;/p&gt;&lt;p&gt;Governance frameworks such as the NIST AI Risk Management Framework and ISO/IEC 42001 provide structures for managing AI risks and responsibilities across the system lifecycle. In Physical AI, those controls need to account for model behaviour, connected machines, and the operating environment.&lt;/p&gt;&lt;p&gt;Google DeepMind has also worked with robotics companies as part of its embodied AI development. In March 2025, the company said it was partnering with Apptronik on humanoid robots using Gemini 2.0, and listed Agile Robots, Agility Robotics, Boston Dynamics, and Enchanted Tools among trusted testers for Gemini Robotics-ER.&lt;/p&gt;&lt;p&gt;The 2026 update also referenced work with Boston Dynamics involving robotics tasks such as instrument reading. That type of use case depends on visual understanding, task planning, and reliable assessment of physical conditions.&lt;/p&gt;&lt;p&gt;Physical AI applies to industrial inspection, manufacturing, and logistics. It also applies to facilities and warehouses. These settings require systems to interpret real-world conditions and act within defined limits. The governance question is how those limits are set before autonomous systems are allowed to make or execute decisions.&lt;/p&gt;&lt;p&gt;Google DeepMind and Google AI Studio are listed as hackathon technology partners for AI &amp;amp; Big Data Expo North America 2026, taking place on May 18–19 at the San Jose McEnery Convention Center.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Mitchell Luo)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: AI agent governance takes focus as regulators flag control gaps&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-raises-new-governance-questions-for-autonomous-systems-scaled-e1777880180395.jpg" /&gt;&lt;/div&gt;&lt;p&gt;Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems.&lt;/p&gt;&lt;p&gt;Industrial robotics already provides a large base for that discussion. The International Federation of Robotics said 542,000 industrial robots were installed worldwide in 2024, more than double the annual level recorded a decade earlier. It expects installations to reach 575,000 units in 2025 and pass 700,000 units by 2028.&lt;/p&gt;&lt;p&gt;Market researchers are also applying the Physical AI label to a wider group of systems, including robotics, edge computing, and autonomous machines. Grand View Research estimated the global Physical AI market at US$81.64 billion in 2025 and projected it to reach US$960.38 billion by 2033, though the category depends on how vendors define intelligence in physical systems.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-from-model-output-to-physical-action"&gt;From model output to physical action&lt;/h3&gt;&lt;p&gt;The governance challenge is different from software-only automation because physical systems can operate around workplaces, infrastructure, and human users. They can also be connected to equipment that requires clear safety limits. A model output can become a robot movement or a machine instruction. It can also become a decision based on sensor data. That makes safety limits and escalation paths part of system design.&lt;/p&gt;&lt;p&gt;Google DeepMind’s robotics work is one recent example of how AI models are being adapted for this environment. The company introduced Gemini Robotics and Gemini Robotics-ER in March 2025, describing them as models built on Gemini 2.0 for robotics and embodied AI. Gemini Robotics is a vision-language-action model designed to control robots directly, while Gemini Robotics-ER focuses on embodied reasoning, including spatial understanding and task planning.&lt;/p&gt;&lt;p&gt;A robot using this type of model may need to identify an object, understand an instruction, and plan a sequence of movements. It also needs to assess whether the task has been completed correctly. That creates a control problem that includes both model behaviour and the mechanical limits of the system.&lt;/p&gt;&lt;p&gt;Google DeepMind said useful robots need generality, interactivity, and dexterity. Generality covers unfamiliar objects and environments. Interactivity relates to human input and changing conditions. Dexterity refers to physical tasks that require precise movement.&lt;/p&gt;&lt;p&gt;In its launch materials, Google DeepMind said Gemini Robotics could follow natural-language instructions and perform multi-step manipulation tasks. Examples included folding paper, packing items into a bag, and handling objects not seen during training.&lt;/p&gt;&lt;p&gt;The technical requirements for Physical AI are broader than language understanding. Systems need visual perception and spatial reasoning. They also need task planning and success detection. In robotics, success detection matters because the system must decide whether a task has been completed, whether it should retry, or whether it should stop.&lt;/p&gt;&lt;p&gt;Google DeepMind’s Gemini Robotics-ER 1.6, introduced in April 2026, shows how those functions are being packaged in newer models. The company describes the model as supporting spatial logic, task planning, and success detection, with the ability to reason through intermediate steps and decide whether to move forward or try again.&lt;/p&gt;&lt;p&gt;Google’s developer documentation says Gemini Robotics-ER 1.6 is available in preview through the Gemini API. The documentation describes it as a vision-language model that brings Gemini’s agentic capabilities to robotics. Those capabilities include visual interpretation, spatial reasoning, and planning from natural-language commands.&lt;/p&gt;&lt;p&gt;Google AI Studio provides a developer environment for working with Gemini models, while the Gemini API provides a route for integrating those models into applications. In the context of embodied AI, that places testing and prompting closer to the developers building agentic applications.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-safety-controls-move-into-system-design"&gt;Safety controls move into system design&lt;/h3&gt;&lt;p&gt;Governance becomes more complex when these systems can call tools, generate code, or trigger actions. Controls need to define what data the system can access, what tools it can use, which actions require human approval, and how activity is logged for review.&lt;/p&gt;&lt;p&gt;McKinsey’s 2026 AI trust research points to the same issue in enterprise AI more broadly. It found that only about one-third of organisations reported maturity levels of three or higher in strategy, governance, and agentic AI governance, even as AI systems take on more autonomous functions.&lt;/p&gt;&lt;p&gt;In robotics, safety also includes the physical behaviour of the machine. Google DeepMind has described robot safety as a layered problem, covering lower-level controls such as collision avoidance, force limits, and stability, as well as higher-level reasoning about whether a requested action is safe in context.&lt;/p&gt;&lt;p&gt;The company also introduced ASIMOV, a dataset for evaluating semantic safety in robotics and embodied AI. Google DeepMind said the dataset was designed to test whether systems can understand safety-related instructions and avoid unsafe behaviour in physical settings.&lt;/p&gt;&lt;p&gt;The same controls used for software agents become harder to manage when systems are connected to robots, sensors, or industrial equipment. These include access rights, audit trails, and refusal behaviour. They also include escalation paths and testing.&lt;/p&gt;&lt;p&gt;Governance frameworks such as the NIST AI Risk Management Framework and ISO/IEC 42001 provide structures for managing AI risks and responsibilities across the system lifecycle. In Physical AI, those controls need to account for model behaviour, connected machines, and the operating environment.&lt;/p&gt;&lt;p&gt;Google DeepMind has also worked with robotics companies as part of its embodied AI development. In March 2025, the company said it was partnering with Apptronik on humanoid robots using Gemini 2.0, and listed Agile Robots, Agility Robotics, Boston Dynamics, and Enchanted Tools among trusted testers for Gemini Robotics-ER.&lt;/p&gt;&lt;p&gt;The 2026 update also referenced work with Boston Dynamics involving robotics tasks such as instrument reading. That type of use case depends on visual understanding, task planning, and reliable assessment of physical conditions.&lt;/p&gt;&lt;p&gt;Physical AI applies to industrial inspection, manufacturing, and logistics. It also applies to facilities and warehouses. These settings require systems to interpret real-world conditions and act within defined limits. The governance question is how those limits are set before autonomous systems are allowed to make or execute decisions.&lt;/p&gt;&lt;p&gt;Google DeepMind and Google AI Studio are listed as hackathon technology partners for AI &amp;amp; Big Data Expo North America 2026, taking place on May 18–19 at the San Jose McEnery Convention Center.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(Photo by Mitchell Luo)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;See also: AI agent governance takes focus as regulators flag control gaps&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.&lt;/p&gt;&lt;p&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/</guid><pubDate>Mon, 04 May 2026 11:00:00 +0000</pubDate></item><item><title>Tailoring AI solutions for health care needs (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/</link><description>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;Mayo Clinic Platform&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining routine administrative tasks.&lt;/p&gt;  &lt;figure class="wp-block-image alignright size-large"&gt;&lt;img alt="alt" class="wp-image-1134429" height="2000" src="https://wp.technologyreview.com/wp-content/uploads/2026/03/Cover-MIT_MayoClinic_V12_03192026.png?w=1556" width="1556" /&gt;&lt;/figure&gt;  &lt;p&gt;The opportunity is genuine, but execution can be difficult. Numerous software vendors have tried to “fix” health care challenges but failed because they misunderstood the environment. “Health care is very complex,” says Steve Bethke, vice president of the solution developer market for Mayo Clinic Platform, which supports the buildout and deployment of digital solutions for health care companies through data-based insights and expert validation. “Solution developers must have a deep focus on clinical and technical capabilities, and then align their solutions to the relevant business impacts. If they miss any dimension, the solution will not be adopted or drive value.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt;  &lt;p&gt;AI applications for health care are proliferating rapidly. The U.S. Food and Drug Administration has approved more than 1,300 AI-enabled medical devices, mostly for interpreting diagnostic images. More than half of these were approved in the past three years, with the earliest dating as far back as 1995. Non-radiological applications carry out tasks as diverse as tracking sleep apnea, analyzing heart rhythms, and planning orthopedic surgeries.&lt;/p&gt;  &lt;p&gt;AI applications that do not count as medical devices— for example, those that handle scheduling and administrative tasks—are more difficult to track but are also rapidly increasing. AI can help coordinate complex tasks and workflows that are often conventionally managed by whiteboards and sticky notes. Such functions may well outstrip clinical uses in their impact on health systems. A recent survey of technology leaders found that 72% said their top priority for AI was reducing caregiver burden and improving caregiver satisfaction, while over half (53%) cited workflow efficiency and productivity.&lt;/p&gt; 
- &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-1134432" src="https://wp.technologyreview.com/wp-content/uploads/2026/03/MITTR-Mayo-Clinic-Fig1Socials_V2_03192026.png?w=1200" /&gt;&lt;/figure&gt;  &lt;p&gt;Any health care-related application can potentially impact patient care, whether directly or indirectly, and AI apps that are poorly designed or inadequately trained and validated can put patients at risk. Providers recognize that risk: In the same survey, 77% said immature AI tools are a significant barrier to adoption. Regulators and lawmakers are also keeping an eye on the risks as development and adoption burgeon, though the U.S. regulatory picture is still in flux, as a 2024 report to Congress on AI in health care observes.&lt;/p&gt;  &lt;p&gt;To tackle some of the technical challenges, many health care providers are partnering with application developers to build AI solutions. In a recent study, McKinsey found that 61% of health care organizations intend to pursue partnerships with third-party vendors to develop customized generative AI solutions as a primary strategy as opposed to building them in-house or buying off-the-shelf products.&lt;/p&gt; 
- &lt;p&gt;But health care-specific AI applications must also be tailored to the nuanced clinical needs of medical providers as well as the complex business and regulatory considerations of the wider sector. This is where developers can benefit from working with a partner with a deep understanding of the health care environment to tailor applications to what providers want and need most. Doing so helps to position AI products for maximum impact and value, avoiding the pitfalls unique to the health care environment.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Download the report.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;section class="sponsoredModule__wrapper--c8f6fcf4edb2dcd3a940a2824bb850dc sponsoredModule__minimalist--f63b84a37007076f51d0ebb0dc1af42f"&gt;&lt;p class="sponsoredModule__intro--e69c514244f1e38617e4ec5ea754fb7f"&gt;&lt;span&gt;In partnership with&lt;/span&gt;Mayo Clinic Platform&lt;/p&gt;&lt;span class="image__wrapper--373a87c0cefdc42b3a8bd26457571412"&gt;&lt;span class=" lazy-load-image-background opacity"&gt;&lt;span class="image__img--e1a73f503bf0f4a3d2504e1d64ea29cb imgLazyLoaded"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;figcaption class="image__meta--16eb0f8dde685315ba1d77ae67c89391"&gt;&lt;/figcaption&gt;&lt;/section&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining routine administrative tasks.&lt;/p&gt;  &lt;figure class="wp-block-image alignright size-large"&gt;&lt;img alt="alt" class="wp-image-1134429" height="2000" src="https://wp.technologyreview.com/wp-content/uploads/2026/03/Cover-MIT_MayoClinic_V12_03192026.png?w=1556" width="1556" /&gt;&lt;/figure&gt;  &lt;p&gt;The opportunity is genuine, but execution can be difficult. Numerous software vendors have tried to “fix” health care challenges but failed because they misunderstood the environment. “Health care is very complex,” says Steve Bethke, vice president of the solution developer market for Mayo Clinic Platform, which supports the buildout and deployment of digital solutions for health care companies through data-based insights and expert validation. “Solution developers must have a deep focus on clinical and technical capabilities, and then align their solutions to the relevant business impacts. If they miss any dimension, the solution will not be adopted or drive value.”&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt;  &lt;p&gt;AI applications for health care are proliferating rapidly. The U.S. Food and Drug Administration has approved more than 1,300 AI-enabled medical devices, mostly for interpreting diagnostic images. More than half of these were approved in the past three years, with the earliest dating as far back as 1995. Non-radiological applications carry out tasks as diverse as tracking sleep apnea, analyzing heart rhythms, and planning orthopedic surgeries.&lt;/p&gt;  &lt;p&gt;AI applications that do not count as medical devices— for example, those that handle scheduling and administrative tasks—are more difficult to track but are also rapidly increasing. AI can help coordinate complex tasks and workflows that are often conventionally managed by whiteboards and sticky notes. Such functions may well outstrip clinical uses in their impact on health systems. A recent survey of technology leaders found that 72% said their top priority for AI was reducing caregiver burden and improving caregiver satisfaction, while over half (53%) cited workflow efficiency and productivity.&lt;/p&gt; 
- &lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-1134432" src="https://wp.technologyreview.com/wp-content/uploads/2026/03/MITTR-Mayo-Clinic-Fig1Socials_V2_03192026.png?w=1200" /&gt;&lt;/figure&gt;  &lt;p&gt;Any health care-related application can potentially impact patient care, whether directly or indirectly, and AI apps that are poorly designed or inadequately trained and validated can put patients at risk. Providers recognize that risk: In the same survey, 77% said immature AI tools are a significant barrier to adoption. Regulators and lawmakers are also keeping an eye on the risks as development and adoption burgeon, though the U.S. regulatory picture is still in flux, as a 2024 report to Congress on AI in health care observes.&lt;/p&gt;  &lt;p&gt;To tackle some of the technical challenges, many health care providers are partnering with application developers to build AI solutions. In a recent study, McKinsey found that 61% of health care organizations intend to pursue partnerships with third-party vendors to develop customized generative AI solutions as a primary strategy as opposed to building them in-house or buying off-the-shelf products.&lt;/p&gt; 
- &lt;p&gt;But health care-specific AI applications must also be tailored to the nuanced clinical needs of medical providers as well as the complex business and regulatory considerations of the wider sector. This is where developers can benefit from working with a partner with a deep understanding of the health care environment to tailor applications to what providers want and need most. Doing so helps to position AI products for maximum impact and value, avoiding the pitfalls unique to the health care environment.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Download the report.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;&lt;em&gt;This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/</guid><pubDate>Mon, 04 May 2026 13:00:00 +0000</pubDate></item><item><title>[NEW] DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/</link><description>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create websites based on their app listings.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The onboarding tool works similarly to the one Amazon launched in 2024. Merchants can point the tool to their website, from which it will automatically fetch information such as photos, store hours, and menu items to create a listing on the app. Merchants can review and edit all of this information before publishing the listing. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;DoorDash has also revamped its video library. The library now lets merchants tag dishes in videos so that customers can order those items directly. The library also shows stats such as total views, video-driven sales, and new customer sales.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Restaurants are getting a few photo-editing tools, too: AI Retouch can replace backgrounds, sharpen images, and optimize lighting without changing the dish; and AI Replate manipulates pictures of dishes so they look like they’re plated professionally, changing lighting and color. Merchants can also provide a reference image to apply a particular style to an existing image.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3118712" height="442" src="https://techcrunch.com/wp-content/uploads/2026/05/Photo-preview-2.gif?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;DoorDash&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“At DoorDash, we’re constantly building tools to help merchants succeed, from their very first day on the platform, to every order after. These new tools reflect our belief that the right technology should remove friction, not add it, so merchants can focus on what they do best: making great food and delivering incredible customer experiences,” Brian Tolkin, head of merchant product at DoorDash, said in a statement.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company is adding new features to its commerce platform as well, one of which lets restaurant owners spin up a website based on existing DoorDash content, such as menu items and photos. The company said during a test of the new feature merchants saw order conversion rates of nearly 10% on average.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company has also added a new marketing campaign builder that lets merchants automate content creation, email outreach, and scheduling.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create websites based on their app listings.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The onboarding tool works similarly to the one Amazon launched in 2024. Merchants can point the tool to their website, from which it will automatically fetch information such as photos, store hours, and menu items to create a listing on the app. Merchants can review and edit all of this information before publishing the listing. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;DoorDash has also revamped its video library. The library now lets merchants tag dishes in videos so that customers can order those items directly. The library also shows stats such as total views, video-driven sales, and new customer sales.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Restaurants are getting a few photo-editing tools, too: AI Retouch can replace backgrounds, sharpen images, and optimize lighting without changing the dish; and AI Replate manipulates pictures of dishes so they look like they’re plated professionally, changing lighting and color. Merchants can also provide a reference image to apply a particular style to an existing image.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3118712" height="442" src="https://techcrunch.com/wp-content/uploads/2026/05/Photo-preview-2.gif?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;DoorDash&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“At DoorDash, we’re constantly building tools to help merchants succeed, from their very first day on the platform, to every order after. These new tools reflect our belief that the right technology should remove friction, not add it, so merchants can focus on what they do best: making great food and delivering incredible customer experiences,” Brian Tolkin, head of merchant product at DoorDash, said in a statement.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company is adding new features to its commerce platform as well, one of which lets restaurant owners spin up a website based on existing DoorDash content, such as menu items and photos. The company said during a test of the new feature merchants saw order conversion rates of nearly 10% on average.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The company has also added a new marketing campaign builder that lets merchants automate content creation, email outreach, and scheduling.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/</guid><pubDate>Mon, 04 May 2026 13:00:00 +0000</pubDate></item><item><title>[NEW] 5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/</link><description>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;This is it. The BOGO offer is live.&amp;nbsp;For a limited time, buy one pass to &lt;strong&gt;TechCrunch Disrupt 2026&lt;/strong&gt; and &lt;strong&gt;get 50% off a second of the same ticket type.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This is a short window to bring someone with you — and get more out of being there.&amp;nbsp;Bring a colleague. A co-founder. A partner.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;The BOGO offer ends May 8 at 11:59 p.m. PT.&lt;/strong&gt;&amp;nbsp;After that, prices go up, and you’ll be paying more for the same access.&amp;nbsp;&lt;strong&gt;Lock in your 50% off a second pass savings now.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2026 BOGO" class="wp-image-3118689" height="355" src="https://techcrunch.com/wp-content/uploads/2026/05/LinkedIn-Ad-with-Text-GA-BOGO-V1-Rectangle.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-you-ll-nbsp-get-more-out-of-disrupt-if-you-nbsp-don-t-nbsp-go-alone-nbsp"&gt;You’ll&amp;nbsp;get more out of Disrupt if you&amp;nbsp;don’t&amp;nbsp;go alone&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;No one person can cover&amp;nbsp;Disrupt&amp;nbsp;on their own.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;From October 13–15 in San Francisco,&amp;nbsp;300+ showcasing startups&amp;nbsp;and&amp;nbsp;10,000+ founders, investors, and tech leaders come together for three days of&amp;nbsp;250+ tactical sessions,&amp;nbsp;conversations, and connections that move fast — and change trajectories.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt AI Stage" class="wp-image-3048038" height="454" src="https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Slava Blazer Photography&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When you attend with a colleague, peer, or partner, you&amp;nbsp;don’t&amp;nbsp;just experience more — you make better use of what you hear, who you meet, and:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Get into more rooms and more conversations.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Compare what&amp;nbsp;you’re&amp;nbsp;hearing on the spot.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Split up and cover more ground.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Leave knowing what&amp;nbsp;you’re&amp;nbsp;going to do next.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s&amp;nbsp;a simple shift, but it changes the outcome.&amp;nbsp;&lt;strong&gt;Find your ticket match.&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 class="wp-block-heading" id="h-from-idea-to-ipo-this-is-where-startups-figure-out-nbsp-what-s-nbsp-next"&gt;From idea to IPO, this is where startups figure out&amp;nbsp;what’s&amp;nbsp;next&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Disrupt&amp;nbsp;brings together&amp;nbsp;startup&amp;nbsp;and VC leaders focused on what it takes to build and scale right now. You’ll find value if&amp;nbsp;you’re:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Building a product.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Raising capital.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Evaluating opportunities.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Or figuring out&amp;nbsp;what’s&amp;nbsp;next&amp;nbsp;in tech.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt Expo Hall" class="wp-image-2571166" height="383" src="https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Eric Slomonson, The Photo Group&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The value comes from connecting with people working through the same challenges and learning from those&amp;nbsp;who’ve&amp;nbsp;already done it. Explore the&amp;nbsp;Disrupt events page&amp;nbsp;to see&amp;nbsp;what’s&amp;nbsp;planned.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Who you bring matters&amp;nbsp;—&amp;nbsp;choose the right pass.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The buy one,&amp;nbsp;get&amp;nbsp;one 50% off deal applies when you&amp;nbsp;&lt;strong&gt;purchase&amp;nbsp;two of the same ticket type&amp;nbsp;&lt;/strong&gt;for&amp;nbsp;Disrupt&amp;nbsp;by May 8, making it easy to bring someone from your team.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-investors-find-your-next-deal-faster"&gt;Investors, find your next deal faster&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Investor pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— a $499&amp;nbsp;savings. Connect directly with founders, access curated networking, and spend time where deal flow happens. Bringing another investor or partner helps you&amp;nbsp;compare signals and act faster.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-founders-build-investment-momentum"&gt;Founders, build investment momentum&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Founder pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— a $399&amp;nbsp;savings.&amp;nbsp;Meet investors aligned with your stage, challenge your thinking, and hear&amp;nbsp;what’s&amp;nbsp;working from operators.&amp;nbsp;Attending with&amp;nbsp;a co-founder or teammate helps you&amp;nbsp;divide and move quickly.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If&amp;nbsp;you’re&amp;nbsp;ready to pitch,&amp;nbsp;Startup Battlefield 200&amp;nbsp;gives you a shot at VC exposure, TechCrunch coverage, and a $100,000 equity-free prize.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-operators-build-ship-and-scale-with-more-clarity"&gt;Operators, build, ship, and scale with more clarity&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Attendee pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— up to $444&amp;nbsp;savings.&amp;nbsp;Built&amp;nbsp;for product, engineering, growth, and go-to-market&amp;nbsp;teams,&amp;nbsp;this pass gives you access to stages, breakouts, and networking to&amp;nbsp;optimize&amp;nbsp;your roadmap to revenue systems.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-non-profits-apply-what-s-next-to-real-world-impact"&gt;Non-profits, apply&amp;nbsp;what’s&amp;nbsp;next to real-world impact&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Non-profit pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— a $214 savings.&amp;nbsp;Connect with builders and investors and explore how emerging tech applies to your work. Bringing a peer helps&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;turn what you hear into something usable.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-explorers-see-what-s-emerging-up-close"&gt;Explorers, see&amp;nbsp;what’s&amp;nbsp;emerging up close&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Expo+ pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— a $149 savings.&amp;nbsp;Go behind the scenes of disruptive startups. Use the show floor to scout talent, demo emerging tech, and land your next role at a high-growth company, while covering more ground with your plus-one.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-you-re-nbsp-not-just-choosing-a-ticket-nbsp-you-re-nbsp-creating-momentum"&gt;You’re&amp;nbsp;not just choosing a ticket,&amp;nbsp;you’re&amp;nbsp;creating momentum&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The value of this limited-time discount goes far beyond saving on a second&amp;nbsp;Disrupt&amp;nbsp;pass.&amp;nbsp;It’s&amp;nbsp;about deepening relationships and making the most of the time&amp;nbsp;you’ll&amp;nbsp;spend in San Francisco.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;It’s&amp;nbsp;the difference between attending and turning conversations into deals, hires, and&amp;nbsp;next&amp;nbsp;steps.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;This offer is only here for five days.&lt;/strong&gt;&amp;nbsp;Buy one pass and get a second pass for 50% off&amp;nbsp;while you still can. Once the offer ends, the opportunity to attend together at this price does too.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-lock-in-both-passes-before-may-8"&gt;Lock in both passes before May 8&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one pass. Get 50% off the second (same ticket type).&amp;nbsp;Decide who&amp;nbsp;you’re&amp;nbsp;bringing, and&amp;nbsp;&lt;strong&gt;lock in your passes before May 8 at 11:59 p.m. PT.&amp;nbsp;&lt;/strong&gt;Secure your passes now for&amp;nbsp;Disrupt&amp;nbsp;and amplify the value you get from being here.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3110953" height="453" src="https://techcrunch.com/wp-content/uploads/2026/04/54105809828_23e4a3ee11_o.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch / Slava Blazer Photography&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;This is it. The BOGO offer is live.&amp;nbsp;For a limited time, buy one pass to &lt;strong&gt;TechCrunch Disrupt 2026&lt;/strong&gt; and &lt;strong&gt;get 50% off a second of the same ticket type.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This is a short window to bring someone with you — and get more out of being there.&amp;nbsp;Bring a colleague. A co-founder. A partner.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;The BOGO offer ends May 8 at 11:59 p.m. PT.&lt;/strong&gt;&amp;nbsp;After that, prices go up, and you’ll be paying more for the same access.&amp;nbsp;&lt;strong&gt;Lock in your 50% off a second pass savings now.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt 2026 BOGO" class="wp-image-3118689" height="355" src="https://techcrunch.com/wp-content/uploads/2026/05/LinkedIn-Ad-with-Text-GA-BOGO-V1-Rectangle.png?w=680" width="680" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading" id="h-you-ll-nbsp-get-more-out-of-disrupt-if-you-nbsp-don-t-nbsp-go-alone-nbsp"&gt;You’ll&amp;nbsp;get more out of Disrupt if you&amp;nbsp;don’t&amp;nbsp;go alone&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;No one person can cover&amp;nbsp;Disrupt&amp;nbsp;on their own.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;From October 13–15 in San Francisco,&amp;nbsp;300+ showcasing startups&amp;nbsp;and&amp;nbsp;10,000+ founders, investors, and tech leaders come together for three days of&amp;nbsp;250+ tactical sessions,&amp;nbsp;conversations, and connections that move fast — and change trajectories.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt AI Stage" class="wp-image-3048038" height="454" src="https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Slava Blazer Photography&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When you attend with a colleague, peer, or partner, you&amp;nbsp;don’t&amp;nbsp;just experience more — you make better use of what you hear, who you meet, and:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Get into more rooms and more conversations.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Compare what&amp;nbsp;you’re&amp;nbsp;hearing on the spot.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Split up and cover more ground.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Leave knowing what&amp;nbsp;you’re&amp;nbsp;going to do next.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s&amp;nbsp;a simple shift, but it changes the outcome.&amp;nbsp;&lt;strong&gt;Find your ticket match.&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 class="wp-block-heading" id="h-from-idea-to-ipo-this-is-where-startups-figure-out-nbsp-what-s-nbsp-next"&gt;From idea to IPO, this is where startups figure out&amp;nbsp;what’s&amp;nbsp;next&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Disrupt&amp;nbsp;brings together&amp;nbsp;startup&amp;nbsp;and VC leaders focused on what it takes to build and scale right now. You’ll find value if&amp;nbsp;you’re:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Building a product.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Raising capital.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Evaluating opportunities.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li class="wp-block-list-item"&gt;Or figuring out&amp;nbsp;what’s&amp;nbsp;next&amp;nbsp;in tech.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="TechCrunch Disrupt Expo Hall" class="wp-image-2571166" height="383" src="https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Eric Slomonson, The Photo Group&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The value comes from connecting with people working through the same challenges and learning from those&amp;nbsp;who’ve&amp;nbsp;already done it. Explore the&amp;nbsp;Disrupt events page&amp;nbsp;to see&amp;nbsp;what’s&amp;nbsp;planned.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Who you bring matters&amp;nbsp;—&amp;nbsp;choose the right pass.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The buy one,&amp;nbsp;get&amp;nbsp;one 50% off deal applies when you&amp;nbsp;&lt;strong&gt;purchase&amp;nbsp;two of the same ticket type&amp;nbsp;&lt;/strong&gt;for&amp;nbsp;Disrupt&amp;nbsp;by May 8, making it easy to bring someone from your team.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-investors-find-your-next-deal-faster"&gt;Investors, find your next deal faster&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Investor pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— a $499&amp;nbsp;savings. Connect directly with founders, access curated networking, and spend time where deal flow happens. Bringing another investor or partner helps you&amp;nbsp;compare signals and act faster.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-founders-build-investment-momentum"&gt;Founders, build investment momentum&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Founder pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— a $399&amp;nbsp;savings.&amp;nbsp;Meet investors aligned with your stage, challenge your thinking, and hear&amp;nbsp;what’s&amp;nbsp;working from operators.&amp;nbsp;Attending with&amp;nbsp;a co-founder or teammate helps you&amp;nbsp;divide and move quickly.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If&amp;nbsp;you’re&amp;nbsp;ready to pitch,&amp;nbsp;Startup Battlefield 200&amp;nbsp;gives you a shot at VC exposure, TechCrunch coverage, and a $100,000 equity-free prize.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-operators-build-ship-and-scale-with-more-clarity"&gt;Operators, build, ship, and scale with more clarity&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Attendee pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— up to $444&amp;nbsp;savings.&amp;nbsp;Built&amp;nbsp;for product, engineering, growth, and go-to-market&amp;nbsp;teams,&amp;nbsp;this pass gives you access to stages, breakouts, and networking to&amp;nbsp;optimize&amp;nbsp;your roadmap to revenue systems.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-non-profits-apply-what-s-next-to-real-world-impact"&gt;Non-profits, apply&amp;nbsp;what’s&amp;nbsp;next to real-world impact&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Non-profit pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— a $214 savings.&amp;nbsp;Connect with builders and investors and explore how emerging tech applies to your work. Bringing a peer helps&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;turn what you hear into something usable.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading" id="h-explorers-see-what-s-emerging-up-close"&gt;Explorers, see&amp;nbsp;what’s&amp;nbsp;emerging up close&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one Expo+ pass and&amp;nbsp;get a second one for 50% off&amp;nbsp;— a $149 savings.&amp;nbsp;Go behind the scenes of disruptive startups. Use the show floor to scout talent, demo emerging tech, and land your next role at a high-growth company, while covering more ground with your plus-one.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-you-re-nbsp-not-just-choosing-a-ticket-nbsp-you-re-nbsp-creating-momentum"&gt;You’re&amp;nbsp;not just choosing a ticket,&amp;nbsp;you’re&amp;nbsp;creating momentum&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The value of this limited-time discount goes far beyond saving on a second&amp;nbsp;Disrupt&amp;nbsp;pass.&amp;nbsp;It’s&amp;nbsp;about deepening relationships and making the most of the time&amp;nbsp;you’ll&amp;nbsp;spend in San Francisco.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;It’s&amp;nbsp;the difference between attending and turning conversations into deals, hires, and&amp;nbsp;next&amp;nbsp;steps.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;This offer is only here for five days.&lt;/strong&gt;&amp;nbsp;Buy one pass and get a second pass for 50% off&amp;nbsp;while you still can. Once the offer ends, the opportunity to attend together at this price does too.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-lock-in-both-passes-before-may-8"&gt;Lock in both passes before May 8&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Buy one pass. Get 50% off the second (same ticket type).&amp;nbsp;Decide who&amp;nbsp;you’re&amp;nbsp;bringing, and&amp;nbsp;&lt;strong&gt;lock in your passes before May 8 at 11:59 p.m. PT.&amp;nbsp;&lt;/strong&gt;Secure your passes now for&amp;nbsp;Disrupt&amp;nbsp;and amplify the value you get from being here.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3110953" height="453" src="https://techcrunch.com/wp-content/uploads/2026/04/54105809828_23e4a3ee11_o.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;TechCrunch / Slava Blazer Photography&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/</guid><pubDate>Mon, 04 May 2026 14:00:00 +0000</pubDate></item><item><title>[NEW] Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/</link><description>&lt;header&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 05 May 2026 02:55:51 +0000</lastBuildDate><item><title>Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -615,7 +271,7 @@
       &lt;/div&gt;
     &lt;/div&gt;
                 &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/</guid><pubDate>Mon, 04 May 2026 15:05:58 +0000</pubDate></item><item><title>[NEW] Week one of the Musk v. Altman trial: What it was like in the room (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/260504_algo2.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to fund it around a decade ago were meant for a nonprofit, not a corporation, and that the company has reneged on that mission since.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;The stakes are high—even a partial win for Musk could set OpenAI back as it reportedly plans to go public this year. But most of the attention comes from the spectacle of a feud on X now playing out in federal court. “Cringey texts, raw diary entries, and endless scheming behind the founding and growth of OpenAI are expected to come to light,” my colleague Michelle Kim wrote before it began. And the trial unfolds as the cultural backlash against AI swells; some of the signs held by protesters outside the courthouse suggest that to a significant number of people, whatever the outcome of &lt;em&gt;Musk v. Altman&lt;/em&gt;, we all lose.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Most of us have had to observe the trial from afar, but Michelle, who also happens to be a lawyer, has been in court each day. I caught up with her to learn what’s unfolded thus far and what might come next.&lt;/p&gt; 
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/</guid><pubDate>Mon, 04 May 2026 15:05:58 +0000</pubDate></item><item><title>Week one of the Musk v. Altman trial: What it was like in the room (Artificial intelligence – MIT Technology Review)</title><link>https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/05/260504_algo2.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_0 html_first"&gt; &lt;p&gt;&lt;em&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;nbsp;&lt;/em&gt;&lt;em&gt;sign up here&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;  &lt;p&gt;Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to fund it around a decade ago were meant for a nonprofit, not a corporation, and that the company has reneged on that mission since.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_2"&gt; &lt;p&gt;The stakes are high—even a partial win for Musk could set OpenAI back as it reportedly plans to go public this year. But most of the attention comes from the spectacle of a feud on X now playing out in federal court. “Cringey texts, raw diary entries, and endless scheming behind the founding and growth of OpenAI are expected to come to light,” my colleague Michelle Kim wrote before it began. And the trial unfolds as the cultural backlash against AI swells; some of the signs held by protesters outside the courthouse suggest that to a significant number of people, whatever the outcome of &lt;em&gt;Musk v. Altman&lt;/em&gt;, we all lose.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Most of us have had to observe the trial from afar, but Michelle, who also happens to be a lawyer, has been in court each day. I caught up with her to learn what’s unfolded thus far and what might come next.&lt;/p&gt; 
  &lt;p&gt;&lt;strong&gt;Can you give us the overview of what this case is actually about? What exactly is being decided, and who is favored right now?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Elon Musk is arguing that Sam Altman and OpenAI president Greg Brockman have breached the company’s charitable trust by effectively converting OpenAI into a for-profit company. Musk alleges that is not what they promised him in the company’s early days. He has asked for several remedies, like a crazy amount of damages and removing Sam Altman. But the main remedy he wants is unwinding OpenAI’s restructuring. [In October 2025 OpenAI struck deals with the attorneys general of California and Delaware that would essentially allow its nonprofit portion to have less day-to-day control of OpenAI. It’s a compromise from what OpenAI originally proposed, but Musk still wants to stop it.]&amp;nbsp;&lt;/p&gt; 
  &lt;p&gt;OpenAI argues that Elon Musk actually &lt;em&gt;agreed&lt;/em&gt; to have the company operate a for-profit arm, because he knew building AI is very expensive. So it’s about proving what Musk knew, what he didn’t know, and whether he really was deceived by Altman and Brockman.&lt;/p&gt;  &lt;p&gt;There’s a big debate about &lt;em&gt;when&lt;/em&gt; exactly Musk found out about this alleged misconduct. Musk founded OpenAI with Altman and Brockman in 2015, and he brought the suit in 2024. There’s a statute of limitations for charitable trust claims; you need to have brought a claim within three to four years after you find out about the alleged misconduct. So Musk tries to paint a picture that back in the day he was a little suspicious, but that it was really only in 2022 that he realized OpenAI was no longer committed to its original charitable mission, and that he had been scammed. It’s only the first week of trial, but I’m not sure Musk has proved this to the judge and jury.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_4"&gt; &lt;p&gt;&lt;strong&gt;What were some standout moments thus far?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;At one point one of Elon Musk’s lawyers said, “We could all die as a result of AI.” I think a lot of the people in the room were really shaken by this comment, and the judge told Musk’s lawyer: &lt;em&gt;You talk about all these safety risks that OpenAI has when building AI, but Musk is also creating a company that’s in the same exact space.&lt;/em&gt; She basically said, &lt;em&gt;I’m sure there’s plenty of people who also don’t want to put the future of humanity in Elon Musk’s hands.&lt;/em&gt;&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_6"&gt; &lt;p&gt;And then the lawyers just kept going on and on about the catastrophic risks of AI and whether Elon Musk or OpenAI was in the better position to steward AI safety. And the judge sort of snapped. She said very sternly that this trial was not about whether or not artificial intelligence has damaged humanity. And I thought that was a really striking standout moment of the trial that pointed at how even though it is technically just about whether Elon Musk was really deceived by OpenAI, it’s also become a huge discussion about AI safety and some of the practices that the labs are engaging in when building AI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Can you give us a look behind the curtain at how getting into this trial works?&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;There are tons of reporters. This is a very high-profile suit, so I have to wake up around 4:30 a.m. and show up to the Oakland courthouse at 6 a.m. sharp to get in line. And on some days, even 6 a.m. doesn’t get you into the courtroom. There are lots of photographers in front of the courthouse, especially on days when you know Musk or Altman and Brockman are present. And there’s also some concerned citizens who want to watch the trial. I usually have to wait, like, two hours in line to get in to be one of the 30 people who claim the unreserved seats in the courtroom.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;What has it felt like to see Elon Musk testify? How would you describe his demeanor?&lt;/strong&gt;&lt;/p&gt; 
 
@@ -627,7 +283,7 @@
 
  &lt;p&gt;He shows up in a crisp black suit. He can be this inflammatory person on X, but in the courtroom, he is calm, cool, collected, and looks very comfortable. He has been in a lot of lawsuits. He knows how to talk to the jury and how to present himself in front of them and the judge. He’s also cracking jokes with his lawyer and even the opposing party’s lawyer and the judge.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;And he can be witty. There was this one moment when OpenAI’s lawyer was asking Musk a question and sort of fed him an answer. And Musk said “That’s not a leading question, that’s a leading answer.” The judge intervened and said, “You’re not a lawyer, Elon.” And then he was like, “Well, I did take Law 101.”&lt;/p&gt;  &lt;p&gt;That said, he does get flustered and uncomfortable when OpenAI’s lawyer asks tough, piercing questions. Which he’s been doing.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;What are the biggest things we’ve learned that weren’t clear in the earlier phases of this case?&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_8"&gt;&lt;p&gt;On the fourth day of the trial, Musk admitted during cross-examination that xAI distills OpenAI’s models to train its own models, which was shocking. Musk followed up by saying that this is standard practice among all the labs now and that xAI wasn’t doing anything beyond what others were already doing. But a lot of the journalists started typing away at their laptops as soon as Musk made this comment.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;I also learned that there’s just so much scheming among Big Tech executives. You know about it vaguely, but to hear firsthand accounts and read their emails and text messages is fascinating.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;For example, there was a text message between Musk and Mark Zuckerberg of Meta, where they’re kind of teaming up to stop OpenAI’s restructuring. They’re even trying to make a bid to buy all the assets of OpenAI’s nonprofit. The level of scheming that goes on among these executives is mind-blowing.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;What happens next?&lt;/strong&gt;&lt;/p&gt; 
  &lt;p&gt;OpenAI’s president, Greg Brockman, who was meticulously taking notes during some of Elon Musk’s testimony, is expected to testify next week. And Stuart Russell, a computer scientist at UC Berkeley, will testify about AI safety. I’m expecting that to open the floodgates to this crazy discussion about who can be trusted to build AI.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;A bunch of other high-profile people are expected to testify, like former OpenAI chief scientist Ilya Sutskever, former CTO Mira Murati, and Microsoft CEO Satya Nadella.&amp;nbsp;&lt;/p&gt; 
- &lt;p&gt;The trial is supposed to last around three weeks. The nine jurors will deliver an advisory verdict that guides the judge on how to decide Musk’s claims against OpenAI. The judge doesn’t have to listen to the jury and can decide however she wants. If she decides OpenAI is liable, then she’ll decide what sort of remedies are appropriate.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;MIT Technology Review &lt;em&gt;will have ongoing coverage of &lt;/em&gt;Musk v. Altman &lt;em&gt;until its conclusion. Follow @techreview or @michelletomkim on X for up-to-the-minute reporting.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/</guid><pubDate>Mon, 04 May 2026 15:51:27 +0000</pubDate></item><item><title>[NEW] Anthropic and OpenAI are both launching joint ventures for enterprise AI services (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783" /&gt;&lt;/div&gt;&lt;div&gt;
+ &lt;p&gt;The trial is supposed to last around three weeks. The nine jurors will deliver an advisory verdict that guides the judge on how to decide Musk’s claims against OpenAI. The judge doesn’t have to listen to the jury and can decide however she wants. If she decides OpenAI is liable, then she’ll decide what sort of remedies are appropriate.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;MIT Technology Review &lt;em&gt;will have ongoing coverage of &lt;/em&gt;Musk v. Altman &lt;em&gt;until its conclusion. Follow @techreview or @michelletomkim on X for up-to-the-minute reporting.&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/</guid><pubDate>Mon, 04 May 2026 15:51:27 +0000</pubDate></item><item><title>Anthropic and OpenAI are both launching joint ventures for enterprise AI services (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;On Monday, Anthropic announced a joint venture focusing on deploying enterprise AI services. Blackstone, Hellman &amp;amp; Friedman, and Goldman Sachs will be founding partners in the new venture, which is backed by a group of VCs, hedge funds, and private equity firms, including Apollo Global Management, General Atlantic, GIC, Leonard Green, and Sequoia Capital.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The Wall Street Journal, which first reported news of the partnership, reported the new venture was valued at $1.5 billion, which includes a $300 million commitment each from Anthropic, Blackstone, and Hellman &amp;amp; Friedman.&lt;/p&gt;
@@ -671,7 +327,7 @@
 &lt;p class="wp-block-paragraph"&gt;The new ventures come as both AI labs fundraise at a blistering pace, while circling possible IPOs. OpenAI announced $122 billion in new funding at the end of March, against a valuation of $852 billion. TechCrunch reported last week that Anthropic is in the final stages of its own funding round, seeking $50 billion of new funding against a $900 billion valuation.&lt;/p&gt;
 
 
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/</guid><pubDate>Mon, 04 May 2026 15:59:24 +0000</pubDate></item><item><title>[NEW] Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2158243766.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Two days before the Elon Musk vs. OpenAI trial began last week, Musk texted the model maker’s president and co-founder Greg Brockman. Musk suggested to Brockman that OpenAI settle the suit. &lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/</guid><pubDate>Mon, 04 May 2026 15:59:24 +0000</pubDate></item><item><title>Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2158243766.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Two days before the Elon Musk vs. OpenAI trial began last week, Musk texted the model maker’s president and co-founder Greg Brockman. Musk suggested to Brockman that OpenAI settle the suit. &lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;After Brockman replied by suggesting both sides drop their suits, the exchange went off the rails, with Musk responding:  “By the end of this week, you and Sam will be the most hated men in America. If you insist, so it will be.”&lt;/p&gt;
 
@@ -681,7 +337,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;So says a new filing submitted on Sunday by OpenAI’s lawyers. The filing didn’t include copies of the text exchange, and most of it was dedicated to convincing the judge why this exchange on settlement talks should be admitted into evidence. The judge, however, was not having it — ruling the exchange inadmissible, per TechCrunch reporter Tim Fernholz, who is on-site covering the trial.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;This is all according to a new filing submitted on Sunday by OpenAI’s lawyers. The filing didn’t include copies of the text exchange, and most of it was dedicated to convincing the judge why this exchange on settlement talks should be admitted into evidence. The judge, however, was not having it, ruling the exchange inadmissible, per TechCrunch reporter Tim Fernholz, who is on-site covering the trial.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The implication, however, is clear. Musk’s lawsuit seeks to unwind OpenAI’s for-profit structure, require its tech be made available to the public, strip Microsoft’s licensing agreement, and compel OpenAI to pay him general, compensatory, and punitive damages plus his lawyer’s fees. After OpenAI’s lawyers publicly shared this “settle-or-else” text, observers instantly clocked that maybe this trial isn’t about Musk’s concern for AI safety, but about demanding money from its success while kneecapping a rival. This is, essentially, what OpenAI’s countersuit alleges.&lt;/p&gt;
 
@@ -695,11 +351,11 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;So says a new filing submitted on Sunday by OpenAI’s lawyers. The filing didn’t include copies of the text exchange, and most of it was dedicated to convincing the judge why this exchange on settlement talks should be admitted into evidence. The judge, however, was not having it — ruling the exchange inadmissible, per TechCrunch reporter Tim Fernholz, who is on-site covering the trial.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;This is all according to a new filing submitted on Sunday by OpenAI’s lawyers. The filing didn’t include copies of the text exchange, and most of it was dedicated to convincing the judge why this exchange on settlement talks should be admitted into evidence. The judge, however, was not having it, ruling the exchange inadmissible, per TechCrunch reporter Tim Fernholz, who is on-site covering the trial.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The implication, however, is clear. Musk’s lawsuit seeks to unwind OpenAI’s for-profit structure, require its tech be made available to the public, strip Microsoft’s licensing agreement, and compel OpenAI to pay him general, compensatory, and punitive damages plus his lawyer’s fees. After OpenAI’s lawyers publicly shared this “settle-or-else” text, observers instantly clocked that maybe this trial isn’t about Musk’s concern for AI safety, but about demanding money from its success while kneecapping a rival. This is, essentially, what OpenAI’s countersuit alleges.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Meanwhile, the trial continues. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/</guid><pubDate>Mon, 04 May 2026 16:36:03 +0000</pubDate></item><item><title>[NEW] Sierra raises $950M as the race to own enterprise AI gets serious (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/10/AP22166762615783.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, the trial continues. &lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/</guid><pubDate>Mon, 04 May 2026 16:36:03 +0000</pubDate></item><item><title>Sierra raises $950M as the race to own enterprise AI gets serious (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/10/AP22166762615783.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Bret Taylor’s AI startup Sierra is raising a $950 million funding round led by Tiger Global and GV, the company announced Monday, pushing its post-money valuation above $15 billion. The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the “global standard” for AI-powered customer experiences.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Like a lot of AI companies, Sierra has, smartly, been very proactive in touting its own growth in a crowded market. The company says it started with just four design partners a couple of years ago. Today it claims to have more than 40% of the Fortune 50 as customers, and says the agents running on its platform are handling billions of interactions, from refinancing mortgages to processing insurance claims, managing returns, and powering nonprofit fundraising campaigns.&lt;/p&gt;
@@ -773,7 +429,7 @@
 &lt;/div&gt;
 
 &lt;p class="wp-block-paragraph"&gt;For Taylor, the tool underlines a broader thesis he laid out at the HumanX conference in San Francisco last month. Many enterprise software tools, he argued, are barely used. Employees log into Workday when they onboard and again at open enrollment, and that’s about it. The future Sierra and its investors are betting on is one where people never need to navigate complex systems at all.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</guid><pubDate>Mon, 04 May 2026 16:45:55 +0000</pubDate></item><item><title>[NEW] Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/stuart-russell-ai-getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</guid><pubDate>Mon, 04 May 2026 16:45:55 +0000</pubDate></item><item><title>Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/stuart-russell-ai-getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;When do we take AI doomers seriously? &lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;That’s a key subtext of Elon Musk’s attempt to shut down OpenAI’s for-profit AI business. His attorneys argue that the organization was set up as a charity focused on AI safety and lost its way in pursuit of lucre. To prove that, they cite old emails and statements from the organization’s founders about the need for a public-spirited counterweight to Google DeepMind.&lt;/p&gt;
@@ -875,7 +531,7 @@
 &lt;p class="wp-block-paragraph"&gt;Now, both sides of the case are asking the court to do just that: take part of Altman’s and Musk’s arguments seriously, but discount the parts that are less useful for their legal argument.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Correction: The article was updated to correct the name of Stuart Russell, University of California, Berkeley computer science professor&lt;/em&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/</guid><pubDate>Mon, 04 May 2026 16:57:47 +0000</pubDate></item><item><title>[NEW] Influential study touting ChatGPT in education retracted over red flags (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/</link><description>&lt;header&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/</guid><pubDate>Mon, 04 May 2026 16:57:47 +0000</pubDate></item><item><title>Influential study touting ChatGPT in education retracted over red flags (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/</link><description>&lt;header&gt;
   &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
   &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
     &lt;div class="class"&gt;
@@ -941,7 +597,7 @@
 &lt;p&gt;“The paper’s authors made some very attention-grabbing claims about the benefits of ChatGPT on learning outcomes,” said Ben Williamson, a senior lecturer at the Centre for Research in Digital Education and the Edinburgh Futures Institute at the University of Edinburgh in Scotland, in an email to Ars. “It was treated by many on social media as one of the first pieces of hard, gold standard evidence that ChatGPT, and generative AI more broadly, benefits learners.”&lt;/p&gt;
 &lt;p&gt;The retracted paper attempted to quantify “the effect of ChatGPT on students’ learning performance, learning perception, and higher-order thinking” by analyzing results from 51 previous research studies. Its meta-analysis calculated the effect size between various studies’ experimental groups that used ChatGPT in education and control groups that did not use the AI chatbot.&lt;/p&gt;
 &lt;p&gt;That analysis supposedly showed how “ChatGPT has a large positive impact on improving learning performance” along with a “moderately positive impact on enhancing learning perception” and “fostering higher-order thinking,” according to the researchers who authored the paper. The now-retracted results first appeared in the journal Humanities &amp;amp; Social Sciences Communications, published by Springer Nature on May 6, 2025.&lt;/p&gt;
-&lt;p&gt;“In some cases it appears it was synthesizing very poor quality studies, or mixing together findings from studies that simply cannot be accurately compared due to very different methods, populations and samples,” Williamson told Ars. “It really seemed like a paper that should not have been published in the first place.”&lt;/p&gt;
+&lt;p&gt;“In some cases it appears it was synthesizing very poor quality studies, or mixing together findings from studies that simply cannot be accurately compared due to very different methods, populations, and samples,” Williamson told Ars. “It really seemed like a paper that should not have been published in the first place.”&lt;/p&gt;
 &lt;p&gt;Williamson also questioned the timing of the paper’s publication just two and a half years after OpenAI released ChatGPT in November 2022. “It is not feasible that dozens of high-quality studies about ChatGPT and learning performance could have been conducted, reviewed, and published in that time,” Williamson said.&lt;/p&gt;
 &lt;h2&gt;A legacy that may outlive retraction&lt;/h2&gt;
 &lt;p&gt;Since its publication, the study has been cited 262 times in other papers published by Springer Nature’s peer-reviewed journals and received a total of 504 citations from both peer-reviewed and non-peer-reviewed sources. It also attracted nearly half a million readers and received enough online attention to rank in the 99th percentile for journal articles in terms of attention score.&lt;/p&gt;
@@ -983,7 +639,7 @@
 &lt;p&gt;Williamson has not been alone in such concerns. When the paper was first published, Ilkka Tuomi, chief scientist of the research institute Meaning Processing Ltd., posted on LinkedIn about the pitfalls of such meta-analysis studies attempting to “draw conclusions about incompatible and ill-defined outcomes” from experimental results involving very different populations. “The only reason to do these studies seems to be that statistics and meta-analysis tools can crunch out numbers that look [like] science,” Tuomi wrote.&lt;/p&gt;
 &lt;p&gt;On April 22, 2026, Springer Nature posted a retracted article notice almost a year after initial publication. The journal publisher also stated that “the authors had not responded to correspondence regarding the retraction.”&lt;/p&gt;
 &lt;p&gt;“The Editor has decided to retract this paper owing to concerns regarding discrepancies in the meta-analysis,” said the Springer Nature retraction note. “These issues ultimately undermine the confidence the Editor can place in the validity of the analysis and resulting conclusions.”&lt;/p&gt;
-&lt;p&gt;The retraction notice itself received minimal attention until it was shared on Bluesky and LinkedIn by Williamson. He expressed concern that many researchers and others who initially read the paper will not realize it was retracted, meaning that the “headline finding that ChatGPT helps learning performance might persist despite its retraction.”&lt;/p&gt;
+&lt;p&gt;The retraction notice received minimal attention until it was shared on Bluesky and LinkedIn by Williamson. He expressed concern that many researchers and others who initially read the paper will not realize it was retracted, meaning that the “headline finding that ChatGPT helps learning performance might persist despite its retraction.”&lt;/p&gt;
 &lt;p&gt;“All of this is hugely frustrating for those of us trying hard to make sense of what AI means for learning, teaching, and education more generally,” Williamson told Ars. “We have had several years of hype about AI in education, but what we have really needed is high-quality research that can actually show us what kinds of impacts AI is having in classrooms and learning practices.”&lt;/p&gt;
 &lt;p&gt;Many educators have scrambled to adapt their classes to prevent AI-enabled student cheating and expressed discouragement with how widely available generative AI tools have shifted many students’ mindsets away from learning and critical thinking. Tech companies continue to promote AI chatbot tools as “study mode” learning tools and for generating SAT practice tests. Meanwhile, at least one country is pivoting away from digital resources by reintroducing physical books and having students return to using pen and paper.&lt;/p&gt;
 
@@ -1081,7 +737,7 @@
 &lt;p&gt;“The paper’s authors made some very attention-grabbing claims about the benefits of ChatGPT on learning outcomes,” said Ben Williamson, a senior lecturer at the Centre for Research in Digital Education and the Edinburgh Futures Institute at the University of Edinburgh in Scotland, in an email to Ars. “It was treated by many on social media as one of the first pieces of hard, gold standard evidence that ChatGPT, and generative AI more broadly, benefits learners.”&lt;/p&gt;
 &lt;p&gt;The retracted paper attempted to quantify “the effect of ChatGPT on students’ learning performance, learning perception, and higher-order thinking” by analyzing results from 51 previous research studies. Its meta-analysis calculated the effect size between various studies’ experimental groups that used ChatGPT in education and control groups that did not use the AI chatbot.&lt;/p&gt;
 &lt;p&gt;That analysis supposedly showed how “ChatGPT has a large positive impact on improving learning performance” along with a “moderately positive impact on enhancing learning perception” and “fostering higher-order thinking,” according to the researchers who authored the paper. The now-retracted results first appeared in the journal Humanities &amp;amp; Social Sciences Communications, published by Springer Nature on May 6, 2025.&lt;/p&gt;
-&lt;p&gt;“In some cases it appears it was synthesizing very poor quality studies, or mixing together findings from studies that simply cannot be accurately compared due to very different methods, populations and samples,” Williamson told Ars. “It really seemed like a paper that should not have been published in the first place.”&lt;/p&gt;
+&lt;p&gt;“In some cases it appears it was synthesizing very poor quality studies, or mixing together findings from studies that simply cannot be accurately compared due to very different methods, populations, and samples,” Williamson told Ars. “It really seemed like a paper that should not have been published in the first place.”&lt;/p&gt;
 &lt;p&gt;Williamson also questioned the timing of the paper’s publication just two and a half years after OpenAI released ChatGPT in November 2022. “It is not feasible that dozens of high-quality studies about ChatGPT and learning performance could have been conducted, reviewed, and published in that time,” Williamson said.&lt;/p&gt;
 &lt;h2&gt;A legacy that may outlive retraction&lt;/h2&gt;
 &lt;p&gt;Since its publication, the study has been cited 262 times in other papers published by Springer Nature’s peer-reviewed journals and received a total of 504 citations from both peer-reviewed and non-peer-reviewed sources. It also attracted nearly half a million readers and received enough online attention to rank in the 99th percentile for journal articles in terms of attention score.&lt;/p&gt;
@@ -1123,7 +779,7 @@
 &lt;p&gt;Williamson has not been alone in such concerns. When the paper was first published, Ilkka Tuomi, chief scientist of the research institute Meaning Processing Ltd., posted on LinkedIn about the pitfalls of such meta-analysis studies attempting to “draw conclusions about incompatible and ill-defined outcomes” from experimental results involving very different populations. “The only reason to do these studies seems to be that statistics and meta-analysis tools can crunch out numbers that look [like] science,” Tuomi wrote.&lt;/p&gt;
 &lt;p&gt;On April 22, 2026, Springer Nature posted a retracted article notice almost a year after initial publication. The journal publisher also stated that “the authors had not responded to correspondence regarding the retraction.”&lt;/p&gt;
 &lt;p&gt;“The Editor has decided to retract this paper owing to concerns regarding discrepancies in the meta-analysis,” said the Springer Nature retraction note. “These issues ultimately undermine the confidence the Editor can place in the validity of the analysis and resulting conclusions.”&lt;/p&gt;
-&lt;p&gt;The retraction notice itself received minimal attention until it was shared on Bluesky and LinkedIn by Williamson. He expressed concern that many researchers and others who initially read the paper will not realize it was retracted, meaning that the “headline finding that ChatGPT helps learning performance might persist despite its retraction.”&lt;/p&gt;
+&lt;p&gt;The retraction notice received minimal attention until it was shared on Bluesky and LinkedIn by Williamson. He expressed concern that many researchers and others who initially read the paper will not realize it was retracted, meaning that the “headline finding that ChatGPT helps learning performance might persist despite its retraction.”&lt;/p&gt;
 &lt;p&gt;“All of this is hugely frustrating for those of us trying hard to make sense of what AI means for learning, teaching, and education more generally,” Williamson told Ars. “We have had several years of hype about AI in education, but what we have really needed is high-quality research that can actually show us what kinds of impacts AI is having in classrooms and learning practices.”&lt;/p&gt;
 &lt;p&gt;Many educators have scrambled to adapt their classes to prevent AI-enabled student cheating and expressed discouragement with how widely available generative AI tools have shifted many students’ mindsets away from learning and critical thinking. Tech companies continue to promote AI chatbot tools as “study mode” learning tools and for generating SAT practice tests. Meanwhile, at least one country is pivoting away from digital resources by reintroducing physical books and having students return to using pen and paper.&lt;/p&gt;
 
@@ -1155,8 +811,8 @@
       &lt;/div&gt;
     &lt;/div&gt;
                 &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/</guid><pubDate>Mon, 04 May 2026 19:03:39 +0000</pubDate></item><item><title>[NEW] Image AI models now drive app growth, beating chatbot upgrades (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/</link><description>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;&lt;br /&gt;Image model releases are driving growth for AI mobile apps, generating 6.5 times more downloads than traditional model updates, according to a new report from app intelligence provider Appfigures.&lt;/p&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/</guid><pubDate>Mon, 04 May 2026 19:03:39 +0000</pubDate></item><item><title>Image AI models now drive app growth, beating chatbot upgrades (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/</link><description>&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;&lt;br /&gt;Image model releases are driving growth for AI mobile apps, generating 6.5x more downloads than traditional model updates, according to a new report from app intelligence provider Appfigures.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;This marks a shift from earlier days, when the release of new models powering the conversational experiences drove more demand, alongside the new features like a voice chat interface.&lt;/p&gt;
 
@@ -1168,11 +824,11 @@
 
 &lt;p class="wp-block-paragraph"&gt;For instance, ChatGPT and Gemini each added tens of millions of new downloads after releasing their respective image models, Appfigures found.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;For Google’s Gemini, the release of its image model Nano Banana drove an additional 22+ million downloads in the 28 days following the introduction of the Gemini 2.5 Flash image model last August. This launch lifted the app’s downloads by more than four times over that period, the data showed.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;For Google’s Gemini, the release of its image model Nano Banana drove an additional 22+ million downloads in the 28 days following the introduction of the Gemini 2.5 Flash image model last August. This launch lifted the app’s downloads by more than 4x over that period, the data showed.&lt;/p&gt;
 
 &lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3118915" height="383" src="https://techcrunch.com/wp-content/uploads/2026/05/ai-visual-launch-downloads-index.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Appfigures&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Meanwhile, ChatGPT added more than 12 million incremental installs in the 28 days after the introduction of its GPT-4o image model in March of last year. That’s roughly 4.5 times more downloads than it saw for its GPT-4o, GPT-4.5, and GPT-5 model releases, Appfigures pointed out. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, ChatGPT added more than 12 million incremental installs in the 28 days after the introduction of its GPT-4o image model in March of last year. That’s roughly 4.5x more downloads than it saw for its GPT-4o, GPT-4.5, and GPT-5 model releases, Appfigures pointed out.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Other model releases followed similar trends, though on a smaller scale. Meta AI’s introduction of its AI video feed Vibes added an estimated 2.6 million incremental downloads in the 28 days after its September 2025 release. (Yes, technically, this is a video model, but it’s ultimately about visual content, not just text.)&lt;/p&gt;
 
@@ -1195,7 +851,7 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Instead, new image model releases give people a reason to install the app and try out its improved image generation capabilities. That doesn’t mean they’ll necessarily convert to paying subscribers. For example, Appfigures noted that Nano Banana drove only $181,000 in estimated gross consumer spending during the 28-day window following its release, even though it produced a larger spike in downloads than ChatGPT’s 4o image model release.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Instead, new image model releases give people a reason to install the app and try out its improved image-generation capabilities. That doesn’t mean they’ll necessarily convert to paying subscribers. For example, Appfigures noted that Nano Banana drove only $181,000 in estimated gross consumer spending during the 28-day window following its release, even though it produced a larger spike in downloads than ChatGPT’s 4o image model release.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Meta AI’s launch of Vibes also led to additional downloads, but no meaningful revenue.&lt;/p&gt;
 
@@ -1207,7 +863,7 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s 4o image generation model led to an estimated $70 million in gross consumer spending over the 28 days after its launch, compared with its prior baseline, Appfigures said.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;OpenAI’s 4o image-generation model led to an estimated $70 million in gross consumer spending over the 28 days after its launch, compared with its prior baseline, Appfigures said.&lt;/p&gt;
 
 &lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3118916" height="383" src="https://techcrunch.com/wp-content/uploads/2026/05/ai-launch-incremental-gross-revenue.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Appfigures&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -1215,7 +871,7 @@
 
 &lt;p class="wp-block-paragraph"&gt;While DeepSeek R1 drove 28 million downloads after its January 2025 release, it wasn’t a typical model comparison event. This was DeepSeek’s breakout moment, when it went from being relatively unknown to an overnight sensation as the tech industry learned about the techniques it used to train its AI models at a fraction of the cost of its competitors. This case highlights how curiosity can drive downloads — though in this instance, the interest wasn’t tied to an image model.&lt;/p&gt;
 &lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;&lt;br /&gt;Image model releases are driving growth for AI mobile apps, generating 6.5 times more downloads than traditional model updates, according to a new report from app intelligence provider Appfigures.&lt;/p&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;&lt;br /&gt;Image model releases are driving growth for AI mobile apps, generating 6.5x more downloads than traditional model updates, according to a new report from app intelligence provider Appfigures.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;This marks a shift from earlier days, when the release of new models powering the conversational experiences drove more demand, alongside the new features like a voice chat interface.&lt;/p&gt;
 
@@ -1227,11 +883,11 @@
 
 &lt;p class="wp-block-paragraph"&gt;For instance, ChatGPT and Gemini each added tens of millions of new downloads after releasing their respective image models, Appfigures found.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;For Google’s Gemini, the release of its image model Nano Banana drove an additional 22+ million downloads in the 28 days following the introduction of the Gemini 2.5 Flash image model last August. This launch lifted the app’s downloads by more than four times over that period, the data showed.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;For Google’s Gemini, the release of its image model Nano Banana drove an additional 22+ million downloads in the 28 days following the introduction of the Gemini 2.5 Flash image model last August. This launch lifted the app’s downloads by more than 4x over that period, the data showed.&lt;/p&gt;
 
 &lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3118915" height="383" src="https://techcrunch.com/wp-content/uploads/2026/05/ai-visual-launch-downloads-index.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Appfigures&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Meanwhile, ChatGPT added more than 12 million incremental installs in the 28 days after the introduction of its GPT-4o image model in March of last year. That’s roughly 4.5 times more downloads than it saw for its GPT-4o, GPT-4.5, and GPT-5 model releases, Appfigures pointed out. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Meanwhile, ChatGPT added more than 12 million incremental installs in the 28 days after the introduction of its GPT-4o image model in March of last year. That’s roughly 4.5x more downloads than it saw for its GPT-4o, GPT-4.5, and GPT-5 model releases, Appfigures pointed out.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Other model releases followed similar trends, though on a smaller scale. Meta AI’s introduction of its AI video feed Vibes added an estimated 2.6 million incremental downloads in the 28 days after its September 2025 release. (Yes, technically, this is a video model, but it’s ultimately about visual content, not just text.)&lt;/p&gt;
 
@@ -1254,7 +910,7 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Instead, new image model releases give people a reason to install the app and try out its improved image generation capabilities. That doesn’t mean they’ll necessarily convert to paying subscribers. For example, Appfigures noted that Nano Banana drove only $181,000 in estimated gross consumer spending during the 28-day window following its release, even though it produced a larger spike in downloads than ChatGPT’s 4o image model release.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Instead, new image model releases give people a reason to install the app and try out its improved image-generation capabilities. That doesn’t mean they’ll necessarily convert to paying subscribers. For example, Appfigures noted that Nano Banana drove only $181,000 in estimated gross consumer spending during the 28-day window following its release, even though it produced a larger spike in downloads than ChatGPT’s 4o image model release.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Meta AI’s launch of Vibes also led to additional downloads, but no meaningful revenue.&lt;/p&gt;
 
@@ -1266,11 +922,891 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s 4o image generation model led to an estimated $70 million in gross consumer spending over the 28 days after its launch, compared with its prior baseline, Appfigures said.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;OpenAI’s 4o image-generation model led to an estimated $70 million in gross consumer spending over the 28 days after its launch, compared with its prior baseline, Appfigures said.&lt;/p&gt;
 
 &lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3118916" height="383" src="https://techcrunch.com/wp-content/uploads/2026/05/ai-launch-incremental-gross-revenue.jpeg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Appfigures&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The company also looked at DeepSeek in its analysis, but it didn’t fit the pattern. &lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;While DeepSeek R1 drove 28 million downloads after its January 2025 release, it wasn’t a typical model comparison event. This was DeepSeek’s breakout moment, when it went from being relatively unknown to an overnight sensation as the tech industry learned about the techniques it used to train its AI models at a fraction of the cost of its competitors. This case highlights how curiosity can drive downloads — though in this instance, the interest wasn’t tied to an image model.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/</guid><pubDate>Mon, 04 May 2026 19:12:49 +0000</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/</guid><pubDate>Mon, 04 May 2026 19:12:49 +0000</pubDate></item><item><title>[NEW] Canadian election databases use "canary traps"—and they work (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Intentional errors can be useful.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-1152x648-1777922464.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Getty Images
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;In a world awash in high-tech security tools like passkeys, quantum-safe algorithms, and public-key cryptography, it can be refreshing to get back to the simple things… like a good old-fashioned canary trap.&lt;/p&gt;
+&lt;p&gt;The canary trap is a simple tool often used to identify leakers or double agents. To make one, you simply share a document, image, or database but make tiny changes that are unique to each recipient. That way, if those changes show up verbatim in any leak of the information, you know immediately which recipient was behind the leak.&lt;/p&gt;
+&lt;p&gt;You don’t often see canary traps in the news, though they have long been a staple of spy fiction (and practice), so an account out of Canada last week caught my eye.&lt;/p&gt;
+&lt;p&gt;The Canadian province of Alberta has been the site of recent drama around its electoral list, a database that contains information such as names, addresses, and voting districts for millions of citizens. Political parties can legally get access to the electoral list, though they operate under significant restrictions on how they can use the data. They cannot, for instance, share the list with a third party.&lt;/p&gt;
+&lt;p&gt;Despite this, The Centurion Project, described by the CBC as a “separatist group,” used the list to power an online database of voters. Elections Alberta, which maintains the list, went to court last week and obtained an order to shut down the Centurion site.&lt;/p&gt;
+&lt;p&gt;But how had Centurion obtained the data?&lt;/p&gt;
+&lt;p&gt;Elections Alberta quickly investigated and announced that the list used by Centurion was a copy of one legitimately released to the Republican Party of Alberta. Election officials were confident in their claim because, whenever they release a copy of the electoral list, they salt it with additional but bogus entries. The fake entries inserted in the Republican Party version of the list showed up in Centurion’s online tool, too.&lt;/p&gt;
+&lt;p&gt;Exactly how the data had passed from the Republican Party to Centurion remains unclear, but the canary trap enabled Elections Alberta to lean quickly on both groups. Each publicly pledged to respect the law, and Centurion took down its tool.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;h2&gt;Canaries—from Clancy to AI&lt;/h2&gt;
+&lt;p&gt;The canary trap has been used by companies ranging from Tesla to Apple; it was even used to stop the leak of Star Trek film scripts. Though the concept comes from the world of espionage, the actual term appears to stem from Tom Clancy’s 1980s thriller, &lt;em&gt;Patriot Games&lt;/em&gt;. The idea is to find out which “canary” did the “singing.”&lt;/p&gt;
+&lt;p&gt;Ars Technica’s own Clancy aficionado, Lee Hutchinson, tracked down his copy of the book and found the passage in which protagonist Jack Ryan explains the term after an admiral asks him, “What the devil is this Canary Trap?” Ryan says:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“Well, you know about all the problems CIA has with leaks. When I was finishing off the first draft of the report, I came up with an idea to make each one unique…&lt;/p&gt;
+&lt;p&gt;“Each summary paragraph has six different versions, and the mixture of those paragraphs is unique to each numbered copy of the paper. There are over a thousand possible permutations, but only ninety-six numbered copies of the actual document. The reason the summary paragraphs are so—well, lurid, I guess—is to entice a reporter to quote them verbatim in the public media. If he quotes something from two or three of those paragraphs, we know which copy he saw and, therefore, who leaked it. They’ve got an even more refined version of the trap working now. You can do it by computer. You use a thesaurus program to shuffle through synonyms, and you can make every copy of the document totally unique.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Thesaurus program? We can do better than that, Jack Ryan; this is the age of artificial intelligence!&lt;/p&gt;
+&lt;p&gt;Indeed, as far back as 2021, Dartmouth professor V.S. Subrahmanian built an AI tool called (really) WE-FORGE that “automatically creates false documents to protect intellectual property such as drug design and military technology.” The goal was to create “documents that are sufficiently similar to the original to be plausible, but sufficiently different to be incorrect,” said Subrahmanian at the time.&lt;/p&gt;
+&lt;p&gt;However it’s done, this old system continues to work pretty well. Just ask Elections Alberta.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        Intentional errors can be useful.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-640x427.jpg" width="640" /&gt;
+                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-1152x648-1777922464.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          Getty Images
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;p&gt;In a world awash in high-tech security tools like passkeys, quantum-safe algorithms, and public-key cryptography, it can be refreshing to get back to the simple things… like a good old-fashioned canary trap.&lt;/p&gt;
+&lt;p&gt;The canary trap is a simple tool often used to identify leakers or double agents. To make one, you simply share a document, image, or database but make tiny changes that are unique to each recipient. That way, if those changes show up verbatim in any leak of the information, you know immediately which recipient was behind the leak.&lt;/p&gt;
+&lt;p&gt;You don’t often see canary traps in the news, though they have long been a staple of spy fiction (and practice), so an account out of Canada last week caught my eye.&lt;/p&gt;
+&lt;p&gt;The Canadian province of Alberta has been the site of recent drama around its electoral list, a database that contains information such as names, addresses, and voting districts for millions of citizens. Political parties can legally get access to the electoral list, though they operate under significant restrictions on how they can use the data. They cannot, for instance, share the list with a third party.&lt;/p&gt;
+&lt;p&gt;Despite this, The Centurion Project, described by the CBC as a “separatist group,” used the list to power an online database of voters. Elections Alberta, which maintains the list, went to court last week and obtained an order to shut down the Centurion site.&lt;/p&gt;
+&lt;p&gt;But how had Centurion obtained the data?&lt;/p&gt;
+&lt;p&gt;Elections Alberta quickly investigated and announced that the list used by Centurion was a copy of one legitimately released to the Republican Party of Alberta. Election officials were confident in their claim because, whenever they release a copy of the electoral list, they salt it with additional but bogus entries. The fake entries inserted in the Republican Party version of the list showed up in Centurion’s online tool, too.&lt;/p&gt;
+&lt;p&gt;Exactly how the data had passed from the Republican Party to Centurion remains unclear, but the canary trap enabled Elections Alberta to lean quickly on both groups. Each publicly pledged to respect the law, and Centurion took down its tool.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;h2&gt;Canaries—from Clancy to AI&lt;/h2&gt;
+&lt;p&gt;The canary trap has been used by companies ranging from Tesla to Apple; it was even used to stop the leak of Star Trek film scripts. Though the concept comes from the world of espionage, the actual term appears to stem from Tom Clancy’s 1980s thriller, &lt;em&gt;Patriot Games&lt;/em&gt;. The idea is to find out which “canary” did the “singing.”&lt;/p&gt;
+&lt;p&gt;Ars Technica’s own Clancy aficionado, Lee Hutchinson, tracked down his copy of the book and found the passage in which protagonist Jack Ryan explains the term after an admiral asks him, “What the devil is this Canary Trap?” Ryan says:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“Well, you know about all the problems CIA has with leaks. When I was finishing off the first draft of the report, I came up with an idea to make each one unique…&lt;/p&gt;
+&lt;p&gt;“Each summary paragraph has six different versions, and the mixture of those paragraphs is unique to each numbered copy of the paper. There are over a thousand possible permutations, but only ninety-six numbered copies of the actual document. The reason the summary paragraphs are so—well, lurid, I guess—is to entice a reporter to quote them verbatim in the public media. If he quotes something from two or three of those paragraphs, we know which copy he saw and, therefore, who leaked it. They’ve got an even more refined version of the trap working now. You can do it by computer. You use a thesaurus program to shuffle through synonyms, and you can make every copy of the document totally unique.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Thesaurus program? We can do better than that, Jack Ryan; this is the age of artificial intelligence!&lt;/p&gt;
+&lt;p&gt;Indeed, as far back as 2021, Dartmouth professor V.S. Subrahmanian built an AI tool called (really) WE-FORGE that “automatically creates false documents to protect intellectual property such as drug design and military technology.” The goal was to create “documents that are sufficiently similar to the original to be plausible, but sufficiently different to be incorrect,” said Subrahmanian at the time.&lt;/p&gt;
+&lt;p&gt;However it’s done, this old system continues to work pretty well. Just ask Elections Alberta.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/</guid><pubDate>Mon, 04 May 2026 19:45:57 +0000</pubDate></item><item><title>[NEW] "Notepad++ for Mac" release is disavowed by the creator of the original (AI - Ars Technica)</title><link>https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-white py-4 md:my-10 md:py-8 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto max-w-2xl px-4 md:px-8 lg:grid lg:max-w-6xl"&gt;
+    
+
+    
+
+    &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 my-3 text-2xl leading-[1.1] md:leading-[1.2]"&gt;
+      “To be clear: Notepad++ has never released a macOS version.”
+    &lt;/p&gt;
+
+          
+    
+    &lt;div class="relative"&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="alt" class="intro-image" height="680" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.50.42-PM.png" width="1460" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;div&gt;
+      &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      Despite the icon and some reporting, "Notepad++ for Mac" is not an official port of the original.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          NextPad++
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;As its name implies, the venerable Notepad++ text editor began as a more capable version of the classic Windows Notepad, with features such as line numbering and syntax highlighting. It was created in 2003 by Don Ho, who continues to be its primary author and maintainer, and it has been a Windows-exclusive app throughout its existence (older Notepad++ versions support OSes as old as Windows 95; the current version officially supports everything going back to Windows 7).&lt;/p&gt;
+&lt;p&gt;I’m not a devoted user of the app, but I was aware of its history, which is why I was surprised to see news of a “Notepad++ for Mac” port making the rounds last week, as though it were a port of the original available from the Notepad++ website.&lt;/p&gt;
+&lt;p&gt;Apparently, this news surprised Ho as well, who claims that the Mac version and its author, Andrey Letov, are “using the Notepad++ trademark (the name) without permission.”&lt;/p&gt;
+&lt;p&gt;“This is misleading, inappropriate, and frankly disrespectful to both the project and its users,” Ho wrote. “It has already fooled people—including tech media—into believing this is an official release. To be crystal clear: Notepad++ has never released a macOS version. Anyone claiming otherwise is simply riding on the Notepad++ name.”&lt;/p&gt;
+&lt;h2&gt;An escalating back-and-forth&lt;/h2&gt;
+&lt;p&gt;Further communication between Ho and Letov can be found in a Notepad++ GitHub&amp;nbsp;thread, where Ho said he had been contacted by Letov before the Notepad++ for Mac app had launched, but that he hadn’t had time to reply.&lt;/p&gt;
+&lt;p&gt;“The problem is that using the official name Notepad++ and its logo gives the impression that your project is an official macOS version maintained or endorsed by the Notepad++ team, which is not the case,” wrote Ho in an email to Letov that he reposted to GitHub. “This create [sic] confusion for users and exposes both you and the project to trademark issues.”&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Letov responded two days later, saying he hadn’t meant to insinuate that Ho was involved with the Notepad++ for Mac project. But he did insist that his port “actually expands notepad++ brand to mac” and expressed hope that Ho would allow him to continue to use the name. Ho responded, again asking Letov to stop using the Notepad++ name and logo and to change the project’s URL so that users would not mistake the project for an official Notepad++ port and contact Ho looking for support.&lt;/p&gt;
+&lt;p&gt;“I will prep for the site and some naming changes,” wrote Letov. “Give me a couple of weeks. My intention was to expand your brand. I really hope that at some point in the future you change your mind and see this as a positive growth for your brand.”&lt;/p&gt;
+&lt;p&gt;At this point, Ho seemed to lose patience with Letov’s responses, particularly with being asked to allow Letov to continue using the Notepad++ name for “a couple of weeks.” Ho reported the use of the Notepad++ trademark to Cloudflare, the CDN of the Notepad++ for Mac site, and asked Letov to take it down.&lt;/p&gt;
+&lt;p&gt;“Every day that website remains active, you are in further violation of the law,” Ho wrote earlier today. “I cannot authorize a ‘week or two’ of continued trademark infringement.”&lt;/p&gt;
+&lt;p&gt;Letov began changing the website two days ago, though at first he claimed to be making these changes “in coordination with Don Ho.” This drew further accusations from other GitHub users that he was trying to misrepresent the port’s relationship to the original project.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Those changes continue and have ramped up over the last few hours; the app will now be called “NextPad++,” an homage to NeXT Computer, and uses a frog icon rather than the Notepad++ lizard. The original version, along with the authors page that lists Ho beneath Letove, is available via Internet Archive snapshots.&lt;/p&gt;
+&lt;p&gt;Letov claims that the app’s name will change in version 1.0.6. Version 1.0.5, with the Notepad++ logo and branding intact, is available for download. The project’s URL also hasn’t changed.&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;h2&gt;A seemingly thoughtful but low-effort port&lt;/h2&gt;
+&lt;figure class="ars-wp-img-shortcode id-2152928 align-fullwidth"&gt;
+    &lt;div&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="alt" class="fullwidth full" height="1950" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/notepad-plus-plus-mac.jpeg" width="2350" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      The “Notepad++ for Mac” app looks right, but there are reasons to prefer an “official” port when you can get one.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          NextPad++
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;I had considered writing about Notepad++ for Mac last week, but lost a bit of interest after discovering it was “an independent community port” rather than an official release—independent ports and forks are all well and good, but an official release implies ongoing updates and support, where an “independent community port” might fade away or vanish entirely as soon as its creator gets bored and/or moves on.&lt;/p&gt;
+&lt;p&gt;But I continued to dig because, at a glance, it seemed like an exceptionally thoughtful community port. It supported macOS versions dating back to 11.0 Big Sur on both Intel and Apple Silicon processors. It was a native macOS app with a Cocoa user interface that replaces the original Win32 interface rather than translating it or using a wrapper. The app seemed to be lightweight and clean, as promised. And it was properly notarized so that users could download and launch it relatively easily—not a given, for many independent and/or open source Mac software projects.&lt;/p&gt;
+&lt;p&gt;But I paused when I hit Letov’s About page, which mentioned being “deep in multi-agent AI” and showed a flurry of GitHub commits that happened exclusively in March and April 2026. The Notepad++ for Mac page made no mention of the project being AI-coded, but when contacted for comment, Letov confirmed that both the Notepad++ for Mac app and the website were created at least partially using Anthropic’s Claude CLI.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;“I primarily use Claude CLI with some customizations to run multiple agents and also Codex plugin for VSS. I also use Beads,” Letov told Ars. “Website is also partly managed using Claude CLI plus some manual work on graphics.”&lt;/p&gt;
+&lt;p&gt;“I run some agents that scan for Issues and general issues reported, list/create options to implement features and fixes. I usually review most and decide on the path,” Letov continued when asked how much human oversight the project had. “Also UIs are not as easily tested by AI as backend code and some things have to be thought through and build iteratively.”&lt;/p&gt;
+&lt;p&gt;It’s not that I think the use of AI coding tools should be disqualifying in and of itself. AI coding tools do have real utility, and many companies and projects are making at least some use of them; you likely are running or will eventually run an app containing AI-generated code whether you want to or not. But the port being both “independent” and AI-generated heightens my existing concerns about ongoing support and the developer’s capability to address bug reports and merge upstream code.&lt;/p&gt;
+&lt;p&gt;And, as Ho and other users warned in the GitHub thread, downloading an unvetted unofficial port of a project can increase your risk of downloading malware.&lt;/p&gt;
+&lt;p&gt;“I apologize for sounding paranoid, but I have not verified your code &amp;amp; binaries, and I have no time to do so,” wrote Ho, who comes by his concern about hidden malware in Notepad++ honestly.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-white py-4 md:my-10 md:py-8 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto max-w-2xl px-4 md:px-8 lg:grid lg:max-w-6xl"&gt;
+    
+
+    
+
+    &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 my-3 text-2xl leading-[1.1] md:leading-[1.2]"&gt;
+      “To be clear: Notepad++ has never released a macOS version.”
+    &lt;/p&gt;
+
+          
+    
+    &lt;div class="relative"&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="alt" class="intro-image" height="680" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.50.42-PM.png" width="1460" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;div&gt;
+      &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      Despite the icon and some reporting, "Notepad++ for Mac" is not an official port of the original.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          NextPad++
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;As its name implies, the venerable Notepad++ text editor began as a more capable version of the classic Windows Notepad, with features such as line numbering and syntax highlighting. It was created in 2003 by Don Ho, who continues to be its primary author and maintainer, and it has been a Windows-exclusive app throughout its existence (older Notepad++ versions support OSes as old as Windows 95; the current version officially supports everything going back to Windows 7).&lt;/p&gt;
+&lt;p&gt;I’m not a devoted user of the app, but I was aware of its history, which is why I was surprised to see news of a “Notepad++ for Mac” port making the rounds last week, as though it were a port of the original available from the Notepad++ website.&lt;/p&gt;
+&lt;p&gt;Apparently, this news surprised Ho as well, who claims that the Mac version and its author, Andrey Letov, are “using the Notepad++ trademark (the name) without permission.”&lt;/p&gt;
+&lt;p&gt;“This is misleading, inappropriate, and frankly disrespectful to both the project and its users,” Ho wrote. “It has already fooled people—including tech media—into believing this is an official release. To be crystal clear: Notepad++ has never released a macOS version. Anyone claiming otherwise is simply riding on the Notepad++ name.”&lt;/p&gt;
+&lt;h2&gt;An escalating back-and-forth&lt;/h2&gt;
+&lt;p&gt;Further communication between Ho and Letov can be found in a Notepad++ GitHub&amp;nbsp;thread, where Ho said he had been contacted by Letov before the Notepad++ for Mac app had launched, but that he hadn’t had time to reply.&lt;/p&gt;
+&lt;p&gt;“The problem is that using the official name Notepad++ and its logo gives the impression that your project is an official macOS version maintained or endorsed by the Notepad++ team, which is not the case,” wrote Ho in an email to Letov that he reposted to GitHub. “This create [sic] confusion for users and exposes both you and the project to trademark issues.”&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Letov responded two days later, saying he hadn’t meant to insinuate that Ho was involved with the Notepad++ for Mac project. But he did insist that his port “actually expands notepad++ brand to mac” and expressed hope that Ho would allow him to continue to use the name. Ho responded, again asking Letov to stop using the Notepad++ name and logo and to change the project’s URL so that users would not mistake the project for an official Notepad++ port and contact Ho looking for support.&lt;/p&gt;
+&lt;p&gt;“I will prep for the site and some naming changes,” wrote Letov. “Give me a couple of weeks. My intention was to expand your brand. I really hope that at some point in the future you change your mind and see this as a positive growth for your brand.”&lt;/p&gt;
+&lt;p&gt;At this point, Ho seemed to lose patience with Letov’s responses, particularly with being asked to allow Letov to continue using the Notepad++ name for “a couple of weeks.” Ho reported the use of the Notepad++ trademark to Cloudflare, the CDN of the Notepad++ for Mac site, and asked Letov to take it down.&lt;/p&gt;
+&lt;p&gt;“Every day that website remains active, you are in further violation of the law,” Ho wrote earlier today. “I cannot authorize a ‘week or two’ of continued trademark infringement.”&lt;/p&gt;
+&lt;p&gt;Letov began changing the website two days ago, though at first he claimed to be making these changes “in coordination with Don Ho.” This drew further accusations from other GitHub users that he was trying to misrepresent the port’s relationship to the original project.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Those changes continue and have ramped up over the last few hours; the app will now be called “NextPad++,” an homage to NeXT Computer, and uses a frog icon rather than the Notepad++ lizard. The original version, along with the authors page that lists Ho beneath Letove, is available via Internet Archive snapshots.&lt;/p&gt;
+&lt;p&gt;Letov claims that the app’s name will change in version 1.0.6. Version 1.0.5, with the Notepad++ logo and branding intact, is available for download. The project’s URL also hasn’t changed.&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;h2&gt;A seemingly thoughtful but low-effort port&lt;/h2&gt;
+&lt;figure class="ars-wp-img-shortcode id-2152928 align-fullwidth"&gt;
+    &lt;div&gt;
+              &lt;div class="ars-lightbox"&gt;
+          &lt;div class="ars-lightbox-item"&gt;
+            
+              &lt;img alt="alt" class="fullwidth full" height="1950" src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/notepad-plus-plus-mac.jpeg" width="2350" /&gt;
+            
+            
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;figcaption&gt;
+        &lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      The “Notepad++ for Mac” app looks right, but there are reasons to prefer an “official” port when you can get one.
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+          
+          NextPad++
+
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/figcaption&gt;
+      &lt;/figure&gt;
+
+&lt;p&gt;I had considered writing about Notepad++ for Mac last week, but lost a bit of interest after discovering it was “an independent community port” rather than an official release—independent ports and forks are all well and good, but an official release implies ongoing updates and support, where an “independent community port” might fade away or vanish entirely as soon as its creator gets bored and/or moves on.&lt;/p&gt;
+&lt;p&gt;But I continued to dig because, at a glance, it seemed like an exceptionally thoughtful community port. It supported macOS versions dating back to 11.0 Big Sur on both Intel and Apple Silicon processors. It was a native macOS app with a Cocoa user interface that replaces the original Win32 interface rather than translating it or using a wrapper. The app seemed to be lightweight and clean, as promised. And it was properly notarized so that users could download and launch it relatively easily—not a given, for many independent and/or open source Mac software projects.&lt;/p&gt;
+&lt;p&gt;But I paused when I hit Letov’s About page, which mentioned being “deep in multi-agent AI” and showed a flurry of GitHub commits that happened exclusively in March and April 2026. The Notepad++ for Mac page made no mention of the project being AI-coded, but when contacted for comment, Letov confirmed that both the Notepad++ for Mac app and the website were created at least partially using Anthropic’s Claude CLI.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;“I primarily use Claude CLI with some customizations to run multiple agents and also Codex plugin for VSS. I also use Beads,” Letov told Ars. “Website is also partly managed using Claude CLI plus some manual work on graphics.”&lt;/p&gt;
+&lt;p&gt;“I run some agents that scan for Issues and general issues reported, list/create options to implement features and fixes. I usually review most and decide on the path,” Letov continued when asked how much human oversight the project had. “Also UIs are not as easily tested by AI as backend code and some things have to be thought through and build iteratively.”&lt;/p&gt;
+&lt;p&gt;It’s not that I think the use of AI coding tools should be disqualifying in and of itself. AI coding tools do have real utility, and many companies and projects are making at least some use of them; you likely are running or will eventually run an app containing AI-generated code whether you want to or not. But the port being both “independent” and AI-generated heightens my existing concerns about ongoing support and the developer’s capability to address bug reports and merge upstream code.&lt;/p&gt;
+&lt;p&gt;And, as Ho and other users warned in the GitHub thread, downloading an unvetted unofficial port of a project can increase your risk of downloading malware.&lt;/p&gt;
+&lt;p&gt;“I apologize for sounding paranoid, but I have not verified your code &amp;amp; binaries, and I have no time to do so,” wrote Ho, who comes by his concern about hidden malware in Notepad++ honestly.&lt;/p&gt;
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/</guid><pubDate>Mon, 04 May 2026 21:38:37 +0000</pubDate></item><item><title>[NEW] OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In the long-running saga that is Cerebras Systems’ IPO, the finish line is finally in sight. The AI chipmaker said on Monday that it is preparing to sell 28 million shares at $115 to $125 a share. This would raise $3.5 billion and give it a $26.6 billion market cap at the high end.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That would be a nice bump in just a couple of months for the late investors who piled into its $1 billion Series H at a $23 billion valuation in February. It would also be a boon to OpenAI and a few of its executives.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Should Cerebras pull off an initial public offering at or above the high end, this will be the largest tech IPO of 2026 so far. It could also prove the appetite for even bigger blockbuster offerings in the wings, like SpaceX and possibly OpenAI and Anthropic.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Cerebras offers an AI-specific chip called the Wafer-Scale Engine 3 that challenges GPU-based AI chips. Cerebras says its chip is faster for inference while using less power than such competitors. Inference is the compute needed to process user prompts.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A long list of top-name investors stands to gain from a healthy IPO. Rick Gerson’s Alpha Wave; Benchmark (via partner Eric Vishria); Lior Susan’s Eclipse; Fidelity; and Foundation Capital (via partner Steve Vassallo) are its largest shareholders with more than a 5% stake, according to the company’s SEC filing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company says its list of investors also includes 1789 Capital, Abu Dhabi Growth Fund, Abu Dhabi’s G42, Altimeter, AMD, Atreides Management, Coatue, Moore Strategic Ventures, Tiger Global, Valor Equity Partners, and VY Capital.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Plus, Cerebras names on its website a long list of angel investors, too. These include OpenAI founder and CEO Sam Altman, OpenAI founder and president Greg Brockman, former OpenAI chief scientist (now founder of his own AI startup) Ilya Sutskever, OpenAI board member and Quora CEO Adam D’Angelo, Sun Microsystems and Arista co-founder Andy Bechtolsheim, Intel CEO Lip-Bu Tan, and several other tech luminaries.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While Sam Altman’s stake wasn’t large enough to disclose in the SEC filings, he was quoted in its S-1. That’s because Cerebras’ relationship with OpenAI is even more noteworthy than its angel investors.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This relationship was even presented as evidence by Elon Musk in his lawsuit with OpenAI. OpenAI had at one point considered acquiring Cerebras, according to legal filings by Musk’s attorneys that claim he was unaware of all of the OpenAI execs’ personal investments in the company.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That deal never happened, but OpenAI did become one of Cerebras’ largest customers. In fact, in December, OpenAI loaned Cerebras $1 billion, secured by warrants that allow OpenAI to buy over 33 million shares, the S-1 discloses. So while OpenAI is not a large shareholder now, it could become one.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Cerebras had hoped to go public in 2024 but was delayed due to a federal review of an investment from Abu Dhabi-based cloud provider G42, which was (and still is, the chip company says) a major customer. That IPO attempt was ultimately shelved.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A year later, Cerebras sought to raise more cash. In September, it raised $1.1 billion at an $8.1 billion post-money valuation led by Fidelity and Atreides. A few months later, Cerebras signed its new multi-year agreement worth more&amp;nbsp;than $10 billion&amp;nbsp;with OpenAI that included the loan and warrants. In February, it raised the $1 billion Series H, its last mega round.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Should investors eat up the IPO, then OpenAI and its executives stand to gain in more ways than one. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That seems likely. Banks are already fielding $10 billion worth of orders for the $3.5 billion worth of shares on offer, Bloomberg reports. That kind of demand indicates that the company will likely price its shares even higher than this announced range, raising even more cash for itself and more value for its investors.&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In the long-running saga that is Cerebras Systems’ IPO, the finish line is finally in sight. The AI chipmaker said on Monday that it is preparing to sell 28 million shares at $115 to $125 a share. This would raise $3.5 billion and give it a $26.6 billion market cap at the high end.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That would be a nice bump in just a couple of months for the late investors who piled into its $1 billion Series H at a $23 billion valuation in February. It would also be a boon to OpenAI and a few of its executives.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Should Cerebras pull off an initial public offering at or above the high end, this will be the largest tech IPO of 2026 so far. It could also prove the appetite for even bigger blockbuster offerings in the wings, like SpaceX and possibly OpenAI and Anthropic.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Cerebras offers an AI-specific chip called the Wafer-Scale Engine 3 that challenges GPU-based AI chips. Cerebras says its chip is faster for inference while using less power than such competitors. Inference is the compute needed to process user prompts.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A long list of top-name investors stands to gain from a healthy IPO. Rick Gerson’s Alpha Wave; Benchmark (via partner Eric Vishria); Lior Susan’s Eclipse; Fidelity; and Foundation Capital (via partner Steve Vassallo) are its largest shareholders with more than a 5% stake, according to the company’s SEC filing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company says its list of investors also includes 1789 Capital, Abu Dhabi Growth Fund, Abu Dhabi’s G42, Altimeter, AMD, Atreides Management, Coatue, Moore Strategic Ventures, Tiger Global, Valor Equity Partners, and VY Capital.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Plus, Cerebras names on its website a long list of angel investors, too. These include OpenAI founder and CEO Sam Altman, OpenAI founder and president Greg Brockman, former OpenAI chief scientist (now founder of his own AI startup) Ilya Sutskever, OpenAI board member and Quora CEO Adam D’Angelo, Sun Microsystems and Arista co-founder Andy Bechtolsheim, Intel CEO Lip-Bu Tan, and several other tech luminaries.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;While Sam Altman’s stake wasn’t large enough to disclose in the SEC filings, he was quoted in its S-1. That’s because Cerebras’ relationship with OpenAI is even more noteworthy than its angel investors.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This relationship was even presented as evidence by Elon Musk in his lawsuit with OpenAI. OpenAI had at one point considered acquiring Cerebras, according to legal filings by Musk’s attorneys that claim he was unaware of all of the OpenAI execs’ personal investments in the company.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That deal never happened, but OpenAI did become one of Cerebras’ largest customers. In fact, in December, OpenAI loaned Cerebras $1 billion, secured by warrants that allow OpenAI to buy over 33 million shares, the S-1 discloses. So while OpenAI is not a large shareholder now, it could become one.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Cerebras had hoped to go public in 2024 but was delayed due to a federal review of an investment from Abu Dhabi-based cloud provider G42, which was (and still is, the chip company says) a major customer. That IPO attempt was ultimately shelved.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A year later, Cerebras sought to raise more cash. In September, it raised $1.1 billion at an $8.1 billion post-money valuation led by Fidelity and Atreides. A few months later, Cerebras signed its new multi-year agreement worth more&amp;nbsp;than $10 billion&amp;nbsp;with OpenAI that included the loan and warrants. In February, it raised the $1 billion Series H, its last mega round.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Should investors eat up the IPO, then OpenAI and its executives stand to gain in more ways than one. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That seems likely. Banks are already fielding $10 billion worth of orders for the $3.5 billion worth of shares on offer, Bloomberg reports. That kind of demand indicates that the company will likely price its shares even higher than this announced range, raising even more cash for itself and more value for its investors.&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/</guid><pubDate>Mon, 04 May 2026 21:53:21 +0000</pubDate></item></channel></rss>
