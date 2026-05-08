@@ -1,757 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 08 May 2026 03:23:38 +0000</lastBuildDate><item><title>How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/</link><description>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;When Anthropic unveiled its new Mythos model in April, it also delivered a stern warning to anyone developing software. The model was so powerful at sniffing out software vulnerabilities, the lab claimed, that it had discovered thousands of high-severity bugs that would need to be fixed before it could be made public.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, security researchers for Mozilla’s Firefox browser are providing a closer look at what that process has looked like in practice, and what Mythos’ powers mean for software security at large. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In a post published on Thursday, Mozilla said Mythos has unearthed a wealth of high-severity bugs, including some that had lain dormant in the code for more than a decade.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s a significant improvement from what AI security tools were capable of even six months ago. Until now, AI bug-finding tools have come with severe drawbacks, often inundating security teams with low-quality reports and false positives. But Mozilla’s researchers say the latest generation of tools have turned a corner, particularly now that agentic systems can assess their own work and filter out bad results.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It is difficult to overstate how much this dynamic changed for us over a few short months,” the researchers wrote. “First, the models got a lot more capable. Second, we dramatically improved our techniques for &lt;em&gt;harnessing&lt;/em&gt; these models.”&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3120171" height="370" src="https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-8.38.31-AM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Firefox&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The results are striking: In April 2026, Firefox shipped 423 bug fixes, compared to just 31 exactly a year earlier. The researchers have also published details on 12 of the bugs, which range from a pair of unusual sandbox vulnerabilities, to a 15-year-old error in how the browser parses an HTML element.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“These things are actually just suddenly very good,” Brian Grinstead, a distinguished engineer at Mozilla, told TechCrunch. “We see that on our own internal scanning, we see that on external bug reports, and we see that in all sorts of signals across the industry.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The fact that the system helped reveal vulnerabilities in Firefox’s “sandbox” system is particularly impressive, given how intricate an attack that exploits it needs to be. To find sandbox vulnerabilities, the model must write a compromised patch for the browser, then attack the most secure part of the software with the new code implemented. Finding and demonstrating the bug is a delicate, multi-step process, requiring both creativity and close attention.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To put this into context, Mozilla’s bug bounty program pays researchers who can find a bug in Firefox’s sandbox up to $20,000 — the highest reward available. Despite the top-dollar bounty, however, Grinstead says Mythos is finding more sandbox issues than human researchers ever did. “We do get them,” he told TechCrunch, “but not at the volume that we are able to find with this technique.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Notably, the Firefox team still isn’t using AI to fix the bugs, despite well-documented progress in AI coding tools. The team does ask AI to code up patches for each bug, but the resulting code usually can’t be deployed directly, and instead serves as a model for a human engineer.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“For the bugs we’re talking about in this post, every single one is one engineer writing a patch and one engineer reviewing it,” Grinstead says. “We have not found it to be automatable.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s still not clear how AI’s emerging capabilities will change the broader balance of power in cybersecurity. One month since Mythos was previewed, most of the bugs discovered likely haven’t been patched, which makes it hard to capture the full scope of their impact. Anthropic has been scrupulous about following responsible disclosure norms, but it’s likely bad actors are using similar techniques behind the scenes, even if the models they’re using aren’t quite as good.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Speaking at a recent event, Anthropic CEO Dario Amodei was optimistic that the new tools would ultimately favor defenders. “If we handle this right, we could be in a better position than we started, because we fixed all these bugs. There are only so many bugs to find,” Amodei said. “So I think there’s a better world on the other side of this.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Having dealt with the gritty details, Grinstead has a more measured view: “It’s useful for both attackers and defenders, but having the tool available shifts the advantage a little bit to defense. Realistically, nobody knows the answer to this yet.”&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;When Anthropic unveiled its new Mythos model in April, it also delivered a stern warning to anyone developing software. The model was so powerful at sniffing out software vulnerabilities, the lab claimed, that it had discovered thousands of high-severity bugs that would need to be fixed before it could be made public.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, security researchers for Mozilla’s Firefox browser are providing a closer look at what that process has looked like in practice, and what Mythos’ powers mean for software security at large. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In a post published on Thursday, Mozilla said Mythos has unearthed a wealth of high-severity bugs, including some that had lain dormant in the code for more than a decade.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s a significant improvement from what AI security tools were capable of even six months ago. Until now, AI bug-finding tools have come with severe drawbacks, often inundating security teams with low-quality reports and false positives. But Mozilla’s researchers say the latest generation of tools have turned a corner, particularly now that agentic systems can assess their own work and filter out bad results.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It is difficult to overstate how much this dynamic changed for us over a few short months,” the researchers wrote. “First, the models got a lot more capable. Second, we dramatically improved our techniques for &lt;em&gt;harnessing&lt;/em&gt; these models.”&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3120171" height="370" src="https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-8.38.31-AM.jpg?w=680" width="680" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Firefox&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The results are striking: In April 2026, Firefox shipped 423 bug fixes, compared to just 31 exactly a year earlier. The researchers have also published details on 12 of the bugs, which range from a pair of unusual sandbox vulnerabilities, to a 15-year-old error in how the browser parses an HTML element.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“These things are actually just suddenly very good,” Brian Grinstead, a distinguished engineer at Mozilla, told TechCrunch. “We see that on our own internal scanning, we see that on external bug reports, and we see that in all sorts of signals across the industry.”&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The fact that the system helped reveal vulnerabilities in Firefox’s “sandbox” system is particularly impressive, given how intricate an attack that exploits it needs to be. To find sandbox vulnerabilities, the model must write a compromised patch for the browser, then attack the most secure part of the software with the new code implemented. Finding and demonstrating the bug is a delicate, multi-step process, requiring both creativity and close attention.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;To put this into context, Mozilla’s bug bounty program pays researchers who can find a bug in Firefox’s sandbox up to $20,000 — the highest reward available. Despite the top-dollar bounty, however, Grinstead says Mythos is finding more sandbox issues than human researchers ever did. “We do get them,” he told TechCrunch, “but not at the volume that we are able to find with this technique.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Notably, the Firefox team still isn’t using AI to fix the bugs, despite well-documented progress in AI coding tools. The team does ask AI to code up patches for each bug, but the resulting code usually can’t be deployed directly, and instead serves as a model for a human engineer.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“For the bugs we’re talking about in this post, every single one is one engineer writing a patch and one engineer reviewing it,” Grinstead says. “We have not found it to be automatable.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s still not clear how AI’s emerging capabilities will change the broader balance of power in cybersecurity. One month since Mythos was previewed, most of the bugs discovered likely haven’t been patched, which makes it hard to capture the full scope of their impact. Anthropic has been scrupulous about following responsible disclosure norms, but it’s likely bad actors are using similar techniques behind the scenes, even if the models they’re using aren’t quite as good.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Speaking at a recent event, Anthropic CEO Dario Amodei was optimistic that the new tools would ultimately favor defenders. “If we handle this right, we could be in a better position than we started, because we fixed all these bugs. There are only so many bugs to find,” Amodei said. “So I think there’s a better world on the other side of this.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Having dealt with the gritty details, Grinstead has a more measured view: “It’s useful for both attackers and defenders, but having the tool available shifts the advantage a little bit to defense. Realistically, nobody knows the answer to this yet.”&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/</guid><pubDate>Thu, 07 May 2026 16:05:48 +0000</pubDate></item><item><title>Bumble is getting rid of the swipe, CEO says (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/09/1704865759.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Will dating app malaise finally kill off the swipe? For Bumble, at least, that seems to be the case.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In an interview with Axios on Thursday, Bumble CEO Whitney Wolfe Herd confirmed that Bumble will get rid of swiping, the defining feature of 2010s dating apps.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“We are going to be saying goodbye to the swipe and hello to something that I believe is revolutionary for the category,” Wolfe Herd said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bumble is planning to overhaul its app later this year, following several disappointing quarters in which the app consistently lost paying users. In this year’s first quarter, Bumble’s paid users fell about 21% to 3.2 million, down from 4 million last year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Redesigning the app is a pretty serious intervention, signaling to investors that the situation is dire. But like any good CEO, Wolfe Herd has done some verbal gymnastics to argue that Bumble is doing a very good job at losing money.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“This is a period of real transformation at Bumble over the past few quarters,” she said on this week’s quarterly earnings call. “We have executed a deliberate reset of our member base. We made a clear choice to prioritize quality over quantity, focusing on well-intentioned, engaged members. That decision reduced overall scale, but meaningfully improved the health of our ecosystem.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Based on Wolfe Herd’s past comments about Bumble’s new direction, the company is expected to lean into AI — Bumble is even working on an AI dating assistant called Bee, and Wolfe Herd has made many comments over the years about how AI will be “a supercharger to love and relationships.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Of course, dating apps already use AI to decide what users should be shown to one another. But Gen Z is trending more negative toward in-your-face AI features, and Wolfe Herd has expressed interest in more extreme futures, like having personal AI bots that date other AI bots for you. So, it’s unclear if these “Black Mirror”-like overtures will effectively attract users in their 20s. Bumble’s overhaul isn’t expected to launch until the last quarter of this year, so users will still be swiping for now.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/09/1704865759.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Will dating app malaise finally kill off the swipe? For Bumble, at least, that seems to be the case.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In an interview with Axios on Thursday, Bumble CEO Whitney Wolfe Herd confirmed that Bumble will get rid of swiping, the defining feature of 2010s dating apps.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“We are going to be saying goodbye to the swipe and hello to something that I believe is revolutionary for the category,” Wolfe Herd said. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bumble is planning to overhaul its app later this year, following several disappointing quarters in which the app consistently lost paying users. In this year’s first quarter, Bumble’s paid users fell about 21% to 3.2 million, down from 4 million last year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Redesigning the app is a pretty serious intervention, signaling to investors that the situation is dire. But like any good CEO, Wolfe Herd has done some verbal gymnastics to argue that Bumble is doing a very good job at losing money.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“This is a period of real transformation at Bumble over the past few quarters,” she said on this week’s quarterly earnings call. “We have executed a deliberate reset of our member base. We made a clear choice to prioritize quality over quantity, focusing on well-intentioned, engaged members. That decision reduced overall scale, but meaningfully improved the health of our ecosystem.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Based on Wolfe Herd’s past comments about Bumble’s new direction, the company is expected to lean into AI — Bumble is even working on an AI dating assistant called Bee, and Wolfe Herd has made many comments over the years about how AI will be “a supercharger to love and relationships.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Of course, dating apps already use AI to decide what users should be shown to one another. But Gen Z is trending more negative toward in-your-face AI features, and Wolfe Herd has expressed interest in more extreme futures, like having personal AI bots that date other AI bots for you. So, it’s unclear if these “Black Mirror”-like overtures will effectively attract users in their 20s. Bumble’s overhaul isn’t expected to launch until the last quarter of this year, so users will still be swiping for now.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/</guid><pubDate>Thu, 07 May 2026 19:06:17 +0000</pubDate></item><item><title>[NEW] Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/</link><description>&lt;p&gt;&lt;span&gt;AI will help build the energy it needs.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck made Thursday morning at the SCSP AI+ Expo. The 30-minute fireside chat, moderated by SCSP president Ylli Bajraktari, was called “Powering the Next American Century.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Their argument: American leadership in AI runs through American leadership in energy.&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;“Energy is life,” Wright said. “The more energy you have, the more affordable energy you have, the more opportunities you have in your society.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The Genesis Mission — the U.S. Department of Energy (DOE)’s effort to apply AI to scientific discovery — is where that case meets execution. NVIDIA is among the DOE partners on the mission, building on what Buck called two decades of NVIDIA building supercomputers with the national labs.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“NVIDIA is 100% committed and invested in Genesis,” Buck said. “I’ve never seen more excitement across the lab and industry.”&lt;/span&gt;&lt;/p&gt;
-&lt;figure class="wp-caption aligncenter" id="attachment_92886"&gt;&lt;img alt="alt" class="size-large wp-image-92886" height="800" src="https://blogs.nvidia.com/wp-content/uploads/2026/05/DSC00118-1680x1120.jpg" width="1200" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-92886"&gt;From left: NVIDIA’s Ian Buck, U.S. Energy Secretary Chris Wright and SCSP president Ylli Bajraktari onstage at the SCSP AI+ Expo.&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;span&gt;The session was one of several SCSP panels this week with NVIDIA leaders on stage: Cofounder and NVIDIA Fellow Chris Malachowsky will lead a panel on the AI+ Careers Workforce Task Force; Rev Lebaredian will speak on physical AI and simulation; Dion Harris will discuss AI-accelerated American science and AI infrastructure for Africa; and John Josephakis will join a session on U.S. quantum leadership.&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;The DOE Partnership&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;The DOE brings 17 national labs, the scientists, the national problems and the data. NVIDIA brings the full stack — not just chips, Buck said, but algorithms, methods and 20 years of partnership with the labs.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The work is happening at scale. NVIDIA and the DOE are building two AI supercomputers together at Argonne National Laboratory. The first, Equinox, is being stood up now with 10,000 NVIDIA Grace Blackwell GPUs — what Buck called “the same GPU, the same software being used to train and build AI that we’re all enjoying today.” The second, Solstice, will use 100,000 GPUs with NVIDIA Vera Rubin.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“To put that 100,000 in perspective on the next-generation GPU, which is dedicated to science, it’s 5,000 exaflops,” Buck said. “That’s a big number that actually is five times larger than the entire TOP500 supercomputer list combined.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“We’re creating all the same technology, all the same hardware, all the same software building blocks used by all the major AI labs around the world,” Buck said, “for all of world science to go get access to.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;What that looks like in practice: Buck described an open source NVIDIA AI model trained on 1.5 million physics papers, then fine-tuned on 100,000 papers specifically about fusion. The result is a specialized AI agent DOE researchers can interrogate to advance their work faster.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Energy and the Pace of Building&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Over the last 20 years, Wright said, the U.S. has tripled oil production and doubled natural gas production — but barely grown electricity production. That’s a problem because, as Wright put it, the most important source of energy for AI is electricity.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;His department is leaning back into all three pillars of the U.S. grid: natural gas, nuclear and coal.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;On nuclear, Wright pointed to small modular reactors as a near-term lever — three small modular reactors (SMRs) will go critical by July 4 of this year, he said, with both new large reactors and additional SMRs to follow.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;On fusion, his department has stood up a strategic fusion office, and the lab and university programs are being, in his words, “hypercharged” by the computing power and insights AI now provides.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“We have to fix this bureaucratic and complex electricity grid so that it can grow fast, so that it can grow like our primary energy production and it can keep up with AI,” Wright said. “If we don’t do that, we’re going to slow down AI.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA founder and CEO Jensen Huang has described &lt;/span&gt;&lt;span&gt;AI as a five-layer cake&lt;/span&gt;&lt;span&gt;: energy, chips, infrastructure, models and applications. Wright’s department covers the bottom layer.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Buck took up the next layer. Asked about the intersection of energy and AI, he pointed to per-watt efficiency gains in NVIDIA chips with each generation.&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;“We went from the Hopper generation to Blackwell,” Buck said. “We increased performance by 30x. We actually increased performance per watt by 25 times.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Wright returned to the grid. AI, he said, can break the bottleneck of grid interconnection studies that today take years.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“With AI, we’re going to take something that was years long and make it weeks or hours,” Wright said.&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;What Success Looks Like&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Asked what success looks like 12 months in, Wright pointed to fusion, materials and grid interconnection — concrete deliverables. &lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;“We will have deliverables that we’re going to point to — we couldn’t do that before, and now we can,” Wright said. “That’s the goal of Genesis: drive discovery and bring the benefits to humans.” &lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;There’s growing public concern that AI and data centers will drive up electricity costs, he noted. The reality, Wright said, runs the other way: “Building more electrical generation, building data centers, are actually the mechanism to lower the cost of electricity in our country and make our grid stronger.”&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;AI and energy are both key to human progress. &lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;“AI doesn’t love, it doesn’t have passion,” Wright said. “It’s just going to make humans more powerful and better at pursuing whatever your passions are. It’s a thing that supercharges humans — it does not replace you.”&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</description><content:encoded>&lt;p&gt;&lt;span&gt;AI will help build the energy it needs.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck made Thursday morning at the SCSP AI+ Expo. The 30-minute fireside chat, moderated by SCSP president Ylli Bajraktari, was called “Powering the Next American Century.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Their argument: American leadership in AI runs through American leadership in energy.&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;“Energy is life,” Wright said. “The more energy you have, the more affordable energy you have, the more opportunities you have in your society.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The Genesis Mission — the U.S. Department of Energy (DOE)’s effort to apply AI to scientific discovery — is where that case meets execution. NVIDIA is among the DOE partners on the mission, building on what Buck called two decades of NVIDIA building supercomputers with the national labs.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“NVIDIA is 100% committed and invested in Genesis,” Buck said. “I’ve never seen more excitement across the lab and industry.”&lt;/span&gt;&lt;/p&gt;
-&lt;figure class="wp-caption aligncenter" id="attachment_92886"&gt;&lt;img alt="alt" class="size-large wp-image-92886" height="800" src="https://blogs.nvidia.com/wp-content/uploads/2026/05/DSC00118-1680x1120.jpg" width="1200" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-92886"&gt;From left: NVIDIA’s Ian Buck, U.S. Energy Secretary Chris Wright and SCSP president Ylli Bajraktari onstage at the SCSP AI+ Expo.&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;span&gt;The session was one of several SCSP panels this week with NVIDIA leaders on stage: Cofounder and NVIDIA Fellow Chris Malachowsky will lead a panel on the AI+ Careers Workforce Task Force; Rev Lebaredian will speak on physical AI and simulation; Dion Harris will discuss AI-accelerated American science and AI infrastructure for Africa; and John Josephakis will join a session on U.S. quantum leadership.&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;The DOE Partnership&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;The DOE brings 17 national labs, the scientists, the national problems and the data. NVIDIA brings the full stack — not just chips, Buck said, but algorithms, methods and 20 years of partnership with the labs.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;The work is happening at scale. NVIDIA and the DOE are building two AI supercomputers together at Argonne National Laboratory. The first, Equinox, is being stood up now with 10,000 NVIDIA Grace Blackwell GPUs — what Buck called “the same GPU, the same software being used to train and build AI that we’re all enjoying today.” The second, Solstice, will use 100,000 GPUs with NVIDIA Vera Rubin.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“To put that 100,000 in perspective on the next-generation GPU, which is dedicated to science, it’s 5,000 exaflops,” Buck said. “That’s a big number that actually is five times larger than the entire TOP500 supercomputer list combined.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“We’re creating all the same technology, all the same hardware, all the same software building blocks used by all the major AI labs around the world,” Buck said, “for all of world science to go get access to.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;What that looks like in practice: Buck described an open source NVIDIA AI model trained on 1.5 million physics papers, then fine-tuned on 100,000 papers specifically about fusion. The result is a specialized AI agent DOE researchers can interrogate to advance their work faster.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Energy and the Pace of Building&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Over the last 20 years, Wright said, the U.S. has tripled oil production and doubled natural gas production — but barely grown electricity production. That’s a problem because, as Wright put it, the most important source of energy for AI is electricity.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;His department is leaning back into all three pillars of the U.S. grid: natural gas, nuclear and coal.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;On nuclear, Wright pointed to small modular reactors as a near-term lever — three small modular reactors (SMRs) will go critical by July 4 of this year, he said, with both new large reactors and additional SMRs to follow.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;On fusion, his department has stood up a strategic fusion office, and the lab and university programs are being, in his words, “hypercharged” by the computing power and insights AI now provides.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“We have to fix this bureaucratic and complex electricity grid so that it can grow fast, so that it can grow like our primary energy production and it can keep up with AI,” Wright said. “If we don’t do that, we’re going to slow down AI.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;NVIDIA founder and CEO Jensen Huang has described &lt;/span&gt;&lt;span&gt;AI as a five-layer cake&lt;/span&gt;&lt;span&gt;: energy, chips, infrastructure, models and applications. Wright’s department covers the bottom layer.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Buck took up the next layer. Asked about the intersection of energy and AI, he pointed to per-watt efficiency gains in NVIDIA chips with each generation.&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;“We went from the Hopper generation to Blackwell,” Buck said. “We increased performance by 30x. We actually increased performance per watt by 25 times.”&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Wright returned to the grid. AI, he said, can break the bottleneck of grid interconnection studies that today take years.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;“With AI, we’re going to take something that was years long and make it weeks or hours,” Wright said.&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;What Success Looks Like&lt;/h2&gt;
-&lt;p&gt;&lt;span&gt;Asked what success looks like 12 months in, Wright pointed to fusion, materials and grid interconnection — concrete deliverables. &lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;“We will have deliverables that we’re going to point to — we couldn’t do that before, and now we can,” Wright said. “That’s the goal of Genesis: drive discovery and bring the benefits to humans.” &lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;There’s growing public concern that AI and data centers will drive up electricity costs, he noted. The reality, Wright said, runs the other way: “Building more electrical generation, building data centers, are actually the mechanism to lower the cost of electricity in our country and make our grid stronger.”&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;AI and energy are both key to human progress. &lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;“AI doesn’t love, it doesn’t have passion,” Wright said. “It’s just going to make humans more powerful and better at pursuing whatever your passions are. It’s a thing that supercharges humans — it does not replace you.”&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/</guid><pubDate>Thu, 07 May 2026 19:14:38 +0000</pubDate></item><item><title>Mozilla says 271 vulnerabilities found by Mythos have "almost no false positives" (AI - Ars Technica)</title><link>https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/</link><description>&lt;article class="double-column h-entry post-2153422 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-information-technology category-security tag-firefox-2 tag-mythos tag-vulnerabilities"&gt;
-  
-  &lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        The developer of Firefox says it has “completely bought in” on AI-assisted bug discovery.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Meet your new open source coding team!
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;The disbelief was palpable when Mozilla’s CTO last month declared that AI-assisted vulnerability detection meant “zero-days are numbered” and “defenders finally have a chance to win, decisively.” After all, it looked like part of an all-too-familiar pattern: Cherry-pick a handful of impressive AI-achieved results, leave out any of the fine print that might paint a more nuanced picture, and let the hype train roll on.&lt;/p&gt;
-&lt;p&gt;Mindful of the skepticism, Mozilla on Thursday provided a behind-the-scenes look into its use of Anthropic Mythos—an AI model for identifying software vulnerabilities—to ferret out 271 Firefox security flaws over two months. In a post, Mozilla engineers said the finally ready-for-prime-time breakthrough they achieved was primarily the result of two things: (1) improvement in the models themselves and (2) Mozilla’s development of a custom “harness” that supported Mythos as it analyzed Firefox source code.&lt;/p&gt;
-&lt;h2&gt;“Almost no false positives”&lt;/h2&gt;
-&lt;p&gt;The engineers said their earlier brushes with AI-assisted vulnerability detection were fraught with “unwanted slop.” Typically, someone would prompt a model to analyze a block of code. The model would then produce plausible-reading bug reports, and often at unprecedented scales. Invariably, however, when human developers further investigated, they’d find a large percentage of the details had been hallucinated. The humans would then need to invest significant work handling the vulnerability reports the old-fashioned way.&lt;/p&gt;
-&lt;p&gt;Mozilla’s work with Mythos was different, Mozilla Distinguished Engineer Brian Grinstead said in an interview. The biggest differentiating factor was the use of an agent harness, a piece of code that wraps around an LLM to guide it through a series of specific tasks. For such a harness to be useful, it requires significant resources to customize it to the project-specific semantics, tooling, and processes it will be used for.&lt;/p&gt;
-&lt;p&gt;Grinstead described the harness his team built as “the code that drives the LLM in order to accomplish a goal. It gives the model instructions (e.g., ‘find a bug in this file’), provides it tools (e.g., allowing it to read/write files and evaluate test cases), then runs it in a loop until completion.” The harness gave Mythos access to the same tools and pipeline that human Mozilla developers use, including the special Firefox build they use for testing.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;He elaborated:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;With these harnesses, so long as you can define a deterministic and clear success signal or task verification signal, you can just keep telling it to keep working. In our case when we’re looking for memory safety issues we have our sanitizer build of Firefox and if you make it crash you win. We point that agent off to a source file and say: “we know there’s an issue in this file, please go find it.” It will craft test cases. We have our existing fuzzing systems and tools to be able to run those tests. It will say: “I think there’s an issue here if I craft the HTML exactly so.” It sends it off to a tool, the tool says yes or no. If the tool says yes then there’s some additional verification.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;The additional verification comes in the form of a second LLM that grades the output from the first LLM. A high score gives developers the same confidence they have when viewing reports generated through more traditional discovery methods.&lt;/p&gt;
-&lt;p&gt;“In terms of the bugs coming out on the other side, there are almost no false positives,” he said.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;Thursday’s behind-the-scenes view includes the unhiding of full Bugzilla reports for 12 of the 271 vulnerabilities Mozilla discovered using Mythos and, to a lesser extent, Claude Opus 4.6. The test cases—meaning the HTML or other code that triggers an unsafe memory condition—are provided in each one and meet the same criteria Mozilla requires for all bugs to be considered security vulnerabilities in Firefox. At least one researcher said Thursday that a cursory look at the reports showed they were “pretty impressive.”&lt;/p&gt;
-&lt;p&gt;Unlike previous vulnerability disclosure slop, Grinstead said, the details provided by its harness-guided Mythos analysis, and confirmed by the second LLM, and ultimately included in the reports, provide a level of confidence his team didn’t have before.&lt;/p&gt;
-&lt;p&gt;“That’s the key thing that has unlocked our ability to operate at the scale we’ve been operating at now,” he said. “It gives the engineer a crank they can pull that says: ‘Yep, this has the problem,’ and then you can iterate on the code and know clearly when you’ve fixed it and eventually land the test case in the tree such that you don’t regress it.”&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;As noted earlier, Mozilla’s characterization of AI-assisted vulnerability discovery as a game changer has been met with massive, vocal skepticism in many quarters. Critics initially scoffed when Mozilla didn’t obtain CVE designations for any of the 271 vulnerabilities. Like many developers, however, Mozilla doesn’t obtain CVE listings for internally discovered security bugs. Instead, they are bundled into a single patch. Normally, Bugzilla reports detailing these “rollups” are hidden for several months after being fixed to protect those who are slow to patch. Now that Mozilla has revealed a dozen of them, the same critics will surely claim they too were cherry-picked and conceal less accurate results.&lt;/p&gt;
-&lt;p&gt;Of the 271 bugs found using Mythos, 180 were sec-high, Mozilla’s highest designation for internally reported vulnerabilities. These types of vulnerabilities can be exploited through normal user behavior, such as browsing to a web page. (The only higher rating, sec-critical, is reserved for zero-days.) Another 80 were sec-moderate, and 11 were sec-low.&lt;/p&gt;
-&lt;p&gt;The critics are right to keep pushing back. Hype is a key method for inflating the already high puffed-up valuations of AI companies. Given the extensive praise Mozilla has given to Mythos, it’s easy for even more trusting people to wonder: What’s it getting in return? Far from settling the debate, Thursday’s elaborations are likely to only further stoke the controversy.&lt;/p&gt;
-&lt;p&gt;To hear Grinstead tell it, however, the details are clear evidence of the usefulness of AI-assisted discovery, and Mozilla’s motivation is simple.&lt;/p&gt;
-&lt;p&gt;“People are a bit burned from the last year of these slop commits so we felt it was important to show some of our work, open up some of the bugs, and talk about it in a little more detail as a way to hopefully spur some action or continue the conversation,” he said. “There’s no sort of marketing angle here. Our team has completely bought in on this approach. We are trying to get a message out about this technique in general and not any specific model provider, company, or anything like that.”&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;&lt;article class="comment-pick"&gt;
-          &lt;header&gt;
-            &lt;span class="ars-avatar" style="color: #82b1ff; background-color: #1e88e5;"&gt;&lt;span class="ars-avatar-letter"&gt;f&lt;/span&gt;&lt;/span&gt;
-
-            &lt;div class="text-base font-bold sm:text-xl"&gt;
-              frogstomp
-            &lt;/div&gt;
-          &lt;/header&gt;
-
-          &lt;div class="comments-pick-content"&gt;
-            Ok, this confirms what I suspected. &lt;br /&gt;
-It works when given a very clear, easily machine verified goal. They've basically taken what they've learned from machine speed training and applied it to finding memory bugs, where basically if the process crashed, you've succeeded. So what is described here at least is quite a narrow window of capability, when given a very clear success/failure model which can be automatically marked by another process, model , or algorithm.&lt;br /&gt;
-The harness is what turns an AI model onto an AI system, and it is absolutely key to success.
-          &lt;/div&gt;
-
-          &lt;div class="comments-pick-timestamp"&gt;
-            
-              &lt;time datetime="2026-05-07T21:00:05+00:00"&gt;
-  May 7, 2026 at 9:00 pm
-&lt;/time&gt;
-            
-          &lt;/div&gt;
-        &lt;/article&gt;</description><content:encoded>&lt;article class="double-column h-entry post-2153422 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-information-technology category-security tag-firefox-2 tag-mythos tag-vulnerabilities"&gt;
-  
-  &lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        The developer of Firefox says it has “completely bought in” on AI-assisted bug discovery.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Meet your new open source coding team!
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;The disbelief was palpable when Mozilla’s CTO last month declared that AI-assisted vulnerability detection meant “zero-days are numbered” and “defenders finally have a chance to win, decisively.” After all, it looked like part of an all-too-familiar pattern: Cherry-pick a handful of impressive AI-achieved results, leave out any of the fine print that might paint a more nuanced picture, and let the hype train roll on.&lt;/p&gt;
-&lt;p&gt;Mindful of the skepticism, Mozilla on Thursday provided a behind-the-scenes look into its use of Anthropic Mythos—an AI model for identifying software vulnerabilities—to ferret out 271 Firefox security flaws over two months. In a post, Mozilla engineers said the finally ready-for-prime-time breakthrough they achieved was primarily the result of two things: (1) improvement in the models themselves and (2) Mozilla’s development of a custom “harness” that supported Mythos as it analyzed Firefox source code.&lt;/p&gt;
-&lt;h2&gt;“Almost no false positives”&lt;/h2&gt;
-&lt;p&gt;The engineers said their earlier brushes with AI-assisted vulnerability detection were fraught with “unwanted slop.” Typically, someone would prompt a model to analyze a block of code. The model would then produce plausible-reading bug reports, and often at unprecedented scales. Invariably, however, when human developers further investigated, they’d find a large percentage of the details had been hallucinated. The humans would then need to invest significant work handling the vulnerability reports the old-fashioned way.&lt;/p&gt;
-&lt;p&gt;Mozilla’s work with Mythos was different, Mozilla Distinguished Engineer Brian Grinstead said in an interview. The biggest differentiating factor was the use of an agent harness, a piece of code that wraps around an LLM to guide it through a series of specific tasks. For such a harness to be useful, it requires significant resources to customize it to the project-specific semantics, tooling, and processes it will be used for.&lt;/p&gt;
-&lt;p&gt;Grinstead described the harness his team built as “the code that drives the LLM in order to accomplish a goal. It gives the model instructions (e.g., ‘find a bug in this file’), provides it tools (e.g., allowing it to read/write files and evaluate test cases), then runs it in a loop until completion.” The harness gave Mythos access to the same tools and pipeline that human Mozilla developers use, including the special Firefox build they use for testing.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;He elaborated:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;With these harnesses, so long as you can define a deterministic and clear success signal or task verification signal, you can just keep telling it to keep working. In our case when we’re looking for memory safety issues we have our sanitizer build of Firefox and if you make it crash you win. We point that agent off to a source file and say: “we know there’s an issue in this file, please go find it.” It will craft test cases. We have our existing fuzzing systems and tools to be able to run those tests. It will say: “I think there’s an issue here if I craft the HTML exactly so.” It sends it off to a tool, the tool says yes or no. If the tool says yes then there’s some additional verification.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;The additional verification comes in the form of a second LLM that grades the output from the first LLM. A high score gives developers the same confidence they have when viewing reports generated through more traditional discovery methods.&lt;/p&gt;
-&lt;p&gt;“In terms of the bugs coming out on the other side, there are almost no false positives,” he said.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;Thursday’s behind-the-scenes view includes the unhiding of full Bugzilla reports for 12 of the 271 vulnerabilities Mozilla discovered using Mythos and, to a lesser extent, Claude Opus 4.6. The test cases—meaning the HTML or other code that triggers an unsafe memory condition—are provided in each one and meet the same criteria Mozilla requires for all bugs to be considered security vulnerabilities in Firefox. At least one researcher said Thursday that a cursory look at the reports showed they were “pretty impressive.”&lt;/p&gt;
-&lt;p&gt;Unlike previous vulnerability disclosure slop, Grinstead said, the details provided by its harness-guided Mythos analysis, and confirmed by the second LLM, and ultimately included in the reports, provide a level of confidence his team didn’t have before.&lt;/p&gt;
-&lt;p&gt;“That’s the key thing that has unlocked our ability to operate at the scale we’ve been operating at now,” he said. “It gives the engineer a crank they can pull that says: ‘Yep, this has the problem,’ and then you can iterate on the code and know clearly when you’ve fixed it and eventually land the test case in the tree such that you don’t regress it.”&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;As noted earlier, Mozilla’s characterization of AI-assisted vulnerability discovery as a game changer has been met with massive, vocal skepticism in many quarters. Critics initially scoffed when Mozilla didn’t obtain CVE designations for any of the 271 vulnerabilities. Like many developers, however, Mozilla doesn’t obtain CVE listings for internally discovered security bugs. Instead, they are bundled into a single patch. Normally, Bugzilla reports detailing these “rollups” are hidden for several months after being fixed to protect those who are slow to patch. Now that Mozilla has revealed a dozen of them, the same critics will surely claim they too were cherry-picked and conceal less accurate results.&lt;/p&gt;
-&lt;p&gt;Of the 271 bugs found using Mythos, 180 were sec-high, Mozilla’s highest designation for internally reported vulnerabilities. These types of vulnerabilities can be exploited through normal user behavior, such as browsing to a web page. (The only higher rating, sec-critical, is reserved for zero-days.) Another 80 were sec-moderate, and 11 were sec-low.&lt;/p&gt;
-&lt;p&gt;The critics are right to keep pushing back. Hype is a key method for inflating the already high puffed-up valuations of AI companies. Given the extensive praise Mozilla has given to Mythos, it’s easy for even more trusting people to wonder: What’s it getting in return? Far from settling the debate, Thursday’s elaborations are likely to only further stoke the controversy.&lt;/p&gt;
-&lt;p&gt;To hear Grinstead tell it, however, the details are clear evidence of the usefulness of AI-assisted discovery, and Mozilla’s motivation is simple.&lt;/p&gt;
-&lt;p&gt;“People are a bit burned from the last year of these slop commits so we felt it was important to show some of our work, open up some of the bugs, and talk about it in a little more detail as a way to hopefully spur some action or continue the conversation,” he said. “There’s no sort of marketing angle here. Our team has completely bought in on this approach. We are trying to get a message out about this technique in general and not any specific model provider, company, or anything like that.”&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;&lt;article class="comment-pick"&gt;
-          &lt;header&gt;
-            &lt;span class="ars-avatar" style="color: #82b1ff; background-color: #1e88e5;"&gt;&lt;span class="ars-avatar-letter"&gt;f&lt;/span&gt;&lt;/span&gt;
-
-            &lt;div class="text-base font-bold sm:text-xl"&gt;
-              frogstomp
-            &lt;/div&gt;
-          &lt;/header&gt;
-
-          &lt;div class="comments-pick-content"&gt;
-            Ok, this confirms what I suspected. &lt;br /&gt;
-It works when given a very clear, easily machine verified goal. They've basically taken what they've learned from machine speed training and applied it to finding memory bugs, where basically if the process crashed, you've succeeded. So what is described here at least is quite a narrow window of capability, when given a very clear success/failure model which can be automatically marked by another process, model , or algorithm.&lt;br /&gt;
-The harness is what turns an AI model onto an AI system, and it is absolutely key to success.
-          &lt;/div&gt;
-
-          &lt;div class="comments-pick-timestamp"&gt;
-            
-              &lt;time datetime="2026-05-07T21:00:05+00:00"&gt;
-  May 7, 2026 at 9:00 pm
-&lt;/time&gt;
-            
-          &lt;/div&gt;
-        &lt;/article&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/</guid><pubDate>Thu, 07 May 2026 19:18:16 +0000</pubDate></item><item><title>Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265445010.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk’s legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab’s founding mission of ensuring that humanity benefits from artificial general intelligence.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On Thursday, a federal court in Oakland, California, heard a former employee and board member say the company’s efforts to push AI products into the marketplace compromised its commitment to AI safety.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Rosie Campbell joined the company’s AGI readiness team in 2021, and she left OpenAI in 2024 after her team was disbanded. Another safety-focused team, the Super Alignment team, was shut down in the same time period.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“When I joined, it was very research-focused and common for people to talk about AGI and safety issues,” she testified. “Over time it became more like a product-focused organization.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Under cross-examination, Campbell acknowledged that significant funding was likely necessary for the lab’s goal of building AGI but said creating a super-intelligent computer model without the right safety measures in place wouldn’t fit with the mission of the organization she originally joined.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Campbell pointed to an incident where Microsoft deployed a version of the company’s GPT-4 model in India through its Bing search engine before the model had been evaluated by the company’s Deployment Safety Board (DSB). The model itself did not present a huge risk, she said, but the company needed “to set strong precedents as the technology gets more powerful. We want to have good safety processes in place we know are being followed reliably.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s attorneys also had Campbell admit that in her “speculative opinion,” OpenAI’s safety approach is superior to that at xAI, the AI company that Musk founded that was acquired by SpaceX earlier this year.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI releases evaluations of its models and shares a safety framework publicly, but the company declined to comment on its current approach to AGI alignment. Dylan Scandinaro, its current head of preparedness, was hired from Anthropic in February. Altman said the hire would let him “sleep better tonight.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The deployment of GPT-4 in India, however, was one of the red flags that led OpenAI’s non-profit board to briefly fire CEO Sam Altman in 2023. That incident took place after employees, including then-chief scientist Ilya Sutskever and then-CTO Mira Murati, complained about Altman’s conflict-averse management style. Tasha McCauley, a member of the board at the time, testified about concerns that Altman was not forthcoming enough with the board for its unusual structure to function.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;McCauley also discussed a widely reported pattern of Altman misleading the board. Notably, Altman lied to another board member about McCauley’s intention to remove Helen Toner, a third board member who published a white paper that included some implied criticism of OpenAI’s safety policy. Altman also failed to inform the board about the decision to launch ChatGPT publicly, and members were concerned about his lack of disclosure of potential conflicts of interest.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“We are a non-profit board and our mandate was to be able to oversee the for-profit underneath us,” McCauley told the court. “Our primary way to do that was being called into question. We did not have a high degree of confidence at all to trust that the information being conveyed to us allowed us to make decisions in an informed way.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;However, the decision to boot Altman came at the same time as a tender offer to the company’s employees. McCauley said that when OpenAI’s staff started to side with Altman and Microsoft worked to restore the status quo, the board ultimately reversed course, with the members opposed to Altman stepping down. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The apparent failure of the non-profit board to influence the for-profit organization goes directly to Musk’s case that the transformation of OpenAI from research organization into one of the largest private companies in the world broke the implicit agreement of the organization’s founders.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;David Schizer, a former dean of Columbia Law School who is being paid by Musk’s team to act as an expert witness, echoed McCauley’s concerns.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“OpenAI has emphasized that a key part of its mission is safety and they are going to prioritize safety over profits,” Schizer said. “Part of that is taking safety rules seriously, if something needs to be subject to safety review, it needs to happen. What matters is the process issue.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;With AI already deeply embedded in for-profit companies, the issue goes far beyond a single lab. McCauley said the failures of internal governance at OpenAI should be a reason to embrace stronger government regulation of advanced AI — “[if] it all comes down to one CEO making those decisions, and we have the public good at stake, that’s very suboptimal.”&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265445010.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk’s legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab’s founding mission of ensuring that humanity benefits from artificial general intelligence.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On Thursday, a federal court in Oakland, California, heard a former employee and board member say the company’s efforts to push AI products into the marketplace compromised its commitment to AI safety.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Rosie Campbell joined the company’s AGI readiness team in 2021, and she left OpenAI in 2024 after her team was disbanded. Another safety-focused team, the Super Alignment team, was shut down in the same time period.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“When I joined, it was very research-focused and common for people to talk about AGI and safety issues,” she testified. “Over time it became more like a product-focused organization.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Under cross-examination, Campbell acknowledged that significant funding was likely necessary for the lab’s goal of building AGI but said creating a super-intelligent computer model without the right safety measures in place wouldn’t fit with the mission of the organization she originally joined.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Campbell pointed to an incident where Microsoft deployed a version of the company’s GPT-4 model in India through its Bing search engine before the model had been evaluated by the company’s Deployment Safety Board (DSB). The model itself did not present a huge risk, she said, but the company needed “to set strong precedents as the technology gets more powerful. We want to have good safety processes in place we know are being followed reliably.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s attorneys also had Campbell admit that in her “speculative opinion,” OpenAI’s safety approach is superior to that at xAI, the AI company that Musk founded that was acquired by SpaceX earlier this year.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI releases evaluations of its models and shares a safety framework publicly, but the company declined to comment on its current approach to AGI alignment. Dylan Scandinaro, its current head of preparedness, was hired from Anthropic in February. Altman said the hire would let him “sleep better tonight.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The deployment of GPT-4 in India, however, was one of the red flags that led OpenAI’s non-profit board to briefly fire CEO Sam Altman in 2023. That incident took place after employees, including then-chief scientist Ilya Sutskever and then-CTO Mira Murati, complained about Altman’s conflict-averse management style. Tasha McCauley, a member of the board at the time, testified about concerns that Altman was not forthcoming enough with the board for its unusual structure to function.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;McCauley also discussed a widely reported pattern of Altman misleading the board. Notably, Altman lied to another board member about McCauley’s intention to remove Helen Toner, a third board member who published a white paper that included some implied criticism of OpenAI’s safety policy. Altman also failed to inform the board about the decision to launch ChatGPT publicly, and members were concerned about his lack of disclosure of potential conflicts of interest.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“We are a non-profit board and our mandate was to be able to oversee the for-profit underneath us,” McCauley told the court. “Our primary way to do that was being called into question. We did not have a high degree of confidence at all to trust that the information being conveyed to us allowed us to make decisions in an informed way.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;However, the decision to boot Altman came at the same time as a tender offer to the company’s employees. McCauley said that when OpenAI’s staff started to side with Altman and Microsoft worked to restore the status quo, the board ultimately reversed course, with the members opposed to Altman stepping down. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The apparent failure of the non-profit board to influence the for-profit organization goes directly to Musk’s case that the transformation of OpenAI from research organization into one of the largest private companies in the world broke the implicit agreement of the organization’s founders.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;David Schizer, a former dean of Columbia Law School who is being paid by Musk’s team to act as an expert witness, echoed McCauley’s concerns.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“OpenAI has emphasized that a key part of its mission is safety and they are going to prioritize safety over profits,” Schizer said. “Part of that is taking safety rules seriously, if something needs to be subject to safety review, it needs to happen. What matters is the process issue.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;With AI already deeply embedded in for-profit companies, the issue goes far beyond a single lab. McCauley said the failures of internal governance at OpenAI should be a reason to embrace stronger government regulation of advanced AI — “[if] it all comes down to one CEO making those decisions, and we have the public good at stake, that’s very suboptimal.”&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/</guid><pubDate>Thu, 07 May 2026 19:21:21 +0000</pubDate></item><item><title>[NEW] Perplexity’s Personal Computer is now available to everyone on Mac (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/</link><description>&lt;div&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 08 May 2026 07:45:08 +0000</lastBuildDate><item><title>Perplexity’s Personal Computer is now available to everyone on Mac (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/</link><description>&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Perplexity’s Personal Computer, its answer to OpenClaw and other local AI agents, is now available to all Mac users via its desktop app, the company announced on Thursday.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;As a reminder, Personal Computer is an expansion on Perplexity’s general-purpose, multi-model digital worker dubbed, confusingly, Perplexity Computer. “Personal Computer,” meanwhile, is designed to bring those capabilities to your own device. It does so by allowing AI agents access to local files, applications, and connectors, as well as the web, in order to handle the individual user’s personal, multi-step workflows.&lt;/p&gt;
@@ -827,7 +75,7 @@ The harness is what turns an AI model onto an AI system, and it is absolutely ke
 
 
 &lt;p class="wp-block-paragraph"&gt;The new Mac app is available as a direct download only for now; it’s not in the Mac App Store.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/</guid><pubDate>Thu, 07 May 2026 19:57:59 +0000</pubDate></item><item><title>[NEW] OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/</link><description>&lt;div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/</guid><pubDate>Thu, 07 May 2026 19:57:59 +0000</pubDate></item><item><title>OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/</link><description>&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;On Thursday OpenAI announced a new feature called Trusted Contact, designed to alert a trusted third party if mentions of self-harm are expressed within a conversation. The feature allows an adult ChatGPT user to designate another person as a trusted contact within their account, such as a friend or family member. In cases where a conversation may turn to self-harm, OpenAI will now encourage the user to reach out to that contact. It also sends an automated alert to the contact, encouraging them to check in with the user.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;OpenAI has faced a wave of lawsuits from the families of people who have committed suicide after talking with its chatbot. In a number of cases, the families say ChatGPT encouraged their loved one to kill themselves — or even helped them plan it out.&lt;/p&gt;
@@ -905,7 +153,7 @@ The harness is what turns an AI model onto an AI system, and it is absolutely ke
 &lt;/div&gt;
 
 
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/</guid><pubDate>Thu, 07 May 2026 20:20:20 +0000</pubDate></item><item><title>[NEW] Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/Pit-team-2.-Photo-by-Hugo-Thambert.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/</guid><pubDate>Thu, 07 May 2026 20:20:20 +0000</pubDate></item><item><title>Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/Pit-team-2.-Photo-by-Hugo-Thambert.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Swedish startup Pit may have gained notice for some rage-bait social media posts, but it has also become another Stockholm AI startup to watch.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Pit is led by the co-founders of European scooter giant Voi, including Voi CEO Fredrik Hjelm. He is joined by former iZettle and Klarna engineers. And it is now backed by a16z, which is leading the startup’s $16 million seed round. Stockholm, also home to Lovable, is one of the places where a16z has been actively looking for the next European unicorn.&lt;/p&gt;
@@ -1027,7 +275,7 @@ The harness is what turns an AI model onto an AI system, and it is absolutely ke
 &lt;p class="wp-block-paragraph"&gt;Jafer also corroborated that Pit didn’t spend much time with other firms to raise its round, which was also backed by Pit’s founders themselves, as well as Lakestar, executives from American tech companies, and wealthy families from the Nordics. This transatlantic cap table confirms that there is growing interest for AI out of Stockholm, which has consolidated itself as one of the most active startup hubs in Europe.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Pit could also benefit from its European DNA when it comes to sales. “We’re going after industrials, and there’s plenty of that in Europe,” Jafer said. He also reported that clients appreciate Pit’s agnostic approach. Since it can use different AI and cloud vendors depending on clients’ preferences, it could benefit from the current tailwinds for sovereign tech, especially in critical sectors. &lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;“EU models running on EU compute is top of mind for almost every CIO we’re meeting,” Jafer said.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/</guid><pubDate>Thu, 07 May 2026 21:02:11 +0000</pubDate></item><item><title>[NEW] OpenAI launches new voice intelligence features in its API (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/</guid><pubDate>Thu, 07 May 2026 21:02:11 +0000</pubDate></item><item><title>OpenAI launches new voice intelligence features in its API (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI said Thursday that its API will now include a number of new voice intelligence features designed to help developers create apps that can talk, transcribe, and translate conversations with users.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;The company’s new GPT‑Realtime‑2 is another voice model, built to create a realistic vocal simulation that can converse with users. However, unlike its predecessor (GPT-Realtime-1.5) this one is built with GPT‑5‑class reasoning that OpenAI says was created to deal with more complicated requests from users.&lt;/p&gt;
@@ -1101,4 +349,126 @@ The harness is what turns an AI model onto an AI system, and it is absolutely ke
 &lt;/div&gt;
 
 &lt;p class="wp-block-paragraph"&gt;All of the new voice models are included in OpenAI’s Realtime API. Translate and Whisper are billed by the minute, while GPT-Realtime-2 is billed by token consumption.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/</guid><pubDate>Thu, 07 May 2026 22:24:50 +0000</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/</guid><pubDate>Thu, 07 May 2026 22:24:50 +0000</pubDate></item><item><title>[NEW] Why you can never get your doctor to call you back (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-9.00.25-PM.png?resize=1200,711" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A lot of the conversation around AI in healthcare focuses on diagnostics and drug discovery or on doctor-patient visits. But a less visible part of the system affects whether patients actually get seen at all, and it has less to do with the number of doctors in the world (too few) and more with the administrative work (too much) that happens between a primary care doctor writing a referral and a specialist’s office getting a patient on the schedule. That gap, it turns out, is huge, stubbornly manual, and increasingly attracting serious interest from venture capitalists.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Kaled Alhanafi, a former Lyft and Cruise executive, and Chetan Patel, who spent a decade building cardiac devices at Medtronic, co-founded Basata after each experienced the problem directly.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For Patel, the issue became personal when his wife fainted on a flight with their young children. Even with his deep knowledge of cardiology and the specific devices that could help her, he says navigating the administrative process to get her appropriate care took far longer than it should have. “We have the best doctors, we have some of the best medicines, but the care gap is just so wide,” he said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Alhanafi describes a parallel experience with his own father, who was referred to three cardiology groups after a serious carotid artery diagnosis. According to Alhanafi, only one called back within a couple of weeks. Another responded after the surgery was already done. The third still hasn’t called.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These aren’t unusual outcomes, as nearly anyone who has tried to see a specialist in recent years can attest. Specialty practices that receive referrals are frequently processing hundreds or thousands of documents — most arriving by fax — with small administrative teams. Practices lose patients not because they don’t want to see them, the company argues, but because they can’t get through the intake backlog.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Basata, founded two years ago in Phoenix, is trying to fix this. When a referral comes in — still typically by fax, alas — Basata’s system reads and processes the document, extracts the relevant clinical information, and then an AI voice agent calls the patient directly to schedule the appointment.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Patients can also call the practice at any hour and reach an AI agent that can answer questions or handle common administrative needs like prescription renewals. Alhanafi says the company has recordings of patients audibly surprised by how quickly they’re contacted after a referral is sent. The goal, he says, is for a patient to have a scheduled appointment by the time they reach their car in the parking lot after seeing their primary care doctor.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company integrates with the electronic medical record systems that specific specialties actually use, which is why it says it has moved carefully — cardiology first, then urology — rather than trying to serve every corner of the market at once. The founders say they recently turned down a large deal in a specialty they haven’t yet mapped thoroughly enough to feel confident doing well.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The revenue model is usage-based: practices pay per document processed and per call handled, rather than per seat. The company says it has processed referrals for roughly 500,000 patients to date, with about 100,000 of those coming in the last month alone.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Basata says it has raised $24.5 million in total, including a new $21 million Series A round led by Lan Xuezhao of Basis Set Ventures, who began her career modeling the human brain as a PhD researcher before moving into corporate strategy at McKinsey and Dropbox and ultimately into investing. Cowboy Ventures, founded by Aileen Lee, also participated, as has Victoria Treyger, a former general partner at Felicis Ventures who more recently stood up her own venture firm, Sofeon (this is its first investment).&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The space is getting crowded. Tennr, a New York-based startup founded in 2021, has raised over $160 million to date — including from Andreessen Horowitz, IVP, Lightspeed, and Google Ventures — and is now valued at $605 million. Tennr focuses heavily on document intelligence and has says it has built proprietary language models trained on tens of millions of medical documents. Assort Health, backed by Lightspeed, focuses on automating patient phone communication for specialty practices and last year raised at a $750 million valuation.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Lee said the founders’ years of experience are an asset in a space filling up with well-funded competitors. “There are a lot of [VCs] chasing around high school dropouts and college dropouts, but when you’re selling to medical practices, trust is a really big deal,” she said. “These doctors want to look you in the eye and know that they can count on you.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Basata’s founders meanwhile argue that their differentiation lies in combining both capabilities into a single end-to-end workflow tailored to specific specialties instead of building a tool that handles just one part of the process. That may be harder to sustain as better-funded competitors expand, but there’s clearly a market signal here.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Of course, like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren’t worried about that; they’re more worried about drowning. Indeed, Alhanafi notes that the administrative staff at specialty practices have often been in their roles for decades and know the work intimately; they’re also buried in volume that no reasonable number of hires could fully absorb.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Whether AI merely expands what these workers can do or gradually makes many of their functions unnecessary is a question that applies well beyond healthcare. For now, Basata’s pitch is the former: that freeing administrators from the most repetitive parts of the job makes them better at the rest of it. Judging by one stat shared by Alhanafi — that  70% of the company’s new deals now come through word of mouth — it seems the people closest to the problem find that argument convincing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Pictured above, left to right: Chetan Patel, who is co-founder and president of Basata; Kaled Alhanafi, the company’s CEO; and Vivin Paliath, the company’s third co-founder and CTO. &lt;/em&gt;&lt;/p&gt;
+
+
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-9.00.25-PM.png?resize=1200,711" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A lot of the conversation around AI in healthcare focuses on diagnostics and drug discovery or on doctor-patient visits. But a less visible part of the system affects whether patients actually get seen at all, and it has less to do with the number of doctors in the world (too few) and more with the administrative work (too much) that happens between a primary care doctor writing a referral and a specialist’s office getting a patient on the schedule. That gap, it turns out, is huge, stubbornly manual, and increasingly attracting serious interest from venture capitalists.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Kaled Alhanafi, a former Lyft and Cruise executive, and Chetan Patel, who spent a decade building cardiac devices at Medtronic, co-founded Basata after each experienced the problem directly.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For Patel, the issue became personal when his wife fainted on a flight with their young children. Even with his deep knowledge of cardiology and the specific devices that could help her, he says navigating the administrative process to get her appropriate care took far longer than it should have. “We have the best doctors, we have some of the best medicines, but the care gap is just so wide,” he said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Alhanafi describes a parallel experience with his own father, who was referred to three cardiology groups after a serious carotid artery diagnosis. According to Alhanafi, only one called back within a couple of weeks. Another responded after the surgery was already done. The third still hasn’t called.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These aren’t unusual outcomes, as nearly anyone who has tried to see a specialist in recent years can attest. Specialty practices that receive referrals are frequently processing hundreds or thousands of documents — most arriving by fax — with small administrative teams. Practices lose patients not because they don’t want to see them, the company argues, but because they can’t get through the intake backlog.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Basata, founded two years ago in Phoenix, is trying to fix this. When a referral comes in — still typically by fax, alas — Basata’s system reads and processes the document, extracts the relevant clinical information, and then an AI voice agent calls the patient directly to schedule the appointment.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Patients can also call the practice at any hour and reach an AI agent that can answer questions or handle common administrative needs like prescription renewals. Alhanafi says the company has recordings of patients audibly surprised by how quickly they’re contacted after a referral is sent. The goal, he says, is for a patient to have a scheduled appointment by the time they reach their car in the parking lot after seeing their primary care doctor.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company integrates with the electronic medical record systems that specific specialties actually use, which is why it says it has moved carefully — cardiology first, then urology — rather than trying to serve every corner of the market at once. The founders say they recently turned down a large deal in a specialty they haven’t yet mapped thoroughly enough to feel confident doing well.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The revenue model is usage-based: practices pay per document processed and per call handled, rather than per seat. The company says it has processed referrals for roughly 500,000 patients to date, with about 100,000 of those coming in the last month alone.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Basata says it has raised $24.5 million in total, including a new $21 million Series A round led by Lan Xuezhao of Basis Set Ventures, who began her career modeling the human brain as a PhD researcher before moving into corporate strategy at McKinsey and Dropbox and ultimately into investing. Cowboy Ventures, founded by Aileen Lee, also participated, as has Victoria Treyger, a former general partner at Felicis Ventures who more recently stood up her own venture firm, Sofeon (this is its first investment).&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The space is getting crowded. Tennr, a New York-based startup founded in 2021, has raised over $160 million to date — including from Andreessen Horowitz, IVP, Lightspeed, and Google Ventures — and is now valued at $605 million. Tennr focuses heavily on document intelligence and has says it has built proprietary language models trained on tens of millions of medical documents. Assort Health, backed by Lightspeed, focuses on automating patient phone communication for specialty practices and last year raised at a $750 million valuation.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Lee said the founders’ years of experience are an asset in a space filling up with well-funded competitors. “There are a lot of [VCs] chasing around high school dropouts and college dropouts, but when you’re selling to medical practices, trust is a really big deal,” she said. “These doctors want to look you in the eye and know that they can count on you.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Basata’s founders meanwhile argue that their differentiation lies in combining both capabilities into a single end-to-end workflow tailored to specific specialties instead of building a tool that handles just one part of the process. That may be harder to sustain as better-funded competitors expand, but there’s clearly a market signal here.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Of course, like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren’t worried about that; they’re more worried about drowning. Indeed, Alhanafi notes that the administrative staff at specialty practices have often been in their roles for decades and know the work intimately; they’re also buried in volume that no reasonable number of hires could fully absorb.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Whether AI merely expands what these workers can do or gradually makes many of their functions unnecessary is a question that applies well beyond healthcare. For now, Basata’s pitch is the former: that freeing administrators from the most repetitive parts of the job makes them better at the rest of it. Judging by one stat shared by Alhanafi — that  70% of the company’s new deals now come through word of mouth — it seems the people closest to the problem find that argument convincing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Pictured above, left to right: Chetan Patel, who is co-founder and president of Basata; Kaled Alhanafi, the company’s CEO; and Vivin Paliath, the company’s third co-founder and CTO. &lt;/em&gt;&lt;/p&gt;
+
+
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/</guid><pubDate>Fri, 08 May 2026 04:42:29 +0000</pubDate></item></channel></rss>
