@@ -1,167 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 10 May 2026 19:08:20 +0000</lastBuildDate><item><title>[NEW] We’re feeling cynical about xAI’s big deal with Anthropic (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-
-
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic and xAI announced a big partnership this week, with Anthropic buying all the compute capacity at xAI’s Colossus 1 data center in Tennessee.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed what the deal might mean for xAI’s parent company SpaceX, as SpaceX prepares to go public and apparently plans to dissolve xAI as a separate organization.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Kirsten did her best to offer “a positive view” on the partnership — after all, it’s a new way for xAI to make money. But she also noted that this also suggests xAI isn’t doing much when it comes to training its own frontier AI models, and it’s harder for the company to position itself as a “forward-looking, innovative” business when that’s the case.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Then Sean asked: “Why be positive when you can be cynical?” In his view, this seems like “a major heat check before the IPO.” Yes, becoming a neocloud might be “a more believable business in the near term,” but it’s less likely to get outside investors excited in the long term. (And then there’s the environmental lawsuit that xAI is facing over Colossus 1.)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Keep reading for a preview of our conversation, edited for length and clarity.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean O’Kane:&lt;/strong&gt; I always love a surprise, especially when everybody’s eyes [are] on another ball, a major trial that’s happening. Seemingly out of nowhere this week, SpaceX and therefore its AI subsidiary xAI — which apparently no longer exists now, or is imminently not about to exist, which we can get to — struck a deal with Anthropic.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Basically, the real version of the deal is that Anthropic’s essentially taking over all of the compute at the data center known as Colossus 1 in Memphis, Tennessee, to focus on Anthropic’s more enterprise-focused AI products. There’s been a lot of reporting about how [Anthropic’s] been looking for more compute […] and it seems like an escape valve for them to be able to strike this deal and get access to all this compute.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the near term, for xAI and for SpaceX, yes, they are a neocloud now, in the sense that they had to do something with all this compute that they were building, because it certainly seems like they were not going to need it for Grok — which, outside of X, is not burning up the world as far as becoming the new hot consumer chat bot.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten Korosec:&lt;/strong&gt; And we should say that in terms of what a neocloud is, for those who don’t know, this is the idea of buying GPUs from Nvidia and the like, and renting those out as opposed to using those for their own AI, training their own AI models.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So this is a different kind of business, and the point that our AI editor, Russell Brandom, makes is that a lot of companies are building out data centers, but if given a choice between, do they rent them out [or using them to train their own models], they are still prioritizing using this compute for their own internal AI model training. I think that’s an important point and one that suggests that maybe xAI isn’t doing so much on the AI model training [side]&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony Ha:&lt;/strong&gt; Right, and as Sean was alluding to, most people would not necessarily think of Grok as — not only that it’s known for some pretty unpleasant, if not downright illegal, content, but also it’s not necessarily super cutting edge. Especially if we start talking about enterprise AI, which I know we’re gonna be getting into later in this episode, you don’t hear a lot about people using Grok for work-critical tasks.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And so the question becomes: How can xAI actually make money? And apparently just selling the infrastructure could be one of the main ways to do it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; And you could take a positive view on that, right? They figured out a way to make money. But I think that when you are positioning your company — in this case, SpaceX-slash-xAI — as a forward-looking, innovative company, that’s tougher to sell if you are simply just renting out your GPUs and not using them for that innovation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; But why be positive when you can be cynical? Which is to say that this seems like a major heat check before the IPO that we’re about to see get rammed into the markets with SpaceX.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Anthony, you mentioned not only is Grok not being used for big enterprise tasks, there’s been reporting that xAI employees were using other models, they weren’t even using [Grok] internally, and that caused this big shakeup inside of xAI, post acquisition from SpaceX, that involved essentially all the co-founders leaving other than Elon Musk, [and] him basically saying he’s starting from scratch on xAI, despite the fact that SpaceX paid $250 billion for it in the run up to this mega-IPO.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And now he’s saying that they’re going to dissolve xAI as a separate entity inside SpaceX altogether. He’s starting to call the whole thing SpaceXAI, because this man loves nothing but to ruin a brand that has some value to it — see Twitter.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This may be a more believable business in the near term, and so on some level, I could see this being maybe more attractive to investors come IPO time, because it’s like a bit more reliable and certainly more real than them being a frontier lab developer. But it’s also not the kind of business that’s going to draw the same — at least, in a normal environment — outside investment that we’re seeing go into all the frontier labs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s maybe one of the biggest tension points we’ve seen develop during this IPO process.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;div class="jwppp-video-box" id="jwppp-video-box-31210811"&gt;
-
-
-
-
-
-
-&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-
-
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Anthropic and xAI announced a big partnership this week, with Anthropic buying all the compute capacity at xAI’s Colossus 1 data center in Tennessee.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed what the deal might mean for xAI’s parent company SpaceX, as SpaceX prepares to go public and apparently plans to dissolve xAI as a separate organization.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Kirsten did her best to offer “a positive view” on the partnership — after all, it’s a new way for xAI to make money. But she also noted that this also suggests xAI isn’t doing much when it comes to training its own frontier AI models, and it’s harder for the company to position itself as a “forward-looking, innovative” business when that’s the case.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Then Sean asked: “Why be positive when you can be cynical?” In his view, this seems like “a major heat check before the IPO.” Yes, becoming a neocloud might be “a more believable business in the near term,” but it’s less likely to get outside investors excited in the long term. (And then there’s the environmental lawsuit that xAI is facing over Colossus 1.)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Keep reading for a preview of our conversation, edited for length and clarity.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean O’Kane:&lt;/strong&gt; I always love a surprise, especially when everybody’s eyes [are] on another ball, a major trial that’s happening. Seemingly out of nowhere this week, SpaceX and therefore its AI subsidiary xAI — which apparently no longer exists now, or is imminently not about to exist, which we can get to — struck a deal with Anthropic.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Basically, the real version of the deal is that Anthropic’s essentially taking over all of the compute at the data center known as Colossus 1 in Memphis, Tennessee, to focus on Anthropic’s more enterprise-focused AI products. There’s been a lot of reporting about how [Anthropic’s] been looking for more compute […] and it seems like an escape valve for them to be able to strike this deal and get access to all this compute.&lt;/p&gt;
-&lt;div class="wp-block-techcrunch-inline-cta"&gt;
-	&lt;div class="inline-cta__wrapper"&gt;
-		
-		&lt;p&gt;Techcrunch event&lt;/p&gt;
-		&lt;div class="inline-cta__content"&gt;
-			
-			&lt;p&gt;
-									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
-													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
-													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
-							&lt;/p&gt;
-			
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the near term, for xAI and for SpaceX, yes, they are a neocloud now, in the sense that they had to do something with all this compute that they were building, because it certainly seems like they were not going to need it for Grok — which, outside of X, is not burning up the world as far as becoming the new hot consumer chat bot.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten Korosec:&lt;/strong&gt; And we should say that in terms of what a neocloud is, for those who don’t know, this is the idea of buying GPUs from Nvidia and the like, and renting those out as opposed to using those for their own AI, training their own AI models.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So this is a different kind of business, and the point that our AI editor, Russell Brandom, makes is that a lot of companies are building out data centers, but if given a choice between, do they rent them out [or using them to train their own models], they are still prioritizing using this compute for their own internal AI model training. I think that’s an important point and one that suggests that maybe xAI isn’t doing so much on the AI model training [side]&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Anthony Ha:&lt;/strong&gt; Right, and as Sean was alluding to, most people would not necessarily think of Grok as — not only that it’s known for some pretty unpleasant, if not downright illegal, content, but also it’s not necessarily super cutting edge. Especially if we start talking about enterprise AI, which I know we’re gonna be getting into later in this episode, you don’t hear a lot about people using Grok for work-critical tasks.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And so the question becomes: How can xAI actually make money? And apparently just selling the infrastructure could be one of the main ways to do it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Kirsten:&lt;/strong&gt; And you could take a positive view on that, right? They figured out a way to make money. But I think that when you are positioning your company — in this case, SpaceX-slash-xAI — as a forward-looking, innovative company, that’s tougher to sell if you are simply just renting out your GPUs and not using them for that innovation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sean:&lt;/strong&gt; But why be positive when you can be cynical? Which is to say that this seems like a major heat check before the IPO that we’re about to see get rammed into the markets with SpaceX.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Anthony, you mentioned not only is Grok not being used for big enterprise tasks, there’s been reporting that xAI employees were using other models, they weren’t even using [Grok] internally, and that caused this big shakeup inside of xAI, post acquisition from SpaceX, that involved essentially all the co-founders leaving other than Elon Musk, [and] him basically saying he’s starting from scratch on xAI, despite the fact that SpaceX paid $250 billion for it in the run up to this mega-IPO.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And now he’s saying that they’re going to dissolve xAI as a separate entity inside SpaceX altogether. He’s starting to call the whole thing SpaceXAI, because this man loves nothing but to ruin a brand that has some value to it — see Twitter.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This may be a more believable business in the near term, and so on some level, I could see this being maybe more attractive to investors come IPO time, because it’s like a bit more reliable and certainly more real than them being a frontier lab developer. But it’s also not the kind of business that’s going to draw the same — at least, in a normal environment — outside investment that we’re seeing go into all the frontier labs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That’s maybe one of the biggest tension points we’ve seen develop during this IPO process.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;div class="jwppp-video-box" id="jwppp-video-box-31210811"&gt;
-
-
-
-
-
-
-&lt;span class="jwppp-instant"&gt;&lt;/span&gt;&lt;p&gt;Loading the player…&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/</guid><pubDate>Sun, 10 May 2026 15:34:25 +0000</pubDate></item><item><title>[NEW] MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X (Hugging Face - Blog)</title><link>https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/machinacheck.png" /&gt;&lt;/div&gt;&lt;!----&gt;  &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 11 May 2026 03:47:12 +0000</lastBuildDate><item><title>MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X (Hugging Face - Blog)</title><link>https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck</link><description>&lt;!----&gt; &lt;div class="not-prose mb-6 font-sans lg:hidden"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="flex flex-wrap items-center gap-2.5 pt-1  z-1 lg:sticky lg:top-8"&gt;&lt;!--[0--&gt;&lt;!--[0--&gt;&lt;!----&gt;&lt;!----&gt;&lt;!--]--&gt; &lt;!--[-1--&gt;&lt;!--]--&gt;&lt;!----&gt;&lt;!--]--&gt; &lt;!--[0--&gt;&lt;!--[0--&gt;&lt;ul class="flex items-center text-gray-600  flex-row  text-base   "&gt;&lt;!--[--&gt;&lt;li class="  -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800 " title="lin0nil"&gt;&lt;!--[0--&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://huggingface.co/avatars/f3ee1805fadad7b4d3fc5e14fd18e781.svg" /&gt;&lt;!--]--&gt;&lt;/li&gt;&lt;!--]--&gt; &lt;!--[0--&gt;&lt;li class="text-xs hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300 order-last ml-3"&gt;&lt;!--[--&gt;&lt;!--[-1--&gt;&lt;!--]--&gt;&lt;!--]--&gt;&lt;/li&gt;&lt;!--]--&gt;&lt;/ul&gt;&lt;!--]--&gt;&lt;!--]--&gt;&lt;/div&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;dialog class="shadow-alternate z-40 mx-4 my-auto h-fit select-text overflow-hidden rounded-xl bg-white max-sm:max-w-[calc(100dvw-2rem)] sm:mx-auto lg:mt-26 md:portrait:mt-30 xl:mt-30 2xl:mt-32 w-full sm:w-96 max-w-[calc(100%-4rem)] text-base not-prose "&gt;&lt;/dialog&gt;&lt;!----&gt;&lt;!----&gt;&lt;/div&gt;&lt;/div&gt; &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
 &lt;!--]--&gt;&lt;!--]--&gt;&lt;em&gt;Built at the AMD Developer Hackathon on lablab.ai — May 2026&lt;/em&gt;
 &lt;hr /&gt;
 &lt;h2 class="relative group flex items-baseline"&gt;
@@ -365,7 +203,7 @@ llm = VLLMOpenAI(
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;Built by Syed Muhammad Sarmad and Sabari Doss R at the AMD Developer Hackathon, May 2026.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Stack: Qwen 2.5 7B · AMD Instinct MI300X · ROCm · vLLM · LangChain · cadquery · FastAPI · Next.js · Hugging Face Spaces&lt;/em&gt;&lt;/p&gt;
-&lt;!----&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/machinacheck.png" /&gt;&lt;/div&gt;&lt;!----&gt;  &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
+&lt;!----&gt;</description><content:encoded>&lt;!----&gt; &lt;div class="not-prose mb-6 font-sans lg:hidden"&gt;&lt;div class="SVELTE_HYDRATER contents"&gt;&lt;div class="flex flex-wrap items-center gap-2.5 pt-1  z-1 lg:sticky lg:top-8"&gt;&lt;!--[0--&gt;&lt;!--[0--&gt;&lt;!----&gt;&lt;!----&gt;&lt;!--]--&gt; &lt;!--[-1--&gt;&lt;!--]--&gt;&lt;!----&gt;&lt;!--]--&gt; &lt;!--[0--&gt;&lt;!--[0--&gt;&lt;ul class="flex items-center text-gray-600  flex-row  text-base   "&gt;&lt;!--[--&gt;&lt;li class="  -mr-2 h-5 w-5 md:h-6 md:w-6   bg-linear-to-br block flex-none rounded-full border-2 border-white from-gray-300 to-gray-100 dark:border-gray-900 dark:from-gray-600 dark:to-gray-800 " title="lin0nil"&gt;&lt;!--[0--&gt;&lt;img alt="alt" class="overflow-hidden rounded-full" src="https://huggingface.co/avatars/f3ee1805fadad7b4d3fc5e14fd18e781.svg" /&gt;&lt;!--]--&gt;&lt;/li&gt;&lt;!--]--&gt; &lt;!--[0--&gt;&lt;li class="text-xs hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300 order-last ml-3"&gt;&lt;!--[--&gt;&lt;!--[-1--&gt;&lt;!--]--&gt;&lt;!--]--&gt;&lt;/li&gt;&lt;!--]--&gt;&lt;/ul&gt;&lt;!--]--&gt;&lt;!--]--&gt;&lt;/div&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;dialog class="shadow-alternate z-40 mx-4 my-auto h-fit select-text overflow-hidden rounded-xl bg-white max-sm:max-w-[calc(100dvw-2rem)] sm:mx-auto lg:mt-26 md:portrait:mt-30 xl:mt-30 2xl:mt-32 w-full sm:w-96 max-w-[calc(100%-4rem)] text-base not-prose "&gt;&lt;/dialog&gt;&lt;!----&gt;&lt;!----&gt;&lt;/div&gt;&lt;/div&gt; &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
 &lt;!--]--&gt;&lt;!--]--&gt;&lt;em&gt;Built at the AMD Developer Hackathon on lablab.ai — May 2026&lt;/em&gt;
 &lt;hr /&gt;
 &lt;h2 class="relative group flex items-baseline"&gt;
@@ -569,4 +407,166 @@ llm = VLLMOpenAI(
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;Built by Syed Muhammad Sarmad and Sabari Doss R at the AMD Developer Hackathon, May 2026.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Stack: Qwen 2.5 7B · AMD Instinct MI300X · ROCm · vLLM · LangChain · cadquery · FastAPI · Next.js · Hugging Face Spaces&lt;/em&gt;&lt;/p&gt;
-&lt;!----&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck</guid><pubDate>Sun, 10 May 2026 18:44:11 +0000</pubDate></item></channel></rss>
+&lt;!----&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck</guid><pubDate>Sun, 10 May 2026 18:44:11 +0000</pubDate></item><item><title>[NEW] Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Last year, the company said that during pre-release tests involving a fictional company, Claude Opus 4 would often try to blackmail engineers to avoid being replaced by another system. Anthropic later published research suggesting that models from other companies had similar issues with “agentic misalignment.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Apparently Anthropic has done more work around that behavior, claiming in a post on X, “We believe the original source of the behavior was internet text that portrays AI as evil and interested in self-preservation.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company went into more detail in a blog post stating that since Claude Haiku 4.5, Anthropic’s models “never engage in blackmail [during testing], where previous models would sometimes do so up to 96% of the time.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;What accounts for the difference? The company said it found that training on “documents about Claude’s constitution and fictional stories about AIs behaving admirably improve alignment.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Related, Anthropic said that it found training to be more effective when it includes “the principles underlying aligned behavior” and not just “demonstrations of aligned behavior alone.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Doing both together appears to be the most effective strategy,” the company said.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Last year, the company said that during pre-release tests involving a fictional company, Claude Opus 4 would often try to blackmail engineers to avoid being replaced by another system. Anthropic later published research suggesting that models from other companies had similar issues with “agentic misalignment.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Apparently Anthropic has done more work around that behavior, claiming in a post on X, “We believe the original source of the behavior was internet text that portrays AI as evil and interested in self-preservation.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The company went into more detail in a blog post stating that since Claude Haiku 4.5, Anthropic’s models “never engage in blackmail [during testing], where previous models would sometimes do so up to 96% of the time.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;What accounts for the difference? The company said it found that training on “documents about Claude’s constitution and fictional stories about AIs behaving admirably improve alignment.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Related, Anthropic said that it found training to be more effective when it includes “the principles underlying aligned behavior” and not just “demonstrations of aligned behavior alone.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“Doing both together appears to be the most effective strategy,” the company said.&lt;/p&gt;
+&lt;div class="wp-block-techcrunch-inline-cta"&gt;
+	&lt;div class="inline-cta__wrapper"&gt;
+		
+		&lt;p&gt;Techcrunch event&lt;/p&gt;
+		&lt;div class="inline-cta__content"&gt;
+			
+			&lt;p&gt;
+									&lt;span class="inline-cta__location"&gt;San Francisco, CA&lt;/span&gt;
+													&lt;span class="inline-cta__separator"&gt;|&lt;/span&gt;
+													&lt;span class="inline-cta__date"&gt;October 13-15, 2026&lt;/span&gt;
+							&lt;/p&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/</guid><pubDate>Sun, 10 May 2026 20:40:41 +0000</pubDate></item><item><title>[NEW] Get ready for the whisper-filled office of the future (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-84164497.jpg?resize=1200,798" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;How will work setups change if we spend more and more time talking to our computers? A recent feature in the Wall Street Journal looks at the rising popularity of dictation apps like Wispr, especially now that they can be connected to vibe coding tools, and what that might mean for office etiquette.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;One VC said that visiting startup offices now feels like stepping into a high-end call center. And Gusto co-founder Edward Kim is apparently telling his team that in the future, offices will sound “more like a sales floor.” (As someone still scarred from the time his desk was briefly relocated to a sales floor, let me say: Oh no.)&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Kim claimed that he only types now when he absolutely has to. But he admitted that constantly dictating in the office can be “just a little awkward.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Similarly, AI entrepreneur Mollie Amkraut Mueller said her husband became annoyed with her new habit of whispering to her computer, so their late-night work sessions now involve sitting apart, or “one of us will stay in our office.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But Wispr founder Tanay Kothari insisted that this will all seem “normal” one day, just as it’s become normal to spend hours staring at your phone.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-84164497.jpg?resize=1200,798" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;How will work setups change if we spend more and more time talking to our computers? A recent feature in the Wall Street Journal looks at the rising popularity of dictation apps like Wispr, especially now that they can be connected to vibe coding tools, and what that might mean for office etiquette.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;One VC said that visiting startup offices now feels like stepping into a high-end call center. And Gusto co-founder Edward Kim is apparently telling his team that in the future, offices will sound “more like a sales floor.” (As someone still scarred from the time his desk was briefly relocated to a sales floor, let me say: Oh no.)&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Kim claimed that he only types now when he absolutely has to. But he admitted that constantly dictating in the office can be “just a little awkward.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Similarly, AI entrepreneur Mollie Amkraut Mueller said her husband became annoyed with her new habit of whispering to her computer, so their late-night work sessions now involve sitting apart, or “one of us will stay in our office.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;But Wispr founder Tanay Kothari insisted that this will all seem “normal” one day, just as it’s become normal to spend hours staring at your phone.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/</guid><pubDate>Sun, 10 May 2026 21:15:30 +0000</pubDate></item><item><title>[NEW] ‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/</link><description>&lt;p&gt;&lt;span&gt;“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“No generation has entered the world with more powerful tools — or greater opportunities — than you,” said Huang, addressing the assembled thousands on a rainy morning at Gesling Stadium on the university’s main campus in Pittsburgh, Pennsylvania. “We are all standing at the same starting line. This is your moment to help shape what comes next.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;After encouraging graduates to turn to their mothers and wish them a happy Mother’s Day, Huang drew a direct parallel between starting his career at the beginning of the PC revolution and graduates starting theirs at the beginning of the AI revolution, emphasizing that every major computing platform shift — PCs, the internet, mobile and cloud — had led to this shared moment.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“But what is about to happen now is bigger than anything before,” he said. “Because intelligence is foundational to every industry, every industry will change.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;As a result, no graduating class is better primed than the present one to press the advantage.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“For the first time, the power of computing and intelligence can truly reach everyone and close the technology divide,” Huang said.&lt;/span&gt; &lt;span&gt;“Now it’s your time to realize your dreams — and the timing could not be more perfect.”&lt;/span&gt;&lt;/p&gt;
+&lt;figure class="wp-caption alignnone" id="attachment_92901"&gt;&lt;img alt="alt" class="size-medium wp-image-92901" height="593" src="https://blogs.nvidia.com/wp-content/uploads/2026/05/26-cmu-commencement-20-JMM_-5-960x593.jpg" width="960" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-92901"&gt;Jensen Huang, CEO of NVIDIA, dressed in academic regalia, waves to a crowd of graduates during an outdoor commencement ceremony. Students in black caps and gowns are seated in the foreground, many smiling and taking photos with their smartphones as he passes by.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2&gt;&lt;b&gt;AI Gives America the Opportunity to Build Again&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;Huang described AI as driving the largest technology infrastructure buildout in human history, and a “once-in-a-generation opportunity to reindustrialize America and restore the nation’s capacity to build.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The American dream of opportunity — and promise of reinvention — underpins the AI revolution and its far-reaching impacts on American industry and society.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Huang underscored that AI is making intelligence more broadly accessible — reaffirming the imperative for AI to reach everyone, not just a select few. Its opportunity extends across many industries and jobs including electricians, plumbers, ironworkers, technicians and all kinds of builders.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“This is your time,” Huang said. “AI is not just creating a new computing industry. It is creating a new industrial era.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Massive industrial and economic shifts always bring with them uncertainty, the AI revolution is no different.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“Every major technological revolution in history created fear alongside opportunity,” Huang said. “When society engages technology openly, responsibly and optimistically, we expand human potential far more than we diminish it.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Huang explained that AI automates tasks but elevates workers. The task and purpose of a job are not the same. Radiologists, for example, don’t just read scans — they care for patients. AI automates scan reading (the task) but elevates the radiologist: the purpose. The way forward for this generation, indeed for everyone, is to engage deeply with AI, he said.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="alignnone size-medium wp-image-92904" height="540" src="https://blogs.nvidia.com/wp-content/uploads/2026/05/CMU-Jensen-commencement-pullquote-960x540.jpg" width="960" /&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Advancing AI Responsibly&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;Huang emphasized that such a massive effort requires a “clear-eyed” approach if AI’s “great promise” is to be realized while addressing “real risks.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“The responsibility of our generation is not only to advance AI — but to advance it wisely,” he said, striking a chord with the commencement crowd, who cheered and applauded his next remark that “scientists and engineers have a profound responsibility to advance AI capabilities and AI safety together.”&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;And Huang didn’t leave out non-technical groups.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“Policymakers have a responsibility to create thoughtful guardrails that protect society while still allowing innovation, discovery and progress to move forward,” he said.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To meet the moment of the AI revolution, Huang counseled doing four things at once: “Advance safely. Create thoughtful policies. Make AI broadly accessible. And encourage everyone to engage.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“History shows that societies that retreat from technology do not stop progress — they only surrender the opportunity to shape it and to benefit from it,” he said. “So, the answer is not to fear the future. The answer is to guide it wisely, build it responsibly and ensure that its benefits reach as many people as possible.”&lt;/span&gt;&lt;/p&gt;
+&lt;figure class="wp-caption alignnone" id="attachment_92907"&gt;&lt;img alt="alt" class="wp-image-92907 size-medium" height="640" src="https://blogs.nvidia.com/wp-content/uploads/2026/05/26-cmu-meet-and-greet-KL137-960x640.jpg" width="960" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-92907"&gt;NVIDIA founder and CEO Jensen Huang meets with Carnegie Mellon students ahead of the university’s 2026 commencement ceremony.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2&gt;&lt;b&gt;Carnegie Mellon’s Role in Enabling the AI Era&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;Looking at the graduation class and their loved ones, Huang saw a part of himself and his own path in the United States.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“Like many in this audience, I am a first-generation immigrant,” Huang said, describing his view of America growing up as “not easy, but full of opportunities. Not a guarantee, but a chance.”&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“My parents came here because they believed America could give their children a chance,” Huang said. “How can we not be romantic about America?”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;And in addressing the graduates and the nation’s future, Huang also acknowledged the past — namely Carnegie Mellon University’s role as “one of the true birthplaces of artificial intelligence and robotics.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“AI started right here at Carnegie Mellon,” said Huang, invoking a string of watershed moments, from CMU researchers’ creation of the Logic Theorist in the 1950s — widely considered the first AI computer program — to the foundation of the Robotics Institute, the first academic institute devoted entirely to robotics, in 1979.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Huang also received an Honorary Doctor of Science and Technology, one of the university’s highest distinctions, from CMU President Farnam Jahanian.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Ahead of the commencement ceremony, Huang visited Carnegie Mellon’s Robotics Institute, where he met with students — including members of the robotics club — to learn about their work and how it addresses real-world challenges.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“Carnegie Mellon has a motto I love: ‘My heart is in the work.’ So put your heart in the work,” Huang said to conclude his address. “Build something worthy of your education, your potential and the people who believed in you long before the world did.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Watch the full address below:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;[embedded content]&lt;/p&gt;</description><content:encoded>&lt;p&gt;&lt;span&gt;“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“No generation has entered the world with more powerful tools — or greater opportunities — than you,” said Huang, addressing the assembled thousands on a rainy morning at Gesling Stadium on the university’s main campus in Pittsburgh, Pennsylvania. “We are all standing at the same starting line. This is your moment to help shape what comes next.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;After encouraging graduates to turn to their mothers and wish them a happy Mother’s Day, Huang drew a direct parallel between starting his career at the beginning of the PC revolution and graduates starting theirs at the beginning of the AI revolution, emphasizing that every major computing platform shift — PCs, the internet, mobile and cloud — had led to this shared moment.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“But what is about to happen now is bigger than anything before,” he said. “Because intelligence is foundational to every industry, every industry will change.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;As a result, no graduating class is better primed than the present one to press the advantage.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“For the first time, the power of computing and intelligence can truly reach everyone and close the technology divide,” Huang said.&lt;/span&gt; &lt;span&gt;“Now it’s your time to realize your dreams — and the timing could not be more perfect.”&lt;/span&gt;&lt;/p&gt;
+&lt;figure class="wp-caption alignnone" id="attachment_92901"&gt;&lt;img alt="alt" class="size-medium wp-image-92901" height="593" src="https://blogs.nvidia.com/wp-content/uploads/2026/05/26-cmu-commencement-20-JMM_-5-960x593.jpg" width="960" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-92901"&gt;Jensen Huang, CEO of NVIDIA, dressed in academic regalia, waves to a crowd of graduates during an outdoor commencement ceremony. Students in black caps and gowns are seated in the foreground, many smiling and taking photos with their smartphones as he passes by.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2&gt;&lt;b&gt;AI Gives America the Opportunity to Build Again&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;Huang described AI as driving the largest technology infrastructure buildout in human history, and a “once-in-a-generation opportunity to reindustrialize America and restore the nation’s capacity to build.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The American dream of opportunity — and promise of reinvention — underpins the AI revolution and its far-reaching impacts on American industry and society.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Huang underscored that AI is making intelligence more broadly accessible — reaffirming the imperative for AI to reach everyone, not just a select few. Its opportunity extends across many industries and jobs including electricians, plumbers, ironworkers, technicians and all kinds of builders.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“This is your time,” Huang said. “AI is not just creating a new computing industry. It is creating a new industrial era.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Massive industrial and economic shifts always bring with them uncertainty, the AI revolution is no different.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“Every major technological revolution in history created fear alongside opportunity,” Huang said. “When society engages technology openly, responsibly and optimistically, we expand human potential far more than we diminish it.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Huang explained that AI automates tasks but elevates workers. The task and purpose of a job are not the same. Radiologists, for example, don’t just read scans — they care for patients. AI automates scan reading (the task) but elevates the radiologist: the purpose. The way forward for this generation, indeed for everyone, is to engage deeply with AI, he said.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt" class="alignnone size-medium wp-image-92904" height="540" src="https://blogs.nvidia.com/wp-content/uploads/2026/05/CMU-Jensen-commencement-pullquote-960x540.jpg" width="960" /&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Advancing AI Responsibly&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;Huang emphasized that such a massive effort requires a “clear-eyed” approach if AI’s “great promise” is to be realized while addressing “real risks.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“The responsibility of our generation is not only to advance AI — but to advance it wisely,” he said, striking a chord with the commencement crowd, who cheered and applauded his next remark that “scientists and engineers have a profound responsibility to advance AI capabilities and AI safety together.”&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;And Huang didn’t leave out non-technical groups.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“Policymakers have a responsibility to create thoughtful guardrails that protect society while still allowing innovation, discovery and progress to move forward,” he said.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To meet the moment of the AI revolution, Huang counseled doing four things at once: “Advance safely. Create thoughtful policies. Make AI broadly accessible. And encourage everyone to engage.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“History shows that societies that retreat from technology do not stop progress — they only surrender the opportunity to shape it and to benefit from it,” he said. “So, the answer is not to fear the future. The answer is to guide it wisely, build it responsibly and ensure that its benefits reach as many people as possible.”&lt;/span&gt;&lt;/p&gt;
+&lt;figure class="wp-caption alignnone" id="attachment_92907"&gt;&lt;img alt="alt" class="wp-image-92907 size-medium" height="640" src="https://blogs.nvidia.com/wp-content/uploads/2026/05/26-cmu-meet-and-greet-KL137-960x640.jpg" width="960" /&gt;&lt;figcaption class="wp-caption-text" id="caption-attachment-92907"&gt;NVIDIA founder and CEO Jensen Huang meets with Carnegie Mellon students ahead of the university’s 2026 commencement ceremony.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2&gt;&lt;b&gt;Carnegie Mellon’s Role in Enabling the AI Era&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;Looking at the graduation class and their loved ones, Huang saw a part of himself and his own path in the United States.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“Like many in this audience, I am a first-generation immigrant,” Huang said, describing his view of America growing up as “not easy, but full of opportunities. Not a guarantee, but a chance.”&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“My parents came here because they believed America could give their children a chance,” Huang said. “How can we not be romantic about America?”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;And in addressing the graduates and the nation’s future, Huang also acknowledged the past — namely Carnegie Mellon University’s role as “one of the true birthplaces of artificial intelligence and robotics.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“AI started right here at Carnegie Mellon,” said Huang, invoking a string of watershed moments, from CMU researchers’ creation of the Logic Theorist in the 1950s — widely considered the first AI computer program — to the foundation of the Robotics Institute, the first academic institute devoted entirely to robotics, in 1979.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Huang also received an Honorary Doctor of Science and Technology, one of the university’s highest distinctions, from CMU President Farnam Jahanian.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Ahead of the commencement ceremony, Huang visited Carnegie Mellon’s Robotics Institute, where he met with students — including members of the robotics club — to learn about their work and how it addresses real-world challenges.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“Carnegie Mellon has a motto I love: ‘My heart is in the work.’ So put your heart in the work,” Huang said to conclude his address. “Build something worthy of your education, your potential and the people who believed in you long before the world did.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Watch the full address below:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;[embedded content]&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/</guid><pubDate>Sun, 10 May 2026 22:00:50 +0000</pubDate></item></channel></rss>
