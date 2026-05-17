@@ -1,377 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 16 May 2026 19:08:17 +0000</lastBuildDate><item><title>The US is betting on AI to catch insider trading in prediction markets (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        The Commodity Futures Trading Commission wants us to know it’s taking this very seriously.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="Roulette wheel." class="absolute inset-0 w-full h-full object-cover hidden" height="225" src="https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-300x225.jpg" width="300" /&gt;
-                  &lt;img alt="Roulette wheel." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Yuki Shimazu / Flickr
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;For most of the past year, it looked like prediction markets had kicked off a new golden age of fraud. On Polymarket, traders raked in fortunes from suspiciously timed bets on geopolitical events like the raid on Venezuela and the Iran War. It wasn’t clear whether the US government would bother pursuing some of the most flagrant bad actors, since Polymarket’s crypto-based platform was technically offshore and not regulated or licensed within the country.&lt;/p&gt;
-&lt;p&gt;Now, however, the Commodity Futures Trading Commission, which oversees prediction markets, wants you to know that it’s watching very, very closely. The agency is searching for suspicious behavior from traders within the United States who have been sneaking onto offshore markets, including Polymarket’s crypto platform—which is blocked stateside—by using virtual private networks. “We’re going to find them, and we’re going to bring actions,” agency chairman Michael Selig told WIRED this week, speaking from the CFTC’s headquarters in Washington, DC.&lt;/p&gt;
-&lt;p&gt;Selig says the agency, which is especially lean right now, is staffing up. Like so many other AI-pilled workplaces, the CFTC is also leaning into automation to handle the growing workload, including tools that analyze trading patterns and flag potential manipulation. “You’ve got so much data,” Selig says. “When we feed it into AI, we get really great information. It can help us understand things, like where we might want to investigate, or when we might need to send a subpoena to a trader.”&lt;/p&gt;
-&lt;p&gt;In addition to proprietary surveillance systems developed in-house, the agency’s arsenal includes third-party blockchain tracing tools like Chainalysis for crypto platforms, and market abuse detection software including Nasdaq Smarts for centralized markets. (Beyond Nasdaq Smarts, the agency did not specify which AI tools it uses and declined to share more specific examples.)&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Prominent prediction market companies have recently started touting all the work they’re doing to catch sketchy bettors. US-based exchange Kalshi, Polymarket’s primary competitor, eagerly announced that it has suspended and penalized customers flagged for insider trading and market manipulation.&lt;/p&gt;
-&lt;p&gt;In April, after significant backlash over suspected insider trading, Polymarket announced its own partnership with Chainalysis. It was part of a broader push to crack down on market manipulation. While the company’s CEO, Shayne Coplan, had talked in the past about why insider trading could be good for prediction markets, Polymarket changed its approach this spring, updating its market integrity rules and announcing a partnership with Palantir for its US-based sports markets (the Chainalysis deal focuses on the offshore platform). The company did not respond to WIRED’s request for comments for this story.&lt;/p&gt;
-&lt;p&gt;According to Chainalysis spokesperson Maddie Kenney, the company analyzes the same data for both clients. “The value Chainalysis adds for our customers, including Polymarket and the CFTC, is organizing the data and enriching it with the attributions and insights we’ve accumulated over years in the space,” she says. Certainly sounds like a good deal for Chainalysis!&lt;/p&gt;
-&lt;p&gt;The CFTC’s assurances that it is hunting insiders comes at a moment of intense scrutiny on prediction markets. In March, Connecticut senator Chris Murphy toldWIRED that he suspected White House staffers were engaged in insider trading on war-related contracts. At the beginning of April, seven members of Congress asked the CFTC to investigate overseas markets offering war-themed events contracts. In a letter, the lawmakers argued that the commission had the authority and responsibility to curb insider trading, especially on “morally obscene” trades on military action. Selig recently told Congress that the company is pursuing “hundreds, if not thousands” of insider trading tips.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Investigations are not limited to federally regulated exchanges. “We’re surveilling the markets on a global basis,” he tells WIRED.&lt;/p&gt;
-&lt;p&gt;Selig says that the agency will exert extraterritorial jurisdiction—its legal ability to enforce its laws beyond traditional boundaries—when it finds suspicious activity on offshore platforms like Polymarket, though he says it’s a case-by-case approach. “We use it in extreme circumstances,” he says, with an eye towards whether charges have a strong chance of sticking in court. “In any extraterritorial litigation, there’s going to be challenges to our authority, and that could also impair our ability to bring cases in the future.” According to Selig, the 2010 Dodd-Frank Act allows the CFTC more leeway to pursue this kind of enforcement action, by giving it more authority over foreign swap activities that impact the US. When appropriate, the agency works with regulators from other countries, too. “For cases where we’re not sure we’ll win, or it’s less in our wheelhouse and more of a foreign matter, we would relay it to a foreign regulator,” he says. “We’re constantly referring cases.” (The agency declined to specify which cases it had referred.)&lt;/p&gt;
-&lt;p&gt;So far, exactly one man has been charged with insider trading in the United States. On April 23, federal agents arrested a US Army special forces soldier for trades he made on Polymarket last year tied to the capture of former Venezuelan leader Nicolas Maduro. After the arrest, Polymarket claimed that it had flagged the trade to the government.&lt;/p&gt;
-&lt;p&gt;Selig is insistent that the CFTC is only just getting started. The agency will identify wrongdoers, he says—no matter “how large or how small.”&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This story originally appeared on wired.com.&lt;/em&gt;&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        The Commodity Futures Trading Commission wants us to know it’s taking this very seriously.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="Roulette wheel." class="absolute inset-0 w-full h-full object-cover hidden" height="225" src="https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-300x225.jpg" width="300" /&gt;
-                  &lt;img alt="Roulette wheel." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          Yuki Shimazu / Flickr
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;For most of the past year, it looked like prediction markets had kicked off a new golden age of fraud. On Polymarket, traders raked in fortunes from suspiciously timed bets on geopolitical events like the raid on Venezuela and the Iran War. It wasn’t clear whether the US government would bother pursuing some of the most flagrant bad actors, since Polymarket’s crypto-based platform was technically offshore and not regulated or licensed within the country.&lt;/p&gt;
-&lt;p&gt;Now, however, the Commodity Futures Trading Commission, which oversees prediction markets, wants you to know that it’s watching very, very closely. The agency is searching for suspicious behavior from traders within the United States who have been sneaking onto offshore markets, including Polymarket’s crypto platform—which is blocked stateside—by using virtual private networks. “We’re going to find them, and we’re going to bring actions,” agency chairman Michael Selig told WIRED this week, speaking from the CFTC’s headquarters in Washington, DC.&lt;/p&gt;
-&lt;p&gt;Selig says the agency, which is especially lean right now, is staffing up. Like so many other AI-pilled workplaces, the CFTC is also leaning into automation to handle the growing workload, including tools that analyze trading patterns and flag potential manipulation. “You’ve got so much data,” Selig says. “When we feed it into AI, we get really great information. It can help us understand things, like where we might want to investigate, or when we might need to send a subpoena to a trader.”&lt;/p&gt;
-&lt;p&gt;In addition to proprietary surveillance systems developed in-house, the agency’s arsenal includes third-party blockchain tracing tools like Chainalysis for crypto platforms, and market abuse detection software including Nasdaq Smarts for centralized markets. (Beyond Nasdaq Smarts, the agency did not specify which AI tools it uses and declined to share more specific examples.)&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Prominent prediction market companies have recently started touting all the work they’re doing to catch sketchy bettors. US-based exchange Kalshi, Polymarket’s primary competitor, eagerly announced that it has suspended and penalized customers flagged for insider trading and market manipulation.&lt;/p&gt;
-&lt;p&gt;In April, after significant backlash over suspected insider trading, Polymarket announced its own partnership with Chainalysis. It was part of a broader push to crack down on market manipulation. While the company’s CEO, Shayne Coplan, had talked in the past about why insider trading could be good for prediction markets, Polymarket changed its approach this spring, updating its market integrity rules and announcing a partnership with Palantir for its US-based sports markets (the Chainalysis deal focuses on the offshore platform). The company did not respond to WIRED’s request for comments for this story.&lt;/p&gt;
-&lt;p&gt;According to Chainalysis spokesperson Maddie Kenney, the company analyzes the same data for both clients. “The value Chainalysis adds for our customers, including Polymarket and the CFTC, is organizing the data and enriching it with the attributions and insights we’ve accumulated over years in the space,” she says. Certainly sounds like a good deal for Chainalysis!&lt;/p&gt;
-&lt;p&gt;The CFTC’s assurances that it is hunting insiders comes at a moment of intense scrutiny on prediction markets. In March, Connecticut senator Chris Murphy toldWIRED that he suspected White House staffers were engaged in insider trading on war-related contracts. At the beginning of April, seven members of Congress asked the CFTC to investigate overseas markets offering war-themed events contracts. In a letter, the lawmakers argued that the commission had the authority and responsibility to curb insider trading, especially on “morally obscene” trades on military action. Selig recently told Congress that the company is pursuing “hundreds, if not thousands” of insider trading tips.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Investigations are not limited to federally regulated exchanges. “We’re surveilling the markets on a global basis,” he tells WIRED.&lt;/p&gt;
-&lt;p&gt;Selig says that the agency will exert extraterritorial jurisdiction—its legal ability to enforce its laws beyond traditional boundaries—when it finds suspicious activity on offshore platforms like Polymarket, though he says it’s a case-by-case approach. “We use it in extreme circumstances,” he says, with an eye towards whether charges have a strong chance of sticking in court. “In any extraterritorial litigation, there’s going to be challenges to our authority, and that could also impair our ability to bring cases in the future.” According to Selig, the 2010 Dodd-Frank Act allows the CFTC more leeway to pursue this kind of enforcement action, by giving it more authority over foreign swap activities that impact the US. When appropriate, the agency works with regulators from other countries, too. “For cases where we’re not sure we’ll win, or it’s less in our wheelhouse and more of a foreign matter, we would relay it to a foreign regulator,” he says. “We’re constantly referring cases.” (The agency declined to specify which cases it had referred.)&lt;/p&gt;
-&lt;p&gt;So far, exactly one man has been charged with insider trading in the United States. On April 23, federal agents arrested a US Army special forces soldier for trades he made on Polymarket last year tied to the capture of former Venezuelan leader Nicolas Maduro. After the arrest, Polymarket claimed that it had flagged the trade to the government.&lt;/p&gt;
-&lt;p&gt;Selig is insistent that the CFTC is only just getting started. The agency will identify wrongdoers, he says—no matter “how large or how small.”&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This story originally appeared on wired.com.&lt;/em&gt;&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/</guid><pubDate>Sat, 16 May 2026 11:00:01 +0000</pubDate></item><item><title>[NEW] OpenAI co-founder Greg Brockman takes charge of product strategy (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI co-founder and president Greg Brockman is officially taking the reins of the company’s product strategy, according to Wired.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This seems to solidify an already-existing change, with Brockman overseeing OpenAI’s products on an interim basis while the company’s CEO of AGI deployment Fidji Simo is out on medical leave. Wired also reports that in a staff memo, Brockman described plans to combine ChatGPT and its programming product Codex into a single unified experience.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“We’re consolidating our product efforts to execute with maximum focus toward the agentic future, to win across both consumer and enterprise,” Brockman reportedly said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI told TechCrunch that although Simo remains on medical leave she worked with Brockman on these changes. It also noted that OpenAI has already been talking about plans to combine ChatGPT, Codex, and its API into a single platform, with one core product team.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At the end of last year, CEO Sam Altman declared a “code red” and said the company needs to refocus on the core ChatGPT experience. Since then, OpenAI has halted “side quests” including video generator Sora and OpenAI for Science.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This post has been updated with additional information from OpenAI.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI co-founder and president Greg Brockman is officially taking the reins of the company’s product strategy, according to Wired.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This seems to solidify an already-existing change, with Brockman overseeing OpenAI’s products on an interim basis while the company’s CEO of AGI deployment Fidji Simo is out on medical leave. Wired also reports that in a staff memo, Brockman described plans to combine ChatGPT and its programming product Codex into a single unified experience.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“We’re consolidating our product efforts to execute with maximum focus toward the agentic future, to win across both consumer and enterprise,” Brockman reportedly said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI told TechCrunch that although Simo remains on medical leave she worked with Brockman on these changes. It also noted that OpenAI has already been talking about plans to combine ChatGPT, Codex, and its API into a single platform, with one core product team.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At the end of last year, CEO Sam Altman declared a “code red” and said the company needs to refocus on the core ChatGPT experience. Since then, OpenAI has halted “side quests” including video generator Sora and OpenAI for Science.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;This post has been updated with additional information from OpenAI.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/</guid><pubDate>Sat, 16 May 2026 15:33:33 +0000</pubDate></item><item><title>[NEW] Research repository ArXiv will ban authors for a year if they let AI do all the work (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 17 May 2026 03:41:25 +0000</lastBuildDate><item><title>Research repository ArXiv will ban authors for a year if they let AI do all the work (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;ArXiv, a widely used open repository for preprint research, is doing more to crack down on the careless use of large language models in scientific papers.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Although papers are posted to the site before they are peer-reviewed, arXiv (pronounced “archive”) has become one of the main ways that research circulates in fields like computer science and math, and the site itself has become a source of data on trends in scientific research.&amp;nbsp;&lt;/p&gt;
@@ -417,4 +45,44 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;Recent peer-reviewed research has found that fabricated citations are on the rise in biomedical research, likely due to LLMs — though to be fair, scientists aren’t the only ones getting caught using citations that were made up by AI.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</guid><pubDate>Sat, 16 May 2026 18:54:28 +0000</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</guid><pubDate>Sat, 16 May 2026 18:54:28 +0000</pubDate></item><item><title>[NEW] The haves and have nots of the AI gold rush (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The vibes around the current AI boom aren’t great, even in the tech industry, according to a lengthy social media post from Menlo Ventures partner Deedy Das.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Das described San Francisco as “pretty frenetic right now,” as “the divide in outcomes is the worst I’ve ever seen.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Using a “back of the envelope AI calculation,” he projected that there are around 10,000 people&amp;nbsp;— founders and employees at companies like OpenAI, Anthropic, and Nvidia — that have “hit retirement wealth of well above $20M,” while everyone else worries “they can work their well-paying (but &amp;lt;$500k) job for their whole life and never get there.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Plus, “layoffs are in full swing,” and “many software engineers feel that their life’s skill is no longer useful,” leading to confusion about the best career paths and “a deep malaise about work (and its future),” Das said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This prompted some eye-rolling on X, with entrepreneur Deva Hazarika arguing that “most of the people in this post” are “incredibly fortunate and can simply make a choice to be happy.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Another user suggested it’s “pretty damn novel &amp;amp; also kinda nasty” that in the current cycle, “the same technology is both the lottery ticket &amp;amp; the thing eating your fallback.”&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;The vibes in SF feel pretty frenetic right now. The divide in outcomes is the worst I've ever seen.&lt;/p&gt;&lt;p&gt;Over the last 5yrs, a group of ~10k people – employees at Anthropic, OpenAI, xAI, Nvidia, Meta TBD, founders – have hit retirement wealth of well above $20M (back of the envelope…&lt;/p&gt;— Deedy (@deedydas) May 16, 2026&lt;/blockquote&gt;
+&lt;/div&gt;&lt;/figure&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;The vibes around the current AI boom aren’t great, even in the tech industry, according to a lengthy social media post from Menlo Ventures partner Deedy Das.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Das described San Francisco as “pretty frenetic right now,” as “the divide in outcomes is the worst I’ve ever seen.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Using a “back of the envelope AI calculation,” he projected that there are around 10,000 people&amp;nbsp;— founders and employees at companies like OpenAI, Anthropic, and Nvidia — that have “hit retirement wealth of well above $20M,” while everyone else worries “they can work their well-paying (but &amp;lt;$500k) job for their whole life and never get there.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Plus, “layoffs are in full swing,” and “many software engineers feel that their life’s skill is no longer useful,” leading to confusion about the best career paths and “a deep malaise about work (and its future),” Das said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This prompted some eye-rolling on X, with entrepreneur Deva Hazarika arguing that “most of the people in this post” are “incredibly fortunate and can simply make a choice to be happy.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Another user suggested it’s “pretty damn novel &amp;amp; also kinda nasty” that in the current cycle, “the same technology is both the lottery ticket &amp;amp; the thing eating your fallback.”&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;The vibes in SF feel pretty frenetic right now. The divide in outcomes is the worst I've ever seen.&lt;/p&gt;&lt;p&gt;Over the last 5yrs, a group of ~10k people – employees at Anthropic, OpenAI, xAI, Nvidia, Meta TBD, founders – have hit retirement wealth of well above $20M (back of the envelope…&lt;/p&gt;— Deedy (@deedydas) May 16, 2026&lt;/blockquote&gt;
+&lt;/div&gt;&lt;/figure&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/</guid><pubDate>Sat, 16 May 2026 20:17:16 +0000</pubDate></item></channel></rss>
