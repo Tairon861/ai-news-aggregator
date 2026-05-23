@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 23 May 2026 08:22:43 +0000</lastBuildDate><item><title>How VCs and founders use inflated ‘ARR’ to crown AI startups (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/Pinocchio-ARR-nose2.png?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last month, Scott Stevenson, co-founder and CEO of the legal AI startup Spellbook, took to X in an effort to expose what he called a “huge scam” among AI startups: inflation of the revenue figures that they announce publicly.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 23 May 2026 13:40:47 +0000</lastBuildDate><item><title>[NEW] Elon Musk has given up on solar power (on Earth) (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Has Elon Musk given up on Tesla’s Master Plans, on the electrified economy, on solar power as we know it? From the SpaceX IPO filing released this week, it sure seems like it.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“The reason many AI startups are crushing revenue records is because they are using a dishonest metric. The biggest funds in the world are supporting this and misleading journalists for PR coverage,” he wrote in his tweet.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;A recap for those not enmeshed in the Musk-verse: Tesla has released four Master Plans over the years, and while details have varied, the through line has been electrification of the economy. Musk put it best in his first edition: “the overarching purpose of Tesla motors…is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy.”&lt;/p&gt;
 
 
 
@@ -10,481 +10,75 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Stevenson isn’t the first to claim that annual recurring revenue (ARR) — a metric historically used to sum up annual revenue of active customers under contract — is being manipulated by some AI companies beyond recognition. Certain aspects of ARR shenanigans have been the subject of multiple other news reports and social media posts.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;But recently, one of Musk’s companies, xAI, has embraced the mine-and-burn hydrocarbon economy, using dozens of unregulated natural gas turbines to power its data centers with plans to buy $2.8 billion more, effectively cementing the fossil fuel’s role in the company’s AI operations.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;However, Stevenson’s tweet seemed to have struck a particular nerve within the AI startup community, drawing over 200 reshares and comments from high-profile investors, many founders, and a few headlines.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;It’s a curious turn for a businessman who built his empire on clean energy —&amp;nbsp;and who has no qualms directing his companies to buy from one another. SpaceX spent $131 million on 1,279 Cybertrucks, and xAI has spent $697 million in the last two years on Tesla Megapacks, it’s grid-scale battery storage systems that the company will use to manage peak loads. But so far, xAI hasn’t bought a materially significant number of solar panels from Tesla.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Scott at Spellbook did a great job of highlighting some of what you might describe as bad behavior on the part of some companies,” Jack Newton, co-founder and CEO of legal startup Clio, told TechCrunch, adding that the post brought much-needed awareness to the topic, referring to an explanatory post from YC’s Garry Tan about proper revenue metrics.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Solar power isn’t missing in the SpaceX filing, it’s just all concentrated on space, which the company touts as the future of data center power. Terrestrial solar garners a few mentions — not as a power source for xAI data centers but instead to show how much better SpaceX thinks space-based solar will be.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;TechCrunch spoke with over a dozen founders, investors, and startup finance professionals to assess whether the ARR inflation is as pervasive as Stevenson suggests.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;It’s no secret that Musk and other Silicon Valley executives have become obsessed with space-based solar power. SpaceX says that space-based solar arrays can generate “more than five-times the energy” of terrestrial ones thanks to 24/7 illumination. As AI data centers have run into opposition here on Earth, CEOs like Musk have started mulling big server racks in space powered by that 24/7 sunshine. Hammer, meet nail.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Indeed, our sources, many of whom spoke on the condition of anonymity, confirmed that fudged ARR in public declarations is a common occurrence among startups, and how, in many cases, investors are aware of the exaggerations.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Even if SpaceX is able to bring down the cost of boosting a data center into orbit, the economics are challenging at best. Power prices for Starlink satellites are multiples higher than what a terrestrial data center typically spends, and protecting chips from the rigors of space won’t be easy or cheap. It’s also not clear whether AI training can be distributed across multiple satellites, leaving a significant chunk of AI work earthbound. It’s not just one problem that SpaceX needs to solve, but many.&lt;/p&gt;
 
 
-&lt;h2 class="wp-block-heading" id="h-not-really-revenue-yet-nbsp"&gt;Not really revenue, yet&amp;nbsp;&lt;/h2&gt;
+&lt;p class="wp-block-paragraph"&gt;It’s likely that Musk considers xAI’s current data centers as stopgaps, that once SpaceX is able to loft gigawatts worth of servers into orbit —&amp;nbsp;probably just a few years away, in his mind — he’ll scrap what’s here on the ground, natural gas turbines included and not have to think about NIMBYs anymore. The risk, of course, is that he’s wrong.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The main obfuscation tactic is substituting “contracted ARR,” sometimes referred to as “committed ARR” (CARR), and simply calling it ARR.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;It’s not just NIMBYs that Musk is worried about, though. He’s clearly concerned that computing demands from AI will quickly outstrip what we can provide here on Earth. Sprinkled throughout the SEC filing are references to “terawatt-scale annual AI compute growth,” which will require power to match. That’s a stunning figure when you consider that all the world’s data centers use around 40 gigawatts today.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“For sure they are reporting CARR” as ARR, one investor said. “When one startup does it in a category, it is hard not to do it yourself just to keep up.”&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;This is Musk’s “first principles” thinking in action. At some point, he assumed the world will need an additional terawatt worth of compute every year, and he worked back from there. “We believe that third-party estimates on data center demand are constrained by the practical supply limitations that exist in a terrestrial context and the power shortage may be far greater than what research estimates suggest,” the company argues.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;ARR is a metric established and trusted since the cloud era to indicate total sales of products where usage, and therefore payments, is metered out over time. Accountants don’t formally audit or sign off on ARR primarily because generally accepted accounting principles (GAAP) focus on historical, already-collected revenue, rather than future revenue.&amp;nbsp;&lt;/p&gt;
 
 
 
 
 
 
+&lt;p class="wp-block-paragraph"&gt;Possible? Sure, I suppose. But consider that humanity today uses about 35,000 terawatt-hours of energy annually, or about 4 terawatts on a continuous basis. Energy demand has risen lately, and for AI, it probably is in an phase of exponential growth, which could either continue or level off. We have no way of knowing at this point, but if there’s one thing Musk is good at, it’s spotting a trend at its inflection point and extrapolating wildly.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;ARR was intended to show the total value of signed-and-sealed sales, typically multiyear contracts. (Today, this concept tends to go by another name: remaining performance obligations.) Meanwhile, the term “revenue” is typically reserved for money already collected.&amp;nbsp;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Here’s where Musk’s problems settle back down to Earth. I’m no rocket scientist, but I suspect that shipping solar panels on a flatbed truck uses less energy than sending them into orbit. Plus, space-ready solar panels will need to be manufactured at unprecedented scale. Not insurmountable problems, but also maybe a distraction. We’ve barely scratched solar’s potential here on Earth, for example.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;CARR is supposed to be another way to track growth. But it’s a much squishier metric than ARR because it counts revenue from signed customers that aren’t onboarded yet.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The perfect doesn’t have to be the enemy of the good. There’s plenty of room to improve things here on Earth even while we chase after our dreams in the stars.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;One VC told TechCrunch that he has seen companies where CARR is 70% higher than ARR, even though a significant chunk of that contracted revenue will never actually materialize.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Just three years ago, Musk and his colleagues at Tesla released the “Master Plan Part 3,” which thoughtfully outlined a “plan to eliminate fossil fuels.” A good starting point might be xAI’s data centers.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Has Elon Musk given up on Tesla’s Master Plans, on the electrified economy, on solar power as we know it? From the SpaceX IPO filing released this week, it sure seems like it.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;CARR “builds on the ARR concept by adding committed but not yet live contract values to total ARR,” Bessemer Venture Partners (BVP) wrote in a blog post back in 2021. Critically, though, BVP says, the startup is supposed to adjust CARR to take into account expected customer churn (how many customers leave) and “downsell” (those who decide to buy less).&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;A recap for those not enmeshed in the Musk-verse: Tesla has released four Master Plans over the years, and while details have varied, the through line has been electrification of the economy. Musk put it best in his first edition: “the overarching purpose of Tesla motors…is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy.”&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The main problem with CARR is counting revenue before a startup’s product is implemented. If implementation is lengthy or goes awry, clients might cancel during the trial before all — or any — of the contracted revenue has been collected.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Several investors told TechCrunch that they directly know of at least one high-profile enterprise startup that reported it surpassed $100 million in ARR, when only a fraction of that revenue came from currently paying customers. The rest was from contracts that hadn’t been deployed yet and in some cases may take a long time to implement the technology.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;One former employee at a startup that routinely reported CARR as ARR told TechCrunch that the company counted at least one substantial, yearlong free pilot as ARR. The company’s board, including a VC from a large fund, was aware that the revenue from the eventual paying part of the contract had been counted in ARR during the lengthy pilot program, the person said. The board was also aware that the customer could cancel before paying the full contract amount.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The obvious problem with using CARR and calling it ARR is that it is far more susceptible to being “gamed” than traditional ARR. If a startup doesn’t account realistically for churn and downsell, CARR could be inflated. For instance, a startup could offer big discounts for the first two years of a three-year contract and count the whole three years as CARR (or ARR), even though customers may not stick around to pay the higher prices in year three.&lt;/p&gt;
 
 
 
+&lt;p class="wp-block-paragraph"&gt;But recently, one of Musk’s companies, xAI, has embraced the mine-and-burn hydrocarbon economy, using dozens of unregulated natural gas turbines to power its data centers with plans to buy $2.8 billion more, effectively cementing the fossil fuel’s role in the company’s AI operations.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;It’s a curious turn for a businessman who built his empire on clean energy —&amp;nbsp;and who has no qualms directing his companies to buy from one another. SpaceX spent $131 million on 1,279 Cybertrucks, and xAI has spent $697 million in the last two years on Tesla Megapacks, it’s grid-scale battery storage systems that the company will use to manage peak loads. But so far, xAI hasn’t bought a materially significant number of solar panels from Tesla.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Solar power isn’t missing in the SpaceX filing, it’s just all concentrated on space, which the company touts as the future of data center power. Terrestrial solar garners a few mentions — not as a power source for xAI data centers but instead to show how much better SpaceX thinks space-based solar will be.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;It’s no secret that Musk and other Silicon Valley executives have become obsessed with space-based solar power. SpaceX says that space-based solar arrays can generate “more than five-times the energy” of terrestrial ones thanks to 24/7 illumination. As AI data centers have run into opposition here on Earth, CEOs like Musk have started mulling big server racks in space powered by that 24/7 sunshine. Hammer, meet nail.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“I think Scott [Stevenson] is right. I’ve heard all sorts of anecdotes as well,” Ross McNairn, co-founder and CEO of legal AI startup Wordsmith told TechCrunch about ARR misrepresentations. “I speak to VCs all the time. They’re like, ‘There are some choppy, choppy standards out.’”&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Even if SpaceX is able to bring down the cost of boosting a data center into orbit, the economics are challenging at best. Power prices for Starlink satellites are multiples higher than what a terrestrial data center typically spends, and protecting chips from the rigors of space won’t be easy or cheap. It’s also not clear whether AI training can be distributed across multiple satellites, leaving a significant chunk of AI work earthbound. It’s not just one problem that SpaceX needs to solve, but many.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Most cases are slightly less extreme. For instance, an employee at another startup described a discrepancy where marketing materials claimed $50 million in ARR, while the actual figure was $42 million.&amp;nbsp; &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;However, this person claimed that investors had access to the company’s books, which accurately reflected the lower amount. The source said some startups and their investors are comfortable playing fast and loose with their public metrics in part because AI startups are growing so quickly that an $8 million gap is viewed as a rounding error they’ll grow into quickly.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;It’s likely that Musk considers xAI’s current data centers as stopgaps, that once SpaceX is able to loft gigawatts worth of servers into orbit —&amp;nbsp;probably just a few years away, in his mind — he’ll scrap what’s here on the ground, natural gas turbines included and not have to think about NIMBYs anymore. The risk, of course, is that he’s wrong.&lt;/p&gt;
 
-&lt;h2 class="wp-block-heading" id="h-the-other-more-problematic-arr-nbsp"&gt;The other, more problematic “ARR”&amp;nbsp;&lt;/h2&gt;
+&lt;p class="wp-block-paragraph"&gt;It’s not just NIMBYs that Musk is worried about, though. He’s clearly concerned that computing demands from AI will quickly outstrip what we can provide here on Earth. Sprinkled throughout the SEC filing are references to “terawatt-scale annual AI compute growth,” which will require power to match. That’s a stunning figure when you consider that all the world’s data centers use around 40 gigawatts today.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;There’s another issue surrounding all those public ARR declarations. Sometimes founders use another measurement with the same “ARR” acronym and a similar name: annualized run-rate revenue.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;This is Musk’s “first principles” thinking in action. At some point, he assumed the world will need an additional terawatt worth of compute every year, and he worked back from there. “We believe that third-party estimates on data center demand are constrained by the practical supply limitations that exist in a terrestrial context and the power shortage may be far greater than what research estimates suggest,” the company argues.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;This ARR is also controversial because it extrapolates current revenue over the next 12 months based on a given period’s haul (e.g., a quarter, month, week, or even a day).&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Since many AI companies charge based on usage or outcomes, that method of calculating annualized run-rate ARR can be misleading because revenue is no longer locked into predictable contracts.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Most people interviewed for this story said that ARR overstatements of all kinds are hardly a novel phenomenon, but startups have become far more aggressive amid the AI hype.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“The valuations have gotten higher, and so the incentives are stronger to do it,” Michael Marks, a founding managing partner at Celesta Capital, told TechCrunch.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
 
 
+&lt;p class="wp-block-paragraph"&gt;Possible? Sure, I suppose. But consider that humanity today uses about 35,000 terawatt-hours of energy annually, or about 4 terawatts on a continuous basis. Energy demand has risen lately, and for AI, it probably is in an phase of exponential growth, which could either continue or level off. We have no way of knowing at this point, but if there’s one thing Musk is good at, it’s spotting a trend at its inflection point and extrapolating wildly.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Here’s where Musk’s problems settle back down to Earth. I’m no rocket scientist, but I suspect that shipping solar panels on a flatbed truck uses less energy than sending them into orbit. Plus, space-ready solar panels will need to be manufactured at unprecedented scale. Not insurmountable problems, but also maybe a distraction. We’ve barely scratched solar’s potential here on Earth, for example.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;The perfect doesn’t have to be the enemy of the good. There’s plenty of room to improve things here on Earth even while we chase after our dreams in the stars.&amp;nbsp;&lt;/p&gt;
 
-
-&lt;p class="wp-block-paragraph"&gt;In the age of AI, startups are expected to grow much faster than ever before.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Going from 1 to 3 to 9 to 27 is not interesting,” Hemant Taneja, CEO and managing director of General Catalyst, said on the 20VC podcast last September, referring to the millions in ARR a startup is traditionally projected to hit each year. “You got to go like 1 to 20 to 100.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The pressure to show rapid growth is prompting some VCs to support, or at least overlook,&amp;nbsp;startups presenting inflated ARR figures to the public.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There are definitely VCs in on this because they’re incentivized to create a narrative that they have runaway winners. They’re incentivized to get press coverage for their companies,” Stevenson told TechCrunch.&amp;nbsp; &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Newton, whose legal AI startup Clio was valued at $5 billion last fall, also alleges that VCs are often aware but silent about ARR misrepresentations. “We see some investors looking the other way when their own companies are inflating numbers because it makes them look good from the outside in,” he told TechCrunch.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-what-vcs-really-think-nbsp"&gt;What VCs really think&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other investors who spoke with TechCrunch say there is no reason for VCs to expose the overstatements.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;By turning a blind eye to public pronouncements of inflated ARR, VCs are effectively helping to crown their own portfolio companies winners. When a startup publicly reports high revenue, it is more likely to attract the best talent and customers who believe the company is the undisputed king in its category.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Investors can’t call it out,” a VC told TechCrunch. “Everyone has a company monetizing CARR as ARR.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Still, anyone intimately familiar with the industry’s intricacies has a hard time believing that some of these startups actually reached $100 million in ARR within a few years of launch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“To everyone who’s inside, it just feels fake,” said Alex Cohen, co-founder and CEO of health AI startup Hello Patient. “You read the headlines and you’re like, ‘I don’t believe it.’”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;However, not all startups feel comfortable representing growth by reporting CARR instead of ARR. They prefer to be clean and clear about their numbers in part because they understand that public markets measure software companies on ARR rather than CARR. These founders prioritize transparency.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Wordsmith’s McNairn, who remembers the struggle startups faced justifying high valuations after the 2022 market correction, said he doesn’t want to create an even higher hurdle by exaggerating his startup’s revenue.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I think it is short-sighted, and I think that when you do things like that for a short-term gain, you’re overinflating already crazy high multiples,” he said. “I think it’s super bad hygiene, and it’s going to come back and bite you.”&lt;/p&gt;
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/Pinocchio-ARR-nose2.png?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Last month, Scott Stevenson, co-founder and CEO of the legal AI startup Spellbook, took to X in an effort to expose what he called a “huge scam” among AI startups: inflation of the revenue figures that they announce publicly.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The reason many AI startups are crushing revenue records is because they are using a dishonest metric. The biggest funds in the world are supporting this and misleading journalists for PR coverage,” he wrote in his tweet.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Stevenson isn’t the first to claim that annual recurring revenue (ARR) — a metric historically used to sum up annual revenue of active customers under contract — is being manipulated by some AI companies beyond recognition. Certain aspects of ARR shenanigans have been the subject of multiple other news reports and social media posts.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;However, Stevenson’s tweet seemed to have struck a particular nerve within the AI startup community, drawing over 200 reshares and comments from high-profile investors, many founders, and a few headlines.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Scott at Spellbook did a great job of highlighting some of what you might describe as bad behavior on the part of some companies,” Jack Newton, co-founder and CEO of legal startup Clio, told TechCrunch, adding that the post brought much-needed awareness to the topic, referring to an explanatory post from YC’s Garry Tan about proper revenue metrics.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch spoke with over a dozen founders, investors, and startup finance professionals to assess whether the ARR inflation is as pervasive as Stevenson suggests.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Indeed, our sources, many of whom spoke on the condition of anonymity, confirmed that fudged ARR in public declarations is a common occurrence among startups, and how, in many cases, investors are aware of the exaggerations.&lt;/p&gt;
-
-
-&lt;h2 class="wp-block-heading" id="h-not-really-revenue-yet-nbsp"&gt;Not really revenue, yet&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The main obfuscation tactic is substituting “contracted ARR,” sometimes referred to as “committed ARR” (CARR), and simply calling it ARR.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“For sure they are reporting CARR” as ARR, one investor said. “When one startup does it in a category, it is hard not to do it yourself just to keep up.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;ARR is a metric established and trusted since the cloud era to indicate total sales of products where usage, and therefore payments, is metered out over time. Accountants don’t formally audit or sign off on ARR primarily because generally accepted accounting principles (GAAP) focus on historical, already-collected revenue, rather than future revenue.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;ARR was intended to show the total value of signed-and-sealed sales, typically multiyear contracts. (Today, this concept tends to go by another name: remaining performance obligations.) Meanwhile, the term “revenue” is typically reserved for money already collected.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;CARR is supposed to be another way to track growth. But it’s a much squishier metric than ARR because it counts revenue from signed customers that aren’t onboarded yet.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One VC told TechCrunch that he has seen companies where CARR is 70% higher than ARR, even though a significant chunk of that contracted revenue will never actually materialize.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;CARR “builds on the ARR concept by adding committed but not yet live contract values to total ARR,” Bessemer Venture Partners (BVP) wrote in a blog post back in 2021. Critically, though, BVP says, the startup is supposed to adjust CARR to take into account expected customer churn (how many customers leave) and “downsell” (those who decide to buy less).&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The main problem with CARR is counting revenue before a startup’s product is implemented. If implementation is lengthy or goes awry, clients might cancel during the trial before all — or any — of the contracted revenue has been collected.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Several investors told TechCrunch that they directly know of at least one high-profile enterprise startup that reported it surpassed $100 million in ARR, when only a fraction of that revenue came from currently paying customers. The rest was from contracts that hadn’t been deployed yet and in some cases may take a long time to implement the technology.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One former employee at a startup that routinely reported CARR as ARR told TechCrunch that the company counted at least one substantial, yearlong free pilot as ARR. The company’s board, including a VC from a large fund, was aware that the revenue from the eventual paying part of the contract had been counted in ARR during the lengthy pilot program, the person said. The board was also aware that the customer could cancel before paying the full contract amount.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The obvious problem with using CARR and calling it ARR is that it is far more susceptible to being “gamed” than traditional ARR. If a startup doesn’t account realistically for churn and downsell, CARR could be inflated. For instance, a startup could offer big discounts for the first two years of a three-year contract and count the whole three years as CARR (or ARR), even though customers may not stick around to pay the higher prices in year three.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“I think Scott [Stevenson] is right. I’ve heard all sorts of anecdotes as well,” Ross McNairn, co-founder and CEO of legal AI startup Wordsmith told TechCrunch about ARR misrepresentations. “I speak to VCs all the time. They’re like, ‘There are some choppy, choppy standards out.’”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Most cases are slightly less extreme. For instance, an employee at another startup described a discrepancy where marketing materials claimed $50 million in ARR, while the actual figure was $42 million.&amp;nbsp; &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;However, this person claimed that investors had access to the company’s books, which accurately reflected the lower amount. The source said some startups and their investors are comfortable playing fast and loose with their public metrics in part because AI startups are growing so quickly that an $8 million gap is viewed as a rounding error they’ll grow into quickly.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-the-other-more-problematic-arr-nbsp"&gt;The other, more problematic “ARR”&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There’s another issue surrounding all those public ARR declarations. Sometimes founders use another measurement with the same “ARR” acronym and a similar name: annualized run-rate revenue.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This ARR is also controversial because it extrapolates current revenue over the next 12 months based on a given period’s haul (e.g., a quarter, month, week, or even a day).&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since many AI companies charge based on usage or outcomes, that method of calculating annualized run-rate ARR can be misleading because revenue is no longer locked into predictable contracts.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Most people interviewed for this story said that ARR overstatements of all kinds are hardly a novel phenomenon, but startups have become far more aggressive amid the AI hype.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The valuations have gotten higher, and so the incentives are stronger to do it,” Michael Marks, a founding managing partner at Celesta Capital, told TechCrunch.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In the age of AI, startups are expected to grow much faster than ever before.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Going from 1 to 3 to 9 to 27 is not interesting,” Hemant Taneja, CEO and managing director of General Catalyst, said on the 20VC podcast last September, referring to the millions in ARR a startup is traditionally projected to hit each year. “You got to go like 1 to 20 to 100.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The pressure to show rapid growth is prompting some VCs to support, or at least overlook,&amp;nbsp;startups presenting inflated ARR figures to the public.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“There are definitely VCs in on this because they’re incentivized to create a narrative that they have runaway winners. They’re incentivized to get press coverage for their companies,” Stevenson told TechCrunch.&amp;nbsp; &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Newton, whose legal AI startup Clio was valued at $5 billion last fall, also alleges that VCs are often aware but silent about ARR misrepresentations. “We see some investors looking the other way when their own companies are inflating numbers because it makes them look good from the outside in,” he told TechCrunch.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-what-vcs-really-think-nbsp"&gt;What VCs really think&amp;nbsp;&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Other investors who spoke with TechCrunch say there is no reason for VCs to expose the overstatements.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;By turning a blind eye to public pronouncements of inflated ARR, VCs are effectively helping to crown their own portfolio companies winners. When a startup publicly reports high revenue, it is more likely to attract the best talent and customers who believe the company is the undisputed king in its category.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Investors can’t call it out,” a VC told TechCrunch. “Everyone has a company monetizing CARR as ARR.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Still, anyone intimately familiar with the industry’s intricacies has a hard time believing that some of these startups actually reached $100 million in ARR within a few years of launch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“To everyone who’s inside, it just feels fake,” said Alex Cohen, co-founder and CEO of health AI startup Hello Patient. “You read the headlines and you’re like, ‘I don’t believe it.’”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;However, not all startups feel comfortable representing growth by reporting CARR instead of ARR. They prefer to be clean and clear about their numbers in part because they understand that public markets measure software companies on ARR rather than CARR. These founders prioritize transparency.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Wordsmith’s McNairn, who remembers the struggle startups faced justifying high valuations after the 2022 market correction, said he doesn’t want to create an even higher hurdle by exaggerating his startup’s revenue.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“I think it is short-sighted, and I think that when you do things like that for a short-term gain, you’re overinflating already crazy high multiples,” he said. “I think it’s super bad hygiene, and it’s going to come back and bite you.”&lt;/p&gt;
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/</guid><pubDate>Fri, 22 May 2026 20:40:48 +0000</pubDate></item><item><title>Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/</link><description>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;So bad, it’s good? Google on Friday joined in the disco ball icon fun taking place on home screens everywhere. After Spotify’s temporary new disco ball app icon, released to celebrate the company’s 20th anniversary, drew extensive online backlash (and a bit of praise for those who like a little kitsch!), Google decided to get in on the joke and rolled out a custom set of Android app icons sporting a similar disco ball theme.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On X, Android ecosystem head Sameer Samat posted, “Your wish is our command. Disco icons available on Pixel as of today&amp;nbsp;… Are y’all sure you still want this?”&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;His post included a screenshot of a Pixel phone fully decked out with sparkly, disco-ball-inspired icons, which looks just as terrible (incredible??) as it sounds. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The new icons are available through Pixel’s relatively new custom icons feature, which allows users to choose from different AI-generated styles for their app icons. Before this, users could only customize their icons by changing their colors to match the phone’s wallpaper and theme.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3125570" height="680" src="https://techcrunch.com/wp-content/uploads/2026/05/Screenshot_20260522-144244.jpeg?w=305" width="305" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;screenshot of Pixel icons by TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The custom icons feature rolled out in March’s Pixel Drop — Google’s term for its periodic feature updates to Pixel phones — introducing app icon templates like a hand-drawn “Scribbles” aesthetic; a gold look called “Treasure”; a colorful, painted style dubbed “Easel”; and others.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Earlier this week, Samat had jokingly tweeted, “Should we make this icon pack happen on Android?” alongside a Chrome icon turned into a disco ball.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Silly as it may be, Google actually made it happen.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Many people had complained about the Spotify icon, calling it ugly, prompting the company to remind them it was just a temporary sitch. “Alright, we know glitter is not for everyone,” the streamer wrote.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Google, seemingly, disagrees. As off-brand as its disco-themed icons are, there’s also something whimsical about turning your whole home screen into a sparkly landscape of little apps. (And, in case you missed it, the Zillennials are really into whimsy right now, The New York Times reports, describing their “playful response to a difficult world.”)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Upon seeing Google’s release, X user and former Pixly co-founder Race Johnson quipped, “When your home screen gets bottle service.” Said another, “Omg it’s awful. I’ll take it!”&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;So bad, it’s good? Google on Friday joined in the disco ball icon fun taking place on home screens everywhere. After Spotify’s temporary new disco ball app icon, released to celebrate the company’s 20th anniversary, drew extensive online backlash (and a bit of praise for those who like a little kitsch!), Google decided to get in on the joke and rolled out a custom set of Android app icons sporting a similar disco ball theme.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On X, Android ecosystem head Sameer Samat posted, “Your wish is our command. Disco icons available on Pixel as of today&amp;nbsp;… Are y’all sure you still want this?”&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;His post included a screenshot of a Pixel phone fully decked out with sparkly, disco-ball-inspired icons, which looks just as terrible (incredible??) as it sounds. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The new icons are available through Pixel’s relatively new custom icons feature, which allows users to choose from different AI-generated styles for their app icons. Before this, users could only customize their icons by changing their colors to match the phone’s wallpaper and theme.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="alt" class="wp-image-3125570" height="680" src="https://techcrunch.com/wp-content/uploads/2026/05/Screenshot_20260522-144244.jpeg?w=305" width="305" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;screenshot of Pixel icons by TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The custom icons feature rolled out in March’s Pixel Drop — Google’s term for its periodic feature updates to Pixel phones — introducing app icon templates like a hand-drawn “Scribbles” aesthetic; a gold look called “Treasure”; a colorful, painted style dubbed “Easel”; and others.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Earlier this week, Samat had jokingly tweeted, “Should we make this icon pack happen on Android?” alongside a Chrome icon turned into a disco ball.&lt;/p&gt;
-
-&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Silly as it may be, Google actually made it happen.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Many people had complained about the Spotify icon, calling it ugly, prompting the company to remind them it was just a temporary sitch. “Alright, we know glitter is not for everyone,” the streamer wrote.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Google, seemingly, disagrees. As off-brand as its disco-themed icons are, there’s also something whimsical about turning your whole home screen into a sparkly landscape of little apps. (And, in case you missed it, the Zillennials are really into whimsy right now, The New York Times reports, describing their “playful response to a difficult world.”)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Upon seeing Google’s release, X user and former Pixly co-founder Race Johnson quipped, “When your home screen gets bottle service.” Said another, “Omg it’s awful. I’ll take it!”&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/</guid><pubDate>Fri, 22 May 2026 21:02:36 +0000</pubDate></item><item><title>AI is being used to resurrect the voices of dead pilots (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In the latest sign of these AI-heavy times, the National Transportation Safety Board temporarily removed access to its docket system after discovering that voices of pilots who were killed in a UPS plane crash last year had been re-created using AI and were circulating on the internet.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The NTSB is prohibited by federal law from including cockpit audio recordings in its docket system, which otherwise contains troves of data on investigations and has historically been open to the public. But the accident docket for this flight included a spectrogram file of the voice recorder. A spectrogram uses a mathematical process to turn sound signals, including low and high frequencies, into an image.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Scott Manley, a popular YouTuber whose channel combines physics, astronomy, and video games, noted on X that it could be possible to reconstruct audio from the megabytes of data encoded in that image.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And that’s what happened. People took the spectrogram, along with the publicly available transcript, to create approximations of the cockpit voice recorder audio from UPS Flight 2976 in Louisville, Kentucky, according to the NTSB. They used AI tools like Codex, according to posts on social media.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The agency restored public access to the docket system on Friday but kept 42 investigations closed pending review — including the one related to Flight 2976.&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In the latest sign of these AI-heavy times, the National Transportation Safety Board temporarily removed access to its docket system after discovering that voices of pilots who were killed in a UPS plane crash last year had been re-created using AI and were circulating on the internet.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The NTSB is prohibited by federal law from including cockpit audio recordings in its docket system, which otherwise contains troves of data on investigations and has historically been open to the public. But the accident docket for this flight included a spectrogram file of the voice recorder. A spectrogram uses a mathematical process to turn sound signals, including low and high frequencies, into an image.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Scott Manley, a popular YouTuber whose channel combines physics, astronomy, and video games, noted on X that it could be possible to reconstruct audio from the megabytes of data encoded in that image.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And that’s what happened. People took the spectrogram, along with the publicly available transcript, to create approximations of the cockpit voice recorder audio from UPS Flight 2976 in Louisville, Kentucky, according to the NTSB. They used AI tools like Codex, according to posts on social media.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The agency restored public access to the docket system on Friday but kept 42 investigations closed pending review — including the one related to Flight 2976.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/</guid><pubDate>Fri, 22 May 2026 23:03:33 +0000</pubDate></item><item><title>Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models (Hugging Face - Blog)</title><link>https://huggingface.co/blog/nvidia/nemotron-labs-diffusion</link><description>&lt;!----&gt;  &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
-&lt;!--]--&gt;&lt;!--]--&gt;&lt;img alt="1-headline-final" src="https://cdn-uploads.huggingface.co/production/uploads/68fbf4dfb3a931deae49375f/qvMqz8ohVx7_5oGkjaCI-.gif" /&gt;
-&lt;p&gt;Large language models (LLMs) have become the default interface for code generation, math problem solving, summarization, document understanding, and many other developer workflows. Under the hood, though, many LLMs still generate text the same way: one token at a time, and each token depends on the tokens that appeared before it. As such, these models are called autoregressive, since they consume their own outputs.&lt;/p&gt;
-&lt;p&gt;That autoregressive (AR) approach has been remarkably successful. It is stable to train, simple to serve, and responsible for much of the progress in modern language modeling. But it also creates a hard limit: every new token requires a full model pass and every weight has to be loaded from the memory before computation can start. For developers building latency-sensitive applications, running smaller batch sizes, or trying to make better use of modern GPUs, token-by-token generation can leave performance on the table as most of the GPU’s time is spent on memory operations, rather than computation.&lt;/p&gt;
-&lt;p&gt;Additionally, once a token is generated by an autoregressive model, it is final and they do not inherently have the ability to revise previous tokens. Consequently, mistakes can propagate during the course of generation.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nemotron-Labs Diffusion&lt;/strong&gt; introduces a new path forward: diffusion language models (DLM) that work by generating multiple tokens in parallel, then iteratively refining the generated tokens in multiple steps. Not only can these models better leverage the computational model of the modern GPUs and offer significant runtime performance benefits, but they can also revise generated tokens, making them more suitable for revising existing text and addressing fill-in-the-middle objectives. This generate-and-refine property also offers a built-in way to control the inference budget. By reducing the number of refinement steps, one can reduce the compute requirements of these models at runtime.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Quick Links to the Models, Training Recipe and Technical Report
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;The Nemotron-Labs Diffusion family includes text models at &lt;strong&gt;3B&lt;/strong&gt;, &lt;strong&gt;8B&lt;/strong&gt;, and &lt;strong&gt;14B&lt;/strong&gt; scales, all available under the commercially-friendly NVIDIA Nemotron Open Model License, 
-as well as a &lt;strong&gt;8B&lt;/strong&gt; scale vision-language model (VLM), available under the NVIDIA Source Code License, granting broad research flexibility. Across the lineup, NVIDIA is releasing both base models and instruction-tuned chat variants. NVIDIA is also releasing the code for training these models through the NVIDIA Megatron Bridge framework.&lt;/p&gt;
-
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Three Generation Modes in One Model
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="2-tri-mode-final" src="https://cdn-uploads.huggingface.co/production/uploads/68fbf4dfb3a931deae49375f/luIrivJsY3wcROc4UpJtl.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;Nemotron-Labs Diffusion is designed around a simple idea: autoregressive and diffusion generation should not be separate model families. They should be capabilities of the same model. The model supports three generation modes:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Autoregressive mode&lt;/strong&gt; runs like a standard left-to-right LLM. This keeps compatibility with the generation workflow developers already know.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Diffusion&lt;/strong&gt; mode generates block by block, gradually generating tokens over multiple steps.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Self-speculation&lt;/strong&gt; mode uses diffusion to draft multiple candidate tokens, then uses autoregressive decoding to verify them. This combines the speed potential of diffusion-style drafting with the reliability of AR verification.&lt;/p&gt;
-&lt;p&gt;This flexible design is the key developer-facing feature where speed and accuracy both matter, even at workloads with unpredictable batch sizes, or those with a single query (batch size=1). Selecting the desired inference mode requires almost no change at the application level, since this is a deployment-time setting. As such, developers can seamlessly switch between the model they use today, or Nemotron-Labs Diffusion in various inference modes for ultra-fast generation speeds.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Performance Highlights
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Screenshot from 2026-05-22 15-49-43" src="https://cdn-uploads.huggingface.co/production/uploads/68fbf4dfb3a931deae49375f/42wkjDTLZp-bOgQT7r8sH.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Nemotron-Labs Diffusion 8B achieves an improved average accuracy of 1.2% compared with Qwen3 8B. Comparing the inference speed measured in tokens per forward pass (TPF for short, a hardware-agnostic means of measuring token decoding efficiency), the diffusion mode reaches 2.6× higher TPF than AR models, while self-speculation pushes that further to 6× for linear self-speculation and 6.4× for quadratic self-speculation, with comparable accuracy across the evaluated tasks.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How we trained Nemotron-Labs Diffusion
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Diffusion language models have been promising for years, but they have historically had practical barriers: lower accuracy than strong AR models, more difficult training, and limited compatibility with KV caching.&lt;/p&gt;
-&lt;p&gt;Recent work changed that direction. Efficient-DLM showed that pretrained AR models can be converted into diffusion language models through continued pretraining and altering the attention mechanism to a block-wise approach. That design helps preserve AR model capabilities while enabling KV-cache-friendly parallel decoding.&lt;/p&gt;
-&lt;p&gt;Nemotron-Labs Diffusion builds on the same practical insight: add diffusion capabilities to an existing AR model. The model was trained with a joint AR and diffusion objective, allowing it to retain what it had learned during its initial AR training while diffusion added parallel drafting capability. The model was pre-trained on 1.3T tokens from the NVIDIA Nemotron Pretraining datasets and underwent an additional supervised fine-tuning phase using 45B tokens from the NVIDIA Nemotron Post-training datasets.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Deployment and inference through SGLang
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Deployment of Nemotron-Labs Diffusion models will soon be supported in the main branch of SGLang. At the time of this writing, support for inference is available through this issue tracker request on GitHub.&lt;/p&gt;
-&lt;p&gt;What's neat is that the integration lets you serve the same checkpoint in three different ways, picked by a single line in your algorithm config:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plain autoregressive&lt;/strong&gt; - set &lt;code&gt;ar_mode=true&lt;/code&gt; and the model behaves like any other causal LM. Useful as the correctness reference, or if you just want a sanity check against pure AR output.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Diffusion mode (FastDiffuser)&lt;/strong&gt; - the headliner for raw throughput. The model fills in a 32-token block at a time by iteratively denoising it, and a confidence threshold decides which tokens are "good enough" to commit each step. &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Self-speculation (LinearSpec)&lt;/strong&gt; - this one's our favorite. The same model drafts a block bidirectionally, then verifies it causally; whatever prefix matches gets committed. Output is lossless versus AR at temperature 0, but we hit ~865 tok/s on B200 on speedbench dataset - roughly 4× the autoregressive baseline on the same hardware.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Get Started Today
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Nemotron-Labs Diffusion brings diffusion-style generation into a form developers can actually use: open models, familiar AR compatibility, diffusion decoding, and self-speculative acceleration in one family. With Nemotron-Labs Diffusion, developers get a new way to draft, refine, verify, and accelerate text generation, without needing to alter their applications.&lt;/p&gt;
-&lt;p&gt;To get started, explore the Nemotron-Labs Diffusion model family, read the technical report, and try the available training recipe.&lt;/p&gt;
-&lt;!----&gt;</description><content:encoded>&lt;!----&gt;  &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
-&lt;!--]--&gt;&lt;!--]--&gt;&lt;img alt="1-headline-final" src="https://cdn-uploads.huggingface.co/production/uploads/68fbf4dfb3a931deae49375f/qvMqz8ohVx7_5oGkjaCI-.gif" /&gt;
-&lt;p&gt;Large language models (LLMs) have become the default interface for code generation, math problem solving, summarization, document understanding, and many other developer workflows. Under the hood, though, many LLMs still generate text the same way: one token at a time, and each token depends on the tokens that appeared before it. As such, these models are called autoregressive, since they consume their own outputs.&lt;/p&gt;
-&lt;p&gt;That autoregressive (AR) approach has been remarkably successful. It is stable to train, simple to serve, and responsible for much of the progress in modern language modeling. But it also creates a hard limit: every new token requires a full model pass and every weight has to be loaded from the memory before computation can start. For developers building latency-sensitive applications, running smaller batch sizes, or trying to make better use of modern GPUs, token-by-token generation can leave performance on the table as most of the GPU’s time is spent on memory operations, rather than computation.&lt;/p&gt;
-&lt;p&gt;Additionally, once a token is generated by an autoregressive model, it is final and they do not inherently have the ability to revise previous tokens. Consequently, mistakes can propagate during the course of generation.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nemotron-Labs Diffusion&lt;/strong&gt; introduces a new path forward: diffusion language models (DLM) that work by generating multiple tokens in parallel, then iteratively refining the generated tokens in multiple steps. Not only can these models better leverage the computational model of the modern GPUs and offer significant runtime performance benefits, but they can also revise generated tokens, making them more suitable for revising existing text and addressing fill-in-the-middle objectives. This generate-and-refine property also offers a built-in way to control the inference budget. By reducing the number of refinement steps, one can reduce the compute requirements of these models at runtime.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Quick Links to the Models, Training Recipe and Technical Report
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;The Nemotron-Labs Diffusion family includes text models at &lt;strong&gt;3B&lt;/strong&gt;, &lt;strong&gt;8B&lt;/strong&gt;, and &lt;strong&gt;14B&lt;/strong&gt; scales, all available under the commercially-friendly NVIDIA Nemotron Open Model License, 
-as well as a &lt;strong&gt;8B&lt;/strong&gt; scale vision-language model (VLM), available under the NVIDIA Source Code License, granting broad research flexibility. Across the lineup, NVIDIA is releasing both base models and instruction-tuned chat variants. NVIDIA is also releasing the code for training these models through the NVIDIA Megatron Bridge framework.&lt;/p&gt;
-
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Three Generation Modes in One Model
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="2-tri-mode-final" src="https://cdn-uploads.huggingface.co/production/uploads/68fbf4dfb3a931deae49375f/luIrivJsY3wcROc4UpJtl.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;Nemotron-Labs Diffusion is designed around a simple idea: autoregressive and diffusion generation should not be separate model families. They should be capabilities of the same model. The model supports three generation modes:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Autoregressive mode&lt;/strong&gt; runs like a standard left-to-right LLM. This keeps compatibility with the generation workflow developers already know.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Diffusion&lt;/strong&gt; mode generates block by block, gradually generating tokens over multiple steps.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Self-speculation&lt;/strong&gt; mode uses diffusion to draft multiple candidate tokens, then uses autoregressive decoding to verify them. This combines the speed potential of diffusion-style drafting with the reliability of AR verification.&lt;/p&gt;
-&lt;p&gt;This flexible design is the key developer-facing feature where speed and accuracy both matter, even at workloads with unpredictable batch sizes, or those with a single query (batch size=1). Selecting the desired inference mode requires almost no change at the application level, since this is a deployment-time setting. As such, developers can seamlessly switch between the model they use today, or Nemotron-Labs Diffusion in various inference modes for ultra-fast generation speeds.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Performance Highlights
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Screenshot from 2026-05-22 15-49-43" src="https://cdn-uploads.huggingface.co/production/uploads/68fbf4dfb3a931deae49375f/42wkjDTLZp-bOgQT7r8sH.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Nemotron-Labs Diffusion 8B achieves an improved average accuracy of 1.2% compared with Qwen3 8B. Comparing the inference speed measured in tokens per forward pass (TPF for short, a hardware-agnostic means of measuring token decoding efficiency), the diffusion mode reaches 2.6× higher TPF than AR models, while self-speculation pushes that further to 6× for linear self-speculation and 6.4× for quadratic self-speculation, with comparable accuracy across the evaluated tasks.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		How we trained Nemotron-Labs Diffusion
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Diffusion language models have been promising for years, but they have historically had practical barriers: lower accuracy than strong AR models, more difficult training, and limited compatibility with KV caching.&lt;/p&gt;
-&lt;p&gt;Recent work changed that direction. Efficient-DLM showed that pretrained AR models can be converted into diffusion language models through continued pretraining and altering the attention mechanism to a block-wise approach. That design helps preserve AR model capabilities while enabling KV-cache-friendly parallel decoding.&lt;/p&gt;
-&lt;p&gt;Nemotron-Labs Diffusion builds on the same practical insight: add diffusion capabilities to an existing AR model. The model was trained with a joint AR and diffusion objective, allowing it to retain what it had learned during its initial AR training while diffusion added parallel drafting capability. The model was pre-trained on 1.3T tokens from the NVIDIA Nemotron Pretraining datasets and underwent an additional supervised fine-tuning phase using 45B tokens from the NVIDIA Nemotron Post-training datasets.&lt;/p&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Deployment and inference through SGLang
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Deployment of Nemotron-Labs Diffusion models will soon be supported in the main branch of SGLang. At the time of this writing, support for inference is available through this issue tracker request on GitHub.&lt;/p&gt;
-&lt;p&gt;What's neat is that the integration lets you serve the same checkpoint in three different ways, picked by a single line in your algorithm config:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plain autoregressive&lt;/strong&gt; - set &lt;code&gt;ar_mode=true&lt;/code&gt; and the model behaves like any other causal LM. Useful as the correctness reference, or if you just want a sanity check against pure AR output.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Diffusion mode (FastDiffuser)&lt;/strong&gt; - the headliner for raw throughput. The model fills in a 32-token block at a time by iteratively denoising it, and a confidence threshold decides which tokens are "good enough" to commit each step. &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Self-speculation (LinearSpec)&lt;/strong&gt; - this one's our favorite. The same model drafts a block bidirectionally, then verifies it causally; whatever prefix matches gets committed. Output is lossless versus AR at temperature 0, but we hit ~865 tok/s on B200 on speedbench dataset - roughly 4× the autoregressive baseline on the same hardware.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 class="relative group flex items-baseline"&gt;
-	
-		
-	
-	&lt;span&gt;
-		Get Started Today
-	&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;Nemotron-Labs Diffusion brings diffusion-style generation into a form developers can actually use: open models, familiar AR compatibility, diffusion decoding, and self-speculative acceleration in one family. With Nemotron-Labs Diffusion, developers get a new way to draft, refine, verify, and accelerate text generation, without needing to alter their applications.&lt;/p&gt;
-&lt;p&gt;To get started, explore the Nemotron-Labs Diffusion model family, read the technical report, and try the available training recipe.&lt;/p&gt;
-&lt;!----&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-labs-diffusion</guid><pubDate>Sat, 23 May 2026 00:02:03 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;Just three years ago, Musk and his colleagues at Tesla released the “Master Plan Part 3,” which thoughtfully outlined a “plan to eliminate fossil fuels.” A good starting point might be xAI’s data centers.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/</guid><pubDate>Sat, 23 May 2026 13:00:00 +0000</pubDate></item></channel></rss>
