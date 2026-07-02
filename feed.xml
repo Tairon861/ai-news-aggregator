@@ -1,702 +1,110 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 02 Jul 2026 03:49:00 +0000</lastBuildDate><item><title>Deploying retail AI to scale personalisation and customer insight (AI News)</title><link>https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/</link><description>&lt;p class="wp-block-paragraph"&gt;Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Static layouts and broad segmentation rules fail to satisfy modern conversion targets. Deployments demonstrate that traditional demographic categorisation generates insufficient engagement compared to individualised, session-based interface modification.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-dynamic-ui-and-real-time-personalisation"&gt;Dynamic UI and real-time personalisation&lt;/h3&gt;&lt;p class="wp-block-paragraph"&gt;Generative User Interfaces (UIs) solve this limitation by employing predictive models to build layouts, native copy, and interactive components at the moment of page execution. The application environment analyses active clickstreams, historical purchase records, and inferred intent parameters to construct a unique visual environment for each session.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;According to a McKinsey study, more than three-quarters (76%) of consumers grow frustrated when digital experiences fail to adapt to their needs. Conversely, companies that deploy real-time tailored layouts clear a high revenue bar, lifting purchase frequency by 35 percent and pushing average order values up by 21 percent.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;The proliferation of high-bandwidth digital media renders legacy text-based ingestion pipelines obsolete for tracking consumer sentiment. Modern customer insight mining requires infrastructure that processes video, audio, and unlabelled imagery concurrently.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Video content represents 82 percent of total internet traffic, with the average consumer dedicating over 60 percent of digital media consumption time to streaming video formats. This composition creates a substantial visibility gap for marketing operations relying solely on traditional keyword monitoring.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Multi-modal social listening platforms ingest unstructured video streams to identify corporate iconography, product usage patterns, and spoken sentiment across unlinked distribution networks. The global market for these specialised multi-modal systems will reach $2.83 billion this fiscal year.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Organisations deploying these ingestion engines establish an analytical advantage, with 76 percent of media analysts reporting verifiable return on investment across visual platforms compared to under 60 percent for operations limited to text databases. The goal is to catch unbranded mentions and visual trends before they peak on standard search platforms. This brief window gives supply chain teams the lead time they need to adjust regional inventory to match sudden spikes in online demand.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-simulating-consumer-cohorts-for-better-campaign-testing"&gt;Simulating consumer cohorts for better campaign testing&lt;/h3&gt;&lt;p class="wp-block-paragraph"&gt;Testing new ad copy or localised pricing structures used to mean spending weeks running expensive, slow human focus groups. The introduction of synthetic user simulations changes this pipeline by deploying virtual personas built on large language models to mirror target consumer behaviour. These agents integrate targeted demographic, psychometric, and historical behavioral datasets to simulate group decision-making, content feedback, and application navigation patterns.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Technology teams deploy these synthetic cohorts within virtual sandbox environments to execute thousands of automated interviews, content stress tests, and user experience reviews simultaneously. Engineers employ distinct model execution frameworks to maintain accuracy, varying from single-model setups to dynamic model-switching engines that select the optimal base architecture for specific analytical tasks.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;In high-performance deployments, developers update these virtual consumers continuously by injecting fresh interview data from real human control groups, ensuring the synthetic population does not diverge from active market realities. This approach permits product managers to isolate structural workflow friction in application designs before deploying code to live production servers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-physical-space-automation-and-edge-infrastructure-requirements"&gt;Physical space automation and edge infrastructure requirements&lt;/h3&gt;&lt;p class="wp-block-paragraph"&gt;Computer vision models trained on physical interactions, spatial layout geometry, and environmental variables allow edge nodes to orchestrate real-world actions. McKinsey data indicates the market for these physical automation platforms will exceed $370 billion by 2040, driven by verified operational returns in logistical efficiency and retail labour optimisation.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Physical installations target storefront friction points, including registerless checkout, real-time shelf tracking, and layout navigation. Behind the scenes, warehouse supply chains rely on robotic arms trained in software sandboxes. By running millions of trial runs in virtual models before handling actual goods, these machines learn to pick and pack oddly shaped boxes smoothly.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Delivering this immediate physical response depends on installing processing chips on the factory or store floor. Edge computing hardware processes incoming sensor feeds locally, cutting latency and eliminating the corporate data vulnerability of routing constant raw video streams through centralised cloud servers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-model-context-protocol-and-federated-data-integration"&gt;Model Context Protocol and federated data integration&lt;/h3&gt;&lt;p class="wp-block-paragraph"&gt;Transitioning to autonomous enterprise operations requires standardising how models interact with legacy retail databases, product catalogs, and customer relationship management (CRM) platforms.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Implementation of the Model Context Protocol (MCP) establishes an open communication standard that acts as a universal connection layer between core models and external data tools. This open framework eliminates the need for software engineering teams to author custom integration code for every backend tool deployment.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Operational models deploy modular instruction packages known as skills to handle discrete commercial workflows, such as checking warehouse stock levels or modifying a customer loyalty tier. Rather than flooding the model context window with every operation policy at session launch, the application discovers and loads specific operational folders only when the workflow demands them.&amp;nbsp;&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;The Linux Foundation governs this collaborative standardisation effort via the Agentic AI Foundation, supported by major technology providers to ensure long-term cross-platform compatibility. This architecture lowers processing latency and contains token consumption costs during long, multi-step customer service interactions.&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for the AI &amp;amp; Big Data Expo event series." class="wp-image-109137" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" width="728" /&gt;&lt;/figure&gt;&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</description><content:encoded>&lt;p class="wp-block-paragraph"&gt;Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Static layouts and broad segmentation rules fail to satisfy modern conversion targets. Deployments demonstrate that traditional demographic categorisation generates insufficient engagement compared to individualised, session-based interface modification.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-dynamic-ui-and-real-time-personalisation"&gt;Dynamic UI and real-time personalisation&lt;/h3&gt;&lt;p class="wp-block-paragraph"&gt;Generative User Interfaces (UIs) solve this limitation by employing predictive models to build layouts, native copy, and interactive components at the moment of page execution. The application environment analyses active clickstreams, historical purchase records, and inferred intent parameters to construct a unique visual environment for each session.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;According to a McKinsey study, more than three-quarters (76%) of consumers grow frustrated when digital experiences fail to adapt to their needs. Conversely, companies that deploy real-time tailored layouts clear a high revenue bar, lifting purchase frequency by 35 percent and pushing average order values up by 21 percent.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;The proliferation of high-bandwidth digital media renders legacy text-based ingestion pipelines obsolete for tracking consumer sentiment. Modern customer insight mining requires infrastructure that processes video, audio, and unlabelled imagery concurrently.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Video content represents 82 percent of total internet traffic, with the average consumer dedicating over 60 percent of digital media consumption time to streaming video formats. This composition creates a substantial visibility gap for marketing operations relying solely on traditional keyword monitoring.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Multi-modal social listening platforms ingest unstructured video streams to identify corporate iconography, product usage patterns, and spoken sentiment across unlinked distribution networks. The global market for these specialised multi-modal systems will reach $2.83 billion this fiscal year.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Organisations deploying these ingestion engines establish an analytical advantage, with 76 percent of media analysts reporting verifiable return on investment across visual platforms compared to under 60 percent for operations limited to text databases. The goal is to catch unbranded mentions and visual trends before they peak on standard search platforms. This brief window gives supply chain teams the lead time they need to adjust regional inventory to match sudden spikes in online demand.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-simulating-consumer-cohorts-for-better-campaign-testing"&gt;Simulating consumer cohorts for better campaign testing&lt;/h3&gt;&lt;p class="wp-block-paragraph"&gt;Testing new ad copy or localised pricing structures used to mean spending weeks running expensive, slow human focus groups. The introduction of synthetic user simulations changes this pipeline by deploying virtual personas built on large language models to mirror target consumer behaviour. These agents integrate targeted demographic, psychometric, and historical behavioral datasets to simulate group decision-making, content feedback, and application navigation patterns.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Technology teams deploy these synthetic cohorts within virtual sandbox environments to execute thousands of automated interviews, content stress tests, and user experience reviews simultaneously. Engineers employ distinct model execution frameworks to maintain accuracy, varying from single-model setups to dynamic model-switching engines that select the optimal base architecture for specific analytical tasks.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;In high-performance deployments, developers update these virtual consumers continuously by injecting fresh interview data from real human control groups, ensuring the synthetic population does not diverge from active market realities. This approach permits product managers to isolate structural workflow friction in application designs before deploying code to live production servers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-physical-space-automation-and-edge-infrastructure-requirements"&gt;Physical space automation and edge infrastructure requirements&lt;/h3&gt;&lt;p class="wp-block-paragraph"&gt;Computer vision models trained on physical interactions, spatial layout geometry, and environmental variables allow edge nodes to orchestrate real-world actions. McKinsey data indicates the market for these physical automation platforms will exceed $370 billion by 2040, driven by verified operational returns in logistical efficiency and retail labour optimisation.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Physical installations target storefront friction points, including registerless checkout, real-time shelf tracking, and layout navigation. Behind the scenes, warehouse supply chains rely on robotic arms trained in software sandboxes. By running millions of trial runs in virtual models before handling actual goods, these machines learn to pick and pack oddly shaped boxes smoothly.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Delivering this immediate physical response depends on installing processing chips on the factory or store floor. Edge computing hardware processes incoming sensor feeds locally, cutting latency and eliminating the corporate data vulnerability of routing constant raw video streams through centralised cloud servers.&lt;/p&gt;&lt;h3 class="wp-block-heading" id="h-model-context-protocol-and-federated-data-integration"&gt;Model Context Protocol and federated data integration&lt;/h3&gt;&lt;p class="wp-block-paragraph"&gt;Transitioning to autonomous enterprise operations requires standardising how models interact with legacy retail databases, product catalogs, and customer relationship management (CRM) platforms.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Implementation of the Model Context Protocol (MCP) establishes an open communication standard that acts as a universal connection layer between core models and external data tools. This open framework eliminates the need for software engineering teams to author custom integration code for every backend tool deployment.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;Operational models deploy modular instruction packages known as skills to handle discrete commercial workflows, such as checking warehouse stock levels or modifying a customer loyalty tier. Rather than flooding the model context window with every operation policy at session launch, the application discovers and loads specific operational folders only when the workflow demands them.&amp;nbsp;&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;The Linux Foundation governs this collaborative standardisation effort via the Agentic AI Foundation, supported by major technology providers to ensure long-term cross-platform compatibility. This architecture lowers processing latency and contains token consumption costs during long, multi-step customer service interactions.&lt;/p&gt;&lt;figure class="wp-block-image aligncenter size-full is-resized"&gt;&lt;img alt="Banner for the AI &amp;amp; Big Data Expo event series." class="wp-image-109137" height="90" src="https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png" width="728" /&gt;&lt;/figure&gt;&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Want to learn more about AI and big data from industry leaders?&lt;/strong&gt; Check out AI &amp;amp; Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events including the Cyber Security &amp;amp; Cloud Expo. Click here for more information.&lt;/p&gt;&lt;p class="wp-block-paragraph"&gt;AI News is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/</guid><pubDate>Wed, 01 Jul 2026 15:58:43 +0000</pubDate></item><item><title>After spooking Trump into safety testing, Anthropic AI models get global release (AI - Ars Technica)</title><link>https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        US lifts curbs on Anthropic’s advanced Fable and Mythos models.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg" width="1024" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          NurPhoto / Contributor | NurPhoto
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;The US has lifted export curbs on Anthropic’s newest Claude models, Fable 5 and Mythos 5, about three weeks after the Trump administration flagged the models as national security risks.&lt;/p&gt;
-&lt;p&gt;As of today, Anthropic confirmed in a blog post, Fable 5 will be available globally, and US organizations have had access restored to Mythos 5 since June 26. Anthropic said it is now working with the government to expand Mythos access to a “broader set of domestic and international partners in the Glasswing program.” That program allows cybersecurity researchers at trusted companies to access Mythos for defensive purposes.&lt;/p&gt;
-&lt;p&gt;In a letter to Anthropic viewed by Reuters and The New York Times, Commerce Secretary Howard Lutnick said Anthropic would “no longer need a license for exports or in-country transfers of its Claude Mythos and Claude Fable AI models.” The letter acknowledged that Anthropic had “taken steps in close coordination with the US government to address the risks” posed by the models.&lt;/p&gt;
-&lt;p&gt;Facing a longer delay in its models’ releases, Lutnick said that Anthropic agreed to expand its partnership with the government. The company said it also set up a program to work with hackers to red-team its models, and there’s now a dedicated internal team to monitor reports of emerging jailbreak threats 24/7.&lt;/p&gt;
-&lt;p&gt;In the letter, Lutnick reminded Anthropic that the US “reserves the right to re-evaluate the decisions” and reimpose export curbs at any point. But for now, Lutnick joined White House Chief of Staff Susie Wiles in celebrating Fable 5’s redeployment on X.&lt;/p&gt;
-&lt;p&gt;“Over the past two weeks, we have worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America’s leadership in AI,” Lutnick said.&lt;/p&gt;
-&lt;p&gt;Wiles did not directly mention Anthropic but claimed a win for Trump, writing that “the government and private sector have worked together in a way we have never seen before and this foundation of America First is unprecedented. Our shared priority remains: get the best tech deployed as quickly and safely as possible.”&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;h2&gt;Trade-off: Fable 5 may block routine coding tasks&lt;/h2&gt;
-&lt;p&gt;On June 12, the Commerce Department ordered Anthropic to shut off access to its most advanced models for anyone outside the US. The order emerged from fears that China, Russia, or other countries of concern may exploit the models to attack US infrastructure, like the electric grid or the banking system. In response, Anthropic shut down all access, as it didn’t have a way to block users by country.&lt;/p&gt;
-&lt;p&gt;In particular, Mythos was viewed as “uniquely attractive to malicious actors who wish to misuse it in cyberattacks,” Anthropic’s blog said. According to Anthropic, the model “can be used to find and exploit software vulnerabilities more effectively than any other model—and all but the most skilled human security experts,” and those “prodigious cybersecurity capabilities” could be used against the US.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;Fable 5 shares the “same underlying model,” Anthropic said, but unlike Mythos 5, it “provides no such unique offensive capabilities.” Designed for the general public, Fable 5 already had the strongest safeguards Anthropic has ever applied to a model, and Anthropic said those safeguards are now even stronger ahead of redeployment.&lt;/p&gt;
-&lt;p&gt;After weeks of testing, Fable 5 is no longer vulnerable to a bypassing method discovered by Amazon researchers that identified several software vulnerabilities and triggered the export curbs. Most troublingly, Anthropic said, was a case in which the model was manipulated into producing code that demonstrated how a vulnerability could be exploited.&lt;/p&gt;
-&lt;p&gt;According to Anthropic, testing confirmed that less advanced rival models on the market, like GPT-5.5 and Kimi K2.7, “could identify the same vulnerabilities as Fable 5 did in the report.” That confirmed that “the reported technique did not expose any unique Mythos-level cyber capabilities,” Anthropic said, and “only involved routine defensive cybersecurity work.”&lt;/p&gt;
-&lt;p&gt;“Even so, we moved quickly to address the reported bypass,” Anthropic wrote. That jailbreak method is currently blocked in over 99 percent of cases, Anthropic said. However, tightening safeguards came with a “trade-off” that may cause some benign prompts to be blocked “during routine coding and debugging tasks,” the company acknowledged.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;“Working closely with the government, we trained an improved safety classifier that targets and blocks the behavior described in the report,” Anthropic said. “Users will be notified if a request to Fable 5 is blocked, and the request will instead be sent to Opus 4.8.”&lt;/p&gt;
-&lt;p&gt;Of course, Anthropic’s new classifier, which helps avoid uniquely dangerous attacks on the models, can make “mistakes,” Anthropic said. The company has long maintained that it’s “probably impossible” to build a model fully “impervious” to jailbreaks, but by ramping up red-teaming, Anthropic hopes to “ensure that we and our safety partners will be the first to find major jailbreaks and fix them before malicious actors can use them for harm.”&lt;/p&gt;
-&lt;p&gt;The attack Amazon flagged currently works only in a “very small fraction of cases,” where “the model may provide information that isn’t detailed enough to help a cyberattacker,” Anthropic said.&lt;/p&gt;
-&lt;p&gt;By being “cautious,” Anthropic said that “the vast majority of jailbreaks will not successfully unblock dangerous behaviors” and will be “very costly and high-effort to produce.”&lt;/p&gt;
-&lt;p&gt;“Even if a jailbreak is successful, our extra layers of defense”—which requires some blocking of benign requests—“provide additional mitigation,” the company said.&lt;/p&gt;
-&lt;h2&gt;Anthropic’s plan to score jailbreaks&lt;/h2&gt;
-&lt;p&gt;Anthropic’s blog post seems to downplay the threat that Amazon identified as less risky than what it considers the greatest threat to governments: universal jailbreaks that can unlock a wide range of vulnerabilities and enable unforeseeable attacks.&lt;/p&gt;
-&lt;p&gt;To streamline the private-public partnership and ensure the most rapid response to the biggest risks, Anthropic said the AI industry’s goal should be categorizing risks to ensure proper interventions both internally and from the government.&lt;/p&gt;
-&lt;p&gt;Currently, Anthropic is working with Amazon, Microsoft, Google, and other Glasswing partners to “draft a consensus framework for assessing the severity of AI jailbreaks and how AI developers should respond to them.”&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Other industry partners are welcome to join those talks, Anthropic said, even though the process is “imperfect” and focuses on establishing four criteria for scoring a jailbreak. Those include assessing how much capability the jailbreak provides, how many offensive tasks it enables, how easy it is for a human to weaponize a jailbreak (single-prompt jailbreaks are flagged as the riskiest), and whether it requires specialist knowledge to discover the jailbreak.&lt;/p&gt;
-&lt;p&gt;Using this framework, Anthropic has built a team that will monitor jailbreak submission channels 24/7, the blog said. The AI firm also confirmed that it is launching a “a new HackerOne program through which security researchers can submit potential cyber jailbreaks they’ve discovered in Fable 5” to keep red-teaming a top priority.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;h2&gt;Anthropic deepens government ties&lt;/h2&gt;
-&lt;p&gt;For Anthropic, one outcome of government testing seems to be an improved relationship with the government after it sued the US over a national security risk designation that blacklisted the AI firm. Anthropic claimed the designation was retaliation after the company’s refusal to grant government access to models for the purposes of building autonomous weapons or conducting domestic mass surveillance.&lt;/p&gt;
-&lt;p&gt;In its blog, Anthropic said it is expanding its commitments to working with government partners on pre-deployment testing and evaluation. Those efforts will include giving the government early access to frontier models, rapidly sharing information on new jailbreak methods, and dedicating resources to joint research that will “help advance the state of the art in AI evaluation,” Anthropic said.&lt;/p&gt;
-&lt;p&gt;The collaboration offers “the beginnings of a template for effective global coordination on the risks and benefits of AI,” Anthropic said, while urging Congress to pass laws to ensure that all frontier model developers are on the same page.&lt;/p&gt;
-&lt;p&gt;The government is moving too slowly for Anthropic’s comfort. Anthropic CEO Dario Amodei floated his legislative proposal earlier this month, making a &lt;em&gt;Lord of the Rings&lt;/em&gt; reference to emphasize his point:&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;blockquote&gt;&lt;p&gt;In one of the side plots to&lt;span class="apple-converted-space"&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;The Lord of the Rings&lt;/em&gt;, two of the Hobbits attempt to rouse Treebeard—a wise but ponderous sentient tree—to defend his forest from an army that is cutting it down. The problem is that Treebeard operates at a very different speed than the Hobbits. It takes him a full day simply to say hello to another tree, so getting him and his peers to act fast enough is nearly impossible. The intersection of AI and our political institutions feels a bit like the Hobbits and Treebeard.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Initially, Trump planned to be hands-off on AI regulations in an attempt to spur innovation. However, Anthropic’s Mythos release spooked Trump into requesting voluntary safety testing of frontier models in May. Since then, Trump is “still working on a framework for how companies should formally submit new AI models for review, and what standards they would be held to,” two people familiar with the discussions told the NYT.&lt;/p&gt;
-&lt;p&gt;In his post, Amodei called on Congress to act quickly to reimagine safety regulations for a world in which “AI can go from an amusing toy” to a “full country of geniuses in a data center,” or else risk suffering “national strategic” consequences.&lt;/p&gt;
-&lt;p&gt;However, Isaac Harris, executive director of Frontier Security Institute, a nonprofit focused on AI and national security, told Reuters that the “biggest question mark” after Anthropic’s deepened partnership with the government is “how equivalently dangerous capabilities coming from China with less guardrails will be handled by the administration in the US market.”&lt;/p&gt;
-&lt;p&gt;Notably, Anthropic recently accused Chinese AI firm Alibaba of launching the largest cloning attack on Claude. In response, Anthropic urged Congress to pass laws that would punish Chinese firms found stealing US firms’ work. If not, malicious actors who can’t get their hands on Anthropic’s models might turn to Chinese models with lower safeguards and increasingly closer capabilities to launch attacks that blindside the US.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        US lifts curbs on Anthropic’s advanced Fable and Mythos models.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="427" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-640x427.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg" width="1024" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-                      
-          
-          NurPhoto / Contributor | NurPhoto
-
-                      
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;The US has lifted export curbs on Anthropic’s newest Claude models, Fable 5 and Mythos 5, about three weeks after the Trump administration flagged the models as national security risks.&lt;/p&gt;
-&lt;p&gt;As of today, Anthropic confirmed in a blog post, Fable 5 will be available globally, and US organizations have had access restored to Mythos 5 since June 26. Anthropic said it is now working with the government to expand Mythos access to a “broader set of domestic and international partners in the Glasswing program.” That program allows cybersecurity researchers at trusted companies to access Mythos for defensive purposes.&lt;/p&gt;
-&lt;p&gt;In a letter to Anthropic viewed by Reuters and The New York Times, Commerce Secretary Howard Lutnick said Anthropic would “no longer need a license for exports or in-country transfers of its Claude Mythos and Claude Fable AI models.” The letter acknowledged that Anthropic had “taken steps in close coordination with the US government to address the risks” posed by the models.&lt;/p&gt;
-&lt;p&gt;Facing a longer delay in its models’ releases, Lutnick said that Anthropic agreed to expand its partnership with the government. The company said it also set up a program to work with hackers to red-team its models, and there’s now a dedicated internal team to monitor reports of emerging jailbreak threats 24/7.&lt;/p&gt;
-&lt;p&gt;In the letter, Lutnick reminded Anthropic that the US “reserves the right to re-evaluate the decisions” and reimpose export curbs at any point. But for now, Lutnick joined White House Chief of Staff Susie Wiles in celebrating Fable 5’s redeployment on X.&lt;/p&gt;
-&lt;p&gt;“Over the past two weeks, we have worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America’s leadership in AI,” Lutnick said.&lt;/p&gt;
-&lt;p&gt;Wiles did not directly mention Anthropic but claimed a win for Trump, writing that “the government and private sector have worked together in a way we have never seen before and this foundation of America First is unprecedented. Our shared priority remains: get the best tech deployed as quickly and safely as possible.”&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;h2&gt;Trade-off: Fable 5 may block routine coding tasks&lt;/h2&gt;
-&lt;p&gt;On June 12, the Commerce Department ordered Anthropic to shut off access to its most advanced models for anyone outside the US. The order emerged from fears that China, Russia, or other countries of concern may exploit the models to attack US infrastructure, like the electric grid or the banking system. In response, Anthropic shut down all access, as it didn’t have a way to block users by country.&lt;/p&gt;
-&lt;p&gt;In particular, Mythos was viewed as “uniquely attractive to malicious actors who wish to misuse it in cyberattacks,” Anthropic’s blog said. According to Anthropic, the model “can be used to find and exploit software vulnerabilities more effectively than any other model—and all but the most skilled human security experts,” and those “prodigious cybersecurity capabilities” could be used against the US.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;p&gt;Fable 5 shares the “same underlying model,” Anthropic said, but unlike Mythos 5, it “provides no such unique offensive capabilities.” Designed for the general public, Fable 5 already had the strongest safeguards Anthropic has ever applied to a model, and Anthropic said those safeguards are now even stronger ahead of redeployment.&lt;/p&gt;
-&lt;p&gt;After weeks of testing, Fable 5 is no longer vulnerable to a bypassing method discovered by Amazon researchers that identified several software vulnerabilities and triggered the export curbs. Most troublingly, Anthropic said, was a case in which the model was manipulated into producing code that demonstrated how a vulnerability could be exploited.&lt;/p&gt;
-&lt;p&gt;According to Anthropic, testing confirmed that less advanced rival models on the market, like GPT-5.5 and Kimi K2.7, “could identify the same vulnerabilities as Fable 5 did in the report.” That confirmed that “the reported technique did not expose any unique Mythos-level cyber capabilities,” Anthropic said, and “only involved routine defensive cybersecurity work.”&lt;/p&gt;
-&lt;p&gt;“Even so, we moved quickly to address the reported bypass,” Anthropic wrote. That jailbreak method is currently blocked in over 99 percent of cases, Anthropic said. However, tightening safeguards came with a “trade-off” that may cause some benign prompts to be blocked “during routine coding and debugging tasks,” the company acknowledged.&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;“Working closely with the government, we trained an improved safety classifier that targets and blocks the behavior described in the report,” Anthropic said. “Users will be notified if a request to Fable 5 is blocked, and the request will instead be sent to Opus 4.8.”&lt;/p&gt;
-&lt;p&gt;Of course, Anthropic’s new classifier, which helps avoid uniquely dangerous attacks on the models, can make “mistakes,” Anthropic said. The company has long maintained that it’s “probably impossible” to build a model fully “impervious” to jailbreaks, but by ramping up red-teaming, Anthropic hopes to “ensure that we and our safety partners will be the first to find major jailbreaks and fix them before malicious actors can use them for harm.”&lt;/p&gt;
-&lt;p&gt;The attack Amazon flagged currently works only in a “very small fraction of cases,” where “the model may provide information that isn’t detailed enough to help a cyberattacker,” Anthropic said.&lt;/p&gt;
-&lt;p&gt;By being “cautious,” Anthropic said that “the vast majority of jailbreaks will not successfully unblock dangerous behaviors” and will be “very costly and high-effort to produce.”&lt;/p&gt;
-&lt;p&gt;“Even if a jailbreak is successful, our extra layers of defense”—which requires some blocking of benign requests—“provide additional mitigation,” the company said.&lt;/p&gt;
-&lt;h2&gt;Anthropic’s plan to score jailbreaks&lt;/h2&gt;
-&lt;p&gt;Anthropic’s blog post seems to downplay the threat that Amazon identified as less risky than what it considers the greatest threat to governments: universal jailbreaks that can unlock a wide range of vulnerabilities and enable unforeseeable attacks.&lt;/p&gt;
-&lt;p&gt;To streamline the private-public partnership and ensure the most rapid response to the biggest risks, Anthropic said the AI industry’s goal should be categorizing risks to ensure proper interventions both internally and from the government.&lt;/p&gt;
-&lt;p&gt;Currently, Anthropic is working with Amazon, Microsoft, Google, and other Glasswing partners to “draft a consensus framework for assessing the severity of AI jailbreaks and how AI developers should respond to them.”&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Other industry partners are welcome to join those talks, Anthropic said, even though the process is “imperfect” and focuses on establishing four criteria for scoring a jailbreak. Those include assessing how much capability the jailbreak provides, how many offensive tasks it enables, how easy it is for a human to weaponize a jailbreak (single-prompt jailbreaks are flagged as the riskiest), and whether it requires specialist knowledge to discover the jailbreak.&lt;/p&gt;
-&lt;p&gt;Using this framework, Anthropic has built a team that will monitor jailbreak submission channels 24/7, the blog said. The AI firm also confirmed that it is launching a “a new HackerOne program through which security researchers can submit potential cyber jailbreaks they’ve discovered in Fable 5” to keep red-teaming a top priority.&lt;/p&gt;
-&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
-&lt;h2&gt;Anthropic deepens government ties&lt;/h2&gt;
-&lt;p&gt;For Anthropic, one outcome of government testing seems to be an improved relationship with the government after it sued the US over a national security risk designation that blacklisted the AI firm. Anthropic claimed the designation was retaliation after the company’s refusal to grant government access to models for the purposes of building autonomous weapons or conducting domestic mass surveillance.&lt;/p&gt;
-&lt;p&gt;In its blog, Anthropic said it is expanding its commitments to working with government partners on pre-deployment testing and evaluation. Those efforts will include giving the government early access to frontier models, rapidly sharing information on new jailbreak methods, and dedicating resources to joint research that will “help advance the state of the art in AI evaluation,” Anthropic said.&lt;/p&gt;
-&lt;p&gt;The collaboration offers “the beginnings of a template for effective global coordination on the risks and benefits of AI,” Anthropic said, while urging Congress to pass laws to ensure that all frontier model developers are on the same page.&lt;/p&gt;
-&lt;p&gt;The government is moving too slowly for Anthropic’s comfort. Anthropic CEO Dario Amodei floated his legislative proposal earlier this month, making a &lt;em&gt;Lord of the Rings&lt;/em&gt; reference to emphasize his point:&lt;/p&gt;
-
-          
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;blockquote&gt;&lt;p&gt;In one of the side plots to&lt;span class="apple-converted-space"&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;The Lord of the Rings&lt;/em&gt;, two of the Hobbits attempt to rouse Treebeard—a wise but ponderous sentient tree—to defend his forest from an army that is cutting it down. The problem is that Treebeard operates at a very different speed than the Hobbits. It takes him a full day simply to say hello to another tree, so getting him and his peers to act fast enough is nearly impossible. The intersection of AI and our political institutions feels a bit like the Hobbits and Treebeard.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Initially, Trump planned to be hands-off on AI regulations in an attempt to spur innovation. However, Anthropic’s Mythos release spooked Trump into requesting voluntary safety testing of frontier models in May. Since then, Trump is “still working on a framework for how companies should formally submit new AI models for review, and what standards they would be held to,” two people familiar with the discussions told the NYT.&lt;/p&gt;
-&lt;p&gt;In his post, Amodei called on Congress to act quickly to reimagine safety regulations for a world in which “AI can go from an amusing toy” to a “full country of geniuses in a data center,” or else risk suffering “national strategic” consequences.&lt;/p&gt;
-&lt;p&gt;However, Isaac Harris, executive director of Frontier Security Institute, a nonprofit focused on AI and national security, told Reuters that the “biggest question mark” after Anthropic’s deepened partnership with the government is “how equivalently dangerous capabilities coming from China with less guardrails will be handled by the administration in the US market.”&lt;/p&gt;
-&lt;p&gt;Notably, Anthropic recently accused Chinese AI firm Alibaba of launching the largest cloning attack on Claude. In response, Anthropic urged Congress to pass laws that would punish Chinese firms found stealing US firms’ work. If not, malicious actors who can’t get their hands on Anthropic’s models might turn to Chinese models with lower safeguards and increasingly closer capabilities to launch attacks that blindside the US.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/</guid><pubDate>Wed, 01 Jul 2026 16:44:18 +0000</pubDate></item><item><title>Cloudflare’s new policy pushes AI companies to pay for publishers’ content (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Cloudflare has just issued the AI industry a new deadline to separate the web crawlers used for traditional search purposes, like Google Search, from those used for AI agents and training. Starting on September 15, 2026, Cloudflare’s default settings will block “mixed-use” crawlers from any pages that host ads, the company announced on Wednesday.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That means that the crawlers that blend search, agent use, and training will be blocked from crawling these sites by default, unless the site owner adjusts the settings otherwise. These changes to the defaults will apply to new Cloudflare customers, new sites set up by existing customers, and all existing free customers, the company says.&lt;/p&gt;
-
-
-
-
-
-
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 02 Jul 2026 09:16:04 +0000</lastBuildDate><item><title>[NEW] NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout (NVIDIA Blog)</title><link>https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/03/nvendeavor-1.jpg" /&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Emerging AI companies historically have had limited access to capital-intensive infrastructure, with even long-term commitments insufficient to unlock financing for compute.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To address this, NVIDIA is introducing a new business model that opens up compute access to the fast‑growing AI ecosystem of startups, model builders, enterprises, research organizations and regional AI players.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This new model enables AI clouds to procure NVIDIA infrastructure for AI-native, enterprise and ISV customers through economic alignment with a revenue-sharing and credit-support model. Through the partnership, AI clouds will sell NVIDIA-powered cloud services, with NVIDIA earning both standard product revenue and a share of the cloud revenue on the supported capacity. This structure accelerates adoption of NVIDIA platforms among the high-growth, high-conviction AI native sector, and provides NVIDIA with a recurring, usage-linked earnings stream.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;For model builders, inference providers, agent platforms and enterprises scaling AI, it can mean faster access to full-stack accelerated computing without waiting through site selection, power procurement, construction and hardware bring-up.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;NVIDIA AI Factory Capacity Built Around Demand&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;The initiative is already taking shape, with AI cloud companies building DSX AI factories designed to serve customers and workloads across regions.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Sharon AI and Firmus are among the first companies to work with NVIDIA on this new business model.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Sharon AI is deploying up to 40,000 NVIDIA Grace Blackwell GB300 GPUs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“This strategic collaboration with NVIDIA marks a pivotal moment in Sharon AI’s mission to deliver sovereign, large-scale AI compute infrastructure,” said James Manning, cofounder and CEO of Sharon AI.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Firmus is building a DSX AI factory campus in Batam, Indonesia. The campus is expected to scale to 360 megawatts and up to 170,000 NVIDIA GPUs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“AI-native companies need access to scalable, energy- and cost-efficient compute infrastructure to compete globally,” said Tim Rosenfield, co-CEO of &lt;/span&gt;&lt;span&gt;Firmus &lt;/span&gt;&lt;span&gt;Technologies. “Firmus AI cloud is building a NVIDIA DSX-aligned AI factory, which will enable our cloud to help more customers access the compute they need to build and scale AI.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;AI natives such as Baseten, Fireworks AI and Together AI show where compute demand is headed: they need immediate access to AI cloud capacity to run model training, post-training, fine-tuning and high-volume agentic inference for developers, digital natives and enterprises building with AI.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Their customers need reliable access to large-scale NVIDIA accelerated computing as usage grows, but they also need commercial flexibility as products move from pilot to production.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;span&gt;To secure compute capacity and build and deploy AI models, contact Sharon AI and Firmus.&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;span&gt;&amp;nbsp;Learn more about &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;NVIDIA Cloud Partners&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;AI factories&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;.&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://blogs.nvidia.com/wp-content/uploads/2025/03/nvendeavor-1.jpg" /&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Emerging AI companies historically have had limited access to capital-intensive infrastructure, with even long-term commitments insufficient to unlock financing for compute.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;To address this, NVIDIA is introducing a new business model that opens up compute access to the fast‑growing AI ecosystem of startups, model builders, enterprises, research organizations and regional AI players.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This new model enables AI clouds to procure NVIDIA infrastructure for AI-native, enterprise and ISV customers through economic alignment with a revenue-sharing and credit-support model. Through the partnership, AI clouds will sell NVIDIA-powered cloud services, with NVIDIA earning both standard product revenue and a share of the cloud revenue on the supported capacity. This structure accelerates adoption of NVIDIA platforms among the high-growth, high-conviction AI native sector, and provides NVIDIA with a recurring, usage-linked earnings stream.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;For model builders, inference providers, agent platforms and enterprises scaling AI, it can mean faster access to full-stack accelerated computing without waiting through site selection, power procurement, construction and hardware bring-up.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;NVIDIA AI Factory Capacity Built Around Demand&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span&gt;The initiative is already taking shape, with AI cloud companies building DSX AI factories designed to serve customers and workloads across regions.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Sharon AI and Firmus are among the first companies to work with NVIDIA on this new business model.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Sharon AI is deploying up to 40,000 NVIDIA Grace Blackwell GB300 GPUs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“This strategic collaboration with NVIDIA marks a pivotal moment in Sharon AI’s mission to deliver sovereign, large-scale AI compute infrastructure,” said James Manning, cofounder and CEO of Sharon AI.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Firmus is building a DSX AI factory campus in Batam, Indonesia. The campus is expected to scale to 360 megawatts and up to 170,000 NVIDIA GPUs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;“AI-native companies need access to scalable, energy- and cost-efficient compute infrastructure to compete globally,” said Tim Rosenfield, co-CEO of &lt;/span&gt;&lt;span&gt;Firmus &lt;/span&gt;&lt;span&gt;Technologies. “Firmus AI cloud is building a NVIDIA DSX-aligned AI factory, which will enable our cloud to help more customers access the compute they need to build and scale AI.”&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;AI natives such as Baseten, Fireworks AI and Together AI show where compute demand is headed: they need immediate access to AI cloud capacity to run model training, post-training, fine-tuning and high-volume agentic inference for developers, digital natives and enterprises building with AI.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Their customers need reliable access to large-scale NVIDIA accelerated computing as usage grows, but they also need commercial flexibility as products move from pilot to production.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;span&gt;To secure compute capacity and build and deploy AI models, contact Sharon AI and Firmus.&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;span&gt;&amp;nbsp;Learn more about &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;NVIDIA Cloud Partners&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt; and &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;AI factories&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span&gt;.&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</guid><pubDate>Thu, 02 Jul 2026 03:34:48 +0000</pubDate></item><item><title>[NEW] Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Indian serial entrepreneur Bhavin Turakhia is making a $30 million personal bet that there is still room for another enterprise AI company. His new venture, Neo, is built on a simple premise: workplace software designed before the AI era cannot simply be upgraded with chatbots — it has to be redesigned from the ground up.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The move could impact how AI model providers are able to access web content for training purposes and to help power their agentic services. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Turakhia, 46, is no stranger to ambitious enterprise technology bets. Over the past two decades, he has co-founded companies including Directi, Radix, Titan, and banking software firm Zeta, largely backing them with his own cash before bringing in outside investors. He’s doing the same with Neo.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Cloudflare points out that most website owners want their content to be discoverable via search and often through AI services as well, but they want protections against having their intellectual property given away for free.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Cloudflare specifically calls out the “world’s largest search engine” (clearly a Google reference!) as having access to about “2x more information” than other AI companies because the search giant makes it difficult for customers to remain discoverable without being used for AI. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Google has pushed back against this generalization in the past, noting that it provides a bot called Google Extended that lets site owners opt out of having their content used for training and AI products and services like Gemini Apps and Vertex API. Its use doesn’t impact a site’s inclusion in Google Search. However, the tech giant’s flagship Googlebot crawls for Search, including AI features like AI Overviews and AI Mode.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Now that the majority of traffic on the Internet is non-human, we must go further and act faster so that a sustainable ecosystem can emerge,” said Cloudflare co-founder and CEO Matthew Prince in his announcement of the news, referring to the recent milestone where bots surpassed human traffic online for the first time. That shift was not expected to occur until next year.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Cloudflare’s new tools and partnerships give website owners increased visibility and commercial opportunities and benefit AI companies that have bots with clear and transparent intent. We hope that our proposed default changes encourage mixed-use crawlers to separate out search from agent use and training,” Prince said.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;While Cloudflare offers a number of products to help users launch their own AI systems, the company has also released a range of tools to give publishers more control over their content in the AI era. In recent years, Cloudflare launched tools to combat AI bots, including a marketplace that lets websites charge AI bots for scraping, dubbed Pay Per Crawl.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The latter is now also evolving into “Pay Per Use,” the company said, which will allow publishers to charge AI companies when their content creates value, not just when it’s fetched. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Turakhia told TechCrunch he is bootstrapping this much money because he believes AI marks a technology shift significant enough to justify rebuilding workplace software from scratch.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;“If you want to build an iPhone, you can’t take the parts of a Nokia and somehow convert it into an iPhone,” he said.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Launched internally in April this year, Neo is an enterprise work platform that combines project management, documents, file storage, and AI into a single product. The goal, Turakhia said, is to make AI an active participant in day-to-day work rather than just another assistant employees turn to separately.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Turakhia argued most incumbents face a structural disadvantage when adding AI to products designed before generative AI. Neo, he said, was designed from the ground up for AI and is model-agnostic, allowing enterprises to switch between AI models rather than being tied to a single provider.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;He’s not alone in thinking this way. Investor Chamath Palihapitiya initially launched enterprise AI coding venture 8090 with his own capital before raising a $135 million funding round this week.&lt;/p&gt;
 
 
+&lt;p class="wp-block-paragraph"&gt;Still, Turakhia’s bet comes as enterprise AI has emerged as one of the most competitive areas in technology. Microsoft, Google, and Salesforce are embedding AI across their workplace software. Meanwhile every startup from the giant labs like Anthropic and OpenAI, to the productivity companies like Notion and Superhuman are racing to reshape how businesses use AI in their daily workflow.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The change could also help conserve publishers’ bandwidth and compute resources for AI model providers, as Cloudflare’s data suggested that over 50% of crawl traffic from AI crawlers is spent re-fetching unchanged pages. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Turakhia argued enterprise software has never been a winner-takes-all market, saying even a small share of global enterprise AI spending would represent a sizeable company.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;To put this into action, Cloudflare is initially working with two partners, Ceramic.ai and You.com. When a publisher opts in, they’re paid when their content appears in Ceramic’s AI search results or when You.com accesses a piece of their premium content. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“Even if we end up with 2% to 5% market share, that’s larger than anything I’ve built so far,” he said.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Other AI companies can customize this model for how they work, Cloudflare says. &lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Cloudflare has just issued the AI industry a new deadline to separate the web crawlers used for traditional search purposes, like Google Search, from those used for AI agents and training. Starting on September 15, 2026, Cloudflare’s default settings will block “mixed-use” crawlers from any pages that host ads, the company announced on Wednesday.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;That means that the crawlers that blend search, agent use, and training will be blocked from crawling these sites by default, unless the site owner adjusts the settings otherwise. These changes to the defaults will apply to new Cloudflare customers, new sites set up by existing customers, and all existing free customers, the company says.&lt;/p&gt;
 
 
 
 
 
+&lt;p class="wp-block-paragraph"&gt;For the past few months, Neo has been in internal use across Turakhia’s companies, including Zeta. The company plans to begin rolling out the software to mid-sized businesses in the coming months, initially targeting knowledge workers across technology, consulting, and professional services firms.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Turakhia said Neo’s initial platform was built in three months, with AI extensively used in the development process, work he estimates would have taken more than a year with a much larger engineering team before generative AI.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The move could impact how AI model providers are able to access web content for training purposes and to help power their agentic services. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The Bengaluru-based startup currently employs about 45 people, including 18 engineers. Turakhia told TechCrunch that it expects to grow to around 100 employees by the end of the year, with most new hires focused on AI and software engineering.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Indian serial entrepreneur Bhavin Turakhia is making a $30 million personal bet that there is still room for another enterprise AI company. His new venture, Neo, is built on a simple premise: workplace software designed before the AI era cannot simply be upgraded with chatbots — it has to be redesigned from the ground up.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Cloudflare points out that most website owners want their content to be discoverable via search and often through AI services as well, but they want protections against having their intellectual property given away for free.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Turakhia, 46, is no stranger to ambitious enterprise technology bets. Over the past two decades, he has co-founded companies including Directi, Radix, Titan, and banking software firm Zeta, largely backing them with his own cash before bringing in outside investors. He’s doing the same with Neo.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Cloudflare specifically calls out the “world’s largest search engine” (clearly a Google reference!) as having access to about “2x more information” than other AI companies because the search giant makes it difficult for customers to remain discoverable without being used for AI. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Google has pushed back against this generalization in the past, noting that it provides a bot called Google Extended that lets site owners opt out of having their content used for training and AI products and services like Gemini Apps and Vertex API. Its use doesn’t impact a site’s inclusion in Google Search. However, the tech giant’s flagship Googlebot crawls for Search, including AI features like AI Overviews and AI Mode.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Now that the majority of traffic on the Internet is non-human, we must go further and act faster so that a sustainable ecosystem can emerge,” said Cloudflare co-founder and CEO Matthew Prince in his announcement of the news, referring to the recent milestone where bots surpassed human traffic online for the first time. That shift was not expected to occur until next year.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;“Cloudflare’s new tools and partnerships give website owners increased visibility and commercial opportunities and benefit AI companies that have bots with clear and transparent intent. We hope that our proposed default changes encourage mixed-use crawlers to separate out search from agent use and training,” Prince said.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;While Cloudflare offers a number of products to help users launch their own AI systems, the company has also released a range of tools to give publishers more control over their content in the AI era. In recent years, Cloudflare launched tools to combat AI bots, including a marketplace that lets websites charge AI bots for scraping, dubbed Pay Per Crawl.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The latter is now also evolving into “Pay Per Use,” the company said, which will allow publishers to charge AI companies when their content creates value, not just when it’s fetched. &lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Turakhia told TechCrunch he is bootstrapping this much money because he believes AI marks a technology shift significant enough to justify rebuilding workplace software from scratch.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;“If you want to build an iPhone, you can’t take the parts of a Nokia and somehow convert it into an iPhone,” he said.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Launched internally in April this year, Neo is an enterprise work platform that combines project management, documents, file storage, and AI into a single product. The goal, Turakhia said, is to make AI an active participant in day-to-day work rather than just another assistant employees turn to separately.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Turakhia argued most incumbents face a structural disadvantage when adding AI to products designed before generative AI. Neo, he said, was designed from the ground up for AI and is model-agnostic, allowing enterprises to switch between AI models rather than being tied to a single provider.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;He’s not alone in thinking this way. Investor Chamath Palihapitiya initially launched enterprise AI coding venture 8090 with his own capital before raising a $135 million funding round this week.&lt;/p&gt;
 
 
-&lt;p class="wp-block-paragraph"&gt;The change could also help conserve publishers’ bandwidth and compute resources for AI model providers, as Cloudflare’s data suggested that over 50% of crawl traffic from AI crawlers is spent re-fetching unchanged pages. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Still, Turakhia’s bet comes as enterprise AI has emerged as one of the most competitive areas in technology. Microsoft, Google, and Salesforce are embedding AI across their workplace software. Meanwhile every startup from the giant labs like Anthropic and OpenAI, to the productivity companies like Notion and Superhuman are racing to reshape how businesses use AI in their daily workflow.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;To put this into action, Cloudflare is initially working with two partners, Ceramic.ai and You.com. When a publisher opts in, they’re paid when their content appears in Ceramic’s AI search results or when You.com accesses a piece of their premium content. &lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Turakhia argued enterprise software has never been a winner-takes-all market, saying even a small share of global enterprise AI spending would represent a sizeable company.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Other AI companies can customize this model for how they work, Cloudflare says. &lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</guid><pubDate>Wed, 01 Jul 2026 17:48:37 +0000</pubDate></item><item><title>You Can Now Sound the Alarm on AI Behaving Badly (Artificial Intelligence)</title><link>https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/</link><description>&lt;div class="AIContentWrapper-lBLcd bblOul"&gt;&lt;div class="ArticlePageLedeBackground-bNmFvK eudZMI"&gt;&lt;header class="SplitScreenContentHeaderWrapper-kYXvBM jbpCVU content-header article__content-header"&gt;&lt;div class="GridWrapper-uulHE kCXnFV grid grid-items-2 grid-full-bleed grid-no-gap SplitScreenContentHeaderMain-klfmk fjqJXY theme-lab-green with-divider-desktop with-divider-mobile inset"&gt;&lt;div class="GridItem-bufwYC fVPmGe grid--item"&gt;&lt;div class="SplitScreenContentHeaderTitleBlock-hlDbje eQqdJY"&gt;&lt;div class="content-header-text"&gt;&lt;div class="BaseText-fEwdHD SplitScreenContentHeaderDek-juwmcJ hieunh bFhTNF"&gt;Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridItem-bufwYC fVPmGe grid--item"&gt;&lt;div class="SplitScreenContentHeaderLeadWrapper-hSIObk hENeSt"&gt;&lt;div class="SplitScreenContentHeaderLedeBlock-gyTnpK bWrTPF"&gt;&lt;span class="SpanWrapper-kFnjvc eKnjjD responsive-asset SplitScreenContentHeaderLede-dhVTZD jloyWy"&gt;&lt;source media="(max-width: 767px)" /&gt;&lt;source media="(min-width: 768px)" /&gt;&lt;img alt="Image may contain Electrical Device Microphone Light and Person" class="ResponsiveImageContainer-dkeESL cQPiWi responsive-image__image" src="https://media.wired.com/photos/6a42d38427caad328b221827/master/w_2560%2Cc_limit/AI-Lab-Ring-Alarm-on-AI-Business.jpg" /&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridWrapper-uulHE dArhxS grid grid-margins grid-items-0 SplitScreenContentHeaderGrid-btvIAX ipcpCb align-end"&gt;&lt;div class="GridItem-bufwYC khuCvB grid--item"&gt;&lt;div class="CaptionWrapper-bpPcvW iDPSlt caption SplitScreenContentHeaderCaption-gPlPMN ikxKhH"&gt;&lt;span class="BaseText-fEwdHD CaptionCredit-cUgOGk iQbGEh hRFzlA caption__credit"&gt;Photo-Illustration: WIRED Staff; Getty Images&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/header&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="ArticlePageContentBackGround-eDdQYX jBrCot article-body__content"&gt;&lt;div class="ActionBarWrapperContent-eyqXkK gpkYzy"&gt;&lt;div class="ActionBarWrapperComponent-chDeHg dIFaKt"&gt;&lt;div class="ActionBarWrapper-kJGqdz ilJakn viewport-monitor-anchor"&gt;&lt;/div&gt;&lt;div class="ActionBarWrapper-kJGqdz kdCnOa viewport-monitor-anchor"&gt;&lt;span class="ActionBarButtonDivider-czAGEz bhehL"&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="ArticlePageChunksContent-hsbblt iCXbHE"&gt;&lt;div class="ArticlePageChunks-lfyGNk gEPfMM"&gt;&lt;div class="GridWrapper-uulHE dCnZHU grid grid-margins grid-items-2 ArticlePageChunksGrid-kSknMg dSvDdx grid-layout--adrail narrow wide-adrail"&gt;&lt;div class="GridItem-bufwYC kKTABR grid--item grid-layout__content"&gt;&lt;div class="BodyWrapper-cuqCAc ciBUwe body body__container article__body"&gt;&lt;figure class="CneAudioEmbedFigure-cwqusU dGMPjV"&gt;&lt;div&gt;&lt;div id="6a45abcd67fdeb11005ae61d"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;&lt;div class="body__inner-container"&gt;&lt;p&gt;&lt;span class="lead-in-text-callout"&gt;Writing &lt;/span&gt;&lt;em&gt;AI Lab&lt;/em&gt; each week means I occasionally encounter AI models that behave badly and bizarrely. Usually, there’s nothing to be done about it, save for sharing those tales with you. But that could soon change.&lt;/p&gt;&lt;p class="paywall"&gt;A group of AI researchers has set up a crowdsourced website, Flaw Reporting for AI (FLARE-AI), for reporting and tracking AI harms. If, for example, a chatbot generates malware or a bomb-making recipe, leaks personal information, or triggers delusional thinking in users, FLARE-AI could be used to sound the alarm. The open source code behind the system allows others to verify an issue and route reports to model makers, as well as organizations like MITRE, a nonprofit that tracks problems with technical systems. It’s a bit like Downdetector, which compiles real-time user reports for global service outages affecting things like apps and websites.&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;p class="paywall"&gt;The website is another step in the group’s ongoing work with AI reporting, which I first wrote about last year. Members of the group also consulted on a congressional bill announced in June, which would see the US government take a central role in tracking this kind of AI misbehavior.&lt;/p&gt;&lt;div class="Container-ioqmpI jzsvml"&gt;&lt;/div&gt;&lt;p class="paywall"&gt;“Right now, there is no centralized, accountable way to report flaws in AI systems,” says Avijit Ghosh, an artificial intelligence policy researcher at HuggingFace who co-led development of FLARE-AI with computer scientists Elaine Zhu and Shayne Longpre.&lt;/p&gt;&lt;p class="paywall"&gt;The alarm system was developed in collaboration with 49 AI experts from 32 different organizations. In a paper outlining the work, the researchers argue that their initiative could prove crucial as AI is adopted more widely and as agentic systems gain greater power. The lack of a consistent way to report AI flaws is a significant problem, they believe.&lt;/p&gt;&lt;p class="paywall"&gt;“I think it’s a really good initiative,” says Jessica Ji, a researcher at the think tank Center for Security and Emerging Technology. Ji says the researchers are right to note that existing reporting mechanisms are fragmented and that AI models are black boxes. “I’m in support of anything that makes AI more transparent,” she says.&lt;/p&gt;&lt;div class="ConsumerMarketingUnitThemedWrapper-kjbXjp gnOkbl consumer-marketing-unit consumer-marketing-unit--article-mid-content"&gt;&lt;div class="consumer-marketing-unit__slot consumer-marketing-unit__slot--article-mid-content consumer-marketing-unit__slot--in-content"&gt;&lt;/div&gt;&lt;div class="journey-unit"&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class="paywall"&gt;Though bugs and cybersecurity problems get a lot of attention—especially of late—Ghosh tells me that problems with AI systems span topics like psychological harm, discrimination or bias, and misinformation. He adds that different companies have different standards around such issues, which means some problems go unrecognized. “In the absence of a coordinated disclosure system, there are no external mechanisms to enforce transparency,” Ghosh says.&lt;/p&gt;&lt;p class="paywall"&gt;A spate of recent incidents involving popular AI tools shows how easily the technology can go bad.&lt;/p&gt;&lt;p class="paywall"&gt;This week, a company called LayerX disclosed a way to dupe AI-infused web browsers, including OpenAI’s Atlas and Perplexity’s Comet, into vaulting their guardrails. Convincing the AI model behind the browser that it was playing a game, for example, could lead to the browser going rogue and trying to hack a website. (The companies responsible for the affected browsers have fixed the issue, LayerX says.) And this April, Johann Rehberger, a security researcher, discovered a way to trick Claude into divulging personal data using images generated by ChatGTP.&lt;/p&gt;&lt;p class="paywall"&gt;AI introduces bizarre new kinds of problems, too. Last year, OpenAI was forced to update its models after it discovered that they were overly sycophantic, which sometimes appeared to encourage delusional thinking.&lt;/p&gt;&lt;p class="paywall"&gt;Rumman Chowdhury, the CEO and founder of Humane Intelligence PBC, says FLARE-AI could be a useful way for many AI developers to implement ways of reporting issues with their tools. But she adds that such initiatives often come with serious challenges.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridItem-bufwYC fdedvq grid--item grid-layout__aside"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridWrapper-uulHE dCnZHU grid grid-margins grid-items-2 ArticlePageChunksGrid-kSknMg dSvDdx grid-layout--adrail narrow wide-adrail"&gt;&lt;div class="GridItem-bufwYC kKTABR grid--item grid-layout__content"&gt;&lt;div class="BodyWrapper-cuqCAc ciBUwe body body__container article__body"&gt;&lt;div class="body__inner-container"&gt;&lt;p class="paywall"&gt;One is managing a flood of reported issues, many of which may not be serious. Another is ensuring reporting schemes are backed by credible and authoritative organizations.&lt;/p&gt;&lt;p class="paywall"&gt;Last month’s congressional bill could put some US government heft behind an effort like FLARE-AI. The legislation, introduced by Representatives Deborah Ross, Jeff Hurd, and Don Beyer, would require the National Institute of Standards and Technology to develop standards around AI flaw reporting and to maintain a centralized AI flaw reporting database. Ghosh and his co-leads say this would incentivize AI developers to address issues in their systems and let users examine the safety of different systems for different use cases.&lt;/p&gt;&lt;p class="paywall"&gt;The need for new ways to report AI harms only seems likely to grow. Agentic systems like OpenClaw have greater potential to do harm, as do models that are more capable of probing and hacking computer systems. I may be using FLARE-AI to report my own misadventures soon enough.&lt;/p&gt;&lt;hr class="paywall" /&gt;&lt;p class="paywall"&gt;&lt;em&gt;This is an edition of&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Will Knight’s&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;&lt;strong&gt;AI Lab newsletter&lt;/strong&gt;. Read previous newsletters&lt;/em&gt; &lt;em&gt;&lt;strong&gt;here.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridItem-bufwYC fdedvq grid--item grid-layout__aside"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridWrapper-uulHE dCnZHU grid grid-margins grid-items-2 PaywallInlineBarrierWithWrapperGrid-gsjZKQ bxuhND grid-layout--adrail narrow wide-adrail"&gt;&lt;div class="GridItem-bufwYC kKTABR grid--item grid-layout__content"&gt;&lt;div class="body body__inline-barrier article__body"&gt;&lt;div class="container container--body"&gt;&lt;div class="container--body-inner"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridWrapper-uulHE dCnZHU grid grid-margins grid-items-2 ContentWrapperGrid-hbJRnx cYtuEk grid-layout--adrail narrow wide-adrail"&gt;&lt;div class="GridItem-bufwYC kKTABR grid--item grid-layout__content"&gt;&lt;div class="body body__container"&gt;&lt;div class="container container--body"&gt;&lt;div class="container--body-inner"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div class="AIContentWrapper-lBLcd bblOul"&gt;&lt;div class="ArticlePageLedeBackground-bNmFvK eudZMI"&gt;&lt;header class="SplitScreenContentHeaderWrapper-kYXvBM jbpCVU content-header article__content-header"&gt;&lt;div class="GridWrapper-uulHE kCXnFV grid grid-items-2 grid-full-bleed grid-no-gap SplitScreenContentHeaderMain-klfmk fjqJXY theme-lab-green with-divider-desktop with-divider-mobile inset"&gt;&lt;div class="GridItem-bufwYC fVPmGe grid--item"&gt;&lt;div class="SplitScreenContentHeaderTitleBlock-hlDbje eQqdJY"&gt;&lt;div class="content-header-text"&gt;&lt;div class="BaseText-fEwdHD SplitScreenContentHeaderDek-juwmcJ hieunh bFhTNF"&gt;Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridItem-bufwYC fVPmGe grid--item"&gt;&lt;div class="SplitScreenContentHeaderLeadWrapper-hSIObk hENeSt"&gt;&lt;div class="SplitScreenContentHeaderLedeBlock-gyTnpK bWrTPF"&gt;&lt;span class="SpanWrapper-kFnjvc eKnjjD responsive-asset SplitScreenContentHeaderLede-dhVTZD jloyWy"&gt;&lt;source media="(max-width: 767px)" /&gt;&lt;source media="(min-width: 768px)" /&gt;&lt;img alt="Image may contain Electrical Device Microphone Light and Person" class="ResponsiveImageContainer-dkeESL cQPiWi responsive-image__image" src="https://media.wired.com/photos/6a42d38427caad328b221827/master/w_2560%2Cc_limit/AI-Lab-Ring-Alarm-on-AI-Business.jpg" /&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridWrapper-uulHE dArhxS grid grid-margins grid-items-0 SplitScreenContentHeaderGrid-btvIAX ipcpCb align-end"&gt;&lt;div class="GridItem-bufwYC khuCvB grid--item"&gt;&lt;div class="CaptionWrapper-bpPcvW iDPSlt caption SplitScreenContentHeaderCaption-gPlPMN ikxKhH"&gt;&lt;span class="BaseText-fEwdHD CaptionCredit-cUgOGk iQbGEh hRFzlA caption__credit"&gt;Photo-Illustration: WIRED Staff; Getty Images&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/header&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="ArticlePageContentBackGround-eDdQYX jBrCot article-body__content"&gt;&lt;div class="ActionBarWrapperContent-eyqXkK gpkYzy"&gt;&lt;div class="ActionBarWrapperComponent-chDeHg dIFaKt"&gt;&lt;div class="ActionBarWrapper-kJGqdz ilJakn viewport-monitor-anchor"&gt;&lt;/div&gt;&lt;div class="ActionBarWrapper-kJGqdz kdCnOa viewport-monitor-anchor"&gt;&lt;span class="ActionBarButtonDivider-czAGEz bhehL"&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="ArticlePageChunksContent-hsbblt iCXbHE"&gt;&lt;div class="ArticlePageChunks-lfyGNk gEPfMM"&gt;&lt;div class="GridWrapper-uulHE dCnZHU grid grid-margins grid-items-2 ArticlePageChunksGrid-kSknMg dSvDdx grid-layout--adrail narrow wide-adrail"&gt;&lt;div class="GridItem-bufwYC kKTABR grid--item grid-layout__content"&gt;&lt;div class="BodyWrapper-cuqCAc ciBUwe body body__container article__body"&gt;&lt;figure class="CneAudioEmbedFigure-cwqusU dGMPjV"&gt;&lt;div&gt;&lt;div id="6a45abcd67fdeb11005ae61d"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;&lt;div class="body__inner-container"&gt;&lt;p&gt;&lt;span class="lead-in-text-callout"&gt;Writing &lt;/span&gt;&lt;em&gt;AI Lab&lt;/em&gt; each week means I occasionally encounter AI models that behave badly and bizarrely. Usually, there’s nothing to be done about it, save for sharing those tales with you. But that could soon change.&lt;/p&gt;&lt;p class="paywall"&gt;A group of AI researchers has set up a crowdsourced website, Flaw Reporting for AI (FLARE-AI), for reporting and tracking AI harms. If, for example, a chatbot generates malware or a bomb-making recipe, leaks personal information, or triggers delusional thinking in users, FLARE-AI could be used to sound the alarm. The open source code behind the system allows others to verify an issue and route reports to model makers, as well as organizations like MITRE, a nonprofit that tracks problems with technical systems. It’s a bit like Downdetector, which compiles real-time user reports for global service outages affecting things like apps and websites.&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;p class="paywall"&gt;The website is another step in the group’s ongoing work with AI reporting, which I first wrote about last year. Members of the group also consulted on a congressional bill announced in June, which would see the US government take a central role in tracking this kind of AI misbehavior.&lt;/p&gt;&lt;div class="Container-ioqmpI jzsvml"&gt;&lt;/div&gt;&lt;p class="paywall"&gt;“Right now, there is no centralized, accountable way to report flaws in AI systems,” says Avijit Ghosh, an artificial intelligence policy researcher at HuggingFace who co-led development of FLARE-AI with computer scientists Elaine Zhu and Shayne Longpre.&lt;/p&gt;&lt;p class="paywall"&gt;The alarm system was developed in collaboration with 49 AI experts from 32 different organizations. In a paper outlining the work, the researchers argue that their initiative could prove crucial as AI is adopted more widely and as agentic systems gain greater power. The lack of a consistent way to report AI flaws is a significant problem, they believe.&lt;/p&gt;&lt;p class="paywall"&gt;“I think it’s a really good initiative,” says Jessica Ji, a researcher at the think tank Center for Security and Emerging Technology. Ji says the researchers are right to note that existing reporting mechanisms are fragmented and that AI models are black boxes. “I’m in support of anything that makes AI more transparent,” she says.&lt;/p&gt;&lt;div class="ConsumerMarketingUnitThemedWrapper-kjbXjp gnOkbl consumer-marketing-unit consumer-marketing-unit--article-mid-content"&gt;&lt;div class="consumer-marketing-unit__slot consumer-marketing-unit__slot--article-mid-content consumer-marketing-unit__slot--in-content"&gt;&lt;/div&gt;&lt;div class="journey-unit"&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class="paywall"&gt;Though bugs and cybersecurity problems get a lot of attention—especially of late—Ghosh tells me that problems with AI systems span topics like psychological harm, discrimination or bias, and misinformation. He adds that different companies have different standards around such issues, which means some problems go unrecognized. “In the absence of a coordinated disclosure system, there are no external mechanisms to enforce transparency,” Ghosh says.&lt;/p&gt;&lt;p class="paywall"&gt;A spate of recent incidents involving popular AI tools shows how easily the technology can go bad.&lt;/p&gt;&lt;p class="paywall"&gt;This week, a company called LayerX disclosed a way to dupe AI-infused web browsers, including OpenAI’s Atlas and Perplexity’s Comet, into vaulting their guardrails. Convincing the AI model behind the browser that it was playing a game, for example, could lead to the browser going rogue and trying to hack a website. (The companies responsible for the affected browsers have fixed the issue, LayerX says.) And this April, Johann Rehberger, a security researcher, discovered a way to trick Claude into divulging personal data using images generated by ChatGTP.&lt;/p&gt;&lt;p class="paywall"&gt;AI introduces bizarre new kinds of problems, too. Last year, OpenAI was forced to update its models after it discovered that they were overly sycophantic, which sometimes appeared to encourage delusional thinking.&lt;/p&gt;&lt;p class="paywall"&gt;Rumman Chowdhury, the CEO and founder of Humane Intelligence PBC, says FLARE-AI could be a useful way for many AI developers to implement ways of reporting issues with their tools. But she adds that such initiatives often come with serious challenges.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridItem-bufwYC fdedvq grid--item grid-layout__aside"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridWrapper-uulHE dCnZHU grid grid-margins grid-items-2 ArticlePageChunksGrid-kSknMg dSvDdx grid-layout--adrail narrow wide-adrail"&gt;&lt;div class="GridItem-bufwYC kKTABR grid--item grid-layout__content"&gt;&lt;div class="BodyWrapper-cuqCAc ciBUwe body body__container article__body"&gt;&lt;div class="body__inner-container"&gt;&lt;p class="paywall"&gt;One is managing a flood of reported issues, many of which may not be serious. Another is ensuring reporting schemes are backed by credible and authoritative organizations.&lt;/p&gt;&lt;p class="paywall"&gt;Last month’s congressional bill could put some US government heft behind an effort like FLARE-AI. The legislation, introduced by Representatives Deborah Ross, Jeff Hurd, and Don Beyer, would require the National Institute of Standards and Technology to develop standards around AI flaw reporting and to maintain a centralized AI flaw reporting database. Ghosh and his co-leads say this would incentivize AI developers to address issues in their systems and let users examine the safety of different systems for different use cases.&lt;/p&gt;&lt;p class="paywall"&gt;The need for new ways to report AI harms only seems likely to grow. Agentic systems like OpenClaw have greater potential to do harm, as do models that are more capable of probing and hacking computer systems. I may be using FLARE-AI to report my own misadventures soon enough.&lt;/p&gt;&lt;hr class="paywall" /&gt;&lt;p class="paywall"&gt;&lt;em&gt;This is an edition of&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Will Knight’s&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;&lt;strong&gt;AI Lab newsletter&lt;/strong&gt;. Read previous newsletters&lt;/em&gt; &lt;em&gt;&lt;strong&gt;here.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridItem-bufwYC fdedvq grid--item grid-layout__aside"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridWrapper-uulHE dCnZHU grid grid-margins grid-items-2 PaywallInlineBarrierWithWrapperGrid-gsjZKQ bxuhND grid-layout--adrail narrow wide-adrail"&gt;&lt;div class="GridItem-bufwYC kKTABR grid--item grid-layout__content"&gt;&lt;div class="body body__inline-barrier article__body"&gt;&lt;div class="container container--body"&gt;&lt;div class="container--body-inner"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="GridWrapper-uulHE dCnZHU grid grid-margins grid-items-2 ContentWrapperGrid-hbJRnx cYtuEk grid-layout--adrail narrow wide-adrail"&gt;&lt;div class="GridItem-bufwYC kKTABR grid--item grid-layout__content"&gt;&lt;div class="body body__container"&gt;&lt;div class="container container--body"&gt;&lt;div class="container--body-inner"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/</guid><pubDate>Wed, 01 Jul 2026 18:10:00 +0000</pubDate></item><item><title>Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797244.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Ashton Kutcher is stepping away from Sound Ventures — the firm he co-founded with Guy Oseary 11 years ago — to start a separate VC fund, the Wall Street Journal reported. The actor and investor’s new firm is being co-founded with Morgan Beller, who until recently was a general partner at seed-focused VC outfit NFX and previously co-led cryptocurrency project Libra at Meta. Beller also spent nearly three years as a partner at Andreessen Horowitz.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“Even if we end up with 2% to 5% market share, that’s larger than anything I’ve built so far,” he said.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;TechCrunch had separately heard that Kutcher was preparing to leave; the WSJ’s report confirms it and adds new detail on his plans with Beller. The name of the new firm hasn’t been made public yet.  &lt;/p&gt;
 
 
 
 
 
 
+&lt;p class="wp-block-paragraph"&gt;For the past few months, Neo has been in internal use across Turakhia’s companies, including Zeta. The company plans to begin rolling out the software to mid-sized businesses in the coming months, initially targeting knowledge workers across technology, consulting, and professional services firms.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Kutcher’s exit doesn’t appear to be a sign of trouble at Sound Ventures — investors often leave firms that are underperforming, but that’s not the case here. The firm, which has backed companies like Brex and Gusto, was also an early investor in OpenAI, Anthropic, and Fei-Fei Li’s World Labs.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Turakhia said Neo’s initial platform was built in three months, with AI extensively used in the development process, work he estimates would have taken more than a year with a much larger engineering team before generative AI.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The split is also notable for what it signals about where AI money is heading next: Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher’s new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“He and his fund consistently make it onto [my] rankings of top unicorn investors. An interesting case!” Stanford finance professor Ilya Strebulaev, who tracks top-performing VCs, wrote on X.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The actor has known OpenAI’s Sam Altman since Altman founded Loopt — years before the launch of the ChatGPT maker.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kutcher’s departure was partly due to different views on which startup stages to target for investments, with Sound leaning toward backing companies that are already more established, rather than betting on very early-stage startups, according to WSJ.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Kutcher and Beller are focused on making early-stage investments in AI infrastructure, energy, and deep tech startups — startups built around hard science and engineering breakthroughs rather than software alone.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Despite leaving Sound Ventures, Kutcher will continue to serve as an adviser to the firm. Meanwhile, Oseary and Sound general partner Effie Epstein will advise Kutcher and Beller’s new firm.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797244.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Ashton Kutcher is stepping away from Sound Ventures — the firm he co-founded with Guy Oseary 11 years ago — to start a separate VC fund, the Wall Street Journal reported. The actor and investor’s new firm is being co-founded with Morgan Beller, who until recently was a general partner at seed-focused VC outfit NFX and previously co-led cryptocurrency project Libra at Meta. Beller also spent nearly three years as a partner at Andreessen Horowitz.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;TechCrunch had separately heard that Kutcher was preparing to leave; the WSJ’s report confirms it and adds new detail on his plans with Beller. The name of the new firm hasn’t been made public yet.  &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Kutcher’s exit doesn’t appear to be a sign of trouble at Sound Ventures — investors often leave firms that are underperforming, but that’s not the case here. The firm, which has backed companies like Brex and Gusto, was also an early investor in OpenAI, Anthropic, and Fei-Fei Li’s World Labs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The split is also notable for what it signals about where AI money is heading next: Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher’s new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“He and his fund consistently make it onto [my] rankings of top unicorn investors. An interesting case!” Stanford finance professor Ilya Strebulaev, who tracks top-performing VCs, wrote on X.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The actor has known OpenAI’s Sam Altman since Altman founded Loopt — years before the launch of the ChatGPT maker.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kutcher’s departure was partly due to different views on which startup stages to target for investments, with Sound leaning toward backing companies that are already more established, rather than betting on very early-stage startups, according to WSJ.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Kutcher and Beller are focused on making early-stage investments in AI infrastructure, energy, and deep tech startups — startups built around hard science and engineering breakthroughs rather than software alone.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Despite leaving Sound Ventures, Kutcher will continue to serve as an adviser to the firm. Meanwhile, Oseary and Sound general partner Effie Epstein will advise Kutcher and Beller’s new firm.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/</guid><pubDate>Wed, 01 Jul 2026 18:47:22 +0000</pubDate></item><item><title>SpaceX has an AI device prototype, and it sure sounds phone-ish (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk’s SpaceX has shown investors a prototype of a “handset-like” AI device, reports The Wall Street Journal.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The prototype is reportedly sleeker and slimmer than an iPhone, making us wonder if it’s something between a small touchscreen phone and a Rabbit R1. SpaceX reportedly showed the device to investors and stakeholders before it went public, and told them it’s at an early enough stage that the design could still change.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Musk has denied the reporting, calling it “utterly false.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;SpaceX, alongside sister company Tesla, does have the manufacturing expertise to pull off mass-producing a bunch of AI devices — not to mention access to the chips needed to power any on-device compute. SpaceX has also signaled that it’s keen to expand into wireless, with Starlink Mobile as a potential competitor to Verizon and AT&amp;amp;T. One analyst even went as far as to speculate that T-Mobile or AT&amp;amp;T would make fine acquisition targets for the rocket builder, though such a purchase would, undoubtedly, be pricey.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s also not clear if SpaceX is just throwing spaghetti at the wall or if it will attempt to really mass-produce and market such a device. But one thing that seems clearer is that if OpenAI is doing it, Musk would, perhaps, want to try to do it better.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As we know, OpenAI is working with Apple’s former chief design officer Jony Ive on an AI device that CEO Sam Altman has claimed will be more peaceful than an iPhone. Reports from last autumn suggest the company has been struggling to get the details right, and OpenAI recently brought on another Apple executive to potentially help move things along. News dropped last week that Paul Meade, Apple’s VP in charge of the Vision Pro headset, has joined OpenAI’s hardware team.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Like OpenAI, SpaceX’s prototype is reportedly designed to run on a proprietary operating system and integrate technology from xAI, Musk’s AI company that SpaceX acquired earlier this year. This would prevent these new devices from being trapped inside another company’s platforms (like Google’s Android). But the intent also appears to be to create something new, with native AI interfaces. That said, the graveyard is crowded with the unsuccessful launches of AI devices from companies like Humane and Rabbit. A company wanting to sell an AI device does not equate to consumers wanting to buy such a thing. Yet.&lt;/p&gt;
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Elon Musk’s SpaceX has shown investors a prototype of a “handset-like” AI device, reports The Wall Street Journal.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The prototype is reportedly sleeker and slimmer than an iPhone, making us wonder if it’s something between a small touchscreen phone and a Rabbit R1. SpaceX reportedly showed the device to investors and stakeholders before it went public, and told them it’s at an early enough stage that the design could still change.&amp;nbsp;&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Musk has denied the reporting, calling it “utterly false.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;SpaceX, alongside sister company Tesla, does have the manufacturing expertise to pull off mass-producing a bunch of AI devices — not to mention access to the chips needed to power any on-device compute. SpaceX has also signaled that it’s keen to expand into wireless, with Starlink Mobile as a potential competitor to Verizon and AT&amp;amp;T. One analyst even went as far as to speculate that T-Mobile or AT&amp;amp;T would make fine acquisition targets for the rocket builder, though such a purchase would, undoubtedly, be pricey.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s also not clear if SpaceX is just throwing spaghetti at the wall or if it will attempt to really mass-produce and market such a device. But one thing that seems clearer is that if OpenAI is doing it, Musk would, perhaps, want to try to do it better.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As we know, OpenAI is working with Apple’s former chief design officer Jony Ive on an AI device that CEO Sam Altman has claimed will be more peaceful than an iPhone. Reports from last autumn suggest the company has been struggling to get the details right, and OpenAI recently brought on another Apple executive to potentially help move things along. News dropped last week that Paul Meade, Apple’s VP in charge of the Vision Pro headset, has joined OpenAI’s hardware team.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Like OpenAI, SpaceX’s prototype is reportedly designed to run on a proprietary operating system and integrate technology from xAI, Musk’s AI company that SpaceX acquired earlier this year. This would prevent these new devices from being trapped inside another company’s platforms (like Google’s Android). But the intent also appears to be to create something new, with native AI interfaces. That said, the graveyard is crowded with the unsuccessful launches of AI devices from companies like Humane and Rabbit. A company wanting to sell an AI device does not equate to consumers wanting to buy such a thing. Yet.&lt;/p&gt;
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/</guid><pubDate>Wed, 01 Jul 2026 18:54:18 +0000</pubDate></item><item><title>[NEW] MIT in the media: Innovating and educating for the next 250 years of America (MIT News - Artificial intelligence)</title><link>https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202607/WP%20Live.png" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;Without federal support for curiosity-driven research, the innovation and talent pipeline that has helped ensure our nation’s prosperity and safety could run dry, warned President Sally Kornbluth during a &lt;em&gt;Washington Post&lt;/em&gt; Live event.&amp;nbsp;&lt;/p&gt;&lt;p&gt;During "The Next Generation," a panel discussion moderated by &lt;em&gt;Washington Post&lt;/em&gt; reporter Zachary Goldfarb at &lt;em&gt;The Washington Post’&lt;/em&gt;s “Building America Summit,” Kornbluth and Arizona State University (ASU) President Michael Crow joined forces for a spirited discussion on the importance of curiosity-driven research, examining how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Many of the things we have in our everyday lives, whether they be medical advances, technological advances, a lot of these things came from 30, 40, 50 years of scientists just trying to figure out how things work,” emphasized Kornbluth.&lt;/p&gt;&lt;p&gt;Kornbluth pointed to MIT’s curriculum that focuses on teaching foundational skills that can be applied to a myriad of technological advances,&amp;nbsp;skills that will be indispensable to leading in an AI-enabled world.&lt;/p&gt;&lt;p&gt;“I do not think that any of our traditional subjects are now outmoded [by AI]. It’s how you approach them,” said Kornbluth. “In our new curriculum, not only are we leaning into basic STEM fields. We really feel we have to resurrect some of the old, moral and civic and ethical educational goals much more strongly because we want all these kids that are learning to be leading-edge technologists, to come at it from a moral, civic and ethical perspective.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Artificial intelligence&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Key to Kornbluth’s mission is maintaining a human-centric approach to AI. Inspired by MIT’s motto, “mens et manus” (mind and hand), she shared: “We really want students to be able to use physical AI. We want our students to still be able to build things, but use AI as an augmentation tool.”&lt;/p&gt;&lt;p&gt;Kornbluth expressed the importance of teaching interested faculty and students how to best use AI as a tool and her commitment to uplifting student collaboration.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“We’re putting a big emphasis on things like teamwork. So, [students] need to be able to use these tools and come together towards goals, because you could imagine a situation that AI becomes your buddy instead of your study group. We don’t really want that to happen,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Using AI effectively requires writing strong prompts. Kornbluth discussed how foundational knowledge in fields like math, physics, biology and chemistry, along with teaching students how to write and communicate clearly and effectively, enables students to use AI responsibly when it comes to applying these new technologies to scientific research.&lt;/p&gt;&lt;p&gt;Students need to be able “to take that knowledge and think about how they can use AI to the greatest good and also learn to write the right prompts,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Kornbluth noted the MIT Sloan School of Management’s unique role in AI exploration. “It’s because the students are all coming with business experience and the demand out there in the field for them to have really strong AI knowledge is very high,” she said.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The impact of frozen funds&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Federal funding fuels curiosity-driven research—the groundwork of medical, technological and countless scientific breakthroughs.&lt;/p&gt;&lt;p&gt;“It is very difficult to make a groundbreaking discovery that’s going to revolutionize human life because you want to do that. You really have to be figuring out how things work and traditionally that sort of research in this country has been funded by the government because it does not have an immediate return,” said Kornbluth.&lt;/p&gt;&lt;p&gt;Discussing issues with federal funding, Kornbluth said that although money has been appropriated for universities, it has not been released to them by and large.&lt;/p&gt;&lt;p&gt;“We’re really trying to figure out what the funding stream is going to be going forward,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;When asked about the consequences of these frozen funds, Kornbluth pointed to the long timeline required to develop life-saving treatments.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As one example, Kornbluth pointed to diabetes treatments.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“[Treatments] started with injections of insulin saving people and now it’s automated pumps and CGMs [Continuous Glucose Monitors],” said Kornbluth. “The next phase is going to be an actual functional cure, which is stem cell implantation—masking the cells so they’re not rejected by the immune system. But it takes a lot of basic work to be able to get there.”&lt;/p&gt;&lt;p&gt;“That [diabetes] is just one area. You can extrapolate that to cancer therapy,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Investment in basic research can advance treatments such as immunotherapy.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Immunotherapy is just in its infancy—it doesn’t work in every possible kind of cancer at this point. But all of the modifications that are being done now in basic science laboratories through to pharmaceutical companies and biotech are making it more and more broadly applicable so that pancreatic cancer is not absolutely a death sentence now,” Kornbluth emphasized.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;National impact&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Beyond research and AI, the president concluded by highlighting the strength of MIT’s student body, programs, and spinouts.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Kornbluth underscored the value of an MIT education for students and the greater economy.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Twenty percent of MIT’s class of 2029 were first-generation students. Education“is the best pathway to economic mobility,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;She continued: “MIT has spun out north of 30,000 companies. The economic impact of MIT on this country is equivalent to the 14&lt;sup&gt;th&lt;/sup&gt; largest GDP in the world. We are having a huge impact on the economy and we’re producing the next generation of talent.”&lt;/p&gt;&lt;p&gt;Though MIT is highly selective, Kornbluth noted it is financially accessible through its free tuition program for students with parental incomes under $200,000. She further highlighted&amp;nbsp;MIT for America, an initiative expanding access to calculus, a required course for institutions such as MIT, in under-resourced high schools nationwide.&lt;/p&gt;&lt;p&gt;Kornbluth and Crow concluded the panel by highlighting how their respective universities learn from one another.&lt;/p&gt;&lt;p&gt;“What we [ASU] learn from MIT is, where’s the edge of technology&lt;em&gt;,”&amp;nbsp;&lt;/em&gt;said Crow. “We learn how master technologists, and master scientists work in small groups.” For ASU, which has a student population of over 150,000, “ it’s instructive to learn and then operate at a different scale and in a different way. There’s a lot of back and forth,” he said.&lt;/p&gt;&lt;p&gt;Kornbluth expressed her hope for MIT to continue its longstanding tradition of research and education in service of the nation’s next 250 years.&lt;/p&gt;&lt;p&gt;“As a smaller private institution, we’re putting a much stronger footprint in how we can impact people well beyond the MIT walls,” said Kornbluth, “as well as having a scientific impact on society through our discoveries.”&amp;nbsp;&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://news.mit.edu/sites/default/files/images/202607/WP%20Live.png" /&gt;&lt;/div&gt;&lt;div class="news-article--content--body--inner"&gt;
-            &lt;div class="paragraph paragraph--type--content-block-text paragraph--view-mode--default"&gt;
-          
-
-            &lt;p&gt;Without federal support for curiosity-driven research, the innovation and talent pipeline that has helped ensure our nation’s prosperity and safety could run dry, warned President Sally Kornbluth during a &lt;em&gt;Washington Post&lt;/em&gt; Live event.&amp;nbsp;&lt;/p&gt;&lt;p&gt;During "The Next Generation," a panel discussion moderated by &lt;em&gt;Washington Post&lt;/em&gt; reporter Zachary Goldfarb at &lt;em&gt;The Washington Post’&lt;/em&gt;s “Building America Summit,” Kornbluth and Arizona State University (ASU) President Michael Crow joined forces for a spirited discussion on the importance of curiosity-driven research, examining how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Many of the things we have in our everyday lives, whether they be medical advances, technological advances, a lot of these things came from 30, 40, 50 years of scientists just trying to figure out how things work,” emphasized Kornbluth.&lt;/p&gt;&lt;p&gt;Kornbluth pointed to MIT’s curriculum that focuses on teaching foundational skills that can be applied to a myriad of technological advances,&amp;nbsp;skills that will be indispensable to leading in an AI-enabled world.&lt;/p&gt;&lt;p&gt;“I do not think that any of our traditional subjects are now outmoded [by AI]. It’s how you approach them,” said Kornbluth. “In our new curriculum, not only are we leaning into basic STEM fields. We really feel we have to resurrect some of the old, moral and civic and ethical educational goals much more strongly because we want all these kids that are learning to be leading-edge technologists, to come at it from a moral, civic and ethical perspective.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Artificial intelligence&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Key to Kornbluth’s mission is maintaining a human-centric approach to AI. Inspired by MIT’s motto, “mens et manus” (mind and hand), she shared: “We really want students to be able to use physical AI. We want our students to still be able to build things, but use AI as an augmentation tool.”&lt;/p&gt;&lt;p&gt;Kornbluth expressed the importance of teaching interested faculty and students how to best use AI as a tool and her commitment to uplifting student collaboration.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“We’re putting a big emphasis on things like teamwork. So, [students] need to be able to use these tools and come together towards goals, because you could imagine a situation that AI becomes your buddy instead of your study group. We don’t really want that to happen,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Using AI effectively requires writing strong prompts. Kornbluth discussed how foundational knowledge in fields like math, physics, biology and chemistry, along with teaching students how to write and communicate clearly and effectively, enables students to use AI responsibly when it comes to applying these new technologies to scientific research.&lt;/p&gt;&lt;p&gt;Students need to be able “to take that knowledge and think about how they can use AI to the greatest good and also learn to write the right prompts,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Kornbluth noted the MIT Sloan School of Management’s unique role in AI exploration. “It’s because the students are all coming with business experience and the demand out there in the field for them to have really strong AI knowledge is very high,” she said.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The impact of frozen funds&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Federal funding fuels curiosity-driven research—the groundwork of medical, technological and countless scientific breakthroughs.&lt;/p&gt;&lt;p&gt;“It is very difficult to make a groundbreaking discovery that’s going to revolutionize human life because you want to do that. You really have to be figuring out how things work and traditionally that sort of research in this country has been funded by the government because it does not have an immediate return,” said Kornbluth.&lt;/p&gt;&lt;p&gt;Discussing issues with federal funding, Kornbluth said that although money has been appropriated for universities, it has not been released to them by and large.&lt;/p&gt;&lt;p&gt;“We’re really trying to figure out what the funding stream is going to be going forward,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;When asked about the consequences of these frozen funds, Kornbluth pointed to the long timeline required to develop life-saving treatments.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As one example, Kornbluth pointed to diabetes treatments.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“[Treatments] started with injections of insulin saving people and now it’s automated pumps and CGMs [Continuous Glucose Monitors],” said Kornbluth. “The next phase is going to be an actual functional cure, which is stem cell implantation—masking the cells so they’re not rejected by the immune system. But it takes a lot of basic work to be able to get there.”&lt;/p&gt;&lt;p&gt;“That [diabetes] is just one area. You can extrapolate that to cancer therapy,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Investment in basic research can advance treatments such as immunotherapy.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Immunotherapy is just in its infancy—it doesn’t work in every possible kind of cancer at this point. But all of the modifications that are being done now in basic science laboratories through to pharmaceutical companies and biotech are making it more and more broadly applicable so that pancreatic cancer is not absolutely a death sentence now,” Kornbluth emphasized.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;National impact&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Beyond research and AI, the president concluded by highlighting the strength of MIT’s student body, programs, and spinouts.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Kornbluth underscored the value of an MIT education for students and the greater economy.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Twenty percent of MIT’s class of 2029 were first-generation students. Education“is the best pathway to economic mobility,” said Kornbluth.&amp;nbsp;&lt;/p&gt;&lt;p&gt;She continued: “MIT has spun out north of 30,000 companies. The economic impact of MIT on this country is equivalent to the 14&lt;sup&gt;th&lt;/sup&gt; largest GDP in the world. We are having a huge impact on the economy and we’re producing the next generation of talent.”&lt;/p&gt;&lt;p&gt;Though MIT is highly selective, Kornbluth noted it is financially accessible through its free tuition program for students with parental incomes under $200,000. She further highlighted&amp;nbsp;MIT for America, an initiative expanding access to calculus, a required course for institutions such as MIT, in under-resourced high schools nationwide.&lt;/p&gt;&lt;p&gt;Kornbluth and Crow concluded the panel by highlighting how their respective universities learn from one another.&lt;/p&gt;&lt;p&gt;“What we [ASU] learn from MIT is, where’s the edge of technology&lt;em&gt;,”&amp;nbsp;&lt;/em&gt;said Crow. “We learn how master technologists, and master scientists work in small groups.” For ASU, which has a student population of over 150,000, “ it’s instructive to learn and then operate at a different scale and in a different way. There’s a lot of back and forth,” he said.&lt;/p&gt;&lt;p&gt;Kornbluth expressed her hope for MIT to continue its longstanding tradition of research and education in service of the nation’s next 250 years.&lt;/p&gt;&lt;p&gt;“As a smaller private institution, we’re putting a much stronger footprint in how we can impact people well beyond the MIT walls,” said Kornbluth, “as well as having a scientific impact on society through our discoveries.”&amp;nbsp;&lt;/p&gt;        
-
-      &lt;/div&gt;
-        &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america</guid><pubDate>Wed, 01 Jul 2026 20:30:00 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;The Bengaluru-based startup currently employs about 45 people, including 18 engineers. Turakhia told TechCrunch that it expects to grow to around 100 employees by the end of the year, with most new hires focused on AI and software engineering.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/</guid><pubDate>Thu, 02 Jul 2026 05:30:00 +0000</pubDate></item></channel></rss>
