@@ -1,52 +1,384 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2026 03:47:26 +0000</lastBuildDate><item><title>Amazon will stop accepting new customers for Mechanical Turk (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?resize=1200,840" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;These may be the last days of Amazon’s Mechanical Turk.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2026 10:27:29 +0000</lastBuildDate><item><title>[NEW] 🤗 Kernels: Major Updates (Hugging Face - Blog)</title><link>https://huggingface.co/blog/revamped-kernels</link><description>&lt;!----&gt;  &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
+&lt;!--]--&gt;&lt;!--]--&gt;In our previous post (From Zero to GPU), we introduced the 🤗 Kernels project, which aims at standardizing how custom kernels are packaged, distributed, and consumed. We want the project to be frictionless and secure, while making it as Hub-friendly as possible.
+&lt;p&gt;Over the past few months, we have worked towards this goal. In the process, we also almost completely redesigned the project. This post will summarize the major updates we have shipped and what’s coming.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of contents&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;An announcement on the Mechanical Turk website says that on July 30, 2026, the crowdsourcing service will close to new customers. Amazon Web Services says the decision was made after “careful consideration,” adding, “Existing customers can continue to use the service as normal. AWS continues to invest in security and availability improvements for Mechanical Turk, but we do not plan to introduce new features.”&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Kernels – a new repository type
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;We have introduced a new repository type on the Hub called "kernel". This enables us to cater to users with compute-related specificities. For example, a user can get a sense of which accelerators, operating systems, and backend versions are supported for a given kernel:&lt;/p&gt;
+&lt;figure align="center"&gt;
+    &lt;img alt="Flash Attention 3 Kernel Page" src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/revamped-kernels/flash-attn3.png" width="600" /&gt;
+    &lt;figcaption&gt;Kernel page: kernels-community/flash-attn3&lt;/figcaption&gt;
+&lt;/figure&gt;
 
+&lt;p&gt;One can browse all available kernels on the Hub here: https://huggingface.co/kernels. &lt;/p&gt;
+&lt;p&gt;Making these kernels first-class citizens of the Hub also benefits the AI ecosystem. Users can now see trends across kernels, models, and the applications that use them. The kernels become more discoverable to users.&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Improved security
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Kernels run native code with the same privileges as the Python process that loads them, so a malicious kernel can do real harm. Therefore, security has always been of utmost importance to the Kernels project.&lt;/p&gt;
+&lt;p&gt;This is why we focused early on reproducibility: you should be able to recompile a kernel yourself and verify that it matches the publicly available source. We use Nix to make this possible, since it keeps builds pure through hermetic evaluation of the build recipe and a strongly isolated sandbox. We further improve provenance by embedding the source Git SHA1 into the kernel itself.&lt;/p&gt;
+&lt;p&gt;In recent months, we have added additional layers of defense: trusted kernel publishers and code signing.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Trusted kernel publishers
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;With the new repo type, we also introduced “trusted publishers”. Since kernels execute code on a machine with the same privileges as the Python process they are used in, an attacker could compromise machines by uploading a malicious kernel and coaxing you to use that kernel. To help you avoid such malicious kernels, the kernels package will now only load kernels by &lt;em&gt;trusted publishers&lt;/em&gt; by default. A trusted publisher is an organization that is trusted by the community to act in good faith.&lt;/p&gt;
+&lt;p&gt;We still want to support loading kernels from organizations or users that are not trusted publishers, but you have to explicitly opt in using the &lt;code&gt;trust_remote_code&lt;/code&gt; argument when loading a kernel from the Hub:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-py"&gt;&lt;span class="hljs-keyword"&gt;from&lt;/span&gt; kernels &lt;span class="hljs-keyword"&gt;import&lt;/span&gt; get_kernel
 
+kernel_module = get_kernel(  
+   “Atlas-Inference/gdn”, version=&lt;span class="hljs-number"&gt;1&lt;/span&gt;, trust_remote_code=&lt;span class="hljs-literal"&gt;True&lt;/span&gt;  
+)  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;By default, users cannot publish kernel repositories on the Hub. They have to request to be a kernel publisher. Users and organizations can request for access from their account settings. This gives us time to treat these requests on a case-by-case basis.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Kernel signing
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;An additional layer of security that we are adding is code signing. Code signing protects against the scenario where an attacker uploads a malicious kernel to a kernel repo from a trusted publisher whose Hub credentials were compromised. In code signing, a kernel is signed with a private key known only to the kernel developer and validated with a public key that is generally available. In the Hub compromise scenario, an attacker cannot sign the malicious kernel since they do not own the private key needed for signing.&lt;/p&gt;
+&lt;p&gt;To further improve security, we use Sigstore’s cosign to sign using ephemeral private keys. Since these signing keys are only valid for a limited time, an attacker typically cannot use the private key, even when it is leaked. We also verify that the kernel was signed by a trusted GitHub workflow from a trusted GitHub repository.&lt;/p&gt;
+&lt;p&gt;Kernel signing is already supported by &lt;code&gt;kernel-builder&lt;/code&gt; and we have provided the &lt;code&gt;kernels verify-signature&lt;/code&gt; to verify a kernel. Kernels does not verify the signature upon loading a kernel yet, since we would like to test this new functionality more before fully rolling it out. Preliminary notes on setting up code signing for your own kernels can be found in the kernels 0.16.0 release notes: https://github.com/huggingface/kernels/releases/tag/v0.16.0. &lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Revamped CLIs
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Previously, a bunch of utilities were intertwined between &lt;code&gt;kernels&lt;/code&gt; and &lt;code&gt;kernel-builder&lt;/code&gt;. We have established a better separation of concern between the CLI of &lt;code&gt;kernels&lt;/code&gt; and &lt;code&gt;kernel-builder&lt;/code&gt;. The mental model here is that &lt;code&gt;kernels&lt;/code&gt; is a library for loading and preparing kernels for use. Therefore, it should not include anything related to “building” kernels. &lt;/p&gt;
+&lt;p&gt;As a result of this, both &lt;code&gt;kernels&lt;/code&gt; and &lt;code&gt;kernel-builder&lt;/code&gt; are now much leaner and more specific. Refer to the documentation to learn more about this:&lt;/p&gt;
 
+&lt;p&gt;This improved CLI experience also lets us cater to the rise of agentic kernel
+development in a better manner. More on this later.&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		More coverage of frameworks and backends
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;We have extended support for frameworks, the most visible changes are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We added support for the Torch Stable ABI to kernels and kernel-builder. The Torch Stable ABI allows kernel developers to target a particular Torch version or any version that is released after it for roughly two years. For instance, a kernel that targets the Torch 2.9 Stable ABI support Torch &amp;gt;= 2.9.  &lt;/li&gt;
+&lt;li&gt;Apache TVM FFI is the first framework to be supported besides Torch. TVM FFI is standardized ABI for kernels that interoperates with other frameworks such as PyTorch, Jax and CuPy. This allows kernel developers to make kernels that runs across frameworks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Foundation for agentic kernel development
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;kernel-builder&lt;/code&gt; and &lt;code&gt;kernels&lt;/code&gt; complement the rise of agentic kernel development wherein an agent is leveraged to come up with an (optimized) kernel from scratch. Together, they support a workflow in which agents can scaffold, build, benchmark, and iteratively optimize kernels.&lt;/p&gt;
+&lt;p&gt;Agentic kernel development is still nascent, and the right development loops will continue to evolve. That makes simple, clear fundamentals especially important where the tools should be easy to compose into whichever agent workflows or frameworks people choose to use.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;kernel-builder&lt;/code&gt; helps enforce a structure in how kernel source code should be scaffolded and used to perform reproducible builds. This gives agents a predictable project layout and repeatable workflow to operate within. Its CLI is also meant to be agent-optimized. For example, this can mean non-interactive commands and outputs that are straightforward for an agent to interpret programmatically. To this end, we also have backend-specific skills to help agents navigate the idiosyncrasies of different backends. These skills can capture backend-specific toolchains, compilation paths, and performance considerations.&lt;/p&gt;
+&lt;p&gt;Building a kernel successfully isn’t the only goal, we need to ensure that it delivers actual speedups over a baseline on the target hardware. A successful build is therefore only the first validation step. Usually, this target hardware can include many different accelerators, even different families of the same accelerator.&lt;/p&gt;
+&lt;p&gt; This makes it important to evaluate results across hardware vendors and generations where relevant. Our tight integration with HF Jobs can make this benchmarking process easy. Agents can use this integration to run benchmark suites, collect performance results, and compare them against a defined baseline.&lt;/p&gt;
+&lt;p&gt;This way, agents can run tests across different hardware configurations to get reliable feedback on the performance of the generated kernels and identify what needs to be done. That feedback can then inform the next optimization iteration.&lt;/p&gt;
+&lt;p&gt;Below are some examples of agent-augmented kernels. These illustrate the kinds of kernels that can be developed and evaluated through this workflow: &lt;/p&gt;
 
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Misc
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Environment setup
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;The environment setup for building kernels with &lt;code&gt;kernel-builder&lt;/code&gt; can be daunting. To make it easier for users, we now have an installation script for setting up an environment in one click. If you prefer working with ephemeral instances, our Terraform setup guide is worth following. &lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		System card for kernels
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;After the kernels are built, we create a system card for each kernel to expose useful information, including how to use it and its exposed interfaces. When the kernel is pushed to the Hub, this system card becomes the front matter for the kernel:&lt;/p&gt;
+&lt;figure align="center"&gt;
+    &lt;img alt="System card for a kernel" src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/revamped-kernels/kernel-card.png" width="600" /&gt;
+    &lt;figcaption&gt;System card for kernels-community/flash-attn3&lt;/figcaption&gt;
+&lt;/figure&gt;
 
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Is a kernel compatible on my system?
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Is a question one would ask multiple times to plan things better. Use the &lt;code&gt;has_kernel()&lt;/code&gt; method for this purpose:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-py"&gt;&lt;span class="hljs-keyword"&gt;from&lt;/span&gt; kernels &lt;span class="hljs-keyword"&gt;import&lt;/span&gt; has_kernel
 
+&lt;span class="hljs-built_in"&gt;print&lt;/span&gt;(has_kernel(&lt;span class="hljs-string"&gt;"kernels-community/activation"&lt;/span&gt;, version=&lt;span class="hljs-number"&gt;1&lt;/span&gt;))  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;It returns a &lt;code&gt;bool&lt;/code&gt;. If you’re looking for more explanations around why a given kernel isn’t supported then use &lt;code&gt;get_kernel_variants()&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-py"&gt; &lt;span class="hljs-keyword"&gt;from&lt;/span&gt; kernels &lt;span class="hljs-keyword"&gt;import&lt;/span&gt; get_kernel_variants, VariantAccepted
 
-&lt;p class="wp-block-paragraph"&gt;In other words, Amazon isn’t completely pulling the plug, but the service is very much on life support.&lt;/p&gt;
+&lt;span class="hljs-keyword"&gt;for&lt;/span&gt; decision &lt;span class="hljs-keyword"&gt;in&lt;/span&gt; get_kernel_variants(&lt;span class="hljs-string"&gt;"kernels-community/activation"&lt;/span&gt;, version=&lt;span class="hljs-number"&gt;1&lt;/span&gt;):  
+    name = decision.variant.variant_str  
+    &lt;span class="hljs-keyword"&gt;if&lt;/span&gt; &lt;span class="hljs-built_in"&gt;isinstance&lt;/span&gt;(decision, VariantAccepted):  
+        &lt;span class="hljs-built_in"&gt;print&lt;/span&gt;(&lt;span class="hljs-string"&gt;f"&lt;span class="hljs-subst"&gt;{name}&lt;/span&gt;: compatible"&lt;/span&gt;)  
+    &lt;span class="hljs-keyword"&gt;else&lt;/span&gt;:  
+        &lt;span class="hljs-built_in"&gt;print&lt;/span&gt;(&lt;span class="hljs-string"&gt;f"&lt;span class="hljs-subst"&gt;{name}&lt;/span&gt;: rejected (&lt;span class="hljs-subst"&gt;{decision.reason}&lt;/span&gt;)"&lt;/span&gt;)  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;It should print (depends on the machine you’re on):&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;torch212-cxx11-cu130-aarch64-linux: compatible  
+torch210-cu128-x86_64-windows: rejected (CPU (x86_64) does not match system CPU (aarch64))  
+torch211-cu128-x86_64-windows: rejected (CPU (x86_64) does not match system CPU (aarch64))  
+torch212-metal-aarch64-darwin: rejected (OS (darwin) does not match system OS (linux))  
+torch211-metal-aarch64-darwin: rejected (OS (darwin) does not match system OS (linux))  
+torch210-metal-aarch64-darwin: rejected (OS (darwin) does not match system OS (linux))  
+torch29-metal-aarch64-darwin: rejected (OS (darwin) does not match system OS (linux))  
+…  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Improved manylinux_2_28 support
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Kernel-builder has targeted &lt;code&gt;manylinux_2_28&lt;/code&gt; almost since the beginning. We used to target &lt;code&gt;manylinux&lt;/code&gt; by using a modern gcc toolchain compiled with glibc 2.28. To avoid compatibility issues with older versions of &lt;code&gt;libstdc++&lt;/code&gt;, we statically linked libstdc++.&lt;/p&gt;
+&lt;p&gt;However, this approach recently resulted in some issues. Some &lt;code&gt;libstdc++&lt;/code&gt; functionality uses global initialization. This can lead to corrupted data when multiple &lt;code&gt;libstdc++&lt;/code&gt; versions come into play, such as the &lt;code&gt;libstdc++&lt;/code&gt; that is linked dynamically by PyTorch and the &lt;code&gt;libstdc++&lt;/code&gt; that is linked statically by a kernel. Some recent kernels use functionality (e.g. C++ regexes) that trigger global initializations, leading to such corrupted data, causing segfaults and other issues.&lt;/p&gt;
+&lt;p&gt;To solve this issue, kernels now link &lt;code&gt;libstdc++&lt;/code&gt; dynamically. To ensure compatibility with old &lt;code&gt;libstdc++&lt;/code&gt; versions, we now compile kernels with the official &lt;code&gt;manylinux_2_28&lt;/code&gt; toolchain.&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Conclusion
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Our goal with the Kernels project is to serve both kernel developers and users of custom kernels. We’re always keen on receiving feedback from the community on how we can improve it. Don’t hesitate to contribute!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Acknowledgements: Thanks to Aritra for reviewing the post.&lt;/em&gt;&lt;/p&gt;
+&lt;!----&gt;</description><content:encoded>&lt;!----&gt;  &lt;!----&gt; &lt;!--[-1--&gt;&lt;!--]--&gt; &lt;!----&gt;
+&lt;!--]--&gt;&lt;!--]--&gt;In our previous post (From Zero to GPU), we introduced the 🤗 Kernels project, which aims at standardizing how custom kernels are packaged, distributed, and consumed. We want the project to be frictionless and secure, while making it as Hub-friendly as possible.
+&lt;p&gt;Over the past few months, we have worked towards this goal. In the process, we also almost completely redesigned the project. This post will summarize the major updates we have shipped and what’s coming.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of contents&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;First launched in 2005, Mechanical Turk was a marketplace where people were paid tiny amounts to perform simple tasks that resisted full automation — things like completing CAPTCHA challenges or identifying the basic sentiment in a sentence.&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Kernels – a new repository type
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;We have introduced a new repository type on the Hub called "kernel". This enables us to cater to users with compute-related specificities. For example, a user can get a sense of which accelerators, operating systems, and backend versions are supported for a given kernel:&lt;/p&gt;
+&lt;figure align="center"&gt;
+    &lt;img alt="Flash Attention 3 Kernel Page" src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/revamped-kernels/flash-attn3.png" width="600" /&gt;
+    &lt;figcaption&gt;Kernel page: kernels-community/flash-attn3&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;In its heyday, the service was at the center of debates around the ethics of crowdsourced labor, and it even played a small role in the early stages of the Facebook-Cambridge Analytica scandal.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;One can browse all available kernels on the Hub here: https://huggingface.co/kernels. &lt;/p&gt;
+&lt;p&gt;Making these kernels first-class citizens of the Hub also benefits the AI ecosystem. Users can now see trends across kernels, models, and the applications that use them. The kernels become more discoverable to users.&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Improved security
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Kernels run native code with the same privileges as the Python process that loads them, so a malicious kernel can do real harm. Therefore, security has always been of utmost importance to the Kernels project.&lt;/p&gt;
+&lt;p&gt;This is why we focused early on reproducibility: you should be able to recompile a kernel yourself and verify that it matches the publicly available source. We use Nix to make this possible, since it keeps builds pure through hermetic evaluation of the build recipe and a strongly isolated sandbox. We further improve provenance by embedding the source Git SHA1 into the kernel itself.&lt;/p&gt;
+&lt;p&gt;In recent months, we have added additional layers of defense: trusted kernel publishers and code signing.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Trusted kernel publishers
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;With the new repo type, we also introduced “trusted publishers”. Since kernels execute code on a machine with the same privileges as the Python process they are used in, an attacker could compromise machines by uploading a malicious kernel and coaxing you to use that kernel. To help you avoid such malicious kernels, the kernels package will now only load kernels by &lt;em&gt;trusted publishers&lt;/em&gt; by default. A trusted publisher is an organization that is trusted by the community to act in good faith.&lt;/p&gt;
+&lt;p&gt;We still want to support loading kernels from organizations or users that are not trusted publishers, but you have to explicitly opt in using the &lt;code&gt;trust_remote_code&lt;/code&gt; argument when loading a kernel from the Hub:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-py"&gt;&lt;span class="hljs-keyword"&gt;from&lt;/span&gt; kernels &lt;span class="hljs-keyword"&gt;import&lt;/span&gt; get_kernel
 
-&lt;p class="wp-block-paragraph"&gt;Beginning in 2018, Amazon began billing it as a way for companies to annotate data to train neural networks as part of its SageMaker AI service.&lt;/p&gt;
+kernel_module = get_kernel(  
+   “Atlas-Inference/gdn”, version=&lt;span class="hljs-number"&gt;1&lt;/span&gt;, trust_remote_code=&lt;span class="hljs-literal"&gt;True&lt;/span&gt;  
+)  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;By default, users cannot publish kernel repositories on the Hub. They have to request to be a kernel publisher. Users and organizations can request for access from their account settings. This gives us time to treat these requests on a case-by-case basis.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Kernel signing
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;An additional layer of security that we are adding is code signing. Code signing protects against the scenario where an attacker uploads a malicious kernel to a kernel repo from a trusted publisher whose Hub credentials were compromised. In code signing, a kernel is signed with a private key known only to the kernel developer and validated with a public key that is generally available. In the Hub compromise scenario, an attacker cannot sign the malicious kernel since they do not own the private key needed for signing.&lt;/p&gt;
+&lt;p&gt;To further improve security, we use Sigstore’s cosign to sign using ephemeral private keys. Since these signing keys are only valid for a limited time, an attacker typically cannot use the private key, even when it is leaked. We also verify that the kernel was signed by a trusted GitHub workflow from a trusted GitHub repository.&lt;/p&gt;
+&lt;p&gt;Kernel signing is already supported by &lt;code&gt;kernel-builder&lt;/code&gt; and we have provided the &lt;code&gt;kernels verify-signature&lt;/code&gt; to verify a kernel. Kernels does not verify the signature upon loading a kernel yet, since we would like to test this new functionality more before fully rolling it out. Preliminary notes on setting up code signing for your own kernels can be found in the kernels 0.16.0 release notes: https://github.com/huggingface/kernels/releases/tag/v0.16.0. &lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Revamped CLIs
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Previously, a bunch of utilities were intertwined between &lt;code&gt;kernels&lt;/code&gt; and &lt;code&gt;kernel-builder&lt;/code&gt;. We have established a better separation of concern between the CLI of &lt;code&gt;kernels&lt;/code&gt; and &lt;code&gt;kernel-builder&lt;/code&gt;. The mental model here is that &lt;code&gt;kernels&lt;/code&gt; is a library for loading and preparing kernels for use. Therefore, it should not include anything related to “building” kernels. &lt;/p&gt;
+&lt;p&gt;As a result of this, both &lt;code&gt;kernels&lt;/code&gt; and &lt;code&gt;kernel-builder&lt;/code&gt; are now much leaner and more specific. Refer to the documentation to learn more about this:&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Mechanical Turk has also been described as the hidden enabler for companies taking a fake-it-till-you-make-it approach to AI, where products marketed as AI are actually powered by the Mechanical Turk workforce — all the more fitting since the original Mechanical Turk was itself a hoax, with a hidden human chess player pretending to be a chess-playing machine.&lt;/p&gt;
+&lt;p&gt;This improved CLI experience also lets us cater to the rise of agentic kernel
+development in a better manner. More on this later.&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		More coverage of frameworks and backends
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;We have extended support for frameworks, the most visible changes are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We added support for the Torch Stable ABI to kernels and kernel-builder. The Torch Stable ABI allows kernel developers to target a particular Torch version or any version that is released after it for roughly two years. For instance, a kernel that targets the Torch 2.9 Stable ABI support Torch &amp;gt;= 2.9.  &lt;/li&gt;
+&lt;li&gt;Apache TVM FFI is the first framework to be supported besides Torch. TVM FFI is standardized ABI for kernels that interoperates with other frameworks such as PyTorch, Jax and CuPy. This allows kernel developers to make kernels that runs across frameworks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Foundation for agentic kernel development
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;kernel-builder&lt;/code&gt; and &lt;code&gt;kernels&lt;/code&gt; complement the rise of agentic kernel development wherein an agent is leveraged to come up with an (optimized) kernel from scratch. Together, they support a workflow in which agents can scaffold, build, benchmark, and iteratively optimize kernels.&lt;/p&gt;
+&lt;p&gt;Agentic kernel development is still nascent, and the right development loops will continue to evolve. That makes simple, clear fundamentals especially important where the tools should be easy to compose into whichever agent workflows or frameworks people choose to use.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;kernel-builder&lt;/code&gt; helps enforce a structure in how kernel source code should be scaffolded and used to perform reproducible builds. This gives agents a predictable project layout and repeatable workflow to operate within. Its CLI is also meant to be agent-optimized. For example, this can mean non-interactive commands and outputs that are straightforward for an agent to interpret programmatically. To this end, we also have backend-specific skills to help agents navigate the idiosyncrasies of different backends. These skills can capture backend-specific toolchains, compilation paths, and performance considerations.&lt;/p&gt;
+&lt;p&gt;Building a kernel successfully isn’t the only goal, we need to ensure that it delivers actual speedups over a baseline on the target hardware. A successful build is therefore only the first validation step. Usually, this target hardware can include many different accelerators, even different families of the same accelerator.&lt;/p&gt;
+&lt;p&gt; This makes it important to evaluate results across hardware vendors and generations where relevant. Our tight integration with HF Jobs can make this benchmarking process easy. Agents can use this integration to run benchmark suites, collect performance results, and compare them against a defined baseline.&lt;/p&gt;
+&lt;p&gt;This way, agents can run tests across different hardware configurations to get reliable feedback on the performance of the generated kernels and identify what needs to be done. That feedback can then inform the next optimization iteration.&lt;/p&gt;
+&lt;p&gt;Below are some examples of agent-augmented kernels. These illustrate the kinds of kernels that can be developed and evaluated through this workflow: &lt;/p&gt;
 
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Misc
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Environment setup
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;The environment setup for building kernels with &lt;code&gt;kernel-builder&lt;/code&gt; can be daunting. To make it easier for users, we now have an installation script for setting up an environment in one click. If you prefer working with ephemeral instances, our Terraform setup guide is worth following. &lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		System card for kernels
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;After the kernels are built, we create a system card for each kernel to expose useful information, including how to use it and its exposed interfaces. When the kernel is pushed to the Hub, this system card becomes the front matter for the kernel:&lt;/p&gt;
+&lt;figure align="center"&gt;
+    &lt;img alt="System card for a kernel" src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/revamped-kernels/kernel-card.png" width="600" /&gt;
+    &lt;figcaption&gt;System card for kernels-community/flash-attn3&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Over time, the relationship between Mechanical Turk and AI models grew even more complicated. In a snake-eating-its-own-tail irony, a 2023 analysis found that between 33% and 46% of workers on the platform were using large language models to complete their tasks, raising questions about the reliability of data annotated on the platform and also about whether humans needed to be in the loop at all.&lt;/p&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Is a kernel compatible on my system?
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Is a question one would ask multiple times to plan things better. Use the &lt;code&gt;has_kernel()&lt;/code&gt; method for this purpose:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-py"&gt;&lt;span class="hljs-keyword"&gt;from&lt;/span&gt; kernels &lt;span class="hljs-keyword"&gt;import&lt;/span&gt; has_kernel
 
-&lt;p class="wp-block-paragraph"&gt;This week, after Amazon’s decision became public, one Reddit user suggested the platform died “years ago,” with workers and researchers abandoning it due to bots and fraud. The user predicted, “Someone at Amazon is going to decide keeping the Mturk servers running is a waste of time and resources and pull the plug entirely.”&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?resize=1200,840" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;These may be the last days of Amazon’s Mechanical Turk.&lt;/p&gt;
+&lt;span class="hljs-built_in"&gt;print&lt;/span&gt;(has_kernel(&lt;span class="hljs-string"&gt;"kernels-community/activation"&lt;/span&gt;, version=&lt;span class="hljs-number"&gt;1&lt;/span&gt;))  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;It returns a &lt;code&gt;bool&lt;/code&gt;. If you’re looking for more explanations around why a given kernel isn’t supported then use &lt;code&gt;get_kernel_variants()&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-py"&gt; &lt;span class="hljs-keyword"&gt;from&lt;/span&gt; kernels &lt;span class="hljs-keyword"&gt;import&lt;/span&gt; get_kernel_variants, VariantAccepted
 
-&lt;p class="wp-block-paragraph"&gt;An announcement on the Mechanical Turk website says that on July 30, 2026, the crowdsourcing service will close to new customers. Amazon Web Services says the decision was made after “careful consideration,” adding, “Existing customers can continue to use the service as normal. AWS continues to invest in security and availability improvements for Mechanical Turk, but we do not plan to introduce new features.”&lt;/p&gt;
+&lt;span class="hljs-keyword"&gt;for&lt;/span&gt; decision &lt;span class="hljs-keyword"&gt;in&lt;/span&gt; get_kernel_variants(&lt;span class="hljs-string"&gt;"kernels-community/activation"&lt;/span&gt;, version=&lt;span class="hljs-number"&gt;1&lt;/span&gt;):  
+    name = decision.variant.variant_str  
+    &lt;span class="hljs-keyword"&gt;if&lt;/span&gt; &lt;span class="hljs-built_in"&gt;isinstance&lt;/span&gt;(decision, VariantAccepted):  
+        &lt;span class="hljs-built_in"&gt;print&lt;/span&gt;(&lt;span class="hljs-string"&gt;f"&lt;span class="hljs-subst"&gt;{name}&lt;/span&gt;: compatible"&lt;/span&gt;)  
+    &lt;span class="hljs-keyword"&gt;else&lt;/span&gt;:  
+        &lt;span class="hljs-built_in"&gt;print&lt;/span&gt;(&lt;span class="hljs-string"&gt;f"&lt;span class="hljs-subst"&gt;{name}&lt;/span&gt;: rejected (&lt;span class="hljs-subst"&gt;{decision.reason}&lt;/span&gt;)"&lt;/span&gt;)  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;It should print (depends on the machine you’re on):&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;torch212-cxx11-cu130-aarch64-linux: compatible  
+torch210-cu128-x86_64-windows: rejected (CPU (x86_64) does not match system CPU (aarch64))  
+torch211-cu128-x86_64-windows: rejected (CPU (x86_64) does not match system CPU (aarch64))  
+torch212-metal-aarch64-darwin: rejected (OS (darwin) does not match system OS (linux))  
+torch211-metal-aarch64-darwin: rejected (OS (darwin) does not match system OS (linux))  
+torch210-metal-aarch64-darwin: rejected (OS (darwin) does not match system OS (linux))  
+torch29-metal-aarch64-darwin: rejected (OS (darwin) does not match system OS (linux))  
+…  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Improved manylinux_2_28 support
+	&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Kernel-builder has targeted &lt;code&gt;manylinux_2_28&lt;/code&gt; almost since the beginning. We used to target &lt;code&gt;manylinux&lt;/code&gt; by using a modern gcc toolchain compiled with glibc 2.28. To avoid compatibility issues with older versions of &lt;code&gt;libstdc++&lt;/code&gt;, we statically linked libstdc++.&lt;/p&gt;
+&lt;p&gt;However, this approach recently resulted in some issues. Some &lt;code&gt;libstdc++&lt;/code&gt; functionality uses global initialization. This can lead to corrupted data when multiple &lt;code&gt;libstdc++&lt;/code&gt; versions come into play, such as the &lt;code&gt;libstdc++&lt;/code&gt; that is linked dynamically by PyTorch and the &lt;code&gt;libstdc++&lt;/code&gt; that is linked statically by a kernel. Some recent kernels use functionality (e.g. C++ regexes) that trigger global initializations, leading to such corrupted data, causing segfaults and other issues.&lt;/p&gt;
+&lt;p&gt;To solve this issue, kernels now link &lt;code&gt;libstdc++&lt;/code&gt; dynamically. To ensure compatibility with old &lt;code&gt;libstdc++&lt;/code&gt; versions, we now compile kernels with the official &lt;code&gt;manylinux_2_28&lt;/code&gt; toolchain.&lt;/p&gt;
+&lt;h2 class="relative group flex items-baseline"&gt;
+	
+		
+	
+	&lt;span&gt;
+		Conclusion
+	&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Our goal with the Kernels project is to serve both kernel developers and users of custom kernels. We’re always keen on receiving feedback from the community on how we can improve it. Don’t hesitate to contribute!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Acknowledgements: Thanks to Aritra for reviewing the post.&lt;/em&gt;&lt;/p&gt;
+&lt;!----&gt;</content:encoded><guid isPermaLink="false">https://huggingface.co/blog/revamped-kernels</guid><pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate></item><item><title>[NEW] South Korea’s hottest new bachelors are chip workers (MIT Technology Review)</title><link>https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 chronoton/executive-summary_0"&gt;&lt;div class="chronotonExecutiveSummary__summaryContainer--3bc10da0658ecd8e2ef22c6023461fb5"&gt;&lt;button class="chronotonExecutiveSummary__toggleButton--1cd6118db37e8a8252fc4cd8bbadcb85" type="button"&gt;&lt;span class="chronotonExecutiveSummary__toggleText--a713e14989fe65c5162db2b69cb422c9"&gt;EXECUTIVE SUMMARY&lt;/span&gt;&lt;svg class="chronotonExecutiveSummary__toggleArrow--a8c1be9c06a9f066a767b3af80d859a1" fill="none" height="7" viewBox="0 0 11 7" width="11" xmlns="http://www.w3.org/2000/svg"&gt;&lt;path d="M1 1L5.5 5.5L10 1" stroke="#58C0B3" stroke-linecap="round" stroke-width="1.5"&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_1 html_first"&gt; &lt;p&gt;Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son.&lt;/p&gt;  &lt;p&gt;Lately, says Baek (who asked to be referred to by his last name to protect his privacy), he and his coworkers are having better luck finding dates than they used to, perhaps because of the dazzling bonuses they just got. Flush with eye-popping profits from the AI chip boom, SK Hynix struck a landmark deal last year with its labor union to pay out 10% of operating profits to employees, which translates to an extra $476,000 per employee this year. A similar agreement and sizable lump sum followed for Samsung workers this May.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt; &lt;p&gt;With their newfound wealth, chip workers like Baek have become the most sought-after bachelors and bachelorettes in South Korea. “I have a coworker who’s perpetually going on blind dates, and he’s been getting so many recently,” says Baek. “For the past few months, I’ve been getting many blind dates too, perhaps because of the bonuses I got.” &lt;/p&gt;  &lt;p&gt;Lately, young South Koreans joke online that the best outfit to wear on a blind date is an SK Hynix uniform.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;The AI chip boom is changing the social fabric of South Korea by minting a new elite of “silicon-collar” workers earning about 20 times as much as the average South Korean. Although it’s helping some chip workers to find relationships, it’s also fueling fears of a deepening wealth disparity—and a loud public debate about inequality.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Love in the time of chips&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;South Korea is the epicenter of the chip boom fueling the AI race. Samsung and SK Hynix supply the vast majority of the world’s high-bandwidth memory (HBM) chips, which power Nvidia’s AI accelerators—the GPUs used to train AI models. As AI companies spend hundreds of billions of dollars on building data centers around the world, demand for HBMs is rising beyond what suppliers can keep up with, driving their prices to unprecedented levels. Samsung and SK Hynix are raking in record profits as a result.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;South Korea’s economy now orbits the two chip giants. In May, both companies topped $1 trillion in market value. And chip exports helped fuel a 1.7% surge in South Korea’s gross domestic product in the first quarter of 2026. South Korea’s main equity index, Kospi, has nearly tripled over the past year, becoming the best-performing market in the world.&lt;/p&gt;  &lt;p&gt;Swimming in cash, chip workers are going on shopping sprees in department stores near the “semicon belt” fabs—splurging on everything from lavish furniture and electronic appliances to jewelry and watches. They’re also snapping up homes near the commuter-shuttle routes that ferry workers to campus. And they’re shelling out for matchmakers.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_5"&gt; &lt;p&gt;“Quite a lot of people ask me if I can introduce them to chip workers,” says Lee Sung-mi, a matchmaker at Sunoo, who has been playing Cupid for chip workers for years. “In fact, people who once rejected them are asking to be matched with them again, now that their salaries and bonuses have shot so far above what everyone else earns.”&lt;/p&gt;  &lt;p&gt;One woman who lives in Gangnam, a ritzy district in Seoul lined with luxury high-rises and designer boutiques, previously turned down a chip worker at SK Hynix because his fab was too far out in Icheon, a rural city about 50 miles southeast of Seoul that’s dotted with rice farms and manufacturing plants. But in May, she asked her matchmaker to set them up again. They’ve now been dating for a month.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_7"&gt; &lt;p&gt;In South Korea, matchmaking companies evaluate their clients on a long list of criteria such as education, job, income, looks, and family background, including whether their aging parents have saved enough for retirement. In an economy where housing prices and child care costs are soaring, competition for jobs is fierce, and the social safety net is thin, a good job is the ultimate dating credential—all the more coveted at a time when many young South Koreans are forgoing marriage and children altogether, seeing family life as an unaffordable dream.&lt;/p&gt;  &lt;p&gt;Every client at Sunoo gets a spouse rating, determined by an algorithm that assigns scores for each criterion. Since their hefty bonuses were announced, the job ratings of Samsung employees have risen from 80 to 84, while those of SK Hynix employees climbed from 78 to 82. Scores above 90 are reserved for doctors and lawyers. Long prized as paragons of prestige and wealth, they’re now close to being overtaken by chip workers. A score of 99, the highest possible rating, is earmarked for heads of state.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Their new status is reshaping how chip workers themselves approach dating. “Chip workers from Samsung and SK Hynix are enrolling in our services because they feel more financially ready,” says Lee. “They’re also becoming pickier, as they feel like they’re now in a good position. The women want to meet men with higher incomes and better jobs, and the men want to meet younger and better-looking women with better jobs.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;An SK Hynix engineer in her 40s, who was once desperate to get married as soon as possible, started turning down men she would’ve dated before the chip boom. Lately, showered with more matches, she’s been sifting through her suitors more carefully. “She now has peace of mind and wants to take her time to meet someone better,” says Lee.&lt;/p&gt; 
 
+ &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;A mixed blessing&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;While chip workers enjoy the fruits of their labor, the bonus bonanza is stoking anxieties among other South Koreans. “When wealth disparity is no longer a mere difference of income but, rather, a difference in identity … it can fuel social conflict,” says Se-eun Jung, an economist at Inha University.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_9"&gt;&lt;p&gt;Earlier this month, the Bank of Korea warned that the chip boom will create a “K-shaped” economy, where a handful of workers race ahead while everyone else falls behind. The windfall, the bank said, is flowing to high income earners and then barely trickling out to the broader economy. Such polarization could erode people’s motivation to work by narrowing the path to upward mobility, it cautioned.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Workers in other industries are venting online about feeling demoralized by the ballooning wealth gap. “The one-billion-won ($650,000) bonuses have crushed my motivation to work. I have no energy when I teach,” an employee of the Seoul Metropolitan Office of Education wrote on Blind, an app where employees can discuss their workplaces anonymously. Others are giving up the job hunt, lamenting that years of working at a small company could never match a year’s bonus at Samsung.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;In a Facebook post in May, presidential policy chief Kim Yong-beom proposed paying an “AI dividend” to citizens by taxing AI profits. The idea sparked a heated public debate over whether the government should redistribute gains from the chip boom. Some argue that the industry is indebted to the society that has educated its engineers, subsidized its infrastructure, and provided tax credits. Others counter that the profits are already being shared with the public as stocks.&lt;/p&gt;  &lt;p&gt;Then there’s the question of how long this new social class will last. The semiconductor industry is notoriously cyclical; AI spending may cool, or rival chipmakers could catch up. There’s also the risk that chip workers will be replaced by automation. Samsung announced in March that it plans to fully automate its fabs by 2030, drawing backlash from chip workers.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Although he doesn’t know how long the boom will last, chip workers like Baek are riding high. “These days, we say we want to work hard and bury our bones here [at SK Hynix],” he says. “And I hope I can find [a wife] similar to me.”&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600" /&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="class"&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 chronoton/executive-summary_0"&gt;&lt;div class="chronotonExecutiveSummary__summaryContainer--3bc10da0658ecd8e2ef22c6023461fb5"&gt;&lt;button class="chronotonExecutiveSummary__toggleButton--1cd6118db37e8a8252fc4cd8bbadcb85" type="button"&gt;&lt;span class="chronotonExecutiveSummary__toggleText--a713e14989fe65c5162db2b69cb422c9"&gt;EXECUTIVE SUMMARY&lt;/span&gt;&lt;svg class="chronotonExecutiveSummary__toggleArrow--a8c1be9c06a9f066a767b3af80d859a1" fill="none" height="7" viewBox="0 0 11 7" width="11" xmlns="http://www.w3.org/2000/svg"&gt;&lt;path d="M1 1L5.5 5.5L10 1" stroke="#58C0B3" stroke-linecap="round" stroke-width="1.5"&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_1 html_first"&gt; &lt;p&gt;Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son.&lt;/p&gt;  &lt;p&gt;Lately, says Baek (who asked to be referred to by his last name to protect his privacy), he and his coworkers are having better luck finding dates than they used to, perhaps because of the dazzling bonuses they just got. Flush with eye-popping profits from the AI chip boom, SK Hynix struck a landmark deal last year with its labor union to pay out 10% of operating profits to employees, which translates to an extra $476,000 per employee this year. A similar agreement and sizable lump sum followed for Samsung workers this May.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_3"&gt; &lt;p&gt;With their newfound wealth, chip workers like Baek have become the most sought-after bachelors and bachelorettes in South Korea. “I have a coworker who’s perpetually going on blind dates, and he’s been getting so many recently,” says Baek. “For the past few months, I’ve been getting many blind dates too, perhaps because of the bonuses I got.” &lt;/p&gt;  &lt;p&gt;Lately, young South Koreans joke online that the best outfit to wear on a blind date is an SK Hynix uniform.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;The AI chip boom is changing the social fabric of South Korea by minting a new elite of “silicon-collar” workers earning about 20 times as much as the average South Korean. Although it’s helping some chip workers to find relationships, it’s also fueling fears of a deepening wealth disparity—and a loud public debate about inequality.&lt;/p&gt;  &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Love in the time of chips&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;South Korea is the epicenter of the chip boom fueling the AI race. Samsung and SK Hynix supply the vast majority of the world’s high-bandwidth memory (HBM) chips, which power Nvidia’s AI accelerators—the GPUs used to train AI models. As AI companies spend hundreds of billions of dollars on building data centers around the world, demand for HBMs is rising beyond what suppliers can keep up with, driving their prices to unprecedented levels. Samsung and SK Hynix are raking in record profits as a result.&amp;nbsp;&lt;/p&gt; 
+ &lt;p&gt;South Korea’s economy now orbits the two chip giants. In May, both companies topped $1 trillion in market value. And chip exports helped fuel a 1.7% surge in South Korea’s gross domestic product in the first quarter of 2026. South Korea’s main equity index, Kospi, has nearly tripled over the past year, becoming the best-performing market in the world.&lt;/p&gt;  &lt;p&gt;Swimming in cash, chip workers are going on shopping sprees in department stores near the “semicon belt” fabs—splurging on everything from lavish furniture and electronic appliances to jewelry and watches. They’re also snapping up homes near the commuter-shuttle routes that ferry workers to campus. And they’re shelling out for matchmakers.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_5"&gt; &lt;p&gt;“Quite a lot of people ask me if I can introduce them to chip workers,” says Lee Sung-mi, a matchmaker at Sunoo, who has been playing Cupid for chip workers for years. “In fact, people who once rejected them are asking to be matched with them again, now that their salaries and bonuses have shot so far above what everyone else earns.”&lt;/p&gt;  &lt;p&gt;One woman who lives in Gangnam, a ritzy district in Seoul lined with luxury high-rises and designer boutiques, previously turned down a chip worker at SK Hynix because his fab was too far out in Icheon, a rural city about 50 miles southeast of Seoul that’s dotted with rice farms and manufacturing plants. But in May, she asked her matchmaker to set them up again. They’ve now been dating for a month.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_7"&gt; &lt;p&gt;In South Korea, matchmaking companies evaluate their clients on a long list of criteria such as education, job, income, looks, and family background, including whether their aging parents have saved enough for retirement. In an economy where housing prices and child care costs are soaring, competition for jobs is fierce, and the social safety net is thin, a good job is the ultimate dating credential—all the more coveted at a time when many young South Koreans are forgoing marriage and children altogether, seeing family life as an unaffordable dream.&lt;/p&gt;  &lt;p&gt;Every client at Sunoo gets a spouse rating, determined by an algorithm that assigns scores for each criterion. Since their hefty bonuses were announced, the job ratings of Samsung employees have risen from 80 to 84, while those of SK Hynix employees climbed from 78 to 82. Scores above 90 are reserved for doctors and lawyers. Long prized as paragons of prestige and wealth, they’re now close to being overtaken by chip workers. A score of 99, the highest possible rating, is earmarked for heads of state.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Their new status is reshaping how chip workers themselves approach dating. “Chip workers from Samsung and SK Hynix are enrolling in our services because they feel more financially ready,” says Lee. “They’re also becoming pickier, as they feel like they’re now in a good position. The women want to meet men with higher incomes and better jobs, and the men want to meet younger and better-looking women with better jobs.”&amp;nbsp;&lt;/p&gt;  &lt;p&gt;An SK Hynix engineer in her 40s, who was once desperate to get married as soon as possible, started turning down men she would’ve dated before the chip boom. Lately, showered with more matches, she’s been sifting through her suitors more carefully. “She now has peace of mind and wants to take her time to meet someone better,” says Lee.&lt;/p&gt; 
 
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In other words, Amazon isn’t completely pulling the plug, but the service is very much on life support.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;First launched in 2005, Mechanical Turk was a marketplace where people were paid tiny amounts to perform simple tasks that resisted full automation — things like completing CAPTCHA challenges or identifying the basic sentiment in a sentence.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In its heyday, the service was at the center of debates around the ethics of crowdsourced labor, and it even played a small role in the early stages of the Facebook-Cambridge Analytica scandal.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beginning in 2018, Amazon began billing it as a way for companies to annotate data to train neural networks as part of its SageMaker AI service.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Mechanical Turk has also been described as the hidden enabler for companies taking a fake-it-till-you-make-it approach to AI, where products marketed as AI are actually powered by the Mechanical Turk workforce — all the more fitting since the original Mechanical Turk was itself a hoax, with a hidden human chess player pretending to be a chess-playing machine.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Over time, the relationship between Mechanical Turk and AI models grew even more complicated. In a snake-eating-its-own-tail irony, a 2023 analysis found that between 33% and 46% of workers on the platform were using large language models to complete their tasks, raising questions about the reliability of data annotated on the platform and also about whether humans needed to be in the loop at all.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This week, after Amazon’s decision became public, one Reddit user suggested the platform died “years ago,” with workers and researchers abandoning it due to bots and fraud. The user predicted, “Someone at Amazon is going to decide keeping the Mturk servers running is a waste of time and resources and pull the plug entirely.”&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/</guid><pubDate>Sun, 05 Jul 2026 17:43:36 +0000</pubDate></item></channel></rss>
+ &lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;A mixed blessing&lt;/strong&gt;&lt;/h3&gt;  &lt;p&gt;While chip workers enjoy the fruits of their labor, the bonus bonanza is stoking anxieties among other South Koreans. “When wealth disparity is no longer a mere difference of income but, rather, a difference in identity … it can fuel social conflict,” says Se-eun Jung, an economist at Inha University.&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;aside class="related__wrap"&gt;&lt;/aside&gt;&lt;div&gt;&lt;div class="gutenbergContent__content--109b03a769a11e8ae3acbab352a64269 html_9"&gt;&lt;p&gt;Earlier this month, the Bank of Korea warned that the chip boom will create a “K-shaped” economy, where a handful of workers race ahead while everyone else falls behind. The windfall, the bank said, is flowing to high income earners and then barely trickling out to the broader economy. Such polarization could erode people’s motivation to work by narrowing the path to upward mobility, it cautioned.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Workers in other industries are venting online about feeling demoralized by the ballooning wealth gap. “The one-billion-won ($650,000) bonuses have crushed my motivation to work. I have no energy when I teach,” an employee of the Seoul Metropolitan Office of Education wrote on Blind, an app where employees can discuss their workplaces anonymously. Others are giving up the job hunt, lamenting that years of working at a small company could never match a year’s bonus at Samsung.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;In a Facebook post in May, presidential policy chief Kim Yong-beom proposed paying an “AI dividend” to citizens by taxing AI profits. The idea sparked a heated public debate over whether the government should redistribute gains from the chip boom. Some argue that the industry is indebted to the society that has educated its engineers, subsidized its infrastructure, and provided tax credits. Others counter that the profits are already being shared with the public as stocks.&lt;/p&gt;  &lt;p&gt;Then there’s the question of how long this new social class will last. The semiconductor industry is notoriously cyclical; AI spending may cool, or rival chipmakers could catch up. There’s also the risk that chip workers will be replaced by automation. Samsung announced in March that it plans to fully automate its fabs by 2030, drawing backlash from chip workers.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;Although he doesn’t know how long the boom will last, chip workers like Baek are riding high. “These days, we say we want to work hard and bury our bones here [at SK Hynix],” he says. “And I hope I can find [a wife] similar to me.”&lt;svg class="monogramTLogo" viewBox="0 0 1091.84 1091.84" xmlns="http://www.w3.org/2000/svg"&gt;&lt;polygon fill="#6d6e71" points="363.95 0 363.95 1091.84 727.89 1091.84 727.89 363.95 363.95 0"&gt;&lt;polygon fill="#939598" points="363.95 0 728.24 365.18 1091.84 364.13 1091.84 0 363.95 0"&gt;&lt;polygon fill="#414042" points="0 0 0 0.03 0 363.95 363.95 363.95 363.95 0 0 0"&gt;&lt;/svg&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded><guid isPermaLink="false">https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/</guid><pubDate>Mon, 06 Jul 2026 09:00:00 +0000</pubDate></item></channel></rss>
