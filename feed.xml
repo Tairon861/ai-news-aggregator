@@ -1,545 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 18 Jul 2026 07:54:44 +0000</lastBuildDate><item><title>AI-driven memory crunch jolts India’s smartphone market (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Months after analysts warned that AI-driven demand for memory chips would ripple through consumer electronics, India is providing the strongest evidence yet that the disruption has arrived, with rising handset prices reshaping the smartphone market.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The memory chips in question — RAM and storage components — are the same ones tech giants need by the truckload to build AI data centers. Manufacturers like Samsung, SK Hynix, and Micron have been shifting production capacity toward high-bandwidth memory, the specialized chips used in AI accelerators, because they’re much more profitable per wafer than the standard memory used in phones and laptops — leaving less capacity, and driving up costs, for everyday consumer electronics.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;India, the world’s second-largest smartphone market by shipments after China, saw smartphone shipments fall 10% year-over-year in the April-June quarter, according to market research firm Counterpoint Research, marking the steepest June-quarter decline in six years as higher memory costs pushed up handset prices.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The impact has been more pronounced in India than in China, where smartphone shipments fell just 2% in Q2, according to Counterpoint. India has been hit harder because about 60% of its smartphone market is concentrated in the sub-₹20,000 (under $210) segment, where higher memory costs have had the biggest impact on prices, Tarun Pathak, the firm’s vice president of research, told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;India has been a prominent market for global smartphone brands for several years. The South Asian nation, home to more than 1.4 billion people and over 700 million smartphone users, has become a bellwether for consumer demand in price-sensitive markets, making shifts in buying patterns closely watched by device makers, chip suppliers, and investors tracking the broader health of the AI supply chain.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Pathak told TechCrunch that consumers are unlikely to abandon smartphones altogether. However, many of them are expected to delay upgrades, stretching replacement cycles to around four years from about 3.5 years previously, while premium brands such as Apple and Samsung remain better insulated from the slowdown.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The uneven impact is already reshaping competition among smartphone makers. Samsung was the only major smartphone brand to post shipment growth in India in Q2, with volumes rising 2% year-over-year, according to Counterpoint. Apple, by contrast, saw shipments fall 3% — though that dip largely reflected supply constraints and inventory shortages limiting how many iPhones Apple could deliver.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Consumers buying higher-end smartphones have proved less sensitive to price increases, with financing making expensive devices more affordable, Prachir Singh, a senior analyst at Counterpoint Research, told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The pain has been most acute at the lower end of the market. Shipments in the sub-₹15,000 (under $150) segment fell 45% from a year earlier, Counterpoint said. Because Chinese brands are heavily exposed to entry- and mid-tier smartphones, their combined market share fell to its lowest level for a second calendar quarter since 2020.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The tougher economics are also prompting strategic shifts. This week, Chinese smartphone brand OnePlus said it would stop launching new products in Europe and North America, while maintaining its India business, following what it described as a careful assessment. Counterpoint data shared with TechCrunch showed China accounted for 74% of OnePlus’ global smartphone shipments to distributors and retailers in Q1, up from 59% a year earlier, while India’s share fell to 19% from 30%.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In other words, OnePlus is retreating to markets where it can still turn a profit and ceding ground elsewhere — a pattern likely to repeat across other budget-focused brands as margins tighten.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Indeed, Pathak told TechCrunch that running several sub-brands only makes sense if each one sells enough volume to cover shared costs, and that math stops working once margins get this thin. “Sub-brands normally have overlaps and shared resources, and you need a minimum base to justify the cut-throat margins. Profitability is the key to deciding market operations,” he said.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-consumers-feel-the-squeeze"&gt;Consumers feel the squeeze&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That pressure on brands is trickling straight down to the people buying their phones. Kiranjeet Kaur, associate research director for mobile phones research at IDC, said the Indian smartphone market is shifting from volume-led growth to value growth — meaning fewer phones are being sold overall, but each one generates more revenue — as higher component costs make lower-priced smartphones increasingly uneconomical.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The higher component costs are already filtering through to consumers. Smartphone prices in India have risen by between 4% and 68%, depending on the model, Pathak said, and as prices rise, consumers are either moving to higher-priced devices, delaying upgrades, or turning to the secondhand market.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Financing has meanwhile become “central to affordability,” Kaur told TechCrunch. She added that brands and retailers were also building inventory ahead of the festive season to lock in lower costs before further increases in component prices.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;IDC also expects India’s smartphone shipments to decline by double digits in Q2, a steeper fall than the 4.1% decline in the first quarter and the 5.3% drop in the previous quarter, Kaur said. However, she noted the firm’s estimates were not yet finalized.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kaur told TechCrunch that memory shortages and elevated smartphone prices were likely to persist until at least the end of 2027, although the pace of price increases should moderate as consumers gradually adjust to higher prices becoming the new normal.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“For Indian consumers, it is a double whammy as the weaker currency makes imports costlier, which has added to margin pressures for the market players, and they are passing on the cost to the consumer,” Kaur said.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Months after analysts warned that AI-driven demand for memory chips would ripple through consumer electronics, India is providing the strongest evidence yet that the disruption has arrived, with rising handset prices reshaping the smartphone market.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The memory chips in question — RAM and storage components — are the same ones tech giants need by the truckload to build AI data centers. Manufacturers like Samsung, SK Hynix, and Micron have been shifting production capacity toward high-bandwidth memory, the specialized chips used in AI accelerators, because they’re much more profitable per wafer than the standard memory used in phones and laptops — leaving less capacity, and driving up costs, for everyday consumer electronics.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;India, the world’s second-largest smartphone market by shipments after China, saw smartphone shipments fall 10% year-over-year in the April-June quarter, according to market research firm Counterpoint Research, marking the steepest June-quarter decline in six years as higher memory costs pushed up handset prices.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The impact has been more pronounced in India than in China, where smartphone shipments fell just 2% in Q2, according to Counterpoint. India has been hit harder because about 60% of its smartphone market is concentrated in the sub-₹20,000 (under $210) segment, where higher memory costs have had the biggest impact on prices, Tarun Pathak, the firm’s vice president of research, told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;India has been a prominent market for global smartphone brands for several years. The South Asian nation, home to more than 1.4 billion people and over 700 million smartphone users, has become a bellwether for consumer demand in price-sensitive markets, making shifts in buying patterns closely watched by device makers, chip suppliers, and investors tracking the broader health of the AI supply chain.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Pathak told TechCrunch that consumers are unlikely to abandon smartphones altogether. However, many of them are expected to delay upgrades, stretching replacement cycles to around four years from about 3.5 years previously, while premium brands such as Apple and Samsung remain better insulated from the slowdown.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The uneven impact is already reshaping competition among smartphone makers. Samsung was the only major smartphone brand to post shipment growth in India in Q2, with volumes rising 2% year-over-year, according to Counterpoint. Apple, by contrast, saw shipments fall 3% — though that dip largely reflected supply constraints and inventory shortages limiting how many iPhones Apple could deliver.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Consumers buying higher-end smartphones have proved less sensitive to price increases, with financing making expensive devices more affordable, Prachir Singh, a senior analyst at Counterpoint Research, told TechCrunch.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The pain has been most acute at the lower end of the market. Shipments in the sub-₹15,000 (under $150) segment fell 45% from a year earlier, Counterpoint said. Because Chinese brands are heavily exposed to entry- and mid-tier smartphones, their combined market share fell to its lowest level for a second calendar quarter since 2020.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The tougher economics are also prompting strategic shifts. This week, Chinese smartphone brand OnePlus said it would stop launching new products in Europe and North America, while maintaining its India business, following what it described as a careful assessment. Counterpoint data shared with TechCrunch showed China accounted for 74% of OnePlus’ global smartphone shipments to distributors and retailers in Q1, up from 59% a year earlier, while India’s share fell to 19% from 30%.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In other words, OnePlus is retreating to markets where it can still turn a profit and ceding ground elsewhere — a pattern likely to repeat across other budget-focused brands as margins tighten.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Indeed, Pathak told TechCrunch that running several sub-brands only makes sense if each one sells enough volume to cover shared costs, and that math stops working once margins get this thin. “Sub-brands normally have overlaps and shared resources, and you need a minimum base to justify the cut-throat margins. Profitability is the key to deciding market operations,” he said.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-consumers-feel-the-squeeze"&gt;Consumers feel the squeeze&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That pressure on brands is trickling straight down to the people buying their phones. Kiranjeet Kaur, associate research director for mobile phones research at IDC, said the Indian smartphone market is shifting from volume-led growth to value growth — meaning fewer phones are being sold overall, but each one generates more revenue — as higher component costs make lower-priced smartphones increasingly uneconomical.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The higher component costs are already filtering through to consumers. Smartphone prices in India have risen by between 4% and 68%, depending on the model, Pathak said, and as prices rise, consumers are either moving to higher-priced devices, delaying upgrades, or turning to the secondhand market.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Financing has meanwhile become “central to affordability,” Kaur told TechCrunch. She added that brands and retailers were also building inventory ahead of the festive season to lock in lower costs before further increases in component prices.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;IDC also expects India’s smartphone shipments to decline by double digits in Q2, a steeper fall than the 4.1% decline in the first quarter and the 5.3% drop in the previous quarter, Kaur said. However, she noted the firm’s estimates were not yet finalized.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Kaur told TechCrunch that memory shortages and elevated smartphone prices were likely to persist until at least the end of 2027, although the pace of price increases should moderate as consumers gradually adjust to higher prices becoming the new normal.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“For Indian consumers, it is a double whammy as the weaker currency makes imports costlier, which has added to margin pressures for the market players, and they are passing on the cost to the consumer,” Kaur said.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</guid><pubDate>Fri, 17 Jul 2026 20:09:27 +0000</pubDate></item><item><title>Agility Robotics plants its flag in Tesla’s backyard (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Agility Robotics is opening a 60,000-square-foot facility to train its humanoid robots in Fremont, California, just up the highway from the factory where Tesla is expected to start manufacturing its Optimus robots this year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Tesla has increasingly bet on Optimus. Elon Musk recently said he expects it to be “the biggest product ever” once it’s “useful outside of Tesla sometime next year.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;While Agility doesn’t have Tesla’s capital, it does have a robot, Digit, that is already useful in the real world. The robot is already generating revenue, carrying totes and bins in manufacturing and warehouse settings for customers like Amazon, GXO, Schaeffler, and Toyota Motor Manufacturing Canada. The company says it has secured $300 million in contract orders for its robots.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It’s great to have [Tesla] in the same area as us, because really, for a long time Agility was out there alone, and it’s good to have others in the humanoid space,” CEO Peggy Johnson told TechCrunch. “We have commercialized. We now know what it takes to walk into these facilities and meet their safety bars, their regulatory bars, compliance, plug into their IT infrastructure, plug into their warehouse management system.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Agility hasn’t disclosed how many Digits that it has built or deployed, but outside observers estimate that dozens have worked in pilot or revenue-generating deployments. The company has said, for example, that Digits have moved 100,000 totes at a GXO logistics facility.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Johnson is currently leading Agility through a reverse-merger that is expected to make it the first pure-play humanoid robot company on the public markets later this year. Founded in 2015 by a group of researchers who developed new techniques that allow robots to safely walk on two legs, Agility is trying to capitalize on its lead over a newer generation of AI-inspired robotic startups like Figure, 1X, the Bot Company, or Sunday Robotics.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While the arrival of transformer-based neural networks that helped give rise to LLMs also promises major advancements in robotic behavior, Agility is taking a practical approach to autonomy.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;“When you think about self-driving cars, you know, as a non-humanoid example, you really don’t want the anti-lock brake controller under AI control,” Agility co-founder and chairman Damion Shelton told TechCrunch. “The analog with humanoids is all the safety stuff needs to go through a path that’s not generative AI, right? You don’t want to get creative with your safety stack.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What AI does do, however, is deliver on the promise of scale. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“One of the first times [Bruce Leak, the Quicktime inventor who serves on Agility’s board] asked us how we were going to go about coding applications for the robot, we didn’t really have a good answer,” Shelton said. “The number of things you can imagine a robot doing is far larger than the number of engineers who can program robots. And generative AI answers that question definitively.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The new facility is designed to accelerate the company’s robotic deployments. Johnson says more than 30 customers are in talks with the company about deploying Digit, and the new facility will be where the six-foot-tall robot learns new skills in environments similar to those it will experience in the field.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Unlike many of the newer entrants to the humanoid space, Agility isn’t planning to offer in-home humanoid robots anytime soon. It’s a view that jibes with that of most independent robotics experts, who believe today’s most powerful robots aren’t safe enough for consumer use. Digit operates in a human-free space right now, but the version 5, expected to be unveiled this fall, will have the ability to sense humans and won’t need to be kept in a robot-only zone.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Co-founder and chief robot officer Jonathan Hurst said there is plenty of work to keep Agility busy in manufacturing and logistics alone.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Let’s start with the bins and the totes, and then let’s do the picking and the kitting,” Hurst told TechCrunch. “And then let’s like start working on cardboard, which is really hard, and loading and unloading tractor trailers and things like that. Okay, now we’re at 100 million robots, you know? A trillion-dollar company.”&lt;/p&gt;
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Agility Robotics is opening a 60,000-square-foot facility to train its humanoid robots in Fremont, California, just up the highway from the factory where Tesla is expected to start manufacturing its Optimus robots this year.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Tesla has increasingly bet on Optimus. Elon Musk recently said he expects it to be “the biggest product ever” once it’s “useful outside of Tesla sometime next year.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;While Agility doesn’t have Tesla’s capital, it does have a robot, Digit, that is already useful in the real world. The robot is already generating revenue, carrying totes and bins in manufacturing and warehouse settings for customers like Amazon, GXO, Schaeffler, and Toyota Motor Manufacturing Canada. The company says it has secured $300 million in contract orders for its robots.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“It’s great to have [Tesla] in the same area as us, because really, for a long time Agility was out there alone, and it’s good to have others in the humanoid space,” CEO Peggy Johnson told TechCrunch. “We have commercialized. We now know what it takes to walk into these facilities and meet their safety bars, their regulatory bars, compliance, plug into their IT infrastructure, plug into their warehouse management system.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Agility hasn’t disclosed how many Digits that it has built or deployed, but outside observers estimate that dozens have worked in pilot or revenue-generating deployments. The company has said, for example, that Digits have moved 100,000 totes at a GXO logistics facility.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Johnson is currently leading Agility through a reverse-merger that is expected to make it the first pure-play humanoid robot company on the public markets later this year. Founded in 2015 by a group of researchers who developed new techniques that allow robots to safely walk on two legs, Agility is trying to capitalize on its lead over a newer generation of AI-inspired robotic startups like Figure, 1X, the Bot Company, or Sunday Robotics.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While the arrival of transformer-based neural networks that helped give rise to LLMs also promises major advancements in robotic behavior, Agility is taking a practical approach to autonomy.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;“When you think about self-driving cars, you know, as a non-humanoid example, you really don’t want the anti-lock brake controller under AI control,” Agility co-founder and chairman Damion Shelton told TechCrunch. “The analog with humanoids is all the safety stuff needs to go through a path that’s not generative AI, right? You don’t want to get creative with your safety stack.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What AI does do, however, is deliver on the promise of scale. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“One of the first times [Bruce Leak, the Quicktime inventor who serves on Agility’s board] asked us how we were going to go about coding applications for the robot, we didn’t really have a good answer,” Shelton said. “The number of things you can imagine a robot doing is far larger than the number of engineers who can program robots. And generative AI answers that question definitively.”&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The new facility is designed to accelerate the company’s robotic deployments. Johnson says more than 30 customers are in talks with the company about deploying Digit, and the new facility will be where the six-foot-tall robot learns new skills in environments similar to those it will experience in the field.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Unlike many of the newer entrants to the humanoid space, Agility isn’t planning to offer in-home humanoid robots anytime soon. It’s a view that jibes with that of most independent robotics experts, who believe today’s most powerful robots aren’t safe enough for consumer use. Digit operates in a human-free space right now, but the version 5, expected to be unveiled this fall, will have the ability to sense humans and won’t need to be kept in a robot-only zone.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Co-founder and chief robot officer Jonathan Hurst said there is plenty of work to keep Agility busy in manufacturing and logistics alone.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“Let’s start with the bins and the totes, and then let’s do the picking and the kitting,” Hurst told TechCrunch. “And then let’s like start working on cardboard, which is really hard, and loading and unloading tractor trailers and things like that. Okay, now we’re at 100 million robots, you know? A trillion-dollar company.”&lt;/p&gt;
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/</guid><pubDate>Fri, 17 Jul 2026 20:19:49 +0000</pubDate></item><item><title>The Zoom hack that says, ‘Don’t record me’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1392897289.jpg?resize=1200,806" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;VC Jeremy Levine has a wry solution to something that routinely annoys him, according to a new Wall Street Journal article on the rise of AI transcription apps. On Zoom, he is no longer “Jeremy Levine” but instead “Jeremy Levine I do not consent to transcribing or recording.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It may sound petty or brilliant, depending on your point of view, but what’s clear is that always-on recording is becoming ubiquitous, thanks to a growing crop of AI note-taking apps and devices, many of which we’ve covered here at TechCrunch (we’ve even ranked some). &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;VC Eric Bahn tells the outlet he now automatically assumes his meetings with founders will be recorded, even before he sees a phone slide across a conference table. One founder tells the WSJ she records most of her first dates with the Granola app, then feeds the transcript to Claude afterward to see if she could be more “engaging or empathetic,” while also assessing who did most of the talking. (Dating in San Francisco is rough.)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Levine calls the whole trend “socially unacceptable behavior” that can completely kill spontaneous conversations. Others in the piece note it’s a legal minefield. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But there’s another wrinkle: if every meeting, watercooler conversation, and romantic outing gets transcribed and summarized, who’s actually reading any of it? At what point does this audio landfill of every conversation stop being useful and just become another recording no one has time to play back?&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1392897289.jpg?resize=1200,806" /&gt;&lt;/div&gt;&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;VC Jeremy Levine has a wry solution to something that routinely annoys him, according to a new Wall Street Journal article on the rise of AI transcription apps. On Zoom, he is no longer “Jeremy Levine” but instead “Jeremy Levine I do not consent to transcribing or recording.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It may sound petty or brilliant, depending on your point of view, but what’s clear is that always-on recording is becoming ubiquitous, thanks to a growing crop of AI note-taking apps and devices, many of which we’ve covered here at TechCrunch (we’ve even ranked some). &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;VC Eric Bahn tells the outlet he now automatically assumes his meetings with founders will be recorded, even before he sees a phone slide across a conference table. One founder tells the WSJ she records most of her first dates with the Granola app, then feeds the transcript to Claude afterward to see if she could be more “engaging or empathetic,” while also assessing who did most of the talking. (Dating in San Francisco is rough.)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Levine calls the whole trend “socially unacceptable behavior” that can completely kill spontaneous conversations. Others in the piece note it’s a legal minefield. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But there’s another wrinkle: if every meeting, watercooler conversation, and romantic outing gets transcribed and summarized, who’s actually reading any of it? At what point does this audio landfill of every conversation stop being useful and just become another recording no one has time to play back?&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/</guid><pubDate>Fri, 17 Jul 2026 21:20:47 +0000</pubDate></item><item><title>Databricks hits $188B valuation, extending its run as AI’s favorite second act (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Databricks on Thursday announced a new round of funding that values the company at $188 billion. The round was led by Coatue.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Databricks didn’t disclose exactly how much it raised; it said the money isn’t in its hands yet and that the round will close later this summer. (Other outlets have since reported the raise is roughly $3 billion.) While it’s unusual for a company to announce before it gets the money, a VC tells TechCrunch that the deal is solid, with so many firms wanting in that the company had no reason to keep its shiny new valuation a secret.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In fact, Databricks has been on a year-and-a-half fundraising tear as it successfully transitioned its image into an AI provider and not just a yesteryear SaaS sensation. Yesteryear being back in the BC times (Before ChatGPT).&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Only five months ago, in February, Databricks closed a $5 billion Series L raise&amp;nbsp;at a $134 billion valuation. Five months before that, in September 2025, it raised $1 billion at a $100 billion valuation. And roughly nine months before that, in December 2024, it raised what was a record-breaking round at the time of $10 billion at a $62 billion valuation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Databricks has raised so many rounds over the years that this latest one became the subject of memes about running out of letters of the alphabet. “Turning on alerts for when we get a Series AA,” one person posted.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But its image reconstruction has been legit. Founded in 2013, it initially grew to success back in the big data era, with software that enabled enterprises to store enormous amounts of data in the cloud, yet produce speedy analytics.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Because it already sat on troves of enterprise data, Databricks was then well-positioned to respond as companies started wanting AI with the same security and governance they expect from traditional enterprise software.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;The company began rolling out one AI product after another, like Lakebase, its database built for AI agents, and Unity, its AI gateway, along with a “meta-harness” called Omnigent that manages multiple agents.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Databricks also increasingly became known as one of the big examples of enterprises adopting more affordable Chinese-based open-weight models (models whose underlying code is published for anyone to use and modify) for cost control, one of the big trends of 2026. It is a particular champion of Z.ai’s GLM 5.2 as a model for coding.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Last week Databricks CEO Ali Ghodsi shared the results of some internal benchmarking done to manage his own AI costs for his 3,000 software engineers. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company compared AI models on the actual tasks its programmers do. Not surprisingly, in the blog post revealing the results, Databricks shared that “open models, and GLM 5.2 in particular, are now able to handle even the highest level of task difficulty” in coding, and at a total lower cost than proprietary models from Anthropic and OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But it did surprise people by finding that the choice of harness — the agentic coding tool, like Codex or Claude Code, that wraps around a model and manages its context and instructions — equally impacted costs. It found that open-source harness Pi to be one of the best at managing context surrounding each prompt, and therefore one of the lowest costs choices without sacrificing quality.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The lesson here isn’t that one harness is always cheaper or that native harnesses are worse,” the post declared. “Instead, model choice is only one piece of the puzzle.” &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;All of this has added to Databricks image as an AI company, even if it wasn’t founded as an AI lab. This, in turn, has granted it the AI-halo for raising money and leaping its valuation. As we previously reported, the AI effect is so strong these days, that even sandwich shop Jersey Mike’s mentioned AI 22 times in its S-1 documents.&lt;/p&gt;
-
-
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Databricks on Thursday announced a new round of funding that values the company at $188 billion. The round was led by Coatue.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Databricks didn’t disclose exactly how much it raised; it said the money isn’t in its hands yet and that the round will close later this summer. (Other outlets have since reported the raise is roughly $3 billion.) While it’s unusual for a company to announce before it gets the money, a VC tells TechCrunch that the deal is solid, with so many firms wanting in that the company had no reason to keep its shiny new valuation a secret.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In fact, Databricks has been on a year-and-a-half fundraising tear as it successfully transitioned its image into an AI provider and not just a yesteryear SaaS sensation. Yesteryear being back in the BC times (Before ChatGPT).&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Only five months ago, in February, Databricks closed a $5 billion Series L raise&amp;nbsp;at a $134 billion valuation. Five months before that, in September 2025, it raised $1 billion at a $100 billion valuation. And roughly nine months before that, in December 2024, it raised what was a record-breaking round at the time of $10 billion at a $62 billion valuation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Databricks has raised so many rounds over the years that this latest one became the subject of memes about running out of letters of the alphabet. “Turning on alerts for when we get a Series AA,” one person posted.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But its image reconstruction has been legit. Founded in 2013, it initially grew to success back in the big data era, with software that enabled enterprises to store enormous amounts of data in the cloud, yet produce speedy analytics.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Because it already sat on troves of enterprise data, Databricks was then well-positioned to respond as companies started wanting AI with the same security and governance they expect from traditional enterprise software.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;The company began rolling out one AI product after another, like Lakebase, its database built for AI agents, and Unity, its AI gateway, along with a “meta-harness” called Omnigent that manages multiple agents.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Databricks also increasingly became known as one of the big examples of enterprises adopting more affordable Chinese-based open-weight models (models whose underlying code is published for anyone to use and modify) for cost control, one of the big trends of 2026. It is a particular champion of Z.ai’s GLM 5.2 as a model for coding.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Last week Databricks CEO Ali Ghodsi shared the results of some internal benchmarking done to manage his own AI costs for his 3,000 software engineers. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company compared AI models on the actual tasks its programmers do. Not surprisingly, in the blog post revealing the results, Databricks shared that “open models, and GLM 5.2 in particular, are now able to handle even the highest level of task difficulty” in coding, and at a total lower cost than proprietary models from Anthropic and OpenAI.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;But it did surprise people by finding that the choice of harness — the agentic coding tool, like Codex or Claude Code, that wraps around a model and manages its context and instructions — equally impacted costs. It found that open-source harness Pi to be one of the best at managing context surrounding each prompt, and therefore one of the lowest costs choices without sacrificing quality.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;“The lesson here isn’t that one harness is always cheaper or that native harnesses are worse,” the post declared. “Instead, model choice is only one piece of the puzzle.” &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;All of this has added to Databricks image as an AI company, even if it wasn’t founded as an AI lab. This, in turn, has granted it the AI-halo for raising money and leaping its valuation. As we previously reported, the AI effect is so strong these days, that even sandwich shop Jersey Mike’s mentioned AI 22 times in its S-1 documents.&lt;/p&gt;
-
-
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</guid><pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate></item><item><title>Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</link><description>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI has become the smartphone industry’s latest battleground, with manufacturers racing to add AI-powered features to attract mainstream consumers. Vertu is taking a different path. The UK-founded luxury phone maker, known for hand-finished devices often costing tens of thousands of dollars, sells status instead of specs. Its Alphafold, a foldable phone, targets affluent buyers, particularly chief executives, pairing luxury materials with an AI agent designed to automate parts of an executive’s working day. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So I put that pitch to the test. Rather than focusing on benchmark scores, camera comparisons, and media consumption — the staples of most smartphone reviews — I spent a few days using the foldable the way Vertu says its customers would: managing documents, analyzing spreadsheets and contracts, planning business trips, automating routine tasks, and relying on its AI agent as a digital companion throughout the working day. The question wasn’t whether it was a good smartphone, but whether it was a good executive smartphone.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At the heart of the Alphafold is Hermes Agent, a pre-installed AI agent built on top of the open-source Hermes project, which the company says can analyze files, automate tasks across apps, remember conversations, and hand off requests to a human concierge when needed. Unlike most smartphone AI assistants that largely just respond to prompts, Hermes is designed to execute multi-step workflows on users’ behalf, making it the centerpiece of Vertu’s pitch rather than the foldable hardware itself.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Physically, the Alphafold, which starts at $6,880, looks and feels every bit like a luxury device. The review unit I received was wrapped in genuine calfskin leather with titanium accents, setting it apart from mainstream foldables that largely rely on glass or synthetic finishes. It’s clearly built for buyers who see their phone as both a tool and a status symbol.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Compared with the Samsung Galaxy Z Fold 7, which I used as a reference device throughout this review, the 264-gram Alphafold feels noticeably heavier than Samsung’s 215-gram foldable. The extra weight is apparent during prolonged use, though it never feels unwieldy. The Alphafold’s curved frame also makes it easier to unfold than the Galaxy Z Fold 7’s flatter edges. Samsung’s design, however, feels sleeker and more comfortable to hold when folded, making it easier to use one-handed.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="alt" class="wp-image-3143871" height="1280" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-samsung-galaxy-z-fold-7.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Vertu’s Alphafold with a Calfskin Leather back and Samsung’s Galaxy Z Fold 7 with a Glass Back&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Alphafold also arrives in packaging that feels more akin to a jewelry presentation case than a smartphone box. The oversized box opens to reveal neatly arranged drawers containing bundled accessories, including a leather sleeve and charging cables, reinforcing the sense that Vertu is selling a luxury experience rather than just a handset.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Vertu Alphafold" class="wp-image-3143918" height="1500" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-box.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Vertu Alphafold’s with a luxury packaging&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beneath the premium materials, however, the Alphafold tells a different story. During the review, I noticed striking similarities between the device and the $1,100 ZTE Nubia Fold — from the hinge design and dimensions to the placement of the speakers, microphones, and the fingerprint reader. The most visible distinction is Vertu’s leather-clad rear panel, though. System information also revealed ZTE identifiers in parts of the software.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;When asked about these observations, Vertu confirmed to TechCrunch that the Alphafold was developed through a specialist supply-chain partnership involving ZTE/Nubia’s hardware platform, component integration, and production engineering. However, the company said it was responsible for the luxury materials, software experience, quality control, and after-sales service. ZTE did not respond to a request for comments.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="ZTE Nubia Fold" class="wp-image-3143876" height="481" src="https://techcrunch.com/wp-content/uploads/2026/07/zte-nubia-fold.jpg" width="883" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;ZTE Nubia Fold&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;YMobile.jp&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This isn’t new for Vertu. In a 2023 review of the MetaVertu, Wired reported that the device appeared to be based on a ZTE Nubia handset, citing hardware similarities and comments from Counterpoint Research that Vertu had been adapting existing ZTE models with luxury materials and custom software.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Still, focusing solely on the hardware misses the point of the Alphafold. Vertu’s real bet is not on building a better foldable but on whether executives will pay for an AI agent that helps them get through the working day more efficiently. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Over several days, I used the Alphafold as my primary smartphone, replacing routine prompts with real executive-style workflows. Instead of asking Hermes to write emails or answer trivia questions, I tasked it with analyzing spreadsheets and contracts, planning business trips, managing my schedule, and automating actions across multiple apps. I then compared the experience with Samsung’s Galaxy Z Fold 7 running Google’s Gemini.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Vertu Alphafold and Samsung Galaxy Z Fold 7" class="wp-image-3143877" height="1280" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-samsung-galaxy-z-fold-7-side.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Vertu Alphafold and Samsung Galaxy Z Fold 7&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The testing evolved as I went. Early software builds struggled to upload files, analyze images, and connect to Vertu’s concierge service. After I reported these issues to Vertu, the company rolled out server-side fixes that restored the missing functionality, allowing the remaining tests to be completed.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What emerged over days of testing was a more nuanced picture than the company’s claims might suggest. Hermes impressed when analyzing local files and spreadsheets, areas where Gemini on Samsung’s foldable still relied on manually uploaded documents during my testing. It was also more willing to automate actions across apps and complete multi-step workflows. But that greater autonomy came with trade-offs, raising questions about when an AI should act independently and when it should ask for clarification.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-can-vertu-s-hermes-agent-replace-an-executive-assistant"&gt;Can Vertu’s Hermes Agent replace an executive assistant?&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One of the first tests simulated a common executive scenario before leaving for the airport. I asked Hermes Agent on the Alphafold to message a contact that I was running 20 minutes late, navigate to the airport, switch the phone to Do Not Disturb, and remind me to call the hotel in 15 minutes. The agent sent the message, enabled Do Not Disturb, and opened Google Maps with directions to the airport. It did not, however, automatically begin navigation and instead set the reminder for 9:08 p.m., despite the request being made at 2:32 a.m. for a reminder 15 minutes later.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Vertu Alphafold airport navigation task" class="wp-image-3143879" height="680" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alarm-airport-navigation.jpg?w=638" width="638" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Running the same request on Samsung’s Galaxy Z Fold 7 produced a different experience. Rather than attempting every action immediately, Gemini asked follow-up questions, including which airport I wanted to travel to and whether the reminder should be created in Google Tasks or Samsung Reminder. Once I made those selections, it created the reminder for the correct time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Hermes was more willing to act autonomously, while Gemini preferred to confirm details before proceeding. As a result, Hermes completed more of the requested workflow, but Gemini ultimately produced the more accurate outcome.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-planning-a-business-trip"&gt;Planning a business trip&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A second test focused on a more open-ended task. I asked Vertu’s Hermes Agent to organize a business trip from Mumbai to Pune, including a morning flight, a hotel recommendation, and adding the itinerary to my calendar. The agent responded that there were no direct morning flights available for the requested journey and offered a Contact Butler button to escalate the request to Vertu’s concierge service. It also created a calendar entry for the wrong dates, scheduling the trip for 7 July instead of 18–19 July, leaving the workflow incomplete.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Vertu Alphafold's Hermes Agent flight booking" class="wp-image-3143882" height="680" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-hermes-agent-flight-booking-task.jpg?w=290" width="290" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Gemini on Samsung’s Galaxy Z Fold 7 took a different approach. After determining that no suitable direct morning flight was available for the requested journey, it continued planning the trip by suggesting alternative travel options rather than handing the task off.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-working-with-business-documents"&gt;Working with business documents&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Business documents revealed a mixed picture, too. I asked both Hermes Agent and Gemini to analyze a locally saved financial spreadsheet, summarize the quarterly results, and determine whether third-quarter sales figures were included.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;During my original testing, Hermes analyzed an uploaded sales spreadsheet and correctly summarised the Q2 figures. However, when I returned to the same conversation days later, it no longer recognized the previously shared document, instead responding: “I cannot access files stored directly on your local device. Please upload or attach the Sales spreadsheet here in the chat, and I will gladly analyze the Q2 data for you.”&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Vertu Hermes Agent file access" class="wp-image-3143886" height="680" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-hermes-agent-file-access.jpg?w=290" width="290" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Gemini also required the spreadsheet to be uploaded initially, but retained the context of the conversation. Days later, it was still able to answer follow-up questions about the document, correctly identifying the North region as generating the highest sales without requiring the file to be uploaded again.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Taken together, the testing suggested Hermes Agent is an ambitious AI assistant rather than a finished one. Its willingness to act autonomously often made it feel more like an agent than Gemini on Samsung’s phone, but that same approach occasionally produced incomplete workflows, incorrect outputs, and inconsistent behavior. The pace of updates during the review also suggested Vertu is actively refining the platform, meaning today’s experience may not be the same one buyers encounter a few months from now.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beyond general assistance, Vertu has built Hermes around a collection of specialist AI agents aimed at affluent professionals, including agents focused on legal advice and investment insights, along with the option to escalate certain requests to a human concierge. The idea is to position the Alphafold as more than a premium smartphone, instead presenting it as a digital assistant for executives.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In practice, however, the specialist agents should be treated as starting points rather than authoritative advisers. They can provide useful summaries and recommendations, their responses remain AI-generated and should be independently verified before being relied upon for legal, financial, or other high-stakes decisions. The option to escalate certain requests to Vertu’s concierge service underscores the current limits of AI agents. Human expertise still matters.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Vertu is also positioning the Alphafold as a business platform rather than just a smartphone. The company demonstrated an integrated enterprise resource planning (ERP) system designed to give executives access to business data and workflows from the device. My testing, however, was limited to a demonstration environment, making it difficult to assess how the feature performs in day-to-day use or how well it integrates with existing enterprise systems.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-the-security-aspect"&gt;The security aspect&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For Alphafold’s target audience, security may matter as much as AI. Executives are unlikely to use an assistant that analyses contracts, financial reports, and business plans if they are uncertain where that data is processed or stored.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Vertu says conversations with Hermes Agent are encrypted and are not used to train public AI models. According to the company, users can also choose where their data is processed, with enterprise deployments supporting private infrastructure for organizations that require greater control over sensitive information.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Vertu backs those claims up with a dedicated “A5” security chip, which it says provides hardware-level protection for sensitive data, encrypted communications, and digital credentials. Those claims couldn’t be independently verified during testing, but they’re central to Vertu’s pitch to executives and enterprises.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-living-with-the-alphafold"&gt;Living with the Alphafold&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Away from AI, the Alphafold behaves much like any modern flagship foldable. The battery comfortably lasted more than a day during testing. However, the absence of wireless charging is a surprising omission at this price, particularly when Samsung’s Galaxy Z Fold 7 supports convenient Qi charging alongside wired USB-C charging.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Vertu Alphafold" class="wp-image-3143887" height="1280" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-horizontal.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Vertu Alphafold lasts for over a day on a single charge&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The camera app also includes a document scanning mode under a “Smart AI” setting that can recognize paperwork and save them with enhancements, making it useful for digitizing contracts, receipts, and other business documents. Samsung offers a comparable scanning experience through its own camera software, so this is feels more like a parity feature than a differentiator.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-verdict"&gt;Verdict&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Alphafold is an ambitious attempt to build an AI-first luxury smartphone, but the execution falls short of its price tag. Despite its premium materials and exclusive services, the core hardware offers little that cannot be found in significantly less expensive foldables, while Hermes Agent remains an evolving platform rather than a compelling reason to spend thousands more.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ultimately, Vertu is asking buyers to pay a substantial premium for branding, craftsmanship, and an ecosystem of AI and concierge services built on top of an established smartphone platform. Based on my testing, that premium is difficult to justify, particularly when Samsung’s Galaxy Z Fold 7 offers a more mature foldable experience with comparable day-to-day functionality at a fraction of the price. With Samsung’s next-generation Galaxy Z Fold 8 expected very soon, the Alphafold’s value proposition becomes even harder to defend.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;AI has become the smartphone industry’s latest battleground, with manufacturers racing to add AI-powered features to attract mainstream consumers. Vertu is taking a different path. The UK-founded luxury phone maker, known for hand-finished devices often costing tens of thousands of dollars, sells status instead of specs. Its Alphafold, a foldable phone, targets affluent buyers, particularly chief executives, pairing luxury materials with an AI agent designed to automate parts of an executive’s working day. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So I put that pitch to the test. Rather than focusing on benchmark scores, camera comparisons, and media consumption — the staples of most smartphone reviews — I spent a few days using the foldable the way Vertu says its customers would: managing documents, analyzing spreadsheets and contracts, planning business trips, automating routine tasks, and relying on its AI agent as a digital companion throughout the working day. The question wasn’t whether it was a good smartphone, but whether it was a good executive smartphone.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At the heart of the Alphafold is Hermes Agent, a pre-installed AI agent built on top of the open-source Hermes project, which the company says can analyze files, automate tasks across apps, remember conversations, and hand off requests to a human concierge when needed. Unlike most smartphone AI assistants that largely just respond to prompts, Hermes is designed to execute multi-step workflows on users’ behalf, making it the centerpiece of Vertu’s pitch rather than the foldable hardware itself.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Physically, the Alphafold, which starts at $6,880, looks and feels every bit like a luxury device. The review unit I received was wrapped in genuine calfskin leather with titanium accents, setting it apart from mainstream foldables that largely rely on glass or synthetic finishes. It’s clearly built for buyers who see their phone as both a tool and a status symbol.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Compared with the Samsung Galaxy Z Fold 7, which I used as a reference device throughout this review, the 264-gram Alphafold feels noticeably heavier than Samsung’s 215-gram foldable. The extra weight is apparent during prolonged use, though it never feels unwieldy. The Alphafold’s curved frame also makes it easier to unfold than the Galaxy Z Fold 7’s flatter edges. Samsung’s design, however, feels sleeker and more comfortable to hold when folded, making it easier to use one-handed.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="alt" class="wp-image-3143871" height="1280" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-samsung-galaxy-z-fold-7.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Vertu’s Alphafold with a Calfskin Leather back and Samsung’s Galaxy Z Fold 7 with a Glass Back&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Alphafold also arrives in packaging that feels more akin to a jewelry presentation case than a smartphone box. The oversized box opens to reveal neatly arranged drawers containing bundled accessories, including a leather sleeve and charging cables, reinforcing the sense that Vertu is selling a luxury experience rather than just a handset.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Vertu Alphafold" class="wp-image-3143918" height="1500" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-box.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Vertu Alphafold’s with a luxury packaging&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beneath the premium materials, however, the Alphafold tells a different story. During the review, I noticed striking similarities between the device and the $1,100 ZTE Nubia Fold — from the hinge design and dimensions to the placement of the speakers, microphones, and the fingerprint reader. The most visible distinction is Vertu’s leather-clad rear panel, though. System information also revealed ZTE identifiers in parts of the software.&lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;When asked about these observations, Vertu confirmed to TechCrunch that the Alphafold was developed through a specialist supply-chain partnership involving ZTE/Nubia’s hardware platform, component integration, and production engineering. However, the company said it was responsible for the luxury materials, software experience, quality control, and after-sales service. ZTE did not respond to a request for comments.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="ZTE Nubia Fold" class="wp-image-3143876" height="481" src="https://techcrunch.com/wp-content/uploads/2026/07/zte-nubia-fold.jpg" width="883" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;ZTE Nubia Fold&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;YMobile.jp&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This isn’t new for Vertu. In a 2023 review of the MetaVertu, Wired reported that the device appeared to be based on a ZTE Nubia handset, citing hardware similarities and comments from Counterpoint Research that Vertu had been adapting existing ZTE models with luxury materials and custom software.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Still, focusing solely on the hardware misses the point of the Alphafold. Vertu’s real bet is not on building a better foldable but on whether executives will pay for an AI agent that helps them get through the working day more efficiently. &lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Over several days, I used the Alphafold as my primary smartphone, replacing routine prompts with real executive-style workflows. Instead of asking Hermes to write emails or answer trivia questions, I tasked it with analyzing spreadsheets and contracts, planning business trips, managing my schedule, and automating actions across multiple apps. I then compared the experience with Samsung’s Galaxy Z Fold 7 running Google’s Gemini.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Vertu Alphafold and Samsung Galaxy Z Fold 7" class="wp-image-3143877" height="1280" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-samsung-galaxy-z-fold-7-side.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Vertu Alphafold and Samsung Galaxy Z Fold 7&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The testing evolved as I went. Early software builds struggled to upload files, analyze images, and connect to Vertu’s concierge service. After I reported these issues to Vertu, the company rolled out server-side fixes that restored the missing functionality, allowing the remaining tests to be completed.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What emerged over days of testing was a more nuanced picture than the company’s claims might suggest. Hermes impressed when analyzing local files and spreadsheets, areas where Gemini on Samsung’s foldable still relied on manually uploaded documents during my testing. It was also more willing to automate actions across apps and complete multi-step workflows. But that greater autonomy came with trade-offs, raising questions about when an AI should act independently and when it should ask for clarification.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-can-vertu-s-hermes-agent-replace-an-executive-assistant"&gt;Can Vertu’s Hermes Agent replace an executive assistant?&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One of the first tests simulated a common executive scenario before leaving for the airport. I asked Hermes Agent on the Alphafold to message a contact that I was running 20 minutes late, navigate to the airport, switch the phone to Do Not Disturb, and remind me to call the hotel in 15 minutes. The agent sent the message, enabled Do Not Disturb, and opened Google Maps with directions to the airport. It did not, however, automatically begin navigation and instead set the reminder for 9:08 p.m., despite the request being made at 2:32 a.m. for a reminder 15 minutes later.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Vertu Alphafold airport navigation task" class="wp-image-3143879" height="680" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alarm-airport-navigation.jpg?w=638" width="638" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Running the same request on Samsung’s Galaxy Z Fold 7 produced a different experience. Rather than attempting every action immediately, Gemini asked follow-up questions, including which airport I wanted to travel to and whether the reminder should be created in Google Tasks or Samsung Reminder. Once I made those selections, it created the reminder for the correct time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Hermes was more willing to act autonomously, while Gemini preferred to confirm details before proceeding. As a result, Hermes completed more of the requested workflow, but Gemini ultimately produced the more accurate outcome.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-planning-a-business-trip"&gt;Planning a business trip&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A second test focused on a more open-ended task. I asked Vertu’s Hermes Agent to organize a business trip from Mumbai to Pune, including a morning flight, a hotel recommendation, and adding the itinerary to my calendar. The agent responded that there were no direct morning flights available for the requested journey and offered a Contact Butler button to escalate the request to Vertu’s concierge service. It also created a calendar entry for the wrong dates, scheduling the trip for 7 July instead of 18–19 July, leaving the workflow incomplete.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Vertu Alphafold's Hermes Agent flight booking" class="wp-image-3143882" height="680" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-hermes-agent-flight-booking-task.jpg?w=290" width="290" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Gemini on Samsung’s Galaxy Z Fold 7 took a different approach. After determining that no suitable direct morning flight was available for the requested journey, it continued planning the trip by suggesting alternative travel options rather than handing the task off.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-working-with-business-documents"&gt;Working with business documents&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Business documents revealed a mixed picture, too. I asked both Hermes Agent and Gemini to analyze a locally saved financial spreadsheet, summarize the quarterly results, and determine whether third-quarter sales figures were included.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;During my original testing, Hermes analyzed an uploaded sales spreadsheet and correctly summarised the Q2 figures. However, when I returned to the same conversation days later, it no longer recognized the previously shared document, instead responding: “I cannot access files stored directly on your local device. Please upload or attach the Sales spreadsheet here in the chat, and I will gladly analyze the Q2 data for you.”&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-large"&gt;&lt;img alt="Vertu Hermes Agent file access" class="wp-image-3143886" height="680" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-hermes-agent-file-access.jpg?w=290" width="290" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Gemini also required the spreadsheet to be uploaded initially, but retained the context of the conversation. Days later, it was still able to answer follow-up questions about the document, correctly identifying the North region as generating the highest sales without requiring the file to be uploaded again.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Taken together, the testing suggested Hermes Agent is an ambitious AI assistant rather than a finished one. Its willingness to act autonomously often made it feel more like an agent than Gemini on Samsung’s phone, but that same approach occasionally produced incomplete workflows, incorrect outputs, and inconsistent behavior. The pace of updates during the review also suggested Vertu is actively refining the platform, meaning today’s experience may not be the same one buyers encounter a few months from now.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Beyond general assistance, Vertu has built Hermes around a collection of specialist AI agents aimed at affluent professionals, including agents focused on legal advice and investment insights, along with the option to escalate certain requests to a human concierge. The idea is to position the Alphafold as more than a premium smartphone, instead presenting it as a digital assistant for executives.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In practice, however, the specialist agents should be treated as starting points rather than authoritative advisers. They can provide useful summaries and recommendations, their responses remain AI-generated and should be independently verified before being relied upon for legal, financial, or other high-stakes decisions. The option to escalate certain requests to Vertu’s concierge service underscores the current limits of AI agents. Human expertise still matters.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Vertu is also positioning the Alphafold as a business platform rather than just a smartphone. The company demonstrated an integrated enterprise resource planning (ERP) system designed to give executives access to business data and workflows from the device. My testing, however, was limited to a demonstration environment, making it difficult to assess how the feature performs in day-to-day use or how well it integrates with existing enterprise systems.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-the-security-aspect"&gt;The security aspect&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For Alphafold’s target audience, security may matter as much as AI. Executives are unlikely to use an assistant that analyses contracts, financial reports, and business plans if they are uncertain where that data is processed or stored.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Vertu says conversations with Hermes Agent are encrypted and are not used to train public AI models. According to the company, users can also choose where their data is processed, with enterprise deployments supporting private infrastructure for organizations that require greater control over sensitive information.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Vertu backs those claims up with a dedicated “A5” security chip, which it says provides hardware-level protection for sensitive data, encrypted communications, and digital credentials. Those claims couldn’t be independently verified during testing, but they’re central to Vertu’s pitch to executives and enterprises.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-living-with-the-alphafold"&gt;Living with the Alphafold&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Away from AI, the Alphafold behaves much like any modern flagship foldable. The battery comfortably lasted more than a day during testing. However, the absence of wireless charging is a surprising omission at this price, particularly when Samsung’s Galaxy Z Fold 7 supports convenient Qi charging alongside wired USB-C charging.&lt;/p&gt;
-
-&lt;figure class="wp-block-image aligncenter size-full"&gt;&lt;img alt="Vertu Alphafold" class="wp-image-3143887" height="1280" src="https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-horizontal.jpg" width="1920" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-element-caption__text"&gt;Vertu Alphafold lasts for over a day on a single charge&lt;/span&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Jagmeet Singh / TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The camera app also includes a document scanning mode under a “Smart AI” setting that can recognize paperwork and save them with enhancements, making it useful for digitizing contracts, receipts, and other business documents. Samsung offers a comparable scanning experience through its own camera software, so this is feels more like a parity feature than a differentiator.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading" id="h-verdict"&gt;Verdict&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Alphafold is an ambitious attempt to build an AI-first luxury smartphone, but the execution falls short of its price tag. Despite its premium materials and exclusive services, the core hardware offers little that cannot be found in significantly less expensive foldables, while Hermes Agent remains an evolving platform rather than a compelling reason to spend thousands more.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ultimately, Vertu is asking buyers to pay a substantial premium for branding, craftsmanship, and an ecosystem of AI and concierge services built on top of an established smartphone platform. Based on my testing, that premium is difficult to justify, particularly when Samsung’s Galaxy Z Fold 7 offers a more mature foldable experience with comparable day-to-day functionality at a fraction of the price. With Samsung’s next-generation Galaxy Z Fold 8 expected very soon, the Alphafold’s value proposition becomes even harder to defend.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</guid><pubDate>Fri, 17 Jul 2026 22:55:09 +0000</pubDate></item><item><title>[NEW] Neil Rimer thinks the AI money is coming back out (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739" /&gt;&lt;/div&gt;&lt;div&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 18 Jul 2026 13:20:04 +0000</lastBuildDate><item><title>Neil Rimer thinks the AI money is coming back out (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739" /&gt;&lt;/div&gt;&lt;div&gt;
 &lt;p class="wp-block-paragraph" id="speakable-summary"&gt;In late May, Neil Rimer said something during a sit-down I had with him in Athens that I haven’t been able to shake. At a vibrant new tech festival in the city, talking about the wealth piling up around AI, he said he has “a strong sense that there will be some sort of a redistribution.” He continued on. “It’ll either be voluntary or it’ll be involuntary, but it’ll happen, and I hope it’s voluntary,” he told me, adding that he thinks tech leaders “can play a leading role in seeing that through.”&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Coming from most people, that would sound like standard-issue populism. Coming from Rimer, a co-founder of Index Ventures, one of the most successful venture firms of the last three decades, it seemed a striking thing to say in public.&lt;/p&gt;
@@ -653,4 +113,444 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;Critics may note that Rimer — as an investor in Anthropic and other tech companies — is a direct beneficiary of the windfall he says will eventually need to be shared. But he’d rather see his fellow beneficiaries choose to give some of the money back than have it taken from them. There’s an easy way to do this and a hard way, and Rimer is betting on people picking the easy one before history picks it for them.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/</guid><pubDate>Sat, 18 Jul 2026 04:47:25 +0000</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/</guid><pubDate>Sat, 18 Jul 2026 04:47:25 +0000</pubDate></item><item><title>[NEW] Will AI fix prior authorization—or make it worse? (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</link><description>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        The government is piloting a program that uses AI for insurance-coverage decisions.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="A robotic arm bust through a blue wall while holding a medical stethoscope." class="absolute inset-0 w-full h-full object-cover hidden" height="504" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-640x504.jpg" width="640" /&gt;
+                  &lt;img alt="A robotic arm bust through a blue wall while holding a medical stethoscope." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          showcake via iStock/Getty Images Plus
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;If you’re like me, you or a loved one has struggled through the process of gaining pre-approval for the medical care that your physician has recommended. Personal stories abound regarding the tribulations of patients as they go through hoops to get their health insurer to pay for certain prescription medications, medical procedures, and more.&lt;/p&gt;
+&lt;p&gt;When used judiciously, this process—known as prior authorization—serves as a check on overuse and spending on services or technologies for which there are less costly alternatives. But a large majority of physicians voice concerns about care delays, which can cause patients to abandon recommended treatments while waiting for the insurance company to verify their eligibility and confirm that the treatment is, indeed, medically necessary. Patients who are denied care may submit an appeal, but that requires more time.&lt;/p&gt;
+&lt;p&gt;AI might be able to help. With its ability to efficiently sort through vast reams of information, artificial intelligence could theoretically expedite approval of unambiguously allowable claims, thereby reducing care delays. However, AI-driven prior authorization is facing resistance, as it may increase wrongful denials of health insurance coverage. A 2025 American Medical Association survey of physicians revealed significant concern about the application of AI tools, with 61 percent of doctors worrying that AI will exacerbate denials of what they deem are necessary treatments.&lt;/p&gt;
+&lt;p&gt;The AMA advocates requiring insurers to provide detailed clinical reasoning to justify denials of coverage, in addition to more transparency regarding AI algorithms.&lt;/p&gt;
+&lt;p&gt;In an email to Undark, health policy analyst Camm Epstein wrote that “AI should be used to make appropriate care easier to approve, not necessary care easier to deny.”&lt;/p&gt;
+&lt;p&gt;President Donald Trump’s administration is currently piloting a program in six states, using AI to reduce unnecessary medical spending. But it remains to be seen whether this new approach will help fix a tortuous system.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Regardless of the degree to which AI is involved, the public views prior authorization as a major burden. In Medicare Advantage—the privately run alternative to original Medicare that now enrolls roughly 55 percent of Medicare-eligible seniors and disabled people—insurers issue millions of full or partial claim denials annually based on prior authorization. Federal government reports issued in June showed that plans sometimes even reject requests for skilled nursing and rehabilitation admissions. Erecting obstacles to medically appropriate care is viewed as a particular area of concern.&lt;/p&gt;
+&lt;p&gt;Patients can request medical exemptions or appeal plan decisions, but the process is often complicated and cumbersome. NBC News reported that some patients are “stuck in prior authorization” purgatory as they “run out of time or treatment options.”&lt;/p&gt;
+&lt;p&gt;A newly released Commonwealth Fund survey finds that roughly one in five American working-age adults with private insurance reported that either they or a family member were denied insurance coverage for physician-recommended medical care in 2025. Forty-one percent of people who experienced a prior authorization denial said it delayed their care, and more than a quarter reported that their health problem worsened as a result.&lt;/p&gt;
+&lt;p&gt;The government and private insurers have tried to make improvements.&lt;/p&gt;
+&lt;p&gt;A rule issued by former President Joe Biden’s administration in 2024, for example, included reforms designed to reduce delays for patients with government-run plans while streamlining the prior authorization process for physicians. It required insurers to make certain prior authorization decisions within 72 hours for urgent requests, and seven calendar days for non-urgent requests. Per Jan. 1 of this year, these timeline requirements went into effect for most health plans in the public sector. Last year, together with insurers, the Trump administration pledged to further streamline and accelerate prior authorization processes. Private insurance companies vowed to standardize electronic requests by 2027 and to “reduce the volume of medical services subject to prior authorization” by 2026, including for common procedures like colonoscopies and cataract surgeries.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Now, the Trump administration wants to further ameliorate prior authorization protocols by expanding the use of AI.&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;This year, the Centers for Medicare and Medicaid Services began a demonstration project called WISeR, or Wasteful and Inappropriate Service Reduction Model. Using AI, WISeR is designed to reduce waste and fraud in original Medicare, aiming to decrease unnecessary procedures. The project runs through December 2031 in six states, and combines technologies such as machine learning with human clinical review to evaluate services CMS believes may be vulnerable to overuse, fraud, and abuse, including skin and tissue substitutes, electrical nerve stimulator implants, and knee arthroscopy for knee osteoarthritis.&lt;/p&gt;
+&lt;p&gt;Although prior authorization has been used extensively in Medicare Advantage, it has rarely been deployed in original Medicare. And this shift might not be good for patients.&lt;/p&gt;
+&lt;p&gt;An HHS Office of Inspector General memorandum published in 2022 pointed to more than one in 10 instances in which Medicare Advantage plans denied beneficiaries’ access to services even though they apparently met coverage rules. (Being denied access doesn’t mean patients can’t ever gain access. In 2024, for example, Medicare Advantage plans overturned 81 percent of denials upon appeal.)&lt;/p&gt;
+&lt;p&gt;By integrating AI into the prior authorization process, CMS says the WISeR model will “ensure timely and appropriate Medicare payment for select items and services.” But this is not how critics see it. Before WISeR was implemented, Wendell Potter, an advocate for health insurance reform and former executive at health insurer Cigna, covered the political pushback against the model on the Substack publication “HEALTH CARE un-covered.” In the same publication, Zena Wolf, a researcher with the Center for Health &amp;amp; Democracy, cited investigations by the Washington Post, KFF Health News, and the Seattle Times that suggest in the first few months of the year, the model has caused delays in care and denials in some instances in each of the six states where it is being piloted. And despite automated processes, there can be a high administrative burden for health care providers, which includes additional work dealing with denials.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Additionally, vendors participating in the WISeR model, who were hired to carry out AI-driven prior authorization, earn a share of what CMS calls “averted expenditures.” This could entail revenues for rejecting care requests. In turn this points to a broader discussion about long-standing concerns regarding profit-making on the basis of discouraging patients from getting medically necessary care. Several lawmakers have introduced resolutions and amendments to block funding for the WISeR model, citing threats to patient access.&lt;/p&gt;
+&lt;p&gt;Yet the Trump administration seems to be of two minds when it comes to prior authorization. As CMS expands its use in original Medicare using AI, the agency wants to lessen and streamline its use by private insurers, including Medicare Advantage plans. CMS Administrator Mehmet Oz has warned insurance company executives that they must ease the burden of prior authorization, or the federal government will impose regulation: “If you don’t do it yourselves, then we’re going to do it for you,” he told the National News Desk, a TV news program.&lt;/p&gt;
+&lt;p&gt;Possibly to preempt further executive branch action or passage of laws by legislators, health plans released data recently that suggest they’re complying with administration demands. The industry-based survey reveals that between June 2025 and April 2026, requests for prior authorization declined by 11 percent. It’s unknown, however, whether the denial rate has decreased.&lt;/p&gt;
+&lt;p&gt;Responding to an industry group survey conducted last year, all responding health plans agreed with the statement, “AI or algorithms without clinician or practitioner review are not used to deny prior authorization requests that involve medical necessity or clinical considerations.” Moreover, insurers promised more transparency around clinical reasoning underlying prior authorization.&lt;/p&gt;
+&lt;p&gt;This may alleviate some of the worry about a lack of human review of decisions made by AI. But placating detractors won’t be easy.&lt;/p&gt;
+&lt;p&gt;Jared Dashevsky, a physician and founder of a media and educational platform called Healthcare Huddle, wrote that AI could “eliminate barriers, reduce administrative waste, give us more time with patients. But that’s not what’s being built.” Instead, he says, there’s an “arms race to deny faster and appeal faster. More automation of a broken system that shouldn’t exist in its current form.”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This article was originally published on Undark. Read the original article.&lt;img src="https://logs-01.loggly.com/inputs/4a05953f-1607-4284-825e-7df393822342.gif?postid=103313&amp;amp;title=Will-AI-Fix-Prior-Authorization-%E2%80%94-or-Make-It-Worse?" /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;figure class="ars-img-shortcode  "&gt;
+    &lt;div&gt;
+              &lt;img alt="alt" class="fullwidth full" src="https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/" /&gt;
+          &lt;/div&gt;
+                &lt;/figure&gt;
+
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
+  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
+  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
+    &lt;div class="class"&gt;
+      
+
+      
+
+      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
+        The government is piloting a program that uses AI for insurance-coverage decisions.
+      &lt;/p&gt;
+
+              
+          &lt;/div&gt;
+
+    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
+              &lt;div class="relative aspect-video overflow-hidden"&gt;
+                      &lt;div class="ars-lightbox"&gt;
+              &lt;div class="ars-lightbox-item"&gt;
+                
+                  &lt;img alt="A robotic arm bust through a blue wall while holding a medical stethoscope." class="absolute inset-0 w-full h-full object-cover hidden" height="504" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-640x504.jpg" width="640" /&gt;
+                  &lt;img alt="A robotic arm bust through a blue wall while holding a medical stethoscope." class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-1152x648.jpg" width="1152" /&gt;
+                
+                
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        &lt;/div&gt;
+        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
+    &lt;div class="caption-icon bg-[left_top_7px] w-[10px] shrink-0"&gt;&lt;/div&gt;
+    &lt;div class="caption-content"&gt;
+      
+
+              &lt;span class="caption-credit mt-2 text-xs"&gt;
+          Credit:
+
+                      
+          
+          showcake via iStock/Getty Images Plus
+
+                      
+                  &lt;/span&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+
+
+  
+
+  
+      
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+                      
+                      
+          &lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;If you’re like me, you or a loved one has struggled through the process of gaining pre-approval for the medical care that your physician has recommended. Personal stories abound regarding the tribulations of patients as they go through hoops to get their health insurer to pay for certain prescription medications, medical procedures, and more.&lt;/p&gt;
+&lt;p&gt;When used judiciously, this process—known as prior authorization—serves as a check on overuse and spending on services or technologies for which there are less costly alternatives. But a large majority of physicians voice concerns about care delays, which can cause patients to abandon recommended treatments while waiting for the insurance company to verify their eligibility and confirm that the treatment is, indeed, medically necessary. Patients who are denied care may submit an appeal, but that requires more time.&lt;/p&gt;
+&lt;p&gt;AI might be able to help. With its ability to efficiently sort through vast reams of information, artificial intelligence could theoretically expedite approval of unambiguously allowable claims, thereby reducing care delays. However, AI-driven prior authorization is facing resistance, as it may increase wrongful denials of health insurance coverage. A 2025 American Medical Association survey of physicians revealed significant concern about the application of AI tools, with 61 percent of doctors worrying that AI will exacerbate denials of what they deem are necessary treatments.&lt;/p&gt;
+&lt;p&gt;The AMA advocates requiring insurers to provide detailed clinical reasoning to justify denials of coverage, in addition to more transparency regarding AI algorithms.&lt;/p&gt;
+&lt;p&gt;In an email to Undark, health policy analyst Camm Epstein wrote that “AI should be used to make appropriate care easier to approve, not necessary care easier to deny.”&lt;/p&gt;
+&lt;p&gt;President Donald Trump’s administration is currently piloting a program in six states, using AI to reduce unnecessary medical spending. But it remains to be seen whether this new approach will help fix a tortuous system.&lt;/p&gt;
+
+          
+                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
+            &lt;/div&gt;
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Regardless of the degree to which AI is involved, the public views prior authorization as a major burden. In Medicare Advantage—the privately run alternative to original Medicare that now enrolls roughly 55 percent of Medicare-eligible seniors and disabled people—insurers issue millions of full or partial claim denials annually based on prior authorization. Federal government reports issued in June showed that plans sometimes even reject requests for skilled nursing and rehabilitation admissions. Erecting obstacles to medically appropriate care is viewed as a particular area of concern.&lt;/p&gt;
+&lt;p&gt;Patients can request medical exemptions or appeal plan decisions, but the process is often complicated and cumbersome. NBC News reported that some patients are “stuck in prior authorization” purgatory as they “run out of time or treatment options.”&lt;/p&gt;
+&lt;p&gt;A newly released Commonwealth Fund survey finds that roughly one in five American working-age adults with private insurance reported that either they or a family member were denied insurance coverage for physician-recommended medical care in 2025. Forty-one percent of people who experienced a prior authorization denial said it delayed their care, and more than a quarter reported that their health problem worsened as a result.&lt;/p&gt;
+&lt;p&gt;The government and private insurers have tried to make improvements.&lt;/p&gt;
+&lt;p&gt;A rule issued by former President Joe Biden’s administration in 2024, for example, included reforms designed to reduce delays for patients with government-run plans while streamlining the prior authorization process for physicians. It required insurers to make certain prior authorization decisions within 72 hours for urgent requests, and seven calendar days for non-urgent requests. Per Jan. 1 of this year, these timeline requirements went into effect for most health plans in the public sector. Last year, together with insurers, the Trump administration pledged to further streamline and accelerate prior authorization processes. Private insurance companies vowed to standardize electronic requests by 2027 and to “reduce the volume of medical services subject to prior authorization” by 2026, including for common procedures like colonoscopies and cataract surgeries.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Now, the Trump administration wants to further ameliorate prior authorization protocols by expanding the use of AI.&lt;/p&gt;
+&lt;div class="page-anchor-wrapper"&gt;&lt;/div&gt;
+&lt;p&gt;This year, the Centers for Medicare and Medicaid Services began a demonstration project called WISeR, or Wasteful and Inappropriate Service Reduction Model. Using AI, WISeR is designed to reduce waste and fraud in original Medicare, aiming to decrease unnecessary procedures. The project runs through December 2031 in six states, and combines technologies such as machine learning with human clinical review to evaluate services CMS believes may be vulnerable to overuse, fraud, and abuse, including skin and tissue substitutes, electrical nerve stimulator implants, and knee arthroscopy for knee osteoarthritis.&lt;/p&gt;
+&lt;p&gt;Although prior authorization has been used extensively in Medicare Advantage, it has rarely been deployed in original Medicare. And this shift might not be good for patients.&lt;/p&gt;
+&lt;p&gt;An HHS Office of Inspector General memorandum published in 2022 pointed to more than one in 10 instances in which Medicare Advantage plans denied beneficiaries’ access to services even though they apparently met coverage rules. (Being denied access doesn’t mean patients can’t ever gain access. In 2024, for example, Medicare Advantage plans overturned 81 percent of denials upon appeal.)&lt;/p&gt;
+&lt;p&gt;By integrating AI into the prior authorization process, CMS says the WISeR model will “ensure timely and appropriate Medicare payment for select items and services.” But this is not how critics see it. Before WISeR was implemented, Wendell Potter, an advocate for health insurance reform and former executive at health insurer Cigna, covered the political pushback against the model on the Substack publication “HEALTH CARE un-covered.” In the same publication, Zena Wolf, a researcher with the Center for Health &amp;amp; Democracy, cited investigations by the Washington Post, KFF Health News, and the Seattle Times that suggest in the first few months of the year, the model has caused delays in care and denials in some instances in each of the six states where it is being piloted. And despite automated processes, there can be a high administrative burden for health care providers, which includes additional work dealing with denials.&lt;/p&gt;
+
+          
+                  &lt;/div&gt;
+
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+                    
+        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--mid-content"&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+            
+    
+    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
+      &lt;div class="relative lg:col-span-2"&gt;
+
+        
+        &lt;div class="post-content post-content-double"&gt;
+          
+          
+&lt;p&gt;Additionally, vendors participating in the WISeR model, who were hired to carry out AI-driven prior authorization, earn a share of what CMS calls “averted expenditures.” This could entail revenues for rejecting care requests. In turn this points to a broader discussion about long-standing concerns regarding profit-making on the basis of discouraging patients from getting medically necessary care. Several lawmakers have introduced resolutions and amendments to block funding for the WISeR model, citing threats to patient access.&lt;/p&gt;
+&lt;p&gt;Yet the Trump administration seems to be of two minds when it comes to prior authorization. As CMS expands its use in original Medicare using AI, the agency wants to lessen and streamline its use by private insurers, including Medicare Advantage plans. CMS Administrator Mehmet Oz has warned insurance company executives that they must ease the burden of prior authorization, or the federal government will impose regulation: “If you don’t do it yourselves, then we’re going to do it for you,” he told the National News Desk, a TV news program.&lt;/p&gt;
+&lt;p&gt;Possibly to preempt further executive branch action or passage of laws by legislators, health plans released data recently that suggest they’re complying with administration demands. The industry-based survey reveals that between June 2025 and April 2026, requests for prior authorization declined by 11 percent. It’s unknown, however, whether the denial rate has decreased.&lt;/p&gt;
+&lt;p&gt;Responding to an industry group survey conducted last year, all responding health plans agreed with the statement, “AI or algorithms without clinician or practitioner review are not used to deny prior authorization requests that involve medical necessity or clinical considerations.” Moreover, insurers promised more transparency around clinical reasoning underlying prior authorization.&lt;/p&gt;
+&lt;p&gt;This may alleviate some of the worry about a lack of human review of decisions made by AI. But placating detractors won’t be easy.&lt;/p&gt;
+&lt;p&gt;Jared Dashevsky, a physician and founder of a media and educational platform called Healthcare Huddle, wrote that AI could “eliminate barriers, reduce administrative waste, give us more time with patients. But that’s not what’s being built.” Instead, he says, there’s an “arms race to deny faster and appeal faster. More automation of a broken system that shouldn’t exist in its current form.”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This article was originally published on Undark. Read the original article.&lt;img src="https://logs-01.loggly.com/inputs/4a05953f-1607-4284-825e-7df393822342.gif?postid=103313&amp;amp;title=Will-AI-Fix-Prior-Authorization-%E2%80%94-or-Make-It-Worse?" /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;figure class="ars-img-shortcode  "&gt;
+    &lt;div&gt;
+              &lt;img alt="alt" class="fullwidth full" src="https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/" /&gt;
+          &lt;/div&gt;
+                &lt;/figure&gt;
+
+
+
+          
+                  &lt;/div&gt;
+
+                  
+          &lt;div class="-mx-2.5 sm:mx-0"&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+  
+
+
+  
+              &lt;/div&gt;
+
+      
+      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
+        
+                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
+      &lt;div class="ad-wrapper-inner"&gt;
+        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</guid><pubDate>Sat, 18 Jul 2026 11:18:25 +0000</pubDate></item></channel></rss>
