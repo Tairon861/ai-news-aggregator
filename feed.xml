@@ -1,2 +1,170 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 19 Jul 2026 13:21:31 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 19 Jul 2026 19:09:14 +0000</lastBuildDate><item><title>[NEW] Nonprofit Current AI is racing to build the World Wide Web of AI, free for all (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A farmer in rural India takes a photo of a dying plant. She wants to research it on the internet but she doesn’t speak English. She shouldn’t have to.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That’s the type of problem a nonprofit called Current AI is trying to solve by building open, public AI infrastructure. In February at the India AI Summit, it teamed up with Bhashini, the Indian government’s AI language division. The result became Suno Sutra, Hindi for “listening chronicles,” a pocket-sized, offline device that runs AI in 22 Indian languages, no internet required. “In India, there are hundreds of different languages and dialects, and right now AI is not representing them,” Current AI CEO Ayah Bdeir said in an interview with TechCrunch. The device is open-sourced, available for developer communities to build on.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The nonprofit, founded in February 2025 by Martin Tisne, is moving fast. Last month, it allocated $3.2 million in grants to projects across four organizations; most recently (last week) it launched an open-source AI chatbot at the AI for Good Summit in Geneva. &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Bdeir, joined in January after leading Mozilla’s AI strategy. She previously founded littleBits, the STEM education company that reached millions of kids before selling to Sphero in 2019.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Current AI operates as a “public-private partnership” bringing together governments, companies, and philanthropies to fund public interest tech, she told TechCrunch. &amp;nbsp;The French government seeded Current AI with $100 million, joined by the Ford Foundation, MacArthur Foundation, DeepMind, and Salesforce — bringing total committed funding to $400 million. “They’re not investors; they’re funders,” Bdeir said&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The problem it aims to solve is straightforward: every major AI system today, from OpenAI to Google to Anthropic, belongs to a private company. “If AI is truly a transformative technology, if it’s going to change every aspect of everyone’s life, there has to be a public alternative,” Bdeir said. “Like the World Wide Web, available to anyone, for free.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Half the world’s spoken languages face extinction. “And with English driving the largest language models and AI systems, a bulk of the world’s languages and, consequently, cultures and communities are left behind,” Bdeir said.&lt;/p&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;When asked about Big Tech’s multilingual push, Bdeir drew a sharp distinction. “Big tech builds multilingual models to expand their market,” she said, “regardless of consent or context.” The consequences are concrete. “For Indigenous languages, missionary Bible translations become training data before communities have set any rules,” she said.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-not-just-about-language"&gt;Not just about language&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;An AI’s ability to speak a language is only part of what it needs to learn. “Language is how knowledge, tradition, memory and identity get carried from one generation to the next. So when a technology can’t speak your language, it can’t hold your culture either,” she said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Her vision for Current AI is an open system modeled on the early web, where improvements benefit everyone, no one gets locked out, and communities keep control of their own data.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Current’s first cohort grant round, announced last month, involved deploying $3.2 million to four organizations across Kenya, Lebanon, and the Brazilian Amazon. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The project in Masakhane, Kenya, involves building AI datasets across more than 50 African languages for health, farming, and education; Lebanon’s Institute for Worldmaking is digitizing Arab cultural history and contemporary practice into machine-readable databases that communities (not tech companies) control. Brazil’s Portal sem Porteiras is building offline AI tools with Indigenous Amazon communities, keeping data within the territory. And Kenya’s African Internet Rights Alliance is developing audit tools to hold AI systems accountable across the continent.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-who-owns-the-data"&gt;&lt;strong&gt;Who owns the data?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the question of data ownership, Bdeir didn’t mince words. “There are different models and proposals for who owns data in various communities, but one thing is sure: it shouldn’t be a company in Silicon Valley trying to make a select few thousand people wealthier,” she told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The nonprofit’s approach is to store models and data locally, bringing in community experts before anything is built, or writing consent protocols into the pipeline so communities can halt the process at any point.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;None of Current AI’s grantees have fully solved it yet. But Bdeir sees that as the point. “Every one of them has built the question into their work,” she said, “rather than accepting the usual default, where complexity becomes the excuse to let a government or a tech company decide for everyone.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As for how much progress can be made with a $3.2 million budget split across four organizations, Bdeir says, “Scale is not always the measure. That is the Big Tech paradigm,” she said. “This could look like an Indigenous elder in the Brazilian Amazon using a tool built in Kenya to be able to pass down ecological knowledge in their own language.” &amp;nbsp;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-building-the-stack"&gt;Building the stack&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Earlier this month in Geneva, Current launched Alpha Chat, an open-source chatbot assembled in seven weeks by a coalition of ten organizations, including Hugging Face, Mozilla, and MIT Media Lab. Each contributor brought a piece of the stack, including a language model, safety tooling, and computing power.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Current AI also struck a deal with Sakana AI, a Tokyo-based startup known for its work on what it calls Sovereign AI. The two organizations plan to build a shared open-source AI stack, one designed to support the Japanese language and culture, but also communities across the Global South that dominant AI systems have largely ignored.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A farmer in rural India takes a photo of a dying plant. She wants to research it on the internet but she doesn’t speak English. She shouldn’t have to.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That’s the type of problem a nonprofit called Current AI is trying to solve by building open, public AI infrastructure. In February at the India AI Summit, it teamed up with Bhashini, the Indian government’s AI language division. The result became Suno Sutra, Hindi for “listening chronicles,” a pocket-sized, offline device that runs AI in 22 Indian languages, no internet required. “In India, there are hundreds of different languages and dialects, and right now AI is not representing them,” Current AI CEO Ayah Bdeir said in an interview with TechCrunch. The device is open-sourced, available for developer communities to build on.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The nonprofit, founded in February 2025 by Martin Tisne, is moving fast. Last month, it allocated $3.2 million in grants to projects across four organizations; most recently (last week) it launched an open-source AI chatbot at the AI for Good Summit in Geneva. &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Bdeir, joined in January after leading Mozilla’s AI strategy. She previously founded littleBits, the STEM education company that reached millions of kids before selling to Sphero in 2019.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Current AI operates as a “public-private partnership” bringing together governments, companies, and philanthropies to fund public interest tech, she told TechCrunch. &amp;nbsp;The French government seeded Current AI with $100 million, joined by the Ford Foundation, MacArthur Foundation, DeepMind, and Salesforce — bringing total committed funding to $400 million. “They’re not investors; they’re funders,” Bdeir said&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The problem it aims to solve is straightforward: every major AI system today, from OpenAI to Google to Anthropic, belongs to a private company. “If AI is truly a transformative technology, if it’s going to change every aspect of everyone’s life, there has to be a public alternative,” Bdeir said. “Like the World Wide Web, available to anyone, for free.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Half the world’s spoken languages face extinction. “And with English driving the largest language models and AI systems, a bulk of the world’s languages and, consequently, cultures and communities are left behind,” Bdeir said.&lt;/p&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;When asked about Big Tech’s multilingual push, Bdeir drew a sharp distinction. “Big tech builds multilingual models to expand their market,” she said, “regardless of consent or context.” The consequences are concrete. “For Indigenous languages, missionary Bible translations become training data before communities have set any rules,” she said.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-not-just-about-language"&gt;Not just about language&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;An AI’s ability to speak a language is only part of what it needs to learn. “Language is how knowledge, tradition, memory and identity get carried from one generation to the next. So when a technology can’t speak your language, it can’t hold your culture either,” she said.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Her vision for Current AI is an open system modeled on the early web, where improvements benefit everyone, no one gets locked out, and communities keep control of their own data.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Current’s first cohort grant round, announced last month, involved deploying $3.2 million to four organizations across Kenya, Lebanon, and the Brazilian Amazon. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The project in Masakhane, Kenya, involves building AI datasets across more than 50 African languages for health, farming, and education; Lebanon’s Institute for Worldmaking is digitizing Arab cultural history and contemporary practice into machine-readable databases that communities (not tech companies) control. Brazil’s Portal sem Porteiras is building offline AI tools with Indigenous Amazon communities, keeping data within the territory. And Kenya’s African Internet Rights Alliance is developing audit tools to hold AI systems accountable across the continent.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-who-owns-the-data"&gt;&lt;strong&gt;Who owns the data?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the question of data ownership, Bdeir didn’t mince words. “There are different models and proposals for who owns data in various communities, but one thing is sure: it shouldn’t be a company in Silicon Valley trying to make a select few thousand people wealthier,” she told TechCrunch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The nonprofit’s approach is to store models and data locally, bringing in community experts before anything is built, or writing consent protocols into the pipeline so communities can halt the process at any point.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;None of Current AI’s grantees have fully solved it yet. But Bdeir sees that as the point. “Every one of them has built the question into their work,” she said, “rather than accepting the usual default, where complexity becomes the excuse to let a government or a tech company decide for everyone.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As for how much progress can be made with a $3.2 million budget split across four organizations, Bdeir says, “Scale is not always the measure. That is the Big Tech paradigm,” she said. “This could look like an Indigenous elder in the Brazilian Amazon using a tool built in Kenya to be able to pass down ecological knowledge in their own language.” &amp;nbsp;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading" id="h-building-the-stack"&gt;Building the stack&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Earlier this month in Geneva, Current launched Alpha Chat, an open-source chatbot assembled in seven weeks by a coalition of ten organizations, including Hugging Face, Mozilla, and MIT Media Lab. Each contributor brought a piece of the stack, including a language model, safety tooling, and computing power.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Current AI also struck a deal with Sakana AI, a Tokyo-based startup known for its work on what it calls Sovereign AI. The two organizations plan to build a shared open-source AI stack, one designed to support the Japanese language and culture, but also communities across the Global South that dominant AI systems have largely ignored.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</guid><pubDate>Sun, 19 Jul 2026 14:00:00 +0000</pubDate></item><item><title>[NEW] ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’ (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Christopher Nolan, the Oscar-winning director whose new version of “The Odyssey” is currently conquering the box office, said it’s been “pretty encouraging” to see deep skepticism of AI, especially from young people.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Nolan was responding to a question from interviewer Hugo Travers, who publishes on YouTube under the name HugoDécrypte. Travers brought up the legendary Trojan horse, which plays a key role in Nolan’s film — just as the horse was a gift concealing murderous Greek invaders, he wondered if AI might be something “that you welcome in your daily life” only to see it become “something else and something darker.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Laughing, Nolan responded, “I think AI is a Trojan horse that everybody knows the Greeks are inside.” He later described the technology as “a transparent horse, it’s made of glass.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I’ve never seen a technology advancing so rapidly [that’s been] so completely rejected by the public,” he said. “Everybody’s suspicion of it is so extreme, particularly young people. The reaction to AI videos online and people my children’s age immediately calling it ‘AI slop’ and coining that term and just putting it in a box.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In Nolan’s view, this is “a very healthy skepticism, because technology is always going to give us great gifts, as you say, but it has to be viewed with skepticism.” Similarly, he said, “The motives of the people giving it to us also have to be viewed with skepticism. That’s when we’ll get the best out of a new technology, rather than just blind faith that everything’s going to be great.” (Meanwhile, SpaceX CEO Elon Musk has been angrily posting about the film’s nonwhite and transgender cast members.)&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Nolan didn’t get more specific about what he views as the threat from AI, but the technology has been a growing source of concern in Hollywood and was a major focus during the writers’ and actors’ strikes of 2023. The Directors Guild of America, where Nolan is president, also won some generative AI protections in its most recent contract.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The director has been famously resistant to other technologies, including smartphones; his embrace of film can make him seem simultaneously like a Luddite and a pioneer, with “The Odyssey” becoming the first feature film to be shot entirely on Imax film and cameras.&lt;/p&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;When The New York Times recently asked Nolan if he thinks of himself as a technophobe, he replied, “I think of myself as a techno-skeptic,” and said his love of film comes from the fact that it’s “better in terms of representing the way the eye sees the world than any digital imaging system I’ve seen.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I embrace new technology all the time, but it tends to be sold to people at the expense of systems that might still be valid and viable,” Nolan said. “That’s what I saw in my industry — throwing the baby out with the bath water. We almost lost film!”&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Christopher Nolan, the Oscar-winning director whose new version of “The Odyssey” is currently conquering the box office, said it’s been “pretty encouraging” to see deep skepticism of AI, especially from young people.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Nolan was responding to a question from interviewer Hugo Travers, who publishes on YouTube under the name HugoDécrypte. Travers brought up the legendary Trojan horse, which plays a key role in Nolan’s film — just as the horse was a gift concealing murderous Greek invaders, he wondered if AI might be something “that you welcome in your daily life” only to see it become “something else and something darker.”&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Laughing, Nolan responded, “I think AI is a Trojan horse that everybody knows the Greeks are inside.” He later described the technology as “a transparent horse, it’s made of glass.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I’ve never seen a technology advancing so rapidly [that’s been] so completely rejected by the public,” he said. “Everybody’s suspicion of it is so extreme, particularly young people. The reaction to AI videos online and people my children’s age immediately calling it ‘AI slop’ and coining that term and just putting it in a box.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In Nolan’s view, this is “a very healthy skepticism, because technology is always going to give us great gifts, as you say, but it has to be viewed with skepticism.” Similarly, he said, “The motives of the people giving it to us also have to be viewed with skepticism. That’s when we’ll get the best out of a new technology, rather than just blind faith that everything’s going to be great.” (Meanwhile, SpaceX CEO Elon Musk has been angrily posting about the film’s nonwhite and transgender cast members.)&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Nolan didn’t get more specific about what he views as the threat from AI, but the technology has been a growing source of concern in Hollywood and was a major focus during the writers’ and actors’ strikes of 2023. The Directors Guild of America, where Nolan is president, also won some generative AI protections in its most recent contract.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The director has been famously resistant to other technologies, including smartphones; his embrace of film can make him seem simultaneously like a Luddite and a pioneer, with “The Odyssey” becoming the first feature film to be shot entirely on Imax film and cameras.&lt;/p&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;When The New York Times recently asked Nolan if he thinks of himself as a technophobe, he replied, “I think of myself as a techno-skeptic,” and said his love of film comes from the fact that it’s “better in terms of representing the way the eye sees the world than any digital imaging system I’ve seen.”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;“I embrace new technology all the time, but it tends to be sold to people at the expense of systems that might still be valid and viable,” Nolan said. “That’s what I saw in my industry — throwing the baby out with the bath water. We almost lost film!”&lt;/p&gt;
+
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;p&gt;
+[embedded content]
+&lt;/p&gt;&lt;/figure&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/</guid><pubDate>Sun, 19 Jul 2026 14:52:08 +0000</pubDate></item></channel></rss>
