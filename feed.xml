@@ -1,700 +1,100 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 25 Jul 2026 08:08:35 +0000</lastBuildDate><item><title>Anthropic's Opus 5 is about token efficiency, not a capability leap (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Models are improving quickly, but the cheaper options are often good enough.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="An abstract image of the number 5" class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-640x360.jpg" width="640" /&gt;
-                  &lt;img alt="An abstract image of the number 5" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Opus 5 isn't as remarkable as Mythos, but it's more widely available and much more affordable.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Anthropic
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;&lt;!-- obsidian --&gt;&lt;/p&gt;
-&lt;p&gt;Today, Anthropic rolled out Opus 5, the newest update for the model that has recently become a popular choice for coding and other software development tasks, among other things.&lt;/p&gt;
-&lt;p&gt;While this is a noteworthy bump for Opus, it doesn’t seem to be an Opus 4.5-level breakthrough in agentic coding performance.&lt;/p&gt;
-&lt;p&gt;A chart (made by Anthropic) with various benchmarks like Frontier-Bench and DeepSWE shows Opus 5 performing at about the same level or slightly ahead of the much-ballyhooed capabilities of Anthropic’s Fable model for coding tasks. It ostensibly beats Opus 4.8 and OpenAI’s competing GPT-5.6-Sol in just about every kind of task.&lt;/p&gt;
-&lt;p&gt;The various benchmarks show an iterative increase in performance, but not a radical leap, while the main pitch is that it’s a model that offers something just shy of Fable at approximately half the cost.&lt;/p&gt;
-&lt;p&gt;It’s also worth mentioning that Anthropic specifically avoided giving Opus 5 cutting-edge training on cybersecurity tasks, so it lags way behind Fable and Mythos in that regard. Anthropic claims it is relatively good at finding cybersecurity vulnerabilities, but because of decisions made in training the model, it is “substantially behind Mythos 5 on the &lt;em&gt;exploitation&lt;/em&gt; of those vulnerabilities.”&lt;/p&gt;
-&lt;p&gt;As such, Opus 5 doesn’t have all of the same controversial protections that Fable had, such as the policy of keeping data for review for 30 days in case of an incident.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;But this is really a cost story. From one model update to the next subsequent one, we’ve mostly been seeing modest performance improvements—though they look far more dramatic when you look at a whole year of updates. The discourse among software developers and engineering managers right now is mostly around dealing with cost, and there’s real movement in open-weight models, local models, and other alternatives to cutting-edge frontier models.&lt;/p&gt;
-&lt;p&gt;Opus 5 sits at $5 per million input tokens, or $25 per million output tokens—on par with its predecessor, but cheaper than Fable. That said, the recently announced Chinese open-weight model Kimi K3 comes in at just $15 per million output tokens at similar performance, so competition is fierce.&lt;/p&gt;
-&lt;p&gt;Lately, companies like Cursor and Meta have been building “model routers,” systems that automatically select models of varying size and capability from an array of options based on the nature of the prompt. The idea is that you save a lot of tokens (and therefore compute and/or money) by not using something like Fable for every task.&lt;/p&gt;
-&lt;p&gt;Companies like Anthropic are going to have to keep bringing token costs down, or at least (as is the case here) offering more performance for no additional cost, to continue to see the growth they’ve seen. Otherwise, they will start seeing reduced usage as people turn to smaller or open models once those models get good enough to handle the less challenging development tasks.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        Models are improving quickly, but the cheaper options are often good enough.
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="An abstract image of the number 5" class="absolute inset-0 w-full h-full object-cover hidden" height="360" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-640x360.jpg" width="640" /&gt;
-                  &lt;img alt="An abstract image of the number 5" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Opus 5 isn't as remarkable as Mythos, but it's more widely available and much more affordable.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Anthropic
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;&lt;!-- obsidian --&gt;&lt;/p&gt;
-&lt;p&gt;Today, Anthropic rolled out Opus 5, the newest update for the model that has recently become a popular choice for coding and other software development tasks, among other things.&lt;/p&gt;
-&lt;p&gt;While this is a noteworthy bump for Opus, it doesn’t seem to be an Opus 4.5-level breakthrough in agentic coding performance.&lt;/p&gt;
-&lt;p&gt;A chart (made by Anthropic) with various benchmarks like Frontier-Bench and DeepSWE shows Opus 5 performing at about the same level or slightly ahead of the much-ballyhooed capabilities of Anthropic’s Fable model for coding tasks. It ostensibly beats Opus 4.8 and OpenAI’s competing GPT-5.6-Sol in just about every kind of task.&lt;/p&gt;
-&lt;p&gt;The various benchmarks show an iterative increase in performance, but not a radical leap, while the main pitch is that it’s a model that offers something just shy of Fable at approximately half the cost.&lt;/p&gt;
-&lt;p&gt;It’s also worth mentioning that Anthropic specifically avoided giving Opus 5 cutting-edge training on cybersecurity tasks, so it lags way behind Fable and Mythos in that regard. Anthropic claims it is relatively good at finding cybersecurity vulnerabilities, but because of decisions made in training the model, it is “substantially behind Mythos 5 on the &lt;em&gt;exploitation&lt;/em&gt; of those vulnerabilities.”&lt;/p&gt;
-&lt;p&gt;As such, Opus 5 doesn’t have all of the same controversial protections that Fable had, such as the policy of keeping data for review for 30 days in case of an incident.&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;But this is really a cost story. From one model update to the next subsequent one, we’ve mostly been seeing modest performance improvements—though they look far more dramatic when you look at a whole year of updates. The discourse among software developers and engineering managers right now is mostly around dealing with cost, and there’s real movement in open-weight models, local models, and other alternatives to cutting-edge frontier models.&lt;/p&gt;
-&lt;p&gt;Opus 5 sits at $5 per million input tokens, or $25 per million output tokens—on par with its predecessor, but cheaper than Fable. That said, the recently announced Chinese open-weight model Kimi K3 comes in at just $15 per million output tokens at similar performance, so competition is fierce.&lt;/p&gt;
-&lt;p&gt;Lately, companies like Cursor and Meta have been building “model routers,” systems that automatically select models of varying size and capability from an array of options based on the nature of the prompt. The idea is that you save a lot of tokens (and therefore compute and/or money) by not using something like Fable for every task.&lt;/p&gt;
-&lt;p&gt;Companies like Anthropic are going to have to keep bringing token costs down, or at least (as is the case here) offering more performance for no additional cost, to continue to see the growth they’ve seen. Otherwise, they will start seeing reduced usage as people turn to smaller or open models once those models get good enough to handle the less challenging development tasks.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/</guid><pubDate>Fri, 24 Jul 2026 21:05:51 +0000</pubDate></item><item><title>Canadian legislator reads out apparent LLM response in floor speech (AI - Ars Technica)</title><link>https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</link><description>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        “Here’s a more natural, flowing version of that section…”
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="640" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-640x640.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Live shot of an LLM chastising a legislator for reading out what should have been the unstated part of its response.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Anyone who has used the Internet in recent years is probably used to encountering telltale signs of LLM prompting that lazy users sometimes forget to remove from their AI-generated pabulum. But a Canadian legislator took that idea to an embarrassing new level this week, reading an apparent LLM prompt instruction into the record during a floor speech.&lt;/p&gt;
-&lt;p&gt;Bill Oliver, a Progressive Conservative Party member of the legislative assembly of New Brunswick, noted in a speech last month that “One of the dangers associated with creating advocacy offices is that citizens often develop expectations that exceed the powers actually granted to those offices.” He then went on to say out loud that “here’s a more natural, flowing version of that section that reads like a legislative speech rather than a series of short points,” a line with all the hallmarks of an LLM presenting an alternative style option in response to a prompt.&lt;/p&gt;
-&lt;figure class="ars-video ars-video--horizontal"&gt;&lt;div&gt;&lt;div class="relative"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;The odd reading went more or less unnoticed at the time, but video of the remarks started spreading around social media networks like Reddit and Threads earlier this week. In Canada, the snafu is now getting mainstream attention from the likes of the &lt;span class="K6pdKd wtBS9" id="_WtZjap_8JeGj0PEPxOeMKQ_48"&gt;Canadian Broadcasting Corporation&lt;/span&gt; and The Toronto Star, the latter of which called it a sign of “a growing divide in our society: between the elites, who are only too happy to delegate their duties to the Borg; and the masses, who find this objectionable.”&lt;/p&gt;
-
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
-
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Oliver is far from the first politician to blindly read a speech obviously prepared by someone else. He surely isn’t the first politician to rely on an LLM to aid in speech writing, either. But reading an obviously AI-generated non-sequitur aloud in such a public setting—apparently without realizing what was happening in real time—represents a brave new frontier in the annals of embarrassing revelations of AI use.&lt;/p&gt;
-&lt;p&gt;With his speech, Oliver joins a growing trend of professionals whose AI use is revealed in mortifying ways. Lawyers, authors, journalists, and academics have all faced problems when their LLM use has come to light in the recent past, usually when someone noticed obviously hallucinated errors in ostensibly human-written work. No wonder a Duke University study last year found that workers tend to hide their AI use, as colleagues see their work as “lazy” or “replaceable” for using LLMs.&lt;/p&gt;
-
-
-          
-                  &lt;/div&gt;
-
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
-
-
-
-
-
-
-  
-
-
-  
-              &lt;/div&gt;
-
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</description><content:encoded>&lt;header&gt;
-  &lt;div class="dusk:bg-gray-700 my-4 bg-gray-100 pt-2 md:mt-10 md:pt-5 lg:pb-2 lg:pt-7 dark:bg-gray-700"&gt;
-  &lt;div class="mx-auto grid-cols-2 gap-8 md:px-5 lg:grid lg:max-w-5xl lg:px-8 xl:px-0"&gt;
-    &lt;div class="class"&gt;
-      
-
-      
-
-      &lt;p class="text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-lg leading-tight sm:px-5 md:px-0"&gt;
-        “Here’s a more natural, flowing version of that section…”
-      &lt;/p&gt;
-
-              
-          &lt;/div&gt;
-
-    &lt;div class="mt-4 min-h-1 lg:mt-0"&gt;
-              &lt;div class="relative aspect-video overflow-hidden"&gt;
-                      &lt;div class="ars-lightbox"&gt;
-              &lt;div class="ars-lightbox-item"&gt;
-                
-                  &lt;img alt="alt" class="absolute inset-0 w-full h-full object-cover hidden" height="640" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-640x640.jpg" width="640" /&gt;
-                  &lt;img alt="alt" class="intro-image absolute min-w-full min-h-full h-auto object-cover" height="648" src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg" width="1152" /&gt;
-                
-                
-              &lt;/div&gt;
-            &lt;/div&gt;
-          
-        &lt;/div&gt;
-        &lt;div class="px-[15px] sm:px-5 md:px-0"&gt;&lt;div class="caption font-impact dusk:text-gray-300 mb-4 mt-2 inline-flex flex-row items-stretch gap-1 text-base leading-tight text-gray-400 dark:text-gray-300"&gt;
-    &lt;div class="caption-icon bg-[left_top_5px] w-[10px] shrink-0"&gt;&lt;/div&gt;
-    &lt;div class="caption-content"&gt;
-      Live shot of an LLM chastising a legislator for reading out what should have been the unstated part of its response.
-
-              &lt;span class="caption-credit mt-2 text-xs"&gt;
-          Credit:
-
-          
-          Getty Images
-
-                  &lt;/span&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-          &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/header&gt;
-
-
-  
-
-  
-      
-    
-    &lt;div class="my-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
-
-        
-        &lt;div class="post-content post-content-double"&gt;
-                      
-                      
-          &lt;p&gt;Anyone who has used the Internet in recent years is probably used to encountering telltale signs of LLM prompting that lazy users sometimes forget to remove from their AI-generated pabulum. But a Canadian legislator took that idea to an embarrassing new level this week, reading an apparent LLM prompt instruction into the record during a floor speech.&lt;/p&gt;
-&lt;p&gt;Bill Oliver, a Progressive Conservative Party member of the legislative assembly of New Brunswick, noted in a speech last month that “One of the dangers associated with creating advocacy offices is that citizens often develop expectations that exceed the powers actually granted to those offices.” He then went on to say out loud that “here’s a more natural, flowing version of that section that reads like a legislative speech rather than a series of short points,” a line with all the hallmarks of an LLM presenting an alternative style option in response to a prompt.&lt;/p&gt;
-&lt;figure class="ars-video ars-video--horizontal"&gt;&lt;div&gt;&lt;div class="relative"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;The odd reading went more or less unnoticed at the time, but video of the remarks started spreading around social media networks like Reddit and Threads earlier this week. In Canada, the snafu is now getting mainstream attention from the likes of the &lt;span class="K6pdKd wtBS9" id="_WtZjap_8JeGj0PEPxOeMKQ_48"&gt;Canadian Broadcasting Corporation&lt;/span&gt; and The Toronto Star, the latter of which called it a sign of “a growing divide in our society: between the elites, who are only too happy to delegate their duties to the Borg; and the masses, who find this objectionable.”&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Aggregator - Full Text</title><link>https://Tairon861.github.io/ai-news-aggregator/feed.xml</link><description>Recent AI News with Full Content</description><atom:link href="https://Tairon861.github.io/ai-news-aggregator/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 25 Jul 2026 13:38:07 +0000</lastBuildDate><item><title>[NEW] One fallen power line exposed a growing AI data center problem. Here’s how to fix it. (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A power line went down outside of Washington, DC, this week. Normally, the grid would only need a few seconds to recover from such an event. But this one took more than 10 minutes because more than 3 gigawatts of data centers stopped drawing power nearly simultaneously.&lt;/p&gt;
 
-          
-                      &lt;div class="ars-interlude-container in-content-interlude mx-auto max-w-xl"&gt;
-            &lt;/div&gt;
-                  &lt;/div&gt;
+&lt;p class="wp-block-paragraph"&gt;The event caused voltage across the PJM grid to spike from Northern Virginia to Chicago, according to data collected by Ting Labs, a startup that runs an IoT sensor network out of people’s electrical sockets. &lt;/p&gt;
 
-              &lt;/div&gt;
 
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-                    
-        &lt;div class="ad-wrapper with-label is-fullwidth"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--mid-content"&gt;
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-            
-    
-    &lt;div class="mt-2.5 mx-auto px-[15px] sm:px-5 lg:grid lg:max-w-5xl lg:grid-cols-3 lg:gap-6 lg:px-8 xl:px-0"&gt;
-      &lt;div class="relative lg:col-span-2"&gt;
 
-        
-        &lt;div class="post-content post-content-double"&gt;
-          
-          
-&lt;p&gt;Oliver is far from the first politician to blindly read a speech obviously prepared by someone else. He surely isn’t the first politician to rely on an LLM to aid in speech writing, either. But reading an obviously AI-generated non-sequitur aloud in such a public setting—apparently without realizing what was happening in real time—represents a brave new frontier in the annals of embarrassing revelations of AI use.&lt;/p&gt;
-&lt;p&gt;With his speech, Oliver joins a growing trend of professionals whose AI use is revealed in mortifying ways. Lawyers, authors, journalists, and academics have all faced problems when their LLM use has come to light in the recent past, usually when someone noticed obviously hallucinated errors in ostensibly human-written work. No wonder a Duke University study last year found that workers tend to hide their AI use, as colleagues see their work as “lazy” or “replaceable” for using LLMs.&lt;/p&gt;
 
 
-          
-                  &lt;/div&gt;
 
-                  
-          &lt;div class="-mx-2.5 sm:mx-0"&gt;
-  &lt;/div&gt;
 
+&lt;p class="wp-block-paragraph"&gt;The event didn’t cause a blackout, but it did cause lights across the region to flicker. The incident demonstrated the effect that data centers can have on the grid — an outcome that experts believe will become more frequent.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Northern Virginia, which is in PJM’s territory, is home to the highest concentration of data centers in the world. &lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;“It’s the canary in the coal mine,” Ricardo de Azevedo, CTO at ON.Energy, told TechCrunch. These sorts of events involving large loads like data centers are “happening more and more,” he added.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;The event echoes one that happened two years ago, also on PJM’s grid, and it could foreshadow larger events if data centers aren’t built to more elegantly handle disruptions to power supplies. The PJM Interconnection manages grids from New Jersey to Illinois and serves 67 million customers, making it the largest grid operator in the United States.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;When the power line went down this week, it triggered data centers to switch to backup power, and about 3.1 gigawatts of load vanished in about 30 seconds, according to PJM data. The grid appeared to recover somewhat, but a short time later additional loads dropped off. At its peak, PJM’s grid had an extra 3.49 gigawatts of electricity on it. It took another 11 minutes before it stabilized. The disconnected data centers represented around 3% of total demand on PJM at the time, according to Reuters.&lt;/p&gt;
 
-  
 
+&lt;p class="wp-block-paragraph"&gt;A few percent may not sound like much, but the electrical grid needs to operate in a state of near-perfect balance, with supply and demand closely matched. If they don’t, voltages can sag or spike. The grid and devices connected to it can tolerate small fluctuations, but if those fluctuations grow too large, they’ll trigger failsafes within the grid or within individual facilities, causing them to disconnect.&amp;nbsp;&lt;/p&gt;
 
-  
-              &lt;/div&gt;
+&lt;p class="wp-block-paragraph"&gt;When data centers in Northern Virginia sensed the fluctuation caused by the failed power line, they switched to backup power, which removed their load from the grid. As more data centers made the switch, they removed greater amounts of load from the grid. What started as a relatively small drop in supply became an even larger drop in demand, sending supply surging and causing light bulbs to flicker.&amp;nbsp;&lt;/p&gt;
 
-      
-      &lt;div class="dusk:bg-gray-100 hidden min-w-[300px] justify-self-end lg:block dark:bg-gray-50"&gt;
-        
-                  &lt;div class="ad-wrapper is-sticky is-rail"&gt;
-      &lt;div class="ad-wrapper-inner"&gt;
-        &lt;div class="ad ad--rail"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;</content:encoded><guid isPermaLink="false">https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/</guid><pubDate>Fri, 24 Jul 2026 21:25:15 +0000</pubDate></item><item><title>Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/</link><description>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Prentis, a new AI research lab focused on computer use models, co-founded by serial entrepreneur Ritankar Das and tech heavyweights Reid Hoffman and Mark Pincus, is in talks to raise $100 million at a $1 billion valuation, according to two people familiar with the discussions.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Most data centers make decisions in a split second, and those that disconnected this week appear to be no different. When the voltage dip reached them, they all decided to disconnect within a few seconds of each other, Ali Zain Banatwala, senior market models specialist at the Independent Electricity System Operator, told TechCrunch.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Launched in April, Prentis is training models to learn how office workers navigate routine workflows across documents and systems, with the goal of building AI agents that can control computers to automate those tasks.&lt;/p&gt;
 
 
 
 
 
 
+&lt;p class="wp-block-paragraph"&gt;“We need to figure a way for these loads that are located next to each other to sequentially either disconnect or reconnect,” he said. A more orderly process would allow grid operators to develop more robust procedures in advance.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Prentis will ostensibly develop agents tailored to these customers’ needs, such as handling insurance claims and automating customs duty refund exceptions without needing a human to hunt down paperwork.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Alternatively, data centers could be built to absorb disruptions and not turn their backs to them. One startup, ON.Energy, has been working on a product to help data centers — and the grid — ride through events like the one that occurred this week.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The startup has already signed contracts worth up to $50 million with several customers, including healthcare management service organization, a manufacturer, and goods and clothing manufacturers, the two people familiar with the discussions tell TechCrunch. This echoes investor materials obtained by TechCrunch that predict an estimated $75 million annualized run rate by the third quarter of this year. (Prentis’ pitch deck notes those figures reflect estimated annualized value based on a contracted fee equal to 20% of savings realized, not recognized revenue, and are “performance-dependent and subject to final execution.”)&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The company has developed an uninterruptible power supply for an entire data center campus, covering not just servers but also chillers and other equipment. The company essentially hides the data center behind a bank of batteries connected to sophisticated power conversion equipment. All the grid “sees” is one consistent, well-behaved load rather than the peaks and valleys from each individual part of the data center. ON.Energy’s system allows data centers to ramp computing workloads up and down, including AI training, without bothering the grid.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;By its own account, Prentis says its Hive-32B model outperforms rivals, including OpenAI’s GPT-5.4 and Anthropic’s Claude Opus 4.6, on two computer-use benchmarks: WindowsAgentArena, which measures end-to-end task completion on real Windows applications, and ScreenSpot-v2, which tests a model’s ability to locate the right on-screen control.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Perhaps more important, it also means that data centers can absorb power fluctuations from the grid. Rather than disconnecting from the grid, ON.Energy’s system can use any extra power to charge its batteries, and if the flow dips, the system can dispatch power to servers. Plus, it can follow the grid’s lead within milliseconds, preventing sags or surges like the ones that caused this week’s problem for PJM.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;In its pitch deck, the company argues its edge comes from running a much smaller, cheaper model. In fact, it claims roughly 10 times lower cost per task than frontier APIs, saying it’s more economical to deploy across everyday workflows. TechCrunch hasn’t independently verified the company’s benchmark results.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;ON.Energy is currently installing a total of 3 gigawatts worth of its systems at four different data center campuses, de Azevedo said.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The startup is betting that automating everyday office tasks will soon outpace coding as AI’s biggest use case, but it’s a crowded market. Anthropic, Open AI, and Mira Murati’s Thinking Machines Lab are also working on developing AI agents for computer use, one of the sources said. Anthropic has also been acquiring talent in the category directly — it bought the Seattle computer-use startup Vercept earlier this year, folding in its founders and shutting down its product.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Grid managers have also woken up to the problem. &lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;ERCOT, for example, is going to require large loads like data centers to “ride through” disruptions, de Azevedo said. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Prentis didn’t respond to TechCrunch’s request for comment.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The clock is ticking, though. The mass disconnection this week was twice as large as a similar event in 2024, when 60 data centers simultaneously disconnected, pulling 1.5 gigawatts of load from the grid. Back then, data centers accounted for about 6% of PJM’s load, according to Synapse Energy Economics. By 2040, they are expected to make up 24%. If the problem isn’t addressed soon, things could get a lot worse.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801" /&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;A power line went down outside of Washington, DC, this week. Normally, the grid would only need a few seconds to recover from such an event. But this one took more than 10 minutes because more than 3 gigawatts of data centers stopped drawing power nearly simultaneously.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Ritankar Das, CEO of Prentis, is also the founder of Titan, a holding company that builds and operates AI companies. Das, now 31, was UC Berkeley’s youngest University Medalist in more than a century, graduating at 18 with a double major in bioengineering and chemical biology before earning a master’s in biomedical engineering at Oxford.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The event caused voltage across the PJM grid to spike from Northern Virginia to Chicago, according to data collected by Ting Labs, a startup that runs an IoT sensor network out of people’s electrical sockets. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;He founded Titan in 2014 after dropping out of an AI PhD program at Cambridge, where he’d been a Gates Cambridge Scholar. Das has described Titan as an intentional throwback to an old-fashioned holding-company model like Berkshire Hathaway, one that’s funded by its own exits rather than outside limited partners.&lt;/p&gt;
 
 
 
 
 
 
+&lt;p class="wp-block-paragraph"&gt;The event didn’t cause a blackout, but it did cause lights across the region to flicker. The incident demonstrated the effect that data centers can have on the grid — an outcome that experts believe will become more frequent.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Other businesses launched and operated by Titan include AI-powered virtual care provider Tala Health, which raised a $100 million seed round last year, and Forta Health, an autism care startup that raised $55 million led by Insight Partners in 2024. Titan-founded disease prediction company Dascena was acquired by CirrusDx in 2022.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Northern Virginia, which is in PJM’s territory, is home to the highest concentration of data centers in the world. &lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Prentis is a side project of sorts for its two other co-founders. Hoffman, the LinkedIn co-founder and Greylock partner, said last month that he was stepping down from Microsoft’s board after nearly a decade to go “founder mode” on Manas AI, an AI drug-discovery startup he’s also backing; he was an early OpenAI investor and co-founded Inflection AI with Mustafa Suleyman before Microsoft absorbed most of that team in 2024.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“It’s the canary in the coal mine,” Ricardo de Azevedo, CTO at ON.Energy, told TechCrunch. These sorts of events involving large loads like data centers are “happening more and more,” he added.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Pincus, the Zynga founder, now runs the investment firm Reinvent Capital with Hoffman as a senior adviser, and published a memoir, “Life at the Speed of Play,” last month.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The event echoes one that happened two years ago, also on PJM’s grid, and it could foreshadow larger events if data centers aren’t built to more elegantly handle disruptions to power supplies. The PJM Interconnection manages grids from New Jersey to Illinois and serves 67 million customers, making it the largest grid operator in the United States.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Prentis has already hired more than 25 employees, including researchers who previously worked at OpenAI, Google DeepMind, Meta, Tencent, and Alibaba, according to its website.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;&lt;img class="ff-og-image-inserted" src="https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799" /&gt;&lt;/div&gt;&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;Prentis, a new AI research lab focused on computer use models, co-founded by serial entrepreneur Ritankar Das and tech heavyweights Reid Hoffman and Mark Pincus, is in talks to raise $100 million at a $1 billion valuation, according to two people familiar with the discussions.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;When the power line went down this week, it triggered data centers to switch to backup power, and about 3.1 gigawatts of load vanished in about 30 seconds, according to PJM data. The grid appeared to recover somewhat, but a short time later additional loads dropped off. At its peak, PJM’s grid had an extra 3.49 gigawatts of electricity on it. It took another 11 minutes before it stabilized. The disconnected data centers represented around 3% of total demand on PJM at the time, according to Reuters.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Launched in April, Prentis is training models to learn how office workers navigate routine workflows across documents and systems, with the goal of building AI agents that can control computers to automate those tasks.&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;A few percent may not sound like much, but the electrical grid needs to operate in a state of near-perfect balance, with supply and demand closely matched. If they don’t, voltages can sag or spike. The grid and devices connected to it can tolerate small fluctuations, but if those fluctuations grow too large, they’ll trigger failsafes within the grid or within individual facilities, causing them to disconnect.&amp;nbsp;&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;When data centers in Northern Virginia sensed the fluctuation caused by the failed power line, they switched to backup power, which removed their load from the grid. As more data centers made the switch, they removed greater amounts of load from the grid. What started as a relatively small drop in supply became an even larger drop in demand, sending supply surging and causing light bulbs to flicker.&amp;nbsp;&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;Most data centers make decisions in a split second, and those that disconnected this week appear to be no different. When the voltage dip reached them, they all decided to disconnect within a few seconds of each other, Ali Zain Banatwala, senior market models specialist at the Independent Electricity System Operator, told TechCrunch.&amp;nbsp;&lt;/p&gt;
 
 
 
 
-&lt;p class="wp-block-paragraph"&gt;Prentis will ostensibly develop agents tailored to these customers’ needs, such as handling insurance claims and automating customs duty refund exceptions without needing a human to hunt down paperwork.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The startup has already signed contracts worth up to $50 million with several customers, including healthcare management service organization, a manufacturer, and goods and clothing manufacturers, the two people familiar with the discussions tell TechCrunch. This echoes investor materials obtained by TechCrunch that predict an estimated $75 million annualized run rate by the third quarter of this year. (Prentis’ pitch deck notes those figures reflect estimated annualized value based on a contracted fee equal to 20% of savings realized, not recognized revenue, and are “performance-dependent and subject to final execution.”)&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;By its own account, Prentis says its Hive-32B model outperforms rivals, including OpenAI’s GPT-5.4 and Anthropic’s Claude Opus 4.6, on two computer-use benchmarks: WindowsAgentArena, which measures end-to-end task completion on real Windows applications, and ScreenSpot-v2, which tests a model’s ability to locate the right on-screen control.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;In its pitch deck, the company argues its edge comes from running a much smaller, cheaper model. In fact, it claims roughly 10 times lower cost per task than frontier APIs, saying it’s more economical to deploy across everyday workflows. TechCrunch hasn’t independently verified the company’s benchmark results.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;“We need to figure a way for these loads that are located next to each other to sequentially either disconnect or reconnect,” he said. A more orderly process would allow grid operators to develop more robust procedures in advance.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;The startup is betting that automating everyday office tasks will soon outpace coding as AI’s biggest use case, but it’s a crowded market. Anthropic, Open AI, and Mira Murati’s Thinking Machines Lab are also working on developing AI agents for computer use, one of the sources said. Anthropic has also been acquiring talent in the category directly — it bought the Seattle computer-use startup Vercept earlier this year, folding in its founders and shutting down its product.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Alternatively, data centers could be built to absorb disruptions and not turn their backs to them. One startup, ON.Energy, has been working on a product to help data centers — and the grid — ride through events like the one that occurred this week.&amp;nbsp;&lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;The company has developed an uninterruptible power supply for an entire data center campus, covering not just servers but also chillers and other equipment. The company essentially hides the data center behind a bank of batteries connected to sophisticated power conversion equipment. All the grid “sees” is one consistent, well-behaved load rather than the peaks and valleys from each individual part of the data center. ON.Energy’s system allows data centers to ramp computing workloads up and down, including AI training, without bothering the grid.&amp;nbsp;&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Prentis didn’t respond to TechCrunch’s request for comment.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Perhaps more important, it also means that data centers can absorb power fluctuations from the grid. Rather than disconnecting from the grid, ON.Energy’s system can use any extra power to charge its batteries, and if the flow dips, the system can dispatch power to servers. Plus, it can follow the grid’s lead within milliseconds, preventing sags or surges like the ones that caused this week’s problem for PJM.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;Ritankar Das, CEO of Prentis, is also the founder of Titan, a holding company that builds and operates AI companies. Das, now 31, was UC Berkeley’s youngest University Medalist in more than a century, graduating at 18 with a double major in bioengineering and chemical biology before earning a master’s in biomedical engineering at Oxford.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;ON.Energy is currently installing a total of 3 gigawatts worth of its systems at four different data center campuses, de Azevedo said.&lt;/p&gt;
 
-&lt;p class="wp-block-paragraph"&gt;He founded Titan in 2014 after dropping out of an AI PhD program at Cambridge, where he’d been a Gates Cambridge Scholar. Das has described Titan as an intentional throwback to an old-fashioned holding-company model like Berkshire Hathaway, one that’s funded by its own exits rather than outside limited partners.&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Grid managers have also woken up to the problem. &lt;/p&gt;
 
+&lt;p class="wp-block-paragraph"&gt;ERCOT, for example, is going to require large loads like data centers to “ride through” disruptions, de Azevedo said. &lt;/p&gt;
 
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Other businesses launched and operated by Titan include AI-powered virtual care provider Tala Health, which raised a $100 million seed round last year, and Forta Health, an autism care startup that raised $55 million led by Insight Partners in 2024. Titan-founded disease prediction company Dascena was acquired by CirrusDx in 2022.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Prentis is a side project of sorts for its two other co-founders. Hoffman, the LinkedIn co-founder and Greylock partner, said last month that he was stepping down from Microsoft’s board after nearly a decade to go “founder mode” on Manas AI, an AI drug-discovery startup he’s also backing; he was an early OpenAI investor and co-founded Inflection AI with Mustafa Suleyman before Microsoft absorbed most of that team in 2024.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Pincus, the Zynga founder, now runs the investment firm Reinvent Capital with Hoffman as a senior adviser, and published a memoir, “Life at the Speed of Play,” last month.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Prentis has already hired more than 25 employees, including researchers who previously worked at OpenAI, Google DeepMind, Meta, Tencent, and Alibaba, according to its website.&lt;/p&gt;
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/</guid><pubDate>Fri, 24 Jul 2026 22:25:58 +0000</pubDate></item><item><title>I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else (AI News &amp; Artificial Intelligence | TechCrunch)</title><link>https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/</link><description>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI launched its first piece of hardware last week — a fancy little keypad built to pair with ChatGPT. Micro, which was developed in collaboration with specialty keyboard designer Work Louder, is essentially an artisanal workplace novelty that many tech enthusiasts will love and that may leave everyone else a little puzzled.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s entrance into the hardware market hasn’t arrived without drama. Several weeks ago, Apple sued the AI lab and accused it of trade theft — kicking off what’s certain to be a long-simmering legal battle. Meanwhile, news of another smart home product in development at OpenAI has also raised eyebrows, as the supposed device — which is being built to pair with ChatGPT — was reportedly developed by former Apple engineers.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Until the legal battle works itself out and OpenAI’s broader hardware ambitions materialize, the most the startup has to offer is Micro — a funky little keypad clearly engineered to delight the tech industry’s code monkeys.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI sent TechCrunch a Micro test unit. The first big thing you notice when initially handling the keypad is that it’s a sturdy little device — enough so that if the AI accessory thing doesn’t end up working out, it could easily double as a paperweight. The other thing you might notice (and I am not the only one to point this out), is that the packaging — an immaculate white box with a sleek, clean aesthetic — is pretty Apple-coded. Make of that what you will.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The keypad’s layout involves six frosted “agent” keys at the top of the pad, which can be customized to carry out specific tasks within ChatGPT or its agentic coding tool Codex. Below them are six command keys, which can be used to control those programs. You can pair your Micro with your computer either through a Bluetooth connection or a USB cable.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3146565" height="680" src="https://techcrunch.com/wp-content/uploads/2026/07/Micro-rotated.jpeg?w=510" width="510" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Lucas Ropek/TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Perhaps the most convenient thing Micro offers is a button for voice dictation — meaning you simply tell the app what you want done and it will get busy working on your behalf. Just hold down the dictation button and start talking. When you’re done, tap the “send” button next to it to submit your request.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;You can customize your Micro keypad within ChatGPT itself, where a Micro tab allows you to adjust everything from the brightness of the light from the keys to the specific commands and projects you want tied to those keys. &lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Hard-core coders — the device’s actual target audience — haven’t exactly embraced it. Reviews by Redditors have largely negative, with one Reddit user calling it “a prank and not a real product,” and others saying serious coders won’t touch it. A review by the smaller independent outlet Aftermath was even harsher, calling the $230 price tag hard to justify next to cheaper DIY and off-the-shelf alternatives. (The title of that review: “OpenAI’s expensive macropad feels engineered to piss me off specifically.”)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s definitely the case that new users may need some time to figure out how Micro works and what to do with it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Once I figured out how to program the keypad to my liking, I found it was actually pretty fun. You can assign various ChatGPT sessions to specific keys, which then allows you to easily toggle back and forth between all of your various projects. When you combine that with the dictation button, it makes the whole experience considerably more efficient and enjoyable.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But there’s still a learning curve. Micro’s buttons are color-coded. White means an agent is idle, blue means its thinking, green means a task is complete, and red means there’s been an error. You’ll need to memorize that, along with memorizing which specific projects are coded to each key.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The big question is whether the Micro keypad is functionally easier to use than just continuing to work on your laptop. In short: Why would I spend a week learning how to program and operate this thing when I already know how to use my computer’s mouse and keyboard?&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ultimately, your experience with the Micro will depend heavily on how much you use ChatGPT. Since I don’t use AI much day to day, I’m probably not the target audience for it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That said, if you’re a ChatGPT power user, have $230 to spare, and like vintage-looking hardware with clicky buttons, Micro probably isn’t the worst purchase you could make — it might even brighten your day a little.&lt;/p&gt;
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</description><content:encoded>&lt;div&gt;
-&lt;p class="wp-block-paragraph" id="speakable-summary"&gt;OpenAI launched its first piece of hardware last week — a fancy little keypad built to pair with ChatGPT. Micro, which was developed in collaboration with specialty keyboard designer Work Louder, is essentially an artisanal workplace novelty that many tech enthusiasts will love and that may leave everyone else a little puzzled.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI’s entrance into the hardware market hasn’t arrived without drama. Several weeks ago, Apple sued the AI lab and accused it of trade theft — kicking off what’s certain to be a long-simmering legal battle. Meanwhile, news of another smart home product in development at OpenAI has also raised eyebrows, as the supposed device — which is being built to pair with ChatGPT — was reportedly developed by former Apple engineers.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Until the legal battle works itself out and OpenAI’s broader hardware ambitions materialize, the most the startup has to offer is Micro — a funky little keypad clearly engineered to delight the tech industry’s code monkeys.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;OpenAI sent TechCrunch a Micro test unit. The first big thing you notice when initially handling the keypad is that it’s a sturdy little device — enough so that if the AI accessory thing doesn’t end up working out, it could easily double as a paperweight. The other thing you might notice (and I am not the only one to point this out), is that the packaging — an immaculate white box with a sleek, clean aesthetic — is pretty Apple-coded. Make of that what you will.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The keypad’s layout involves six frosted “agent” keys at the top of the pad, which can be customized to carry out specific tasks within ChatGPT or its agentic coding tool Codex. Below them are six command keys, which can be used to control those programs. You can pair your Micro with your computer either through a Bluetooth connection or a USB cable.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img alt="alt" class="wp-image-3146565" height="680" src="https://techcrunch.com/wp-content/uploads/2026/07/Micro-rotated.jpeg?w=510" width="510" /&gt;&lt;figcaption class="wp-element-caption"&gt;&lt;span class="wp-block-image__credits"&gt;&lt;strong&gt;Image Credits:&lt;/strong&gt;Lucas Ropek/TechCrunch&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Perhaps the most convenient thing Micro offers is a button for voice dictation — meaning you simply tell the app what you want done and it will get busy working on your behalf. Just hold down the dictation button and start talking. When you’re done, tap the “send” button next to it to submit your request.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;You can customize your Micro keypad within ChatGPT itself, where a Micro tab allows you to adjust everything from the brightness of the light from the keys to the specific commands and projects you want tied to those keys. &lt;/p&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Hard-core coders — the device’s actual target audience — haven’t exactly embraced it. Reviews by Redditors have largely negative, with one Reddit user calling it “a prank and not a real product,” and others saying serious coders won’t touch it. A review by the smaller independent outlet Aftermath was even harsher, calling the $230 price tag hard to justify next to cheaper DIY and off-the-shelf alternatives. (The title of that review: “OpenAI’s expensive macropad feels engineered to piss me off specifically.”)&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It’s definitely the case that new users may need some time to figure out how Micro works and what to do with it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Once I figured out how to program the keypad to my liking, I found it was actually pretty fun. You can assign various ChatGPT sessions to specific keys, which then allows you to easily toggle back and forth between all of your various projects. When you combine that with the dictation button, it makes the whole experience considerably more efficient and enjoyable.&lt;/p&gt;
-
-
-
-
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But there’s still a learning curve. Micro’s buttons are color-coded. White means an agent is idle, blue means its thinking, green means a task is complete, and red means there’s been an error. You’ll need to memorize that, along with memorizing which specific projects are coded to each key.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The big question is whether the Micro keypad is functionally easier to use than just continuing to work on your laptop. In short: Why would I spend a week learning how to program and operate this thing when I already know how to use my computer’s mouse and keyboard?&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Ultimately, your experience with the Micro will depend heavily on how much you use ChatGPT. Since I don’t use AI much day to day, I’m probably not the target audience for it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That said, if you’re a ChatGPT power user, have $230 to spare, and like vintage-looking hardware with clicky buttons, Micro probably isn’t the worst purchase you could make — it might even brighten your day a little.&lt;/p&gt;
-
-
-&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/</guid><pubDate>Sat, 25 Jul 2026 00:23:11 +0000</pubDate></item></channel></rss>
+&lt;p class="wp-block-paragraph"&gt;The clock is ticking, though. The mass disconnection this week was twice as large as a similar event in 2024, when 60 data centers simultaneously disconnected, pulling 1.5 gigawatts of load from the grid. Back then, data centers accounted for about 6% of PJM’s load, according to Synapse Energy Economics. By 2040, they are expected to make up 24%. If the problem isn’t addressed soon, things could get a lot worse.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.&lt;/em&gt;&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/</guid><pubDate>Sat, 25 Jul 2026 13:05:00 +0000</pubDate></item></channel></rss>
